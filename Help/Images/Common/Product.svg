@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "dtd/svg11.dtd">
+<svg height="45" viewBox="2 1 48 45" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <text x="2" y="33" font-family="Symbol" font-size="23">&#x220F;</text>
+  <text x="10" y="42" font-family="Symbol" font-size="8">=</text>
+  <text x="9" y="14" font-family="Times New Roman" font-size="8">b</text>
+  <text x="16" y="42" font-family="Times New Roman" font-size="8">a</text>
+  <text x="5" y="42" font-family="Times New Roman" font-size="8">x</text>
+  <text x="25" y="31" font-family="Times New Roman" font-size="15">f(x)</text>
+</svg>

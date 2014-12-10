@@ -1,0 +1,107 @@
+;This file was created by Graph (http://www.padowan.dk)
+;Do not change this file from other programs.
+[Graph]
+Version = 4.4.0.385
+MinVersion = 2.5
+OS = Windows XP 5.1 Service Pack 2
+
+[Axes]
+xMin = -1.6
+xMax = 2.3
+xTickUnit = 0.5
+xGridUnit = 0.5
+xShowNumbers = 0
+yMin = -1.5
+yMax = 1.5
+yTickUnit = 0.5
+yGridUnit = 0.5
+yShowNumbers = 0
+AxesColor = 0x00222222
+GridColor = 0x00FF9999
+ShowLegend = 0
+Radian = 1
+AxesStyle = 0
+
+[Relation1]
+Relation = f(x,y)=-0.5
+Style = 4
+Color = 0x000099FF
+Size = 2
+
+[Relation2]
+Relation = f(x,y)=-0.4
+Style = 4
+Color = 0x005050FF
+Size = 2
+
+[Relation3]
+Relation = f(x,y)=-0.3
+Style = 4
+Color = 0x006600FF
+Size = 2
+
+[Relation4]
+Relation = f(x,y)=-0.2
+Style = 4
+Color = 0x000000CC
+Size = 2
+
+[Relation5]
+Relation = f(x,y)=-0.1
+Style = 4
+Color = clBlack
+Size = 2
+
+[Relation6]
+Relation = f(x,y)=0
+Style = 4
+Color = clGreen
+Size = 2
+
+[Relation7]
+Relation = f(x,y)=0.1
+Style = 4
+Color = 0x00FF0066
+Size = 2
+
+[Relation8]
+Relation = f(x,y)=0.3
+Style = 4
+Color = 0x00CC9933
+Size = 2
+
+[Relation9]
+Relation = f(x,y)=0.3875
+Style = 4
+Color = clMoneyGreen
+Size = 2
+
+[Relation10]
+Relation = f(x,y)=0.5
+Style = 4
+Color = 0x00CCCC66
+Size = 2
+
+[Relation11]
+Relation = f(x,y)=0.7
+Style = 4
+Color = 0x00CCCC99
+Size = 2
+
+[Relation12]
+Relation = f(x,y)=0.9
+Style = 4
+Color = 0x00B2B2B2
+Size = 2
+
+[Data]
+TextLabelCount = 0
+FuncCount = 0
+PointSeriesCount = 0
+ShadeCount = 0
+RelationCount = 12
+OleObjectCount = 0
+
+[CustomFunctions]
+f(x,y) = y^2-x^3+x
+

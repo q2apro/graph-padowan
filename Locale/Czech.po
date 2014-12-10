@@ -1,0 +1,3845 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Graph\n"
+"POT-Creation-Date: 2012-11-12 22:11\n"
+"PO-Revision-Date: 2012-11-07 21:21+0100\n"
+"Last-Translator: Michael Bach Ipsen <rosenthall@hotmail.com>\n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: dxgettext 1.2.1\n"
+
+#. Form1..Recent1..Hint
+msgid "Open file: %s"
+msgstr "Otevřít soubor: %s"
+
+#. Form1..PopupMenu1..Tree_ShowInLegend..Caption
+msgid "Show in legend"
+msgstr "Zobrazit v legendě"
+
+#. Form1..PopupMenu1..Tree_ShowInLegend..Hint
+msgid "Check to show the selected item in the legend."
+msgstr "Zaškrtněte, chcete-li zobrazit legendu pro vybranou položku."
+
+#. Form1..PopupMenu1..Tree_Placement..Caption
+#. Form1..PopupMenu3..Label_Placement..Caption
+#. Form1..PopupMenu4..Legend_Placement..Caption
+#. Form21..Caption
+msgid "Placement"
+msgstr "Umístění"
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Above..Caption
+#. Form1..PopupMenu3..Label_Placement..Label_Above..Caption
+msgid "Above x-axis"
+msgstr "Nad osou x"
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Above....Hint
+#. Form1..PopupMenu3..Label_Placement..Label_Above....Hint
+msgid "Place the label directly above the x-axis on the right side of the image."
+msgstr "Umístit popis přímo nad osu x do pravé části hlavního okna."
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Below..Caption
+#. Form1..PopupMenu3..Label_Placement..Label_Below..Caption
+msgid "Below x-axis"
+msgstr "Pod osou x"
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Below....Hint
+#. Form1..PopupMenu3..Label_Placement..Label_Below....Hint
+msgid "Place the label directly below the x-axis on the right side of the image."
+msgstr "Umístit popis přímo pod osu x do pravé části hlavního okna."
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Left..Caption
+#. Form1..PopupMenu3..Label_Placement..Label_Left..Caption
+msgid "Left of y-axis"
+msgstr "Nalevo od osy y"
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Left....Hint
+#. Form1..PopupMenu3..Label_Placement..Label_Left....Hint
+msgid "Place the label to the left of the y-axis at the top of the image."
+msgstr "Umístit popis nalevo od osy y do horní části hlavního okna."
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Right..Caption
+#. Form1..PopupMenu3..Label_Placement..Label_Right..Caption
+msgid "Right of y-axis"
+msgstr "Napravo od osy y"
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Right....Hint
+#. Form1..PopupMenu3..Label_Placement..Label_Right....Hint
+msgid "Place the label to the right of the y-axis at the top of the image."
+msgstr "Umístit popis napravo od osy y do horní části hlavního okna."
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Placement_Custom..Caption
+#. Form1..PopupMenu1..Tree_Rotation..Tree_Rotation_Custom..Caption
+#. Form1..PopupMenu3..Label_Placement..Label_Placement_Custom..Caption
+#. Form1..PopupMenu3..Label_Rotation..Label_Rotation_Custom..Caption
+#. Form11..GroupBox2..ExtColorBox1..CustomName
+#. Form12..GroupBox2..ExtColorBox1..CustomName
+#. Form13..GroupBox1..ExtColorBox1..CustomName
+#. Form14..PageControl1..TabSheet1..GroupBox1..ExtColorBox1..CustomName
+#. Form14..PageControl1..TabSheet1..GroupBox2..ExtColorBox2..CustomName
+#. Form16..PageControl1..TabSheet2..GroupBox3..ExtColorBox1..CustomName
+#. Form3..PageControl1..TabSheet4..GroupBox3..ExtColorBox1..CustomName
+#. Form3..PageControl1..TabSheet4..GroupBox3..ExtColorBox2..CustomName
+#. Form3..PageControl1..TabSheet4..GroupBox3..ExtColorBox3..CustomName
+#. Form5..GroupBox4..GridPanelEx1..ExtColorBox1..CustomName
+#. Form6..ColorBox1..CustomName
+#. Form6..ColorBox2..CustomName
+#. Form7..GroupBox4..ExtColorBox1..CustomName
+msgid "Custom..."
+msgstr "Vlastní..."
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Placement_Custom..Hint
+#. Form1..PopupMenu3..Label_Placement..Label_Placement_Custom..Hint
+msgid "Place the label at a custom position."
+msgstr "Umístit popis do vlastní pozice"
+
+#. Form1..PopupMenu1..Tree_Rotation..Caption
+#. Form1..PopupMenu3..Label_Rotation..Caption
+msgid "Rotation"
+msgstr "Otočení"
+
+#. Form1..PopupMenu1..Tree_Rotation..Tree_Rotation_0..Hint
+#. Form1..PopupMenu3..Label_Rotation..Rotation_0..Hint
+msgid "Show the label with no rotation."
+msgstr "Zobrazit popis bez pootočení."
+
+#. Form1..PopupMenu1..Tree_Rotation..Tree_Rotation_90..Hint
+#. Form1..PopupMenu3..Label_Rotation..Rotation_90..Hint
+msgid "Show the label rotated 90° counter clockwise."
+msgstr "Zobrazit popis otočený o 90° vlevo"
+
+#. Form1..PopupMenu1..Tree_Rotation..Tree_Rotation_180..Hint
+#. Form1..PopupMenu3..Label_Rotation..Rotation_180..Hint
+msgid "Show the label rotated 180°."
+msgstr "Zobrazit popis otočený o 180° "
+
+#. Form1..PopupMenu1..Tree_Rotation..Tree_Rotation_270..Hint
+#. Form1..PopupMenu3..Label_Rotation..Rotation_270..Hint
+msgid "Show the label rotated 270° counter clockwise."
+msgstr "Zobrazit popis otočený o 270° vlevo"
+
+#. Form1..PopupMenu1..Tree_Rotation..Tree_Rotation_Custom..Hint
+#. Form1..PopupMenu3..Label_Rotation..Label_Rotation_Custom..Hint
+msgid "Specify the angle of rotation for the label."
+msgstr "Stanovte úhel pootočení popisu."
+
+#. Form1..PopupMenu1..Tree_Export..Caption
+#. Form14..PopupMenu1..Popup_Export..Caption
+#. Form15..PopupMenu1..Popup1_Export..Caption
+#. Form17..PopupMenu1..Popup_Export..Caption
+msgid "Export to file..."
+msgstr "Export do souboru..."
+
+#. Form1..PopupMenu1..Tree_Export..Hint
+msgid "Export the selected point series to a file."
+msgstr "Exportovat vybranou posloupnosti bodů do souboru."
+
+#. Form1..ActionManager..............Caption
+msgid "Import"
+msgstr "Importovat"
+
+#. Form1..ActionManager..........Caption
+#. Form1..ActionManager..NewAction..Category
+#. Form1..ActionManager..OpenAction..Category
+#. Form1..ActionManager..SaveAction..Category
+#. Form1..ActionManager..SaveAsAction..Category
+#. Form1..ActionManager..SaveCopyAsAction..Category
+#. Form1..ActionManager..SaveAsImageAction..Category
+#. Form1..ActionManager..PrintAction..Category
+#. Form1..ActionManager..ExitAction..Category
+#. Form1..ActionManager..ImportGraphFileAction..Category
+#. Form1..ActionManager..ImportPointSeriesAction..Category
+msgid "File"
+msgstr "Soubor"
+
+#. Form1..ActionManager..........Caption
+#. Form1..ActionManager..UndoAction..Category
+#. Form1..ActionManager..RedoAction..Category
+#. Form1..ActionManager..CutAction..Category
+#. Form1..ActionManager..CopyAction..Category
+#. Form1..ActionManager..PasteAction..Category
+#. Form1..ActionManager..CopyImageAction..Category
+#. Form1..ActionManager..AxesAction..Category
+#. Form1..ActionManager..OptionsAction..Category
+msgid "Edit"
+msgstr "Úpravy"
+
+#. Form1..ActionManager..........Caption
+#. Form1..ActionManager..InsertFunctionAction..Category
+#. Form1..ActionManager..InsertTangentAction..Category
+#. Form1..ActionManager..InsertShadeAction..Category
+#. Form1..ActionManager..InsertPointsAction..Category
+#. Form1..ActionManager..InsertTrendlineAction..Category
+#. Form1..ActionManager..EditAction..Category
+#. Form1..ActionManager..DeleteAction..Category
+#. Form1..ActionManager..InsertDifAction..Category
+#. Form1..ActionManager..InsertLabelAction..Category
+#. Form1..ActionManager..InsertRelationAction..Category
+#. Form1..ActionManager..CustomFunctionsAction..Category
+#. ParFuncFrame..ComboBox1..Text
+#. ParFuncFrame..ComboBox1....Items.Strings
+#. PolFuncFrame..ComboBox1..Text
+#. PolFuncFrame..ComboBox1....Items.Strings
+#. StdFuncFrame..ComboBox1..Text
+#. StdFuncFrame..ComboBox1....Items.Strings
+msgid "Function"
+msgstr "Funkce"
+
+#. Form1..ActionManager..........Caption
+#. Form1..ActionManager..ZoomInAction..Category
+#. Form1..ActionManager..ZoomOutAction..Category
+#. Form1..ActionManager..ZoomWindowAction..Category
+#. Form1..ActionManager..ZoomSquareAction..Category
+#. Form1..ActionManager..ZoomStandardAction..Category
+#. Form1..ActionManager..ZoomFitAction..Category
+#. Form1..ActionManager..ZoomFitAllAction..Category
+#. Form1..ActionManager..ZoomXInAction..Category
+#. Form1..ActionManager..ZoomXOutAction..Category
+#. Form1..ActionManager..ZoomYInAction..Category
+#. Form1..ActionManager..ZoomYOutAction..Category
+msgid "Zoom"
+msgstr "Zobrazení"
+
+#. Form1..ActionManager..........Caption
+#. Form1..ActionManager..PathAction..Category
+#. Form1..ActionManager..AreaAction..Category
+#. Form1..ActionManager..EvalAction..Category
+#. Form1..ActionManager..TableAction..Category
+#. Form1..ActionManager..AnimateAction..Category
+#. Form15..Button2..Caption
+msgid "Calc"
+msgstr "Výpočty"
+
+#. Form1..ActionManager..........Caption
+msgid "Plugins"
+msgstr "Doplňky"
+
+#. Form1..ActionManager..............Caption
+msgid "Internet"
+msgstr "Internet"
+
+#. Form1..ActionManager..........Caption
+#. Form1..ActionManager..ContentsAction..Category
+#. Form1..ActionManager..ListAction..Category
+#. Form1..ActionManager..HomePageAction..Category
+#. Form1..ActionManager..UpdateAction..Category
+#. Form1..ActionManager..AboutAction..Category
+#. Form1..ActionManager..FaqAction..Category
+#. Form1..ActionManager..DonateAction..Category
+#. Form1..ActionManager..TipAction..Category
+#. Form1..ActionManager..SupportAction..Category
+#. Form1..ActionManager..ScriptDocAction..Category
+#. Form11..Button3..Caption
+#. Form12..Button3..Caption
+#. Form13..Button3..Caption
+#. Form14..Button3..Caption
+#. Form15..Button3..Caption
+#. Form16..Button3..Caption
+#. Form17..Button4..Caption
+#. Form19..Button3..Caption
+#. Form3..Button3..Caption
+#. Form4..Button3..Caption
+#. Form5..Button3..Caption
+#. Form6..Button3..Caption
+#. Form7..Button3..Caption
+msgid "Help"
+msgstr "Nápověda"
+
+#. Form1..ActionManager..NewAction..Caption
+msgid "New"
+msgstr "Nový"
+
+#. Form1..ActionManager..NewAction..Hint
+msgid "Create a new coordinate system."
+msgstr "Vytvořit novou soustavu souřadnic."
+
+#. Form1..ActionManager..OpenAction..Caption
+msgid "Open..."
+msgstr "Otevřít..."
+
+#. Form1..ActionManager..OpenAction..Hint
+msgid "Read a coordinate system from a file."
+msgstr "Načíst soustavu souřadnic ze souboru."
+
+#. Form1..ActionManager..SaveAction..Caption
+msgid "Save"
+msgstr "Uložit"
+
+#. Form1..ActionManager..SaveAction..Hint
+msgid "Write the current coordinate system to a file."
+msgstr "Uložit soustavu souřadnic do souboru."
+
+#. Form1..ActionManager..SaveAsAction..Caption
+#. Form20..PopupMenu1..Save1..Caption
+msgid "Save as..."
+msgstr "Uložit jako..."
+
+#. Form1..ActionManager..SaveAsAction..Hint
+msgid "Write the current coordinate system to a file with a new name."
+msgstr "Uložit soustavu souřadnic do souboru pod novým názvem."
+
+#. Form1..ActionManager..SaveCopyAsAction..Caption
+msgid "Save copy as..."
+msgstr "Uložit kopii jako..."
+
+#. Form1..ActionManager..SaveCopyAsAction..Hint
+msgid "Save a copy of the current coordinate system to a file."
+msgstr "Uložit kopii aktuální soustavy souřadnic do souboru."
+
+#. Form1..ActionManager..SaveAsImageAction..Caption
+msgid "Save as image..."
+msgstr "Uložit jako obrázek..."
+
+#. Form1..ActionManager..SaveAsImageAction..Hint
+msgid "Save the shown coordinate system as an image."
+msgstr "Uložit zobrazenou soustavu souřadnic jako obrázek."
+
+#. Form1..ActionManager..PrintAction..Caption
+msgid "Print..."
+msgstr "Tisk..."
+
+#. Form1..ActionManager..PrintAction..Hint
+msgid "Print shown coordinate system."
+msgstr "Vytisknout zobrazenou soustavu souřadnic."
+
+#. Form1..ActionManager..ExitAction..Caption
+msgid "Exit"
+msgstr "Konec"
+
+#. Form1..ActionManager..ExitAction..Hint
+msgid "Quit the program."
+msgstr "Ukončit program."
+
+#. Form1..ActionManager..UndoAction..Caption
+#. Form6..PopupMenu1..Popup_Undo..Caption
+msgid "Undo"
+msgstr "Zpět"
+
+#. Form1..ActionManager..UndoAction..Hint
+msgid "Undo the last action."
+msgstr "Vrátit zpět poslední akci."
+
+#. Form1..ActionManager..RedoAction..Caption
+#. Form6..PopupMenu1..Popup_Redo..Caption
+msgid "Redo"
+msgstr "Znovu"
+
+#. Form1..ActionManager..RedoAction..Hint
+msgid "Redo the last action undone."
+msgstr "Opakovat poslední zrušenou akci."
+
+#. Form1..ActionManager..CutAction..Caption
+#. Form14..PopupMenu1..Popup_Cut..Caption
+#. Form17..PopupMenu1..Popup_Cut..Caption
+#. Form6..PopupMenu1..Popup_Cut..Caption
+msgid "Cut"
+msgstr "Vyjmout"
+
+#. Form1..ActionManager..CutAction..Hint
+msgid "Cut the selected function or point series to the clipboard."
+msgstr "Vyjmout vybranou funkci nebo posloupnost bodů do schránky."
+
+#. Form1..ActionManager..CopyAction..Caption
+#. Form14..PopupMenu1..Popup_Copy..Caption
+#. Form15..PopupMenu1..Popup1_Copy..Caption
+#. Form17..PopupMenu1..Popup_Copy..Caption
+#. Form6..PopupMenu1..Popup_Copy..Caption
+msgid "Copy"
+msgstr "Kopírovat"
+
+#. Form1..ActionManager..CopyAction..Hint
+msgid "Copy the selected function or point series to the clipboard."
+msgstr "Kopírovat vybranou funkci nebo posloupnost bodů do schránky."
+
+#. Form1..ActionManager..PasteAction..Caption
+#. Form14..PopupMenu1..Popup_Paste..Caption
+#. Form17..PopupMenu1..Popup_Paste..Caption
+#. Form6..PopupMenu1..Popup_Paste..Caption
+msgid "Paste"
+msgstr "Vložit"
+
+#. Form1..ActionManager..PasteAction....Hint
+msgid "Paste a function or point series from the clipboard into the coordinate system."
+msgstr "Vložit do soustavy souřadnic funkci nebo posloupnost bodů ze schránky."
+
+#. Form1..ActionManager..CopyImageAction..Caption
+msgid "Copy image"
+msgstr "Kopírovat obrázek"
+
+#. Form1..ActionManager..CopyImageAction..Hint
+msgid "Copy the shown coordinate system to the clipboard."
+msgstr "Kopírovat zobrazenou soustavu souřadnic do schránky."
+
+#. Form1..ActionManager..AxesAction..Caption
+msgid "Axes..."
+msgstr "Osy..."
+
+#. Form1..ActionManager..AxesAction..Hint
+msgid "Edit axes settings."
+msgstr "Upravit nastavení os."
+
+#. Form1..ActionManager..OptionsAction..Caption
+#. Form1..SaveDialogEx1..HelpCaption
+#. Form19..Button4..Caption
+msgid "Options..."
+msgstr "Možnosti..."
+
+#. Form1..ActionManager..OptionsAction..Hint
+msgid "Edit various options for the interface and program features."
+msgstr "Upravit nastavení rozhraní a funkcí programu."
+
+#. Form1..ActionManager..InsertFunctionAction..Caption
+msgid "Insert function..."
+msgstr "Vložit funkci..."
+
+#. Form1..ActionManager..InsertFunctionAction..Hint
+msgid "Insert a new function."
+msgstr "Vložit novou funkci."
+
+#. Form1..ActionManager..InsertTangentAction..Caption
+msgid "Insert tangent/normal..."
+msgstr "Vložit tečnu/kolmici..."
+
+#. Form1..ActionManager..InsertTangentAction..Hint
+msgid "Insert a tangent or normal for the selected function."
+msgstr "Vložit tečnu nebo kolmici k vybrané funkci."
+
+#. Form1..ActionManager..InsertShadeAction..Caption
+msgid "Insert shading..."
+msgstr "Vložit šrafování..."
+
+#. Form1..ActionManager..InsertShadeAction..Hint
+msgid "Add shading to the selected function."
+msgstr "Vložit šrafování vybrané funkce."
+
+#. Form1..ActionManager..InsertPointsAction..Caption
+msgid "Insert point series..."
+msgstr "Vložit posloupnost bodů..."
+
+#. Form1..ActionManager..InsertPointsAction..Hint
+msgid "Insert a point series."
+msgstr "Vložit posloupnost bodů."
+
+#. Form1..ActionManager..InsertTrendlineAction..Caption
+msgid "Insert trendline..."
+msgstr "Vložit regresní křivku..."
+
+#. Form1..ActionManager..InsertTrendlineAction..Hint
+msgid "Insert a curve of best fit for the selected point series."
+msgstr "Vložit křivku, která nejlépe odpovídá vybrané posloupnosti bodů."
+
+#. Form1..ActionManager..EditAction..Caption
+msgid "Edit..."
+msgstr "Upravit..."
+
+#. Form1..ActionManager..EditAction..Hint
+msgid "Edit the selected element: Function, tangent, point series, etc."
+msgstr "Upravit vybranou položku (funkci, tečnu, posloupnost bodů apod.)"
+
+#. Form1..ActionManager..DeleteAction..Caption
+#. Form14..PopupMenu1..Popup_Delete..Caption
+#. Form17..PopupMenu1..Popup_Delete..Caption
+msgid "Delete"
+msgstr "Odstranit"
+
+#. Form1..ActionManager..DeleteAction..Hint
+msgid "Delete the selected function, tangent or point series."
+msgstr "Odstranit vybranou funkci, tečnu nebo posloupnost bodů."
+
+#. Form1..ActionManager..InsertDifAction..Caption
+msgid "Insert f'(x)..."
+msgstr "Vložit f'(x)..."
+
+#. Form1..ActionManager..InsertDifAction..Hint
+msgid "Insert the first derivative of the selected function."
+msgstr "Vložit první derivaci vybrané funkce."
+
+#. Form1..ActionManager..ZoomInAction..Caption
+msgid "In"
+msgstr "Přiblížit"
+
+#. Form1..ActionManager..ZoomInAction..Hint
+msgid "Zoom in. Hold down Shift to zoom with larger steps."
+msgstr "Přiblížit. Přidržet Shift pro přiblížování skokem."
+
+#. Form1..ActionManager..ZoomOutAction..Caption
+msgid "Out"
+msgstr "Oddálit"
+
+#. Form1..ActionManager..ZoomOutAction..Hint
+msgid "Zoom out. Hold down Shift to zoom with larger steps."
+msgstr "Oddálit. Přidržet Shift pro oddalování skokem."
+
+#. Form1..ActionManager..ZoomWindowAction..Caption
+msgid "Window"
+msgstr "Výběr"
+
+#. Form1..ActionManager..ZoomWindowAction..Hint
+msgid "Zoom to user selected window."
+msgstr "Zobrazit uživatelem vybranou oblast."
+
+#. Form1..ActionManager..ZoomSquareAction..Caption
+msgid "Square"
+msgstr "Čtvercové"
+
+#. Form1..ActionManager..ZoomSquareAction....Hint
+msgid "Zoom to scale the axes equally. This will show a plotted circle in its correct relation instead of an ellipse."
+msgstr "Zobrazit osy ve stejném měřítku. Kružnice budou zobrazeny ve správném tvaru, ne jako elipsy."
+
+#. Form1..ActionManager..ZoomStandardAction..Caption
+msgid "Standard"
+msgstr "Standardní"
+
+#. Form1..ActionManager..ZoomStandardAction..Hint
+msgid "Reset the axes to their default settings."
+msgstr "Obnovit výchozí nastavení os."
+
+#. Form1..ActionManager..MoveUpAction..Category
+#. Form1..ActionManager..MoveDownAction..Category
+#. Form1..ActionManager..MoveLeftAction..Category
+#. Form1..ActionManager..MoveRightAction..Category
+#. Form1..ActionManager..MoveAction..Category
+msgid "Move"
+msgstr "Posunout"
+
+#. Form1..ActionManager..MoveUpAction..Caption
+msgid "Move up"
+msgstr "Posunout nahoru"
+
+#. Form1..ActionManager..MoveUpAction....Hint
+msgid "Move the graphing area up along the coordinate system. Hold down Shift to move in larger steps."
+msgstr "Posunout okno nahoru podle soustavy souřadnic. Přidržet Shift pro posunutí skokem."
+
+#. Form1..ActionManager..MoveDownAction..Caption
+msgid "Move down"
+msgstr "Posunout dolů"
+
+#. Form1..ActionManager..MoveDownAction....Hint
+msgid "Move the graphing area down along the coordinate system. Hold down Shift to move in larger steps."
+msgstr "Posunout okno dolů podle soustavy souřadnic. Přidržet Shift pro posunutí skokem."
+
+#. Form1..ActionManager..MoveLeftAction..Caption
+msgid "Move left"
+msgstr "Posunout doleva"
+
+#. Form1..ActionManager..MoveLeftAction....Hint
+msgid "Move the graphing area to the left along the coordinate system. Hold down Shift to move in larger steps."
+msgstr "Posunout okno doleva podle soustavy souřadnic. Přidržet Shift pro posunutí skokem."
+
+#. Form1..ActionManager..MoveRightAction..Caption
+msgid "Move right"
+msgstr "Posunout doprava"
+
+#. Form1..ActionManager..MoveRightAction....Hint
+msgid "Move the graphing area to the right along the coordinate system. Hold down Shift to move in larger steps."
+msgstr "Posunout okno doprava podle soustavy souřadnic. Přidržet Shift pro posunutí skokem."
+
+#. Form1..ActionManager..MoveAction..Caption
+msgid "Move system"
+msgstr "Posunout soustavu"
+
+#. Form1..ActionManager..MoveAction..Hint
+msgid "Move the coordinate system with the mouse."
+msgstr "Posunout soustavu souřadnic pomocí myši."
+
+#. Form1..ActionManager..PathAction..Caption
+msgid "Length of path"
+msgstr "Délka křivky"
+
+#. Form1..ActionManager..PathAction....Hint
+msgid "Calculate the length of path between two given points on the curve."
+msgstr "Vypočítat délku křivky mezi dvěma zadanými body."
+
+#. Form1..ActionManager..AreaAction..Caption
+#. AreaFrame..GridPanel1..Label3..Caption
+msgid "Area"
+msgstr "Obsah oblasti"
+
+#. Form1..ActionManager..AreaAction..Hint
+msgid "Calculate the definite integral over a given interval."
+msgstr "Vypočítat hodnotu určitého integrálu v zadaném intervalu."
+
+#. Form1..ActionManager..EvalAction..Caption
+#. Form9..Caption
+msgid "Evaluate"
+msgstr "Hodnota"
+
+#. Form1..ActionManager..EvalAction..Hint
+msgid "Evaluate or trace the selected function."
+msgstr "Zjistit hodnotu nebo sledovat průběh vybrané funkce."
+
+#. Form1..ActionManager..TableAction..Caption
+msgid "Table"
+msgstr "Tabulka "
+
+#. Form1..ActionManager..TableAction..Hint
+msgid "Show an evaluation table."
+msgstr "Zobrazit tabulku hodnot."
+
+#. Form1..ActionManager..ContentsAction..Caption
+msgid "Contents and index"
+msgstr "Obsah a rejstřík"
+
+#. Form1..ActionManager..ContentsAction..Hint
+msgid "Open help file."
+msgstr "Otevřít soubor nápovědy."
+
+#. Form1..ActionManager..ListAction..Caption
+msgid "List of functions"
+msgstr "Přehled funkcí"
+
+#. Form1..ActionManager..ListAction..Hint
+msgid "Show a list of built-in functions that can be used for graphing."
+msgstr "Zobrazit seznam vestavěných funkcí, které lze použít pro tvorbu grafů."
+
+#. Form1..ActionManager..HomePageAction..Caption
+msgid "Graph web site"
+msgstr "Domovská stránka programu Graph"
+
+#. Form1..ActionManager..HomePageAction..Hint
+msgid "Open the default browser and show the Graph web site."
+msgstr "Otevřít výchozí prohlížeč a zobrazit domovskou stránku programu."
+
+#. Form1..ActionManager..UpdateAction..Caption
+msgid "Check for update"
+msgstr "Zkontrolovat aktualizace"
+
+#. Form1..ActionManager..UpdateAction..Hint
+msgid "Contact the home page to see if a newer version is available."
+msgstr "Zjistit, je-li na domovské stránce k dispozici novější verze programu."
+
+#. Form1..ActionManager..AboutAction..Caption
+#. Form2..Caption
+msgid "About Graph"
+msgstr "O programu Graph"
+
+#. Form1..ActionManager..AboutAction..Hint
+msgid "Show copyright information."
+msgstr "Zobrazit informace o autorských právech."
+
+#. Form1..ActionManager..SeparatorAction..Category
+#. Form1..ActionManager..SeparatorAction..Caption
+msgid "Separator"
+msgstr "Oddělovač"
+
+#. Form1..ActionManager..ZoomFitAction..Caption
+msgid "Fit"
+msgstr "Přizpůsobit"
+
+#. Form1..ActionManager..ZoomFitAction..Hint
+msgid "Zoom to show the selected element."
+msgstr "Zobrazit tak, aby zvolená funkce vyplnila okno."
+
+#. Form1..ActionManager..ZoomFitAllAction..Caption
+msgid "Fit all"
+msgstr "Zobrazit vše"
+
+#. Form1..ActionManager..ZoomFitAllAction..Hint
+msgid "Zoom to show all elements."
+msgstr "Zobrazit tak, aby všechny funkce vyplnily okno."
+
+#. Form1..ActionManager..FaqAction..Caption
+msgid "Frequently Asked Questions"
+msgstr "Často kladené dotazy"
+
+#. Form1..ActionManager..FaqAction..Hint
+msgid "Show a list of frequently asked questions and their answers."
+msgstr "Zobrazit seznam často kladených dotazů a odpovědi na ně."
+
+#. Form1..ActionManager..InsertLabelAction..Caption
+msgid "Insert label..."
+msgstr "Vložit popis..."
+
+#. Form1..ActionManager..InsertLabelAction..Hint
+msgid "Insert a text label."
+msgstr "Vložit popis."
+
+#. Form1..ActionManager..DonateAction..Caption
+msgid "Donate"
+msgstr "Sponzorovat"
+
+#. Form1..ActionManager..DonateAction..Hint
+msgid "Donate money to the project."
+msgstr "Darovat peněžní částku na podporu projektu."
+
+#. Form1..ActionManager..TipAction..Caption
+#. Form10..Caption
+#. Form10..Panel1..LinkLabel1..Caption
+msgid "Tip of the day"
+msgstr "Tip dne"
+
+#. Form1..ActionManager..TipAction..Hint
+msgid "Show tip of the day"
+msgstr "Zobrazit tip dne."
+
+#. Form1..ActionManager..SupportAction..Caption
+msgid "Support"
+msgstr "Podpora"
+
+#. Form1..ActionManager..SupportAction..Hint
+msgid "Open browser with the support page for the program."
+msgstr "Otevřít prohlížeč  a zobrazit stránku podpory programu."
+
+#. Form1..ActionManager..ZoomXInAction..Caption
+msgid "Zoom x-axis in"
+msgstr "Přiblížit osu x"
+
+#. Form1..ActionManager..ZoomXInAction....Hint
+msgid "Zoom in on the x-axis only. Hold down Shift to zoom with larger steps."
+msgstr "Přiblížit jen osu x. Přidržet Shift pro přibližování skokem."
+
+#. Form1..ActionManager..ZoomXOutAction..Caption
+msgid "Zoom x-axis out"
+msgstr "Oddálit osu x"
+
+#. Form1..ActionManager..ZoomXOutAction....Hint
+msgid "Zoom out on the x-axis only. Hold down Shift to zoom with larger steps."
+msgstr "Oddálit jen osu x. Přidržet Shift pro oddalování skokem."
+
+#. Form1..ActionManager..ZoomYInAction..Caption
+msgid "Zoom y-axis in"
+msgstr "Přiblížit osu y"
+
+#. Form1..ActionManager..ZoomYInAction....Hint
+msgid "Zoom in on the y-axis only. Hold down Shift to zoom with larger steps."
+msgstr "Přiblížit jen osu y. Přidržet Shift pro přibližování skokem."
+
+#. Form1..ActionManager..ZoomYOutAction..Caption
+msgid "Zoom y-axis out"
+msgstr "Oddálit osu y"
+
+#. Form1..ActionManager..ZoomYOutAction....Hint
+msgid "Zoom out on the y-axis only. Hold down Shift to zoom with larger steps."
+msgstr "Vzdálit jen osu y. Přidržet Shift pro vzdalování skokem."
+
+#. Form1..ActionManager..InsertRelationAction..Caption
+msgid "Insert relation..."
+msgstr "Vložit vztah..."
+
+#. Form1..ActionManager..InsertRelationAction..Hint
+msgid "Insert a new equation or inequality."
+msgstr "Vložit novou rovnici nebo nerovnici."
+
+#. Form1..ActionManager..CustomFunctionsAction..Caption
+msgid "Custom functions/constants..."
+msgstr "Vlastní fukce/konstanty..."
+
+#. Form1..ActionManager..CustomFunctionsAction..Hint
+msgid "Create custom functions and constants for use in graphs."
+msgstr "Vytvořit vlastní funkce a konstatnty pro použití v grafech."
+
+#. Form1..ActionManager..AnimateAction..Caption
+msgid "Animate..."
+msgstr "Animovat..."
+
+#. Form1..ActionManager..AnimateAction..Hint
+msgid "Create an animation by variating a constant."
+msgstr "Vytvořit animaci s proměnnou hodnotou konstanty."
+
+#. Form1..ActionManager..ImportGraphFileAction..Caption
+msgid "Graph file..."
+msgstr "Soubor programu Graph..."
+
+#. Form1..ActionManager..ImportGraphFileAction..Hint
+msgid "Import a Graph file into the current coordinate system."
+msgstr "Importovat do aktuální soustavy souřadnic soubor programu Graph."
+
+#. Form1..ActionManager..ImportPointSeriesAction..Caption
+msgid "Point series..."
+msgstr "Posloupnost bodů..."
+
+#. Form1..ActionManager..ImportPointSeriesAction..Hint
+msgid "Import point series from a data file."
+msgstr "Importovat posloupnost bodů z datového souboru."
+
+#. Form1..ActionManager..ScriptDocAction..Caption
+msgid "Scripting engine documentation"
+msgstr "Dokumentace skriptovacího jádra."
+
+#. Form1..ActionManager..ScriptDocAction..Hint
+msgid "Show documentation for scripting engine and plugin system."
+msgstr "Ukázat dokumentaci skriptovacího jádra a systému pluginů."
+
+#. Form1..PopupMenu2..ToolBar_Reset..Caption
+msgid "Reset to default"
+msgstr "Obnovit výchozí"
+
+#. Form1..PopupMenu2..ToolBar_Reset..Hint
+msgid "Reset the toolbar icons to the installation default."
+msgstr "Obnovit výchozí nastavení ikon na panelu nástrojů."
+
+#. Form1..PopupMenu2..ToolBar_Customize..Caption
+msgid "Customize toolbar..."
+msgstr "Přizpůsobit panel nástrojů..."
+
+#. Form1..PopupMenu2..ToolBar_Customize..Hint
+msgid "Customize the icons shown on the toolbar."
+msgstr "Přizpůsobit ikony zobrazení na panelu nástrojů."
+
+#. Form1..PopupMenu3..Label_Edit..Caption
+msgid "Edit label..."
+msgstr "Upravit popis..."
+
+#. Form1..PopupMenu3..Label_Edit..Hint
+msgid "Edit the label under the cursor."
+msgstr "Upravit vybraný popis."
+
+#. Form1..PopupMenu3..Label_Delete..Caption
+msgid "Delete label"
+msgstr "Odstranit popis"
+
+#. Form1..PopupMenu3..Label_Delete..Hint
+msgid "Delete the label under the cursor."
+msgstr "Odstranit vybraný popis."
+
+#. Form1..PopupMenu4..Legend_Show..Caption
+#. Form3..PageControl1..TabSheet3..CheckBox15..Caption
+msgid "Show legend"
+msgstr "Zobrazit legendu"
+
+#. Form1..PopupMenu4..Legend_Show..Hint
+#. Form3..PageControl1..TabSheet3..CheckBox15..Hint
+msgid "Select to show a legend in the coordinate system."
+msgstr "Zobrazit legendu soustavy souřadnic."
+
+#. Form1..PopupMenu4..Legend_Font..Caption
+msgid "Font..."
+msgstr "Písmo..."
+
+#. Form1..PopupMenu4..Legend_Font..Hint
+msgid "Change the font of the legend."
+msgstr "Změnit písmo legendy."
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_TopRight..Caption
+#. Form3..PageControl1..TabSheet3..RadioGroup3....Items.Strings
+msgid "Top Right"
+msgstr "Pravý horní roh"
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_TopRight..Hint
+msgid "Show the legend in the upper right corner."
+msgstr "Zobrazit legendu v pravém horním rohu."
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_BottomRight..Caption
+#. Form3..PageControl1..TabSheet3..RadioGroup3....Items.Strings
+msgid "Bottom Right"
+msgstr "Pravý dolní roh"
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_BottomRight..Hint
+msgid "Show the legend in the bottom right corner."
+msgstr "Zobrazit legendu v pravém dolním rohu."
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_TopLeft..Caption
+#. Form3..PageControl1..TabSheet3..RadioGroup3....Items.Strings
+msgid "Top Left"
+msgstr "Levý horní roh"
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_TopLeft..Hint
+msgid "Show the legend in the upper left corner."
+msgstr "Zobrazit legendu v levém horním rohu."
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_BottomLeft..Caption
+#. Form3..PageControl1..TabSheet3..RadioGroup3....Items.Strings
+msgid "Bottom Left"
+msgstr "Levý dolní roh"
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_BottomLeft..Hint
+msgid "Show the legend in the bottom left corner."
+msgstr "Zobrazit legendu v levém dolním rohu."
+
+#. Form10..Button1..Caption
+#. Form15..Button1..Caption
+#. Form19..Button2..Caption
+msgid "Close"
+msgstr "Zavřít"
+
+#. Form10..Button2..Caption
+msgid "Next tip"
+msgstr "Další tip"
+
+#. Form10..Button3..Caption
+msgid "Previous tip"
+msgstr "Předchozí tip"
+
+#. Form10..CheckBox1..Caption
+msgid "Show tips at startup"
+msgstr "Zobrazit tipy při spuštění"
+
+#. Form10..Panel1..Label1..Caption
+msgid "Did you know..."
+msgstr "Víte, že..."
+
+#. Form11..Caption
+msgid "Insert relation"
+msgstr "Vložit vztah"
+
+#. Form11..Label1..Caption
+msgid "Relation:"
+msgstr "Vztah:"
+
+#. Form11..Label2..Caption
+msgid "Constraints:"
+msgstr "Interval:"
+
+#. Form11..Button1..Caption
+#. Form12..Button1..Caption
+#. Form13..Button1..Caption
+#. Form14..Button1..Caption
+#. Form16..Button1..Caption
+#. Form17..Button1..Caption
+#. Form18..Button1..Caption
+#. Form2..Button1..Caption
+#. Form21..TntButton1..Caption
+#. Form3..Button1..Caption
+#. Form4..Button1..Caption
+#. Form5..Button1..Caption
+#. Form6..Button1..Caption
+#. Form7..Button1..Caption
+#. Form8..Button1..Caption
+#. PrintFrm..Button1..Caption
+msgid "OK"
+msgstr "OK"
+
+#. Form11..Button2..Caption
+#. Form12..Button2..Caption
+#. Form13..Button2..Caption
+#. Form14..Button2..Caption
+#. Form15..ProgressForm1..ButtonCaption
+#. Form16..Button2..Caption
+#. Form17..Button2..Caption
+#. Form18..Button2..Caption
+#. Form19..ProgressForm1..ButtonCaption
+#. Form21..TntButton2..Caption
+#. Form3..Button2..Caption
+#. Form4..Button2..Caption
+#. Form5..Button2..Caption
+#. Form6..Button2..Caption
+#. Form7..Button2..Caption
+#. Form8..Button2..Caption
+#. PrintFrm..Button2..Caption
+msgid "Cancel"
+msgstr "Storno"
+
+#. Form11..GroupBox1..Caption
+#. Form12..GroupBox1..Caption
+#. Form5..GroupBox3..Caption
+#. Form7..GroupBox3..Caption
+msgid "Legend text"
+msgstr "Text legendy"
+
+#. Form11..GroupBox1..Label10..Caption
+#. Form12..GroupBox1..Label10..Caption
+#. Form14..Label3..Caption
+#. Form16..PageControl1..TabSheet2..Label12..Caption
+#. Form5..GroupBox3..Label10..Caption
+#. Form7..GroupBox3..Label10..Caption
+msgid "Description:"
+msgstr "Popis:"
+
+#. Form11..GroupBox1..Edit3....Hint
+#. Form5..GroupBox3..Edit7....Hint
+msgid "Write a descriptive text to show in the legend and function list. If empty the formula will be used."
+msgstr "Zadejte popis, který bude zobrazený v legendě a v seznamu funkcí. Nezadáte-li nic, bude použita rovnice."
+
+#. Form11..GroupBox2..Caption
+#. Form16..PageControl1..TabSheet2..GroupBox3..Caption
+#. PrintFrm..GroupBox1..Button3..Caption
+msgid "Properties"
+msgstr "Vlastnosti"
+
+#. Form11..GroupBox2..Label7..Caption
+#. Form13..GroupBox1..Label7..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox1..Label1..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox2..Label5..Caption
+#. Form16..PageControl1..TabSheet2..GroupBox3..Label4..Caption
+msgid "Style:"
+msgstr "Styl:"
+
+#. Form11..GroupBox2..Label9..Caption
+#. Form12..GroupBox2..Label9..Caption
+#. Form13..GroupBox1..Label6..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox1..Label2..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox2..Label6..Caption
+#. Form16..PageControl1..TabSheet2..GroupBox3..Label5..Caption
+#. Form5..GroupBox4..GridPanelEx1..Label9..Caption
+#. Form7..GroupBox4..Label9..Caption
+msgid "Color:"
+msgstr "Barva:"
+
+#. Form11..GroupBox2..Label3..Caption
+#. Form12..GroupBox2..Label8..Caption
+#. Form13..GroupBox1..Label5..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox2..Label7..Caption
+#. Form5..GroupBox4..GridPanelEx1..Label8..Caption
+#. Form7..GroupBox4..Label8..Caption
+msgid "Width:"
+msgstr "Šířka:"
+
+#. Form11..GroupBox2..ShadeSelect1....Hint
+msgid "Select the style used for drawing the inequality. Not used for equations."
+msgstr "Vyberte, jakým stylem budou zobrazovány nerovnosti. Nevztahuje se na rovnice."
+
+#. Form11..GroupBox2..ExtColorBox1..Hint
+msgid "Select the color for drawing the relation."
+msgstr "Vyberte barvu pro zobrazení vztahu."
+
+#. Form11..GroupBox2..Panel1..Edit4....Hint
+msgid "Width in pixels of the equation line or the borderline of the inequality."
+msgstr "Šířka křivky rovnice nebo hranice nerovnice v pixelech."
+
+#. Form11..Edit1..Hint
+msgid "Enter the relation, for example \"x^2+y^2 = 25\" or \"y < sin(x)\""
+msgstr "Zadejte vztah, např. \"x^2+y^2 = 25\" nebo \"y < sin(x)\""
+
+#. Form11..Edit2....Hint
+msgid "Enter constraints for the relation, for example \"x > 0 and y < 5\""
+msgstr "Zadejte omezení pro vztah, např. x > 0 nebo y < 5."
+
+#. Form12..Caption
+msgid "Insert tangent/normal"
+msgstr "Vložit tečnu/kolmici"
+
+#. Form12..Edit1..Hint
+msgid "Value where the tangent/normal will interact with the function."
+msgstr "Souřadnice, ve které se tečna nebo kolmice dotýká funkce nebo ji protíná."
+
+#. Form12..RadioGroup1..Hint
+msgid "Choose if you want a tangent or a normal."
+msgstr "Zvolte, zda chcete vložit tečnu nebo kolmici."
+
+#. Form12..RadioGroup1..Caption
+msgid "Type"
+msgstr "Typ"
+
+#. Form12..RadioGroup1....Items.Strings
+msgid "Tangent"
+msgstr "Tečna"
+
+#. Form12..RadioGroup1....Items.Strings
+msgid "Normal"
+msgstr "Kolmice"
+
+#. Form12..GroupBox1..Edit2....Hint
+#. Form7..GroupBox3..Edit3....Hint
+msgid "Write a descriptive text to show in the legend. If empty the equation will be used."
+msgstr "Zadejte popis, který bude zobrazený v ledendě. Nezadáte-li nic, bude použita rovnice."
+
+#. Form12..GroupBox2..Caption
+#. Form5..GroupBox4..Caption
+#. Form7..GroupBox4..Caption
+msgid "Graph properties"
+msgstr "Vlastnosti grafu"
+
+#. Form12..GroupBox2..Label7..Caption
+#. Form5..GroupBox4..GridPanelEx1..Label7..Caption
+#. Form7..GroupBox4..Label7..Caption
+msgid "Line style:"
+msgstr "Styl čáry:"
+
+#. Form12..GroupBox2..Edit3..Hint
+#. Form13..GroupBox1..Edit2..Hint
+#. Form5..GroupBox4..GridPanelEx1..Panel1..Edit6..Hint
+#. Form7..GroupBox4..Edit4..Hint
+msgid "Width of graph in pixels."
+msgstr "Šířka čáry v pixelech."
+
+#. Form12..GroupBox2..LineSelect1..Hint
+#. Form13..GroupBox1..LineSelect1..Hint
+#. Form5..GroupBox4..GridPanelEx1..LineSelect1..Hint
+#. Form7..GroupBox4..LineSelect1..Hint
+msgid "Choose which line style to use for drawing the graph."
+msgstr "Zvolte styl čáry, kterou bude zobrazen graf."
+
+#. Form12..GroupBox2..ExtColorBox1..Hint
+#. Form13..GroupBox1..ExtColorBox1..Hint
+#. Form5..GroupBox4..GridPanelEx1..ExtColorBox1..Hint
+#. Form7..GroupBox4..ExtColorBox1..Hint
+msgid "Select the color of the graph."
+msgstr "Vyberte barvu čáry."
+
+#. Form12..GroupBox3..Caption
+#. Form5..GroupBox2..Caption
+#. Form7..GroupBox2..Caption
+msgid "Argument range"
+msgstr "Rozsah argumentu"
+
+#. Form12..GroupBox3..Label4..Caption
+#. Form15..Label1..Caption
+#. Form16..PageControl1..TabSheet2..GroupBox1..Label6..Caption
+#. Form16..PageControl1..TabSheet3..GroupBox2..Label8..Caption
+#. Form19..TntGroupBox1..Label2..Caption
+#. Form5..GroupBox2..Label4..Caption
+#. Form7..GroupBox2..Label4..Caption
+#. AreaFrame..GridPanel1..Label1..Caption
+msgid "From:"
+msgstr "Od:"
+
+#. Form12..GroupBox3..Label5..Caption
+#. Form15..Label2..Caption
+#. Form16..PageControl1..TabSheet2..GroupBox1..Label7..Caption
+#. Form16..PageControl1..TabSheet3..GroupBox2..Label9..Caption
+#. Form19..TntGroupBox1..Label3..Caption
+#. Form5..GroupBox2..Label5..Caption
+#. Form7..GroupBox2..Label5..Caption
+#. AreaFrame..GridPanel1..Label2..Caption
+msgid "To:"
+msgstr "Do:"
+
+#. Form12..GroupBox3..Edit4..Hint
+#. Form5..GroupBox2..Edit3..Hint
+#. Form7..GroupBox2..Edit1..Hint
+msgid "Start of range interval for the used variable."
+msgstr "Počátek intervalu pro proměnnou y."
+
+#. Form12..GroupBox3..Edit5..Hint
+#. Form5..GroupBox2..Edit4..Hint
+#. Form7..GroupBox2..Edit2..Hint
+msgid "End of range interval for the used variable."
+msgstr "Konec intervalu pro proměnnou y."
+
+#. Form12..GroupBox5..Caption
+#. Form5..GroupBox5..Caption
+msgid "Endpoints"
+msgstr "Koncové body"
+
+#. Form12..GroupBox5..Label11..Caption
+#. Form5..GroupBox5..Label11..Caption
+msgid "Start:"
+msgstr "Počátek:"
+
+#. Form12..GroupBox5..Label12..Caption
+#. Form5..GroupBox5..Label12..Caption
+msgid "End:"
+msgstr "Konec:"
+
+#. Form12..GroupBox5..ComboBox1....Hint
+#. Form5..GroupBox5..ComboBox2....Hint
+msgid "Select marker to show at the start of the interval. Only used if an argument range is specified."
+msgstr "Vyberte symbol zobrazený na počátku intervalu. Bude zobrazen pouze, pokud byl určen rozsah argumentu."
+
+#. Form12..GroupBox5..ComboBox2....Hint
+#. Form5..GroupBox5..ComboBox3....Hint
+msgid "Select marker to show at the end of the interval. Only used if an argument range is specified."
+msgstr "Vyberte symbol zobrazený na konci intervalu. Bude zobrazen pouze, pokud byl určen rozsah argumentu."
+
+#. Form13..Caption
+msgid "Insert trendline"
+msgstr "Vložte regresní křivku"
+
+#. Form13..GroupBox1..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox2..Caption
+msgid "Line"
+msgstr "Čára"
+
+#. Form13..PageControl1..TabSheet1..Caption
+msgid "Built-in"
+msgstr "Předdefinované"
+
+#. Form13..PageControl1..TabSheet1..Panel1..Image1..Hint
+msgid "Create a linear function: f(x)=ax+b"
+msgstr "Vytvoří lineární funkci: f(x)=ax+b"
+
+#. Form13..PageControl1..TabSheet1..Panel2..Image2..Hint
+msgid "Create a logarithmic function: f(x)=a*ln(x)+b"
+msgstr "Vytvoří logaritmickou funkci: f(x)=a*ln(x)+b"
+
+#. Form13..PageControl1..TabSheet1..Panel3..Image3..Hint
+msgid "Create a polynomial function: f(x)=ax^3+bx^2+cx+d"
+msgstr "Vytvoří polynomickou funkci: f(x)=ax^3+bx^2+cx+d"
+
+#. Form13..PageControl1..TabSheet1..Panel4..Image4..Hint
+msgid "Create a power function: f(x)=ax^b"
+msgstr "Vytvoří mocninnou funkci: f(x)=ax^b"
+
+#. Form13..PageControl1..TabSheet1..Panel5..Image5..Hint
+msgid "Create a exponential function: f(x)=a*b^x"
+msgstr "Vytvoří exponenciální funkci: f(x)=a*b^x"
+
+#. Form13..PageControl1..TabSheet1..StaticText1..Caption
+msgid "Order:"
+msgstr "Řád:"
+
+#. Form13..PageControl1..TabSheet1..RadioButton3..Caption
+msgid "Polynomial"
+msgstr "Polynomická"
+
+#. Form13..PageControl1..TabSheet1..RadioButton2..Caption
+msgid "Logarithmic"
+msgstr "Logaritmická"
+
+#. Form13..PageControl1..TabSheet1..RadioButton1..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox2..ComboBox2....Items.Strings
+msgid "Linear"
+msgstr "Lineární"
+
+#. Form13..PageControl1..TabSheet1..RadioButton4..Caption
+msgid "Power"
+msgstr "Mocninná"
+
+#. Form13..PageControl1..TabSheet1..RadioButton5..Caption
+msgid "Exponential"
+msgstr "Exponenciální"
+
+#. Form13..PageControl1..TabSheet1..Panel6..Image6..Hint
+msgid "Create a moving average as a series of straight lines."
+msgstr "Vytvoří klouzavý průměr jako řadu rovných čar."
+
+#. Form13..PageControl1..TabSheet1..RadioButton6..Caption
+msgid "Moving average"
+msgstr "Klouzavý průměr"
+
+#. Form13..PageControl1..TabSheet1..StaticText2..Caption
+msgid "Period:"
+msgstr "Perioda:"
+
+#. Form13..PageControl1..TabSheet1..Edit4..Hint
+msgid "Determines how many points are used for the average."
+msgstr "Určuje počet bodů, které budou spojené klouzavým průměrem."
+
+#. Form13..PageControl1..TabSheet1..Edit1..Hint
+msgid "The order of the polynomium. For example 2 means a parable."
+msgstr "Řád mnohočlenu. Zadáte-li např. 2, vytvoří se parabola."
+
+#. Form13..PageControl1..TabSheet2..Caption
+msgid "User defined"
+msgstr "Uživatelské"
+
+#. Form13..PageControl1..TabSheet2..Label1..Caption
+msgid "Model:"
+msgstr "Šablona:"
+
+#. Form13..PageControl1..TabSheet2..Button4..Caption
+#. Form8..Caption
+msgid "Add model"
+msgstr "Přidat šablonu"
+
+#. Form13..PageControl1..TabSheet2..Button5..Caption
+msgid "Remove model"
+msgstr "Odebrat šablonu"
+
+#. Form13..PageControl1..TabSheet2..Button6..Caption
+msgid "Edit model"
+msgstr "Upravit šablonu"
+
+#. Form13..PageControl1..TabSheet2..Edit3..Hint
+msgid "Enter a function model to base the trendline on."
+msgstr "Zadejte šablonu funkce, na které bude založena regresní křivka."
+
+#. Form13..CheckBox1....Hint
+#. Form13..Edit5....Hint
+msgid "Type a value in the Intercept box to specify the point where you want the trendline to meet the y-axis. This is only available for linear, polynomial and exponential trendlines."
+msgstr "Do pole Průsečík zadejte hodnotu,ve které bude regresní křivka protínat osu y. Toto pole je k dispozici pouze pro lineární, polynomickou a exponenciální regresní křivku."
+
+#. Form13..CheckBox1..Caption
+msgid "Intercept ="
+msgstr "Průsečík ="
+
+#. Form13..TntPopupMenu1..Popup_Import..Caption
+#. Form14..PopupMenu1..Popup_Import..Caption
+#. Form17..PopupMenu1..Popup_Import..Caption
+msgid "Import from file..."
+msgstr "Import ze souboru..."
+
+#. Form13..TntPopupMenu1..Popup_Import..Hint
+msgid "Import user models from a file."
+msgstr "Importovat vlastní šablony ze souboru."
+
+#. Form13..TntPopupMenu1..Popup_Export..Caption
+msgid "Export all to file..."
+msgstr "Exportovat vše do souboru..."
+
+#. Form13..TntPopupMenu1..Popup_Export..Hint
+msgid "Export user models to a file."
+msgstr "Exportovat vlastní šablony do souboru."
+
+#. Form13..SaveDialog1..Filter
+#. Form13..OpenDialog1..Filter
+msgid "User models [*.ini]|*.ini"
+msgstr "Uživatelské šablony [*.ini]|*.ini"
+
+#. Form14..Caption
+msgid "Insert point series"
+msgstr "Vložit posloupnost bodů"
+
+#. Form14..Edit1....Hint
+msgid "The name of the point series, which is shown in the list to the left of the coordinate system."
+msgstr "Název posloupnosti bodů zobrazený v seznamu vlevo od soustavy souřadnic."
+
+#. Form14..Edit1..Text
+msgid "Series"
+msgstr "Posloupnost"
+
+#. Form14..GroupBox4....Hint
+msgid "This shows a sample of the markers and the lines between the markers."
+msgstr "Náhled použitého symbolu a čáry mezi symboly."
+
+#. Form14..GroupBox4..Caption
+msgid "Sample"
+msgstr "Náhled"
+
+#. Form14..PageControl1..TabSheet1..Caption
+msgid "Markers"
+msgstr "Symboly"
+
+#. Form14..PageControl1..TabSheet1..GroupBox1..Caption
+msgid "Marker"
+msgstr "Symbol"
+
+#. Form14..PageControl1..TabSheet1..GroupBox1..Label4..Caption
+msgid "Size:"
+msgstr "Velikost:"
+
+#. Form14..PageControl1..TabSheet1..GroupBox1..Edit2..Hint
+msgid "Choose the size of the markers."
+msgstr "Zvolte velikost symbolů."
+
+#. Form14..PageControl1..TabSheet1..GroupBox1..PointSelect1..Hint
+msgid "Choose the type of markers to be shown at each point."
+msgstr "Zvolte druh symbolů zobrazený v každém bodě."
+
+#. Form14..PageControl1..TabSheet1..GroupBox1..ExtColorBox1..Hint
+msgid "Choose the color of the markers."
+msgstr "Zvolte barvu symbolů."
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..Label11..Caption
+msgid "Interpolation:"
+msgstr "Interpolace:"
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..LineSelect1....Hint
+msgid "Choose the style of lines to be drawn between the points. You may also choose not to draw any lines."
+msgstr "Zvolte styl čáry zobrazené mezi body. Čára nemusí být zobrazena."
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..Edit3..Hint
+msgid "Choose the width of the lines in pixels."
+msgstr "Zvolte šířku čáry v pixelech."
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..ComboBox2..Hint
+msgid "Select which kind of line to draw between the markers."
+msgstr "Vyberte druh čáry zobrazené mezi symboly."
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..ComboBox2....Items.Strings
+msgid "1D cubic spline"
+msgstr "Jednorozměrný kubický splajn"
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..ComboBox2....Items.Strings
+msgid "2D cubic spline"
+msgstr "Dvojrozměrný kubický splajn"
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..ComboBox2....Items.Strings
+msgid "Half cosine"
+msgstr "Kosinová"
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..ExtColorBox2..Hint
+msgid "Choose the color of the lines."
+msgstr "Zvolte barvu čáry."
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..Caption
+msgid "Labels"
+msgstr "Popisky"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..Label8..Caption
+msgid "Position:"
+msgstr "Umístění:"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..CheckBox2..Hint
+msgid "Check to show the coordinate at each point."
+msgstr "Zaškrtněte, chcete-li zobrazit souřadnice každého bodu."
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..CheckBox2..Caption
+msgid "Show coordinates"
+msgstr "Zobrazit souřadnice"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..BitBtn1..Hint
+msgid "Select the font for the coordinates."
+msgstr "Vyberte písmo použité pro souřadnice."
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1..Hint
+msgid "Select where the coordinates should be shown."
+msgstr "Vyberte umístění souřadnic."
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+msgid "Above"
+msgstr "Nahoře"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+msgid "Below"
+msgstr "Dole"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+msgid "Left"
+msgstr "Vlevo"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+msgid "Right"
+msgstr "Vpravo"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+msgid "Above Left"
+msgstr "Nahoru doleva"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+msgid "Above Right"
+msgstr "Nahoru doprava"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+msgid "Below Left"
+msgstr "Dolu vlevo"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+msgid "Below Right"
+msgstr "Dolu vpravo"
+
+#. Form14..PageControl1..TabSheet1..RadioGroup1....Hint
+msgid "Choose between cartesian (x,y) coordinates and polar (θ,r) coordinates."
+msgstr "Zvolit Kartézské (x,y) nebo polární (θ,r) souřadnice"
+
+#. Form14..PageControl1..TabSheet1..RadioGroup1..Caption
+msgid "Coordinate type"
+msgstr "Typ souřadnic"
+
+#. Form14..PageControl1..TabSheet1..RadioGroup1....Items.Strings
+msgid "Cartesian"
+msgstr "Kartézský"
+
+#. Form14..PageControl1..TabSheet1..RadioGroup1....Items.Strings
+#. Form4..GridPanelEx1..RadioGroup1....Items.Strings
+msgid "Polar"
+msgstr "Polárně"
+
+#. Form14..PageControl1..TabSheet2..Caption
+msgid "Error bars"
+msgstr "Odchylky"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..Caption
+msgid "X error amount"
+msgstr "Odchylky na ose x "
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..CheckBox3..Hint
+msgid "Show horizontal error bars."
+msgstr "Zobrazit vodorovné odchylky."
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..CheckBox3..Caption
+msgid "Show x-bars"
+msgstr "Zobrazit"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..RadioButton1..Hint
+#. Form14..PageControl1..TabSheet2..GroupBox6..RadioButton4..Hint
+msgid "All error bars are the same size."
+msgstr "Všechny odchylky jsou stejně velké."
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..RadioButton1..Caption
+#. Form14..PageControl1..TabSheet2..GroupBox6..RadioButton4..Caption
+msgid "Fixed:"
+msgstr "Absolutní:"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..Edit4..Hint
+#. Form14..PageControl1..TabSheet2..GroupBox6..Edit6..Hint
+msgid "Enter fixed value."
+msgstr "Zadejte absolutní hodnotu odchylky."
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..RadioButton2..Hint
+msgid "All error bars are the same percentage of the x-coordinate."
+msgstr "Všechny odchylky jsou ve stejném poměru k hodnotě na ose x."
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..RadioButton2..Caption
+#. Form14..PageControl1..TabSheet2..GroupBox6..RadioButton5..Caption
+msgid "Relative:"
+msgstr "Relativní:"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..RadioButton3..Hint
+#. Form14..PageControl1..TabSheet2..GroupBox6..RadioButton6..Hint
+msgid "Each error bar is given a custom value."
+msgstr "Každé odchylce je přiřazena lastní hodnota."
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..RadioButton3..Caption
+#. Form14..PageControl1..TabSheet2..GroupBox6..RadioButton6..Caption
+msgid "Custom"
+msgstr "Vlastní"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..Edit5..Hint
+#. Form14..PageControl1..TabSheet2..GroupBox6..Edit7..Hint
+msgid "Enter relative value in percent."
+msgstr "Zadejte hodnotu relativní odchylky v procentech."
+
+#. Form14..PageControl1..TabSheet2..GroupBox6..Caption
+msgid "Y error amount"
+msgstr "Odchylky na ose y "
+
+#. Form14..PageControl1..TabSheet2..GroupBox6..CheckBox4..Hint
+msgid "Show vertical error bars."
+msgstr "Zobrazit svislé odchylky."
+
+#. Form14..PageControl1..TabSheet2..GroupBox6..CheckBox4..Caption
+msgid "Show y-bars"
+msgstr "Zobrazit"
+
+#. Form14..PageControl1..TabSheet2..GroupBox6..RadioButton5..Hint
+msgid "All error bars are the same percentage of the y-coordinate."
+msgstr "Všechny odchylky jsou ve stejném poměru k hodnotě na ose y."
+
+#. Form14..PopupMenu1..Popup_Cut..Hint
+#. Form17..PopupMenu1..Popup_Cut..Hint
+#. Form6..PopupMenu1..Popup_Cut..Hint
+msgid "Cut the selected text to the clipboard."
+msgstr "Vyjmout vybraný text do schránky."
+
+#. Form14..PopupMenu1..Popup_Copy..Hint
+#. Form17..PopupMenu1..Popup_Copy..Hint
+#. Form6..PopupMenu1..Popup_Copy..Hint
+msgid "Copy the selected text to the clipboard."
+msgstr "Zkopírovat vybraný text do schránky."
+
+#. Form14..PopupMenu1..Popup_Paste....Hint
+#. Form17..PopupMenu1..Popup_Paste....Hint
+msgid "Paste text from the clipboard into the grid. Other cells may be overwritten by the text from the clipboard."
+msgstr "Vložit do tabulky text ze schránky. Ostatní buňky mohou být textem ze schránky přepsány."
+
+#. Form14..PopupMenu1..Popup_Delete..Hint
+#. Form17..PopupMenu1..Popup_Delete..Hint
+msgid "Erase selected cells."
+msgstr "Vymazat vybrané buňky."
+
+#. Form14..PopupMenu1..Popup_Insert..Caption
+#. Form17..PopupMenu1..Popup_Insert..Caption
+msgid "Insert row"
+msgstr "Vložit řádek"
+
+#. Form14..PopupMenu1..Popup_Insert..Hint
+#. Form17..PopupMenu1..Popup_Insert..Hint
+msgid "Inserts a row in the grid moving rows below one down."
+msgstr "Vložit do tabulky řádek a posunout další řádky o jeden dolů."
+
+#. Form14..PopupMenu1..Popup_Remove..Caption
+#. Form17..PopupMenu1..Popup_Remove..Caption
+msgid "Remove row"
+msgstr "Odstranit řádek"
+
+#. Form14..PopupMenu1..Popup_Remove..Hint
+#. Form17..PopupMenu1..Popup_Remove..Hint
+msgid "Removes the selected rows."
+msgstr "Odstranit vybrané řádky."
+
+#. Form14..PopupMenu1..Popup_Select..Caption
+#. Form15..PopupMenu1..Popup1_Select..Caption
+#. Form17..PopupMenu1..Popup_Select..Caption
+msgid "Select all"
+msgstr "Vybrat vše"
+
+#. Form14..PopupMenu1..Popup_Select..Hint
+#. Form15..PopupMenu1..Popup1_Select..Hint
+#. Form17..PopupMenu1..Popup_Select..Hint
+msgid "Select all cells."
+msgstr "Vybrat všechny buňky."
+
+#. Form14..PopupMenu1..Popup_Import..Hint
+#. Form17..PopupMenu1..Popup_Import..Hint
+msgid "Import data from a file and place it at the selected cell."
+msgstr "Importovat data ze souboru a umístit je do vybrané buňky."
+
+#. Form14..PopupMenu1..Popup_Export..Hint
+#. Form17..PopupMenu1..Popup_Export..Hint
+msgid "Export selected data to a file."
+msgstr "Exportovat vybraná data do souboru."
+
+#. Form15..Caption
+msgid "Calculate table"
+msgstr "Vytvořit tabulku"
+
+#. Form15..Edit3....Hint
+msgid "The step value. This is the difference between two adjoining values in the defined interval."
+msgstr "Hodnota kroku. Je to rozdíl mezi dvěma sousedními hodnotami v definovaném intervalu."
+
+#. Form15..Edit1..Hint
+msgid "The first x-value in the interval."
+msgstr "Počáteční hodnota intervalu na ose x."
+
+#. Form15..Edit2..Hint
+msgid "The last x-value in the interval."
+msgstr "Konečná hodnota intervalu na ose x."
+
+#. Form15..PopupMenu1..Popup1_Show1..Caption
+#. Form15..PopupMenu1..Popup1_Show2..Caption
+#. Form15..PopupMenu1..Popup1_Show3..Caption
+#. Form15..PopupMenu1..Popup1_Show4..Caption
+#. Form15..PopupMenu1..Popup1_Show5..Caption
+msgid "Show %s"
+msgstr "Zobrazit %s"
+
+#. Form15..PopupMenu1..Popup1_Show1..Hint
+#. Form15..PopupMenu1..Popup1_Show2..Hint
+#. Form15..PopupMenu1..Popup1_Show3..Hint
+#. Form15..PopupMenu1..Popup1_Show4..Hint
+#. Form15..PopupMenu1..Popup1_Show5..Hint
+msgid "Show the %s column in the table."
+msgstr "Zobrazit sloupec %s v tabulce."
+
+#. Form15..PopupMenu1..Popup1_Copy..Hint
+msgid "Copy selected cells to the clipboard."
+msgstr "Kopírovat vybráné buňky ze schránky."
+
+#. Form15..PopupMenu1..Popup1_Export..Hint
+msgid "Saves the selected data to a file."
+msgstr "Uložit vybraná data do souboru."
+
+#. Form15..ProgressForm1..Caption
+msgid "Calculating"
+msgstr "Probíhá výpočet"
+
+#. Form15..SaveDialog1..Filter
+msgid "CSV (Comma delimited) [*.csv]|*.csv|Text [*.txt]|*.txt"
+msgstr "CSV (hodnoty oddělené čárkou) [*.csv]|*.csv|Textové soubory [*.txt]|*.txt"
+
+#. Form16..Caption
+msgid "Insert shading"
+msgstr "Vložit šrafování"
+
+#. Form16..PageControl1..TabSheet1..Caption
+msgid "Shading"
+msgstr "Šrafování"
+
+#. Form16..PageControl1..TabSheet1..Panel1..Image1..Hint
+#. Form16..PageControl1..TabSheet1..RadioButton1..Hint
+msgid "Shades the area between the function and the x-axis."
+msgstr "Vyšrafovat oblast mezi funkcí a osou x."
+
+#. Form16..PageControl1..TabSheet1..Panel2..Image2..Hint
+#. Form16..PageControl1..TabSheet1..RadioButton2..Hint
+msgid "Shades the area below the function."
+msgstr "Vyšrafovat oblast pod funkcí."
+
+#. Form16..PageControl1..TabSheet1..Panel3..Image3..Hint
+#. Form16..PageControl1..TabSheet1..RadioButton3..Hint
+msgid "Shades the area above the function."
+msgstr "Vyšrafovat oblast nad funkcí."
+
+#. Form16..PageControl1..TabSheet1..Panel4..Image4..Hint
+#. Form16..PageControl1..TabSheet1..RadioButton4..Hint
+msgid "Shades the area between the function and the y-axis."
+msgstr "Vyšrafovat oblast mezi funkcí a osou y."
+
+#. Form16..PageControl1..TabSheet1..Panel5..Image5..Hint
+#. Form16..PageControl1..TabSheet1..RadioButton5..Hint
+msgid "Shades the area inside the function."
+msgstr "Vyšrafovat oblast uvnitř funkce."
+
+#. Form16..PageControl1..TabSheet1..Panel6..Image6....Hint
+#. Form16..PageControl1..TabSheet1..RadioButton6....Hint
+msgid "Shades the area between the main function and the function selected in the list to the right."
+msgstr "Vyšrafovat oblast mezi hlavní funkcí a funkcí vybranou ze seznamu vpravo."
+
+#. Form16..PageControl1..TabSheet1..RadioButton3..Caption
+msgid "Above function"
+msgstr "Nad funkcí"
+
+#. Form16..PageControl1..TabSheet1..RadioButton1..Caption
+msgid "Between function and x-axis"
+msgstr "Od funkce k ose x"
+
+#. Form16..PageControl1..TabSheet1..RadioButton6..Caption
+msgid "Between functions"
+msgstr "Mezi funkcemi"
+
+#. Form16..PageControl1..TabSheet1..RadioButton4..Caption
+msgid "Between function and y-axis"
+msgstr "Od funkce k ose y"
+
+#. Form16..PageControl1..TabSheet1..RadioButton5..Caption
+msgid "Inside function"
+msgstr "Uvnitř funkce"
+
+#. Form16..PageControl1..TabSheet1..RadioButton2..Caption
+msgid "Below function"
+msgstr "Pod funkcí"
+
+#. Form16..PageControl1..TabSheet2..Caption
+#. Form20..Panel2..ToolBar1..ToolButton6..Hint
+#. Form4..Caption
+msgid "Options"
+msgstr "Možnosti"
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..Caption
+#. Form19..TntGroupBox1..Caption
+msgid "Range"
+msgstr "Rozsah"
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..Edit1..Hint
+#. Form16..PageControl1..TabSheet3..GroupBox2..Edit3..Hint
+msgid "Coordinate where the shading starts."
+msgstr "Souřadnice, od které začíná šrafování."
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..Edit2..Hint
+#. Form16..PageControl1..TabSheet3..GroupBox2..Edit4..Hint
+msgid "Coordinate where the shading ends."
+msgstr "Souřadnice, u které končí šrafování."
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..CheckBox2..Hint
+#. Form16..PageControl1..TabSheet3..GroupBox2..CheckBox4..Hint
+msgid "Check to increase the end coordinate until intersection."
+msgstr "Zaškrtnutím posunete koncovou souřadnici doprava k nejbližšímu průsečíku."
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..CheckBox2..Caption
+#. Form16..PageControl1..TabSheet3..GroupBox2..CheckBox4..Caption
+msgid "Increase to intersection"
+msgstr "Pokračovat k průsečíku"
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..CheckBox1..Hint
+#. Form16..PageControl1..TabSheet3..GroupBox2..CheckBox3..Hint
+msgid "Check to decrease the start coordinate until intersection."
+msgstr "Zaškrtnutím posunete počáteční souřadnici doleva k nejbližšímu průsečíku."
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..CheckBox1..Caption
+#. Form16..PageControl1..TabSheet3..GroupBox2..CheckBox3..Caption
+msgid "Decrease to intersection"
+msgstr "Začít od průsečíku"
+
+#. Form16..PageControl1..TabSheet2..GroupBox3..ShadeSelect1..Hint
+msgid "Select the style used for the shading."
+msgstr "Vyberte styl šrafování."
+
+#. Form16..PageControl1..TabSheet2..GroupBox3..ExtColorBox1..Hint
+msgid "Select color used for shading."
+msgstr "Vyberte barvu použitou pro šrafování."
+
+#. Form16..PageControl1..TabSheet2..GroupBox3..CheckBox5..Hint
+msgid "Mark the border around the shading."
+msgstr "Označit hranice šrafování čárou."
+
+#. Form16..PageControl1..TabSheet2..GroupBox3..CheckBox5..Caption
+msgid "Mark border"
+msgstr "Označit hranice"
+
+#. Form16..PageControl1..TabSheet2..Edit5..Hint
+msgid "Enter a description to show in the legend."
+msgstr "Zadejte popis zobrazený v legendě."
+
+#. Form16..PageControl1..TabSheet3..Caption
+msgid "2nd function"
+msgstr "Druhá funkce"
+
+#. Form16..PageControl1..TabSheet3..Label11..Caption
+msgid "2nd function:"
+msgstr "Druhá funkce:"
+
+#. Form16..PageControl1..TabSheet3..ListBox1....Hint
+msgid "Select the second function when you want a shading between two functions."
+msgstr "Vyberte druhou funkci, chcete-li šrafovat oblast mezi dvěma funkcemi."
+
+#. Form16..PageControl1..TabSheet3..GroupBox2..Caption
+msgid "Shading range for 2nd function"
+msgstr "Rozsah šrafování pro druhou funkci"
+
+#. Form17..Caption
+msgid "Custom functions/constants"
+msgstr "Vlastní fukce/konstanty"
+
+#. Form17..Button3..Caption
+msgid "Apply"
+msgstr "Použít"
+
+#. Form17..Grid1....TitleCaptions.Strings
+msgid "Names"
+msgstr "Název"
+
+#. Form17..Grid1....TitleCaptions.Strings
+msgid "Definition"
+msgstr "Definice"
+
+#. Form18..Caption
+msgid "Image options"
+msgstr "Možnosti obrázku"
+
+#. Form18..PageControl1..TabSheet1..Caption
+msgid "Size"
+msgstr "Velikost"
+
+#. Form18..PageControl1..TabSheet1..Label1..Caption
+msgid "Image width:"
+msgstr "Šířka obrázku:"
+
+#. Form18..PageControl1..TabSheet1..Label2..Caption
+msgid "Image height:"
+msgstr "Výška obrázku:"
+
+#. Form18..PageControl1..TabSheet1..Edit1..Hint
+msgid "Set a custom image width in pixels."
+msgstr "Nastavit vlastní šířku (pixely) obrázku."
+
+#. Form18..PageControl1..TabSheet1..Edit2..Hint
+msgid "Set a custom image height in pixels."
+msgstr "Nastavit vlastní výšku (pixely) obrázku."
+
+#. Form18..PageControl1..TabSheet1..RadioGroup3....Hint
+msgid "Choose to use the same size as shown on the screen or a custom image size."
+msgstr "Zvolte, chcete-li použít stejnou velikost jako na obrazovce nebo vlastní velikost obrázku."
+
+#. Form18..PageControl1..TabSheet1..RadioGroup3..Caption
+msgid "Image size"
+msgstr "Velikost obrázku"
+
+#. Form18..PageControl1..TabSheet1..RadioGroup3....Items.Strings
+msgid "Screen size"
+msgstr "Velikost obrazovky"
+
+#. Form18..PageControl1..TabSheet1..RadioGroup3....Items.Strings
+msgid "Custom size"
+msgstr "Vlastní velikost"
+
+#. Form18..PageControl1..TabSheet2..RadioGroup1....Hint
+msgid "Progressive encoding allows viewers to see a rough copy of the image while it is downloaded."
+msgstr "Progresivní kódování umožňuje zobrazení hrubého náhledu obrázku při jeho načítání."
+
+#. Form18..PageControl1..TabSheet2..RadioGroup1..Caption
+msgid "Encoding"
+msgstr "Kódování"
+
+#. Form18..PageControl1..TabSheet2..RadioGroup1....Items.Strings
+msgid "Sequential"
+msgstr "Následný"
+
+#. Form18..PageControl1..TabSheet2..RadioGroup1....Items.Strings
+msgid "Progressive"
+msgstr "Progresivní"
+
+#. Form18..PageControl1..TabSheet2..GroupBox1..Hint
+msgid "Select a compression quality."
+msgstr "Vyberte úroveň komprese."
+
+#. Form18..PageControl1..TabSheet2..GroupBox1..Caption
+msgid "Quality"
+msgstr "Kvalita"
+
+#. Form18..PageControl1..TabSheet3..Label3..Caption
+msgid "Paper size:"
+msgstr "Velikost papíru:"
+
+#. Form18..PageControl1..TabSheet3..RadioGroup2..Hint
+#. PrintFrm..RadioGroup1..Hint
+msgid "Choose paper orientation."
+msgstr "Zvolte orientaci papíru."
+
+#. Form18..PageControl1..TabSheet3..RadioGroup2..Caption
+#. PrintFrm..RadioGroup1..Caption
+msgid "Orientation"
+msgstr "Orientace"
+
+#. Form18..PageControl1..TabSheet3..RadioGroup2....Items.Strings
+#. PrintFrm..RadioGroup1....Items.Strings
+msgid "Portrait"
+msgstr "Na výšku"
+
+#. Form18..PageControl1..TabSheet3..RadioGroup2....Items.Strings
+#. PrintFrm..RadioGroup1....Items.Strings
+msgid "Landscape"
+msgstr "Na šířku"
+
+#. Form18..PageControl1..TabSheet3..ComboBox1..Hint
+msgid "Choose paper size to use."
+msgstr "Zvolte použitou velikost papíru."
+
+#. Form18..PageControl1..TabSheet3..ComboBox1....Items.Strings
+msgid "Letter"
+msgstr "Znak"
+
+#. Form18..PageControl1..TabSheet3..ComboBox1....Items.Strings
+msgid "Ledger"
+msgstr "Pořadač"
+
+#. Form18..PageControl1..TabSheet3..ComboBox1....Items.Strings
+msgid "Legal"
+msgstr "Přípustný"
+
+#. Form18..CheckBox1..Hint
+#. Form3..CheckBox16..Hint
+msgid "Select this to use these settings as defaults in the future."
+msgstr "Vyberte, chcete-li příště toto nastavení použít jako výchozí."
+
+#. Form18..CheckBox1..Caption
+#. Form3..CheckBox16..Caption
+msgid "Save as default"
+msgstr "Uložit jako výchozí"
+
+#. Form19..Caption
+#. Form19..Button1..Caption
+msgid "Animate"
+msgstr "Animovat"
+
+#. Form19..Label1..Caption
+msgid "Constant:"
+msgstr "Konstanta:"
+
+#. Form19..ComboBox1..Hint
+msgid "Choose a constant to change between each frame."
+msgstr "Zvolte konstantu, která se v každém snímku změní."
+
+#. Form19..TntGroupBox1..Label4..Caption
+msgid "Step:"
+msgstr "Krok:"
+
+#. Form19..TntGroupBox1..Edit1..Hint
+msgid "The first value of the constant."
+msgstr "První hodnota konstanty."
+
+#. Form19..TntGroupBox1..Edit2..Hint
+msgid "The last value of the constant."
+msgstr "Poslední hodnota konstanty."
+
+#. Form19..TntGroupBox1..Edit3..Hint
+msgid "The chosen constant is changed by this value between each frame."
+msgstr "Zvolená konstanta se mění v každém snímku o tuto hodnotu."
+
+#. Form19..TntGroupBox2..Caption
+msgid "Frame options"
+msgstr "Možnosti obrázku"
+
+#. Form19..TntGroupBox2..Label5..Caption
+msgid "Frame width:"
+msgstr "Šířka obrázku:"
+
+#. Form19..TntGroupBox2..Label6..Caption
+msgid "Frame height:"
+msgstr "Výška obrázku:"
+
+#. Form19..TntGroupBox2..Label7..Caption
+msgid "Frames/second:"
+msgstr "Snímků/sekundu:"
+
+#. Form19..TntGroupBox2..Edit4..Hint
+msgid "Width of each frame, in pixels."
+msgstr "Šířka každého obrázku v pixelech."
+
+#. Form19..TntGroupBox2..Edit5..Hint
+msgid "Height of each frame, in pixels."
+msgstr "Výška každého obrázku v pixelech."
+
+#. Form19..TntGroupBox2..Edit6..Hint
+msgid "Number of frames per second used when the animation is played."
+msgstr "Počet snímků za sekundu zobrazených při přehrávání animace."
+
+#. Form19..ProgressForm1..Caption
+msgid "Working"
+msgstr "Pracuji"
+
+#. Form2..Panel1..Version..Caption
+msgid "Version %s"
+msgstr "Verze %s"
+
+#. Form2..Panel1..Label3..Caption
+msgid "Build %s"
+msgstr "Sestavení %s"
+
+#. Form2..Panel1..Comments....Caption
+msgid "This is free software, and you are welcome to redistribute it under the terms in the <a href=\"%s\">GNU General Public License</a> version 2. Please send bug reports and suggestions to the programmer."
+msgstr "Tento program je freeware a lze jej šířit podle podmínek licence GNU General Public License verze 2. Informace o chybách a návrhy zasílejte autorovi programu."
+
+#. Form2..Panel1..LinkLabel1....Caption
+msgid "The newest version as well as the source code are available at: %s"
+msgstr "Nejnovější verze a zdrojový kód programu jsou k dispozici na adrese: %s"
+
+#. Form2..Panel1..LinkLabel2..Caption
+msgid "Email: %s"
+msgstr "E-mail: %s"
+
+#. Form2..Panel1..LinkLabel3..Caption
+msgid "<Language> translation by <Translator>"
+msgstr ""
+"Český překlad: Martin Stružský, Pavlína Krausová\n"
+"Web: <a href=\"http://soustruh.atlasweb.cz\">http://soustruh.atlasweb.cz</a>\n"
+"E-mail: <a href=\"mailto:struzsky.m@gmail.com\">struzsky.m@gmail.com</a>"
+
+#. Form20..Caption
+msgid "Animation"
+msgstr "Animace"
+
+#. Form20..Panel2..ToolBar1..ToolButton1..Hint
+msgid "Play"
+msgstr "Přehrát"
+
+#. Form20..Panel2..ToolBar1..ToolButton2..Hint
+msgid "Pause"
+msgstr "Pozastavit"
+
+#. Form20..Panel2..ToolBar1..ToolButton3..Hint
+msgid "Stop"
+msgstr "Zastavit"
+
+#. Form20..Panel2..ToolBar1..ToolButton4..Hint
+msgid "Back"
+msgstr "Zpět"
+
+#. Form20..Panel2..ToolBar1..ToolButton5..Hint
+msgid "Step"
+msgstr "Vpřed"
+
+#. Form20..SaveDialog1..Filter
+msgid "Audio Video Interleave [*.avi]|*.avi"
+msgstr "Audio-Video soubor [*.avi]|*.avi "
+
+#. Form20..PopupMenu1..Speed1..Caption
+msgid "Speed"
+msgstr "Rychlost"
+
+#. Form20..PopupMenu1..Speed1..N101..Hint
+#. Form20..PopupMenu1..Speed1..N501..Hint
+#. Form20..PopupMenu1..Speed1..N1001..Hint
+#. Form20..PopupMenu1..Speed1..N1501..Hint
+#. Form20..PopupMenu1..Speed1..N2001..Hint
+#. Form20..PopupMenu1..Speed1..N10001..Hint
+msgid "Change the speed used to play the animation."
+msgstr "Změnit rychlost přehrávání animace"
+
+#. Form20..PopupMenu1..Repeat1..Caption
+msgid "Repeat"
+msgstr "Opakovat"
+
+#. Form20..PopupMenu1..Repeat1..Hint
+msgid "Repeat playing the animation until manually stopped."
+msgstr "Opakovat přehrávání animace až do manuálního ukončení"
+
+#. Form20..PopupMenu1..Reverse1..Caption
+msgid "Auto reverse"
+msgstr "Automatické přehrání zpět"
+
+#. Form20..PopupMenu1..Reverse1....Hint
+msgid "Play backwards when the end of the animation is reached. This is most useful in combination with the \"Repeat\" command."
+msgstr "Přehrát pozpátku po dosažení konce animace. Je to nejužitečnější v kombinaci s příkazem \"Opakovat\"."
+
+#. Form20..PopupMenu1..Save1..Hint
+msgid "Save the animation to a file."
+msgstr "Uložit animaci do souboru."
+
+#. Form20..PopupMenu1..Saveimageas1..Caption
+msgid "Save frame..."
+msgstr "Uložit snímek..."
+
+#. Form20..PopupMenu1..Saveimageas1..Hint
+msgid "Save the shown frame to an image file."
+msgstr "Uložit zobrazený snímek jako soubor obrázku."
+
+#. Form20..PopupMenu1..Saveimagesequence1..Caption
+msgid "Save all frames..."
+msgstr "Uložit všechny snímky..."
+
+#. Form20..PopupMenu1..Saveimagesequence1....Hint
+msgid "Save all frames in the animation to image files. This will create as many files as there are frames in the animation."
+msgstr "Uložit všechny snímky animace do obrazových souborů. Tím se vytvoří tolik souborů, kolik je snímků v animaci."
+
+#. Form21..Label1..Caption
+msgid "Corner:"
+msgstr "Roh:"
+
+#. Form21..ComboBox1..Hint
+msgid "Choose which corner of the label should be locked."
+msgstr "Zvolte, který roh legendy bude krajní."
+
+#. Form21..ComboBox1....Items.Strings
+msgid "Upper Left"
+msgstr "Levý horní roh"
+
+#. Form21..ComboBox1....Items.Strings
+msgid "Upper Right"
+msgstr "Pravý horní roh"
+
+#. Form21..ComboBox1....Items.Strings
+msgid "Lower Left"
+msgstr "Levý dolní roh"
+
+#. Form21..ComboBox1....Items.Strings
+msgid "Lower Right"
+msgstr "Pravý dolní roh"
+
+#. Form21..Edit1..Hint
+#. Form21..Edit2..Hint
+msgid "Enter a coordinate to lock label at."
+msgstr "Zadejte souřadnici, ke které umístit popis."
+
+#. Form22..Caption
+msgid "Python interpreter"
+msgstr "Interpret Pythonu"
+
+#. Form22..PopupMenu1..Clear1..Caption
+msgid "Clear"
+msgstr "Vymazat"
+
+#. Form3..Caption
+msgid "Edit axes"
+msgstr "Osy"
+
+#. Form3..PageControl1..TabSheet1..Caption
+#. ParFuncFrame..ComboBox1....Items.Strings
+#. PolFuncFrame..ComboBox1....Items.Strings
+#. StdFuncFrame..ComboBox1....Items.Strings
+msgid "x-axis"
+msgstr "Osa x"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Label1..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..Label5..Caption
+msgid "Minimum:"
+msgstr "Minimum:"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Edit1..Hint
+msgid "Minimum x-value."
+msgstr "Nejmenší hodnota na ose x."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Label2..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..Label6..Caption
+msgid "Maximum:"
+msgstr "Maximum:"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Edit2..Hint
+msgid "Maximum x-value."
+msgstr "Největší hodnota na ose x."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Label3..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..Label7..Caption
+msgid "Tick unit:"
+msgstr "Vzdálenost značek:"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Edit3..Hint
+msgid "Units between ticks on the x-axis."
+msgstr "Vzdálenost značek na ose x."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Label14..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..Label9..Caption
+msgid "Grid unit:"
+msgstr "Jednotka mřížky:"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Edit4..Hint
+msgid "Units between the grid lines perpendicular to the x-axis."
+msgstr "Vzdálenost mezi čárami mřížky kolmými na osu x."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox4..Hint
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox11..Hint
+msgid "Determine the tick unit automatically."
+msgstr "Automaticky určit vzdálenost značek."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox4..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox11..Caption
+msgid "Auto tick"
+msgstr "Automatická"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox6..Hint
+msgid "Show tick marks on the x-axis."
+msgstr "Zobrazit značky na ose x."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox6..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox13..Caption
+msgid "Show ticks"
+msgstr "Zobrazit značky"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox5..Hint
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox12..Hint
+msgid "Set the grid unit to the same as the tick unit."
+msgstr "Nastavit jednotku mřížky stejnou jako vzdálenost značek."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox5..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox12..Caption
+msgid "Auto grid"
+msgstr "Automatická"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox7..Hint
+msgid "Show vertical grid lines."
+msgstr "Zobrazit svislé čáry mřížky."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox7..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox14..Caption
+msgid "Show grid"
+msgstr "Zobrazit mřížku"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Panel1..CheckBox3....Hint
+msgid "Show the label at the right side of the graphing area, above the x-axis."
+msgstr "Zobrazit popis na pravé straně hlavního okna nad osou x."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Panel1..CheckBox3..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..Panel3..CheckBox10..Caption
+msgid "Label:"
+msgstr "Popis:"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Panel1..Edit5..Hint
+#. Form3..PageControl1..TabSheet2..GridPanel2..Panel3..Edit11..Hint
+msgid "Edit the label for the axis here."
+msgstr "Zadejte popis osy."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Panel2..Label4..Caption
+msgid "The x-axis cross at y="
+msgstr "Průsečík s osou y v bodě y="
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Panel2..Edit6..Hint
+msgid "The x-axis will intersect with the y-axis at this value."
+msgstr "V tomto bodě bude osa x protínat osu y."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox1..Hint
+msgid "Use logarithmic scale on the x-axis."
+msgstr "Použít na ose x logaritmické měřítko."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox1..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox8..Caption
+msgid "Logarithmic scale"
+msgstr "Logaritmicky"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox2..Hint
+msgid "Show units on the x-axis."
+msgstr "Zobrazit čísla na ose x."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox2..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox9..Caption
+msgid "Show numbers"
+msgstr "Zobrazit čísla"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox17..Hint
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox18..Hint
+msgid "Show units on the selected axis as a fraction multiplied by pi."
+msgstr "Zobrazit jednotky na vybrané ose jako zlomek vynásobený číslem pí."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox17..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox18..Caption
+msgid "Show as a multiple of π"
+msgstr "Zobrazit jako násobek π"
+
+#. Form3..PageControl1..TabSheet2..Caption
+#. ParFuncFrame..ComboBox1....Items.Strings
+#. PolFuncFrame..ComboBox1....Items.Strings
+msgid "y-axis"
+msgstr "Osa y"
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Edit7..Hint
+msgid "Minimum y-value."
+msgstr "Nejmenší hodnota na ose y."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Edit8..Hint
+msgid "Maximum y-value."
+msgstr "Největší hodnota na ose y."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Edit9..Hint
+msgid "Units between ticks on the y-axis."
+msgstr "Vzdálenost značek na ose y."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Edit10..Hint
+msgid "Units between the grid lines perpendicular to the y-axis."
+msgstr "Vzdálenost mezi čárami mřížky kolmými na osu y."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox13..Hint
+msgid "Show tick marks on the y-axis."
+msgstr "Zobrazit značky na ose y."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox14..Hint
+msgid "Show horizontal grid lines."
+msgstr "Zobrazit vodorovné čáry mřížky."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Panel3..CheckBox10....Hint
+msgid "Show the label at the top of the graphing area, to the right of the y-axis."
+msgstr "Zobrazit popis v horní části hlavního okna napravo od osy y."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Panel4..Label8..Caption
+msgid "The y-axis cross at x="
+msgstr "Průsečík s osou x v bodě x="
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Panel4..Edit12..Hint
+msgid "The y-axis will intersect with the x-axis at this value."
+msgstr "V tomto bodě bude osa y protínat osu x."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox8..Hint
+msgid "Use logarithmic scale for the y-axis."
+msgstr "Použít logaritmické měřítko na ose y."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox9..Hint
+msgid "Show units on the y-axis."
+msgstr "Zobrazit čísla na ose y."
+
+#. Form3..PageControl1..TabSheet3..Caption
+msgid "Settings"
+msgstr "Nastavení"
+
+#. Form3..PageControl1..TabSheet3..Label16..Caption
+msgid "Title:"
+msgstr "Název:"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup1....Hint
+msgid "Choose if you want to show the axes, and if you want to show them crossed or at the left and bottom of the image."
+msgstr "Zvolte, chcete-li zobrazit osy protnuté uprostřed nebo vlevo dole nebo je nechcete zobrazit vůbec."
+
+#. Form3..PageControl1..TabSheet3..RadioGroup1..Caption
+msgid "Axes style"
+msgstr "Zobrazení os"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup1....Items.Strings
+msgid "None"
+msgstr "Žádné"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup1....Items.Strings
+msgid "Crossed"
+msgstr "Uprostřed"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup1....Items.Strings
+msgid "Boxed"
+msgstr "Vlevo dole"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup2....Hint
+msgid "Choose if trigonometric functions should calculate in radians or degrees."
+msgstr "Zvolte, zda mají trigonometrické funkce počítat v radiánech nebo ve stupních."
+
+#. Form3..PageControl1..TabSheet3..RadioGroup2..Caption
+msgid "Trigonometry"
+msgstr "Trigonometrie"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup2....Items.Strings
+msgid "Radian"
+msgstr "Radiány"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup2....Items.Strings
+msgid "Degree"
+msgstr "Stupně"
+
+#. Form3..PageControl1..TabSheet3..Edit13..Hint
+msgid "Enter a title to show above the coordinate system."
+msgstr "Zadejte název grafu zobrazený nad soustavou souřadnic."
+
+#. Form3..PageControl1..TabSheet3..BitBtn1..Hint
+msgid "Select the font for the title."
+msgstr "Vyberte písmo názvu."
+
+#. Form3..PageControl1..TabSheet3..RadioGroup3..Hint
+msgid "Choose where the legend should be placed."
+msgstr "Zvolte, kde bude umístěna legenda."
+
+#. Form3..PageControl1..TabSheet3..RadioGroup3..Caption
+msgid "Legend placement"
+msgstr "Umístění legendy"
+
+#. Form3..PageControl1..TabSheet3..CheckBox19....Hint
+msgid "Check this to use complex numbers for calculations. Notice that this will slow graphing down."
+msgstr "Toto políčko zaškrtněte, chcete-li pro výpočty použít komplexní čísla. Pamatujte, že tato funkce zpomalí práci s grafy."
+
+#. Form3..PageControl1..TabSheet3..CheckBox19..Caption
+msgid "Calculate with complex numbers"
+msgstr "Počítat s komplexními čísly"
+
+#. Form3..PageControl1..TabSheet4..Caption
+msgid "Font and color"
+msgstr "Písma a barvy"
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..Caption
+msgid "Colors"
+msgstr "Barvy"
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..Label17..Caption
+msgid "Grid color:"
+msgstr "Barva mřížky:"
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..Label18..Caption
+msgid "Axes color:"
+msgstr "Barva os:"
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..Label19..Caption
+#. Form6..Label4..Caption
+msgid "Background color:"
+msgstr "Barva pozadí:"
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..ExtColorBox1..Hint
+msgid "Select the color of the image background."
+msgstr "Vyberte barvu pozadí grafu."
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..ExtColorBox2..Hint
+msgid "Select the color of the axes."
+msgstr "Vyberte barvu os."
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..ExtColorBox3..Hint
+msgid "Select the color of the grid lines."
+msgstr "Vyberte barvu čar mřížky."
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..Caption
+msgid "Fonts"
+msgstr "Písma"
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..Label20..Caption
+msgid "Number font:"
+msgstr "Písmo čísel:"
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..Label21..Caption
+msgid "Label font:"
+msgstr "Písmo popisů:"
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..Label10..Caption
+msgid "Legend font:"
+msgstr "Písmo legendy:"
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..BitBtn2..Hint
+msgid "Select the font used to show the labels on the axes."
+msgstr "Vyberte písmo použité pro zobrazení popisů os."
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..BitBtn3..Hint
+msgid "Select the font used to show the numbers on the axes."
+msgstr "Vyberte písmo použité pro zobrazení čísel na osách."
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..BitBtn4..Hint
+msgid "Select the font used to show the legend text."
+msgstr "Vyberte písmo použité pro zobrazení textu legendy."
+
+#. Form4..GridPanelEx1..Label1..Caption
+msgid "Decimals:"
+msgstr "Desetinná místa:"
+
+#. Form4..GridPanelEx1..Panel1..Edit1..Hint
+msgid "Number of decimals used when results are shown."
+msgstr "Počet desetinných míst v zobrazených výsledcích."
+
+#. Form4..GridPanelEx1..RadioGroup1..Hint
+msgid "Format used when complex numbers are shown."
+msgstr "Formát použitý pro zobrazení komplexních čísel."
+
+#. Form4..GridPanelEx1..RadioGroup1..Caption
+msgid "Complex form"
+msgstr "Komplexní čísla"
+
+#. Form4..GridPanelEx1..RadioGroup1....Items.Strings
+msgid "Real"
+msgstr "Reálná část"
+
+#. Form4..GridPanelEx1..RadioGroup1....Items.Strings
+msgid "Rectangular"
+msgstr "Kartézsky"
+
+#. Form4..GridPanelEx1..Label2..Caption
+msgid "Recent files:"
+msgstr "Poslední soubory:"
+
+#. Form4..GridPanelEx1..Panel2..Edit2..Hint
+msgid "The number of most recent used files shown in the File menu."
+msgstr "Počet naposledy otevřených souborů zobrazených v nabídce Soubor."
+
+#. Form4..GridPanelEx1..Label3..Caption
+msgid "Max undo steps:"
+msgstr "Max. kroků zpět:"
+
+#. Form4..GridPanelEx1..Panel3..Edit3....Hint
+msgid "Maximum number of undo steps saved. Set this to 0 to prevent undo."
+msgstr "Maximální počet uložených kroků, které lze vrátit zpět. Chcete-li vypnout funkci Zpět, nastavte tuto hodnotu na 0."
+
+#. Form4..GridPanelEx1..Label5..Caption
+msgid "Font scale:"
+msgstr "Velikost písma:"
+
+#. Form4..GridPanelEx1..ComboBox1....Hint
+msgid "This is used to scale the user interface if you are having problems reading the text."
+msgstr "Tato hodnota je použita pro nastavení velikosti písma uživatelského rozhraní, máte-li potíže s čtením textu."
+
+#. Form4..GridPanelEx1..Label4..Caption
+msgid "Language:"
+msgstr "Jazyk:"
+
+#. Form4..GridPanelEx1..ComboBox2..Hint
+msgid "Select the language to use for the user interface."
+msgstr "Vyberte jazyk uživatelského rozhraní."
+
+#. Form4..GridPanelEx1..CheckBox2..Hint
+msgid "Show the tooltip when the cursor is over an item."
+msgstr "Zobrazit popis položky, nad kterou se nachází kurzor."
+
+#. Form4..GridPanelEx1..CheckBox2..Caption
+msgid "Show tooltip"
+msgstr "Zobrazit vysvětlivky"
+
+#. Form4..GridPanelEx1..CheckBox3....Hint
+msgid "Save the size of the main window when the program exits. This is used the next time Graph is run."
+msgstr "Uložit pozici okna při ukončení programu. Toto nastavení bude použito při příštím spuštění programu."
+
+#. Form4..GridPanelEx1..CheckBox3..Caption
+msgid "Save workspace on exit"
+msgstr "Při ukočení uložit pracovní plochu"
+
+#. Form4..GridPanelEx1..CheckBox4....Hint
+msgid "If checked the program will contact a web server when the program is started to see if a newer version is available."
+msgstr "Je-li toto políčko zaškrtnuto, program program bude při spuštění kontaktovat webový server, aby zjistil, zda je k dispozici novější verze."
+
+#. Form4..GridPanelEx1..CheckBox4..Caption
+msgid "Check for new version of Graph at startup"
+msgstr "Při spuštění zjišťovat novou verzi programu Graph"
+
+#. Form4..GridPanelEx1..CheckBox5....Hint
+msgid "Use a custom decimal separator instead of the default from the Windows Regional settings."
+msgstr "Použít vlastní desetinný oddělovač místo výchozího z místních nastavení Windows."
+
+#. Form4..GridPanelEx1..CheckBox5..Caption
+msgid "Custom decimal separator:"
+msgstr "Vlastní desetinný oddělovač"
+
+#. Form4..GridPanelEx1..Edit4..Hint
+msgid "Decimal separator used when exporting to other programs."
+msgstr "Desetinný oddělovač pro export do jiných programů."
+
+#. Form5..Caption
+msgid "Insert function"
+msgstr "Vložit funkci"
+
+#. Form5..Label1..Caption
+msgid "Function type:"
+msgstr "Typ funkce:"
+
+#. Form5..ComboBox1..Hint
+msgid "Select the function type to graph."
+msgstr "Vyberte typ funkce, kterou chcete vložit do grafu."
+
+#. Form5..ComboBox1....Items.Strings
+msgid "Standard function   y=f(x)"
+msgstr "Běžná funkce              y=f(x)"
+
+#. Form5..ComboBox1....Items.Strings
+msgid "Parametric function x(t), y(t)"
+msgstr "Parametrická funkce   x(t), y(t)"
+
+#. Form5..ComboBox1....Items.Strings
+msgid "Polar function         r=f(t)"
+msgstr "Polární funkce             r=f(t)"
+
+#. Form5..GroupBox1..Caption
+msgid "Function equation"
+msgstr "Rovnice funkce"
+
+#. Form5..GroupBox2..Label6..Caption
+msgid "Steps:"
+msgstr "Výpočtů:"
+
+#. Form5..GroupBox2..Edit5..Hint
+msgid "Number of calculation steps used to draw the graph."
+msgstr "Počet výpočtů, které budou použity pro zobrazení grafu."
+
+#. Form5..GroupBox4..GridPanelEx1..Label13..Caption
+msgid "Draw type:"
+msgstr "Zobrazit:"
+
+#. Form5..GroupBox4..GridPanelEx1..ComboBox4....Hint
+msgid "Choose Lines if you want the calculated points for the graph to be connected. Choose Dots if you only want to show a dot at each point."
+msgstr "Zvolte možnost Čáry, chcete-li body vypočítané pro graf spojit. Zvolte možnost Tečky, chcete-li pro každý vypočítaný bod zobrazit pouze tečku."
+
+#. Form5..GroupBox4..GridPanelEx1..ComboBox4..Text
+#. Form5..GroupBox4..GridPanelEx1..ComboBox4....Items.Strings
+msgid "Automatic"
+msgstr "Automatická"
+
+#. Form5..GroupBox4..GridPanelEx1..ComboBox4....Items.Strings
+msgid "Dots"
+msgstr "Tečky"
+
+#. Form5..GroupBox4..GridPanelEx1..ComboBox4....Items.Strings
+msgid "Lines"
+msgstr "Čáry"
+
+#. Form6..Caption
+msgid "Insert text label"
+msgstr "Vložit popis"
+
+#. Form6..Label1..Caption
+msgid "Font name:"
+msgstr "Písmo:"
+
+#. Form6..Label2..Caption
+msgid "Font size:"
+msgstr "Velikost:"
+
+#. Form6..Label3..Caption
+msgid "Font color:"
+msgstr "Barva písma:"
+
+#. Form6..ComboBox1..Hint
+msgid "Text size."
+msgstr "Velikost textu."
+
+#. Form6..GroupBox1..Caption
+msgid "Text string"
+msgstr "Textový popis"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton11..Hint
+msgid "Insert symbol (Ctrl+G)"
+msgstr "Vložit symbol (Ctrl+G)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton13..Hint
+msgid "Insert object."
+msgstr "Vložit objekt."
+
+#. Form6..GroupBox1..ToolBar1..ToolButton1..Hint
+msgid "Bold (Ctrl+B)"
+msgstr "Tučně (Ctrl+B)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton2..Hint
+msgid "Italic (Ctrl+I)"
+msgstr "Kurzíva (Ctrl+I)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton3..Hint
+msgid "Underline (Ctrl+U)"
+msgstr "Podtržené (Ctrl+U)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton4..Hint
+msgid "Strikethrough (Ctrl+S)"
+msgstr "Přeškrtnuté (Ctrl+S)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton9..Hint
+msgid "Superscript (Ctrl++)"
+msgstr "Horní index (Ctrl++)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton10..Hint
+msgid "Subscript (Ctrl+=)"
+msgstr "Dolní index (Ctrl+=)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton5..Hint
+msgid "Align left (Ctrl+L)"
+msgstr "Zarovnat doleva (Ctrl+L)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton6..Hint
+msgid "Center (Ctrl+E)"
+msgstr "Zarovnat na střed (Ctrl+E)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton7..Hint
+msgid "Align right (Ctrl+R)"
+msgstr "Zarovnat doprava (Ctrl+R)"
+
+#. Form6..IFontBox1..Hint
+msgid "Text font."
+msgstr "Písmo textu."
+
+#. Form6..ColorBox1..Hint
+msgid "Text color."
+msgstr "Barva textu."
+
+#. Form6..ColorBox2..Hint
+msgid "Select background color of the text label."
+msgstr "Vyberte barvu pozadí textového popisu."
+
+#. Form6..ColorBox2..DefaultName
+msgid "Transparent"
+msgstr "Průhledné"
+
+#. Form6..PopupMenu1..Popup_Undo..Hint
+msgid "Undo last action."
+msgstr "Vrátit zpět poslední akci."
+
+#. Form6..PopupMenu1..Popup_Redo..Hint
+msgid "Redo last undone action."
+msgstr "Opakovat poslední zrušenou akci."
+
+#. Form6..PopupMenu1..Popup_Paste..Hint
+msgid "Paste the contents of the clipboard."
+msgstr "Vložit obsah schránky."
+
+#. Form6..PopupMenu1..Popup_PasteSpecial..Caption
+msgid "Paste special..."
+msgstr "Vložit jinak..."
+
+#. Form6..PopupMenu1..Popup_PasteSpecial..Hint
+msgid "Select which clipboard representation you want to paste."
+msgstr "Vyberte, jakým způsobem chcete vložit obsah schránky."
+
+#. Form6..PopupMenu1..Popup_InsertObject..Caption
+msgid "Insert object..."
+msgstr "Vložit objekt..."
+
+#. Form6..PopupMenu1..Popup_InsertObject..Hint
+msgid "Create a new OLE object."
+msgstr "Vytvořit nový objekt OLE."
+
+#. Form6..PopupMenu1..Popup_EditObject..Caption
+msgid "Edit object"
+msgstr "Upravit objekt."
+
+#. Form6..PopupMenu1..Popup_EditObject..Hint
+msgid "Edit selected OLE object."
+msgstr "Upravit vybraný objekt OLE."
+
+#. Form7..Caption
+msgid "Insert f'(x)"
+msgstr "Vložit f'(x)"
+
+#. Form8..Label1..Caption
+#. PrintFrm..GroupBox1..Label1..Caption
+msgid "Name:"
+msgstr "Název:"
+
+#. Form8..ValueListEditor1....TitleCaptions.Strings
+msgid "Constant"
+msgstr "Konstanta"
+
+#. Form8..ValueListEditor1....TitleCaptions.Strings
+msgid "Value"
+msgstr "Hodnota"
+
+#. Form9..Label1..Caption
+msgid "Select a function or tangent to evaluate."
+msgstr "Vyberte funkci, jejíž hodnotu chcete vypočítat."
+
+#. Form9..PolFuncFrame1....Hint
+#. ParFuncFrame..ComboBox1....Hint
+#. StdFuncFrame..ComboBox1....Hint
+msgid "Select where the cursor will be placed when you click on the image."
+msgstr "Vyberte, kam bude umístěn kurzor po klepnutí na obrázek."
+
+#. AreaFrame..GridPanel1..Panel1..Edit1....Hint
+msgid "Enter the start coordinate or mark the range on the graph itself with the mouse."
+msgstr "Zadejte počáteční souřadnici nebo ji označte přímo v grafu pomocí myši."
+
+#. AreaFrame..GridPanel1..Panel2..Edit2....Hint
+msgid "Enter the end coordinate or mark the range on the graph itself with the mouse."
+msgstr "Zadejte koncovou souřadnici nebo ji označte přímo v grafu pomocí myši."
+
+#. ParFuncFrame..Label7..Caption
+#. PolFuncFrame..Label7..Caption
+#. StdFuncFrame..Label5..Caption
+msgid "Snap to:"
+msgstr "Přichytit k:"
+
+#. ParFuncFrame..Edit2..Hint
+msgid "The x-coordinate evaluated for the t-parameter."
+msgstr "Hodnota souřadnice x pro parametr t."
+
+#. ParFuncFrame..Edit3..Hint
+msgid "The y-coordinate evaluated for the t-parameter."
+msgstr "Hodnota souřadnice y pro parametr t."
+
+#. ParFuncFrame..Edit4..Hint
+msgid "The derivative of x(t) evaluated for the entered t-parameter."
+msgstr "Hodnota derivace funkce x(t) pro zadaný parametr t."
+
+#. ParFuncFrame..Edit5..Hint
+msgid "The derivative of y(t) evaluated for the entered t-parameter."
+msgstr "Hodnota derivace funkce y(t) pro zadaný parametr t."
+
+#. ParFuncFrame..Edit6..Hint
+msgid "The slope of the function evaluated for the entered t-parameter."
+msgstr "Hodnota odchylky funkce pro zadaný parametr t."
+
+#. ParFuncFrame..Edit1....Hint
+msgid "Enter the value for the parameter t for which you want to evaluate the function, or click on the graph in the graphing area."
+msgstr "Zadejte hodnotu parametru t, pro kterou chcete ohodnotit funkci, nebo klepněte na funkci v hlavním okně."
+
+#. ParFuncFrame..ComboBox1....Items.Strings
+#. PolFuncFrame..ComboBox1....Items.Strings
+#. StdFuncFrame..ComboBox1....Items.Strings
+msgid "Intersection"
+msgstr "Průsečik"
+
+#. ParFuncFrame..ComboBox1....Items.Strings
+#. PolFuncFrame..ComboBox1....Items.Strings
+msgid "Extreme x-value"
+msgstr "Extrémní hodnota x"
+
+#. ParFuncFrame..ComboBox1....Items.Strings
+#. PolFuncFrame..ComboBox1....Items.Strings
+#. StdFuncFrame..ComboBox1....Items.Strings
+msgid "Extreme y-value"
+msgstr "Extrémní hodnota y"
+
+#. PolFuncFrame..Edit2..Hint
+msgid "The distance to the function evaluated for the given angle."
+msgstr "Hodnota vzdálenosti funkce pro zadaný úhel."
+
+#. PolFuncFrame..Edit3..Hint
+msgid "The x-coordinate evaluated for the given angle."
+msgstr "Hodnota souřadnice x pro zadaný úhel."
+
+#. PolFuncFrame..Edit4..Hint
+msgid "The y-coordinate evaluated for the given angle."
+msgstr "Hodnota souřadnice y pro zadaný úhel."
+
+#. PolFuncFrame..Edit5..Hint
+msgid "The derivative of the function evaluated for the given angle."
+msgstr "Hodnota derivace funkce pro zadaný úhel."
+
+#. PolFuncFrame..Edit6..Hint
+msgid "The slope of the function evaluated for the given angle."
+msgstr "Hodnota odchylky funkce pro zadaný úhel."
+
+#. PolFuncFrame..Edit1....Hint
+msgid "Enter the value of the polar angle for which you want to evaluate the function, or click on the graph in the graphing area."
+msgstr "Zadejte hodnotu polárního úhlu, pro kterou chcete ohodnotit funkci, nebo klepněte na funkci v hlavním okně."
+
+#. StdFuncFrame..Edit1....Hint
+msgid "Enter a value for which you want to evaluate the function, or click on the graph in the graphing area."
+msgstr "Zadejte hodnotu, pro kterou chcete ohodnotit funkci, nebo klepněte na funkci v hlavním okně."
+
+#. StdFuncFrame..Edit2..Hint
+msgid "This is the function evaluated for the entered x-value."
+msgstr "Toto je hodnota funkce pro zadanou hodnotu x."
+
+#. StdFuncFrame..Edit3....Hint
+msgid "This is the first derivative of the function evaluated for the entered value."
+msgstr "Toto je hodnota první derivace funkce pro zadanou hodnotu."
+
+#. StdFuncFrame..Edit4....Hint
+msgid "This is the second derivative of the function evaluated for the entered value."
+msgstr "Toto je velikost druhé derivace funkce pro zadanou hodnotu."
+
+#. TanFrame..Edit2....Hint
+msgid "This is the y-coordinate corresponding to the entered x-coordinate."
+msgstr "Toto je souřadnice y odpovídající zadané souřadnici x."
+
+#. TanFrame..Edit1..Hint
+msgid "Enter an x-coordinate or click in the graphing area."
+msgstr "Zadejte souřadnici x nebo klepněte do hlavního okna."
+
+msgid "Error"
+msgstr "Chyba"
+
+msgid "Error %s"
+msgstr "Chyba %s"
+
+msgid "Length"
+msgstr "Délka"
+
+msgid "Degrees"
+msgstr "Stupně"
+
+msgid "Label"
+msgstr "Popis"
+
+msgid "%s-error"
+msgstr "Odchylka %s"
+
+msgid "Axes"
+msgstr "Osy"
+
+msgid "Ctrl"
+msgstr "Ctrl"
+
+msgid "Alt"
+msgstr "Alt"
+
+msgid "Shift"
+msgstr "Shift"
+
+msgid "Del"
+msgstr "Del"
+
+msgid "Ins"
+msgstr "Ins"
+
+msgid "Home"
+msgstr "Home"
+
+msgid "End"
+msgstr "End"
+
+msgid "PgUp"
+msgstr "PgUp"
+
+msgid "PgDn"
+msgstr "PgDn"
+
+msgid "Up"
+msgstr "Up"
+
+msgid "Down"
+msgstr "Down"
+
+msgid "Esc"
+msgstr "Esc"
+
+msgid "Enter"
+msgstr "Enter"
+
+msgid "Tab"
+msgstr "Tab"
+
+msgid "BkSp"
+msgstr "BkSp"
+
+msgid "Space"
+msgstr "Mezerník"
+
+msgid "An error occurred while evaluating power function."
+msgstr "Behěm výpočtu mocninné funkce došlo k chybě."
+
+msgid "Tangent to pi/2+n*pi (90+n180 in degrees) is undefined."
+msgstr "Funkce tangens není definována pro argument pí/2+n*pí (90° + k*180°)."
+
+msgid "Fact can only be calculated for positive integers."
+msgstr "Faktoriál lze vypočítat pouze pro kladná celá čísla."
+
+msgid "Cannot take logarithm to number equal or less than zero."
+msgstr "Nelze logaritmovat čísla menší nebo rovna nule."
+
+msgid "sqrt is undefined for negative numbers."
+msgstr "Odmocnina není definována pro záporná čísla."
+
+msgid "A part of the evaluation gave a number with an imaginary part."
+msgstr "Během výpočtu bylo vráceno číslo s imaginární částí."
+
+msgid "Division by zero."
+msgstr "Dělení nulou."
+
+msgid "Inverse trigonometric function out of range [-1;1]"
+msgstr "Mimo rozsah inverzní trigonometrické funkce [-1;1]."
+
+msgid "The function is not defined for this value."
+msgstr "Funkce není definována pro tuto hodnotu."
+
+msgid "atanh evaluated at undefined value."
+msgstr "Funkce atanh není definována pro tuto hodnotu."
+
+msgid "acosh evaluated at undefined value."
+msgstr "Funkce acosh není definována pro tuto hodnotu."
+
+msgid "arg(0) is undefined."
+msgstr "Hodnota funkce arg(0) není definována."
+
+msgid "Evaluation failed."
+msgstr "Výpočet se nepodařil."
+
+msgid "Argument produced a function result with total loss of precision."
+msgstr "Argument způsobil úplnou ztrátou přesnosti výpočtu."
+
+msgid "The custom function/constant '%s' was not found or has the wrong number of arguments."
+msgstr "Vlastní funkce/konstanta '%s' nebyla nalezena, nebo má nesprávný počet argumentů."
+
+msgid "Too many recursive calls."
+msgstr "Příliš mnoho rekurzivních volání."
+
+msgid "Overflow: A function returned a value too large to handle."
+msgstr "Přetečení: výsledek funkce je příliš velký pro zpracování."
+
+msgid "A plugin function failed: %s"
+msgstr "Funkce pluginu selhala: %s"
+
+msgid "Unexpected operator. Operator '%s' cannot be placed here."
+msgstr "Neočekávaný operátor. Na tomto místě nelze použít operátor '%s'."
+
+msgid "The right bracket is missing."
+msgstr "Chybí uzavírací závorka."
+
+msgid "Invalid number of arguments supplied for the function '%s'"
+msgstr "Neplatný počet argumentů odevzdaných funkci '%s'"
+
+msgid "Comparison operator misplaced."
+msgstr "Chybně umístěný operátor porovnání."
+
+msgid "Invalid number found. Use the format: -5.475E-8"
+msgstr "Nalezeno neplatné číslo. Používejte následující formát: -5.475E-8"
+
+msgid "String is empty. You need to enter a formula."
+msgstr "Řetězec je prázdný. Je třeba zadat funkci."
+
+msgid "Comma is not allowed here. Use dot as decimal separator."
+msgstr "Na tomto místě nelze použít čárku. K oddělení desetinných míst použijte tečku."
+
+msgid "Unexpected end of brackets."
+msgstr "Neočekávané ukončení závorky."
+
+msgid "Number, constant or function expected."
+msgstr "Bylo očekáváno číslo, konstanta nebo funkce."
+
+msgid "Parameter after constant or variable not allowed."
+msgstr "Po zadání konstanty nebo proměnné nelze použít parametr."
+
+msgid "Expression expected."
+msgstr "Byl očekáván výraz."
+
+msgid "Unknown variable, function or constant: \"%s\""
+msgstr "Neznámá proměnná, funkce nebo konstanta: \"%s\""
+
+msgid "Unknown character: \"%s\""
+msgstr "Neznámý znak: \"%s\""
+
+msgid "The end of the expression was unexpected."
+msgstr "Neočekávané ukončení řetězce."
+
+msgid "Error parsing expression."
+msgstr "Chyba při zpracování textu funkce."
+
+msgid "A calculation resulted in an overflow."
+msgstr "Během výpočtu došlo k přeplnění."
+
+msgid "An invalid value was used in the calculation."
+msgstr "Ve výpočtu byla použita neplatná hodnota."
+
+msgid "Not enough points for calculation."
+msgstr "Nedostatečný počet bodů pro výpočet."
+
+msgid "Illegal name \"%s\" for user defined function or constant."
+msgstr "Neplatné jméno \"%s\" uživatelské funkce nebo konstanty."
+
+msgid "Cannot differentiate recursive function."
+msgstr "Nelze určit derivaci rekurzivní funkce."
+
+msgid "Internal error."
+msgstr "Interní chyba."
+
+msgid "Function \"%s\" cannot be differentiated."
+msgstr "Nelze určit derivaci funkce \"%s\"."
+
+msgid "Not further specified error occurred under calculation."
+msgstr "Během výpočtu došlo k blíže neurčené chybě."
+
+msgid "No solution found. Try another guess or another model."
+msgstr "Nebylo nalezeno žádné řešení. Zkuste použít jinou šablonu."
+
+msgid "No result found."
+msgstr "Výsledek nenalezen."
+
+msgid "An accurate result cannot be found."
+msgstr "Přesný výsledek se nedá určit."
+
+msgid "Internal error. Please notify the programmer with as much information as possible."
+msgstr "Interní chyba. Zašlete prosím autorovi programu co nejpodrobnější informace."
+
+msgid "You need to enter a name for the function/constant."
+msgstr "Je třeba zadat název funkce nebo konstanty."
+
+msgid ""
+"Invalid function/constant name '%s'.\n"
+"The name may only contain letters and decimal digits, and it must always start with a letter.\n"
+"In addition you are not allowed to redefine built-in names."
+msgstr ""
+"Neplatný název funkce nebo konstanty '%s'.\n"
+"Název může obsahovat pouze písmena a číslice a musí začínat písmenem.\n"
+"Nelze znovu definovat interní názvy programu."
+
+msgid "You need to enter a name for the argument."
+msgstr "Je třeba zadat název argumentu."
+
+msgid ""
+"Invalid argument name '%s'.\n"
+"The name may only contain letters and decimal digits, and it must always start with a letter.\n"
+" In addition you are not allowed to use built-in names as argument names."
+msgstr ""
+"Neplatný název argumentu '%s'.\n"
+"Název může obsahovat pouze písmena a číslice a musí začínat písmenem.\n"
+"Nelze použít interní názvy programu jako názvy argumentů."
+
+msgid "Character found after brackets."
+msgstr "Byl nalezen jeden nebo více znaků po ukončení závorky."
+
+msgid "Symbol \"%s\" defined more than once."
+msgstr "Symbol \"%s\" byl definován více než jednou."
+
+msgid "Invalid equation or inequality."
+msgstr "Neplatná rovnice nebo nerovnost."
+
+msgid "Updating..."
+msgstr "Aktualizace..."
+
+msgid "Save changes?"
+msgstr "Uložit změny?"
+
+msgid "Save changes in %s?"
+msgstr "Uložit změny v souboru %s?"
+
+msgid "You have reached the maximum range of zoom."
+msgstr "Byla dosaženo největší možné zvětšení."
+
+msgid "You have reached the minimum range of zoom."
+msgstr "Bylo dosaženo nejmenší možné zmenšení."
+
+msgid "'%s' must not be zero."
+msgstr "'%s' nesmí být nula."
+
+msgid "Error in value"
+msgstr "Chybná hodnota"
+
+msgid "'%s' has to be an integer value greater or equal to 0."
+msgstr "'%s' musí být celé číslo větší nebo rovno nule."
+
+msgid "'%s' must be greater than zero."
+msgstr "'%s' musí být větší než nula."
+
+msgid "'%s' must be an integer greater than zero."
+msgstr "'%s' musí být celé číslo větší než nula."
+
+msgid "Trying to break zoom limit."
+msgstr "Pokoušíte se přesáhnout omezení přiblížení/oddálení."
+
+msgid "'%s' must be greater than '%s'"
+msgstr "'%s' musí být větší než '%s'"
+
+msgid "The maximum value must be greater than the minimum value."
+msgstr "Maximální hodnota musí být větší než minimální hodnota."
+
+msgid "You need to enter a value."
+msgstr "Je třeba zadat hodnotu."
+
+msgid ""
+"This file was created with Graph %s.\n"
+"Only files from version %s and higher can be opened."
+msgstr ""
+"Tento soubor byl vytvořen v programu Graph %s.\n"
+"Lze otevřít pouze soubory od verze %s a novější."
+
+msgid "'%s' is not a valid number."
+msgstr "'%s' není platné číslo."
+
+msgid "'%s' must be a positive number."
+msgstr "'%s' musí být kladné číslo."
+
+msgid "File not found: %s"
+msgstr "Soubor nebyl nalezen: %s"
+
+msgid ""
+"Error reading file: %s\n"
+"The file is not a correct Graph file."
+msgstr ""
+"Došlo k chybě při čtení souboru: %s\n"
+"Toto není platný soubor programu Graph."
+
+msgid "Unknown error while reading file: %s"
+msgstr "Došlo k neznámé chybě při čtení souboru: %s"
+
+msgid "Graph files [*.grf]|*.grf"
+msgstr "Soubory programu Graph [*.grf]|*.grf"
+
+msgid ""
+"Cannot write to file: %s\n"
+"Access denied. Check that the file is not in use or write protected."
+msgstr ""
+"Do souboru nelze zapisovat: %s\n"
+"Přístup odmítnut. Zkontrolujte, zda soubor není používán nebo chráněn proti zápisu."
+
+msgid "The font \"%s\" doesn't exist. Standard font is used instead."
+msgstr "Písmo \"%s\" neexistuje. Bude použito standardní písmo."
+
+msgid "Graph system"
+msgstr "Graf programu Graph"
+
+msgid "Open"
+msgstr "Otevřít"
+
+msgid "Selection error"
+msgstr "Chyba výběru"
+
+msgid "File error"
+msgstr "Chyba souboru"
+
+msgid "Write access failed"
+msgstr "Zápis se nepodařil"
+
+msgid "OLE error"
+msgstr "Chyba OLE"
+
+msgid "Error reading object"
+msgstr "Chyba při čtení objektu"
+
+msgid "Not a valid Graph object."
+msgstr "Toto není platný objekt programu Graph."
+
+msgid "Object error"
+msgstr "Chyba objektu"
+
+msgid "Windows does not have enough resources to save an image that large."
+msgstr "Systém Windows nemá dostatek prostředků pro uložení tak velkého obrázku."
+
+msgid "'%1%' must be between %2% and %3%."
+msgstr "'%1%' musí být v intevalu od %2% do %3%."
+
+msgid "File not found"
+msgstr "Soubor nebyl nalezen"
+
+msgid "Error reading file"
+msgstr "Chyba při čtení souboru"
+
+msgid "Printer error"
+msgstr "Chyba tisku"
+
+msgid "Invalid use of infinity. Infinity cannot be used here."
+msgstr "Neplatné použití nekonečné hodnoty. Nekonečno se zde nedá použít."
+
+msgid "Not enough memory to complete the operation."
+msgstr ""
+
+msgid "Confirm delete"
+msgstr "Potvrzení odstranění"
+
+msgid "Are you sure you want to delete %s?"
+msgstr "Opravdu chcete odstranit %s?"
+
+msgid "Graph files [*.grf]|*.grf|All files [*.*]|*.*"
+msgstr "Soubory programu Graph [*.grf]|*.grf|Všechny soubory [*.*]|*.*"
+
+msgid "CSV (semicolon delimited) [*.csv]|*.csv|CSV (comma delimited) [*.csv]|*.csv|Text (tab delimited) [*.txt]|*.txt|Text (space delimited) [*.txt]|*.txt|All files [*.*]|*.*"
+msgstr "CSV (oddělevač středník) [*.csv]|*.csv|CSV (oddělovač čárka) [*.csv]|*.csv|Text (oddělovač tabulátor) [*.txt]|*.txt|Text (oddělovač mezera) [*.txt]|*.txt|Všechny soubory [*.*]|*.*"
+
+msgid "Are you sure you want to delete the model: %s?"
+msgstr "Opravdu chcete odstranit model: %s?"
+
+msgid "Maximum number on x-axis must be greater than the minimum value."
+msgstr "Největší hodnota na ose x musí být větší než nejmenší hodnota."
+
+msgid "Maximum number on y-axis must be greater than the minimum value."
+msgstr "Největší hodnota na ose y musí být větší než nejmenší hodnota."
+
+msgid "Server application not found."
+msgstr "Nebyla nalezena příslušná aplikace."
+
+msgid "Maximum number for t must be greater than the minimum value."
+msgstr "Největší hodnota t musí být větší než nejmenší hodnota."
+
+msgid "The step value for t must be a number greater than 0."
+msgstr "Počet výpočtů pro t musí být větší než nula."
+
+msgid "The minimum value for the x-axis must be greater than 0, when the x-axis is logarithmic scaled."
+msgstr "Nejmenší hodnota na ose x musí být větší než nula, pokud je osa x v logaritmickém měřítku."
+
+msgid "The cross point of the y-axis must be greater than 0, when the x-axis is logarithmic scaled."
+msgstr "Je-li osa x v  logaritmickém měřítku, bod, ve kterém ji protíná osa y, musí být větší než nula."
+
+msgid "The minimum value for the y-axis must be greater than 0, when the y-axis is logarithmic scaled."
+msgstr "Nejmenší hodnota na ose y musí být větší než nula, pokud je osa y v logaritmickém měřítku."
+
+msgid "The cross point of the x-axis must be greater than 0, when the y-axis is logarithmic scaled."
+msgstr "Je-li osa y v  logaritmickém měřítku, bod, ve kterém ji protíná osa x, musí být větší než nula."
+
+msgid "'Recent files' must be between 0 and 9."
+msgstr "Počet naposledy otevřených souborů musí být v intervalu od 0 do 9."
+
+msgid "The end of interval must be greater than the start of interval."
+msgstr "Konec intervalu musí být větší než jeho počátek."
+
+msgid "Error in interval."
+msgstr "Chybný interval"
+
+msgid "The width must be an integer greater than 0."
+msgstr "Šířka musí být celé číslo větší než nula."
+
+msgid "Error in width"
+msgstr "Chybně zadaná šířka"
+
+msgid "The end of interval must be greater than the start of interval and %s must be greater than 0."
+msgstr "Konec intervalu musí být větší než jeho počátek a %s musí být větší než nula."
+
+msgid "Invalid model name."
+msgstr "Neplatný název šablony."
+
+msgid "A model of that name already exist."
+msgstr "Šablona s tímto názvem už existuje."
+
+msgid "The derivative of the function is not defined at %s=%s"
+msgstr "Derivace funkce není definována v bodě %s=%s."
+
+msgid "Coordinate not defined"
+msgstr "Souřadnice není definována"
+
+msgid "Checking for newer version..."
+msgstr "Zjišťování novější verze..."
+
+msgid "Abort printing?"
+msgstr "Zrušit tisk?"
+
+msgid "Calculate area"
+msgstr "Obsah oblasti"
+
+msgid "Calculate length of path"
+msgstr "Délka křivky"
+
+msgid "Edit function"
+msgstr "Upravit funkci"
+
+msgid "Edit tangent/normal"
+msgstr "Upravit tečnu/kolmici"
+
+msgid "Error processing file '%s' at line %s."
+msgstr "Chyba při zpracování souboru '%s' na řádku %s."
+
+msgid "Edit text label"
+msgstr "Upravit textový popis"
+
+msgid "The model needs some constants (starting with a $) for Graph to find."
+msgstr "V šabloně chybí konstanty (začínající znakem $), které by měl Graph najít."
+
+msgid "'%s' has to be an integer value between 0 and 1000."
+msgstr "'%s' musí být celé číslo v intervalu od 0 do 1000."
+
+msgid "Printing error"
+msgstr "Chyba tisku"
+
+msgid "An unknown error occurred while printing."
+msgstr "Během tisku došlo k neznámé chybě."
+
+msgid "Error while adding points"
+msgstr "Chyba při vkládání bodů"
+
+msgid "Each point needs both an x- and a y-coordinate."
+msgstr "Pro každý bod je třeba zadat souřadnice x a y."
+
+msgid "\"%s\" is not a valid number."
+msgstr "\"%s\" není platné číslo."
+
+msgid "You didn't add any points. You need to specify some x- and y-coordinates in the grid."
+msgstr "Nebyly přidány žádné body. Do tabulky je třeba zadat souřadnice x a y."
+
+msgid "Edit point series"
+msgstr "Upravit posloupnost bodů"
+
+msgid "Edit shading"
+msgstr "Upravit šrafování"
+
+msgid "You need to select a function."
+msgstr "Je třeba vybrat funkci."
+
+msgid "New version of Graph available"
+msgstr "Je k dispozici nová verze programu Graph."
+
+msgid ""
+"Graph %s is now available for download from www.padowan.dk\n"
+"\n"
+"Would you like to visit the download page?"
+msgstr ""
+"Na www.padowan.dk je nyní k dispozici program Graph %s \n"
+"\n"
+"Chcete navšítit tuto stránku?"
+
+msgid "No new version"
+msgstr "Žádná nová verze"
+
+msgid "You are already using the most recent version of Graph."
+msgstr "Používáte už nejnovější verzi programu."
+
+msgid ""
+"Cannot connect to server www.padowan.dk.\n"
+"Either the server is down or you do not have a connection to the Internet."
+msgstr ""
+"Nelze se připojit k serveru www.padowan.dk.\n"
+"Server nepracuje nebo není k dispozici připojení k Internetu."
+
+msgid "Socket error %s"
+msgstr "Chyba připojení %s"
+
+msgid "Definite integral, or signed area between function and x-axis, for the given domain range."
+msgstr "Určitý integrál nebo vyznačená oblast mezi funkcí a osou x pro zadaný rozsah argumentu."
+
+msgid "Length of path along the curve calculated for the given range."
+msgstr "Délka křivky vypočítaná pro určený rozsah."
+
+msgid ""
+"The file cannot be opened by this version of the program.\n"
+"You need at least Graph %s to open this file."
+msgstr ""
+"Soubor nelze otevřít v této verzi programu.\n"
+"K otevření tohoto souboru je vyžadován alespoň program Graph %s."
+
+msgid ""
+"This file was saved by an outdated version of Graph,\n"
+"and it cannot be opened by the current version."
+msgstr ""
+"Tento soubor byl uložen ve starší verzi programu Graph\n"
+"a v této verzi jej nelze otevřít."
+
+msgid ""
+"\n"
+"\n"
+"If you don't want to be asked again, this feature may be disabled from the Edit|Options dialog."
+msgstr ""
+"\n"
+"\n"
+"Nechcete-li tento dotaz znovu zobrazovat, můžete tuto funkci vypnout v dialogovém okně Úpravy|Možnosti."
+
+msgid "Edit relation"
+msgstr "Upravit vztah"
+
+msgid "Commands"
+msgstr "Příkazy"
+
+msgid "(All Commands)"
+msgstr "(Všechny příkazy)"
+
+msgid "To add a command to the toolbar simply select a category and drag the command out of this dialog box to the toolbar."
+msgstr "Chcete-li na panel nástrojů přidat příkaz, vyberte kategorii a přetáhněte příkaz z tohoto dialogového okna na panel nástrojů."
+
+msgid "Edit f'(x)"
+msgstr "Upravit f'(x)"
+
+msgid "Edit trendline"
+msgstr "Upravit regresní křivku"
+
+msgid "Categories:"
+msgstr "Kategorie:"
+
+msgid ""
+"The program seems to be stuck in an infinite loop.\n"
+"If you cancel the operation the program will become unstable.\n"
+"You should therefore save your data under a new name and restart the application."
+msgstr ""
+"Program se jeví zacyklen v nekonečné smyčce.\n"
+"Pokud operaci zrušíte, program se stane nestabilním.\n"
+"Měli byste proto uložit svá data pod novým názvem a program restartovat."
+
+msgid "Thread is not responding"
+msgstr "Vlákno bez odzvy"
+
+msgid "This Tip of the day can give you a lot of information about the program that most users don't know."
+msgstr "Mezi tipy dne naleznete mnoho informací o programu, které většina uživatelů nezná."
+
+#, fuzzy
+msgid "You can get help using Graph, report bugs and suggest future improvements at the web forum: <a href=\"http://forum.padowan.dk\">http://forum.padowan.dk</a>"
+msgstr "Na webovském fóru: <a href=\"http://www.padowan.dk/forum\">http://www.padowan.dk/forum</a> můžete získat rady pro používání programu Graph, nahlásit chyby a navrhovat budoucí zdokonalení."
+
+msgid "You can customize the toolbar by right clicking on it and select 'Customize toolbar'."
+msgstr "Panel nástrojů si můžete přizpůsobit. Klepněte na něj pravým tlačítkem a vyberte příkaz 'Přizpůsobit panel nástrojů'."
+
+msgid "Instead of deleting a function, you can make it invisible by removing the check mark for the item in the function list."
+msgstr "Funkci lze místo odstranění zneviditelnit tím, že klepnutím na příslušné políčko odstraníte zaškrtnutí v seznamu funkcí."
+
+msgid "You can paste images into a text label."
+msgstr "Do textového popisu lze vložit obrázky."
+
+msgid "Text labels can contain any kind of OLE objects, for example Microsoft Equation. When editing a label right click in the editing area and select 'Insert object'."
+msgstr "Textové popisy mohou obsahovat libovolné objekty OLE, například objekty aplikace Microsoft Equation. Během úpravy popisu klepněte do oblasti pro úpravy a vyberte příkaz 'Vložit objekt'."
+
+msgid "You can export points from a point series to a file that can be read by other programs, for example Microsoft Excel. When editing the point series select the points, right click and choose 'Export to file'."
+msgstr "Body z posloupnosti bodů lze exportovat do souboru, který potom můžete otevřít v jiných programech, např. Microsoft Excel..."
+
+msgid "A vertical line at x=5 can be drawn as the parametric function x(t)=5, y(t)=t or as the relation x=5."
+msgstr "Svislou čáru v bodě x=5 lze zobrazit jako parametrickou funkci x(t)=5, y(t)=t nebo jako vztah x=5."
+
+msgid "You can use Zoom|Square to make the axes look equally scaled. This is especially useful when drawing circles and similar functions."
+msgstr "Obě osy lze zobrazit ve stejném měřítku pomocí funkce Zobrazení|Čtvercové. Tato funkce je vhodná zejména pro zobrazení kružnic a podobných funkcí."
+
+msgid "You can find a list of all available functions in the help."
+msgstr "Seznam dostupných funkcí naleznete v nápovědě."
+
+msgid "You can combine two functions to one using 'if'. For example the function f(x)=x for x<1 and f(x)=x^2 for x>=1 can be written as f(x)=if(x<1, x, x^2)."
+msgstr "Pomocí příkazu 'if' lze spojit dvě funkce do jedné. Např. funkci f(x)=x pro x<1 a f(x)=x^2 pro x>=1 lze zadat jako f(x)=if(x<1, x, x^2)."
+
+msgid "You can import the contents of another Graph file into the current coordinate system using 'File|Import|Graph file'."
+msgstr "Obsah jiného souboru programu Graph lze importovat do aktuální soustavy souřadnic pomocí příkazu 'Soubor|Importovat|Soubor programu Graph'."
+
+msgid "If you check 'Save as default' in the Axes dialog the current settings will be used as default when creating new coordinate systems."
+msgstr "Zaškrnete-li políčko 'Uložit jako výchozí' v dialogovém okně Osy, aktuální nastavení bude použito jako výchozí při vytváření nového souboru."
+
+msgid "While you hold down the Ctrl key, you can use the arrow keys to move the system."
+msgstr "Držíte-li stisknutou klávesu Ctrl, lze pomocí šipek pohybovat soustavou souřadnic."
+
+msgid "While you hold down the Ctrl key, you can use the + and - keys to zoom in and out."
+msgstr "Držíte-li stisknutou klávesu Ctrl, lze pomocí kláves + a - přibližovat a oddalovat zobrazení."
+
+msgid "You can use the scroll button on your mouse to zoom in and out at the position of the mouse cursor."
+msgstr "Pomocí kolečka myši lze přibližovat a oddalovat oblast pod kurzorem."
+
+msgid "If you don't want an item shown in the legend, you can right click on the item in the function list and deselect 'Show in legend'."
+msgstr "Nechcete-li, aby byla položka zobrazena v legendě, klepněte na ni pravým tlačítkem a zrušte zaškrtnutí u možnosti 'Zobrazit v legendě'."
+
+msgid "If you want the axes shown to the left and bottom of the image, you can choose Axes style as Boxed in the Settings tab of the Axes dialog."
+msgstr "Chcete-li zobrazit osy v levé a dolní části soustavy souřadnic, v dialogovém okně Osy na kartě Nastavení vyberte v poli Zobrazení os možnost Vlevo dole."
+
+msgid "Graph can save the shown coordinate system in five different image formats: bmp, emf, png, jpg and pdf."
+msgstr "V programu Graph lze zobrazenou soustavu souřadnic uložit v pěti různých formátech: BMP, EMF, PNG, JPG a PDF."
+
+msgid "You can use 'Edit|Copy image' to copy the coordinate system and paste it into another program, for example, Microsoft Word. Later you can usually edit the image in Graph by double clicking on it in the other program."
+msgstr "Pomocí příkazu 'Úpravy|Kopírovat obrázek' lze kopírovat soustavu souřadnic do schránky a vložit ji do jiného programu, například Microsoft Word. Později je zpravidla možné editovat ten obrázek programem Graph i když je otevřen v jiném programu tím, že naň dvakrát klepnete."
+
+msgid "You can open a saved grf-file in a new instance of the program by double clicking on it in Explorer."
+msgstr "Chcete-li otevřít uložený soubor GRF v nové instanci programu, poklepejte na něj."
+
+msgid "You can drag a grf-file from explorer into an open instance of Graph to open the file."
+msgstr "Je-li program Graph spuštěn, otevřete soubor GRF přetažením do jeho okna."
+
+msgid "Graph will remember the size of the main window between executions. This can be disabled from the Options dialog."
+msgstr "Program Graph si pamatuje velikost hlavního okna pro další spuštění. Tuto funkci lze zakázat v dialogovém okně Možnosti."
+
+msgid "Calc|Table can be used to create a table with evaluation values for a function."
+msgstr "Pomocí příkazu Výpočty|Tabulka lze vytvořit tabulku s odhady hodnot funkce."
+
+msgid "A part or the whole evaluation table can be exported to a file by right clicking and selecting 'Export to file'. It can afterwards be opened in other programs like Microsoft Excel."
+msgstr "Chcete-li exportovat část tabulky do souboru, klepněte na ni pravým tlačítkem a vyberte příkaz 'Export do souboru'. Tento soubor potom lze otevřít v ostatních aplikacích (např. Microsoft Excel)."
+
+msgid "Data from the evaluation table can be copied to another program like Microsoft Excel."
+msgstr "Data z tabulky lze kopírovat do jiných aplikací (např. Microsoft Excel) pomocí schránky."
+
+msgid "The data points in a point series can be copied to and from other programs like Microsoft Excel."
+msgstr "Datové body v posloupnosti bodů lze kopírovat z a vkládat do jiných aplikací (např. Microsoft Excel) prostřednictvím schránky."
+
+msgid "Elements as functions, point series, etc. can be copied from one instance of the program to another using Edit|Copy."
+msgstr "Funkce, posloupnosti bodů a pod. lze kopírovat z jedné instance programu do jiné prostřednictvím schránky pomocí příkazu Úpravy|Kopírovat."
+
+msgid "You can always undo the last thing you did using Edit|Undo."
+msgstr "Poslední provedenou akci lze vždy vrátit zpět příkazem Úpravy|Zpět."
+
+msgid "If you used Edit|Undo by mistake, you can use Edit|Redo to redo what you have undone."
+msgstr "Pokud jste omylem použili příkaz Úpravy|Zpět, lze opakovat zrušenou akci pomocí příkazu Úpravy|Znovu."
+
+msgid "In the Axes dialog you can add a title to the coordinate system."
+msgstr "V dialogovém okně Osy lze soustavě souřadnic přiřadit název."
+
+msgid "You can import point series from files saved by other programs, like Microsoft Excel."
+msgstr "Posloupnost bodů lze importovat ze souborů uložených ostaními aplikacemi (např. Microsoft Excel)."
+
+msgid "When inserting a point series, you can copy data from programs like Microsoft Excel, and paste the data into the grid in Graph."
+msgstr "Při vkládání posloupnosti bodů do tabulky lze kopírovat data z jiných aplikací (např. Microsoft Excel) a vložit je do tabulky programu Graph prostřednictvým schránky."
+
+msgid "You can use 'Zoom|Fit all' to change the coordinate system so all functions and point series are visible."
+msgstr "Pomocí příkazu 'Zobrazení|Zobrazit vše' lze změnit soustavu souřadnic tak, aby byly viditelné všechny funkce a posloupnosti bodů."
+
+msgid "You can use Zoom|Fit to change the coordinate system to show all parts of the selected function or point series."
+msgstr "Pomocí příkazu 'Zobrazení|Přizpůsobit' lze změnit soustavu souřadnic tak, aby byly vybrané funkce nebo posloupnosti bodů zobrazeny celé."
+
+msgid "When you hold down the Shift key you can drag the coordinate system around with the mouse."
+msgstr "Držíte-li stisknutou klávesu Shift, můžete pomocí myši posunovat soustavu souřadnic."
+
+msgid "You can use Calc|Evaluate to find intersections between functions, crossings with the axes and extremum points."
+msgstr "Pomocí příkazu Výpočty|Hodnota lze nalézt průsečíky funkcí, body, kde funkce protíná osy, a extrémy."
+
+msgid "When a point series is selected you can add points to it by clicking on the image while you hold down the Ctrl key."
+msgstr "Je-li vybrána posloupnost bodů, můžete do ní přidávat body tak, že stisknete klávesu Ctrl a klepnete do soustavy souřadnic."
+
+msgid "You can use a relation to plot any inequality, for example sin(x^2) < cos(y^2)"
+msgstr "Pomocí vztahu, jako např. sin(x^2) < cos(y^2), lze zobrazit nerovnost."
+
+msgid "You can use a relation to plot any equation, for example x*sin x = y*cos y"
+msgstr "Pomocí vztahu, jako např. x*sin x = y*cos y, lze zobrazit rovnost."
+
+msgid "Elements (functions, shadings, labels, relations, etc.) are drawn in the same order they appear in the function list to the left."
+msgstr "Jednotlivé položky (funkce, šrafování, popisy, vztahy apod.) jsou zobrazovány ve stejném pořadí, v jakém se nacházejí v seznamu vlevo."
+
+msgid "You can move the selected element in the function list either by dragging it with the mouse or with the arrow up/down keys while ALT is held down."
+msgstr "Vybranou položku v seznamu funkcí lze přesunout přetažením pomocí myši nebo pomocí šipek, držíte-li stisknutou klávesu ALT."
+
+msgid "You can show functions and other elements behind the axes by moving the element above the axes in the function list to the left. To move shadings and tangents you will have to move the functions they are attached to."
+msgstr "Funkce a další položky lze zobrazit za osami, přesunete-li je nad osy v seznamu funkcí vlevo. Chcete-li přesunout šrafování a tečny, je třeba přesunout také příslušné funkce."
+
+msgid "Custom text labels may be attached to the axes by right clicking on the label and selecting a placement from the context menu."
+msgstr "Osám lze přiřadit vlastní textové popisy. Klepněte pravým tlačítkem na popis a v místní nabídce vyberte umístění."
+
+msgid "The legend may be moved freely with the mouse or attached to one of the corners by right clicking on the legend and choose a placement from the context menu."
+msgstr "Legendu lze volně přesunovat pomocí myši nebo ji umístit do některého rohu. Klepněte na ni pravým tlačítkem a v místní nabídce vyberte umístění."
+
+msgid "As an alternative to Transparent, you can choose a custom background color for labels. This is especially useful for labels drawn over shadings."
+msgstr "Pro pozadí popisu můžete kromě průhledného zvolit také vlastní barvu. To je vhodné zejména pro popisy nad šrafováním."
+
+msgid "In most places like point series, axes settings, function ranges, etc., you can use expressions like pi/4 instead of numbers."
+msgstr "Ve většině případů (např. posloupnosti bodů, nastavení os, rozsahy funkcí apod.) lze namísto čísel použít výrazy jako pi/4."
+
+msgid "You can create your own custom constants under Function|Custom functions for use in functions, point series, etc. For example g=9.80665, R=8.31"
+msgstr "Pomocí příkazu Funkce|Vlastní funkce můžete vytvořit vlastní konstanty, např. g=9.80665, R=8.31, které lze potom použít ve funkcích, posloupnostech bodů apod. "
+
+msgid "You can create your own custom functions under Function|Custom functions for use in plotting functions, relations, etc. For example sinc(x)=if(x=0, 0, sin(x)/x)"
+msgstr "Pomocí příkazu Funkce|Vlastní funkce můžete vytvořit vlastní funkce, např. sinc(x)=if(x=0, 0, sin(x)/x), které lze potom použít ve funkcích, vztazích apod. "
+
+msgid "In the Save as image dialog there is an Option button you can use to specify the image resolution. This is especially useful if you want a high resolution image."
+msgstr "V dialogovém okně Uložit jako obrázek lze pomocí tlačítka Možnosti určit rozlišení obrázku. Tato funkce je vhodná zejména, chcete-li vytvořit obrázek ve vysokém rozlišení."
+
+msgid "Point series can have arrows as markers. A point series with arrows as markers and lines between the points can be used to show vectors."
+msgstr "Posloupnosti bodů mohou mít symbol zobrazený jako šipku. Posloupnost bodů se šipkami jako symboly a čárami mezi jednotlivými body lze použít k zobrazení vektorů."
+
+msgid "Insert symbol"
+msgstr "Vložit symbol"
+
+msgid "Subset:"
+msgstr "Podmnožina:"
+
+msgid "Insert"
+msgstr "Vložit"
+
+msgid "Select color"
+msgstr "Vybrat barvu"
+
+msgid "Customize"
+msgstr "Vlastní velikost"
+
+msgid "Description"
+msgstr "Popis"
+
+msgid "Cannot open clipboard: %s"
+msgstr "Nedá se otevřít schránka: %s"
+
+msgid "There is no default printer currently selected."
+msgstr "V systému není nainstalována žádná tiskárna."
+
+msgid "Install for all users"
+msgstr "Instalovat pro všechny uživatele"
+
+msgid "Examples"
+msgstr "Příklady"
+
+msgid "Local"
+msgstr "Místní"
+
+msgid "Global"
+msgstr "Globální"
+
+#. PrintFrm..Caption
+msgid "Print"
+msgstr "Tisk"
+
+#. PrintFrm..Label6..Caption
+msgid "Scale:"
+msgstr "Měřítko:"
+
+#. PrintFrm..GroupBox1..Caption
+msgid "Printer"
+msgstr "Tiskárna"
+
+#. PrintFrm..GroupBox1..Label7..Caption
+msgid "Type:"
+msgstr "Typ:"
+
+#. PrintFrm..GroupBox1..Label8..Caption
+msgid "Where:"
+msgstr "Připojení:"
+
+#. PrintFrm..GroupBox1..Label9..Caption
+msgid "Comment:"
+msgstr "Komentář:"
+
+#. PrintFrm..GroupBox1..ComboBox1....Hint
+msgid "Select the printer to use. The Properties button may be used to change more advanced settings for the printer."
+msgstr "Vyberte, kterou tiskárnu chcete použít. Pomocí tlačítka Vlastnosti lze změnit pokročilá nastavení tiskárny."
+
+#. PrintFrm..RadioGroup2....Hint
+msgid "Select to print in color (or grayscale if your printer is not a color printer) or convert all colors to black."
+msgstr "Vyberte chcete-li tisknout barevně (nebo ve stupních šedi, pokud nemáte barevnou tiskárnu) nebo převést všechny barvy na černou."
+
+#. PrintFrm..RadioGroup2..Caption
+msgid "Print output"
+msgstr "Výstup"
+
+#. PrintFrm..RadioGroup2....Items.Strings
+msgid "Color"
+msgstr "Barevný"
+
+#. PrintFrm..RadioGroup2....Items.Strings
+msgid "Black && white"
+msgstr "Černobílý"
+
+#. PrintFrm..GroupBox2..Caption
+msgid "Position (millimeters)"
+msgstr "Pozice (v milimetrech)"
+
+#. PrintFrm..GroupBox2..Label3..Caption
+msgid "Left margin:"
+msgstr "Levý okraj:"
+
+#. PrintFrm..GroupBox2..Label4..Caption
+msgid "Top margin:"
+msgstr "Horní okraj:"
+
+#. PrintFrm..GroupBox2..CheckBox1..Hint
+msgid "Center the printing area on the page."
+msgstr "Vystředit pozici grafu na stránce."
+
+#. PrintFrm..GroupBox2..CheckBox1..Caption
+msgid "Center on page"
+msgstr "Vystředit na stránce"
+
+#. PrintFrm..GroupBox2..Edit1....Hint
+#. PrintFrm..GroupBox2..Edit2....Hint
+msgid "Specify the printing area of the page. The printer will print only within these margins."
+msgstr "Určit tiskovou oblast stránky. Tiskárna bude tisknout jen v rámci této oblasti."
+
+#. PrintFrm..GroupBox3..Label5..Caption
+msgid "Number of copies:"
+msgstr "Počet kopií:"
+
+#. PrintFrm..GroupBox3..Edit3..Hint
+msgid "Choose number of copies to print."
+msgstr "Zvolte počet vytištěných kopií."
+
+#. PrintFrm..Edit4..Hint
+msgid "Enter percent of original size."
+msgstr "Zadejte velikost v procentech původní velikosti."
+
+#~ msgid "Associate *.grf files with Graph."
+#~ msgstr "Přiřadit soubory s příponou GRF k programu Graph. "
+
+#~ msgid "Associate .grf files"
+#~ msgstr "Přiřadit soubory GRF"
+
+#~ msgid "Integral"
+#~ msgstr "Integrál"
+
+#~ msgid "Calculate definite integral"
+#~ msgstr "Vypočítat určitý integrál"
+
+#, fuzzy
+#~ msgid "Integrate"
+#~ msgstr "Internet"
+
+#~ msgid "Area or length of path calculated for the given range using Simpson's formula."
+#~ msgstr "Obsah oblasti nebo délka křivky vypočítaná pro daný rozsah pomocí Simpsonova pravidla."
+
+#~ msgid "Extremum"
+#~ msgstr "Extrém"
+
+#~ msgid "This is the functions second derivative evaluated for the entered value."
+#~ msgstr "Toto je hodnota druhé derivace funkce pro zadanou hodnotu."
+
+#~ msgid "Zoom in."
+#~ msgstr "Přiblížit."
+
+#~ msgid "Zoom out."
+#~ msgstr "Oddálit."
+
+#~ msgid "Zoom to standard coordinates."
+#~ msgstr "Zobrazit standardní souřadnice."
+
+#~ msgid "Calculates the area under the path of the selected function."
+#~ msgstr "Vypočítat obsah oblasti pod vybranou funkcí."
+
+#~ msgid "Go to home page"
+#~ msgstr "Domovská stránka"
+
+#~ msgid "About Graph..."
+#~ msgstr "O programu Graph..."
+
+#~ msgid "All points"
+#~ msgstr "Všechny body"
+
+#~ msgid "Zoom as much as all points are visible."
+#~ msgstr "Zobrazit všechny body."
+
+#~ msgid "Zoom in on the x-axis only."
+#~ msgstr "Přiblížit pouze osu x"
+
+#~ msgid "Zoom out on the x-axis only."
+#~ msgstr "Oddálit pouze osu x."
+
+#~ msgid "Zoom in on the y-axis only."
+#~ msgstr "Přiblížit pouze osu y."
+
+#~ msgid "Zoom out on the y-axis only."
+#~ msgstr "Oddálit pouze osu y."
+
+#~ msgid "Custom functions..."
+#~ msgstr "Vlastní funkce"
+
+#~ msgid "Mark end of range"
+#~ msgstr "Označit konec rozsahu"
+
+#~ msgid "Mark the start of the shading with a line."
+#~ msgstr "Označit začátek šrafování čárou."
+
+#~ msgid "Mark start of range"
+#~ msgstr "Označit začátek rozsahu."
+
+#, fuzzy
+#~ msgid "Image information"
+#~ msgstr "Možnosti obrázku"
+
+#~ msgid "Open the file %s."
+#~ msgstr "Otevřete soubor %s."
+
+#~ msgid "Text [*.txt; *.csv]|*.txt;*.csv|All files [*.*]|*.*"
+#~ msgstr "Textové soubory [*.txt; *.csv]|*.txt;*.csv|Všechny soubory [*.*]|*.*"
+
+#~ msgid "The server responded with the message '%s'"
+#~ msgstr "Server vrátil následující zprávu: '%s'"
+
+#~ msgid "Protocol reply error %s"
+#~ msgstr "Chyba odpovědi protokolu %s"
+
+#~ msgid "You can send suggestions for future versions, bug reports and comments to graph@padowan.dk"
+#~ msgstr "Návrhy pro další verze, hlášení o chybách a komentáře můžete posílat na adresu graph@padowan.dk"
+
+#~ msgid "Select to place the image on the middle of the page."
+#~ msgstr "Umístění obrázku do středu stránky."
+
+#~ msgid "Insert shade..."
+#~ msgstr "Vložit šrafování..."
+
+#~ msgid "Shade"
+#~ msgstr "Šrafování"
+
+#~ msgid "Black"
+#~ msgstr "Černá"
+
+#~ msgid "Maroon"
+#~ msgstr "Kaštanová"
+
+#~ msgid "Green"
+#~ msgstr "Tmavě zelená"
+
+#~ msgid "Olive"
+#~ msgstr "Olivová"
+
+#~ msgid "Navy"
+#~ msgstr "Tmavě modrá"
+
+#~ msgid "Purple"
+#~ msgstr "Nachová"
+
+#~ msgid "Gray"
+#~ msgstr "Tmavě šedá"
+
+#~ msgid "Silver"
+#~ msgstr "Stříbrná"
+
+#~ msgid "Red"
+#~ msgstr "Červená"
+
+#~ msgid "Lime"
+#~ msgstr "Zelená"
+
+#~ msgid "Yellow"
+#~ msgstr "Žlutá"
+
+#~ msgid "Blue"
+#~ msgstr "Modrá"
+
+#~ msgid "Fuchsia"
+#~ msgstr "Fuchsiová"
+
+#~ msgid "Aqua"
+#~ msgstr "Azurová"
+
+#~ msgid "Money Green"
+#~ msgstr "Světle zelená"
+
+#~ msgid "Sky Blue"
+#~ msgstr "Světle modrá"
+
+#~ msgid "Med Gray"
+#~ msgstr "Šedá"
+
+#~ msgid "Insert a text label (select and click in the main window where you want the label)."
+#~ msgstr "Vložit textový popis (vyberte a v hlavním okně klepněte na umístění, kam chcete popis vložit)."
+
+#~ msgid "Cut the selected text to the clipboard"
+#~ msgstr "Vyjmout vybraný text a vložit ho do schránky."
+
+#~ msgid "Open an animation file."
+#~ msgstr "Otevřít soubor s animací."
+
+#, fuzzy
+#~ msgid "Version -%s"
+#~ msgstr "Verze "
+
+#~ msgid "Visible"
+#~ msgstr "Viditelná"
+
+#~ msgid "Check to make the selected item visible in the coordinate system."
+#~ msgstr "Zaškrtněte, chcete-li položku zobrazit v soustavě souřadnic."
+
+#~ msgid "Functions"
+#~ msgstr "Funkce"
+
+#~ msgid "Tangents"
+#~ msgstr "Tečny"
+
+#~ msgid "Point series"
+#~ msgstr "Posloupnost bodů"
+
+#~ msgid "Shades"
+#~ msgstr "Šrafování"
+
+#~ msgid "No error occurred. You should not see this message."
+#~ msgstr "Nedošlo k žádné chybě. Tato zpráva by neměla být zobrazena."
+
+#~ msgid "Symbol '%s' not found."
+#~ msgstr "Symbol '%s' nebyl nalezen."
+
+#~ msgid "Right bracket missing."
+#~ msgstr "Chybí uzavírací závorka."
+
+#~ msgid "Conversion error"
+#~ msgstr "Chyba konverze"
+
+#~ msgid ""
+#~ "Unknown error code.\n"
+#~ "Could not find error message for this error."
+#~ msgstr ""
+#~ "Neznámý kód chyby.\n"
+#~ "Pro tuto chybu nelze nelézt chybovou zprávu."
+
+#~ msgid "This error should not occur. Please report this to the programmer."
+#~ msgstr "Tato chyba by se neměla vyskytovat. Ohlašte ji prosím autorovi programu."
+
+#~ msgid "The maximum length of text has been reached."
+#~ msgstr "Byla dosažena největší délka textu."
+
+#~ msgid "Dialog error: %sh"
+#~ msgstr "Chyba dialogu: %sh"
+
+#~ msgid "Unknown Graph data found while pasting clipboard data."
+#~ msgstr "Program Graph nalezl při vkládání dat ze schránky neznámá data."

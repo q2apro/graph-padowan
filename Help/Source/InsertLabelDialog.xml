@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chapter SYSTEM "dtd/dblite.dtd" [
+<!ENTITY % Symbols SYSTEM "Symbols.ent">
+%Symbols;
+]>
+<section id="InsertLabelDialog">
+	<?dbhh topicname="IDH_DIALOG_LABEL" topicid="10"?>
+	<title>Insert label</title>
+	<indexterm><primary>insert</primary></indexterm>
+	<indexterm><primary>label</primary></indexterm>
+	<indexterm><primary>expression</primary></indexterm>
+	<indexterm><primary>OLE object</primary></indexterm>
+	<indexterm><primary>rotate</primary></indexterm>
+	<indexterm><primary>special character</primary></indexterm>
+	<indexterm><primary>Greek character</primary></indexterm>
+	<indexterm><primary>insert symbol</primary></indexterm>
+	<indexterm><primary>symbol</primary></indexterm>
+	<indexterm><primary>superscript</primary></indexterm>
+	<indexterm><primary>subscript</primary></indexterm>
+	<indexterm><primary>bold</primary></indexterm>
+	<indexterm><primary>italic</primary></indexterm>
+	<indexterm><primary>underline</primary></indexterm>
+	<para>
+		This dialog is used to insert or edit text labels.
+		To insert a label you use the menu item <menuchoice><guimenu>Function</guimenu><guimenuitem>Insert label...</guimenuitem></menuchoice>.
+		The label is inserted at the center of the graphing area, but can be dragged to another placement.
+		To change an existing label, you either <action>double click</action> on it in the graphing area or you select it in the <glossterm>function list</glossterm> and use <menuchoice><guimenu>Function</guimenu><guimenuitem>Edit...</guimenuitem></menuchoice>.
+	</para>
+
+  <graphic fileref="DialogLabel.png" align="center" scale="80"/>
+
+	<para>
+		The text is entered in the editing area.
+		You can change text styles for different parts of the text.
+		The background color, which may be any solid color or transparent, can be set for the whole label only.
+		The <guibutton><inlinegraphic fileref="Font_Symbol.png" scale="60"/></guibutton> button can be used to insert special characters like mathematical symbols and Greek characters.
+	</para>
+
+	<para>
+		A text label can also contain any <link linkend="OLE">OLE object</link>, for example an image or MS Equation.
+		You can paste an OLE object into the editing area like text.
+		A new object can be created at the cursor position by selecting <guimenuitem>Insert object</guimenuitem> in the context menu.
+		If there is more than one representation in the clipboard, you can use <guimenuitem>Paste special</guimenuitem> in the context menu to select the representation to paste.
+	</para>
+
+	<para>
+		When the <guibutton>OK</guibutton> button is pressed, the label will be shown in the graphing area.
+		The label can be moved by dragging it around with the mouse or it can be locked to one of the axes by
+		<action>right clicking</action> on it and selecting a placement from the context menu.
+		From the context menu it is also possible to rotate the label, for example to show the text vertically.
+	</para>
+
+	<para>
+		A label can contain and evaluate a <glossterm>numeric expression</glossterm>.
+		This is very useful when you want to show the value of <link linkend="CustomFunctionsDialog">custom constants</link> in a label.
+		Graph will try to evaluate any expression in a label if placed in brackets after a percent sign (%).
+		If you have 3 custom constants a=2.5, b=-3, and c=8.75, you can create a label with the text <literal>f(x)=%(a)x<superscript>2</superscript>+%(b)x+%(c)</literal>.
+		This label will be shown as <literal>f(x)=2.5x<superscript>2</superscript>-3x+8.75</literal> in the graphing area.
+		When you change the constants, the label will be updated to reflect the new values.
+		In the above case, the + preceding %(b) is removed because b evaluates to a negative number.
+	</para>
+</section>

@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chapter SYSTEM "dtd/dblite.dtd">
+<section id="Setting">
+	<section id="Graph.TProperty" xreflabel="Graph.TProperty">
+		<indexterm><primary>TProperty (class in Graph)</primary></indexterm>
+		<title>class <classname>Graph.TProperty</classname></title>
+		<para>
+			<variablelist>
+				<varlistentry>
+					<term>
+						<indexterm><primary>RoundTo (Graph.TProperty attribute)</primary></indexterm>
+						<classname>TProperty</classname>.<property>RoundTo</property>
+					</term>
+					<listitem>
+						<para>
+							Indicates the number of decimals used when showing numbers.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>SavePos (Graph.TProperty attribute)</primary></indexterm>
+						<classname>TProperty</classname>.<property>SavePos</property>
+					</term>
+					<listitem>
+						<para>
+							If <constant>True</constant> the window size and position is saved at program termination.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>ComplexFormat (Graph.TProperty attribute)</primary></indexterm>
+						<classname>TProperty</classname>.<property>ComplexFormat</property>
+					</term>
+					<listitem>
+						<para>
+							This indicates the format used when showing complex numbers.
+							It can be <classname>Graph.cfReal</classname>, <classname>Graph.cfRectangular</classname> or <classname>Graph.cfPolar</classname>.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>CheckForUpdate (Graph.TProperty attribute)</primary></indexterm>
+						<classname>TProperty</classname>.<property>CheckForUpdate</property>
+					</term>
+					<listitem>
+						<para>
+							When this is <constant>True</constant> Graph will check for updates when started.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term><classname>TProperty</classname>.<property>DefaultFunction</property></term>
+					<term><classname>TProperty</classname>.<property>DefaultPoint</property></term>
+					<term><classname>TProperty</classname>.<property>DefaultPointLine</property></term>
+					<term><classname>TProperty</classname>.<property>DefaultShade</property></term>
+					<term><classname>TProperty</classname>.<property>DefaultTrendline</property></term>
+					<term><classname>TProperty</classname>.<property>DefaultRelation</property></term>
+					<term><classname>TProperty</classname>.<property>DefaultTangent</property></term>
+					<term><classname>TProperty</classname>.<property>DefaultDif</property></term>
+					<listitem>
+						<indexterm><primary>DefaultFunction (Graph.TProperty attribute)</primary></indexterm>
+						<indexterm><primary>DefaultPoint (Graph.TProperty attribute)</primary></indexterm>
+						<indexterm><primary>DefaultPointLine (Graph.TProperty attribute)</primary></indexterm>
+						<indexterm><primary>DefaultShade (Graph.TProperty attribute)</primary></indexterm>
+						<indexterm><primary>DefaultTrendline (Graph.TProperty attribute)</primary></indexterm>
+						<indexterm><primary>DefaultRelation (Graph.TProperty attribute)</primary></indexterm>
+						<indexterm><primary>DefaultTangent (Graph.TProperty attribute)</primary></indexterm>
+						<indexterm><primary>DefaultDif (Graph.TProperty attribute)</primary></indexterm>
+						<para>
+							 A tuple with default settings for functions, point markers, point lines, shadings, trendlines, relations, tangents
+							and derivatives with style, color and size.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term><classname>TProperty</classname>.<property>DefaultPointLabelFont</property></term>
+					<term><classname>TProperty</classname>.<property>DefaultLabelFont</property></term>
+					<listitem>
+						<indexterm><primary>DefaultPointLabelFont (Graph.TProperty attribute)</primary></indexterm>
+						<indexterm><primary>DefaultLabelFont (Graph.TProperty attribute)</primary></indexterm>
+						<para>
+							VCL object of type <classname>TFont</classname> with default font settings for point series labels and text labels.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>ShowTipsAtStartup (Graph.TProperty attribute)</primary></indexterm>
+						<classname>TProperty</classname>.<property>ShowTipsAtStartup</property>
+					</term>
+					<listitem>
+						<para>
+							Indicates if Tip of the Day should be shown at startup.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>Language (Graph.TProperty attribute)</primary></indexterm>
+						<classname>TProperty</classname>.<property>Language</property>
+					</term>
+					<listitem>
+						<para>
+							This indicates the currently selected GUI language.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>FontScale (Graph.TProperty attribute)</primary></indexterm>
+						<classname>TProperty</classname>.<property>FontScale</property>
+					</term>
+					<listitem>
+						<para>
+							This specifies the scaling in percent of the user interface, including forms and fonts. The default is 100.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>CustomDecimalSeparator (Graph.TProperty attribute)</primary></indexterm>
+						<classname>TProperty</classname>.<property>CustomDecimalSeparator</property>
+					</term>
+					<listitem>
+						<para>
+							This specifies if another decimal separator than the one from the locale settings should be used when data
+							is imported and exported.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>DecimalSeparator (Graph.TProperty attribute)</primary></indexterm>
+						<classname>TProperty</classname>.<property>DecimalSeparator</property>
+					</term>
+					<listitem>
+						<para>
+							This is the decimal separator used for importing and exporting of data when <property>CustomDecimalSeparator</property> is True.
+						</para>
+					</listitem>
+				</varlistentry>
+			</variablelist>
+		</para>
+	</section>
+
+	<section id="Graph.TAxis" xreflabel="Graph.TAxis">
+		<indexterm><primary><classname>TAxis</classname> (class in Graph)</primary></indexterm>
+		<title>class <classname>Graph.TAxis</classname></title>
+		<para>
+			The <classname>TAxis</classname> class represents settings for one of the axes.
+			You cannot create new instances of this class but should access it through <code>Graph.Axes.xAxis</code> or <code>Graph.Axes.yAxis</code>.
+			<variablelist>
+				<varlistentry>
+					<term>
+						<indexterm><primary>Min (Graph.TAxis attribute)</primary></indexterm>
+						<classname>TAxis</classname>.<property>Min</property>
+					</term>
+					<listitem>
+						<para>
+							The minimum value of the axis.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>Max (Graph.TAxis attribute)</primary></indexterm>
+						<classname>TAxis</classname>.<property>Max</property>
+					</term>
+					<listitem>
+						<para>
+							The maximum value of the axis.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>LogScl (Graph.TAxis attribute)</primary></indexterm>
+						<classname>TAxis</classname>.<property>LogScl</property>
+					</term>
+					<listitem>
+						<para>
+							 Specifies if the axes is scaled logarithmic.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>MultipleOfPi (Graph.TAxis attribute)</primary></indexterm>
+						<classname>TAxis</classname>.<property>MultipleOfPi</property>
+					</term>
+					<listitem>
+						<para>
+							Specifies if numbers, tick marks and grid lines should be based on numbers that are a multiple of &pi; instead of integers.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>ShowLabel (Graph.TAxis attribute)</primary></indexterm>
+						<classname>TAxis</classname>.<property>ShowLabel</property>
+					</term>
+					<listitem>
+						<para>
+							If True the text specified in <property>Label</property> will be shown next to the axis.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>ShowNumbers (Graph.TAxis attribute)</primary></indexterm>
+						<classname>TAxis</classname>.<property>ShowNumbers</property>
+					</term>
+					<listitem>
+						<para>
+							If True numbers will be shown along the axis at the position of the tick marks.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>ShowTicks (Graph.TAxis attribute)</primary></indexterm>
+						<classname>TAxis</classname>.<property>ShowTicks</property>
+					</term>
+					<listitem>
+						<para>
+							Id True, tick marks are shown along the axis.
+							The distance between the tick marks are given in <property>TickUnit</property>.
+							If <property>LogScl</property> is True, the grid lines are shown at <property>TickUnit</property><superscript>N</superscript> where N is an integer.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>ShowGrid (Graph.TAxis attribute)</primary></indexterm>
+						<classname>TAxis</classname>.<property>ShowGrid</property>
+					</term>
+					<listitem>
+						<para>
+							If True, grid lines are shown perpendicular to the axis.
+							The distance between the grid lines are given in <property>GridUnit</property>.
+							If <property>LogScl</property> is True, the grid lines are shown at <property>GridUnit</property><superscript>N</superscript> where N is an integer,
+							with minor grid lines between the major grid lines.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>AutoTick (Graph.TAxis attribute)</primary></indexterm>
+						<classname>TAxis</classname>.<property>AutoTick</property>
+					</term>
+					<listitem>
+						<para>
+							 If True the value in <property>TickUnit</property> will be automatically calculated every time there is a change.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>AutoGrid (Graph.TAxis attribute)</primary></indexterm>
+						<classname>TAxis</classname>.<property>AutoGrid</property>
+					</term>
+					<listitem>
+						<para>
+							 If True the value in <property>GridUnit</property> will be automatically calculated every time there is a change.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>Label (Graph.TAxis attribute)</primary></indexterm>
+						<classname>TAxis</classname>.<property>Label</property>
+					</term>
+					<listitem>
+						<para>
+							This specifies a text string that will be shown next to the axis when <property>ShowLabel</property> is True.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>AxisCross (Graph.TAxis attribute)</primary></indexterm>
+						<classname>TAxis</classname>.<property>AxisCross</property>
+					</term>
+					<listitem>
+						<para>
+							A floating point value indicating the axis crosses the other axis.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>TickUnit (Graph.TAxis attribute)</primary></indexterm>
+						<classname>TAxis</classname>.<property>TickUnit</property>
+					</term>
+					<listitem>
+						<para>
+							The distance between the tick marks on the axis.
+							If <property>AutoTick</property> is True, this value will be automatically calculated every time the image is updated.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>GridUnit (Graph.TAxis attribute)</primary></indexterm>
+						<classname>TAxis</classname>.<property>GridUnit</property>
+					</term>
+					<listitem>
+						<para>
+							The distance between grid lines on the axis.
+							If <property>AutoGrid</property> is True, this value will be automatically calculated every time the image is updated.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>Visible (Graph.TAxis attribute)</primary></indexterm>
+						<classname>TAxis</classname>.<property>Visible</property>
+					</term>
+					<listitem>
+						<para>
+							When True the axis is shown in the image.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>ShowPositiveArrow (Graph.TAxis attribute)</primary></indexterm>
+						<classname>TAxis</classname>.<property>ShowPositiveArrow</property>
+					</term>
+					<listitem>
+						<para>
+							When True an arrow is shown in the positive end of the axis.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>ShowNegativeArrow (Graph.TAxis attribute)</primary></indexterm>
+						<classname>TAxis</classname>.<property>ShowNegativeArrow</property>
+					</term>
+					<listitem>
+						<para>
+							When True an arrow is shown in the negative end of the axis.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>NumberPlacement (Graph.TAxis attribute)</primary></indexterm>
+						<classname>TAxis</classname>.<property>NumberPlacement</property>
+					</term>
+					<listitem>
+						<para>
+							This specifies where the numbers along the axis is shown relative to the tick marks.
+							For the x-axis, the numbers can be centered below (<classname>Graph.npCenter</classname>) or shown below a little to the left of the tick marks (<classname>Graph.npBefore</classname>).
+							For the y-axis, the numbers can be centered to the left of the tick marks (<classname>Graph.npCenter</classname>) or shown below to the left (<classname>Graph.npBefore</classname>).
+						</para>
+					</listitem>
+				</varlistentry>
+			</variablelist>
+		</para>
+	</section>
+
+	<section id="Graph.TAxes" xreflabel="Graph.TAxes">
+		<indexterm><primary><classname>TAxes</classname> (class in Graph)</primary></indexterm>
+		<title>class <classname>Graph.TAxes</classname></title>
+		<para>
+			<variablelist>
+				<varlistentry>
+					<term>
+						<indexterm><primary>xAxis (Graph.TAxes attribute)</primary></indexterm>
+						<link linkend="Graph.TAxis"><classname>TAxes</classname>.<property>xAxis</property></link>
+					</term>
+					<listitem>
+						<para>
+							Structure of class <classname><xref linkend="Graph.TAxis"/></classname> with settings for the x-axis.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>yAxis (Graph.TAxes attribute)</primary></indexterm>
+						<link linkend="Graph.TAxis"><classname>TAxes</classname>.<property>yAxis</property></link>
+					</term>
+					<listitem>
+						<para>
+							Structure of class <classname><xref linkend="Graph.TAxis"/></classname> with settings for the y-axis.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>AxesColor (Graph.TAxes attribute)</primary></indexterm>
+						<classname>TAxes</classname>.<property>AxesColor</property>
+					</term>
+					<listitem>
+						<para>
+							This specifies the color of the axes. See the <ulink url="http://docwiki.embarcadero.com/VCL/en/Graphics.TColor">VCL documentation</ulink>.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>GridColor (Graph.TAxes attribute)</primary></indexterm>
+						<classname>TAxes</classname>.<property>GridColor</property>
+					</term>
+					<listitem>
+						<para>
+							This specifies the color of the grid lines. See the <ulink url="http://docwiki.embarcadero.com/VCL/en/Graphics.TColor">VCL documentation</ulink>.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>BackgroundColor (Graph.TAxes attribute)</primary></indexterm>
+						<classname>TAxes</classname>.<property>BackgroundColor</property>
+					</term>
+					<listitem>
+						<para>
+							This specifies the background color of the image. See the <ulink url="http://docwiki.embarcadero.com/VCL/en/Graphics.TColor">VCL documentation</ulink>.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>NumberFont (Graph.TAxes attribute)</primary></indexterm>
+						<classname>TAxes</classname>.<property>NumberFont</property>
+					</term>
+					<listitem>
+						<para>
+							This specifies the font used to write the numbers along the axes. See the <ulink url="http://docwiki.embarcadero.com/VCL/en/Graphics.TFont">VCL documentation</ulink>.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>LabelFont (Graph.TAxes attribute)</primary></indexterm>
+						<classname>TAxes</classname>.<property>LabelFont</property>
+					</term>
+					<listitem>
+						<para>
+							This specifies the font used to write the labels shown at the end of the axes. See the <ulink url="http://docwiki.embarcadero.com/VCL/en/Graphics.TFont">VCL documentation</ulink>.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>LegendFont (Graph.TAxes attribute)</primary></indexterm>
+						<classname>TAxes</classname>.<property>LegendFont</property>
+					</term>
+					<listitem>
+						<para>
+							This specifies the font used to write the text in the legend. See the <ulink url="http://docwiki.embarcadero.com/VCL/en/Graphics.TFont">VCL documentation</ulink>.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>TitleFont (Graph.TAxes attribute)</primary></indexterm>
+						<classname>TAxes</classname>.<property>TitleFont</property>
+					</term>
+					<listitem>
+						<para>
+							This specifies the font used to write the title above the coordinate system. See the <ulink url="http://docwiki.embarcadero.com/VCL/en/Graphics.TFont">VCL documentation</ulink>.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>Title (Graph.TAxes attribute)</primary></indexterm>
+						<classname>TAxes</classname>.<property>Title</property>
+					</term>
+					<listitem>
+						<para>
+							This specifies the title shown above the coordinate system. Set this to an empty string to not show a title.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>ShowLegend (Graph.TAxes attribute)</primary></indexterm>
+						<classname>TAxes</classname>.<property>ShowLegend</property>
+					</term>
+					<listitem>
+						<para>
+							When True the legend will be shown in the coordinate system.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>Trigonometry (Graph.TAxes attribute)</primary></indexterm>
+						<classname>TAxes</classname>.<property>Trigonometry</property>
+					</term>
+					<listitem>
+						<para>
+							This specifies if trigonometric functions calculate in radians or degrees. Valid values are <classname>Graph.Radian</classname> and <classname>Graph.Degree</classname>
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>AxesStyle (Graph.TAxes attribute)</primary></indexterm>
+						<classname>TAxes</classname>.<property>AxesStyle</property>
+					</term>
+					<listitem>
+						<para>
+							Indicates how the axes are show. Valid values are <classname>Graph.asNone</classname>, <classname>Graph.asCrossed</classname> and <classname>Graph.asBoxed</classname>.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>LegendPlacement (Graph.TAxes attribute)</primary></indexterm>
+						<classname>TAxes</classname>.<property>LegendPlacement</property>
+					</term>
+					<listitem>
+						<para>
+							This specifies where the legend is placed in the image.
+							Valid values are <classname>Graph.lpCustom</classname>, <classname>Graph.lpTopRight</classname>, <classname>Graph.lpBottomRight</classname>, <classname>Graph.lpTopLeft</classname> and	<classname>Graph.lpBottomLeft</classname>.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>LegendPos (Graph.TAxes attribute)</primary></indexterm>
+						<classname>TAxes</classname>.<property>LegendPos</property>
+					</term>
+					<listitem>
+						<para>
+							This is a tuple with the (x,y) coordinates of the top left corner of the legend.
+							It is only used when <property>LegendPlacement</property> is <classname>Graph.lpCustom</classname>.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>CalcComplex (Graph.TAxes attribute)</primary></indexterm>
+						<classname>TAxes</classname>.<property>CalcComplex</property>
+					</term>
+					<listitem>
+						<para>
+							When True Graph will use complex numbers when plotting functions, which will slow down the plotting.
+							It does not affect other evaluations than the plotting of functions.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>GridStyle (Graph.TAxes attribute)</primary></indexterm>
+						<classname>TAxes</classname>.<property>GridStyle</property>
+					</term>
+					<listitem>
+						<para>
+							Indicates how the grid is shown.
+							Valid values are <classname>Graph.gsLines</classname>, the default which is shown as lines, and <classname>Graph.gsDots</classname>, which shows a dot where the grid cross.
+						</para>
+					</listitem>
+				</varlistentry>
+			</variablelist>
+		</para>
+	</section>
+</section>

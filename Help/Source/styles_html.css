@@ -1,0 +1,40 @@
+/************************************************************************/
+/* Custom style-sheet stuff for the documentation in                    */
+/* single and multi page HTML format                                    */
+/*                                                                      */
+/* Overrides Definitions in styles_chm.css                              */
+/************************************************************************/
+
+@import url("styles_chm.css");
+
+/* Don't display indexterms */
+
+.indexterm {
+  margin: 0;
+  padding: 0;
+  display: inline;
+  background-image: none;
+}
+
+div.navheader {
+   width:100%; filter:none;
+   color: black;
+   background-repeat: no-repeat;
+   background-position: 50px 0;
+}
+
+div.navfooter {
+   color: black;
+}
+
+div.toc {
+   margin-top: 1cm;
+}
+
+tr.question td {
+   vertical-align: bottom;
+}
+
+tr.answer td {
+   vertical-align: top;
+}

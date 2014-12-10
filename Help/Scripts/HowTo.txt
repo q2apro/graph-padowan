@@ -1,0 +1,25 @@
+This describes how to create the help files for Graph.
+Newest file is available at http://graph.svn.sourceforge.net/viewvc/graph/Trunk/Help/Scripts/HowTo.txt
+
+1. Download and install Java from http://java.com/en/download/ Most will already have Java installed.
+
+2. Download and install Python 2.7 from http://python.org/ftp/python/2.7.2/python-2.7.2.msi
+
+3. Download and install libxml2 for Python from http://users.skynet.be/sbi/libxml-python/binaries/libxml2-python-2.7.7.win32-py2.7.exe
+
+4. Download and unpack the additional tools and source from http://padowan.dk/bin/Graph_Help.zip
+
+The po files with translations are placed under Help\po. To edit the po files you need Poedit from http://poedit.sf.net
+
+To compile all languages you just run the Build_All.bat file in the Help\Scripts folder.
+There are also bat files for compiling the help file for a single language. For example you can use Build_Spanish.bat to compile the Spanish help.
+
+You can update a translation to the latest version by opening the po file in poEdit, selecting
+"Catalog|Update from POT file" in the menu, and selecting the file GraphHelp.pot.
+
+The text contains some placeholders named like <placeholder-1/>.
+This is used to make the translations easier.
+The placeholders are used instead of a longer text that should not be translated or is translated elsewhere.
+The placeholders should therefore be kept in the translation.
+
+When the translation is finished, please send the po-file to Michael Bach Ipsen (translations@padowan.dk).

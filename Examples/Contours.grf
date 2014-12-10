@@ -1,0 +1,58 @@
+;This file was created by Graph (http://www.padowan.dk)
+;Do not change this file from other programs.
+[Graph]
+Version = 4.3.0.381
+MinVersion = 2.5
+OS = Windows XP 5.1 Service Pack 2
+
+[Axes]
+xMin = -10
+xMax = 10
+xTickUnit = 2
+xGridUnit = 2
+yMin = -10
+yMax = 10
+yTickUnit = 5
+yGridUnit = 5
+AxesColor = clBlue
+GridColor = 0x00FF9999
+ShowLegend = 1
+Radian = 1
+Title = Contour plot
+
+[Relation1]
+Relation = f(x,y)=1
+Style = 4
+Color = clGreen
+Size = 2
+
+[Relation2]
+Relation = f(x,y)=4
+Style = 4
+Color = clGreen
+Size = 2
+
+[Relation3]
+Relation = f(x,y)=8
+Style = 4
+Color = clGreen
+Size = 2
+
+[Label1]
+Placement = 6
+Pos = -9.7;0.5
+Text = {\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang1030{\\fonttbl{\\f0\\fnil\\fcharset0 Times New Roman;}{\\f1\\fnil Times New Roman;}}\n{\\colortbl ;\\red0\\green0\\blue0;}\n\\viewkind4\\uc1\\pard\\cf1\\f0\\fs24 f(x,y) = x*sin(y) + y * sin(x)\\f1\\par\n}\n
+BackgroundColor = clNone
+ShowInLegend = 0
+
+[Data]
+TextLabelCount = 1
+FuncCount = 0
+PointSeriesCount = 0
+ShadeCount = 0
+RelationCount = 3
+OleObjectCount = 0
+
+[CustomFunctions]
+f(x,y) = x*sin(y)+y*sin(x)
+

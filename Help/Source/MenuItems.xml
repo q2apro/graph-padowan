@@ -1,0 +1,778 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chapter SYSTEM "dtd/dblite.dtd">
+<chapter id="MenuItems">
+	<title>List of menu items</title>
+	<indexterm><primary>menu items</primary></indexterm>
+	<indexterm><primary>shortcuts</primary></indexterm>
+	<indexterm><primary>import</primary></indexterm>
+	<simplesect>
+		<para>
+			The following is a list of all the menu items in the program:
+			<variablelist>
+				<!-- File menu -->
+				<varlistentry>
+					<term>
+						<menuchoice>
+							<guimenu>File</guimenu><guimenuitem>New</guimenuitem>
+							<shortcut><keycombo><keycap>Ctrl</keycap><keycap><markup>N</markup></keycap></keycombo></shortcut>
+						</menuchoice>
+					</term>
+					<listitem>
+						<para>
+							Use this to create a new coordinate system for drawing graphs in.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<menuchoice>
+							<guimenu>File</guimenu><guimenuitem>Open...</guimenuitem>
+							<shortcut><keycombo><keycap>Ctrl</keycap><keycap><markup>O</markup></keycap></keycombo></shortcut>
+						</menuchoice>
+					</term>
+					<listitem>
+						<para>
+							Reads an earlier saved coordinate system from a .grf file.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<menuchoice>
+							<guimenu>File</guimenu><guimenuitem>Save</guimenuitem>
+							<shortcut><keycombo><keycap>Ctrl</keycap><keycap><markup>S</markup></keycap></keycombo></shortcut>
+						</menuchoice>
+					</term>
+					<listitem>
+						<para>
+							Saves the coordinate system to a file.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term><menuchoice><guimenu>File</guimenu><guimenuitem>Save as...</guimenuitem></menuchoice></term>
+					<listitem>
+						<para>
+							Saves the coordinate system to a file with a new name.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<link linkend="SaveImageDialog">
+							<menuchoice>
+								<guimenu>File</guimenu><guimenuitem>Save as image...</guimenuitem>
+								<shortcut><keycombo><keycap>Ctrl</keycap><keycap><markup>B</markup></keycap></keycombo></shortcut>
+							</menuchoice>
+						</link>
+					</term>
+					<listitem>
+						<para>
+							Saves the shown coordinate system as an image.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<menuchoice>
+							<guimenu>File</guimenu><guisubmenu>Import</guisubmenu><guimenuitem>Graph file...</guimenuitem>
+						</menuchoice>
+					</term>
+					<listitem>
+						<para>
+							Imports the contents of another Graph file into the current coordinate system.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<link linkend="ImportPointSeries">
+							<menuchoice>
+								<guimenu>File</guimenu><guisubmenu>Import</guisubmenu><guimenuitem>Point series...</guimenuitem>
+							</menuchoice>
+						</link>
+					</term>
+					<listitem>
+						<para>
+							Imports one or several point series from a tab, comma or semicolon separated data file.
+							The first column shall contain the x-coordinates.
+							The following columns shall contain the y-coordinates.
+							Graph will create as many point series as there are columns with y-coordinates in the file.
+							There is no limit to the number of point series possible in the data file as long as they share the same x-coordinates.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<menuchoice>
+							<guimenu>File</guimenu><guimenuitem>Print...</guimenuitem>
+							<shortcut><keycombo><keycap>Ctrl</keycap><keycap><markup>P</markup></keycap></keycombo></shortcut>
+						</menuchoice>
+					</term>
+					<listitem>
+						<para>
+							Sends the coordinate system and graphs to a printer.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<menuchoice>
+							<guimenu>File</guimenu><guimenuitem>Exit</guimenuitem>
+							<shortcut><keycombo><keycap>Alt</keycap><keycap><markup>F4</markup></keycap></keycombo></shortcut>
+						</menuchoice>
+					</term>
+					<listitem>
+						<para>
+							Quits the program. You may be asked to save the file.
+						</para>
+					</listitem>
+				</varlistentry>
+
+
+				<!-- Edit menu -->
+				<varlistentry>
+					<term>
+						<menuchoice>
+							<guimenu>Edit</guimenu><guimenuitem>Undo</guimenuitem>
+							<shortcut><keycombo><keycap>Ctrl</keycap><keycap><markup>Z</markup></keycap></keycombo></shortcut>
+						</menuchoice>
+					</term>
+					<listitem>
+						<para>
+							Use this to undo the last thing you did. You can choose how many undo steps that are saved in the <xref linkend="OptionsDialog" /> dialog.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<menuchoice>
+							<guimenu>Edit</guimenu><guimenuitem>Redo</guimenuitem>
+							<shortcut><keycombo><keycap>Ctrl</keycap><keycap><markup>Y</markup></keycap></keycombo></shortcut>
+						</menuchoice>
+					</term>
+					<listitem>
+						<para>
+							Use this to redo the last thing undone. This is only available after you have selected <menuchoice><guimenu>Edit</guimenu><guimenuitem>Undo</guimenuitem></menuchoice>.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<menuchoice>
+							<guimenu>Edit</guimenu><guimenuitem>Cut</guimenuitem>
+							<shortcut><keycombo><keycap>Ctrl</keycap><keycap><markup>X</markup></keycap></keycombo></shortcut>
+						</menuchoice>
+					</term>
+					<listitem>
+						<para>
+							This will copy the selected <glossterm>graph element</glossterm> to the clipboard. The element will be deleted afterwards.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<menuchoice>
+							<guimenu>Edit</guimenu><guimenuitem>Copy</guimenuitem>
+							<shortcut><keycombo><keycap>Ctrl</keycap><keycap><markup>C</markup></keycap></keycombo></shortcut>
+						</menuchoice>
+					</term>
+					<listitem>
+						<para>
+							This will copy the selected <glossterm>graph element</glossterm> to the clipboard.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<menuchoice>
+							<guimenu>Edit</guimenu><guimenuitem>Paste</guimenuitem>
+							<shortcut><keycombo><keycap>Ctrl</keycap><keycap><markup>V</markup></keycap></keycombo></shortcut>
+						</menuchoice>
+					</term>
+					<listitem>
+						<para>
+							This will paste an earlier copied <glossterm>graph element</glossterm> from the clipboard into the coordinate system.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<menuchoice>
+							<guimenu>Edit</guimenu><guimenuitem>Copy image</guimenuitem>
+							<shortcut><keycombo><keycap>Ctrl</keycap><keycap><markup>I</markup></keycap></keycombo></shortcut>
+						</menuchoice>
+					</term>
+					<listitem>
+						<para>
+						 	Copies the shown coordinate system to the clipboard as an image. You can then paste it into another program, i.e. Microsoft Word.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<link linkend="AxesDialog">
+							<menuchoice>
+								<guimenu>Edit</guimenu><guimenuitem>Axes...</guimenuitem>
+								<shortcut><keycombo><keycap>Ctrl</keycap><keycap><markup>A</markup></keycap></keycombo></shortcut>
+							</menuchoice>
+						</link>
+					</term>
+					<listitem>
+						<para>
+							Edit specifications for the axes, e.g. scale, colors, legend placement, etc.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<link linkend="OptionsDialog">
+							<menuchoice>
+								<guimenu>Edit</guimenu><guimenuitem>Options...</guimenuitem>
+							</menuchoice>
+						</link>
+					</term>
+					<listitem>
+						<para>
+							This will change global settings for Graph, e.g. association of .grf files, showing of tooltips, maximum number of undo stored undo steps, etc.
+						</para>
+					</listitem>
+				</varlistentry>
+
+
+				<!-- Function menu -->
+				<varlistentry>
+					<term>
+						<link linkend="InsertFunctionDialog">
+							<menuchoice>
+								<guimenu>Function</guimenu><guimenuitem>Insert function...</guimenuitem>
+								<shortcut><keycap>Ins</keycap></shortcut>
+							</menuchoice>
+						</link>
+					</term>
+					<listitem>
+						<para>
+							Inserts a function into the coordinate system.
+							Functions may be added with different width and color, and you can choose to only show the graph in a specified interval, and specify other settings too.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<link linkend="InsertTangentDialog">
+							<menuchoice>
+								<guimenu>Function</guimenu><guimenuitem>Insert tangent...</guimenuitem>
+								<shortcut><keycap><markup>F2</markup></keycap></shortcut>
+							</menuchoice>
+						</link>
+					</term>
+					<listitem>
+						<para>
+							Use this dialog to add a tangent to an already shown function at a user-specified point.
+							The tangent will be added to the function selected in the <glossterm>function list</glossterm>.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<link linkend="InsertShadingDialog">
+							<menuchoice>
+								<guimenu>Function</guimenu><guimenuitem>Insert shading...</guimenuitem>
+								<shortcut><keycap><markup>F3</markup></keycap></shortcut>
+							</menuchoice>
+						</link>
+					</term>
+					<listitem>
+						<para>
+							This menu item is used to add a shading to the selected function.
+							You may choose between different styles of shading and different colors.
+							The shading may be added above the function, below the function, between the function and the x-axis, between the function and the y-axis, inside the function or between two functions.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<link linkend="InsertDerivativeDialog">
+							<menuchoice>
+								<guimenu>Function</guimenu><guimenuitem>Insert f'(x)...</guimenuitem>
+								<shortcut><keycap><markup>F7</markup></keycap></shortcut>
+							</menuchoice>
+						</link>
+					</term>
+					<listitem>
+						<para>
+							This dialog is used to add the first derivative to the selected function.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<link linkend="InsertPointSeriesDialog">
+							<menuchoice>
+								<guimenu>Function</guimenu><guimenuitem>Insert point series...</guimenuitem>
+								<shortcut><keycap><markup>F4</markup></keycap></shortcut>
+							</menuchoice>
+						</link>
+					</term>
+					<listitem>
+						<para>
+							Inserts a new point series into the coordinate system.
+							An infinite number of points defined by their x- and y-coordinates may be added.
+							It is possible to choose color, size, and style of the point series.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<link linkend="InsertTrendlineDialog">
+							<menuchoice>
+								<guimenu>Function</guimenu><guimenuitem>Insert trendline...</guimenuitem>
+								<shortcut><keycombo><keycap>Ctrl</keycap><keycap><markup>T</markup></keycap></keycombo></shortcut>
+							</menuchoice>
+						</link>
+					</term>
+					<listitem>
+						<para>
+							Inserts a trendline as the curve of best fit for the selected point series.
+							You may choose between different kinds of functions for the trendline.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<link linkend="InsertRelationDialog">
+							<menuchoice>
+								<guimenu>Function</guimenu><guimenuitem>Insert relation...</guimenuitem>
+								<shortcut><keycap><markup>F6</markup></keycap></shortcut>
+							</menuchoice>
+						</link>
+					</term>
+					<listitem>
+						<para>
+							This inserts an equation or inequality into the coordinate system.
+							Equations and inequalities are used to express relations between x- and y-coordinates with the same operators etc. as for graphs of functions.
+							Relations may be added with different shading styles and colors.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<link linkend="InsertLabelDialog">
+							<menuchoice>
+								<guimenu>Function</guimenu><guimenuitem>Insert label...</guimenuitem>
+								<shortcut><keycap><markup>F8</markup></keycap></shortcut>
+							</menuchoice>
+						</link>
+					</term>
+					<listitem>
+						<para>
+							This will show a dialog, which may be used to create a formatted text label.
+							The label will always be created at the center of the graphing area but can afterwards be dragged to another place with the mouse.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<menuchoice>
+							<guimenu>Function</guimenu><guimenuitem>Edit...</guimenuitem>
+							<shortcut><keycap>Enter</keycap></shortcut>
+						</menuchoice>
+					</term>
+					<listitem>
+						<para>
+							This will show a dialog where you can change the selected <glossterm>graph element</glossterm> in the <glossterm>function list</glossterm>.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<menuchoice>
+							<guimenu>Function</guimenu><guimenuitem>Delete</guimenuitem>
+							<shortcut><keycap>Del</keycap></shortcut>
+						</menuchoice>
+					</term>
+					<listitem>
+						<para>
+							This will delete the selected <glossterm>graph element</glossterm> in the <glossterm>function list</glossterm>.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<link linkend="CustomFunctionsDialog">
+							<menuchoice>
+								<guimenu>Function</guimenu><guimenuitem>Custom functions...</guimenuitem>
+								<shortcut><keycombo><keycap>Ctrl</keycap><keycap><markup>F</markup></keycap></keycombo></shortcut>
+							</menuchoice>
+						</link>
+					</term>
+					<listitem>
+						<para>
+							This shows a dialog used to create custom functions and constants in addition to the built-in ones.
+						</para>
+					</listitem>
+				</varlistentry>
+
+
+				<!-- Zoom menu -->
+				<varlistentry>
+					<term>
+						<menuchoice>
+							<guimenu>Zoom</guimenu><guimenuitem>In</guimenuitem>
+							<shortcut><keycombo><keycap>Ctrl</keycap><keycap><markup>+</markup></keycap></keycombo></shortcut>
+						</menuchoice>
+					</term>
+					<listitem>
+						<para>
+							This will zoom in at the center of the graphing area, so you will see a &frac14; of the previous graphing area.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<menuchoice>
+							<guimenu>Zoom</guimenu><guimenuitem>Out</guimenuitem>
+							<shortcut><keycombo><keycap>Ctrl</keycap><keycap><markup>-</markup></keycap></keycombo></shortcut>
+						</menuchoice>
+					</term>
+					<listitem>
+						<para>
+							This will zoom out so you see 4 times as much as on the previous graphing area.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<menuchoice>
+							<guimenu>Zoom</guimenu><guimenuitem>Window</guimenuitem>
+							<shortcut><keycombo><keycap>Ctrl</keycap><keycap><markup>W</markup></keycap></keycombo></shortcut>
+						</menuchoice>
+					</term>
+					<listitem>
+						<para>
+							Hold down the <action>left mouse button</action> while you select the area you want to fill the whole graphing area.
+							<action>Right click</action> or press <keycap>Esc</keycap> to cancel the command.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<menuchoice>
+							<guimenu>Zoom</guimenu><guimenuitem>Square</guimenuitem>
+							<shortcut><keycombo><keycap>Ctrl</keycap><keycap><markup>Q</markup></keycap></keycombo></shortcut>
+						</menuchoice>
+					</term>
+					<listitem>
+						<para>
+							This changes the y-axis to the same scale as the x-axis.
+							It will make a circle look correctly instead of showing as an ellipse.
+							The axes will stay equally scaled until disabled again.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<menuchoice>
+							<guimenu>Zoom</guimenu><guimenuitem>Standard</guimenuitem>
+							<shortcut><keycombo><keycap>Ctrl</keycap><keycap><markup>D</markup></keycap></keycombo></shortcut>
+						</menuchoice>
+					</term>
+					<listitem>
+						<para>
+							Returns the axes settings to the same default settings used when creating a new coordinate system.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<menuchoice>
+							<guimenu>Zoom</guimenu><guimenuitem>Move system</guimenuitem>
+							<shortcut><keycombo><keycap>Ctrl</keycap><keycap><markup>M</markup></keycap></keycombo></shortcut>
+						</menuchoice>
+					</term>
+					<listitem>
+						<para>
+							When selected the mouse pointer changes to a hand. You may now use the mouse to drag the coordinate system around.
+							Select the menu item again, <action>right click</action> or press <keycap>Esc</keycap> to return to normal mode.
+							As an alternative to this menu item, you may hold down the <keycap>Shift</keycap> key and drag the coordinate system around.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<menuchoice>
+							<guimenu>Zoom</guimenu><guimenuitem>Fit</guimenuitem>
+						</menuchoice>
+					</term>
+					<listitem>
+						<para>
+							This will change the axes settings to show all parts of the selected <glossterm>graph element</glossterm>.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<menuchoice>
+							<guimenu>Zoom</guimenu><guimenuitem>Fit all</guimenuitem>
+						</menuchoice>
+					</term>
+					<listitem>
+						<para>
+							This will change the axes settings to show all parts of all the elements in the <glossterm>function list</glossterm>.
+						</para>
+					</listitem>
+				</varlistentry>
+
+
+				<!-- Calc menu -->
+				<varlistentry>
+					<term>
+						<link linkend="LengthOfPathFrame">
+							<menuchoice>
+								<guimenu>Calc</guimenu><guimenuitem>Length of path</guimenuitem>
+							</menuchoice>
+						</link>
+					</term>
+					<listitem>
+						<para>
+							Calculates the distance along the path between two points on the selected graph.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<link linkend="AreaFrame">
+							<menuchoice>
+								<guimenu>Calc</guimenu><guimenuitem>Integrate</guimenuitem>
+							</menuchoice>
+						</link>
+					</term>
+					<listitem>
+						<para>
+							Calculates the definite integral for a specified domain range.
+							This is the same as the signed area between the graph and the x-axis.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<link linkend="EvaluateFrame">
+							<menuchoice>
+								<guimenu>Calc</guimenu><guimenuitem>Evaluate</guimenuitem>
+								<shortcut><keycombo><keycap>Ctrl</keycap><keycap><markup>E</markup></keycap></keycombo></shortcut>
+							</menuchoice>
+						</link>
+					</term>
+					<listitem>
+						<para>
+							This will evaluate the selected function for a given value.
+							For standard functions f(x), f'(x) and f''(x) are evaluated.
+							For parametric functions x(t), y(t), dx/dt, dy/dt and dy/dx are evaluated.
+							For polar functions r(t), x(t), y(t), dr/dt and dy/dt are evaluated.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<link linkend="TableDialog">
+							<menuchoice>
+								<guimenu>Calc</guimenu><guimenuitem>Table...</guimenuitem>
+							</menuchoice>
+						</link>
+					</term>
+					<listitem>
+						<para>
+							This dialog fills a table with a user-specified range of values and the result of evaluating the selected function for the values.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<link linkend="AnimateDialog">
+							<menuchoice>
+								<guimenu>Calc</guimenu><guimenuitem>Animate...</guimenuitem>
+							</menuchoice>
+						</link>
+					</term>
+					<listitem>
+						<para>
+							This dialog allows you to create an animation from the data in the coordinate system by changing an existing custom constant.
+							This makes it easy to see what happens when the constant changes.
+							The animation may be saved to a disk file.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<guimenu>Plugins</guimenu>
+					</term>
+					<listitem>
+						<para>
+							This is a common place for plugins to put menu items that activates the plugin.
+							The menu will not be shown if there are no plugins or the <link linkend="Plugins">plugin system</link> is not available.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<!-- Help menu -->
+				<varlistentry>
+					<term>
+						<menuchoice>
+							<guimenu>Help</guimenu><guimenuitem>Contents and index</guimenuitem>
+							<shortcut><keycap><markup>F1</markup></keycap></shortcut>
+						</menuchoice>
+					</term>
+					<listitem>
+						<para>
+							Shows the contents and index of the help file.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<menuchoice>
+							<guimenu>Help</guimenu><guimenuitem>List of functions</guimenuitem>
+							<shortcut><keycombo><keycap>Ctrl</keycap><keycap><markup>F1</markup></keycap></keycombo></shortcut>
+						</menuchoice>
+					</term>
+					<listitem>
+						<para>
+							Shows a list of functions and constants that may be used for plotting graphs.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<menuchoice>
+							<guimenu>Help</guimenu><guimenuitem>Frequently Asked Questions</guimenuitem>
+						</menuchoice>
+					</term>
+					<listitem>
+						<para>
+							This will show a list of frequently asked questions and their answers.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<menuchoice>
+							<guimenu>Help</guimenu><guimenuitem>Tip of the day</guimenuitem>
+						</menuchoice>
+					</term>
+					<listitem>
+						<para>
+							This will show some tips about using Graph in a more optimal way, and certain features of Graph you may not know about.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<menuchoice>
+							<guimenu>Help</guimenu><guisubmenu>Internet</guisubmenu><guimenuitem>Graph web site</guimenuitem>
+						</menuchoice>
+					</term>
+					<listitem>
+						<para>
+							Shows the web site for Graph in your default web browser.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<menuchoice>
+							<guimenu>Help</guimenu><guisubmenu>Internet</guisubmenu><guimenuitem>Support</guimenuitem>
+						</menuchoice>
+					</term>
+					<listitem>
+						<para>
+							Shows the support forum for Graph in your default web browser.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<menuchoice>
+							<guimenu>Help</guimenu><guisubmenu>Internet</guisubmenu><guimenuitem>Donate</guimenuitem>
+						</menuchoice>
+					</term>
+					<listitem>
+						<para>
+							Shows the web page that allows you to donate to the Graph project to support its development.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<menuchoice>
+							<guimenu>Help</guimenu><guisubmenu>Internet</guisubmenu><guimenuitem>Check for update</guimenuitem>
+						</menuchoice>
+					</term>
+					<listitem>
+						<para>
+							This will check if a new version of Graph is available.
+							If there is a new version, you will be asked if you want to visit the web site of Graph to download the new version.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<menuchoice>
+							<guimenu>Help</guimenu><guimenuitem>About Graph</guimenuitem>
+							<shortcut><keycombo><keycap>Alt</keycap><keycap><markup>F1</markup></keycap></keycombo></shortcut>
+						</menuchoice>
+					</term>
+					<listitem>
+						<para>
+							Shows version number, copyright and license information for Graph.
+						</para>
+					</listitem>
+				</varlistentry>
+			</variablelist>
+		</para>
+	</simplesect>
+</chapter>

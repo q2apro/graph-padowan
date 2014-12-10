@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<fop version="1.0">
+
+  <renderers>
+    <renderer mime="application/pdf">
+      <fonts>
+        <font kerning="yes" embed-url="file:///C:/Windows/Fonts/Times.ttf">
+          <font-triplet name="Times" style="normal" weight="normal"/>
+          <font-triplet name="TimesMT" style="normal" weight="normal"/>
+        </font>
+      </fonts>
+		</renderer>
+  </renderers>
+
+</fop>
+

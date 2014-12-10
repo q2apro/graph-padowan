@@ -1,0 +1,76 @@
+;This file was created by Graph (http://www.padowan.dk)
+;Do not change this file from other programs.
+[Graph]
+Version = 4.3.0.380
+MinVersion = 2.5
+OS = Windows XP 5.1 Service Pack 2
+
+[Axes]
+xMin = -10
+xMax = 10
+xTickUnit = 2
+xGridUnit = 2
+yMin = -7.23478260869565
+yMax = 7.23478260869565
+yTickUnit = 2
+yGridUnit = 2
+AxesColor = clBlue
+GridColor = 0x00FF9999
+ShowLegend = 1
+Radian = 1
+LegendPlacement = 2
+
+[Func1]
+FuncType = 0
+y = F(x)
+ShowInLegend = 0
+Color = clBlue
+
+[Func2]
+FuncType = 0
+y = x
+ShowInLegend = 0
+Style = 3
+Color = clRed
+
+[Func3]
+FuncType = 1
+x = 0.5((1+N(k))t+(1-N(k))F(t))
+y = 0.5((1-N(k))t+(1+N(k))F(t))
+ShowInLegend = 0
+From = -100
+To = 100
+Steps = 1000
+Color = clFuchsia
+
+[Label1]
+Placement = 0
+Pos = 6.83478260869565;6.81739130434783
+Text = {\\rtf1\\ansi\\ansicpg936\\deff0\\deflang1033\\deflangfe2052{\\fonttbl{\\f0\\fnil\\fcharset0 Times New Roman;}{\\f1\\fnil Times New Roman;}}\n{\\colortbl ;\\red255\\green0\\blue0;}\n\\viewkind4\\uc1\\pard\\cf1\\f0\\fs24 Axis \\i y \\i0 = \\i x\\lang2052\\i0\\f1\\par\n}\n
+BackgroundColor = clNone
+ShowInLegend = 0
+
+[Label2]
+Placement = 0
+Pos = -9.96521739130435;7.2
+Text = {\\rtf1\\ansi\\ansicpg936\\deff0\\deflang1033\\deflangfe2052{\\fonttbl{\\f0\\fnil\\fcharset0 Times New Roman;}}\n{\\colortbl ;\\red0\\green0\\blue255;\\red255\\green0\\blue0;\\red128\\green0\\blue0;}\n\\viewkind4\\uc1\\pard\\cf1\\lang2052\\f0\\fs20 To reflect graph about axis \\i y \\i0 = \\i x\\i0 , \\par\n1) Go to Function | Custom Functions...\\par\n    and define your function \\cf2\\i F\\i0 (\\i x\\i0 )\\cf1 .\\par\n2) Click Calc | Animate... | Animate.\\cf3\\par\n}\n
+BackgroundColor = clMoneyGreen
+ShowInLegend = 0
+
+[Data]
+TextLabelCount = 2
+FuncCount = 3
+PointSeriesCount = 0
+ShadeCount = 0
+RelationCount = 0
+OleObjectCount = 0
+
+[CustomFunctions]
+F(x) = x^3-5x^2+5x-2
+k = 0
+N(x) = (-2x+1)
+
+[Animate]
+Constant = k
+%k = 0;1;0.1
+

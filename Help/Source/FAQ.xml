@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chapter SYSTEM "dtd/dblite.dtd" [
+]>
+<chapter id="FAQ">
+	<title>Frequently Asked Questions</title>
+	<indexterm><primary>FAQ</primary></indexterm>
+	<indexterm><primary>questions</primary></indexterm>
+	<indexterm><primary>tips</primary></indexterm>
+	<indexterm><primary>tricks</primary></indexterm>
+	<para>
+		<qandaset>
+			<?dbfo label-width="$LabelWidth"?>
+			<qandaentry>
+				<question>
+					<para>
+						What are the system requirements of Graph?
+					</para>
+				</question>
+				<answer>
+					<para>
+						Graph requires Microsoft Windows 2000 or newer.
+						It has been tested under
+						<markup><simplelist type="inline">
+						  <?dbchoice choice="and"?>
+							<member><application>Windows 2000</application></member>
+							<member><application>Windows XP</application></member>
+							<member><application>Windows Vista</application></member>
+							<member><application>Windows 7</application></member>
+						</simplelist></markup>.
+					</para>
+				</answer>
+			</qandaentry>
+
+			<qandaentry>
+				<question>
+					<para>
+						Will Graph run under Linux?
+					</para>
+				</question>
+				<answer>
+					<para>
+						Graph is a native Windows application and not tested under Linux, but several users have informed me that Graph runs without problems under Linux with Wine.
+					</para>
+				</answer>
+			</qandaentry>
+
+			<qandaentry>
+				<question>
+					<para>
+						Will Graph run on a Macintosh?
+					</para>
+				</question>
+				<answer>
+					<para>
+						As with the above, you cannot run Graph directly on a Mac. But it should be possible with some kind of Windows emulator.
+					</para>
+				</answer>
+			</qandaentry>
+
+			<qandaentry>
+				<question>
+					<para>
+						When will the next version be released?
+					</para>
+				</question>
+				<answer>
+					<para>
+						When it is ready.
+					</para>
+				</answer>
+			</qandaentry>
+
+			<qandaentry>
+				<question>
+					<para>
+						How can I move the coordinate system?
+					</para>
+				</question>
+				<answer>
+					<para>
+						When you hold down the <keycap>Ctrl</keycap> key you can use the arrow keys to move the coordinate system.
+						You can also use
+						<menuchoice>
+							<guimenu>Zoom</guimenu>
+							<guimenuitem>Move system</guimenuitem>
+						</menuchoice>
+						and drag the coordinate system around with the mouse.
+					</para>
+				</answer>
+			</qandaentry>
+
+			<qandaentry>
+				<question>
+					<para>
+						How can I easily zoom in and out?
+					</para>
+				</question>
+				<answer>
+					<para>
+						When you hold down the <keycap>Ctrl</keycap> key you can use the <keycap>+</keycap> and <keycap>-</keycap> keys to zoom in and out.
+						The scroll wheel on the mouse can be used for zooming at the position of the mouse pointer.
+						When you move the scroll wheel up the program will zoom into the coordinate system and center the graphing area at the position of the mouse pointer.
+						When you move the scroll wheel down the program zooms out.
+					</para>
+				</answer>
+			</qandaentry>
+
+			<qandaentry>
+				<question>
+					<para>
+						How do I save default settings?
+					</para>
+				</question>
+				<answer>
+					<para>
+						Set the desired default settings in the <xref linkend="AxesDialog" /> dialog,
+						and put a mark in <guilabel>Save as default</guilabel> before pressing the <guibutton>OK</guibutton> button.
+						Next time you create a new coordinate system, the saved default settings will be used.
+					</para>
+				</answer>
+			</qandaentry>
+
+			<qandaentry>
+				<question>
+					<para>
+						Can I make the program remember the size and position of the window?
+					</para>
+				</question>
+				<answer>
+					<para>
+						When you select <guilabel>Save workspace on exit</guilabel> in the <xref linkend="OptionsDialog" /> dialog.
+						Graph will save the position and size of the main window when the program quits.
+						The next time the program starts the same size and position is used.
+					</para>
+				</answer>
+			</qandaentry>
+
+			<qandaentry>
+				<question>
+					<para>
+						Why does the program not accept a comma as decimals separator?
+					</para>
+				</question>
+				<answer>
+					<para>
+						I know a lot of countries use comma to separate the decimal part from the integer part, but Graph uses comma for separating function arguments.
+						The program always uses a period to separate decimals from the integer value, no matter your local settings.
+					</para>
+				</answer>
+			</qandaentry>
+
+			<qandaentry>
+				<question>
+					<para>
+						How do I plot a vertical line?
+					</para>
+				</question>
+				<answer>
+					<para>
+						A vertical line can be drawn as a parametric function.
+						Select <guilabel>Parametric function</guilabel> as <guilabel>Function type</guilabel> when adding the function.
+						You can then add the vertical line at x=5 as <userinput>x(t)=5, y(t)=t</userinput>.
+						Alternatively you can add <userinput>x=5</userinput> as a relation.
+					</para>
+				</answer>
+			</qandaentry>
+
+			<qandaentry>
+				<question>
+					<para>
+						How do I plot a function x=f(y)?
+					</para>
+				</question>
+				<answer>
+					<para>
+						To draw a function with y as the independent variable, you need to use a parametric function.
+						Select <guilabel>Parametric function</guilabel> as <guilabel>Function type</guilabel> when adding the function.
+						If you want to draw the function x=sin(y), you can now enter the function as <userinput>x(t)=sin(t), y(t)=t</userinput>.
+						Alternatively you can draw it as a relation where you can enter <userinput>x=sin(y)</userinput> directly.
+					</para>
+				</answer>
+			</qandaentry>
+
+			<qandaentry>
+				<question>
+					<para>
+						How do I plot a circle?
+					</para>
+				</question>
+				<answer>
+					<para>
+						You need to use a parametric function to draw a circle.
+						When inserting the function, select <guilabel>Parametric function</guilabel> as <guilabel>Function type</guilabel>.
+						You can now add a circle with radius 5 and center in (2,3) as <userinput>x(t)=5cos(t)+2, y(t)=5sin(t)+3</userinput>.
+						You may need to use
+						<menuchoice>
+							<guimenu>Zoom</guimenu>
+							<guimenuitem>Square</guimenuitem>
+						</menuchoice>
+						to make the axes equally scaled.
+						Else the circle may look like an ellipse.
+						A circle can also be added as a polar function, but only with center in (0,0).
+						A circle with radius 5 may be added as the polar function <userinput>r(t)=5</userinput>.
+						Alternatively you can use a relation and add the circle as <userinput>(x-2)^2+(y-3)^2=5^2</userinput>.
+					</para>
+				</answer>
+			</qandaentry>
+
+			<qandaentry>
+				<question>
+					<para>
+						How do I calculate the area between two functions?
+					</para>
+				</question>
+				<answer>
+					<para>
+						If you want to find the area between two functions f1(x)=3x and f2(x)=x^2,
+						the easiest way is to create a new function that is the difference between the two functions: f(x)=f1(x)-f2(x)=3x-x^2.
+						You can then use
+						<menuchoice>
+							<guimenu>Calc</guimenu>
+							<guimenuitem>Integrate</guimenuitem>
+						</menuchoice>
+						to calculate the area for a given interval.
+					</para>
+				</answer>
+			</qandaentry>
+
+			<qandaentry>
+				<question>
+					<para>
+						How do I plot the inverse of any given function?
+					</para>
+				</question>
+				<answer>
+					<para>
+						You can use a parametric function for this.
+						If you want to plot the inverse of <mathphrase>f(x)=x<superscript>2</superscript>-2x</mathphrase>,
+						you can insert it as the parametric function <userinput>x(t)=t^2-2t, y(t)=t</userinput>.
+					</para>
+				</answer>
+			</qandaentry>
+
+			<qandaentry>
+				<question>
+					<para>
+						How can I draw the negative part of f(x)=sqrt(x+2) ?
+					</para>
+				</question>
+				<answer>
+					<para>
+						For each value x, f(x) will evaluate to at most one value.
+						<userinput>f(x)=sqrt(x+2)</userinput> will therefore only have positive values of f(x).
+						To plot it for negative f(x) too, you will have to create two separate functions:
+						<userinput>f(x)=sqrt(x+2)</userinput> and <userinput>f(x)=-sqrt(x+2)</userinput>.
+						Alternatively you can plot it as the relation: <userinput>y^2=x+2</userinput>.
+					</para>
+				</answer>
+			</qandaentry>
+
+			<qandaentry>
+				<question>
+					<para>
+						 How do I plot a complex function like f(t)=e^(i*t)?
+					</para>
+				</question>
+				<answer>
+					<para>
+						You probably want to show the real part on the x-axis and the imaginary part on the y-axis.
+						In that case you can draw the function as the parametric function <userinput>x(t)=re(e^(i*t)), y(t)=im(e^(i*t))</userinput>.
+						Notice that <guilabel>Calculate with complex numbers</guilabel> must be enabled in the <xref linkend="AxesDialog"/> dialog.
+					</para>
+				</answer>
+			</qandaentry>
+
+			<qandaentry>
+				<question>
+					<para>
+						How can I make Graph plot functions with vertical asymptotes correctly?
+					</para>
+				</question>
+				<answer>
+					<para>
+						Functions like <userinput>f(x)=tan(x)</userinput> with vertical asymptotes may not always be shown correctly.
+						As default Graph will evaluate the function for each pixel on the x-axis.
+						But if the graph has a steep slope that goes against infinite and back between two pixels, Graph will not notice it.
+						To plot the function correctly you can tell Graph how many evaluations to perform.
+						This may be entered in the <guilabel>Steps</guilabel> field in the <xref linkend="InsertFunctionDialog" /> dialog.
+						A number around 100000 will usually show the function correctly.
+					</para>
+				</answer>
+			</qandaentry>
+
+			<qandaentry>
+				<question>
+					<para>
+						How to create a PDF file from Graph?
+					</para>
+				</question>
+				<answer>
+					<para>
+						You can choose to save as PDF in the <xref linkend="SaveImageDialog" /> dialog.
+					</para>
+				</answer>
+			</qandaentry>
+
+			<qandaentry>
+				<question>
+					<para>
+						Why will the program not start under Windows 95?
+					</para>
+				</question>
+				<answer>
+					<para>
+						Graph no longer supports Windows 95. The last version to run under Windows 95 was Graph 4.2.
+					</para>
+				</answer>
+			</qandaentry>
+		</qandaset>
+	</para>
+</chapter>

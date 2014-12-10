@@ -1,0 +1,70 @@
+;This file was created by Graph (http://www.padowan.dk)
+;Change this file at your own risk.
+[Graph]
+Version = 3.2
+Build = 144
+MinVersion = 2.5
+OS = Windows 2000 5.0 Service Pack 4
+
+[Axes]
+xMin = -10
+xMax = 10
+yMin = -10
+yMax = 10
+xTickUnit = 2
+yTickUnit = 2
+xGridUnit = 2
+yGridUnit = 2
+xShowLabel = 0
+yShowLabel = 0
+yLabel = f(x)
+xShowNumbers = 0
+yShowNumbers = 0
+AxesColor = clBlue
+GridColor = 0x00FF9999
+ShowLegend = 1
+Radian = 1
+
+[Data]
+FuncCount = 1
+PointSeriesCount = 0
+ShadeCount = 2
+TextLabelCount = 0
+
+[Func1]
+FuncType = 0
+y = x*cos x
+Style = 2
+Color = clRed
+Size = 4
+
+[Shade1]
+ShadeStyle = 2
+BrushStyle = 7
+Color = clGreen
+FuncNo = 1
+Func2No = 0
+sMin = -4
+sMax = -3
+sMin2 = -4
+sMax2 = -3
+ExtendMinToIntercept = 1
+ExtendMaxToIntercept = 1
+ExtendMin2ToIntercept = 1
+ExtendMax2ToIntercept = 1
+
+[Shade2]
+ShadeStyle = 2
+BrushStyle = 3
+Color = clGreen
+FuncNo = 1
+Func2No = 0
+sMin = 5
+sMax = 7
+sMin2 = 5
+sMax2 = 7
+ExtendMinToIntercept = 1
+ExtendMaxToIntercept = 1
+ExtendMin2ToIntercept = 1
+ExtendMax2ToIntercept = 1
+

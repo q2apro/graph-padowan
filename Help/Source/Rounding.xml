@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chapter SYSTEM "dtd/dblite.dtd" [
+<!ENTITY % Symbols SYSTEM "Symbols.ent">
+%Symbols;
+]>
+<section id="Rounding">
+	<title>Rounding</title>
+	<section id="trunc" xreflabel="trunc">
+		<title><markup>trunc</markup> function</title>
+		<indexterm><primary><function>trunc</function> function</primary></indexterm>
+		<indexterm><primary>rounding</primary></indexterm>
+		<indexterm><primary>truncate</primary></indexterm>
+		<para>
+			Removes the fractional part of the argument.
+		</para>
+		<simplesect>
+			<title>Syntax</title>
+			<para><mathphrase>trunc(z)</mathphrase></para>
+		</simplesect>
+		<simplesect>
+			<title>Description</title>
+			<para>
+			  The <function>trunc</function> function returns the <glossterm>integer</glossterm> part of <parameter>z</parameter>.
+				The function removes the decimal part of <parameter>z</parameter>, i.e. rounds against zero.
+				<parameter>z</parameter> may be any <glossterm>numeric expression</glossterm> that evaluates to a <glossterm>real number</glossterm> or a <glossterm>complex number</glossterm>.
+				If <parameter>z</parameter> is a complex number, the function returns <mathphrase>trunc(re(z))+trunc(im(z))&imag;</mathphrase>.
+			</para>
+		</simplesect>
+		<simplesect>
+			<title>See also</title>
+			<para>
+				<simplelist>
+					<member><ulink url="http://en.wikipedia.org/wiki/Truncate"><orgname>Wikipedia</orgname></ulink></member>
+					<member><ulink url="http://mathworld.wolfram.com/Truncate.html"><orgname>MathWorld</orgname></ulink></member>
+				</simplelist>
+			</para>
+		</simplesect>
+	</section>
+
+
+	<section id="fract" xreflabel="fract">
+		<title><markup>fract</markup> function</title>
+		<indexterm><primary><function>fract</function> function</primary></indexterm>
+		<indexterm><primary>rounding</primary></indexterm>
+		<indexterm><primary>fractional part</primary></indexterm>
+		<indexterm><primary>decimal part</primary></indexterm>
+		<para>
+			Returns the fractional part of the argument.
+		</para>
+		<simplesect>
+			<title>Syntax</title>
+			<para><mathphrase>fract(z)</mathphrase></para>
+		</simplesect>
+		<simplesect>
+			<title>Description</title>
+			<para>
+			  The <function>fract</function> function returns the fractional part of <parameter>z</parameter>.
+				The function removes the <glossterm>integer</glossterm> part of <parameter>z</parameter>, i.e. <mathphrase>fract(z) = z - trunc(z)</mathphrase>.
+				<parameter>z</parameter> may be any <glossterm>numeric expression</glossterm> that evaluates to a <glossterm>real number</glossterm> or a <glossterm>complex number</glossterm>.
+				If <parameter>z</parameter> is a complex number, the function returns <mathphrase>fract(re(z))+fract(im(z))&imag;</mathphrase>.
+			</para>
+		</simplesect>
+		<simplesect>
+			<title>See also</title>
+			<para>
+				<simplelist>
+					<member><ulink url="http://en.wikipedia.org/wiki/Floor_and_ceiling_functions#Fractional_part"><orgname>Wikipedia</orgname></ulink></member>
+					<member><ulink url="http://mathworld.wolfram.com/FractionalPart.html"><orgname>MathWorld</orgname></ulink></member>
+				</simplelist>
+			</para>
+		</simplesect>
+	</section>
+
+
+	<section id="ceil" xreflabel="ceil">
+		<title><markup>ceil</markup> function</title>
+		<indexterm><primary><function>ceil</function> function</primary></indexterm>
+		<indexterm><primary>rounding</primary></indexterm>
+		<indexterm><primary>round up</primary></indexterm>
+		<para>
+			Rounds the argument up.
+		</para>
+		<simplesect>
+			<title>Syntax</title>
+			<para><mathphrase>ceil(z)</mathphrase></para>
+		</simplesect>
+		<simplesect>
+			<title>Description</title>
+			<para>
+			  The <function>ceil</function> function finds the smallest <glossterm>integer</glossterm> not less than <parameter>z</parameter>.
+				<parameter>z</parameter> may be any <glossterm>numeric expression</glossterm> that evaluates to a <glossterm>real number</glossterm> or a <glossterm>complex number</glossterm>.
+				If <parameter>z</parameter> is a complex number, the function returns <mathphrase>ceil(re(z))+ceil(im(z))&imag;</mathphrase>.
+			</para>
+		</simplesect>
+		<simplesect>
+			<title>See also</title>
+			<para>
+				<simplelist>
+					<member><ulink url="http://en.wikipedia.org/wiki/Floor_and_ceiling_functions"><orgname>Wikipedia</orgname></ulink></member>
+					<member><ulink url="http://mathworld.wolfram.com/CeilingFunction.html"><orgname>MathWorld</orgname></ulink></member>
+				</simplelist>
+			</para>
+		</simplesect>
+	</section>
+
+
+	<section id="floor" xreflabel="floor">
+		<title><markup>floor</markup> function</title>
+		<indexterm><primary><function>floor</function> function</primary></indexterm>
+		<indexterm><primary>rounding</primary></indexterm>
+		<indexterm><primary>round down</primary></indexterm>
+		<indexterm><primary>greatest integer</primary></indexterm>
+		<para>
+			Rounds the argument down.
+		</para>
+		<simplesect>
+			<title>Syntax</title>
+			<para><mathphrase>floor(z)</mathphrase></para>
+		</simplesect>
+		<simplesect>
+			<title>Description</title>
+			<para>
+			  The <function>floor</function> function, which is also called the greatest integer function, gives the largest <glossterm>integer</glossterm> not greater than <parameter>z</parameter>.
+				<parameter>z</parameter> may be any <glossterm>numeric expression</glossterm> that evaluates to a <glossterm>real number</glossterm> or a <glossterm>complex number</glossterm>.
+				If <parameter>z</parameter> is a complex number, the function returns <mathphrase>floor(re(z))+floor(im(z))&imag;</mathphrase>.
+			</para>
+		</simplesect>
+		<simplesect>
+			<title>See also</title>
+			<para>
+				<simplelist>
+					<member><ulink url="http://en.wikipedia.org/wiki/Floor_and_ceiling_functions"><orgname>Wikipedia</orgname></ulink></member>
+					<member><ulink url="http://mathworld.wolfram.com/FloorFunction.html"><orgname>MathWorld</orgname></ulink></member>
+				</simplelist>
+			</para>
+		</simplesect>
+	</section>
+
+
+	<section id="round" xreflabel="round">
+		<title><markup>round</markup> function</title>
+		<indexterm><primary><function>round</function> function</primary></indexterm>
+		<para>
+			Rounds a number to the specified number of decimals.
+		</para>
+		<simplesect>
+			<title>Syntax</title>
+			<para><mathphrase>round(z,n)</mathphrase></para>
+		</simplesect>
+		<simplesect>
+			<title>Description</title>
+			<para>
+				The <function>round</function> function rounds <parameter>z</parameter> to the number of decimals given by <parameter>n</parameter>.
+				<parameter>z</parameter> may be any <glossterm>numeric expression</glossterm> that evaluates to a <glossterm>real number</glossterm> or a <glossterm>complex number</glossterm>.
+				If <parameter>z</parameter> is a complex number, the function returns <mathphrase>round(re(z),n)+round(im(z),n)&imag;</mathphrase>.
+				<parameter>n</parameter> may be any numeric expression that evaluates to an <glossterm>integer</glossterm>.
+				If <parameter>n</parameter>&lt;0, <parameter>z</parameter> is rounded to <parameter>n</parameter> places to the left of the decimal point.
+			</para>
+		</simplesect>
+		<simplesect>
+			<title>Examples</title>
+			<para>
+				<simplelist>
+					<member><mathphrase>round(412.4572,3) = 412.457</mathphrase></member>
+					<member><mathphrase>round(412.4572,2) = 412.46</mathphrase></member>
+					<member><mathphrase>round(412.4572,1) = 412.5</mathphrase></member>
+					<member><mathphrase>round(412.4572,0) = 412</mathphrase></member>
+					<member><mathphrase>round(412.4572,-2) = 400</mathphrase></member>
+				</simplelist>
+			</para>
+		</simplesect>
+		<simplesect>
+			<title>See also</title>
+			<para>
+				<simplelist>
+					<member><ulink url="http://en.wikipedia.org/wiki/Rounding"><orgname>Wikipedia</orgname></ulink></member>
+					<member><ulink url="http://mathworld.wolfram.com/NearestIntegerFunction.html"><orgname>MathWorld</orgname></ulink></member>
+				</simplelist>
+			</para>
+		</simplesect>
+	</section>
+</section>

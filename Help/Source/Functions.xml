@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chapter SYSTEM "dtd/dblite.dtd" [
+]>
+<chapter id="Functions" xmlns:xi="http://www.w3.org/2001/XInclude">
+	<title>Functions</title>
+	<xi:include href="FunctionList.xml"/>
+	<xi:include href="Constants.xml"/>
+	<xi:include href="Trigonometric.xml"/>
+	<xi:include href="Hyperbolic.xml"/>
+	<xi:include href="PowerAndLog.xml"/>
+	<xi:include href="Complex.xml"/>
+	<xi:include href="Rounding.xml"/>
+	<xi:include href="Piecewise.xml"/>
+	<xi:include href="Special.xml"/>
+</chapter>

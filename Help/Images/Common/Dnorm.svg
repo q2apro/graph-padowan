@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "dtd/svg11.dtd">
+<svg height="30mm" width="60mm" viewBox="2 25 197 49" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <svg width="203" height="54" viewBox="0 0 4608 1216">    <line stroke="#000000" stroke-width="16" x1="2799" y1="1011" x2="2848" y2="983" />
+    <line stroke="#000000" stroke-width="32" x1="2848" y1="991" x2="2919" y2="1121" />
+    <line stroke="#000000" stroke-width="16" x1="2927" y1="1121" x2="3021" y2="733" />
+    <line stroke="#000000" stroke-width="16" x1="3021" y1="733" x2="3455" y2="733" />
+    <line stroke="#000000" stroke-width="16" x1="2544" y1="672" x2="3487" y2="672" />
+    <line stroke="#000000" stroke-width="8" x1="3868" y1="450" x2="4523" y2="450" />
+  </svg>
+  <text x="188" y="25" font-family="Times New Roman" font-size="6">2</text>
+  <text x="192" y="14" font-family="Times New Roman" font-size="6">2</text>
+  <text x="177" y="30" font-family="Times New Roman" font-size="8">2</text>
+  <text x="182" y="30" font-family="Symbol" font-size="8">&#x03C3;</text>
+  <text x="185" y="18" font-family="Times New Roman" font-size="8">μ)</text>
+  <text x="171" y="18" font-family="Times New Roman" font-size="8">(x</text>
+  <text x="156" y="37" font-family="Times New Roman" font-size="15">e</text>
+  <text x="134" y="45" font-family="Times New Roman" font-size="15">2</text>
+  <text x="143" y="45" font-family="Symbol" font-size="15">&#x03C0;</text>
+  <text x="113" y="45" font-family="Symbol" font-size="15">&#x03C3;</text>
+  <text x="129" y="26" font-family="Times New Roman" font-size="15">1</text>
+  <text x="80" y="37" font-family="Symbol" font-size="15">&#x03C3;)</text>
+  <text x="66" y="37" font-family="Times New Roman" font-size="15">μ,</text>
+  <text x="6" y="37" font-family="Times New Roman" font-size="15">dnorm(x,</text>
+  <text x="180" y="18" font-family="Symbol" font-size="8">&#x2212;</text>
+  <text x="164" y="22" font-family="Symbol" font-size="8">&#x2212;</text>
+  <text x="99" y="37" font-family="Symbol" font-size="15">=</text>
+</svg>

@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chapter SYSTEM "dtd/dblite.dtd" [
+<!ENTITY % Symbols SYSTEM "Symbols.ent">
+%Symbols;
+]>
+<section id="AxesDialog">
+	<?dbhh topicname="IDH_DIALOG_AXES" topicid="30"?>
+	<title>Edit axes</title>
+	<indexterm><primary>Axes dialog</primary></indexterm>
+	<indexterm><primary>x-axis</primary></indexterm>
+	<indexterm><primary>y-axis</primary></indexterm>
+	<indexterm><primary>minimum</primary></indexterm>
+	<indexterm><primary>maximum</primary></indexterm>
+	<indexterm><primary>unit</primary></indexterm>
+	<indexterm><primary>logarithmic scale</primary></indexterm>
+	<indexterm><primary>coordinates</primary></indexterm>
+	<indexterm><primary>grid</primary></indexterm>
+	<indexterm><primary>label</primary></indexterm>
+	<indexterm><primary>arrow</primary></indexterm>
+	<indexterm><primary>colors</primary></indexterm>
+	<indexterm><primary>crossing</primary></indexterm>
+	<indexterm><primary>step</primary></indexterm>
+	<indexterm><primary>tick</primary></indexterm>
+	<indexterm><primary>legend</primary></indexterm>
+	<indexterm><primary>complex numbers</primary></indexterm>
+	<indexterm><primary>axes style</primary></indexterm>
+	<indexterm><primary>trigonometry</primary></indexterm>
+	<indexterm><primary>fonts</primary></indexterm>
+	<indexterm><primary>auto grid</primary></indexterm>
+	<indexterm><primary>auto tick</primary></indexterm>
+	<indexterm><primary>background color</primary></indexterm>
+	<para>
+		When you choose the menu item
+		<menuchoice>
+			<guimenu>Edit</guimenu>
+			<guimenuitem>Axes...</guimenuitem>
+		</menuchoice>,
+		the dialog shown below will appear. In this dialog you can configure all options which are related to the axes.
+		The dialog contains 4 tab sheets. The first sheet, shown below, contains options for the x-axis.
+		The tab with options for the y-axis is completely analog to this.
+	</para>
+	<simplesect>
+		<title>x-axis/y-axis</title>
+		<para>
+    	<graphic fileref="DialogAxes1.png" align="center" scale="60"/>
+
+			<variablelist>
+				<varlistentry>
+					<term>Minimum</term>
+					<listitem>
+						<para>
+							This is the lowest value on the selected axis. Default: -10
+						</para>
+					</listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Maximum</term>
+					<listitem>
+						<para>
+							This is the highest value on the selected axis. Default: 10
+						</para>
+					</listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Tick unit</term>
+					<listitem>
+						<para>
+							This is the distance between the tick marks on the selected axis.
+							Tick marks are shown as small lines perpendicular to the axis.
+							<guilabel>Tick unit</guilabel> is used for both tick marks and for showing numbers.
+							With a logarithmic axis the <guilabel>Tick unit</guilabel> indicates the factor between the markers.
+							For example <guilabel>Tick unit</guilabel> set to 4 will show 1, 4, 16, 64, etc. on a logarithmic axis
+							while it will show 0, 4, 8, 12, etc. on a normal axis.
+						</para>
+					</listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Grid unit</term>
+					<listitem>
+						<para>
+							This is the distance between the gridlines perpendicular to the axis. This is only used if grid lines are shown.
+						</para>
+					</listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Logarithmic scale</term>
+					<listitem>
+						<para>
+							Check this field if you want the axis to be scaled logarithmically.
+						</para>
+					</listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Show numbers</term>
+					<listitem>
+						<para>
+							When this field is checked numbers are shown on the axis with the distance chosen under <guilabel>Tick unit</guilabel>.
+						</para>
+					</listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Label</term>
+					<listitem>
+						<para>
+							When this field is checked, the text in the edit box will be shown just above the x-axis in the right side of
+							the coordinate system. For the y-axis, the text will be shown at the top to the right of the axis. You may use
+							this to show what unit is used for the axes.
+						</para>
+					</listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>The x-axis crosses at / The y-axis crosses at:</term>
+					<listitem>
+						<para>
+							This is the coordinate where the axis will cross the other axis. This is only used when <guilabel>Axes style</guilabel>
+							is <guilabel>Crossed</guilabel>. Default: 0
+						</para>
+					</listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Auto tick</term>
+					<listitem>
+						<para>
+							When checked the program will automatically choose a value for <guilabel>Tick unit</guilabel> that is
+							fitting for the axes dimensions and size of the graphing area.
+						</para>
+					</listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Auto grid</term>
+					<listitem>
+						<para>
+							When checked, <guilabel>Grid unit</guilabel> will have the same value as <guilabel>Tick unit</guilabel>.
+						</para>
+					</listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Show ticks</term>
+					<listitem>
+						<para>
+							When this field is checked, tick marks are shown as small lines on the axis with the distance chosen under
+							<guilabel>Tick unit</guilabel>.
+						</para>
+					</listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Show grid</term>
+					<listitem>
+						<para>
+							When this field is checked, grid lines will be shown as dotted lines perpendicular to the axis with the color chosen under
+							<guilabel>Font and color</guilabel> and with the distance chosen at <guilabel>Grid unit</guilabel>.
+						</para>
+					</listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Show as a multiple of &pi;</term>
+					<listitem>
+						<para>
+							When this is enabled the numbers on the axis are shown as fractions multiplied by &pi;, for example 3&pi;/2.
+							<guilabel>Show numbers</guilabel> must be enabled for this option to be available.
+						</para>
+					</listitem>
+				</varlistentry>
+			</variablelist>
+		</para>
+	</simplesect>
+
+
+	<simplesect id="AxesDialogSettings">
+		<title>Settings</title>
+		<para>
+    	<graphic fileref="DialogAxes3.png" align="center" scale="60"/>
+
+			<variablelist>
+				<varlistentry>
+					<term>Title</term>
+					<listitem>
+						<para>
+							Here you can enter a title that is shown above the coordinate system. Use the button to the right to change the font.
+						</para>
+					</listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Show legend</term>
+					<listitem>
+						<para>
+							Check this to show the <glossterm>legend</glossterm> with a list of functions and point series in the upper right corner of the coordinate system.
+							You may change the font under <guilabel>Font and color</guilabel>.
+						</para>
+					</listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Legend placement</term>
+					<listitem>
+						<para>
+							Here you may choose in which of the four corners you want the <glossterm>legend</glossterm> to be placed.
+							You can also change this by right clicking on the legend in the graphing area.
+						</para>
+					</listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Calculate with complex numbers</term>
+					<listitem>
+						<para>
+							Check this field to use <glossterm linkend="ComplexNumber">complex numbers</glossterm> for calculations while drawing graphs.
+							This will increase the time for drawing graphs but may be necessary in rare situations where the intermediate result are complex.
+							The final result must be real for the graph to be drawn.
+							This will not interfere with evaluations.
+						</para>
+					</listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Axes style</term>
+					<listitem>
+						<para>
+							Select <guilabel>None</guilabel> if you don't want the axes to be shown.
+							Select <guilabel>Crossed</guilabel> if you want a normal coordinate system.
+							The location of the axes may be changed from <guilabel>The y-axis crosses at</guilabel> and <guilabel>The x-axis crosses at</guilabel>.
+							Select <guilabel>Boxed</guilabel> if you want the axes to be shown at the bottom and left side of the coordinate system,
+							which will overwrite <guilabel>The y-axis crosses at</guilabel> / <guilabel>The x-axis crosses at</guilabel>.
+						</para>
+					</listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Trigonometry</term>
+					<listitem>
+						<para>
+							Choose whether trigonometric functions should calculate in <glossterm linkend="Radians"><guilabel>Radian</guilabel></glossterm> or <guilabel>Degree</guilabel>.
+							This is also used for showing <glossterm linkend="ComplexNumber">complex numbers</glossterm> in the polar format.
+						</para>
+					</listitem>
+				</varlistentry>
+			</variablelist>
+		</para>
+	</simplesect>
+
+	<simplesect>
+		<title>Font and color</title>
+		<para>
+    	<graphic fileref="DialogAxes4.png" align="center" scale="60"/>
+
+			<variablelist>
+				<varlistentry>
+					<term>Colors</term>
+					<listitem>
+						<para>
+							You may change the background color, the color of the axes and the color used for drawing grid lines.
+						</para>
+					</listitem>
+				</varlistentry>
+				<varlistentry>
+					<term>Fonts</term>
+					<listitem>
+						<para>
+							You may change the fonts used to show axes labels, the font to draw numbers at the axes, and the font used for the <glossterm>legend</glossterm>.
+						</para>
+					</listitem>
+				</varlistentry>
+			</variablelist>
+		</para>
+	</simplesect>
+
+
+	<simplesect>
+		<para>
+			<variablelist>
+				<varlistentry>
+					<term>Save as default</term>
+					<listitem>
+						<para>
+							Check this to save all the current settings in the dialog to be used as default in the future.
+							These settings are used the next time you choose to create a new coordinate system.
+							The default settings are stored in your Windows user profile, i.e. each Windows user will have his/her own default settings in Graph.
+						</para>
+					</listitem>
+				</varlistentry>
+			</variablelist>
+		</para>
+	</simplesect>
+</section>

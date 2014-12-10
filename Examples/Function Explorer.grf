@@ -1,0 +1,6701 @@
+;This file was created by Graph (http://www.padowan.dk)
+;Do not change this file from other programs.
+[Graph]
+Version = 4.4.0.505
+MinVersion = 2.5
+OS = Windows XP 5.1 Service Pack 3
+
+[Axes]
+xMin = -10
+xMax = 10
+xTickUnit = 1
+xGridUnit = 1
+yMin = -10
+yMax = 10
+yTickUnit = 2
+yGridUnit = 2
+AxesColor = clMedGray
+GridColor = 0x00FF9999
+LegendFont = Verdana,10,clBlack
+ShowLegend = 1
+Radian = 1
+
+[Label1]
+Placement = 0
+Pos = -10;10
+Text = {\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang3082{\\fonttbl{\\f0\\fnil\\fcharset0 Verdana;}{\\f1\\fnil\\fprq10\\fcharset0 Verdana;}{\\f2\\fnil Verdana;}}\n{\\colortbl ;\\red255\\green0\\blue0;\\red0\\green0\\blue0;\\red0\\green128\\blue0;\\red0\\green0\\blue255;}\n\\viewkind4\\uc1\\pard\\qc\\cf1\\lang1034\\ul\\b\\f0\\fs16\\par\n\\fs24 Note\\ulnone\\par\n\\pard\\cf2\\par\n     \\fs16 This file contains 276 types of plane curves arranged in alphabetical order       \\par\n     \\f1  with 754 examples. Different expressions usually describe the same curve. \\par\n\\f0\\par\n      Select the functions you want plotted in the function list to the left.\\par\n\\par\n      These curves have mainly been extracted from the following web sites, \\par\n      credited as reliable and accurate:\\cf3\\par\n\\cf2     \\par\n      - \\i MathWorld\\i0 :  \\cf4 http://mathworld.wolfram.com/\\cf2\\lang3082\\f2\\par\n\\lang1034\\f0       - \\i Mathematical Curves\\i0 : \\cf4  http://www.2dcurves.com/\\cf2\\par\n      - \\i Encyclop\\'e9die des Formes Math\\'e9matiques Remarquables \\i0 (in French):  \\par\n        \\cf4 http://www.mathcurve.com/index.htm    \\cf2\\f1\\par\n      \\par\n      \\f0\\par\n\\cf1\\fs28\\par\n}\n
+BackgroundColor = 0x0033FF33
+ShowInLegend = 0
+
+[Relation1]
+Relation = (y^2-x^2) (x-1) (2 x-3)=4 (x^2+y^2-2 x)^2
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Ampersand Curve (1):  (y^2-x^2) (x-1) (2 x-3)=a (x^2+y^2-2 x)^2   a=4
+
+[Relation2]
+Relation = (y^2-x^2) (x-1) (2 x-3)=1 (x^2+y^2-2 x)^2
+Style = 5
+Color = clRed
+Visible = 0
+LegendText = Ampersand Curve (2):  (y^2-x^2) (x-1) (2 x-3)=a (x^2+y^2-2 x)^2   a=1
+
+[Relation3]
+Relation = (y^2-x^2) (x-1) (2 x-3)=0.4 (x^2+y^2-2 x)^2
+Style = 5
+Color = 0x0033CC33
+Visible = 0
+LegendText = Ampersand Curve (3):  (y^2-x^2) (x-1) (2 x-3)=a (x^2+y^2-2 x)^2   a=4/10
+
+[Relation4]
+Relation = x^4-4 x^3+16 y^2=0
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Antiversiera (1):  x^4-2 a x^3+4 a^2 y^2=0   a=2
+
+[Relation5]
+Relation = x^4+6 x^3+36 y^2=0
+Style = 5
+Color = 0x0000CCFF
+Visible = 0
+LegendText = Antiversiera (2):  x^4-2 a x^3+4 a^2 y^2=0   a=-3
+
+[Relation6]
+Relation = (x-4) (x^2+y^2)+x/4+6 y=0
+Style = 5
+Color = 0x0066CC66
+Visible = 0
+LegendText = Apollonian Cubic (1):  (x-a) (x^2+y^2)+b x+c y=0   a=4, b=1/4, c=6
+
+[Relation7]
+Relation = (x-4) (x^2+y^2)+x+8 y=0
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Apollonian Cubic (2):  (x-a) (x^2+y^2)+b x+c y=0   a=4, b=1, c=8
+
+[Relation8]
+Relation = (x-2) (x^2+y^2)+2 x+6 y=0
+Style = 5
+Color = 0x0000CCFF
+Visible = 0
+LegendText = Apollonian Cubic (3):  (x-a) (x^2+y^2)+b x+c y=0   a=2, b=2, c=6
+
+[Func1]
+FuncType = 2
+r = 4 sin(6 t)/sin(5 t)
+Visible = 0
+LegendText = Arachnida Curve (1):  r(t)=a sin(n t)/sin((n-1) t)   a=4, n=6
+From = -2pi
+To = 2pi
+Steps = 1000
+Color = clBlue
+
+[Func2]
+FuncType = 2
+r = 4 sin(4 t)/sin(3 t)
+Visible = 0
+LegendText = Arachnida Curve (2):  r(t)=a sin(n t)/sin((n-1) t)   a=4, n=4
+From = -2pi
+To = 2pi
+Steps = 1000
+Color = 0x0000CCFF
+
+[Func3]
+FuncType = 2
+r = 2 t^(1/-2)
+Visible = 0
+LegendText = Archimedean Spiral (1):  r(t)=a t^(1/n)   a=2, n=-2 (Lituus)
+From = 0
+To = 20pi
+Steps = 10000
+Color = clGreen
+
+[Func4]
+FuncType = 2
+r = 2 t^(-1)
+Visible = 0
+LegendText = Archimedean Spiral (2):  r(t)=a t^(1/n)   a=2, n=-1 (Hyperbolic Spiral)
+From = 0
+To = 10pi
+Steps = 1000
+Color = clBlue
+
+[Func5]
+FuncType = 2
+r = 2 t
+Visible = 0
+LegendText = Archimedean Spiral (3):  r(t)=a t^(1/n)   a=2, n=1 (Archimedes' Spiral)
+From = 0
+To = 20pi
+Steps = 1000
+Color = 0x0000CCFF
+
+[Func6]
+FuncType = 2
+r = 2 t^(1/2)
+Visible = 0
+LegendText = Archimedean Spiral (4):  r(t)=a t^(1/n)   a=2, n=2 (Fermat's Spiral)
+From = 0
+To = 20pi
+Steps = 1000
+Color = clRed
+
+[Func7]
+FuncType = 2
+r = t/2
+Visible = 0
+LegendText = Archimedes' Spiral (1):  r(t)=a t   a=1/2
+From = 0
+To = 10pi
+Steps = 1000
+Color = 0x00CC9900
+
+[Func8]
+FuncType = 1
+x = (t/4) cos t
+y = (t/4) sin t
+Visible = 0
+LegendText = Archimedes' Spiral (2):  x(t)=a t cos(t), y(t)=a t sin(t)   a=1/4
+From = 0
+To = 60
+Steps = 1000
+Color = 0x0000CCFF
+
+[Relation9]
+Relation = x^2*(3 x^2-y^2)^2=y^2*(x^2+y^2)
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Arcs of Samothrace (1):  x^2 (3 x^2-y^2)^2=y^2 (x^2+y^2)
+
+[Func9]
+FuncType = 2
+r = tan(t)/2 (1+2 cos(2 t))
+Visible = 0
+LegendText = Arcs of Samothrace (2):  r(t)=a tan(t)/(1+2 cos(2 t))   a=1/2
+From = -10
+To = 10
+Steps = 1000
+Color = 0x0000CCFF
+
+[Func10]
+FuncType = 1
+x = 8 cos(t)^3
+y = 8 sin(t)^3
+Visible = 0
+LegendText = Astroid (1):  x(t)=a cos(t)^3, y(t)=a sin(t)^3   a=8
+From = -10
+To = 10
+Steps = 1000
+Color = clRed
+
+[Relation10]
+Relation = x^(2/3)+y^(2/3)=pi^(2/3)
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Astroid (2):  x^(2/3)+y^(2/3)=a^(2/3)   a=pi
+
+[Func11]
+FuncType = 1
+x = 4 (cos(t) (8+5 cos(2 t)+3 cos(6 t))/(13+3 cos(4 t)))
+y = 4 (4 sin(t)^3*(7+6 cos(2 t)+3 cos(4 t))/(13+3 cos(4 t)))
+Visible = 0
+LegendText = Astroid Catacaustic:  x(t)=a (cos(t) (8+5 cos(2 t)+3 cos(6 t))/(13+3 cos(4 t))), y(t)=a (4 sin(t)^3 (7+6 cos(2 t)+3 cos(4 t))/(13+3 cos(4 t)))   a=4
+From = -10
+To = 10
+Steps = 1000
+Color = clBlue
+
+[Func12]
+FuncType = 2
+r = t/(t-1/4)
+Visible = 0
+LegendText = Atom Spiral (1):  r(t)=t/(t-a)   a=1/4
+From = -10pi
+To = 10pi
+Steps = 1000
+Color = clBlue
+
+[Func13]
+FuncType = 2
+r = t/(t-1)
+Visible = 0
+LegendText = Atom Spiral (2):  r(t)=t/(t-a)   a=1
+From = -10pi
+To = 10pi
+Steps = 1000
+Color = clRed
+
+[Func14]
+FuncType = 2
+r = t/(t-4)
+Visible = 0
+LegendText = Atom Spiral (3):  r(t)=t/(t-a)   a=4
+From = -10pi
+To = 10pi
+Steps = 1000
+Color = 0x0066CC66
+
+[Relation11]
+Relation = x^4*(x^2+y^2)-(x^2-1)^2=0
+Style = 5
+Color = clRed
+Visible = 0
+LegendText = Atriphtaloid (1):  x^4 (x^2+y^2)-(a x^2-b)^2=0   a=1, b=1 (a>0, b>0)
+
+[Relation12]
+Relation = x^4*(x^2+y^2)-(2 x^2-1)^2=0
+Style = 5
+Color = 0x0000CCFF
+Visible = 0
+LegendText = Atriphtaloid (2):  x^4 (x^2+y^2)-(a x^2-b)^2=0   a=2, b=1 (a>0, b>0)
+
+[Relation13]
+Relation = x^4*(x^2+y^2)-(3 x^2-1)^2=0
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Atriphtaloid (3):  x^4 (x^2+y^2)-(a x^2-b)^2=0   a=3, b=1 (a>0, b>0)
+
+[Relation14]
+Relation = x^4*(x^2+y^2)-(5 x^2-1)^2=0
+Style = 5
+Color = 0x00B2B2B2
+Visible = 0
+LegendText = Atriphtaloid (4):  x^4 (x^2+y^2)-(a x^2-b)^2=0   a=5, b=1 (a>0, b>0)
+
+[Relation15]
+Relation = y=1-abs(x)/4
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Bartlett Function (1):  y=1-abs(x)/a   a=4
+
+[Relation16]
+Relation = y=1-abs(x)/2
+Style = 5
+Color = 0x0000CCFF
+Visible = 0
+LegendText = Bartlett Function (2):  y=1-abs(x)/a   a=2
+
+[Relation17]
+Relation = x^4+x^2*y^2+y^4=5 x*(x^2+y^2)
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Bean Curve (1):  x^4+x^2 y^2+y^4=a x (x^2+y^2)   a=5
+
+[Relation18]
+Relation = y^4+x^2*y^2+x^4=-8 y*(x^2+y^2)
+Style = 5
+Color = 0x0000CCFF
+Visible = 0
+LegendText = Bean Curve (2):  y^4+x^2 y^2+x^4=a y (x^2+y^2)   a=-8
+
+[Relation19]
+Relation = y=4 e^(-x^4)
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Bell-shaped Curve:  y=a e^(-x^4)   a=4
+
+[Relation20]
+Relation = x^4=16 (x^2-y^2)
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Besace (1):  (x^2-b y)^2=a^2 (x^2-y^2)   a=4, b=0 (Lemniscate of Gerono)
+
+[Relation21]
+Relation = (x^2-4 y)^2=4 (x^2-y^2)
+Style = 5
+Color = 0x0000CCFF
+Visible = 0
+LegendText = Besace (2):  (x^2-b y)^2=a^2 (x^2-y^2)   a=2, b=4
+
+[Relation22]
+Relation = (x^2-6 y)^2=(x^2-y^2)
+Style = 5
+Color = clRed
+Visible = 0
+LegendText = Besace (3):  (x^2-b y)^2=a^2 (x^2-y^2)   a=1, b=6
+
+[Relation23]
+Relation = y=beta(x,pi)
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Beta Function (1):  y=beta(m,n)   m=x, n=pi
+
+[Relation24]
+Relation = y=beta(x,y)
+Style = 5
+Color = 0x0000CCFF
+Visible = 0
+LegendText = Beta Function (2):  y=beta(m,n)   m=x, n=y
+
+[Relation25]
+Relation = y^2*(25-x^2)=(x^2+10 y-25)^2
+Style = 5
+Color = clRed
+Visible = 0
+LegendText = Bicorn (1):  y^2 (a^2-x^2)=(x^2+2 a y-a^2)^2   a=1
+
+[Func15]
+FuncType = 1
+x = -2pi*sin t
+y = -2pi*(2+cos t) cos(t)^2/(3+sin(t)^2)
+Visible = 0
+LegendText = Bicorn (2):  x(t)=a sin t, y(t)=a (2+cos t) cos(t)^2/(3+sin(t)^2)   a=-2pi
+From = -10
+To = 10
+Steps = 1000
+Color = clBlue
+
+[Relation26]
+Relation = (x^2-1) (x-1)^2+(y^2-1)^2=0
+Style = 5
+Color = clGreen
+Visible = 0
+LegendText = Bicuspid Curve (1):  (x^2-a^2) (x-a)^2+(y^2-a^2)^2=0   a=1
+
+[Relation27]
+Relation = (x^2-4) (x-4)^2+(y^2-4)^2=0
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Bicuspid Curve (2):  (x^2-a^2) (x-a)^2+(y^2-a^2)^2=0   a=2
+
+[Func16]
+FuncType = 2
+r = 24 cos(t) sin(t)^2/(3+cos(4 t))
+Visible = 0
+LegendText = Bifoliate (1):  r(t)=a 8 cos(t) sin(t)^2/(3+cos(4 t))   a=3 (Axis of symmetry: y=0)
+From = 0
+To = 2pi
+Steps = 1000
+Color = clGreen
+
+[Relation28]
+Relation = x^4+y^4=-8 x*y^2
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Bifoliate (2):  x^4+y^4=2 a x y^2   a=-4 (Axis of symmetry: y=0)
+
+[Relation29]
+Relation = y^4+x^4=4 pi*y*x^2
+Style = 5
+Color = 0x000099FF
+Visible = 0
+LegendText = Bifoliate (3):  y^4+x^4=2 a y x^2   a=2pi (Axis of symmetry: x=0)
+
+[Func17]
+FuncType = 2
+r = (-2 cos t+8 sin t) cos(t)^2
+Visible = 0
+LegendText = Bifolium (1):  r(t)=(a cos t+b sin t) cos(t)^2   a=-2, b=8
+From = -2pi
+To = 2pi
+Steps = 1000
+Color = clGreen
+
+[Relation30]
+Relation = (x^2+y^2)^2=x^2*(6 x+10 y)
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Bifolium (2):  (x^2+y^2)^2=x^2 (a x+b y)   a=6, b=10
+
+[Relation31]
+Relation = x^4+y^4-x^2*y^2=2 x*(x^2+y^2)
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = *Boomerang Curve (1):  x^4+y^4-x^2 y^2=a x (x^2+y^2)   a=2
+
+[Relation32]
+Relation = x^4+y^4-x^2*y^2=-3 x*(x^2+y^2)
+Style = 5
+Color = clGreen
+Visible = 0
+LegendText = *Boomerang Curve (2):  x^4+y^4-x^2 y^2=a x (x^2+y^2)   a=-3
+
+[Func18]
+FuncType = 1
+x = 0.6 (5 sin(2 t)/2+sin(4 t)^3)
+y = 0.6 (cos(4 t)^3-8 cos(2 t))
+Visible = 0
+LegendText = *Bottle-like Curve:  x(t)=a (5 sin(2 t)/2+sin(4 t)^3), y(t)=b (cos(4 t)^3-8 cos(2 t))   a=b=6/10
+From = -10
+To = 10
+Steps = 10000
+Color = clBlue
+
+[Relation33]
+Relation = x^4+y^3=y*x^2
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Bow Curve (1):  x^4+y^3=y x^2
+
+[Relation34]
+Relation = y^4+x^3=x*y^2
+Style = 5
+Color = 0x0000CCFF
+Visible = 0
+LegendText = Bow Curve (2):  x^3+y^4=x y^2
+
+[Func19]
+FuncType = 1
+x = 4 cot(t)
+y = 2 cos(t)
+Visible = 0
+LegendText = Bullet-nose Curve (1):  x(t)=a cos(t), y(t)=b cot(t)   a=4, b=2
+From = -10
+To = 10
+Steps = 1000
+Color = clBlue
+
+[Relation35]
+Relation = 1/x^2-1/y^2=1
+Style = 5
+Color = 0x0000CCFF
+Visible = 0
+LegendText = Bullet-nose Curve (2):  a^2/x^2-b^2/y^2=1   a=1, b=1
+
+[Relation36]
+Relation = y^2=x^5-x
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Burnside's Curve:  y^2=x^5-x
+
+[Relation37]
+Relation = y^6=x^2-x^6
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Butterfly Curve (1):  y^6=x^2-x^6
+
+[Func20]
+FuncType = 2
+r = (e^sin(t)-2 cos(4 t)+sin((2 t-pi)/24)^5)
+Visible = 0
+LegendText = Butterfly Curve (2):  r(t)=a (e^sin(t)-2 cos(4 t)+sin((2 t-pi)/24)^5)   a=1
+From = 0
+To = 2pi
+Steps = 1000
+Color = clGreen
+
+[Func21]
+FuncType = 1
+x = 2 (sin(t)*(e^cos(t)-2 cos(4 t)+sin(t/12)^5))
+y = 2 (cos(t)*(e^cos(t)-2 cos(4 t)+sin(t/12)^5))
+Visible = 0
+LegendText = Butterfly Curve (3):  x(t)=a (sin(t) (e^cos(t)-2 cos(4 t)+sin(t/12)^5)), y(t)=a (cos(t) (e^cos(t)-2 cos(4 t)+sin(t/12)^5))   a=2
+From = -5
+To = 5
+Steps = 1000
+Color = 0x0000CCFF
+
+[Func22]
+FuncType = 2
+r = 5 (sin(5 t)^3+cos(t)^2)
+Visible = 0
+LegendText = *Butterfly Curve (4):  r(t)=a (sin(5 t)^3+cos(t)^2)   a=5
+From = 0
+To = 2pi
+Steps = 1000
+Color = clRed
+
+[Relation38]
+Relation = 16 x^2*(x^2+y^2)-32 (4 y-x^2-y^2)^2=0
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Capricornoid:  a^2 x^2 (x^2+y^2)-b (a y-x^2-y^2)^2=0   a=4, b=32 (a>0, b>a^2)
+
+[Func23]
+FuncType = 2
+r = 2 (1+cos t)
+Visible = 0
+LegendText = Cardioid (1):  r(t)=a (1+cos(t))   a=2
+From = 0
+To = 2pi
+Steps = 1000
+Color = clRed
+
+[Func24]
+FuncType = 1
+x = -e*(1+cos(t)) cos(t)
+y = -e*(1+cos(t)) sin(t)
+Visible = 0
+LegendText = Cardioid (2):  x(t)=a (1+cos(t)) cos(t), y(t)=a (1+cos(t)) sin(t)   a=-e
+From = -10
+To = 10
+Steps = 1000
+Color = clBlue
+
+[Relation39]
+Relation = (x^2+y^2-4 x)^2=16 (x^2+y^2)
+Style = 5
+Color = 0x0000CCFF
+Visible = 0
+LegendText = Cardioid (3):  (x^2+y^2-a x)^2=a^2 (x^2+y^2)   a=4
+
+[Func25]
+FuncType = 2
+r = -6 sin(t/2)^2
+Visible = 0
+LegendText = *Cardioid (4):  r(t)=a sin(t/2)^2   a=-6
+From = 0
+To = 2pi
+Steps = 1000
+Color = 0x00FF9966
+
+[Func26]
+FuncType = 2
+r = -8 cos(t/2)^2
+Visible = 0
+LegendText = *Cardioid (5):  r(t)=a cos(t/2)^2   a=-8
+From = 0
+To = 2pi
+Steps = 1000
+Color = 0x0033CC33
+
+[Func27]
+FuncType = 1
+x = 4 (2+3 cos(t)-cos(3 t))/4
+y = 4 sin(t)^3
+Visible = 0
+LegendText = Cardioid Catacaustic:  x(t)=a (2+3 cos(t)-cos(3 t))/4, y(t)=a sin(t)^3   a=4
+From = -10
+To = 10
+Steps = 1000
+Color = clBlue
+
+[Relation40]
+Relation = ((x-6)^2+y^2)((x+6)^2+y^2)=7^4
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Cassinian Oval (1):  ((x-a)^2+y^2) ((x+a)^2+y^2)=b^4   a=6, b=7
+
+[Relation41]
+Relation = ((x-5)^2+y^2) ((x+5)^2+y^2)=5^4
+Style = 5
+Color = 0x0000CCFF
+Visible = 0
+LegendText = Cassinian Oval (2):  ((x-a)^2+y^2) ((x+a)^2+y^2)=b^4   a=5, b=5
+
+[Relation42]
+Relation = ((x-6)^2+y^2) ((x+6)^2+y^2)=pi^4
+Style = 5
+Color = clBlack
+Visible = 0
+LegendText = Cassinian Oval (3):  ((x-a)^2+y^2) ((x+a)^2+y^2)=b^4   a=6, b=pi
+
+[Relation43]
+Relation = y=cosh(x)
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Catenary (1):  y=a cosh(x/a)   a=1
+
+[Func28]
+FuncType = 1
+x = 2 t
+y = 2 cosh(t/2)
+Visible = 0
+LegendText = Catenary (2):  x(t)=a t, y(t)=a cosh(t/a)   a=2
+From = -10
+To = 10
+Steps = 1000
+Color = 0x0000CCFF
+
+[Func29]
+FuncType = 1
+x = -e*ln(t)
+y = (-e/2) (t+1/t)
+Visible = 0
+LegendText = Catenary (3):  x(t)=a ln(t), y(t)=(a/2) (t+1/t)   a=-e
+From = -10
+To = 10
+Steps = 1000
+Color = 0x00FF9966
+
+[Relation44]
+Relation = y=(-1/4)*(e^(-2 x)+e^(2 x))
+Style = 5
+Color = clGreen
+Visible = 0
+LegendText = Catenary (4):  y=(a/2) (e^(x/a)+e^(-x/a))   a=-1/2
+
+[Relation45]
+Relation = y=-2 ln(cos(x/2))
+Constraints = -pi<x<pi
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Catenary of equal resistance (1):  y=a ln(cos(x/a))   a=-2
+
+[Relation46]
+Relation = y=(-0.5)*ln(cos(2 x))
+Style = 5
+Color = 0x0000CCFF
+Visible = 0
+LegendText = Catenary of equal resistance (2):  y=a ln(cos(x/a))   a=-1/2
+
+[Func30]
+FuncType = 1
+x = 4 cos(t) cos(t/3)^3
+y = 4 sin(t) cos(t/3)^3
+Visible = 0
+LegendText = Cayley's Sextic (1):  x(t)=a cos(t) cos(t/3)^3, y(t)=a sin(t) cos(t/3)^3   a=4
+From = -10
+To = 10
+Steps = 1000
+Color = clRed
+
+[Func31]
+FuncType = 2
+r = -4 sqrt(2) cos(t/3)^3
+Visible = 0
+LegendText = Cayley's Sextic (2):  r(t)=a cos(t/3)^3   a=-4 sqrt(2)
+From = -2pi
+To = 2pi
+Steps = 1000
+Color = clBlue
+
+[Relation47]
+Relation = 4 (x^2+y^2-2 x)^3=108 (x^2+y^2)^2
+Style = 5
+Color = 0x0000CCFF
+Visible = 0
+LegendText = Cayley's Sextic (3):  4 (x^2+y^2-a x)^3=27 a^2 (x^2+y^2)^2   a=2
+
+[Relation48]
+Relation = y^2=abs(sin(x)+sin(2 x)/10)
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Chain of Eggs:  y^2=abs(sin(x)+sin(2 x)/10)
+
+[Relation49]
+Relation = x^2+y^2=5^2
+Style = 5
+Color = clGreen
+Visible = 0
+LegendText = Circle (1):  (x-a)^2+(y-b)^2=r^2   center (a,b)=(0,0), radius r=5
+
+[Relation50]
+Relation = (x+1)^2+(y+4)^2=5^2
+Style = 5
+Color = clBlack
+Visible = 0
+LegendText = Circle (2):  (x-a)^2+(y-b)^2=r^2   center (a,b)=(-1,-4), radius r=5
+
+[Func32]
+FuncType = 1
+x = pi*cos(t)
+y = pi*sin(t)
+Visible = 0
+LegendText = Circle (3):  x(t)=r cos(t), y(t)=r sin(t)   radius r=pi
+From = -10
+To = 10
+Steps = 1000
+Color = clBlue
+
+[Func33]
+FuncType = 2
+r = 2
+Visible = 0
+LegendText = Circle (4):  r(t)=r   center (0,0), radius r=2
+From = 0
+To = 2pi
+Steps = 1000
+Color = clRed
+
+[Func34]
+FuncType = 2
+r = 2 cos(t)
+Visible = 0
+LegendText = Circle (5):  r(t)=2 a cos(t)   center (a,0), radius a=1
+From = 0
+To = 2pi
+Steps = 1000
+Color = clMedGray
+
+[Func35]
+FuncType = 2
+r = 2 sin(t)
+Visible = 0
+LegendText = Circle (6):  r(t)=2 b sin(t)   center (0,b), radius b=1
+From = 0
+To = 2pi
+Steps = 1000
+Color = 0x0066CCFF
+
+[Func36]
+FuncType = 2
+r = 4
+Visible = 0
+LegendText = Circle (7):  r(t)=a/(1+e cos(t))   a=4 (semilatus rectum), e=0 (eccentricity, e=0)
+From = 0
+To = 2pi
+Steps = 1000
+Color = 0x00FFCC00
+
+[Func37]
+FuncType = 1
+x = 4 (cos(t)^3-(3/2) cos(t)+1)/((3/2) cos(t)-1-2 (1/2)^2)
+y = 4 sin(t)^3/((3/2) cos(t)-1-2 (1/2)^2)
+Visible = 0
+LegendText = Circle Catacaustic (1):  x(t)=a (2 b cos(t)^3-3 b cos(t)+1)/(3 b cos(t)-1-2 b^2), y(t)=2 a b sin(t)^3/(3 b cos(t)-1-2 b^2)   a=4, b=1/2
+From = -10
+To = 10
+Steps = 1000
+Color = clBlue
+
+[Func38]
+FuncType = 1
+x = 2 ((6/4) cos(t)^3-(9/4) cos(t)+1)/((9/4) cos(t)-1-2 (3/4)^2)
+y = 3 sin(t)^3/((9/4) cos(t)-1-2 (3/4)^2)
+Visible = 0
+LegendText = Circle Catacaustic (2):  x(t)=a (2 b cos(t)^3-3 b cos(t)+1)/(3 b cos(t)-1-2 b^2), y(t)=2 a b sin(t)^3/(3 b cos(t)-1-2 b^2)   a=2, b=3/4
+From = -10
+To = 10
+Steps = 1000
+Color = 0x0000CCFF
+
+[Func39]
+FuncType = 1
+x = 2 (2 cos(t)^3-3 cos(t)+1)/(3 cos(t)-3)
+y = 4 sin(t)^3/(3 cos(t)-3)
+Visible = 0
+LegendText = Circle Catacaustic (3):  x(t)=a (2 b cos(t)^3-3 b cos(t)+1)/(3 b cos(t)-1-2 b^2), y(t)=2 a b sin(t)^3/(3 b cos(t)-1-2 b^2)   a=2, b=1
+From = -10
+To = 10
+Steps = 1000
+Color = 0x0066CC66
+
+[Func40]
+FuncType = 1
+x = 4 (4 cos(t)^3-6 cos(t)+1)/(6 cos(t)-9)
+y = 16 sin(t)^3/(6 cos(t)-9)
+Visible = 0
+LegendText = Circle Catacaustic (4):  x(t)=a (2 b cos(t)^3-3 b cos(t)+1)/(3 b cos(t)-1-2 b^2), y(t)=2 a b sin(t)^3/(3 b cos(t)-1-2 b^2)   a=4, b=2
+From = -10
+To = 10
+Steps = 1000
+Color = clRed
+
+[Func41]
+FuncType = 1
+x = (cos(t)+t sin(t))
+y = (sin(t)-t cos(t))
+Visible = 0
+LegendText = Circle Involute:  x(t)=a (cos(t)+t sin(t)), y(t)=a (sin(t)-t cos(t))   a=1
+From = 0
+To = 40
+Steps = 1000
+Color = clBlue
+
+[Func42]
+FuncType = 2
+r = -asin(t/4)+sqrt(16-t^2)/t
+Visible = 0
+LegendText = Circular Tractrix (1):  r(t)=-asin(t/2 a)+sqrt(4 a^2-t^2)/t   a=2
+From = -4pi
+To = 4pi
+Steps = 1000
+Color = clBlue
+
+[Func43]
+FuncType = 2
+r = -asin(t)+sqrt(1-t^2)/t
+Visible = 0
+LegendText = Circular Tractrix (2):  r(t)=-asin(t/2 a)+sqrt(4 a^2-t^2)/t   a=1/2
+From = -8pi
+To = 8pi
+Steps = 1000
+Color = 0x0000CCFF
+
+[Func44]
+FuncType = 2
+r = 2 sin(t) tan(t)
+Visible = 0
+LegendText = Cissoid of Diocles (1):  r(t)=2 a sin(t) tan(t)   a=1
+From = 0
+To = 2pi
+Steps = 1000
+Color = clBlue
+
+[Func45]
+FuncType = 1
+x = 4/(1+t^2)
+y = 4/(t*(1+t^2))
+Visible = 0
+LegendText = Cissoid of Diocles (2):  x(t)=2 a/(1+t^2), y(t)=2 a/(t*(1+t^2))   a=2
+From = -10
+To = 10
+Steps = 1000
+Color = 0x0000CCFF
+
+[Func46]
+FuncType = 1
+x = 2 pi*sin(t)^2
+y = 2 pi*sin(t)^3/cos(t)
+Visible = 0
+LegendText = Cissoid of Diocles (3):  x(t)=2 a sin(t)^2, y(t)=2 a sin(t)^3/cos(t)   a=pi
+From = -10
+To = 10
+Steps = 1000
+Color = 0x0066CC00
+
+[Relation51]
+Relation = y^2*(10-x)=x^3
+Style = 5
+Color = clRed
+Visible = 0
+LegendText = Cissoid of Diocles (4):  y^2 (2 a-x)=x^3   a=5
+
+[Func47]
+FuncType = 2
+r = 4 (abs(sin(6 t/8))^(-3)-abs(cos(6 t/8)))^(-3)
+Visible = 0
+LegendText = *Clover (1):  r(t)=a (abs(sin(6 t/8))^(-3)-abs(cos(6 t/8)))^(-3)   a=4
+From = -2pi
+To = 2pi
+Steps = 1000
+Color = clBlue
+
+[Func48]
+FuncType = 2
+r = 3 (abs(sin(6 t/8))^(-4)-abs(cos(6 t/8)))^(-4)
+Visible = 0
+LegendText = *Clover (2):  r(t)=a (abs(sin(6 t/8))^(-4)-abs(cos(6 t/8)))^(-4)   a=3
+From = -2pi
+To = 2pi
+Steps = 1000
+Color = 0x0000CCFF
+
+[Func49]
+FuncType = 2
+r = -2 (abs(sin(6 t/8))^(-6)-abs(cos(6 t/8)))^(-6)
+Visible = 0
+LegendText = *Clover (3):  r(t)=a (abs(sin(6 t/8))^(-6)-abs(cos(6 t/8)))^(-6)   a=-2
+From = -2pi
+To = 2pi
+Steps = 1000
+Color = clRed
+
+[Relation52]
+Relation = ((x-4)^2+y^2) (x+4)^2=81
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Cochlear Curve (1):  ((x-a)^2+y^2) (x+a)^2=b^4   a=4, b=3 (0<b<a)
+
+[Relation53]
+Relation = ((x-4)^2+y^2) (x+4)^2=256
+Style = 5
+Color = 0x0000CCFF
+Visible = 0
+LegendText = Cochlear Curve (2):  ((x-a)^2+y^2) (x+a)^2=b^4   a=4, b=4 (a=b)
+
+[Relation54]
+Relation = ((x-3)^2+y^2) (x+3)^2=6^4
+Style = 5
+Color = clGreen
+Visible = 0
+LegendText = Cochlear Curve (3):  ((x-a)^2+y^2) (x+a)^2=b^4   a=3, b=6 (0<a<b)
+
+[Func50]
+FuncType = 1
+x = 2pi*sin(t)/t
+y = 2pi*(1-cos(t))/t
+Visible = 0
+LegendText = Cochleoid (1):  x(t)=a sin(t)/t, y(t)=a (1-cos(t))/t   a=2pi
+From = 0
+To = 50
+Steps = 1000
+Color = clBlue
+
+[Func51]
+FuncType = 1
+x = 8 sin(t) cos(t)/t
+y = 8 sin(t)^2/t
+Visible = 0
+LegendText = Cochleoid (2):  x(t)=a sin(t) cos(t)/t, y(t)=a sin(t)^2/t   a=8
+From = 0
+To = 50
+Steps = 1000
+Color = 0x0000CCFF
+
+[Func52]
+FuncType = 2
+r = -6 sin(t)/t
+Visible = 0
+LegendText = Cochleoid (3):  r(t)=a sin(t)/t   a=-6
+From = 0
+To = 10pi
+Steps = 1000
+Color = clRed
+
+[Func53]
+FuncType = 2
+r = abs(1/sin(t/4)^(1/3)-cos(4 t)^2)
+Visible = 0
+LegendText = *Comet Function:  r(t)=k abs(1/sin(t/4)^(1/3)-cos(4 t)^2)   k=1
+From = 0
+To = 10pi
+Steps = 1000
+Color = clBlue
+
+[Func54]
+FuncType = 1
+x = (sec(t)-2pi*cos(t)) cos(t)
+y = (sec(t)-2pi*cos(t)) sin(t)
+Visible = 0
+LegendText = Conchoid of de Sluze (1):  x(t)=(sec(t)+a cos(t)) cos(t), y(t)=(sec(t)+a cos(t)) sin(t)   a=-2pi
+From = -10
+To = 10
+Steps = 1000
+Color = 0x0066CC66
+
+[Func55]
+FuncType = 1
+x = (sec(t)-3 cos(t)) cos(t)
+y = (sec(t)-3 cos(t)) sin(t)
+Visible = 0
+LegendText = Conchoid of de Sluze (2):  x(t)=(sec(t)+a cos(t)) cos(t), y(t)=(sec(t)+a cos(t)) sin(t)   a=-3
+From = -10
+To = 10
+Steps = 1000
+Color = clBlue
+
+[Func56]
+FuncType = 2
+r = sec(t)-cos(t)
+Visible = 0
+LegendText = Conchoid of de Sluze (3):  r(t)=sec(t)+a cos(t)   a=-1
+From = 0
+To = 2pi
+Steps = 1000
+Color = 0x0000CCFF
+
+[Func57]
+FuncType = 2
+r = sec(t)-0.5 cos(t)
+Visible = 0
+LegendText = Conchoid of de Sluze (2):  r(t)=sec(t)+a cos(t)   a=-1/2
+From = 0
+To = 2pi
+Steps = 1000
+Color = clSkyBlue
+
+[Relation55]
+Relation = (x-1)(x^2+y^2)=0
+Style = 5
+Color = clBlack
+Visible = 0
+LegendText = Conchoid of de Sluze (5):  (x-1) (x^2+y^2)=a x^2   a=0
+
+[Relation56]
+Relation = (x-1) (x^2+y^2)=x^2
+Style = 5
+Color = 0x000066FF
+Visible = 0
+LegendText = Conchoid of de Sluze (6):  (x-1) (x^2+y^2)=a x^2   a=1
+
+[Relation57]
+Relation = (x-1) (x^2+y^2)=4 x^2
+Style = 5
+Color = 0x0090A9AD
+Visible = 0
+LegendText = Conchoid of de Sluze (7):  (x-1) (x^2+y^2)=a x^2   a=4
+
+[Relation58]
+Relation = (x^2+y^2) (x-1)^2=16 x^2
+Style = 5
+Color = clRed
+Visible = 0
+LegendText = Conchoid of Nicomedes (1):  (x^2+y^2) (x-a)^2=b^2 x^2   a=1, b=4
+
+[Func58]
+FuncType = 2
+r = 2+sec(t)
+Visible = 0
+LegendText = Conchoid of Nicomedes (2):  r(t)=a+b sec(t)   a=2, b=1  [b/a<1]
+From = 0
+To = 2pi
+Steps = 1000
+Color = 0x0000CCFF
+
+[Func59]
+FuncType = 2
+r = 2+2 sec(t)
+Visible = 0
+LegendText = Conchoid of Nicomedes (3):  r(t)=a+b sec(t)   a=b=2  [b/a=1]
+From = 0
+To = 2pi
+Steps = 1000
+Color = clBlue
+
+[Func60]
+FuncType = 2
+r = 2+4 sec(t)
+Visible = 0
+LegendText = Conchoid of Nicomedes (4):  r(t)=a+b sec(t)   a=2, b=4  [b/a>1]
+From = 0
+To = 2pi
+Steps = 1000
+Color = 0x0066CC66
+
+[Func61]
+FuncType = 1
+x = 4 (1-2 sin(t)^2) cos(t)
+y = 4 (1+2 cos(t)^2) sin(t)
+Visible = 0
+LegendText = Cornoid:  x(t)=a (1-2 sin(t)^2) cos(t), y(t)=a (1+2 cos(t)^2) sin(t)   a=4
+From = -10
+To = 10
+Steps = 1000
+Color = clBlue
+
+[Relation59]
+Relation = y=csc(x)
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Cosecant Function:  y=csc(x)
+
+[Relation60]
+Relation = y=cos(x)
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Cosine Function:  y=cos(x)
+
+[Relation61]
+Relation = y=cot(x)
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Cotangent Function:  y=cot(x)
+
+[Func62]
+FuncType = 2
+r = 8/cosh(t/4)
+Visible = 0
+LegendText = Cotes' Spiral (1):  r(t)=a/cosh(n t)   a=8, n=1/4
+From = 0
+To = 20pi
+Steps = 1000
+Color = clBlue
+
+[Func63]
+FuncType = 2
+r = 8/cosh(t/10)
+Visible = 0
+LegendText = Cotes' Spiral (2):  r(t)=a/cosh(n t)   a=8, n=1/10
+From = 0
+To = 20pi
+Steps = 1000
+Color = 0x0000CCFF
+
+[Relation62]
+Relation = (x^2-4 y)^2=16 (x^2-y^2)
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Cramer's Curve (1):  (x^2-a y)^2=b^2 (x^2-y^2)   a=4, b=4
+
+[Relation63]
+Relation = (x^2-4 y)^2=(x^2-y^2)
+Style = 5
+Color = 0x0000CCFF
+Visible = 0
+LegendText = Cramer's Curve (2):  (x^2-a y)^2=b^2 (x^2-y^2)   a=4, b=1
+
+[Relation64]
+Relation = (x^2-y)^2=16 (x^2-y^2)
+Style = 5
+Color = clRed
+Visible = 0
+LegendText = Cramer's Curve (3):  (x^2-a y)^2=b^2 (x^2-y^2)   a=1, b=4
+
+[Func64]
+FuncType = 2
+r = sin(t)+sqrt(1-0.9 cos(t)^2)+sqrt(1-0.9 cos(t)^2)
+Visible = 0
+LegendText = Cranioid (1):  r(t)=a sin(t)+b sqrt(1-m cos(t)^2)+c sqrt(1-n cos(t)^2))   a=b=c=1, m=n=9/10
+From = -2pi
+To = 2pi
+Steps = 1000
+Color = clBlue
+
+[Func65]
+FuncType = 2
+r = sin(t)+2 sqrt(1-0.8 cos(t)^2)+2 sqrt(1-0.8 cos(t)^2)
+Visible = 0
+LegendText = Cranioid (2):  r(t)=a sin(t)+b sqrt(1-m cos(t)^2)+c sqrt(1-n cos(t)^2))   a=1, b=c=2, m=n=8/10
+From = -2pi
+To = 2pi
+Steps = 1000
+Color = 0x0000CCFF
+
+[Func66]
+FuncType = 2
+r = sin(t)+sqrt(1-0.6 cos(t)^2)+4 sqrt(1-0.6 cos(t)^2)
+Visible = 0
+LegendText = Cranioid (3):  r(t)=a sin(t)+b sqrt(1-m cos(t)^2)+c sqrt(1-n cos(t)^2))   a=b=1, c=4, m=n=6/10
+From = -2pi
+To = 2pi
+Steps = 1000
+Color = clRed
+
+[Relation65]
+Relation = (x^2+y^2)^2=4 (x^3+y^3)
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Crooked Egg Curve (1):  (x^2+y^2)^2=a (x^3+y^3)   a=4
+
+[Func67]
+FuncType = 2
+r = -6 (sin(t)^3+cos(t)^3)
+Visible = 0
+LegendText = Crooked Egg Curve (2):  r(t)=a (sin(t)^3+cos(t)^3)   a=-6
+From = 0
+To = 2pi
+Steps = 1000
+Color = 0x0000CCFF
+
+[Func68]
+FuncType = 2
+r = min(3/(10 abs(sin(2 t))),2)
+Visible = 0
+LegendText = Cross (1):  r(t)=min(3/(10 abs(sin(2 t))),2)   (On-Bread Cross)
+From = 0
+To = 2pi
+Steps = 1000
+Color = clRed
+
+[Func69]
+FuncType = 2
+r = max(3 cos(2 t)^2,0.6)
+Visible = 0
+LegendText = Cross (2):  r(t)=max(3 cos(2 t)^2,0.6)   (Leaf Cross)
+From = 0
+To = 2pi
+Steps = 1000
+Color = clGreen
+
+[Func70]
+FuncType = 2
+r = min(1/abs(cos(2 t)),4)
+Visible = 0
+LegendText = Cross (3):  r(t)=min(1/abs(cos(2 t)),4)   (St. Andrew's Cross)
+From = 0
+To = 2pi
+Steps = 1000
+Color = 0x0000CCFF
+
+[Func71]
+FuncType = 2
+r = min(3/(2 abs(sin(2 t))),5)
+Visible = 0
+LegendText = Cross (4):  r(t)=min(3/(2 abs(sin(2 t))),5)   (Catacomb Cross)
+From = 0
+To = 2pi
+Steps = 1000
+Color = 0x00969696
+
+[Func72]
+FuncType = 2
+r = min(4/(2 sin(2 t))^4,6)
+Visible = 0
+LegendText = Cross (5):  r(t)=min(4/(2 sin(2 t)^4)),6)   (St. George's Cross)
+From = 0
+To = 2pi
+Steps = 1000
+Color = clBlue
+
+[Func73]
+FuncType = 2
+r = 2/sin(2 t)
+Visible = 0
+LegendText = Cruciform Curve (1):  r(t)=a/sin(2 t)   a=2
+From = -2pi
+To = 2pi
+Steps = 1000
+Color = clBlue
+
+[Func74]
+FuncType = 1
+x = 2/sin(t)
+y = 2/cos(t)
+Visible = 0
+LegendText = Cruciform Curve (2):  x(t)=a/sin(t), y(t)=b/cos(t)   a=2, b=2
+From = -10
+To = 10
+Steps = 1000
+Color = 0x0000CCFF
+
+[Relation66]
+Relation = x^2*y^2-9 x^2-9 y^2=0
+Style = 5
+Color = clGreen
+Visible = 0
+LegendText = Cruciform Curve (3):  x^2 y^2-a^2 x^2-b^2 y^2=0   a=3, b=3
+
+[Relation67]
+Relation = y=x*(x-4) (x-2)
+Style = 5
+Color = 0x0000CCFF
+Visible = 0
+LegendText = Cubical Hyperbola (1):  y=a (x-b) (x-c) (x-d)   a=1, b=0, c=4, d=2
+
+[Relation68]
+Relation = y=(x-3) (x-4) (x-5)/2
+Style = 5
+Color = clRed
+Visible = 0
+LegendText = Cubical Hyperbola (2):  y=a (x-b) (x-c) (x-d)   a=1/2, b=3, c=4, d=5
+
+[Relation69]
+Relation = y=-(x-1) (x-6) (x+4)/8
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Cubical Hyperbola (3):  y=a (x-b) (x-c) (x-d)   a=-1/8, b=1, c=6, d=-4
+
+[Relation70]
+Relation = y=x^3/4
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Cubical Parabola (1):  y=a (x-b)^3   a=1/4, b=0
+
+[Relation71]
+Relation = y=4 (x-4)^3
+Style = 5
+Color = clRed
+Visible = 0
+LegendText = Cubical Parabola (2):  y=a (x-b)^3   a=4, b=4
+
+[Relation72]
+Relation = y=-(x+6)^3
+Style = 5
+Color = 0x0000CCFF
+Visible = 0
+LegendText = Cubical Parabola (3):  y=a (x-b)^3   a=-1, b=-6
+
+[Func75]
+FuncType = 1
+x = t-0.5 sin(t)
+y = 1-0.5 cos(t)
+Visible = 0
+LegendText = Curtate Cycloid (1):  x(t)=a t-b sin(t), y(t)=a-b cos(t)   a=1, b=1/2 (a>b)
+From = -20
+To = 20
+Steps = 1000
+Color = clBlue
+
+[Func76]
+FuncType = 1
+x = 1.5 t-sin(t)
+y = 1.5 -cos(t)
+Visible = 0
+LegendText = Curtate Cycloid (2):  x(t)=a t-b sin(t), y(t)=a-b cos(t)   a=3/2, b=1 (a>b)
+From = -20
+To = 20
+Steps = 1000
+Color = 0x0000CCFF
+
+[Func77]
+FuncType = 2
+r = 4 (1+cos(t/2)/2)
+Visible = 0
+LegendText = Cyclic-harmonic Curve (1):  r(t)=a (1+b cos(n t))   a=4, b=1/2, n=1/2
+From = -2pi
+To = 2pi
+Steps = 1000
+Color = clBlack
+
+[Func78]
+FuncType = 2
+r = 4 (1+cos(3 t/2)/2)
+Visible = 0
+LegendText = Cyclic-harmonic Curve (2):  r(t)=a (1+b cos(n t))   a=4, b=1/2, n=3/2
+From = -2pi
+To = 2pi
+Steps = 1000
+Color = clGreen
+
+[Func79]
+FuncType = 2
+r = 4 (1+cos(4 t)/2)
+Visible = 0
+LegendText = Cyclic-harmonic Curve (3):  r(t)=a (1+b cos(n t))   a=4, b=1/2, n=2
+From = -2pi
+To = 2pi
+Steps = 1000
+Color = clBlue
+
+[Func80]
+FuncType = 2
+r = 4 (1+cos(5 t/2)/2)
+Visible = 0
+LegendText = Cyclic-harmonic Curve (4):  r(t)=a (1+b cos(n t))   a=4, b=1/2, n=5/2
+From = -2pi
+To = 2pi
+Steps = 1000
+Color = clRed
+
+[Func81]
+FuncType = 2
+r = 4 (1+cos(9 t/4)/2)
+Visible = 0
+LegendText = Cyclic-harmonic Curve (5):  r(t)=a (1+b cos(n t))   a=4, b=1/2, n=9/4
+From = -4pi
+To = 4pi
+Steps = 1000
+Color = 0x00D7D7D7
+
+[Func82]
+FuncType = 2
+r = 3 (1+cos(2 t))
+Visible = 0
+LegendText = Cyclic-harmonic Curve (6):  r(t)=a (1+b cos(n t))   a=3, b=1, n=2
+From = -2pi
+To = 2pi
+Steps = 1000
+Color = 0x003399CC
+
+[Func83]
+FuncType = 2
+r = 3 (1+cos(2 t/3))
+Visible = 0
+LegendText = Cyclic-harmonic Curve (7):  r(t)=a (1+b cos(n t))   a=3, b=1, n=2/3
+From = -4pi
+To = 4pi
+Steps = 1000
+Color = clLime
+
+[Func84]
+FuncType = 2
+r = 3 (1+cos(4 t/3))
+Visible = 0
+LegendText = Cyclic-harmonic Curve (8):  r(t)=a (1+b cos(n t))   a=3, b=1, n=4/3
+From = -4pi
+To = 4pi
+Steps = 1000
+Color = 0x00FFCC66
+
+[Func85]
+FuncType = 2
+r = 3 (1+cos(9 t/4))
+Visible = 0
+LegendText = Cyclic-harmonic Curve (9):  r(t)=a (1+b cos(n t))   a=3, b=1, n=9/4
+From = -4pi
+To = 4pi
+Steps = 1000
+Color = 0x00999933
+
+[Func86]
+FuncType = 2
+r = 2 (1+2 cos(2 t))
+Visible = 0
+LegendText = Cyclic-harmonic Curve (10):  r(t)=a (1+b cos(n t))   a=2, b=2, n=2
+From = -2pi
+To = 2pi
+Steps = 1000
+Color = 0x0066CC33
+
+[Func87]
+FuncType = 2
+r = 2 (1+2 cos(5 t))
+Visible = 0
+LegendText = Cyclic-harmonic Curve (11):  r(t)=a (1+b cos(n t))   a=2, b=2, n=5
+From = -2pi
+To = 2pi
+Steps = 1000
+Color = 0x00FFCC99
+
+[Func88]
+FuncType = 2
+r = 2 (1+2 cos(6 t/5))
+Visible = 0
+LegendText = Cyclic-harmonic Curve (12):  r(t)=a (1+b cos(n t))   a=2, b=2, n=6/5
+From = -6pi
+To = 6pi
+Steps = 1000
+Color = 0x0000CCFF
+
+[Func89]
+FuncType = 1
+x = 0.6 (t-sin t)
+y = 0.6 (1-cos t)
+Visible = 0
+LegendText = Cycloid (1):  x(t)=r (t-sin(t)), y(t)=r (1-cos(t))   r=0.6
+From = -20
+To = 20
+Steps = 1000
+Color = clRed
+
+[Func90]
+FuncType = 1
+x = -(t-sin t)
+y = -(1-cos t)
+Visible = 0
+LegendText = Cycloid (2):  x(t)=r (t-sin(t)), y(t)=r (1-cos(t))   r=-1
+From = -20
+To = 20
+Steps = 1000
+Color = clBlue
+
+[Func91]
+FuncType = 1
+x = 2 (t/2-sin(t/2))/2
+y = 2 (1-cos(t/2))/2
+Visible = 0
+LegendText = Cycloid Catacaustic:  x(t)=a (t/2-sin(t/2))/2, y(t)=a (1-cos(t/2))/2   a=2
+From = -20
+To = 20
+Steps = 1000
+Color = clBlue
+
+[Func92]
+FuncType = 2
+r = 2 (1+2 cos(2 t))
+Visible = 0
+LegendText = Cycloid of Ceva (1):  r(t)=a (1+2 cos(2 t))   a=2
+From = 0
+To = 2pi
+Steps = 1000
+Color = clBlue
+
+[Relation73]
+Relation = (x^2+y^2)^3=(3 x^2-y^2)^2
+Style = 5
+Color = 0x0000CCFF
+Visible = 0
+LegendText = Cycloid of Ceva (2):  (x^2+y^2)^3=a^2 (3 x^2-y^2)^2   a=1
+
+[Relation74]
+Relation = y=e^(-0.5 x)*sin(2 x+1)
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Damped Oscillations Curve (1):  y=a e^(-b x) sin(k x+m)   a=m=1, b=1/2, k=2
+
+[Relation75]
+Relation = y=e^(-0.25 x)*sin(x+1)
+Style = 5
+Color = 0x0000CCFF
+Visible = 0
+LegendText = Damped Oscillations Curve (2):  y=a e^(-b x) sin(k x+m)   a=k=m=1, b=1/4
+
+[Func93]
+FuncType = 1
+x = -1.5 re(cos(i)+t)
+y = 1.5 im(sin(i)^3t)
+Visible = 0
+LegendText = *Damped Oscillations Curve (3):  x(t)=-a re(cos(i)+t), y(t)=b im(sin(i)^3t)   a=b=3/2
+From = -20
+To = 20
+Steps = 1000
+Color = 0x00339966
+
+[Relation76]
+Relation = x=e^(-y)+(y-1)
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = De Beaune's Curve (1):  x=a e^(-y/b)+(y-b)/c   a=b=c=1
+
+[Relation77]
+Relation = x=4 e^(-y)+(y-1)
+Style = 5
+Color = 0x0000CCFF
+Visible = 0
+LegendText = De Beaune's Curve (2):  x=a e^(-y/b)+(y-b)/c   a=4, b=c=1
+
+[Relation78]
+Relation = x=0.25 e^(-y)+(y-1)
+Style = 5
+Color = clGreen
+Visible = 0
+LegendText = De Beaune's Curve (3):  x=a e^(-y/b)+(y-b)/c   a=1/4, b=c=1
+
+[Relation79]
+Relation = x=0.25 e^(-y)+(y-1)/0.5
+Style = 5
+Color = clRed
+Visible = 0
+LegendText = De Beaune's Curve (4):  x=a e^(-y/b)+(y-b)/c   a=1/4, b=1, c=1/2
+
+[Relation80]
+Relation = y=log(x)
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Decimal Logarithm Function:  y=log(x)
+
+[Func94]
+FuncType = 1
+x = 2 (2 cos(t)+cos(2 t))
+y = 2 (2 sin(t)-sin(2 t))
+Visible = 0
+LegendText = Deltoid (1):  x(t)=a (2 cos(t)+cos(2 t)), y(t)=a (2 sin(t)-sin(2 t))   a=2
+From = -10
+To = 10
+Steps = 1000
+Color = clBlue
+
+[Func95]
+FuncType = 1
+x = -e*(2 cos(t)+cos(2 t))
+y = -e*(2 sin(t)-sin(2 t))
+Visible = 0
+LegendText = Deltoid (2):  x(t)=a (2 cos(t)+cos(2 t)), y(t)=a (2 sin(t)-sin(2 t))   a=-e
+From = -10
+To = 10
+Steps = 1000
+Color = 0x0000CCFF
+
+[Relation81]
+Relation = (x^2+y^2)^2+18 (9) (x^2+y^2)-27 (3)^4=24 (x^3-3 x*y^2)
+Style = 5
+Color = clGreen
+Visible = 0
+LegendText = Deltoid (3):  (x^2+y^2)^2+18 a^2 (x^2+y^2)-27 a^4=8 a (x^3-3 x y^2)   a=3
+
+[Relation82]
+Relation = y^2*(y^2-1)=x^2*(x^2-4)
+Style = 5
+Color = clGreen
+Visible = 0
+LegendText = Devil's Curve (1):  y^2 (y^2-a^2)=x^2 (x^2-b^2)   a=1, b=2
+
+[Func96]
+FuncType = 2
+r = sqrt(9+1/cos(2 t))
+Visible = 0
+LegendText = Devil's Curve (2):  r(t)=sqrt(b^2+a^2/cos(2 t))   a=1, b=3
+From = 0
+To = 2pi
+Steps = 10000
+Color = clBlue
+
+[Relation83]
+Relation = (y^2+x)^2=10 x*(2 y-x)
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = *Distorted Analemma:  (y^2-x)^2=a x (2 y-x)   a=10
+
+[Func97]
+FuncType = 2
+r = t+csc t
+Visible = 0
+LegendText = *Distorted Conchoid of Nicomedes (1):  r(t)=a t+csc(t)   a=1
+From = 0
+To = 2pi
+Steps = 1000
+Color = clBlue
+
+[Func98]
+FuncType = 2
+r = t/2+csc t
+Visible = 0
+LegendText = *Distorted Conchoid of Nicomedes (2):  r(t)=a t+csc(t)   a=1/2
+From = 0
+To = 2pi
+Steps = 1000
+Color = 0x0000CCFF
+
+[Func99]
+FuncType = 2
+r = t/5+csc t
+Visible = 0
+LegendText = *Distorted Conchoid of Nicomedes (3):  r(t)=a t+csc(t)   a=1/5
+From = 0
+To = 2pi
+Steps = 1000
+Color = clGreen
+
+[Func100]
+FuncType = 2
+r = t/10+csc t
+Visible = 0
+LegendText = *Distorted Conchoid of Nicomedes (4):  r(t)=a t+csc(t)   a=1/10
+From = 0
+To = 2pi
+Steps = 1000
+Color = clRed
+
+[Func101]
+FuncType = 1
+x = cos(t) (sin(t)+cos(t))
+y = 6 sin(t)
+Visible = 0
+LegendText = *Distorted Lemniscate (1):  x(t)=a cos(t) (sin(t)+cos(t)), y(t)=b sin(t)   a=1, b=6
+From = -10
+To = 10
+Steps = 1000
+Color = clBlue
+
+[Func102]
+FuncType = 1
+x = 6 cos(t) (sin(t)+cos(t))
+y = sin(t)
+Visible = 0
+LegendText = *Distorted Lemniscate (2):  x(t)=a cos(t) (sin(t)+cos(t)), y(t)=b sin(t)   a=6, b=1
+From = -10
+To = 10
+Steps = 1000
+Color = 0x0000CCFF
+
+[Func103]
+FuncType = 1
+x = 6 cos(t) (sin(t)+cos(t))
+y = 6 sin(t)
+Visible = 0
+LegendText = *Distorted Lemniscate (3):  x(t)=a cos(t) (sin(t)+cos(t)), y(t)=b sin(t)   a=b=6
+From = -10
+To = 10
+Steps = 1000
+Color = 0x0066CC00
+
+[Func104]
+FuncType = 1
+x = cos(t) (sin(t)+cos(t))
+y = sin(t)
+Visible = 0
+LegendText = *Distorted Lemniscate (4):  x(t)=a cos(t) (sin(t)+cos(t)), y(t)=b sin(t)   a=b=1
+From = -10
+To = 10
+Steps = 1000
+Color = clRed
+
+[Func105]
+FuncType = 1
+x = 6 sin(t)^3+cos(t)
+y = 2 cos(t)^3+sin(t)
+Visible = 0
+LegendText = *Distorted Talbot's Curve (1):  x(t)=a sin(t)^3+b cos(t), y(t)=c cos(t)^3+d sin(t)   a=6, b=d=1, c=2
+From = -10
+To = 10
+Steps = 1000
+Color = 0x00FFCC00
+
+[Func106]
+FuncType = 1
+x = 6 sin(t)^3+3 cos(t)
+y = 2 cos(t)^3+sin(t)
+Visible = 0
+LegendText = *Distorted Talbot's Curve (2):  x(t)=a sin(t)^3+b cos(t), y(t)=c cos(t)^3+d sin(t)   a=6, b=3, c=2, d=1
+From = -10
+To = 10
+Steps = 1000
+Color = 0x0000CCFF
+
+[Func107]
+FuncType = 1
+x = 6 sin(t)^3+4 cos(t)
+y = 2 cos(t)^3+sin(t)
+Visible = 0
+LegendText = *Distorted Talbot's Curve (3):  x(t)=a sin(t)^3+b cos(t), y(t)=c cos(t)^3+d sin(t)   a=6, b=4, c=2, d=1
+From = -10
+To = 10
+Steps = 1000
+Color = clRed
+
+[Func108]
+FuncType = 1
+x = 6 sin(t)^3+6 cos(t)
+y = 2 cos(t)^3+2 sin(t)
+Visible = 0
+LegendText = *Distorted Talbot's Curve (4):  x(t)=a sin(t)^3+b cos(t), y(t)=c cos(t)^3+d sin(t)   a=b=6, c=d=2
+From = -10
+To = 10
+Steps = 1000
+Color = clBlue
+
+[Func109]
+FuncType = 2
+r = 3 (1+sin(3 t)^2-cos(4 t))
+Visible = 0
+LegendText = *Double Boomerang:  r(t)=a (1+sin(3 t)^2-cos(4 t))   a=3
+From = 0
+To = 2pi
+Steps = 1000
+Color = clBlue
+
+[Func110]
+FuncType = 2
+r = 4 sin(t)^2
+Visible = 0
+LegendText = Double Egg (1):  r(t)=a sin(t)^2   a=4
+From = 0
+To = 2pi
+Steps = 1000
+Color = 0x0033CC33
+
+[Func111]
+FuncType = 2
+r = 5 cos(t)^2
+Visible = 0
+LegendText = Double Egg (2):  r(t)=a cos(t)^2   a=5
+From = 0
+To = 2pi
+Steps = 1000
+Color = clBlue
+
+[Relation84]
+Relation = (x^2+y^2)^3=36 x^4
+Style = 5
+Color = 0x0000CCFF
+Visible = 0
+LegendText = Double Egg (3):  (x^2+y^2)^3=a^2 x^4   a=6
+
+[Relation85]
+Relation = (x^4+y^4)=25 x^2
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = *Doubled Bean Curve (1):  (x^4+y^4)=a^2 x^2   a=5
+
+[Relation86]
+Relation = (x^4+y^4)=36 y^2
+Style = 5
+Color = 0x0000CCFF
+Visible = 0
+LegendText = *Doubled Bean Curve (2):  (x^4+y^4)=a^2 y^2   a=6
+
+[Func112]
+FuncType = 2
+r = 3 (abs(cos(t/4))^3+abs(cos(t/2)))^(3/2)
+Visible = 0
+LegendText = *Doubled Cardioid (1):  r(t)=k (abs(cos(t/4))^3+abs(cos(t/2)))^(3/2)   k=3
+From = -2pi
+To = 2pi
+Steps = 1000
+Color = clBlue
+
+[Func113]
+FuncType = 2
+r = -2 (abs(cos(t/4))^3+abs(cos(t/2)))^(3/2)
+Visible = 0
+LegendText = *Doubled Cardioid (2):  r(t)=k (abs(cos(t/4))^3+abs(cos(t/2)))^(3/2)   k=-2
+From = -2pi
+To = 2pi
+Steps = 1000
+Color = 0x0000CCFF
+
+[Func114]
+FuncType = 2
+r = 3 sin(3 t)+(cos(3 t))^2
+Visible = 0
+LegendText = *Doubled n-Folium (1):  r(t)=a sin(b t)+(cos(b t))^2   a=3, b=3 (Trifolium)
+From = 0
+To = 2pi
+Steps = 1000
+Color = clRed
+
+[Func115]
+FuncType = 2
+r = 4 sin(5 t)+(cos(5 t))^2
+Visible = 0
+LegendText = *Doubled n-Folium (2):  r(t)=a sin(b t)+(cos(b t))^2   a=4, b=5 (Pentafolium)
+From = 0
+To = 2pi
+Steps = 1000
+Color = 0x00FF9966
+
+[Func116]
+FuncType = 2
+r = 5 sin(7 t)+(cos(7 t))^2
+Visible = 0
+LegendText = *Doubled n-Folium (3):  r(t)=a sin(b t)+(cos(b t))^2   a=5, b=7 (Heptafolium)
+From = 0
+To = 2pi
+Steps = 1000
+Color = 0x0000CCFF
+
+[Func117]
+FuncType = 2
+r = 6 sin(9 t)+(cos(9 t))^2
+Visible = 0
+LegendText = *Doubled n-Folium (4):  r(t)=a sin(b t)+(cos(b t))^2   a=6, b=9 (Enneafolium)
+From = 0
+To = 2pi
+Steps = 1000
+Color = clGreen
+
+[Func118]
+FuncType = 1
+x = 2 cos(t)
+y = 4 sin(t) cos(t)^2
+Visible = 0
+LegendText = Dumbbell Curve (1):  x(t)=a cos(t), y(t)=a^2 sin(t) cos(t)^2   a=2
+From = -10
+To = 10
+Steps = 1000
+Color = clBlue
+
+[Relation87]
+Relation = 1296 y^2=x^4*(36-x^2)
+Style = 5
+Color = 0x0000CCFF
+Visible = 0
+LegendText = Dumbbell Curve (2):  a^4 y^2=x^4 (a^2-x^2)   a=6
+
+[Func119]
+FuncType = 2
+r = 2/cos(t)^3
+Visible = 0
+LegendText = Duplicatrix Cubic (1):  r(t)=a/cos(t)^3   a=2
+From = -10
+To = 10
+Steps = 1000
+Color = clBlue
+
+[Func120]
+FuncType = 1
+x = 4 (1+t^2)
+y = 4 t*(1+t^2)
+Visible = 0
+LegendText = Duplicatrix Cubic (2):  x(t)=a (1+t^2), y(t)=a t (1+t^2)   a=4
+From = -10
+To = 10
+Steps = 1000
+Color = 0x0000CCFF
+
+[Relation88]
+Relation = x^3=(-1/2)*(x^2+y^2)
+Style = 5
+Color = clRed
+Visible = 0
+LegendText = Duplicatrix Cubic (3):  x^3=a (x^2+y^2)   a=-1/2
+
+[Relation89]
+Relation = (x y-y^2+16)^2=(16-y^2) (x+y-1)^2
+Style = 5
+Color = clGreen
+Visible = 0
+LegendText = Dürer's Conchoid (1):  (x y-y^2+b^2)^2=(b^2-y^2) (x+y-a)^2   a=1, b=4 (a<b)
+
+[Relation90]
+Relation = (x y-y^2+36)^2=(36-y^2) (x+y-6)^2
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Dürer's Conchoid (2):  (x y-y^2+b^2)^2=(b^2-y^2) (x+y-a)^2   a=6, b=6 (a=b, cusp at (0,b))
+
+[Relation91]
+Relation = (x y-y^2+(pi)^2)^2=((pi)^2-y^2)*(x+y)^2
+Style = 5
+Color = 0x0000CCFF
+Visible = 0
+LegendText = Dürer's Conchoid (3):  (x y-y^2+b^2)^2=(b^2-y^2) (x+y-a)^2   a=0, b=pi (a=0)
+
+[Relation92]
+Relation = (x y-y^2)^2=(-y^2) (x+y-1)^2
+Style = 5
+Color = clBlack
+Visible = 0
+LegendText = Dürer's Conchoid (4):  (x y-y^2+b^2)^2=(b^2-y^2) (x+y-a)^2   a=1, b=0 (b=0, graph as y=0)
+
+[Relation93]
+Relation = (x^2+y^2)^2=8 x^3
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = *Egg Curve (1):  (x^2+y^2)^2=a x^3   a=8
+
+[Relation94]
+Relation = (x^2+y^2)^2=-6 y^3
+Style = 5
+Color = clGreen
+Visible = 0
+LegendText = *Egg Curve (2):  (x^2+y^2)^2=a y^3   a=-6
+
+[Relation95]
+Relation = x^2+y^2/(1+x/2)=1
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Egg-like Cubic (1):  x^2+y^2/(1+a x)=1   a=1/2
+
+[Relation96]
+Relation = x^2+y^2/(1+x)=1
+Style = 5
+Color = 0x0000CCFF
+Visible = 0
+LegendText = Egg-like Cubic (2):  x^2+y^2/(1+a x)=1   a=1
+
+[Relation97]
+Relation = x^2+y^2/(1+2 x)=1
+Style = 5
+Color = clGreen
+Visible = 0
+LegendText = Egg-like Cubic (3):  x^2+y^2/(1+a x)=1   a=2
+
+[Relation98]
+Relation = x^2+y^2*(1+3 x/4)=1
+Style = 5
+Color = clRed
+Visible = 0
+LegendText = Egg-like Cubic (4):  x^2+y^2 (1+a x)=1   a=3/4
+
+[Relation99]
+Relation = x^2+y^2*(1+x)=1
+Style = 5
+Color = 0x00FFCC00
+Visible = 0
+LegendText = Egg-like Cubic (5):  x^2+y^2 (1+a x)=1   a=1
+
+[Relation100]
+Relation = x^2+y^2*(1+4 x)=1
+Style = 5
+Color = 0x0066CC66
+Visible = 0
+LegendText = Egg-like Cubic (6):  x^2+y^2 (1+a x)=1   a=4
+
+[Relation101]
+Relation = x^2/36+y^2/16=1
+Style = 5
+Color = clGreen
+Visible = 0
+LegendText = Ellipse (1):  (x-a)^2/c^2+(y-b)^2/d^2=1   center (a,b)=(0,0), semimajor axis c=6, semiminor axis d=4
+
+[Relation102]
+Relation = (x-2)^2/16+(y-4)^2/9=1
+Style = 5
+Color = 0x0000CCFF
+Visible = 0
+LegendText = Ellipse (2):  (x-a)^2/c^2+(y-b)^2/d^2=1   center (a,b)=(2,4), semimajor axis c=4, semiminor axis d=3
+
+[Func121]
+FuncType = 1
+x = 4 cos(t)
+y = 2 sin(t)
+Visible = 0
+LegendText = Ellipse (3):  x(t)=c cos(t), y(t)=d sin(t)   c=4 (semimajor axis), d=2 (semiminor axis)
+From = -10
+To = 10
+Steps = 1000
+Color = clBlue
+
+[Func122]
+FuncType = 2
+r = 4/(1+0.5 cos(t))
+Visible = 0
+LegendText = Ellipse (4):  r(t)=a/(1+e cos(t))   a=4 (semilatus rectum), e=1/2 (eccentricity, 0<e<1)
+From = 0
+To = 2pi
+Steps = 1000
+Color = 0x00FFCC00
+
+[Relation103]
+Relation = (4 x)^(2/3)+(8 y)^(2/3)=4^(4/3)
+Style = 5
+Color = clGreen
+Visible = 0
+LegendText = Ellipse Evolute (1):  (a x)^(2/3)+(b y)^(2/3)=c^(4/3)   a=4, b=8, c=4
+
+[Relation104]
+Relation = (4 x)^(2/3)+(4 y)^(2/3)=4^(4/3)
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Ellipse Evolute (2):  (a x)^(2/3)+(b y)^(2/3)=c^(4/3)   a=b=c=4
+
+[Relation105]
+Relation = (4 x)^(2/3)+(2 y)^(2/3)=4^(4/3)
+Style = 5
+Color = 0x0000CCFF
+Visible = 0
+LegendText = Ellipse Evolute (3):  (a x)^(2/3)+(b y)^(2/3)=c^(4/3)   a=4, b=2, c=4
+
+[Relation106]
+Relation = (2 x)^(2/3)+(5 y)^(2/3)=(-21)^(2/3)
+Style = 5
+Color = 0x00FFCC00
+Visible = 0
+LegendText = Ellipse Evolute (4):  (a x)^(2/3)+(b y)^(2/3)=(a^2-b^2)^(2/3)   a=2, b=5
+
+[Relation107]
+Relation = y^2=x^3-2
+Style = 5
+Color = 0x0066CC99
+Visible = 0
+LegendText = Elliptic Curve (1):  y^2=x^3+a x+b   a=0, b=-2
+
+[Relation108]
+Relation = y^2=x^3+2
+Style = 5
+Color = 0x0000CCFF
+Visible = 0
+LegendText = Elliptic Curve (2):  y^2=x^3+a x+b   a=0, b=2
+
+[Relation109]
+Relation = y^2=x^3-3 x+4
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Elliptic Curve (3):  y^2=x^3+a x+b   a=-3, b=4
+
+[Relation110]
+Relation = y^2=x^3-4 x
+Style = 5
+Color = 0x00FFCC66
+Visible = 0
+LegendText = Elliptic Curve (4):  y^2=x^3+a x+b   a=-4, b=0
+
+[Relation111]
+Relation = y^2=x^3-x
+Style = 5
+Color = clRed
+Visible = 0
+LegendText = Elliptic Curve (5):  y^2=x^3+a x+b   a=-1, b=0
+
+[Func123]
+FuncType = 2
+r = sqrt(cos(t)^2+4 sin(t)^2)
+Visible = 0
+LegendText = Elliptic Lemniscate (1):  r(t)=a (sqrt(b^2 cos(t)^2+c^2 sin(t)^2))   a=1, b=1, c=2
+From = -10
+To = 10
+Steps = 1000
+Color = clBlue
+
+[Relation112]
+Relation = (x^2+y^2)^2=x^2+16 y^2
+Style = 5
+Color = 0x0000CCFF
+Visible = 0
+LegendText = Elliptic Lemniscate (2):  (x^2+y^2)^2=a^2 x^2+b^2 y^2   a=1, b=4
+
+[Relation113]
+Relation = (16 x^2+y^2-4)^3=108 y^2
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Elongated Nephroid (1):  (a^2 x^2+y^2-4)^3=108 y^2   a=4
+
+[Relation114]
+Relation = ((1/4) x^2+y^2-4)^3=108 y^2
+Style = 5
+Color = 0x0000CCFF
+Visible = 0
+LegendText = Elongated Nephroid (2):  (a^2 x^2+y^2-4)^3=108 y^2   a=1/2
+
+[Func124]
+FuncType = 1
+x = 2 cos t-cos(2 t)
+y = 2 sin t-sin(2 t)
+Visible = 0
+LegendText = Epicycloid (1):  x(t)=(a+b) cos(t)-b cos(t (a+b)/b), y(t)=(a+b) sin(t)-b sin(t (a+b)/b)   a=1, b=1 (a/b=1)
+From = -10
+To = 10
+Steps = 1000
+Color = clGreen
+
+[Func125]
+FuncType = 1
+x = 3 cos t-2 cos(3 t/2)
+y = 3 sin t-2 sin(3 t/2)
+Visible = 0
+LegendText = Epicycloid (2):  x(t)=(a+b) cos(t)-b cos(t (a+b)/b), y(t)=(a+b) sin(t)-b sin(t (a+b)/b)   a=1, b=2 (a/b=1/2)
+From = -10
+To = 10
+Steps = 1000
+Color = 0x00FFCC00
+
+[Func126]
+FuncType = 1
+x = 3.5 cos t-2 cos(7 t/4)
+y = 3.5 sin t-2 sin(7 t/4)
+Visible = 0
+LegendText = Epicycloid (3):  x(t)=(a+b) cos(t)-b cos(t (a+b)/b), y(t)=(a+b) sin(t)-b sin(t (a+b)/b)   a=1.5, b=2 (a/b=3/4)
+From = -20
+To = 20
+Steps = 1000
+Color = clRed
+
+[Func127]
+FuncType = 1
+x = 5.5 cos t-cos(11 t/2)
+y = 5.5 sin t-sin(11 t/2)
+Visible = 0
+LegendText = Epicycloid (4):  x(t)=(a+b) cos(t)-b cos(t (a+b)/b), y(t)=(a+b) sin(t)-b sin(t (a+b)/b)   a=4.5, b=1 (a/b=9/2)
+From = -20
+To = 20
+Steps = 1000
+Color = 0x000099FF
+
+[Func128]
+FuncType = 2
+r = 1/cos(t/3)
+Visible = 0
+LegendText = Epispiral (1):  r(t)=1/cos(n t)   n=1/3 (Trisectrix of Maclaurin)
+From = -2pi
+To = 2pi
+Steps = 1000
+Color = clRed
+
+[Func129]
+FuncType = 2
+r = 1/cos(t/2)
+Visible = 0
+LegendText = Epispiral (2):  r(t)=1/cos(n t)   n=1/2 (Trisectrix of Delange)
+From = -2pi
+To = 2pi
+Steps = 1000
+Color = clBlue
+
+[Func130]
+FuncType = 2
+r = 1/cos(2 t)
+Visible = 0
+LegendText = Epispiral (3):  r(t)=1/cos(n t)   n=2 (Cross Curve)
+From = -2pi
+To = 2pi
+Steps = 1000
+Color = 0x0000CCFF
+
+[Func131]
+FuncType = 2
+r = 1/cos(3 t)
+Visible = 0
+LegendText = Epispiral (4):  r(t)=1/cos(n t)   n=3 (Trefoil Curve)
+From = -2pi
+To = 2pi
+Steps = 1000
+Color = 0x00FF9900
+
+[Func132]
+FuncType = 2
+r = sec(4 t)
+Visible = 0
+LegendText = Epispiral (5):  r(t)=a sec(n t)   a=1, n=4
+From = 0
+To = 2pi
+Steps = 1000
+Color = 0x00669966
+
+[Func133]
+FuncType = 1
+x = 4 cos(t)-0.6 cos(4 t)
+y = 4 sin(t)-0.6 sin(4 t)
+Visible = 0
+LegendText = Epitrochoid (1):  x(t)=(a+b) cos(t)-c cos(t (a+b)/b), y(t)=(a+b) sin(t)-c sin(t (a+b)/b)   a=3, b=1, c=0.6
+From = -10
+To = 10
+Steps = 1000
+Color = clGreen
+
+[Func134]
+FuncType = 1
+x = 1.2 cos(t)-0.1 cos(6 t)
+y = 1.2 sin(t)-0.1 sin(6 t)
+Visible = 0
+LegendText = Epitrochoid (2):  x(t)=(a+b) cos(t)-c cos(t (a+b)/b), y(t)=(a+b) sin(t)-c sin(t (a+b)/b)   a=1, b=0.2, c=0.1
+From = -10
+To = 10
+Steps = 1000
+Color = clBlack
+
+[Func135]
+FuncType = 1
+x = 1.2 cos(t)-0.7 cos(6 t)
+y = 1.2 sin(t)-0.7 sin(6 t)
+Visible = 0
+LegendText = Epitrochoid (3):  x(t)=(a+b) cos(t)-c cos(t (a+b)/b), y(t)=(a+b) sin(t)-c sin(t (a+b)/b)   a=1, b=0.2, c=0.7
+From = -10
+To = 10
+Steps = 1000
+Color = 0x00FFCC00
+
+[Func136]
+FuncType = 1
+x = 1.2 cos(t)-1.2 cos(6 t)
+y = 1.2 sin(t)-1.2 sin(6 t)
+Visible = 0
+LegendText = Epitrochoid (4):  x(t)=(a+b) cos(t)-c cos(t (a+b)/b), y(t)=(a+b) sin(t)-c sin(t (a+b)/b)   a=1, b=0.2, c=1.2
+From = -10
+To = 10
+Steps = 1000
+Color = clRed
+
+[Func137]
+FuncType = 1
+x = 1.4 cos(t)-0.6 cos(3.5 t)
+y = 1.4 sin(t)-0.6 sin(3.5 t)
+Visible = 0
+LegendText = Epitrochoid (5):  x(t)=(a+b) cos(t)-c cos(t (a+b)/b), y(t)=(a+b) sin(t)-c sin(t (a+b)/b)   a=1, b=0.4, c=0.6
+From = -10
+To = 10
+Steps = 1000
+Color = 0x0000CCFF
+
+[Func138]
+FuncType = 1
+x = 3.2 cos(t)-3 cos(16 t)
+y = 3.2 sin(t)-3 sin(16 t)
+Visible = 0
+LegendText = Epitrochoid (6):  x(t)=(a+b) cos(t)-c cos(t (a+b)/b), y(t)=(a+b) sin(t)-c sin(t (a+b)/b)   a=3, b=0.2, c=3
+From = -10
+To = 10
+Steps = 1000
+Color = clMedGray
+
+[Func139]
+FuncType = 1
+x = 4 (integrate(sin(t^2/2),0,t))
+y = 4 (integrate(cos(t^2/2),0,t))
+Visible = 0
+LegendText = Euler's Spiral:  x(t)=a (integrate(sin(t^2/2),0,t)), y(t)=a (integrate(cos(t^2/2),0,t))   a=3
+From = -10
+To = 10
+Steps = 1000
+Color = clRed
+
+[Func140]
+FuncType = 2
+r = 2 (e^cos(t)-2 cos(4 t)+sin(t/12)^5)
+Visible = 0
+LegendText = Exponential Butterfly Curve:  r(t)=a (e^cos(t)-2 cos(4 t)+sin(t/12)^5)   a=2
+From = -8pi
+To = 8pi
+Steps = 1000
+Color = clBlue
+
+[Relation115]
+Relation = y=pi^x
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Exponential Function (1):  y=a^x   a=pi
+
+[Relation116]
+Relation = y=(0.25)^x
+Style = 5
+Color = 0x0000CCFF
+Visible = 0
+LegendText = Exponential Function (2):  y=a^x   a=1/4
+
+[Relation117]
+Relation = x+y=1
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Fermat's Curve (1):  x^n+y^n=1   n=1 (Straight Line)
+
+[Relation118]
+Relation = x^2+y^2=1
+Style = 5
+Color = clRed
+Visible = 0
+LegendText = Fermat's Curve (2):  x^n+y^n=1   n=2 (Circle)
+
+[Relation119]
+Relation = x^3+y^3=1
+Style = 5
+Color = clGreen
+Visible = 0
+LegendText = Fermat's Curve (3):  x^n+y^n=1   n=3
+
+[Relation120]
+Relation = x^4+y^4=1
+Style = 5
+Color = 0x0000CCFF
+Visible = 0
+LegendText = Fermat's Curve (4):  x^n+y^n=1   n=4
+
+[Func141]
+FuncType = 2
+r = -2 sqrt(t)
+Visible = 0
+LegendText = Fermat's Spiral (1):  r(t)=a sqrt(t)   a=-2
+From = 0
+To = 20pi
+Steps = 1000
+Color = clBlue
+
+[Func142]
+FuncType = 2
+r = (e/2)*sqrt(t)
+Visible = 0
+LegendText = Fermat's Spiral (2):  r(t)=a sqrt(t)   a=e/2
+From = 0
+To = 60pi
+Steps = 1000
+Color = 0x0000CCFF
+
+[Func143]
+FuncType = 2
+r = sqrt(t)
+Visible = 0
+LegendText = Fermat's Spiral (3):  r(t)=a sqrt(t)   a=1
+From = 0
+To = 60pi
+Steps = 1000
+Color = clGreen
+
+[Func144]
+FuncType = 1
+x = 1.5 (cos(t)+1.5 cos(t/2))
+y = 1.5 sin(t)
+Visible = 0
+LegendText = Fish Curve (1):  x(t)=a (cos(t)+b cos(t/2)), y(t)=a sin(t)   a=3/2, b=3/2
+From = -10
+To = 10
+Steps = 1000
+Color = 0x0000CCFF
+
+[Func145]
+FuncType = 1
+x = 1.5 (cos(t)+2 cos(t/2))
+y = 1.5 sin(t)
+Visible = 0
+LegendText = Fish Curve (2):  x(t)=a (cos(t)+b cos(t/2)), y(t)=a sin(t)   a=3/2, b=2
+From = -10
+To = 10
+Steps = 1000
+Color = clBlue
+
+[Func146]
+FuncType = 1
+x = 1.5 (cos(t)+3 cos(t/2))
+y = 1.5 sin(t)
+Visible = 0
+LegendText = Fish Curve (3):  x(t)=a (cos(t)+b cos(t/2)), y(t)=a sin(t)   a=3/2, b=3
+From = -10
+To = 10
+Steps = 1000
+Color = 0x00339966
+
+[Func147]
+FuncType = 1
+x = 1.5 (cos(t)+4 cos(t/2))
+y = 1.5 sin(t)
+Visible = 0
+LegendText = Fish Curve (4):  x(t)=a (cos(t)+b cos(t/2)), y(t)=a sin(t)   a=3/2, b=4
+From = -10
+To = 10
+Steps = 1000
+Color = 0x00FFCC00
+
+[Relation121]
+Relation = (x^2+y^2) (x*(x+8)+y^2)=4 x y^2
+Style = 5
+Color = clGreen
+Visible = 0
+LegendText = Folium (1):  (x^2+y^2) (x (x+b)+y^2)=4 a x y^2   a=1, b=8 (Single Folium: b>=4a)
+
+[Relation122]
+Relation = (x^2+y^2) (x^2+y^2)=12 x y^2
+Style = 5
+Color = clRed
+Visible = 0
+LegendText = Folium (2):  (x^2+y^2) (x (x+b)+y^2)=4 a x y^2   a=3, b=0 (Regular Bifolium: b=0)
+
+[Relation123]
+Relation = (x^2+y^2) (x*(x+5)+y^2)=24 x y^2
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Folium (3):  (x^2+y^2) (x (x+b)+y^2)=4 a x y^2   a=6, b=5 (Trifolium: 0<b<4a)
+
+[Relation124]
+Relation = (x^2+y^2) (x*(x+8)+y^2)=16 x y^2
+Style = 5
+Color = 0x0033CCFF
+Visible = 0
+LegendText = Folium (4):  (x^2+y^2) (x (x+b)+y^2)=4 a x y^2   a=4, b=8 (Trefoil Curve: b/a=2)
+
+[Func148]
+FuncType = 2
+r = cos(t) (-18 sin(t)^2+9)
+Visible = 0
+LegendText = Folium (5):  r(t)=cos(t) (4 a sin(t)^2-b)   a=-9/2, b=-9 (Trefoil Curve: b/a=2)
+From = 0
+To = 2pi
+Steps = 1000
+Color = 0x00FFCC00
+
+[Func149]
+FuncType = 1
+x = 3 t/(1+t^3)
+y = 3 t^2/(1+t^3)
+Visible = 0
+LegendText = Folium of Descartes (1):  x(t)=3 a t/(1+t^3), y(t)=3 a t^2/(1+t^3)   a=1
+From = -10
+To = 10
+Steps = 1000
+Color = clGreen
+
+[Func150]
+FuncType = 2
+r = 6 sin(t) cos(t)/(sin(t)^3+cos(t)^3)
+Visible = 0
+LegendText = Folium of Descartes (2):  r(t)=3 a sin(t) cos(t)/(sin(t)^3+cos(t)^3)   a=2
+From = 0
+To = 2pi
+Steps = 1000
+Color = 0x0000CCFF
+
+[Relation125]
+Relation = x^3+y^3=3*pi*x y
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Folium of Descartes (3):  x^3+y^3=3 a x y   a=pi
+
+[Func151]
+FuncType = 2
+r = 8 sin(2 t)^3+cos(2 t)
+Visible = 0
+LegendText = *Four-blade Propeller:  r(t)=a sin(n t)^3+b cos(n t)   a=8, b=1, n=2
+From = 0
+To = 2pi
+Steps = 1000
+Color = clBlue
+
+[Relation126]
+Relation = x^6+y^8=4 x^4*y^2
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = *Four-lobed X (1):  x^6+y^8=a x^4 y^2   a=4
+
+[Relation127]
+Relation = 36 y^2*(y^6-8 x^2)+x^6=0
+Style = 5
+Color = 0x0033CC66
+Visible = 0
+LegendText = *Four-lobed X (2):  a^2 y^2 (y^6-8 x^2)+x^6=0   a=6
+
+[Relation128]
+Relation = y=fract(x)
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Fractional Part Function:  y=fract(x)
+
+[Func152]
+FuncType = 2
+r = 2 (1+2 sin(t/2))
+Visible = 0
+LegendText = Freeth's Nephroid (1):  r(t)=a (1+2 sin(t/2))   a=2
+From = -2pi
+To = 2pi
+Steps = 1000
+Color = clBlue
+
+[Relation129]
+Relation = (x^2+y^2) (x^2+y^2-(-e)^2)^2=4 (-e)^2*(x^2+y^2+e*x)^2
+Style = 5
+Color = 0x0000CCFF
+Visible = 0
+LegendText = Freeth's Nephroid (2):  (x^2+y^2) (x^2+y^2-a^2)^2=4 a^2 (x^2+y^2-a x)^2   a=-e
+
+[Relation130]
+Relation = y=sqrt(2 pi)*e^(-x^2/2)
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Frequency Curve:  y=sqrt(2 pi) e^(-x^2/2)
+
+[Func153]
+FuncType = 2
+r = t^2/24
+Visible = 0
+LegendText = Galileo's Spiral (1):  r(t)=a t^2-b   a=1/24, b=0
+From = 0
+To = 8pi
+Steps = 1000
+Color = clBlue
+
+[Func154]
+FuncType = 2
+r = t^2/24-1
+Visible = 0
+LegendText = Galileo's Spiral (2):  r(t)=a t^2-b   a=1/24, b=1
+From = 0
+To = 8pi
+Steps = 1000
+Color = 0x0000CCFF
+
+[Relation131]
+Relation = y=gamma(x)
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Gamma Function:  y=gamma(x)
+
+[Func155]
+FuncType = 1
+x = 2 cos(t) (1+tanh(10 sin(t))/10)
+y = 2 sin(t) (1+tanh(10 sin(t))/10)
+Visible = 0
+LegendText = Gear Curve (1):  x(t)=a cos(t) (b+tanh(c sin(n t))/c), y(t)=a sin(t) (b+tanh(c sin(n t))/c)   a=2, b=1, c=10, n=1
+From = -10
+To = 10
+Steps = 1000
+Color = clRed
+
+[Func156]
+FuncType = 1
+x = 3 cos(t) (1+tanh(10 sin(2 t))/10)
+y = 3 sin(t) (1+tanh(10 sin(2 t))/10)
+Visible = 0
+LegendText = Gear Curve (2):  x(t)=a cos(t) (b+tanh(c sin(n t))/c), y(t)=a sin(t) (b+tanh(c sin(n t))/c)   a=3, b=1, c=10, n=2
+From = -10
+To = 10
+Steps = 1000
+Color = 0x0000CCFF
+
+[Func157]
+FuncType = 1
+x = 4 cos(t) (1+tanh(10 sin(4 t))/10)
+y = 4 sin(t) (1+tanh(10 sin(4 t))/10)
+Visible = 0
+LegendText = Gear Curve (3):  x(t)=a cos(t) (b+tanh(c sin(n t))/c), y(t)=a sin(t) (b+tanh(c sin(n t))/c)   a=4, b=1, c=10, n=4
+From = -10
+To = 10
+Steps = 1000
+Color = 0x0033CC66
+
+[Func158]
+FuncType = 1
+x = 5 cos(t) (1+tanh(10 sin(12 t))/10)
+y = 5 sin(t) (1+tanh(10 sin(12 t))/10)
+Visible = 0
+LegendText = Gear Curve (4):  x(t)=a cos(t) (b+tanh(c sin(n t))/c), y(t)=a sin(t) (b+tanh(c sin(n t))/c)   a=5, b=1, c=10, n=12
+From = -10
+To = 10
+Steps = 1000
+Color = 0x00FF6633
+
+[Func159]
+FuncType = 2
+r = 6 (sin(t)+cos(t)^3)
+Visible = 0
+LegendText = Generalized Bean Curve (1):  r(t)=a (sin(t)^m+cos(t)^n)   a=6, m=1, n=3
+From = 0
+To = 2pi
+Steps = 1000
+Color = clRed
+
+[Func160]
+FuncType = 2
+r = 5 (sin(t)^3+cos(t)^5)
+Visible = 0
+LegendText = Generalized Bean Curve (2):  r(t)=a (sin(t)^m+cos(t)^n)   a=5, m=3, n=5
+From = 0
+To = 2pi
+Steps = 1000
+Color = 0x0000CCFF
+
+[Func161]
+FuncType = 2
+r = 4 (sin(t)+cos(t)^2)
+Visible = 0
+LegendText = Generalized Bean Curve (3):  r(t)=a (sin(t)^m+cos(t)^n)   a=4, m=2, n=1
+From = 0
+To = 2pi
+Steps = 1000
+Color = clBlue
+
+[Func162]
+FuncType = 2
+r = 3 (sin(t)^5+cos(t)^4)
+Visible = 0
+LegendText = Generalized Bean Curve (4):  r(t)=a (sin(t)^m+cos(t)^n)   a=3, m=5, n=4
+From = 0
+To = 2pi
+Steps = 1000
+Color = 0x0033CC66
+
+[Func163]
+FuncType = 2
+r = 7 (sin(5 t/8) (abs(cos(3 t)^1)+abs(sin(3 t)^1))^-1)
+Visible = 0
+LegendText = Generalized Gielis' Curve (1):  r(t)=a (sin(m t) (abs(cos(n t)^b)+abs(sin(n t)^c))^d)   a=7, m=5/8, b=c=1, d=-1, n=3
+From = -8pi
+To = 8pi
+Steps = 10000
+Color = clBlue
+
+[Func164]
+FuncType = 2
+r = 7 (sin(3 t/7) (abs(cos(3 t/7)^1)+abs(sin(3 t/7)^1))^-1)
+Visible = 0
+LegendText = Generalized Gielis' Curve (2):  r(t)=a (sin(m t) (abs(cos(n t)^b)+abs(sin(n t)^c))^d)   a=7, m=n=3/7, b=c=1, d=-1
+From = -4pi
+To = 4pi
+Steps = 10000
+Color = 0x0066CC66
+
+[Func165]
+FuncType = 2
+r = 18 (sin(3 t/5) (abs(cos(2 t/3)^-1)+abs(sin(2 t/3)^-1))^-1)
+Visible = 0
+LegendText = Generalized Gielis' Curve (3):  r(t)=a (sin(m t) (abs(cos(n t)^b)+abs(sin(n t)^c))^d)   a=18, m=3/5, b=c=d=-1, n=2/3
+From = -8pi
+To = 8pi
+Steps = 10000
+Color = 0x0033CCFF
+
+[Func166]
+FuncType = 2
+r = 6 (cos(t) sin(2 t))
+Visible = 0
+LegendText = Generalized Regular Bifolium (1):  r(t)=a (cos(t) sin(b t)^n)   a=6, b=2, n=1
+From = -2pi
+To = 2pi
+Steps = 1000
+Color = 0x0000CCFF
+
+[Func167]
+FuncType = 2
+r = 8 (cos(t) sin(12 t)^2)
+Visible = 0
+LegendText = Generalized Regular Bifolium (2):  r(t)=a (cos(t) sin(b t)^n)   a=8, b=12, n=2
+From = -2pi
+To = 2pi
+Steps = 1000
+Color = clBlue
+
+[Func168]
+FuncType = 2
+r = 6 (cos(t) sin(10 t)^3)
+Visible = 0
+LegendText = Generalized Regular Bifolium (3):  r(t)=a (cos(t) sin(b t)^n)   a=6, b=10, n=3
+From = -2pi
+To = 2pi
+Steps = 1000
+Color = 0x0066CC00
+
+[Relation132]
+Relation = (abs(x/5))^(1/2)+(abs(y/5))=1
+Style = 5
+Color = clRed
+Visible = 0
+LegendText = Generalized Superellipse (1):  (abs(x/a))^m+(abs(y/b))^n=1   a=b=5, m=1/2, b=1
+
+[Relation133]
+Relation = (abs(x/5))^(1/2)+(abs(y/5))^2=1
+Style = 5
+Color = 0x0000CCFF
+Visible = 0
+LegendText = Generalized Superellipse (2):  (abs(x/a))^m+(abs(y/b))^n=1   a=b=5, m=1/2, n=2
+
+[Relation134]
+Relation = (abs(x/5))+(abs(y/5))^2=1
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Generalized Superellipse (3):  (abs(x/a))^m+(abs(y/b))^n=1   a=b=5, m=1, n=2
+
+[Relation135]
+Relation = (abs(x/5))^(1/2)+(abs(y/5))^8=1
+Style = 5
+Color = 0x0066CC66
+Visible = 0
+LegendText = Generalized Superellipse (4):  (abs(x/a))^m+(abs(y/b))^n=1   a=b=5, m=1/2, n=8
+
+[Func169]
+FuncType = 2
+r = 4 (1+cos(2 t/3)/2)
+Visible = 0
+LegendText = Geometric Petal (1):  r(t)=a (1+b cos(n t))   a=4, b=1/2, n=2/3
+From = -3pi
+To = 3pi
+Steps = 1000
+Color = clGreen
+
+[Func170]
+FuncType = 2
+r = (1+6 cos(2 t/3))
+Visible = 0
+LegendText = Geometric Petal (2):  r(t)=a (1+b cos(n t))   a=1, b=6, n=2/3
+From = -4pi
+To = 4pi
+Steps = 1000
+Color = 0x00FFCC00
+
+[Func171]
+FuncType = 2
+r = 4 (1+cos(3 t)/2)
+Visible = 0
+LegendText = Geometric Petal (3):  r(t)=a (1+b cos(n t))   a=4, b=1/2, n=3
+From = -3pi
+To = 3pi
+Steps = 1000
+Color = clBlue
+
+[Func172]
+FuncType = 2
+r = (1+6 cos(3 t))
+Visible = 0
+LegendText = Geometric Petal (4):  r(t)=a (1+b cos(n t))   a=1, b=6, n=3
+From = -3pi
+To = 3pi
+Steps = 1000
+Color = 0x0000CCFF
+
+[Func173]
+FuncType = 2
+r = 4 (1+cos(6 t)/2)
+Visible = 0
+LegendText = Geometric Petal (5):  r(t)=a (1+b cos(n t))   a=4, b=1/2, n=6
+From = -3pi
+To = 3pi
+Steps = 1000
+Color = clRed
+
+[Func174]
+FuncType = 2
+r = (1+6 cos(6 t))
+Visible = 0
+LegendText = Geometric Petal (6):  r(t)=a (1+b cos(n t))   a=1, b=6, n=6
+From = -3pi
+To = 3pi
+Steps = 1000
+Color = 0x0066CC66
+
+[Func175]
+FuncType = 2
+r = 3 ((abs(sin(3 t/4)))+(abs(cos(3 t/4))))^(-3)
+Visible = 0
+LegendText = Gielis' Curve (1):  r(t)=a (((abs(sin(n t)))^b+(abs(cos(n t)))^c)^d   a=3, b=c=1, d=-3, n=3/4
+From = -2pi
+To = 2pi
+Steps = 1000
+Color = 0x0066CC66
+
+[Func176]
+FuncType = 2
+r = 3 ((abs(sin(3 t/4)))+(abs(cos(3 t/4))))^(-7/9)
+Visible = 0
+LegendText = Gielis' Curve (2):  r(t)=a (((abs(sin(n t)))^b+(abs(cos(n t)))^c)^d   a=3, b=c=1, d=-7/9, n=3/4
+From = -2pi
+To = 2pi
+Steps = 1000
+Color = clRed
+
+[Func177]
+FuncType = 2
+r = 3 ((abs(sin(3 t/4)))^10+(abs(cos(3 t/4)))^10)^(-2/9)
+Visible = 0
+LegendText = Gielis' Curve (3):  r(t)=a (((abs(sin(n t)))^b+(abs(cos(n t)))^c)^d   a=3, b=c=10, d=-2/9, n=3/4
+From = -2pi
+To = 2pi
+Steps = 1000
+Color = clBlue
+
+[Func178]
+FuncType = 2
+r = 5 ((abs(sin(7 t/4)))^6+(abs(cos(7 t/4)))^6)^(-1/10)
+Visible = 0
+LegendText = Gielis' Curve (4):  r(t)=a (((abs(sin(n t)))^b+(abs(cos(n t)))^c)^d   a=5, b=c=6, d=-1/10, n=7/4
+From = -2pi
+To = 2pi
+Steps = 1000
+Color = 0x0000CCFF
+
+[Relation136]
+Relation = y=6 e^(-2 e^(-2 x))
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Gompertz Curve (1):  y=l+u e^(-a e^(-b x))   l=0 (lower asymptote), u=6 (upper asymptote), a=2, b=2
+
+[Relation137]
+Relation = y=-5+10 e^(-2 e^(-2 x))
+Style = 5
+Color = 0x0000CCFF
+Visible = 0
+LegendText = Gompertz Curve (2):  y=l+u e^(-a e^(-b x))   l=-5, u=10, a=2, b=2
+
+[Relation138]
+Relation = y=-6+6 e^(-2 e^(-2 x))
+Style = 5
+Color = clGreen
+Visible = 0
+LegendText = Gompertz Curve (3):  y=l+u e^(-a e^(-b x))   l=-6, u=6, a=2, b=2
+
+[Relation139]
+Relation = x^2*y^2=x*(1-x)
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Granville's Egg (1):  x^2 y^2=(x-a) (1-x)   a=0
+
+[Relation140]
+Relation = x^2*y^2=(x-2) (1-x)
+Style = 5
+Color = clRed
+Visible = 0
+LegendText = Granville's Egg (2):  x^2 y^2=(x-a) (1-x)   a=2
+
+[Relation141]
+Relation = x^2*y^2=(x-8) (1-x)
+Style = 5
+Color = 0x0000CCFF
+Visible = 0
+LegendText = Granville's Egg (3):  x^2 y^2=(x-a) (1-x)   a=8
+
+[Func179]
+FuncType = 2
+r = (1+cos(3 t)+sin(3 t)^2)
+Visible = 0
+LegendText = Habenicht's Curve (1):  r(t)=a (b+cos(n t)+sin(n t)^2)   a=1, b=1, n=3
+From = 0
+To = 2pi
+Steps = 1000
+Color = clRed
+
+[Func180]
+FuncType = 2
+r = 2 (1+cos(4 t)+sin(4 t)^2)
+Visible = 0
+LegendText = Habenicht's Curve (2):  r(t)=a (b+cos(n t)+sin(n t)^2)   a=2, b=1, n=4
+From = 0
+To = 2pi
+Steps = 1000
+Color = 0x0000CCFF
+
+[Func181]
+FuncType = 2
+r = 2 (2+cos(5 t)+sin(5 t)^2)
+Visible = 0
+LegendText = Habenicht's Curve (3):  r(t)=a (b+cos(n t)+sin(n t)^2)   a=2, b=2, n=5
+From = 0
+To = 2pi
+Steps = 1000
+Color = clBlue
+
+[Func182]
+FuncType = 2
+r = 3 (1+cos(6 t)+sin(6 t)^2)
+Visible = 0
+LegendText = Habenicht's Curve (4):  r(t)=a (1+cos(n t)+sin(n t)^2)   a=3, n=6
+From = 0
+To = 2pi
+Steps = 1000
+Color = 0x0033CC33
+
+[Func183]
+FuncType = 1
+x = 4 (cos(t)+sin(t)^2)
+y = 4 (sin(t)+cos(t)^2)
+Visible = 0
+LegendText = *Hanger-like Function:  x(t)=a (cos(t)+sin(t)^2), y(t)=b (sin(t)+cos(t)^2)   a=b=4
+From = -10
+To = 10
+Steps = 1000
+Color = clBlue
+
+[Relation142]
+Relation = (x^2+y^2-1)^3-x^2*y^3=0
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Heart Curve (1):  (x^2+y^2-1)^3-x^2 y^3=0
+
+[Func184]
+FuncType = 1
+x = 5 sin(t) cos(t) ln(abs(t))
+y = 5 sqrt(cos(t)) (abs(t))^(0.3)
+Visible = 0
+LegendText = Heart Curve (2):  x(t)=a sin(t) cos(t) ln(abs(t)), y(t)=a sqrt(cos(t)) (abs(t))^(3/10)   a=5
+From = -1
+To = 1
+Steps = 1000
+Color = 0x0000CCFF
+
+[Relation143]
+Relation = x^2+(y-2 (x^2+abs(x)-6)/3 (x^2+abs(x)+2))^2=36
+Style = 5
+Color = 0x0066CC33
+Visible = 0
+LegendText = Heart Curve (3):  x^2+(y-2 (x^2+abs(x)-6)/3 (x^2+abs(x)+2))^2=36
+
+[Relation144]
+Relation = (x^2+y^2)^2+12 (3-1) (x^2+y^2)=36 x^2
+Style = 5
+Color = clBlack
+Visible = 0
+LegendText = Hippopede (1):  (x^2+y^2)^2+4 b (b-a) (x^2+y^2)=4 b^2 x^2   a=1, b=3
+
+[Relation145]
+Relation = (x^2+y^2)^2+12 (3-2) (x^2+y^2)=36 x^2
+Style = 5
+Color = 0x0033CCFF
+Visible = 0
+LegendText = Hippopede (2):  (x^2+y^2)^2+4 b (b-a) (x^2+y^2)=4 b^2 x^2   a=2, b=3
+
+[Relation146]
+Relation = (x^2+y^2)^2+12 (3-3) (x^2+y^2)=36 x^2
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Hippopede (3):  (x^2+y^2)^2+4 b (b-a) (x^2+y^2)=4 b^2 x^2   a=3, b=3
+
+[Relation147]
+Relation = (x^2+y^2)^2+12 (3-4) (x^2+y^2)=36 x^2
+Style = 5
+Color = 0x00FFCC33
+Visible = 0
+LegendText = Hippopede (4):  (x^2+y^2)^2+4 b (b-a) (x^2+y^2)=4 b^2 x^2   a=4, b=3
+
+[Func185]
+FuncType = 2
+r = (12 (5-3 sin(t)^2))^(1/2)
+Visible = 0
+LegendText = Hippopede (5):  r(t)=a ((4 c (b-c sin(t)^2))^(1/2))   a=1, b=5, c=3
+From = 0
+To = 2pi
+Steps = 1000
+Color = clRed
+
+[Relation148]
+Relation = y=x^(-1)*e^x
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Hoerl Curve:  y=(x^n) (e^x)   n=-1
+
+[Func186]
+FuncType = 1
+x = (sqrt(36-sin(t)^2)+cos(t)) cos(t)
+y = 4 sin(t)
+Visible = 0
+LegendText = Hügelschäffer Egg:  x(t)=a (sqrt(b^2-c^2 sin(t)^2)+c cos(t)) cos(t), y(t)=a (d sin(t))   a=1, b=6, c=1, d=4
+From = -10
+To = 10
+Steps = 1000
+Color = clBlue
+
+[Relation149]
+Relation = x^2/16-y^2=1
+Style = 5
+Color = clGreen
+Visible = 0
+LegendText = Hyperbola (1):  (x-a)^2/c^2-(y-b)^2/d^2=1   center (a,b)=(0,0), c=4 (semimajor axis), d=1 (semiminor axis)
+
+[Relation150]
+Relation = (x+2)^2/9-4 (y-4)^2/4=1
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Hyperbola (2):  (x-a)^2/c^2-(y-b)^2/d^2=1   center (a,b)=(-2,4), c=3 (semimajor axis), d=1/2 (semiminor axis)
+
+[Func187]
+FuncType = 1
+x = pi*sec(t)
+y = e*tan(t)
+Visible = 0
+LegendText = Hyperbola (3):  x(t)=c sec(t)+a, y(t)=d tan(t)+b   center (a,b)=(0,0), c=pi (semimajor axis), d=e (semiminor axis)
+From = -10
+To = 10
+Steps = 1000
+Color = 0x0000CCFF
+
+[Func188]
+FuncType = 2
+r = 1/(1+2 cos(t))
+Visible = 0
+LegendText = Hyperbola (4):  r(t)=a/(1+e cos(t))   a=1 (semilatus rectum), e=2 (eccentricity, e>1)
+From = 0
+To = 2pi
+Steps = 1000
+Color = clRed
+
+[Relation151]
+Relation = x^(2/3)-y^(2/3)=2^(2/3)
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Hyperbola Evolute (1):  (a x)^(2/3)-(b y)^(2/3)=(a^2+b^2)^(2/3)   a=b=1
+
+[Relation152]
+Relation = (x/2)^(2/3)-(y/2)^(2/3)=(1/2)^(2/3)
+Style = 5
+Color = 0x0000CCFF
+Visible = 0
+LegendText = Hyperbola Evolute (2):  (a x)^(2/3)-(b y)^(2/3)=(a^2+b^2)^(2/3)   a=b=1/2
+
+[Relation153]
+Relation = y=csch(x)
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Hyperbolic Cosecant Function:  y=csch(x)
+
+[Relation154]
+Relation = y=cosh(x)
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Hyperbolic Cosine Function:  y=cosh(x)
+
+[Relation155]
+Relation = y=coth(x)
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Hyperbolic Cotangent Function:  y=coth(x)
+
+[Relation156]
+Relation = y=sech(x)
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Hyperbolic Secant Function:  y=sech(x)
+
+[Relation157]
+Relation = y=sinh(x)
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Hyperbolic Sine Function:  y=sinh(x)
+
+[Func189]
+FuncType = 1
+x = 8 cos(t)/t
+y = 8 sin(t)/t
+Visible = 0
+LegendText = Hyperbolic Spiral (1):  x(t)=a cos(t)/t, y(t)=a sin(t)/t   a=8
+From = 0
+To = 20pi
+Steps = 1000
+Color = clRed
+
+[Func190]
+FuncType = 2
+r = -2pi/t
+Visible = 0
+LegendText = Hyperbolic Spiral (2):  r(t)=a/t   a=-2pi
+From = 0
+To = 20pi
+Steps = 1000
+Color = clGreen
+
+[Relation158]
+Relation = y=tanh(x)
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Hyperbolic Tangent Function:  y=tanh(x)
+
+[Func191]
+FuncType = 1
+x = 4 cos(t)+cos(4 t)
+y = 4 sin(t)-sin(4 t)
+Visible = 0
+LegendText = Hypocycloid (1):  x(t)=(a-b) cos(t)+b cos(t (a-b)/b), y(t)=(a-b) sin(t)-b sin(t (a-b)/b)   a=5, b=1
+From = -10
+To = 10
+Steps = 1000
+Color = clGreen
+
+[Func192]
+FuncType = 1
+x = 3.3 cos(t)+3 cos(3.3 t/3)
+y = 3.3 sin(t)-3 sin(3.3 t/3)
+Visible = 0
+LegendText = Hypocycloid (2):  x(t)=(a-b) cos(t)+b cos(t (a-b)/b), y(t)=(a-b) sin(t)-b sin(t (a-b)/b)   a=6.3, b=3
+From = -50
+To = 50
+Steps = 1000
+Color = 0x0000CCFF
+
+[Func193]
+FuncType = 1
+x = 6.2 cos(t)+cos(6.2 t)
+y = 6.2 sin(t)-sin(6.2 t)
+Visible = 0
+LegendText = Hypocycloid (3):  x(t)=(a-b) cos(t)+b cos(t (a-b)/b), y(t)=(a-b) sin(t)-b sin(t (a-b)/b)   a=7.2, b=1
+From = -40
+To = 40
+Steps = 1000
+Color = clRed
+
+[Func194]
+FuncType = 1
+x = 3 cos(t)+cos(3 t)
+y = 3 sin(t)-sin(3 t)
+Visible = 0
+LegendText = Hypotrochoid (1):  x(t)=(R-r) cos(t)+d cos(t (R-r)/r), y(t)=(R-r) sin(t)-d sin(t (R-r)/r)   R=4, r=1, d=1
+From = -10
+To = 10
+Steps = 1000
+Color = clNavy
+
+[Func195]
+FuncType = 1
+x = 6 cos(t)+cos(6 t)
+y = 6 sin(t)-sin(6 t)
+Visible = 0
+LegendText = Hypotrochoid (2):  x(t)=(R-r) cos(t)+d cos(t (R-r)/r), y(t)=(R-r) sin(t)-d sin(t (R-r)/r)   R=7, r=1, d=1
+From = -10
+To = 10
+Steps = 1000
+Color = 0x0099CC33
+
+[Func196]
+FuncType = 1
+x = (10-15/2) cos(t)+(10/3) cos(2 t*(10-15/2)/15)
+y = (10-15/2) sin(t)-(10/3) sin(2 t*(10-15/2)/15)
+Visible = 0
+LegendText = Hypotrochoid (3):  x(t)=(R-r) cos(t)+d cos(t (R-r)/r), y(t)=(R-r) sin(t)-d sin(t (R-r)/r)   R=10, r=15/2, d=10/3
+From = -10
+To = 10
+Steps = 1000
+Color = 0x0000CCFF
+
+[Func197]
+FuncType = 1
+x = 4 cos(t)+4 cos(2 t)
+y = 4 sin(t)-4 sin(2 t)
+Visible = 0
+LegendText = Hypotrochoid (4):  x(t)=(R-r) cos(t)+d cos(t (R-r)/r), y(t)=(R-r) sin(t)-d sin(t (R-r)/r)   R=6, r=2, d=4
+From = -10
+To = 10
+Steps = 1000
+Color = 0x00FFCC66
+
+[Func198]
+FuncType = 1
+x = 6 cos(t)+4 cos(t*6/4)
+y = 6 sin(t)-4 sin(t*6/4)
+Visible = 0
+LegendText = Hypotrochoid (5):  x(t)=(R-r) cos(t)+d cos(t (R-r)/r), y(t)=(R-r) sin(t)-d sin(t (R-r)/r)   R=10, r=4, d=4
+From = -10
+To = 10
+Steps = 1000
+Color = clBlue
+
+[Relation159]
+Relation = y=acsc(x)
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Inverse Cosecant Function:  y=acsc(x)
+
+[Relation160]
+Relation = y=acos(x)
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Inverse Cosine Function:  y=acos(x)
+
+[Relation161]
+Relation = y=acot(x)
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Inverse Cotangent Function:  y=acot(x)
+
+[Relation162]
+Relation = y=acsch(x)
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Inverse Hyperbolic Cosecant Function:  y=acsch(x)
+
+[Relation163]
+Relation = y=acosh(x)
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Inverse Hyperbolic Cosine Function:  y=acosh(x)
+
+[Relation164]
+Relation = y=acoth(x)
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Inverse Hyperbolic Cotangent Function:  y=acoth(x)
+
+[Relation165]
+Relation = y=asech(x)
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Inverse Hyperbolic Secant Function:  y=asech(x)
+
+[Relation166]
+Relation = y=asinh(x)
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Inverse Hyperbolic Sine Function:  y=asinh(x)
+
+[Relation167]
+Relation = y=atanh(x)
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Inverse Hyperbolic Tangent Function:  y=atanh(x)
+
+[Relation168]
+Relation = y=asec(x)
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Inverse Secant Function:  y=asec(x)
+
+[Relation169]
+Relation = y=asin(x)
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Inverse Sine Function:  y=asin(x)
+
+[Relation170]
+Relation = y=atan(x)
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Inverse Tangent Function:  y=atan(x)
+
+[Func199]
+FuncType = 2
+r = 2 ((2 cos(t)-1)/(2-cos(t)))
+Visible = 0
+LegendText = Jerabek's Curve (1):  r(t)=a ((b cos(t)-1)/(b-cos(t)))   a=2, b=2
+From = -2pi
+To = 2pi
+Steps = 1000
+Color = clRed
+
+[Func200]
+FuncType = 2
+r = 2 ((cos(t)-1)/(1-cos(t)))
+Visible = 0
+LegendText = Jerabek's Curve (2):  r(t)=a ((b cos(t)-1)/(b-cos(t)))   a=2, b=1
+From = -2pi
+To = 2pi
+Steps = 1000
+Color = 0x00669966
+
+[Func201]
+FuncType = 2
+r = 2 ((0.9 cos(t)-1)/(0.9-cos(t)))
+Visible = 0
+LegendText = Jerabek's Curve (3):  r(t)=a ((b cos(t)-1)/(b-cos(t)))   a=2, b=9/10
+From = -2pi
+To = 2pi
+Steps = 1000
+Color = 0x0000CCFF
+
+[Func202]
+FuncType = 2
+r = 2 ((2 cos(t)/3-1)/((2/3)-cos(t)))
+Visible = 0
+LegendText = Jerabek's Curve (4):  r(t)=a ((b cos(t)-1)/(b-cos(t)))   a=2, b=2/3
+From = -2pi
+To = 2pi
+Steps = 1000
+Color = clBlue
+
+[Relation171]
+Relation = (x^2+y^2) (x-2)^2=0.01 (x^2+y^2-2 x)^2
+Style = 5
+Color = 0x00969696
+Visible = 0
+LegendText = Jerabek's Curve (5):  (x^2+y^2) (x-a)^2=b^2 (x^2+y^2-a x)^2   a=2, b=1/10
+
+[Func203]
+FuncType = 2
+r = 2 sec(t)^2
+Visible = 0
+LegendText = Kampyle of Eudoxus (1):  r(t)=a sec(t)^2   a=2
+From = 0
+To = 2pi
+Steps = 1000
+Color = clGreen
+
+[Func204]
+FuncType = 2
+r = (e)^2/(2 cos(t)^2)
+Visible = 0
+LegendText = Kampyle of Eudoxus (2):  r(t)=b^2/(a cos(t)^2)   a=2, b=e
+From = 0
+To = 2pi
+Steps = 1000
+Color = 0x0000CCFF
+
+[Func205]
+FuncType = 1
+x = 2pi sec(t)
+y = 2pi tan(t)*sec(t)
+Visible = 0
+LegendText = Kampyle of Eudoxus (3):  x(t)=a sec(t), y(t)=a tan(t) sec(t)   a=2pi
+From = -10
+To = 10
+Steps = 1000
+Color = clBlue
+
+[Relation172]
+Relation = x^4=(x^2+y^2)
+Style = 5
+Color = 0x0033CCFF
+Visible = 0
+LegendText = Kampyle of Eudoxus (4):  a^2 x^4=b^4 (x^2+y^2)   a=1, b=1
+
+[Relation173]
+Relation = (x^2+y^2) (y-2.5)^2=4 x^2
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Kappa Curve (1):  (x^2+y^2) (y-a)^2=b^2 x^2   a=5/2, b=2
+
+[Relation174]
+Relation = (x^2+y^2) (y-2)^2=4 x^2
+Style = 5
+Color = 0x0000CCFF
+Visible = 0
+LegendText = Kappa Curve (2):  (x^2+y^2) (y-a)^2=b^2 x^2   a=2, b=2
+
+[Relation175]
+Relation = (x^2+y^2) (y-2)^2=(5/2)^2*x^2
+Style = 5
+Color = clRed
+Visible = 0
+LegendText = Kappa Curve (3):  (x^2+y^2) (y-a)^2=b^2 x^2   a=2, b=5/2
+
+[Relation176]
+Relation = (x^2+y^2) y^2=36 x^2
+Style = 5
+Color = 0x0066CC66
+Visible = 0
+LegendText = Kappa Curve (4):  (x^2+y^2) (y-a)^2=b^2 x^2   a=0, b=6
+
+[Func206]
+FuncType = 2
+r = pi*cot t
+Visible = 0
+LegendText = Kappa Curve (5):  r(t)=a cot(t)   a=pi
+From = 0
+To = 2pi
+Steps = 1000
+Color = clGreen
+
+[Func207]
+FuncType = 1
+x = 4 cos(t) cot(t)
+y = 4 cos(t)
+Visible = 0
+LegendText = Kappa Curve (6):  x(t)=a cos(t) cot(t), y(t)=a cos(t)   a=4
+From = -10
+To = 10
+Steps = 1000
+Color = 0x00FFCC00
+
+[Relation177]
+Relation = y^2=y*x^2+x^5
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Keratoid Cusp (1):  y^2=a (y x^2+x^5)   a=1
+
+[Relation178]
+Relation = y^2=2 (y*x^2+x^5)
+Style = 5
+Color = clRed
+Visible = 0
+LegendText = Keratoid Cusp (2):  y^2=a (y x^2+x^5)   a=2
+
+[Relation179]
+Relation = y^2=4 (y*x^2+x^5)
+Style = 5
+Color = 0x0033CC33
+Visible = 0
+LegendText = Keratoid Cusp (3):  y^2=a (y x^2+x^5)   a=4
+
+[Func208]
+FuncType = 2
+r = -4 (cos(3 t))^(1/2)
+Visible = 0
+LegendText = Kiepert's Curve (1):  r(t)=a (cos(3 t))^(1/2)   a=-4
+From = -4pi
+To = 4pi
+Steps = 10000
+Color = clBlue
+
+[Relation180]
+Relation = (x^2+y^2)^3=216 x*(x^2-3 y^2)
+Style = 5
+Color = 0x0000CCFF
+Visible = 0
+LegendText = Kiepert's Curve (2):  (x^2+y^2)^3=a^3 x (x^2-3 y^2)   a=6
+
+[Relation181]
+Relation = y=ln(abs(sin(x)/x))
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Kilroy Curve:  y=ln(abs(sin(x)/x))
+
+[Func209]
+FuncType = 1
+x = 6 cos(t)
+y = 6 sin(t)^3
+Visible = 0
+LegendText = Kiss Curve (1):  x(t)=a cos(t), y(t)=a sin(t)^3   a=6
+From = -10
+To = 10
+Steps = 1000
+Color = clRed
+
+[Relation182]
+Relation = 256 y^2=(16-x^2)^3
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Kiss Curve (2):  a^4 y^2=(a^2-x^2)^3   a=4
+
+[Relation183]
+Relation = y*x^3+y^3+x=0
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Klein's Curve:  y x^3+y^3+x=0
+
+[Relation184]
+Relation = (x^2-1)^2=y^2*(3+2 y)
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Knot Curve:  (x^2-1)^2=y^2 (3+2 y)
+
+[Func210]
+FuncType = 1
+x = 2 tan t
+y = 2 cos t
+Visible = 0
+LegendText = Külp's Conchoid (1):  x(t)=a tan(t), y(t)=a cos(t)   a=2
+From = -10
+To = 10
+Steps = 1000
+Color = clBlue
+
+[Relation185]
+Relation = x^2*y^2=16 (16-y^2)
+Style = 5
+Color = 0x0000CCFF
+Visible = 0
+LegendText = Külp's Conchoid (2):  x^2 y^2=a^2 (a^2-y^2)   a=4
+
+[Relation186]
+Relation = x^2*y^2=(pi)^2*((pi)^2-x^2)
+Style = 5
+Color = 0x00669966
+Visible = 0
+LegendText = Külp's Conchoid (3):  x^2 y^2=a^2 (a^2-x^2)   a=pi
+
+[Relation187]
+Relation = y=W(x)
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Lambert W-Function:  y=W(x)
+
+[Func211]
+FuncType = 2
+r = 3 ((1+sin(t)) (1+0.3 cos(8 t)) (1+0.1 cos(24 t)))
+Visible = 0
+LegendText = Leaf Curve:  r(t)=((1+sin(t)) (1+0.3 cos(8 t)) (1+0.1 cos(24 t)))
+From = 0
+To = 2pi
+Steps = 1000
+Color = clBlue
+
+[Func212]
+FuncType = 1
+x = 4 cos(t)/(1+sin(t)^2)
+y = 4 sin(t) cos(t)/(1+sin(t)^2)
+Visible = 0
+LegendText = Lemniscate of Bernoulli (1):  x(t)=a cos(t)/(1+sin(t)^2), y(t)=a sin(t) cos(t)/(1+sin(t)^2)   a=4
+From = -10
+To = 10
+Steps = 1000
+Color = clRed
+
+[Func213]
+FuncType = 2
+r = 5 sqrt(cos(2 t))
+Visible = 0
+LegendText = Lemniscate of Bernoulli (2):  r(t)=a sqrt(cos(2 t))   a=5
+From = -4pi
+To = 4pi
+Steps = 10000
+Color = clBlue
+
+[Relation188]
+Relation = (x^2+y^2)^2=72 (x^2-y^2)
+Style = 5
+Color = 0x0033CCFF
+Visible = 0
+LegendText = Lemniscate of Bernoulli (3):  (x^2+y^2)^2=2 a^2 (x^2-y^2)   a=6
+
+[Func214]
+FuncType = 2
+r = 5 (1-(2 sin(t)^2))^(1/2)
+Visible = 0
+LegendText = Lemniscate of Booth (1):  r(t)=a (1-(b sin(t)^2)^(1/2)   a=5, b=2 (b>1)
+From = -4pi
+To = 4pi
+Steps = 10000
+Color = 0x0000CCFF
+
+[Relation189]
+Relation = (x^2+y^2)^2=12 x^2-12 y^2
+Style = 5
+Color = clGreen
+Visible = 0
+LegendText = Lemniscate of Booth (2):  (x^2+y^2)^2=a x^2+b y^2   a=12, b=-12 (b<0)
+
+[Relation190]
+Relation = (x^2+y^2)^2=14 y^2-112 x^2
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Lemniscate of Booth (3):  (x^2+y^2)^2=a y^2+b x^2   a=14, b=-12 (b<0)
+
+[Func215]
+FuncType = 1
+x = 3 sin t
+y = 3 sin(t) cos(t)
+Visible = 0
+LegendText = Lemniscate of Gerono (1):  x(t)=a sin t, y(t)=a sin(t) cos(t)   a=3
+From = -10
+To = 10
+Steps = 1000
+Color = clRed
+
+[Func216]
+FuncType = 2
+r = 4 sqrt(cos(2 t)/cos(t)^4)
+Visible = 0
+LegendText = Lemniscate of Gerono (2):  r(t)=a sqrt(cos(2 t)/cos(t)^4)   a=4
+From = -4pi
+To = 4pi
+Steps = 10000
+Color = clBlue
+
+[Func217]
+FuncType = 2
+r = 6 sqrt(cos(2 t) sec(t)^4)
+Visible = 0
+LegendText = Lemniscate of Gerono (3):  r(t)=a sqrt(cos(2 t) sec(t)^4)   a=6
+From = -4pi
+To = 4pi
+Steps = 10000
+Color = clGreen
+
+[Relation191]
+Relation = x^4=64 (x^2-y^2)
+Style = 5
+Color = 0x0033CCFF
+Visible = 0
+LegendText = Lemniscate of Gerono (4):  x^4=a^2 (x^2-y^2)   a=8
+
+[Relation192]
+Relation = 64 y^5=(25 x^2+20 y^2-20 y+4)^2
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = L'Hopital's Quintic:  64 y^5=a (25 x^2+20 y^2-20 a y+4 a^2)^2   a=1
+
+[Func218]
+FuncType = 2
+r = 6+3 cos t
+Visible = 0
+LegendText = Limaçon (1):  r(t)=a+b cos(t)   a=6, b=3 (a>=2b)
+From = 0
+To = 2pi
+Steps = 1000
+Color = clGreen
+
+[Func219]
+FuncType = 2
+r = 4+3 cos t
+Visible = 0
+LegendText = Limaçon (2):  r(t)=a+b cos(t)   a=4, b=3 (2b>a>b)
+From = 0
+To = 2pi
+Steps = 1000
+Color = clMedGray
+
+[Func220]
+FuncType = 2
+r = 3+3 cos t
+Visible = 0
+LegendText = Limaçon (3):  r(t)=a+b cos(t)   a=3, b=3 (Cardioid: a=b)
+From = 0
+To = 2pi
+Steps = 1000
+Color = clBlue
+
+[Func221]
+FuncType = 2
+r = 2+3 cos t
+Visible = 0
+LegendText = Limaçon (4):  r(t)=a+b cos(t)   a=2, b=3 (a<b)
+From = 0
+To = 2pi
+Steps = 1000
+Color = clRed
+
+[Func222]
+FuncType = 2
+r = 3+6 cos t
+Visible = 0
+LegendText = Limaçon (5):  r(t)=a+b cos(t)   a=3, b=6 (Limaçon Trisectrix: a=b/2)
+From = 0
+To = 2pi
+Steps = 1000
+Color = 0x0000CCFF
+
+[Func223]
+FuncType = 2
+r = 8 cos(t/3)
+Visible = 0
+LegendText = Limaçon (6):  r(t)=2 a cos(t/3)   a=4
+From = -2pi
+To = 2pi
+Steps = 1000
+Color = clBlack
+
+[Relation193]
+Relation = (x^2+y^2-3 x)^2=4 x^2*(2-x)
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Links Curve:  (x^2+y^2-3 x)^2=4 x^2 (2-x)
+
+[Func224]
+FuncType = 1
+x = 6 sin t
+y = 6 sin(3 t)
+Visible = 0
+LegendText = Lissajous Curve (1):  x(t)=a sin(t), y(t)=b sin(n t+c)   a=6, b=6, n=3, c=0 (0<=b<=pi/2)
+From = -10
+To = 10
+Steps = 1000
+Color = 0x00CC9900
+
+[Func225]
+FuncType = 1
+x = 6 sin t
+y = 6 sin(3 t+pi/2)
+Visible = 0
+LegendText = Lissajous Curve (2):  x(t)=a sin(t), y(t)=b sin(n t+c)   a=6, b=6, n=3, c=pi/2 (0<=b<=pi/2)
+From = -10
+To = 10
+Steps = 1000
+Color = clGreen
+
+[Func226]
+FuncType = 1
+x = 6 sin t
+y = 6 sin(5 t/2)
+Visible = 0
+LegendText = Lissajous Curve (3):  x(t)=a sin(t), y(t)=b sin(n t+c)   a=6, b=6, n=5/2, c=0 (0<=b<=pi/2)
+From = -10
+To = 10
+Steps = 1000
+Color = 0x0000CCFF
+
+[Func227]
+FuncType = 1
+x = 6 sin t
+y = 6 sin(8 t/5)
+Visible = 0
+LegendText = Lissajous Curve (4):  x(t)=a sin(t), y(t)=b sin(n t+c)   a=6, b=6, n=8/5, c=0 (0<=b<=pi/2)
+From = -40
+To = 40
+Steps = 1000
+Color = clBlue
+
+[Func228]
+FuncType = 2
+r = pi/sqrt(t)
+Visible = 0
+LegendText = Lituus (1):  r(t)=a/sqrt(t)   a=pi
+From = 0
+To = 20pi
+Steps = 1000
+Color = clGreen
+
+[Func229]
+FuncType = 2
+r = -2/sqrt(t)
+Visible = 0
+LegendText = Lituus (2):  r(t)=a/sqrt(t)   a=-2
+From = 0
+To = 20pi
+Steps = 1000
+Color = 0x0000CCFF
+
+[Relation194]
+Relation = y=ln(x)
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Logarithmic Curve (1):  y=a ln(x/b)   a=1, b=1
+
+[Relation195]
+Relation = y=ln(x/pi)
+Style = 5
+Color = 0x0000CCFF
+Visible = 0
+LegendText = Logarithmic Curve (2):  y=a ln(x/b)   a=1, b=pi
+
+[Relation196]
+Relation = y=ln(x/6)
+Style = 5
+Color = clRed
+Visible = 0
+LegendText = Logarithmic Curve (3):  y=a ln(x/b)   a=1, b=6
+
+[Relation197]
+Relation = y=(2^x) (2^(x^2))
+Style = 5
+Color = clRed
+Visible = 0
+LegendText = Logarithmic Parabola (1):  y=a^x b^(x^2)   a=2, b=2
+
+[Relation198]
+Relation = y=(4^x) (2^(x^2))
+Style = 5
+Color = 0x0000CCFF
+Visible = 0
+LegendText = Logarithmic Parabola (2):  y=a^x b^(x^2)   a=4, b=2
+
+[Func230]
+FuncType = 2
+r = e^(t/8)
+Visible = 0
+LegendText = Logarithmic Spiral (1):  r(t)=a e^(b t)   a=1, b=1/8
+From = 0
+To = 20pi
+Steps = 1000
+Color = clGreen
+
+[Func231]
+FuncType = 2
+r = 0.1 e^(t cot(1.4))
+Visible = 0
+LegendText = Logarithmic Spiral (2):  r(t)=a e^(t cot(b))   a=1/10, b=14/10
+From = 0
+To = 20pi
+Steps = 1000
+Color = 0x00FFCC00
+
+[Func232]
+FuncType = 1
+x = e^(t/10)*cos(t)
+y = e^(t/10)*sin(t)
+Visible = 0
+LegendText = Logarithmic Spiral (3):  x(t)=e^(a t) cos(t), y(t)=e^(a t) sin(t)   a=1/10
+From = -40
+To = 40
+Steps = 1000
+Color = 0x0000CCFF
+
+[Relation199]
+Relation = y=x*tan(4*log(sqrt(x^2+y^2)))
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Logarithmic Spiral (4):  y=x tan(log(sqrt(x^2+y^2))/a)   a=1/4
+
+[Relation200]
+Relation = y=2/(1+0.5 e^(-4 x))
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Logistic Function (1):  y=a/(1+b e^(-c x))   a=2, b=1/2, c=4
+
+[Relation201]
+Relation = y=4/(1+0.5 e^(-5 x))
+Style = 5
+Color = 0x0000CCFF
+Visible = 0
+LegendText = Logistic Function (2):  y=a/(1+b e^(-c x))   a=4, b=1/2, c=5
+
+[Relation202]
+Relation = y=6/(1+0.5 e^(-6 x))
+Style = 5
+Color = 0x0066CC00
+Visible = 0
+LegendText = Logistic Function (3):  y=a/(1+b e^(-c x))   a=6, b=1/2, c=6
+
+[Func233]
+FuncType = 2
+r = 1/4 cos(t)+4 cos(t)/sin(t)^2
+Visible = 0
+LegendText = Longchamps' Cubic (1):  r(t)=a/cos(t)+b cos(t)/sin(t)^2   a=1/4, b=4
+From = -2pi
+To = 2pi
+Steps = 1000
+Color = clBlue
+
+[Func234]
+FuncType = 1
+x = 1+1/2 tan(t)^2
+y = tan(t)+1/2 tan(t)
+Visible = 0
+LegendText = Longchamps' Cubic (2):  x(t)=a+b/tan(t)^2, y(t)=a tan(t)+b/tan(t)   a=1, b=1/2
+From = -10
+To = 10
+Steps = 1000
+Color = 0x0000CCFF
+
+[Relation203]
+Relation = x*y^2=x^2+2 y^2
+Style = 5
+Color = clGreen
+Visible = 0
+LegendText = Longchamps' Cubic (3):  x y^2=a x^2+b y^2   a=1, b=2
+
+[Relation204]
+Relation = x^6+y^9=2 y^2*x^4
+Style = 5
+Color = clRed
+Visible = 0
+LegendText = *Loop Curve (1):  x^6+y^9=a x^4 y^2   a=2
+
+[Relation205]
+Relation = x^6+y^9=4 x^4*y^2
+Style = 5
+Color = 0x0033CC66
+Visible = 0
+LegendText = *Loop Curve (2):  x^6+y^9=a x^4 y^2   a=4
+
+[Relation206]
+Relation = x^6-y^9=6 x^4*y^2
+Style = 5
+Color = 0x00FF9966
+Visible = 0
+LegendText = *Loop Curve (3):  x^6-y^9=a x^4 y^2   a=6
+
+[Func235]
+FuncType = 1
+x = 4 (sin(t)^2+cos(t/2))
+y = 4 sin(t)^2
+Visible = 0
+LegendText = *M-Function:  x(t)=a (sin(t)^2+cos(t/2)), y(t)=b sin(t)^2   a=b=4
+From = -10
+To = 10
+Steps = 1000
+Color = clBlue
+
+[Func236]
+FuncType = 2
+r = 1/sqrt(sin(4 t))
+Visible = 0
+LegendText = Maltese Cross Curve (1):  r(t)=1/sqrt(sin(4 t))
+From = 0
+To = 2pi
+Steps = 1000
+Color = clGreen
+
+[Relation207]
+Relation = (x^2-y^2) x y=x^2+y^2
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Maltese Cross Curve (2):  (x^2-y^2) x y=x^2+y^2
+
+[Relation208]
+Relation = y^2-x^3=2
+Style = 5
+Color = clGreen
+Visible = 0
+LegendText = Mordell Curve (1):  y^2-x^3=a   a=2
+
+[Relation209]
+Relation = y^2-x^3=6
+Style = 5
+Color = 0x0000CCFF
+Visible = 0
+LegendText = Mordell Curve (2):  y^2-x^3=a   a=6
+
+[Relation210]
+Relation = y^2-x^3=12
+Style = 5
+Color = 0x00CC9933
+Visible = 0
+LegendText = Mordell Curve (3):  y^2-x^3=a   a=12
+
+[Relation211]
+Relation = y=ln(x)
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Natural Logarithm Function:  y=ln(x)
+
+[Relation212]
+Relation = y=logb(x,2)
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = N-base Logarithm Function (1):   y=logb(x,n)   n=2
+
+[Relation213]
+Relation = y=logb(x,pi)
+Style = 5
+Color = clRed
+Visible = 0
+LegendText = N-base Logarithm Function (2):   y=logb(x,n)   n=pi
+
+[Relation214]
+Relation = y=logb(x,5)
+Style = 5
+Color = 0x0000CCFF
+Visible = 0
+LegendText = N-base Logarithm Function (3):   y=logb(x,n)   n=5
+
+[Func237]
+FuncType = 2
+r = t/4+0.5
+Visible = 0
+LegendText = Neoid:  r(t)=a t+b   a=1/4, b=1/2
+From = 0
+To = 20pi
+Steps = 1000
+Color = clBlue
+
+[Func238]
+FuncType = 1
+x = 1.5 (3 cos(t)-cos(3 t))
+y = 1.5 (3 sin(t)-sin(3 t))
+Visible = 0
+LegendText = Nephroid (1):  x(t)=a (3 cos(t)-cos(3 t)), y(t)=a (3 sin(t)-sin(3 t))   a=3/2
+From = -10
+To = 10
+Steps = 1000
+Color = clRed
+
+[Relation215]
+Relation = (x^2+y^2-16)^3=(108) (16) y^2
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Nephroid (2):  (x^2+y^2-4 a^2)^3=108 a^4 y^2   a=2
+
+[Relation216]
+Relation = 2 y^2=(x^2-4 x+2) x
+Style = 5
+Color = clRed
+Visible = 0
+LegendText = Newton's Diverging Parabola (1):  a y^2=(x^2-2 b x+c) x   a=2, b=2, c=2
+
+[Relation217]
+Relation = y^2=(x^2-4 x+3) x
+Style = 5
+Color = 0x0033CCFF
+Visible = 0
+LegendText = Newton's Diverging Parabola (2):  a y^2=(x^2-2 b x+c) x   a=1, b=2, c=3
+
+[Relation218]
+Relation = y^2=(x^2-2 x+2) x
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Newton's Diverging Parabola (3):  a y^2=(x^2-2 b x+c) x   a=1, b=1, c=2
+
+[Relation219]
+Relation = -2 y^2=(x^2-2 x+1) x
+Style = 5
+Color = 0x00CCCC33
+Visible = 0
+LegendText = Newton's Diverging Parabola (4):  a y^2=(x^2-2 b x+c) x   a=-2, b=1, c=1
+
+[Relation220]
+Relation = 2 y^2=(x^2+2 x-1) x
+Style = 5
+Color = clGreen
+Visible = 0
+LegendText = Newton's Diverging Parabola (5):  a y^2=(x^2-2 b x+c) x   a=2, b=-1, c=1
+
+[Relation221]
+Relation = y^2=x*(x^2-1)
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Newton's Egg Curve (1):  y^2=(x-a) (x^2-1)   a=0
+
+[Relation222]
+Relation = y^2=(x-2) (x^2-1)
+Style = 5
+Color = 0x0000CCFF
+Visible = 0
+LegendText = Newton's Egg Curve (2):  y^2=(x-a) (x^2-1)   a=2
+
+[Relation223]
+Relation = y^2=(x+6) (x^2-1)
+Style = 5
+Color = 0x00669999
+Visible = 0
+LegendText = Newton's Egg Curve (3):  y^2=(x-a) (x^2-1)   a=-6
+
+[Func239]
+FuncType = 2
+r = tan(t)
+Visible = 0
+LegendText = Nodal Curve (1):  r(t)=a tan(n t)   a=1, n=1 (Kappa Curve)
+From = 0
+To = 2pi
+Steps = 1000
+Color = clBlue
+
+[Func240]
+FuncType = 2
+r = tan(2 t)
+Visible = 0
+LegendText = Nodal Curve (2):  r(t)=a tan(n t)   a=1, n=2 (Windmill Curve)
+From = 0
+To = 2pi
+Steps = 1000
+Color = clGreen
+
+[Func241]
+FuncType = 2
+r = tan(4 t)
+Visible = 0
+LegendText = Nodal Curve (3):  r(t)=a tan(n t)   a=1, n=4
+From = 0
+To = 2pi
+Steps = 1000
+Color = 0x00969696
+
+[Func242]
+FuncType = 2
+r = tan(t/2)
+Visible = 0
+LegendText = Nodal Curve (4):  r(t)=a tan(n t)   a=1, n=1/2 (Right Strophoid)
+From = 0
+To = 2pi
+Steps = 1000
+Color = 0x0099CC66
+
+[Func243]
+FuncType = 2
+r = tan(3 t/2)
+Visible = 0
+LegendText = Nodal Curve (5):  r(t)=a tan(n t)   a=1, n=3/2
+From = 0
+To = 2pi
+Steps = 1000
+Color = clRed
+
+[Func244]
+FuncType = 2
+r = tan(t/3)
+Visible = 0
+LegendText = Nodal Curve (6):  r(t)=a tan(n t)   a=1, n=1/3
+From = -6pi
+To = 6pi
+Steps = 1000
+Color = 0x00FFCC00
+
+[Func245]
+FuncType = 2
+r = cot(2 t/3)
+Visible = 0
+LegendText = Nodal Curve (7):  r(t)=a cot(n t)   a=1, n=2/3
+From = -4pi
+To = 4pi
+Steps = 1000
+Color = clBlack
+
+[Func246]
+FuncType = 2
+r = cot(t/4)
+Visible = 0
+LegendText = Nodal Curve (8):  r(t)=a cot(n t)   a=1, n=1/4
+From = -6pi
+To = 6pi
+Steps = 1000
+Color = clLime
+
+[Func247]
+FuncType = 2
+r = cot(5 t/4)
+Visible = 0
+LegendText = Nodal Curve (9):  r(t)=a cot(n t)   a=1, n=5/4
+From = -6pi
+To = 6pi
+Steps = 1000
+Color = 0x006699FF
+
+[Func248]
+FuncType = 2
+r = cot(t/5)
+Visible = 0
+LegendText = Nodal Curve (10):  r(t)=a cot(n t)   a=1, n=1/5
+From = -6pi
+To = 6pi
+Steps = 1000
+Color = 0x00CBCBCB
+
+[Func249]
+FuncType = 2
+r = cot(3 t/5)
+Visible = 0
+LegendText = Nodal Curve (11):  r(t)=a cot(n t)   a=1, n=3/5
+From = -6pi
+To = 6pi
+Steps = 1000
+Color = 0x0099CCFF
+
+[Relation224]
+Relation = y=dnorm(x,0,1)
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Normal Distribution Function:  y=dnorm(x,mu,sigma)   mu=0, sigma=1
+
+[Func250]
+FuncType = 2
+r = 2 (sin(3 t)+cos(3 t)^2)
+Visible = 0
+LegendText = *N-petalled Flower (1):  r(t)=a (sin(n t)+cos(n t)^2)   a=2, n=3 (Three petals)
+From = 0
+To = 2pi
+Steps = 1000
+Color = clRed
+
+[Func251]
+FuncType = 2
+r = 4 (sin(5 t)+cos(5 t)^2)
+Visible = 0
+LegendText = *N-petalled Flower (2):  r(t)=a (sin(n t)+cos(n t)^2)   a=4, n=5 (Five petals)
+From = 0
+To = 2pi
+Steps = 1000
+Color = clBlue
+
+[Func252]
+FuncType = 2
+r = 6 (sin(7 t)+cos(7 t)^2)
+Visible = 0
+LegendText = *N-petalled Flower (3):  r(t)=a (sin(n t)+cos(n t)^2)   a=6, n=7 (Seven petals)
+From = 0
+To = 2pi
+Steps = 1000
+Color = 0x0000CCFF
+
+[Func253]
+FuncType = 2
+r = 3 (1-sin(cos(6 t)^3))^(1/5)
+Visible = 0
+LegendText = *N-petalled Flower (4):  r(t)=a (1-sin(cos(n t)^3))^(1/m)   a=3, m=5, n=6
+From = 0
+To = 2pi
+Steps = 1000
+Color = clBlue
+
+[Func254]
+FuncType = 2
+r = 4 (1-sin(cos(8 t)^3))^(1/3)
+Visible = 0
+LegendText = *N-petalled Flower (5):  r(t)=a (1-sin(cos(n t)^3))^(1/m)   a=4, m=3, n=8
+From = 0
+To = 2pi
+Steps = 1000
+Color = clGreen
+
+[Func255]
+FuncType = 2
+r = 6 (1-sin(cos(10 t)^3))^(1/2)
+Visible = 0
+LegendText = *N-petalled Flower (6):  r(t)=a (1-sin(cos(n t)^3))^(1/m)   a=6, m=2, n=10
+From = 0
+To = 2pi
+Steps = 1000
+Color = 0x00969696
+
+[Relation225]
+Relation = y=root(3,x)
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Nth Root Function (1):  y=root(n,x)   n=3
+
+[Relation226]
+Relation = y=root(-3,x)
+Style = 5
+Color = clGreen
+Visible = 0
+LegendText = Nth Root Function (2):  y=root(n,x)   n=-3
+
+[Relation227]
+Relation = y=root(6,x)
+Style = 5
+Color = 0x0000CCFF
+Visible = 0
+LegendText = Nth Root Function (3):  y=root(n,x)   n=6
+
+[Func256]
+FuncType = 2
+r = 4 sin(t-pi/10)^2/cos(t)
+Visible = 0
+LegendText = Oblique Cissoid (1):  r(t)=a sin(t-b/2)^2/cos(t)   a=4, b=pi/5
+From = 0
+To = 2pi
+Steps = 1000
+Color = clBlue
+
+[Func257]
+FuncType = 2
+r = 4 sin(t-pi/4)^2/cos(t)
+Visible = 0
+LegendText = Oblique Cissoid (2):  r(t)=a sin(t-b/2)^2/cos(t)   a=4, b=pi/2
+From = 0
+To = 2pi
+Steps = 1000
+Color = 0x0000CCFF
+
+[Func258]
+FuncType = 2
+r = 4 sin(t-3pi/8)^2/cos(t)
+Visible = 0
+LegendText = Oblique Cissoid (3):  r(t)=a sin(t-b/2)^2/cos(t)   a=4, b=3pi/4
+From = -10
+To = 10
+Steps = 1000
+Color = clRed
+
+[Func259]
+FuncType = 2
+r = 4 sin((3pi/4)-2 t)/sin((3pi/4)-t)
+Visible = 0
+LegendText = Oblique Strophoid (1):  r(t)=a sin(b-2 t)/sin(b-t)   a=4, b=3pi/4
+From = 0
+To = 2pi
+Steps = 1000
+Color = clGreen
+
+[Func260]
+FuncType = 2
+r = 4 sin((2pi/5)-2 t)/sin((2pi/5)-t)
+Visible = 0
+LegendText = Oblique Strophoid (2):  r(t)=a sin(b-2 t)/sin(b-t)   a=4, b=2pi/5
+From = 0
+To = 2pi
+Steps = 1000
+Color = 0x0000CCFF
+
+[Func261]
+FuncType = 2
+r = 4 sin((pi/5)-2 t)/sin((pi/5)-t)
+Visible = 0
+LegendText = Oblique Strophoid (3):  r(t)=a sin(b-2 t)/sin(b-t)   a=4, b=pi/5
+From = 0
+To = 2pi
+Steps = 1000
+Color = clBlue
+
+[Func262]
+FuncType = 2
+r = 4 sin((pi/40)-2 t)/sin((pi/40)-t)
+Visible = 0
+LegendText = Oblique Strophoid (4):  r(t)=a sin(b-2 t)/sin(b-t)   a=4, b=pi/40
+From = 0
+To = 2pi
+Steps = 1000
+Color = 0x00FF9966
+
+[Func263]
+FuncType = 2
+r = (2 sin(t)-4 cos(t)) tan(t)
+Visible = 0
+LegendText = Ophiuride (1):  r(t)=(a sin(t)-b cos(t)) tan(t)   a=2, b=4
+From = 0
+To = 2pi
+Steps = 1000
+Color = clGreen
+
+[Relation228]
+Relation = x*(x^2+y^2)+y*(8 x-4 y)=0
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Ophiuride (2):  x (x^2+y^2)+y (a x-b y)=0   a=8, b=4
+
+[Relation229]
+Relation = (x^2+y^2)^2=42 x^2+20 y^2
+Style = 5
+Color = clGreen
+Visible = 0
+LegendText = Oval of Booth (1):  (x^2+y^2)^2=a x^2+b y^2   a=42, b=20 (b>0)
+
+[Func264]
+FuncType = 2
+r = 5 (1-(0.4 sin(t)^2))^(1/2)
+Visible = 0
+LegendText = Oval of Booth (2):  r(t)=a (sqrt(1-b sin(t)^2))   a=5, b=4/10 (Oval: b<1/2)
+From = 0
+To = 2pi
+Steps = 1000
+Color = clBlue
+
+[Func265]
+FuncType = 2
+r = 4 (1-(0.7 sin(t)^2))^(1/2)
+Visible = 0
+LegendText = Oval of Booth (3):  r(t)=a (sqrt(1-b sin(t)^2))   a=4, b=7/10 (Indentated oval: 1/2<b<1)
+From = 0
+To = 2pi
+Steps = 1000
+Color = 0x0000CCFF
+
+[Func266]
+FuncType = 2
+r = 3 (1-(0.9 sin(t)^2))^(1/2)
+Visible = 0
+LegendText = Oval of Booth (4):  r(t)=a (sqrt(1-b sin(t)^2))   a=3, b=9/10 (Indentated oval: 1/2<b<1)
+From = 0
+To = 2pi
+Steps = 1000
+Color = 0x00FFCC99
+
+[Func267]
+FuncType = 2
+r = 2 sqrt(1-2 sin(t)^2)
+Visible = 0
+LegendText = Oval of Booth (5):  r(t)=a (sqrt(1-b sin(t)^2))   a=2, b=2 (Lemniscate: b>1)
+From = 0
+To = 4pi
+Steps = 10000
+Color = clBlue
+
+[Relation230]
+Relation = y^2=4 x
+Style = 5
+Color = clGreen
+Visible = 0
+LegendText = Parabola (1):  (y-b)^2=4 p (x-a)   vertex (a,b)=(0,0), focal distance p=1
+
+[Relation231]
+Relation = (y+4)^2=-4 e*(x-2)
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Parabola (2):  (y-b)^2=4 p (x-a)   vertex (a,b)=(2,-4), focal distance p=-e
+
+[Func268]
+FuncType = 2
+r = 6 cos(t)/sin(t)^2
+Visible = 0
+LegendText = Parabola (3):  r(t)=2 p cos(t)/sin(t)^2   vertex (a,b)=(0,0), focal distance p=3
+From = 0
+To = 2pi
+Steps = 1000
+Color = 0x0000CCFF
+
+[Func269]
+FuncType = 1
+x = t^2/4
+y = t/2
+Visible = 0
+LegendText = Parabola (4):  x(t)=p t^2/2, y(t)=p t   focal distance p=1/2
+From = -10
+To = 10
+Steps = 1000
+Color = 0x003366FF
+
+[Relation232]
+Relation = x^2=8 (y+3)
+Style = 5
+Color = 0x003300CC
+Visible = 0
+LegendText = Parabola (5):  (x-a)^2=4 p (y-b)   vertex (a,b)=(0,-3), focal distance p=2
+
+[Func270]
+FuncType = 1
+x = pi*tan t
+y = (pi/2) tan(t)^2
+Visible = 0
+LegendText = Parabola (6):  x(t)=p tan t, y(t)=(p/2) tan(t)^2   focal distance p=pi
+From = -10
+To = 10
+Steps = 1000
+Color = 0x0099CC00
+
+[Func271]
+FuncType = 2
+r = 1/(1+cos(t))
+Visible = 0
+LegendText = Parabola (7):  r(t)=a/(1+e cos(t))   a=1 (semilatus rectum), e=1 (eccentricity)
+From = 0
+To = 2pi
+Steps = 1000
+Color = 0x00FFCC00
+
+[Relation233]
+Relation = (2 x-1)^3=27 y^2/2
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Parabola Evolute (1):  (2 x-a)^3=27 a y^2/2   a=1 (Semicubical Parabola)
+
+[Relation234]
+Relation = (2 x-2)^3=54 y^2/2
+Style = 5
+Color = 0x0000CCFF
+Visible = 0
+LegendText = Parabola Evolute (2):  (2 x-a)^3=27 a y^2/2   a=2
+
+[Relation235]
+Relation = x^3=(x^2-y^2)+2 x*y
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Parabolic Folium (1):  x^3=a (x^2-y^2)+b x y   a=1, b=2
+
+[Func272]
+FuncType = 2
+r = 2/cos(t)-tan(t) (2 tan(t)+4)/cos(t)
+Visible = 0
+LegendText = Parabolic Folium (2):  r(t)=a/cos(t)-tan(t) (a tan(t)-b)/cos(t)   a=2, b=-4
+From = -2pi
+To = 2pi
+Steps = 1000
+Color = 0x0000CCFF
+
+[Func273]
+FuncType = 2
+r = -8 sin(t) cos(2 t)/cos(t)^2
+Visible = 0
+LegendText = Parabolic Trifolium (1):  r(t)=a sin(t) cos(2 t)/cos(t)^2   a=-8
+From = -2pi
+To = 2pi
+Steps = 1000
+Color = clBlue
+
+[Func274]
+FuncType = 1
+x = 6 cos(2 t) tan(t)
+y = 6 cos(2 t) tan(t)^2
+Visible = 0
+LegendText = Parabolic Trifolium (2):  x(t)=a cos(2 t) tan(t), y(t)=a cos(2 t) tan(t)^2   a=6
+From = -10
+To = 10
+Steps = 1000
+Color = 0x0000CCFF
+
+[Relation236]
+Relation = x^2*(x^2+y^2)=2 y*(x^2-y^2)
+Style = 5
+Color = clRed
+Visible = 0
+LegendText = Parabolic Trifolium (3):  x^2 (x^2+y^2)=a y (x^2-y^2)   a=2
+
+[Relation237]
+Relation = x*(x^2+y^2)=2 (x^2+2 y^2)
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Peano's Visiera:  x (x^2+y^2)=a (x^2+2 y^2)   a=2
+
+[Func275]
+FuncType = 2
+r = 4 (abs(cos(t)^2)+abs(cos(t/2)))
+Visible = 0
+LegendText = *Pear Function (1):  r(t)=a (abs(cos(t)^2)+abs(cos(t/2)))   a=4
+From = 0
+To = 2pi
+Steps = 1000
+Color = clBlue
+
+[Func276]
+FuncType = 2
+r = -1.5 (abs(cos(t)^2)+abs(cos(t/2)))
+Visible = 0
+LegendText = *Pear Function (2):  r(t)=a (abs(cos(t)^2)+abs(cos(t/2)))   a=-3/2
+From = 0
+To = 2pi
+Steps = 1000
+Color = clGreen
+
+[Relation238]
+Relation = y^4=x^3*(5-x)^2
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Pearls of de Sluze (1):  y^a=k x^b (n-x)^c   a=4, b=3, c=2, k=1, n=5
+
+[Relation239]
+Relation = y^2=6 x^4*(2-x)
+Style = 5
+Color = 0x0000CCFF
+Visible = 0
+LegendText = Pearls of de Sluze (2):  y^a=k x^b (n-x)^c   a=2, b=4, c=1, k=6, n=2
+
+[Func277]
+FuncType = 1
+x = -(1.8 sin(t)-1.2 sin(6 t/4))
+y = -(-1.8 cos(t)-1.2 cos(6 t/4))
+Visible = 0
+LegendText = *Pentagram (1):  x(t)=a (1.8 sin(t)-1.2 sin(6 t/4)), y(t)=a (-1.8 cos(t)-1.2 cos(6 t/4))   a=-1
+From = -10
+To = 10
+Steps = 1000
+Color = clBlue
+
+[Func278]
+FuncType = 1
+x = 2 (1.8 sin(t)-1.2 sin(6 t/4))
+y = 2 (-1.8 cos(t)-1.2 cos(6 t/4))
+Visible = 0
+LegendText = *Pentagram (2):  x(t)=a (1.8 sin(t)-1.2 sin(6 t/4)), y(t)=a (-1.8 cos(t)-1.2 cos(6 t/4))   a=2
+From = -10
+To = 10
+Steps = 1000
+Color = clRed
+
+[Func279]
+FuncType = 1
+x = 4 (1+sin t)
+y = 2 cos(t) (1+sin t)
+Visible = 0
+LegendText = Piriform (1):  x(t)=a (1+sin t), y(t)=b cos(t) (1+sin t)   a=4, b=2
+From = -10
+To = 10
+Steps = 1000
+Color = clRed
+
+[Relation240]
+Relation = y^2=4 (2-x) x^3
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Piriform (2):  a^4 y^2=b^2 (2 a-x) x^3   a=1, b=2
+
+[Relation241]
+Relation = 81 y^2=9 (-6-x) x^3
+Style = 5
+Color = clGreen
+Visible = 0
+LegendText = Piriform (3):  a^4 y^2=b^2 (2 a-x) x^3   a=-3, b=3
+
+[Func280]
+FuncType = 1
+x = sin((1+3/5)*t)/sin((1-3/5)*t)
+y = sin(t) sin(3 t/5)/sin((1-3/5)*t)
+Visible = 0
+LegendText = Plateau Curve (1):  x(t)=sin((1+a) t)/sin((1-a) t), y(t)=sin(t) sin(a t)/sin((1-a) t)   a=3/5
+From = -10
+To = 10
+Steps = 1000
+Color = clGreen
+
+[Func281]
+FuncType = 1
+x = sin((1+2/5)*t)/sin((1-2/5)*t)
+y = sin(t) sin(2 t/5)/sin((1-2/5)*t)
+Visible = 0
+LegendText = Plateau Curve (2):  x(t)=sin((1+a) t)/sin((1-a) t), y(t)=sin(t) sin(a t)/sin((1-a) t)   a=2/5
+From = -10
+To = 10
+Steps = 1000
+Color = clBlue
+
+[Func282]
+FuncType = 1
+x = sin((1-4/5)*t)/sin((1+4/5)*t)
+y = sin(t) sin(-4 t/5)/sin((1+4/5)*t)
+Visible = 0
+LegendText = Plateau Curve (3):  x(t)=sin((1+a) t)/sin((1-a) t), y(t)=sin(t) sin(a t)/sin((1-a) t)   a=-4/5
+From = -10
+To = 10
+Steps = 1000
+Color = 0x0000CCFF
+
+[Relation242]
+Relation = (abs(x^2-9))^2+(abs(y^2-9))^2=81
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Plücker's Quartic Curve (1):  (abs(x^2-a^2))^2+(abs(y^2-a^2))^2=b^4   a=3, b=3
+
+[Relation243]
+Relation = (abs(x^2-4))^2+(abs(y^2-4))^2=625
+Style = 5
+Color = 0x0000CCFF
+Visible = 0
+LegendText = Plücker's Quartic Curve (2):  (abs(x^2-a^2))^2+(abs(y^2-a^2))^2=b^4   a=2, b=5
+
+[Relation244]
+Relation = (abs(x^2-9))^2+(abs(y^2-9))^2=16
+Style = 5
+Color = 0x00339966
+Visible = 0
+LegendText = Plücker's Quartic Curve (3):  (abs(x^2-a^2))^2+(abs(y^2-a^2))^2=b^4   a=3, b=2
+
+[Relation245]
+Relation = y=gamma(x+3)/gamma(x)
+Style = 5
+Color = 0x00FF9966
+Visible = 0
+LegendText = Pochhammer Symbol (1):  y=gamma(x+n)/gamma(x)   n=3
+
+[Relation246]
+Relation = y=gamma(x+4)/gamma(x)
+Style = 5
+Color = 0x0000CCFF
+Visible = 0
+LegendText = Pochhammer Symbol (2):  y=gamma(x+n)/gamma(x)   n=4
+
+[Relation247]
+Relation = y=gamma(x+5)/gamma(x)
+Style = 5
+Color = clGreen
+Visible = 0
+LegendText = Pochhammer Symbol (3):  y=gamma(x+n)/gamma(x)   n=5
+
+[Func283]
+FuncType = 2
+r = 6 sech(2 t)
+Visible = 0
+LegendText = Poinsot's Spiral (1):  r(t)=a sech(n t)   a=6, n=2
+From = -2pi
+To = 2pi
+Steps = 1000
+Color = clGreen
+
+[Func284]
+FuncType = 2
+r = 6 sech(t)
+Visible = 0
+LegendText = Poinsot's Spiral (2):  r(t)=a sech(n t)   a=6, n=1
+From = -2pi
+To = 2pi
+Steps = 1000
+Color = clBlue
+
+[Func285]
+FuncType = 2
+r = 6 sech(t/2)
+Visible = 0
+LegendText = Poinsot's Spiral (3):  r(t)=a sech(n t)   a=6, n=1/2
+From = -2pi
+To = 2pi
+Steps = 1000
+Color = 0x0000CCFF
+
+[Func286]
+FuncType = 2
+r = 6 csch(2 t)
+Visible = 0
+LegendText = Poinsot's Spiral (4):  r(t)=a csch(n t)   a=6, n=2
+From = -2pi
+To = 2pi
+Steps = 1000
+Color = clRed
+
+[Func287]
+FuncType = 2
+r = 6 csch(t)
+Visible = 0
+LegendText = Poinsot's Spiral (5):  r(t)=a csch(n t)   a=6, n=1
+From = -2pi
+To = 2pi
+Steps = 1000
+Color = 0x0099CC33
+
+[Func288]
+FuncType = 2
+r = 6 csch(t/2)
+Visible = 0
+LegendText = Poinsot's Spiral (6):  r(t)=a csch(n t)   a=6, n=1/2
+From = -4pi
+To = 4pi
+Steps = 1000
+Color = 0x00FFCC00
+
+[Relation248]
+Relation = y*x=1
+Style = 5
+Color = 0x00FF9933
+Visible = 0
+LegendText = Polytropic Equation (1):  y x^n=1   n=1 (Rectangular Hyperbola)
+
+[Relation249]
+Relation = y*x^2=1
+Style = 5
+Color = 0x0000CCFF
+Visible = 0
+LegendText = Polytropic Equation (2):  y x^n=1   n=2 (Cubic Hyperbola)
+
+[Func289]
+FuncType = 1
+x = (sin(t)/t-t sin(t)-2 cos(t))/4
+y = (-cos(t)/t-2 sin(t)+t cos(t))/4
+Visible = 0
+LegendText = Pritch-Atzema Spiral:  x(t)=a (sin(t)/t-t sin(t)-2 cos(t)), y(t)=a (-cos(t)/t-2 sin(t)+t cos(t))   a=1/4
+From = 0
+To = 24pi
+Steps = 1000
+Color = clBlue
+
+[Func290]
+FuncType = 1
+x = t-1.5 sin(t)
+y = 1-1.5 cos(t)
+Visible = 0
+LegendText = Prolate Cycloid (1):  x(t)=a t-b sin(t), y(t)=a-b cos(t)   a=1, b=3/2 (b>a)
+From = -20
+To = 20
+Steps = 1000
+Color = clBlue
+
+[Func291]
+FuncType = 1
+x = 0.5 t-sin(t)
+y = 0.5 -cos(t)
+Visible = 0
+LegendText = Prolate Cycloid (2):  x(t)=a t-b sin(t), y(t)=a-b cos(t)   a=1/2, b=1 (b>a)
+From = -40
+To = 40
+Steps = 1000
+Color = 0x0000CCFF
+
+[Relation250]
+Relation = y*x^2-8 x=-y
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = *Pseudoserpentine (1):  y x^2-8 x=-y^n   n=1
+
+[Relation251]
+Relation = y*x^2-8 x=-y^3
+Style = 5
+Color = 0x0000CCFF
+Visible = 0
+LegendText = *Pseudoserpentine (2):  y x^2-8 x=-y^n   n=3
+
+[Relation252]
+Relation = y*x^2-8 x=-y^5
+Style = 5
+Color = 0x0033CC33
+Visible = 0
+LegendText = *Pseudoserpentine (3):  y x^2-8 x=-y^n   n=5
+
+[Relation253]
+Relation = y*(4+x^2)=16
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Pseudoversiera:  y (a^2+x^2)=2 a^3   a=2
+
+[Relation254]
+Relation = y=(x^(1+1/2)/(1+1/2))-(x^(1-1/2)/(1-1/2))
+Style = 5
+Color = clGreen
+Visible = 0
+LegendText = Pursuit Curve (1):  y=(x^(1+a)/(1+a))-(x^(1-a)/(1-a))   a=1/2
+
+[Relation255]
+Relation = y=(x^(1-1/pi)/(1-1/pi))-(x^(1+1/pi)/(1+1/pi))
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Pursuit Curve (2):  y=(x^(1+a)/(1+a))-(x^(1-a)/(1-a))   a=-1/pi
+
+[Relation256]
+Relation = y=x^2-log(x)
+Style = 5
+Color = 0x0000CCFF
+Visible = 0
+LegendText = Pursuit Curve (3):  y=a x^2-log(x)   a=1
+
+[Func292]
+FuncType = 1
+x = sin(t)
+y = (1/2) (t+sin(t)*cos(t))
+Visible = 0
+LegendText = Quadratrix of Abdank-Abakanowicz (1):  x(t)=a sin(t), y(t)=(a^2/2) (t+sin(t) cos(t))   a=1
+From = -20
+To = 20
+Steps = 1000
+Color = clBlue
+
+[Func293]
+FuncType = 1
+x = 2 sin(t)
+y = 2 (t+sin(t) cos(t))
+Visible = 0
+LegendText = Quadratrix of Abdank-Abakanowicz (2):  x(t)=a sin(t), y(t)=(a^2/2) (t+sin(t) cos(t))   a=2
+From = -10
+To = 10
+Steps = 1000
+Color = clGreen
+
+[Func294]
+FuncType = 1
+x = t*cot t
+y = t
+Visible = 0
+LegendText = Quadratrix of Hippias (1):  x(t)=a t cot t, y(t)=t   a=1
+From = -10
+To = 10
+Steps = 1000
+Color = 0x00669966
+
+[Func295]
+FuncType = 2
+r = 1.5*t/sin(t)
+Visible = 0
+LegendText = Quadratrix of Hippias (2):  r(t)=a t/sin(t)   a=3/2
+From = -20pi
+To = 20pi
+Steps = 1000
+Color = 0x0000CCFF
+
+[Relation257]
+Relation = x=y*cot(-y)
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Quadratrix of Hippias (3):  x=y cot(y/a)   a=-1
+
+[Func296]
+FuncType = 2
+r = 4 cos(2 t)
+Visible = 0
+LegendText = Quadrifolium (1):  r(t)=a cos(2 t)   a=4
+From = -2pi
+To = 2pi
+Steps = 1000
+Color = clBlue
+
+[Func297]
+FuncType = 2
+r = 5 sin(2 t)
+Visible = 0
+LegendText = Quadrifolium (2):  r(t)=a sin(2 t)   a=5
+From = -2pi
+To = 2pi
+Steps = 1000
+Color = 0x0000CCFF
+
+[Func298]
+FuncType = 2
+r = 4 (abs(sin(2 t))+sin(4 t)^2/4)
+Visible = 0
+LegendText = Quadrifolium (3):  r(t)=a (abs(sin(2 t))+sin(4 t)^2/4)   a=4
+From = -2pi
+To = 2pi
+Steps = 1000
+Color = clRed
+
+[Func299]
+FuncType = 2
+r = 6 (sin(2 t)^2+sin(4 t)^2/2)
+Visible = 0
+LegendText = Quadrifolium (4):  r(t)=a (sin(2 t)^2+sin(4 t)^2/2)   a=6
+From = -2pi
+To = 2pi
+Steps = 1000
+Color = 0x00FFCC00
+
+[Relation258]
+Relation = (x^2+y^2)^3=9 (x^2-y^2)^2
+Style = 5
+Color = clGreen
+Visible = 0
+LegendText = Quadrifolium (5):  (x^2+y^2)^3=a^2 (x^2-y^2)^2   a=3
+
+[Relation259]
+Relation = (x^3+y^2)^5=y^2+x
+Style = 5
+Color = 0x0000CCFF
+Visible = 0
+LegendText = *Quasi-elliptic Curve (1):  (x^3+y^2)^5=y^2+x
+
+[Relation260]
+Relation = (x^3+2 y^2)^5=y^2+x
+Style = 5
+Color = clRed
+Visible = 0
+LegendText = *Quasi-elliptic Curve (2):  (x^3+2 y^2)^5=y^2+x
+
+[Relation261]
+Relation = abs((x^3-y^2)^5)-abs(x-y^2)=x^2
+Style = 5
+Color = 0x00FF6600
+Visible = 0
+LegendText = *Quasi-elliptic Curve (3):  abs((x^3-y^2)^5)-abs(x-y^2)=x^2
+
+[Relation262]
+Relation = abs((x^3-y^2)^5)=y^2+x
+Style = 5
+Color = clGreen
+Visible = 0
+LegendText = *Quasi-elliptic Curve (4):  abs((x^3-y^2)^5)=y^2+x
+
+[Relation263]
+Relation = x^4+x^2*y^2-2 y*x^2-x*y^2+y^2=0
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Ramphoid Cusp:  x^4+x^2 y^2-2 y x^2-x y^2+y^2=0
+
+[Func300]
+FuncType = 1
+x = 2 (-12 cos(t)/5+2 cos(6 t)/5)
+y = 2 (-12 sin(t)/5+2 sin(6 t)/5)
+Visible = 0
+LegendText = Ranunculoid:  x(t)=a (-6 r cos(t)/5+r cos(6 t)/5), y(t)=a (-6 r sin(t)/5+r sin(6 t)/5)   a=2, r=2
+From = -10
+To = 10
+Steps = 1000
+Color = clBlue
+
+[Relation264]
+Relation = y=e^(1/x)
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Reciprocal Exponential Function:  y=e^(1/x)
+
+[Func301]
+FuncType = 2
+r = sqrt(sec(2 t))
+Visible = 0
+LegendText = Rectangular Hyperbola (1):  r(t)=a sqrt(sec(2 t))   a=1
+From = 0
+To = 2pi
+Steps = 1000
+Color = clMedGray
+
+[Relation265]
+Relation = x^2-y^2=4
+Style = 5
+Color = clRed
+Visible = 0
+LegendText = Rectangular Hyperbola (2):  (x-a)^2-(y-b)^2=k^2   center (a,b)=(0,0), k=2
+
+[Relation266]
+Relation = (x+1)^2-(y-4)^2=pi^2
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Rectangular Hyperbola (3):  (x-a)^2-(y-b)^2=k^2   center (a,b)=(-1,4), k=pi
+
+[Relation267]
+Relation = x*y=e^2
+Style = 5
+Color = 0x0000CCFF
+Visible = 0
+LegendText = Rectangular Hyperbola (4):  x y=k^2   k=e
+
+[Func302]
+FuncType = 1
+x = cosh(t)/2
+y = sinh(t)/2
+Visible = 0
+LegendText = Rectangular Hyperbola (Right branch only) (5):  x(t)=a cosh(t), y(t)=a sinh(t)   a=1/2
+From = -10
+To = 10
+Steps = 1000
+Color = clBlack
+
+[Func303]
+FuncType = 1
+x = -cosh t
+y = -sinh t
+Visible = 0
+LegendText = Rectangular Hyperbola (Left branch only) (6):  x(t)=-a cosh t, y(t)=-a sinh t   a=1
+From = -10
+To = 10
+Steps = 1000
+Color = clTeal
+
+[Func304]
+FuncType = 1
+x = 6 sin(t) (1+cos t)
+y = 6 sin(t)^2
+Visible = 0
+LegendText = Regular Bifolium (1):  x(t)=a sin(t) (1+cos t), y(t)=a sin(t)^2   a=6
+From = -10
+To = 10
+Steps = 1000
+Color = 0x00339933
+
+[Func305]
+FuncType = 2
+r = 8 sin(t) sin(2 t)
+Visible = 0
+LegendText = Regular Bifolium (2):  r(t)=4 a sin(t) sin(2 t)   a=2
+From = 0
+To = 2pi
+Steps = 1000
+Color = 0x0000CCFF
+
+[Relation268]
+Relation = (x^2+y^2)^2=4*(-e)*x y^2
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Regular Bifolium (3):  (x^2+y^2)^2=4 a x y^2   a=-e
+
+[Relation269]
+Relation = y=6/(1+e^-x)^2
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Richards Curve:  y=a/(1+e^-x)^n   a=6, n=2
+
+[Relation270]
+Relation = y=zeta(x)
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Riemann Zeta Function:  y=zeta(x)
+
+[Func306]
+FuncType = 2
+r = 2 cot(t)^(1/2)
+Visible = 0
+LegendText = Right Serpentine (1):  r(t)=a cot(t)^(1/2)   a=2
+From = -10
+To = 10
+Steps = 1000
+Color = clGreen
+
+[Relation271]
+Relation = y*(x^2+y^2)=16 x
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Right Serpentine (2):  y (x^2+y^2)=a^2 x   a=4
+
+[Relation272]
+Relation = y^2=x^2*(4-x)/(4+x)
+Style = 5
+Color = clRed
+Visible = 0
+LegendText = Right Strophoid (1):  y^2=x^2 (a-x)/(a+x)   a=4
+
+[Relation273]
+Relation = x^2=y^2*(e-y)/(e+y)
+Style = 5
+Color = 0x00FFCC33
+Visible = 0
+LegendText = Right Strophoid (2):  x^2=y^2 (a-y)/(a+y)   a=e
+
+[Func307]
+FuncType = 2
+r = 2pi*cos(2 t)/cos(t)
+Visible = 0
+LegendText = Right Strophoid (3):  r(t)=a cos(2 t)/cos(t)   a=2pi
+From = 0
+To = 2pi
+Steps = 1000
+Color = clBlue
+
+[Func308]
+FuncType = 2
+r = -5 cos(2 t) sec(t)
+Visible = 0
+LegendText = Right Strophoid (4):  r(t)=a cos(2 t) sec(t)   a=-5
+From = 0
+To = 2pi
+Steps = 1000
+Color = 0x0000CCFF
+
+[Func309]
+FuncType = 1
+x = 2 (4-t^2)/(4+t^2)
+y = t*(t^2-4)/(4+t^2)
+Visible = 0
+LegendText = Right Strophoid (5):  x(t)=a (a^2-t^2)/(a^2+t^2), y(t)=t*(t^2-a^2)/(a^2+t^2)   a=2
+From = -20
+To = 20
+Steps = 1000
+Color = clGreen
+
+[Relation274]
+Relation = x*y^2=(x+y)^2
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Rolle's Curve (1):  x y^2=a (x+y)^2   a=1
+
+[Relation275]
+Relation = x*y^2=0.5 (x+y)^2
+Style = 5
+Color = 0x0000CCFF
+Visible = 0
+LegendText = Rolle's Curve (2):  x y^2=a (x+y)^2   a=1/2
+
+[Func310]
+FuncType = 2
+r = 6 cos(t/3)
+Visible = 0
+LegendText = Rose (1):  r(t)=a cos(n t)   a=6, n=1/3
+From = -2pi
+To = 2pi
+Steps = 1000
+Color = clBlue
+
+[Func311]
+FuncType = 2
+r = 6 cos(t/4)
+Visible = 0
+LegendText = Rose (2):  r(t)=a cos(n t)   a=6, n=1/4
+From = -6pi
+To = 6pi
+Steps = 1000
+Color = 0x0066CC33
+
+[Func312]
+FuncType = 2
+r = 6 cos(6 t)
+Visible = 0
+LegendText = Rose (3):  r(t)=a cos(n t)   a=6, n=6
+From = -2pi
+To = 2pi
+Steps = 1000
+Color = 0x00FFCC00
+
+[Func313]
+FuncType = 2
+r = 6 cos(3 t/2)
+Visible = 0
+LegendText = Rose (4):  r(t)=a cos(n t)   a=6, n=3/2
+From = -2pi
+To = 2pi
+Steps = 1000
+Color = clGray
+
+[Func314]
+FuncType = 2
+r = 6 cos(9 t/4)
+Visible = 0
+LegendText = Rose (5):  r(t)=a cos(n t)   a=6, n=9/4
+From = -6pi
+To = 6pi
+Steps = 1000
+Color = clBlack
+
+[Func315]
+FuncType = 2
+r = 6 sin(e*t)
+Visible = 0
+LegendText = Rose (6):  r(t)=a sin(n t)   a=6, n=e
+From = -20pi
+To = 20pi
+Steps = 1000
+Color = clGreen
+
+[Func316]
+FuncType = 2
+r = 6 sin(pi*t)
+Visible = 0
+LegendText = Rose (7):  r(t)=a sin(n t)   a=6, n=pi
+From = -20pi
+To = 20pi
+Steps = 1000
+Color = 0x0033CCFF
+
+[Func317]
+FuncType = 2
+r = 6 sin(t*(sqrt(2)))
+Visible = 0
+LegendText = Rose (8):  r(t)=a sin(n t)   a=6, n=sqrt(2)
+From = -40pi
+To = 40pi
+Steps = 1000
+Color = 0x006699FF
+
+[Relation276]
+Relation = y^2=abs(sinh(x))
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = *Sandglass Curve (1):  y^2=k abs(sinh(x))   k=1
+
+[Relation277]
+Relation = y^2=4 abs(sinh(x))
+Style = 5
+Color = clGreen
+Visible = 0
+LegendText = *Sandglass Curve (2):  y^2=k abs(sinh(x))   k=4
+
+[Func318]
+FuncType = 2
+r = 3 cos(2 t)-5 cos(t)
+Visible = 0
+LegendText = Scarabaeus (1):  r(t)=a cos(2 t)-b cos(t)   a=3, b=5
+From = 0
+To = 2pi
+Steps = 1000
+Color = clGreen
+
+[Func319]
+FuncType = 2
+r = 3 cos(2 t)-3 cos(t)
+Visible = 0
+LegendText = Scarabaeus (2):  r(t)=a cos(2 t)-b cos(t)   a=3, b=3
+From = 0
+To = 2pi
+Steps = 1000
+Color = 0x0000CCFF
+
+[Func320]
+FuncType = 2
+r = 3 cos(2 t)-2 cos(t)
+Visible = 0
+LegendText = Scarabaeus (3):  r(t)=a cos(2 t)-b cos(t)   a=3, b=2
+From = 0
+To = 2pi
+Steps = 1000
+Color = clBlue
+
+[Func321]
+FuncType = 2
+r = 4 sin(t) tan(2 t)
+Visible = 0
+LegendText = Scyphoid (1):  r(t)=2 a sin(t) tan(2 t)   a=2
+From = -2pi
+To = 2pi
+Steps = 1000
+Color = clBlue
+
+[Func322]
+FuncType = 1
+x = 4 sin(2 t) tan(2 t)
+y = 4 (tan(2 t)-sin(2 t))
+Visible = 0
+LegendText = Scyphoid (2):  x(t)=a sin(2 t) tan(2 t), y(t)=a (tan(2 t)-sin(2 t))   a=4
+From = -10
+To = 10
+Steps = 1000
+Color = 0x0000CCFF
+
+[Relation278]
+Relation = x^4-y^4+24 x*y^2=0
+Style = 5
+Color = 0x0099CC00
+Visible = 0
+LegendText = Scyphoid (3):  x^4-y^4-4 a x y^2=0   a=-6
+
+[Relation279]
+Relation = y=sec(x)
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Secant Function:  y=sec(x)
+
+[Func323]
+FuncType = 2
+r = 2 sin(pi+2 t)/sin(pi+(2-1) t)
+Visible = 0
+LegendText = Sectrix of Maclaurin (1):  r(t)=a sin(q+n t)/sin(q+(n-1) t)   a=2, q=pi, n=2 (Circle)
+From = 0
+To = 2pi
+Steps = 1000
+Color = clGreen
+
+[Func324]
+FuncType = 2
+r = 2 sin(pi+3 t)/sin(pi+2 t)
+Visible = 0
+LegendText = Sectrix of Maclaurin (2):  r(t)=a sin(q+n t)/sin(q+(n-1) t)   a=2, q=pi, n=3 (Trisectrix of Maclaurin)
+From = 0
+To = 2pi
+Steps = 1000
+Color = 0x0000CCFF
+
+[Func325]
+FuncType = 2
+r = 2 sin(pi+3 t/2)/sin(pi+((3/2)-1) t)
+Visible = 0
+LegendText = Sectrix of Maclaurin (3):  r(t)=a sin(q+n t)/sin(q+(n-1) t)   a=2, q=pi, n=3/2 (Limaçon Trisectrix)
+From = 0
+To = 2pi
+Steps = 1000
+Color = 0x00FFCC00
+
+[Func326]
+FuncType = 2
+r = 2 sin(pi-2 t)/sin(pi-3 t)
+Visible = 0
+LegendText = Sectrix of Maclaurin (4):  r(t)=a sin(q+n t)/sin(q+(n-1) t)   a=2, q=pi, n=-2 (Hyperbola)
+From = 0
+To = 2pi
+Steps = 1000
+Color = 0x0000CC00
+
+[Func327]
+FuncType = 2
+r = 2 sin((pi/2)+2 t)/sin((pi/2)+t)
+Visible = 0
+LegendText = Sectrix of Maclaurin (5):  r(t)=a sin(q+n t)/sin(q+(n-1) t)   a=2, q=pi/2, n=2 (Right Strophoid)
+From = 0
+To = 2pi
+Steps = 1000
+Color = clBlue
+
+[Func328]
+FuncType = 2
+r = 2 sin((pi/2)-t)/sin((pi/2)-2 t)
+Visible = 0
+LegendText = Sectrix of Maclaurin (6):  r(t)=a sin(q+n t)/sin(q+(n-1) t)   a=2, q=pi/2, n=-1 (Rectangular Hyperbola)
+From = 0
+To = 2pi
+Steps = 1000
+Color = 0x003366FF
+
+[Func329]
+FuncType = 1
+x = t^2
+y = t^3
+Visible = 0
+LegendText = Semicubical Parabola (1):  x(t)=a t^2, y(t)=a t^3   a=1
+From = -10
+To = 10
+Steps = 1000
+Color = clGreen
+
+[Func330]
+FuncType = 1
+x = t^3
+y = t^2
+Visible = 0
+LegendText = Semicubical Parabola (2):  x(t)=a t^3, y(t)=a t^2   a=1
+From = -10
+To = 10
+Steps = 1000
+Color = 0x0000CCFF
+
+[Func331]
+FuncType = 2
+r = -2 (sin(t)^2/cos(t)^3)
+Visible = 0
+LegendText = Semicubical Parabola (3):  r(t)=a (sin(t)^2/cos(t)^3)   a=-2
+From = 0
+To = 2pi
+Steps = 1000
+Color = clBlue
+
+[Func332]
+FuncType = 2
+r = pi*sec(t) tan(t)^2
+Visible = 0
+LegendText = Semicubical Parabola (4):  r(t)=a sec(t) tan(t)^2   a=pi
+From = 0
+To = 2pi
+Steps = 1000
+Color = clMedGray
+
+[Relation280]
+Relation = 4 y^2=x^3
+Style = 5
+Color = clBlack
+Visible = 0
+LegendText = Semicubical Parabola (5):  a y^2=x^3   a=4
+
+[Relation281]
+Relation = -4 x^2=y^3
+Style = 5
+Color = 0x00FFCC00
+Visible = 0
+LegendText = Semicubical Parabola (6):  a x^2=y^3   a=-4
+
+[Func333]
+FuncType = 1
+x = cot(t)
+y = 2 sin(t) cos(t)
+Visible = 0
+LegendText = Serpentine Curve (1):  x(t)=a cot(t), y(t)=b sin(t) cos(t)   a=1, b=2
+From = -10
+To = 10
+Steps = 1000
+Color = clGreen
+
+[Func334]
+FuncType = 1
+x = tan(t/2)
+y = (-pi/2) sin(t)
+Visible = 0
+LegendText = Serpentine Curve (2):  x(t)=a tan(t/2), y(t)=(b/2) sin(t)   a=1, b=-pi
+From = -10
+To = 10
+Steps = 1000
+Color = 0x0000CCFF
+
+[Relation282]
+Relation = y*(x^2+4)=12 x
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Serpentine Curve (3):  y (x^2+a^2)=b x   a=2, b=12
+
+[Func335]
+FuncType = 1
+x = 2 (cos(t)^4+t/2)
+y = 2 (cos(t)^4+2 abs(cos(t)))
+Visible = 0
+LegendText = *Saw Function (1):  x(t)=a (sin(t)^4+t/2), y(t)=b (cos(t)^4+2 abs(cos(t)))   a=b=2
+From = -20
+To = 20
+Steps = 1000
+Color = clBlue
+
+[Func336]
+FuncType = 1
+x = -(sin(t)^2+t/2)
+y = -(cos(t)^2+abs(cos(t)))
+Visible = 0
+LegendText = *Saw Function (2):  x(t)=a (sin(t)^2+t/2), y(t)=b (cos(t)^2+abs(cos(t)))   a=b=-1
+From = -40
+To = 40
+Steps = 1000
+Color = clGreen
+
+[Relation283]
+Relation = y=1/(1+e^(-x))
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Sigmoid Function (1):  y=1/(1+e^(-a x))   a=1
+
+[Relation284]
+Relation = y=1/(1+e^(-4 x))
+Style = 5
+Color = 0x0000CCFF
+Visible = 0
+LegendText = Sigmoid Function (2):  y=1/(1+e^(-a x))   a=4
+
+[Relation285]
+Relation = y=sin(x)
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Sine Function:  y=sin(x)
+
+[Func337]
+FuncType = 2
+r = 6 cos(t)^3
+Visible = 0
+LegendText = Single Folium (1):  r(t)=a cos(t)^3   a=6
+From = -10
+To = 10
+Steps = 1000
+Color = clGreen
+
+[Relation286]
+Relation = (x^2+y^2)^2=-8 x^3
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Single Folium (2):  (x^2+y^2)^2=a x^3   a=-8
+
+[Func338]
+FuncType = 2
+r = root(-2,(4^-2) cos(-2 t))
+Visible = 0
+LegendText = Sinusoidal Spiral (1):  r(t)=root(n,a^n cos(n t))   a=4, n=-2 (Rectangular Hyperbola)
+From = 0
+To = 2pi
+Steps = 1000
+Color = clRed
+
+[Func339]
+FuncType = 2
+r = root(-1,(4^-1) cos(-t))
+Visible = 0
+LegendText = Sinusoidal Spiral (2):  r(t)=root(n,a^n cos(n t))   a=4, n=-1 (Line)
+From = 0
+To = 2pi
+Steps = 1000
+Color = clBlack
+
+[Func340]
+FuncType = 2
+r = root(-1/2,(4^-0.5) cos(-t/2))
+Visible = 0
+LegendText = Sinusoidal Spiral (3):  r(t)=root(n,a^n cos(n t))   a=4, n=-1/2 (Parabola)
+From = 0
+To = 2pi
+Steps = 1000
+Color = clBlue
+
+[Func341]
+FuncType = 2
+r = root(-1/3,(0.5^(-1/3)) cos(-t/3))
+Visible = 0
+LegendText = Sinusoidal Spiral (4):  r(t)=root(n,a^n cos(n t))   a=1/2, n=-1/3 (Tschirnhausen Cubic)
+From = -2pi
+To = 2pi
+Steps = 1000
+Color = clGreen
+
+[Func342]
+FuncType = 2
+r = root(1/3,(4^(1/3)) cos(t/3))
+Visible = 0
+LegendText = Sinusoidal Spiral (5):  r(t)=root(n,a^n cos(n t))   a=4, n=1/3 (Cayley's Sextic)
+From = -2pi
+To = 2pi
+Steps = 1000
+Color = clSkyBlue
+
+[Func343]
+FuncType = 2
+r = root(1/2,(4^0.5) cos(t/2))
+Visible = 0
+LegendText = Sinusoidal Spiral (6):  r(t)=root(n,a^n cos(n t))   a=4, n=1/2 (Cardioid)
+From = 0
+To = 2pi
+Steps = 1000
+Color = 0x000099FF
+
+[Func344]
+FuncType = 2
+r = root(1,4 cos(t))
+Visible = 0
+LegendText = Sinusoidal Spiral (7):  r(t)=root(n,a^n cos(n t))   a=4, n=1 (Circle)
+From = 0
+To = 2pi
+Steps = 1000
+Color = 0x0066FF99
+
+[Func345]
+FuncType = 2
+r = root(2,16 cos(2 t))
+Visible = 0
+LegendText = Sinusoidal Spiral (8):  r(t)=root(n,a^n cos(n t))   a=4, n=2 (Lemniscate of Bernoulli)
+From = 0
+To = 4pi
+Steps = 1000
+Color = 0x0099CC66
+
+[Func346]
+FuncType = 1
+x = 6 sin(t)^3+2 cos(t)
+y = 6 cos(t)^3+2 sin(t)
+Visible = 0
+LegendText = *Slanted Talbot's Curve (1):  x(t)=a sin(t)^3+b cos(t), y(t)=c cos(t)^3+d sin(t)   a=c=6, b=d=2
+From = -10
+To = 10
+Steps = 1000
+Color = clBlue
+
+[Func347]
+FuncType = 1
+x = 4 sin(t)^3+2 cos(t)
+y = 4 cos(t)^3+2 sin(t)
+Visible = 0
+LegendText = *Slanted Talbot's Curve (2):  x(t)=a sin(t)^3+b cos(t), y(t)=c cos(t)^3+d sin(t)   a=c=4, b=d=2
+From = -10
+To = 10
+Steps = 1000
+Color = 0x0000CCFF
+
+[Func348]
+FuncType = 1
+x = 6 sin(t)^3+4 cos(t)
+y = 6 cos(t)^3+4 sin(t)
+Visible = 0
+LegendText = *Slanted Talbot's Curve (3):  x(t)=a sin(t)^3+b cos(t), y(t)=c cos(t)^3+d sin(t)   a=c=6, b=d=4
+From = -10
+To = 10
+Steps = 1000
+Color = 0x0066CC33
+
+[Func349]
+FuncType = 1
+x = 6 sin(t)^3+6 cos(t)
+y = 6 cos(t)^3+6 sin(t)
+Visible = 0
+LegendText = *Slanted Talbot's Curve (4):  x(t)=a sin(t)^3+b cos(t), y(t)=c cos(t)^3+d sin(t)   a=b=c=d=6
+From = -10
+To = 10
+Steps = 1000
+Color = clRed
+
+[Func350]
+FuncType = 2
+r = 1/cos(t)+cos(t)
+Visible = 0
+LegendText = Sluze's Cubic (1):  r(t)=a/cos(t)+(b^2/a) cos(t)   a=1, b=1
+From = 0
+To = 2pi
+Steps = 1000
+Color = clGreen
+
+[Func351]
+FuncType = 2
+r = 1/cos(t)+(9/4) cos(t)
+Visible = 0
+LegendText = Sluze's Cubic (2):  r(t)=a/cos(t)+(b^2/a) cos(t)   a=1, b=3/2
+From = 0
+To = 2pi
+Steps = 1000
+Color = 0x0000CCFF
+
+[Func352]
+FuncType = 2
+r = 1/cos(t)+(4) cos(t)
+Visible = 0
+LegendText = Sluze's Cubic (3):  r(t)=a/cos(t)+(b^2/a) cos(t)   a=1, b=2
+From = 0
+To = 2pi
+Steps = 1000
+Color = clBlue
+
+[Relation287]
+Relation = (x-1) (x^2+y^2)=(25/4) x^2
+Style = 5
+Color = 0x0099CC33
+Visible = 0
+LegendText = Sluze's Cubic (4):  a (x-a) (x^2+y^2)=b^2 x^2   a=1, b=5/2
+
+[Func353]
+FuncType = 1
+x = cos(t)^2+6 cos(t/2)
+y = sin(t)
+Visible = 0
+LegendText = *Spearhead Function:  x(t)=a (cos(t)^2+6 cos(t/2)), y(t)=b sin(t)   a=b=1
+From = -10
+To = 10
+Steps = 1000
+Color = clBlue
+
+[Func354]
+FuncType = 2
+r = min(tanh(10 t)+tan(3 t)^(1/4),4)
+Visible = 0
+LegendText = *Spiky Flower (1):  r(t)=a min(tanh(10 t)+tan(b t)^(1/4),4)   a=1, b=3 (0,2pi)
+From = 0
+To = 2pi
+Steps = 1000
+Color = clBlue
+
+[Func355]
+FuncType = 2
+r = 1.4 min(tanh(10 t)+tan(4 t)^(1/4),4)
+Visible = 0
+LegendText = *Spiky Flower (2):  r(t)=a min(tanh(10 t)+tan(b t)^(1/4),4)   a=14/10, b=4 (0,2pi)
+From = 0
+To = 2pi
+Steps = 6000
+Color = 0x0033CC33
+
+[Func356]
+FuncType = 2
+r = 1.6 min(tanh(10 t)+tan(3 t)^(1/4),4)
+Visible = 0
+LegendText = *Spiky Flower (3):  r(t)=a min(tanh(10 t)+tan(b t)^(1/4),4)   a=16/10, b=3 (-2pi,2pi)
+From = -2pi
+To = 2pi
+Steps = 1000
+Color = clRed
+
+[Func357]
+FuncType = 2
+r = 1.8 min(tanh(10 t)+tan(4 t)^(1/4),4)
+Visible = 0
+LegendText = *Spiky Flower (4):  r(t)=a min(tanh(10 t)+tan(b t)^(1/4),4)   a=18/10, b=4 (-2pi,2pi)
+From = -2pi
+To = 2pi
+Steps = 6000
+Color = 0x0000CCFF
+
+[Func358]
+FuncType = 1
+x = cos(t)+t
+y = sin(t)^3
+Visible = 0
+LegendText = *Spiny Sinusoidal Curve (1):  x(t)=a (cos(t)+t), y(t)=b sin(t)^3   a=b=1
+From = -20
+To = 20
+Steps = 1000
+Color = clBlue
+
+[Func359]
+FuncType = 1
+x = cos(t)+t
+y = sin(t)^3+abs(sin(t))
+Visible = 0
+LegendText = *Spiny Sinusoidal Curve (2):  x(t)=a (cos(t)+t), y(t)=b (sin(t)^3+abs(sin(t)))   a=b=1
+From = -20
+To = 20
+Steps = 1000
+Color = 0x0000CCFF
+
+[Func360]
+FuncType = 1
+x = sin(t)+t
+y = 2 cos(t)^2
+Visible = 0
+LegendText = *Spiny Sinusoidal Curve (3):  x(t)=a (sin(t)+t), y(t)=b cos(t)^2   a=1, b=2
+From = -20
+To = 20
+Steps = 1000
+Color = clRed
+
+[Func361]
+FuncType = 1
+x = sin(t)+t
+y = 4 cos(t)^3
+Visible = 0
+LegendText = *Spiny Sinusoidal Curve (4):  x(t)=a (sin(t)+t), y(t)=b cos(t)^3   a=1, b=4
+From = -20
+To = 20
+Steps = 1000
+Color = 0x00FFCC33
+
+[Func362]
+FuncType = 2
+r = 0.4 t
+Visible = 0
+LegendText = Spiral of Archimedes:  r(t)=a t   a=4/10
+From = 0
+To = 40pi
+Steps = 1000
+Color = clBlue
+
+[Func363]
+FuncType = 2
+r = pi*t/6
+Visible = 0
+LegendText = Spiral of Archimedes:  r(t)=a t   a=pi/6
+From = 0
+To = 40pi
+Steps = 1000
+Color = 0x0000CCFF
+
+[Relation288]
+Relation = (25-9+16+x^2+y^2)^2=4 25 (x^2+16)
+Style = 5
+Color = 0x00FFCC00
+Visible = 0
+LegendText = Spiric Section (1):  (r^2-a^2+c^2+x^2+y^2)^2=4 r^2 (x^2+c^2)   r=5, a=3, c=4
+
+[Relation289]
+Relation = (25-4+16+x^2+y^2)^2=4 25 (x^2+16)
+Style = 5
+Color = clRed
+Visible = 0
+LegendText = Spiric Section (2):  (r^2-a^2+c^2+x^2+y^2)^2=4 r^2 (x^2+c^2)   r=5, a=2, c=4
+
+[Relation290]
+Relation = (25-1+16+x^2+y^2)^2=4 25 (x^2+16)
+Style = 5
+Color = 0x0033CCFF
+Visible = 0
+LegendText = Spiric Section (3):  (r^2-a^2+c^2+x^2+y^2)^2=4 r^2 (x^2+c^2)   r=5, a=1, c=4
+
+[Relation291]
+Relation = (25-(0.5)^2+16+x^2+y^2)^2=4 25 (x^2+16)
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Spiric Section (4):  (r^2-a^2+c^2+x^2+y^2)^2=4 r^2 (x^2+c^2)   r=5, a=1/2, c=4
+
+[Relation292]
+Relation = (x^2+y^2)^2-16 x^2-8 y^2+1=0
+Style = 5
+Color = clGreen
+Visible = 0
+LegendText = Spiric Section (5):  (x^2+y^2)^2-2 a x^2-2 b y^2+c=0   a=8, b=4, c=1
+
+[Relation293]
+Relation = (x^2+y^2)^2-8 x^2-4 y^2+3=0
+Style = 5
+Color = 0x00868686
+Visible = 0
+LegendText = Spiric Section (6):  (x^2+y^2)^2-2 a x^2-2 b y^2+c=0   a=4, b=2, c=3
+
+[Relation294]
+Relation = (x^2+y^2)^2-8 x^2-4 y^2+6=0
+Style = 5
+Color = clMaroon
+Visible = 0
+LegendText = Spiric Section (7):  (x^2+y^2)^2-2 a x^2-2 b y^2+c=0   a=4, b=2, c=6
+
+[Relation295]
+Relation = (x^2+y^2)^2-8 x^2-4 y^2+10=0
+Style = 5
+Color = 0x0000FFCC
+Visible = 0
+LegendText = Spiric Section (8):  (x^2+y^2)^2-2 a x^2-2 b y^2+c=0   a=4, b=2, c=1
+
+[Relation296]
+Relation = y=sqr(x)
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Square Function:  y=sqr(x)
+
+[Relation297]
+Relation = y=sqrt(x)
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Square Root Function:  y=sqrt(x)
+
+[Func364]
+FuncType = 2
+r = 2 (1+sin(5 t)+cos(3 t)^2)
+Visible = 0
+LegendText = *Stylized Human Figure:  r(t)=a (1+sin(5 t)+cos(3 t)^2)   a=2
+From = 0
+To = 2pi
+Steps = 1000
+Color = clBlue
+
+[Relation298]
+Relation = (x^2-1)^2=y^2*(y-1) (y-2) (y+5)
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Stirrup Curve:  (x^2-1)^2=y^2 (y-1) (y-2) (y+5)
+
+[Func365]
+FuncType = 0
+y = x+4
+Visible = 0
+LegendText = Straight Line (1):  f(x)=m x+b   m=1, b=4
+Color = clGreen
+
+[Func366]
+FuncType = 1
+x = t+2
+y = t-4
+Visible = 0
+LegendText = Straight Line (2):  x(t)=c t+a, y(t)=d t+b   (a,b)=(2,-4), c=1, d=1
+From = -10
+To = 10
+Steps = 1000
+Color = clBlue
+
+[Relation299]
+Relation = x/-2+y/-4=1
+Style = 5
+Color = 0x0000CCFF
+Visible = 0
+LegendText = Straight Line (3):  x/a+y/b=1   (a,b)=(-2,-4)
+
+[Func367]
+FuncType = 2
+r = (3+abs(cos(8 t)))
+Visible = 0
+LegendText = Sunflower Curve (1):  r(t)=a (3+abs(cos(n t)))   a=1, n=8
+From = -2pi
+To = 2pi
+Steps = 1000
+Color = clBlue
+
+[Func368]
+FuncType = 2
+r = 3 (3+abs(cos(6 t)))/4
+Visible = 0
+LegendText = Sunflower Curve (2):  r(t)=a (3+abs(cos(n t)))   a=3/4, n=6
+From = -2pi
+To = 2pi
+Steps = 1000
+Color = 0x0000CCFF
+
+[Func369]
+FuncType = 2
+r = 0.55 (3+abs(cos(4 t)))
+Visible = 0
+LegendText = Sunflower Curve (3):  r(t)=a (3+abs(cos(n t)))   a=0.55, n=4
+From = -2pi
+To = 2pi
+Steps = 1000
+Color = clRed
+
+[Func370]
+FuncType = 2
+r = 0.45 (3+abs(cos(2 t)))
+Visible = 0
+LegendText = Sunflower Curve (4):  r(t)=a (3+abs(cos(n t)))   a=0.45, n=2
+From = -2pi
+To = 2pi
+Steps = 1000
+Color = 0x0066CC66
+
+[Relation300]
+Relation = (abs(x/4))^(2/3)+(abs(y/4))^(2/3)=1
+Style = 5
+Color = clGreen
+Visible = 0
+LegendText = Superellipse (1):  (abs(x/a))^n+(abs(y/b))^n=1   a=b=4, n=2/3 (Hypoellipse, n<2)
+
+[Relation301]
+Relation = abs(x/4)+abs(y/4)=1
+Style = 5
+Color = 0x000099FF
+Visible = 0
+LegendText = Superellipse (2):  (abs(x/a))^n+(abs(y/b))^n=1   a=b=4, n=1 (Hypoellipse, n<2)
+
+[Relation302]
+Relation = (abs(x/4))^(3/2)+(abs(y/4))^(3/2)=1
+Style = 5
+Color = clRed
+Visible = 0
+LegendText = Superellipse (3):  (abs(x/a))^n+(abs(y/b))^n=1   a=b=4, n=3/2 (Hypoellipse, n<2)
+
+[Relation303]
+Relation = abs(x/4)^2+abs(y/4)^2=1
+Style = 5
+Color = 0x00868686
+Visible = 0
+LegendText = Superellipse (4):  (abs(x/a))^n+(abs(y/b))^n=1   a=b=4, n=2 (Circle, n=2)
+
+[Relation304]
+Relation = (abs(x/4))^(5/2)+(abs(y/4))^(5/2)=1
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Superellipse (5):  (abs(x/a))^n+(abs(y/b))^n=1   a=b=4, n=5/2 (Hyperellipse, n>2)
+
+[Relation305]
+Relation = (abs(x/4))^4+(abs(y/4))^4=1
+Style = 5
+Color = 0x0066CC66
+Visible = 0
+LegendText = Superellipse (6):  (abs(x/a))^n+(abs(y/b))^n=1   a=b=4, n=4 (Hyperellipse, n>2)
+
+[Func371]
+FuncType = 1
+x = 6 cos(t)^(2/6)
+y = 4 sin(t)^(2/6)
+Visible = 0
+LegendText = Superellipse (7):  x(t)=a cos(t)^(2/n), y(t)=b sin(t)^(2/n)   a=6, b=4, n=6 (Hyperellipse, n>2)
+From = -10
+To = 10
+Steps = 1000
+Color = 0x00FFCC00
+
+[Func372]
+FuncType = 2
+r = min(10 sqrt(tan(2 t)),4)
+Visible = 0
+LegendText = Swastika Curve (1):  r(t)=min(a sqrt(tan(2 t)),b)   a=10, b=4 (Left-handed Swastika)
+From = 0
+To = 4pi
+Steps = 10000
+Color = 0x0066CC33
+
+[Func373]
+FuncType = 2
+r = min(10 sqrt(tan(-2 t)),6)
+Visible = 0
+LegendText = Swastika Curve (2):  r(t)=min(a sqrt(tan(-2 t)),b)   a=10, b=6 (Right-handed Swastika)
+From = 0
+To = 4pi
+Steps = 10000
+Color = clBlue
+
+[Func374]
+FuncType = 2
+r = 4 sqrt(tan(-2 t))
+Visible = 0
+LegendText = Swastika Curve (3):  r(t)=a sqrt(tan(-2 t))   a=4 (Right-handed Swastika)
+From = 0
+To = 4pi
+Steps = 10000
+Color = 0x0000CCFF
+
+[Relation306]
+Relation = y^4-x^4=16 x*y
+Style = 5
+Color = 0x00FFCC00
+Visible = 0
+LegendText = Swastika Curve (4):  y^4-x^4=a^2 x y   a=4 (Right-handed Swastika)
+
+[Relation307]
+Relation = x+(4^2-y^2)^(1/2)=2 ln((4+(4^2-y^2)^(1/2))/y)
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Syntactrix (1):  x+(b^2-y^2)^(1/2)=a ln((b+(b^2-y^2)^(1/2))/y)   a=2, b=4
+
+[Relation308]
+Relation = x+(2^2-y^2)^(1/2)=4 ln((2+(2^2-y^2)^(1/2))/y)
+Style = 5
+Color = clRed
+Visible = 0
+LegendText = Syntactrix (2):  x+(b^2-y^2)^(1/2)=a ln((b+(b^2-y^2)^(1/2))/y)   a=4, b=2
+
+[Relation309]
+Relation = x^2+y^2=e^(2 x-2)
+Style = 5
+Color = 0x0066CC66
+Visible = 0
+LegendText = Szegö Curve:  x^2+y^2=e^(2 x-2)
+
+[Func375]
+FuncType = 1
+x = 8 (1+1.2 sin(t)^2) cos(t)
+y = 8 (1-1.2-1.2 cos(t)^2) sin(t)
+Visible = 0
+LegendText = Talbot's Curve (1):  x(t)=a (1+b sin(t)^2) cos(t), y(t)=a (1-b-b cos(t)^2) sin(t)   a=8, b=12/10
+From = -10
+To = 10
+Steps = 1000
+Color = clGreen
+
+[Func376]
+FuncType = 1
+x = 7 (1+sin(t)^2) cos(t)
+y = 7 (-1 cos(t)^2) sin(t)
+Visible = 0
+LegendText = Talbot's Curve (2):  x(t)=a (1+b sin(t)^2) cos(t), y(t)=a (1-b-b cos(t)^2) sin(t)   a=7, b=1
+From = -10
+To = 10
+Steps = 1000
+Color = 0x0033CCCC
+
+[Func377]
+FuncType = 1
+x = 6 (1+0.9 sin(t)^2) cos(t)
+y = 6 (1-0.9-0.9 cos(t)^2) sin(t)
+Visible = 0
+LegendText = Talbot's Curve (3):  x(t)=a (1+b sin(t)^2) cos(t), y(t)=a (1-b-b cos(t)^2) sin(t)   a=6, b=9/10
+From = -10
+To = 10
+Steps = 1000
+Color = clBlue
+
+[Func378]
+FuncType = 1
+x = 5 (1+0.5 sin(t)^2) cos(t)
+y = 5 (1-0.5-0.5 cos(t)^2) sin(t)
+Visible = 0
+LegendText = Talbot's Curve (4):  x(t)=a (1+b sin(t)^2) cos(t), y(t)=a (1-b-b cos(t)^2) sin(t)   a=5, b=1/2
+From = -10
+To = 10
+Steps = 1000
+Color = 0x00FFCC00
+
+[Relation310]
+Relation = y=tan(x)
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Tangent Function:  y=tan(x)
+
+[Func379]
+FuncType = 1
+x = 8 cos(25 t/3) sin(18 t)^2
+y = 8 sin(25 t/3) cos(18 t)^2
+Visible = 0
+LegendText = *Tangled Astroid (1):  x(t)=a cos(25 t/3) sin(18 t)^2, y(t)=b sin(25 t/3) cos(18 t)^2   a=b=8
+From = -10
+To = 10
+Steps = 10000
+Color = clBlue
+
+[Func380]
+FuncType = 1
+x = 8 cos(25 t/3) sin(18 t)^2
+y = 6 sin(25 t/3) cos(18 t)^2
+Visible = 0
+LegendText = *Tangled Astroid (2):  x(t)=a cos(25 t/3) sin(18 t)^2, y(t)=b sin(25 t/3) cos(18 t)^2   a=8, b=6
+From = -10
+To = 10
+Steps = 10000
+Color = 0x0066CC33
+
+[Func381]
+FuncType = 1
+x = 6 cos(t)
+y = 6 sin(t) sin(t/2)^1
+Visible = 0
+LegendText = Teardrop Curve (1):  x(t)=a cos(t), y(t)=a sin(t) sin(t/2)^n   a=6, n=1
+From = -10
+To = 10
+Steps = 1000
+Color = clGreen
+
+[Func382]
+FuncType = 1
+x = 6 cos(t)
+y = 6 sin(t) sin(t/2)^2
+Visible = 0
+LegendText = Teardrop Curve (2):  x(t)=a cos(t), y(t)=a sin(t) sin(t/2)^n   a=6, n=2
+From = -10
+To = 10
+Steps = 1000
+Color = 0x0000CCFF
+
+[Func383]
+FuncType = 1
+x = 6 cos(t)
+y = 6 sin(t) sin(t/2)^4
+Visible = 0
+LegendText = Teardrop Curve (3):  x(t)=a cos(t), y(t)=a sin(t) sin(t/2)^n   a=6, n=4
+From = -10
+To = 10
+Steps = 1000
+Color = 0x00FF6600
+
+[Func384]
+FuncType = 2
+r = 8 sin(3 t)^3+2 cos(3 t)
+Visible = 0
+LegendText = *Three-blade Propeller:  r(t)=a sin(n t)^3+b cos(n t)   a=8, b=2, n=3
+From = 0
+To = 2pi
+Steps = 1000
+Color = clBlue
+
+[Func385]
+FuncType = 2
+r = 6 ((abs(sin(6 t/8)))^(-6)+(abs(cos(6 t/8))))^(-6)
+Visible = 0
+LegendText = *Three-leaf Flower (1):  r(t)=a ((abs(sin(6 t/8)))^(-6)+(abs(cos(6 t/8))))^(-6)   a=6 (Acicular Leafs)
+From = -2pi
+To = 2pi
+Steps = 1000
+Color = clRed
+
+[Func386]
+FuncType = 2
+r = 6 ((abs(sin(6 t/8)))^(-2)+(abs(cos(6 t/8))))^(-2)
+Visible = 0
+LegendText = *Three-leaf Flower (2):  r(t)=a ((abs(sin(6 t/8)))^(-2)+(abs(cos(6 t/8))))^(-2)   a=6 (Ovate Leafs)
+From = -2pi
+To = 2pi
+Steps = 1000
+Color = 0x0000CCFF
+
+[Func387]
+FuncType = 2
+r = 6 ((abs(sin(6 t/8)))^(-1)+(abs(cos(6 t/8))))^(-1)
+Visible = 0
+LegendText = *Three-leaf Flower (3):  r(t)=a ((abs(sin(6 t/8)))^(-1)+(abs(cos(6 t/8))))^(-1)   a=6 (Cordate Leafs)
+From = -2pi
+To = 2pi
+Steps = 1000
+Color = clBlue
+
+[Func388]
+FuncType = 1
+x = 6 (t-tanh t)
+y = 6 sech t
+Visible = 0
+LegendText = Tractrix (1): x(t)=a (t-tanh(t)), y(t)=a sech(t)   a=6
+From = -10
+To = 10
+Steps = 1000
+Color = clBlue
+
+[Func389]
+FuncType = 1
+x = -e/cosh(t)
+y = -e*(t-tanh(t))
+Visible = 0
+LegendText = Tractrix (2): x(t)=a/cosh(t), y(t)=a (t-tanh(t))   a=-e
+From = -10
+To = 10
+Steps = 1000
+Color = 0x0000CCFF
+
+[Func390]
+FuncType = 2
+r = (-12 sin(t)^2+6) cos(t)
+Visible = 0
+LegendText = Trefoil Curve (1):  r(t)=(4 a sin(t)^2-b) cos(t)   a=-3, b=-6 (b/a=2)
+From = 0
+To = 2pi
+Steps = 1000
+Color = clBlue
+
+[Relation311]
+Relation = (x^2+y^2) (x*(x+8)+y^2)=16 x y^2
+Style = 5
+Color = 0x0033CCFF
+Visible = 0
+LegendText = Trefoil Curve (2):  (x^2+y^2) (x (x+b)+y^2)=4 a x y^2   a=4, b=8 (b/a=2)
+
+[Relation312]
+Relation = x*y=(1+x) (1-x) (2-x)
+Style = 5
+Color = 0x0000CCFF
+Visible = 0
+LegendText = Trident of Descartes (1):  a x y=(a+x) (a-x) (2 a-x)   a=1
+
+[Relation313]
+Relation = 2 x*y=(2+x) (2-x) (4-x)
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Trident of Descartes (2):  a x y=(a+x) (a-x) (2 a-x)   a=2
+
+[Relation314]
+Relation = 4 x*y=(4+x) (4-x) (8-x)
+Style = 5
+Color = clRed
+Visible = 0
+LegendText = Trident of Descartes (3):  a x y=(a+x) (a-x) (2 a-x)   a=4
+
+[Relation315]
+Relation = x^3-x^2+x+0.25=x*y
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Trident of Newton (1):  a x^3+b x^2+c x+d=x y   a=1, b=-1, c=1, d=1/4
+
+[Relation316]
+Relation = x^3-x^2-x-1=x*y
+Style = 5
+Color = 0x0000CCFF
+Visible = 0
+LegendText = Trident of Newton (2):  a x^3+b x^2+c x+d=x y   a=1, b=-1, c=-1, d=-1
+
+[Func391]
+FuncType = 2
+r = 8 cos(3 t)
+Visible = 0
+LegendText = Trifolium (1):  r(t)=a cos(3 t)   a=8
+From = 0
+To = 2pi
+Steps = 1000
+Color = 0x0000CCFF
+
+[Func392]
+FuncType = 2
+r = 6 cos(t) (4 sin(t)^2-1)
+Visible = 0
+LegendText = Trifolium (2):  r(t)=a cos(t) (4 sin(t)^2-1)   a=6
+From = 0
+To = 2pi
+Steps = 1000
+Color = 0x00FF9933
+
+[Relation317]
+Relation = (x^2+y^2) (x^2+y*(y-4))=-16 y x^2
+Style = 5
+Color = clRed
+Visible = 0
+LegendText = Trifolium (3):  (x^2+y^2) (x^2+y (y+a))=4 a y x^2   a=-4
+
+[Func393]
+FuncType = 2
+r = 1/cos(t/2)
+Visible = 0
+LegendText = Trisectrix of Delanges (1):  r(t)=a/cos(t/2)   a=1
+From = -2pi
+To = 2pi
+Steps = 1000
+Color = clBlue
+
+[Relation318]
+Relation = (x^2+y^2-8)^2=x^2*(x^2+y^2)
+Style = 5
+Color = 0x0000CCFF
+Visible = 0
+LegendText = Trisectrix of Delanges (2):  (x^2+y^2-2 a^2)^2=x^2 (x^2+y^2)   a=2
+
+[Func394]
+FuncType = 2
+r = -4/cos(3 t)
+Visible = 0
+LegendText = Trisectrix of Longchamps (1):  r(t)=a/cos(3 t)   a=-4
+From = -2pi
+To = 2pi
+Steps = 1000
+Color = clBlue
+
+[Relation319]
+Relation = x*(x^2-3 y^2)=2 (x^2+y^2)
+Style = 5
+Color = 0x0000CCFF
+Visible = 0
+LegendText = Trisectrix of Longchamps (2):  x (x^2-3 y^2)=a (x^2+y^2)   a=2
+
+[Func395]
+FuncType = 2
+r = sec(t)-4 cos t
+Visible = 0
+LegendText = Trisectrix of Maclaurin (1):  r(t)=a (sec(t)-4 cos t)   a=1
+From = 0
+To = 2pi
+Steps = 1000
+Color = clRed
+
+[Func396]
+FuncType = 2
+r = -2 (1+2 cos(2 t)) sec(t)
+Visible = 0
+LegendText = Trisectrix of Maclaurin (2):  r(t)=-a (1+2 cos(2 t)) sec(t)   a=2
+From = 0
+To = 2pi
+Steps = 1000
+Color = 0x0000CCFF
+
+[Func397]
+FuncType = 1
+x = -e*(t^2-3)/(t^2+1)
+y = -e*t*(t^2-3)/(t^2+1)
+Visible = 0
+LegendText = Trisectrix of Maclaurin (3):  x(t)=a (t^2-3)/(t^2+1), y(t)=a t (t^2-3)/(t^2+1)   a=-e
+From = -10
+To = 10
+Steps = 1000
+Color = clBlue
+
+[Relation320]
+Relation = y^2=x^2*(x-3)/(-1-x)
+Style = 5
+Color = 0x0033CCFF
+Visible = 0
+LegendText = Trisectrix of Maclaurin (4):  y^2=x^2 (x+3 a)/(a-x)   a=-1
+
+[Func398]
+FuncType = 1
+x = t-2 sin(t)
+y = 1-2 cos(t)
+Visible = 0
+LegendText = Trochoid (1):  x(t)=r t-d sin(t), y(t)=r-d cos(t)   r=1, d=2 (Prolate Cycloid: r<d)
+From = -20
+To = 20
+Steps = 1000
+Color = clRed
+
+[Func399]
+FuncType = 1
+x = 2 t-0.4 sin(t)
+y = 2-0.4 cos(t)
+Visible = 0
+LegendText = Trochoid (2):  x(t)=r t-d sin(t), y(t)=r-d cos(t)   r=2, d=4/10 (Curtate Cycloid: r>d)
+From = -20
+To = 20
+Steps = 1000
+Color = clBlue
+
+[Func400]
+FuncType = 1
+x = 0.8 t-0.8 sin(t)
+y = 0.8-0.8 cos(t)
+Visible = 0
+LegendText = Trochoid (3):  x(t)=r t-d sin(t), y(t)=r-d cos(t)   r=d=8/10 (Cycloid: r=d)
+From = -20
+To = 20
+Steps = 1000
+Color = 0x0000CCFF
+
+[Relation321]
+Relation = 144 (x^4+y^4)-225 (x^2+y^2)+350 x^2*y^2+81=0
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Trott's Curve:  144 (x^4+y^4)-225 (x^2+y^2)+350 x^2 y^2+81=0
+
+[Relation322]
+Relation = y=trunc(x)
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Truncate Function:  y=trunc(x)
+
+[Relation323]
+Relation = 12 y^2=x*(x-4)^2
+Style = 5
+Color = clGreen
+Visible = 0
+LegendText = Tschirnhausen's Cubic (1):  3 a y^2=x (x-a)^2   a=4
+
+[Func401]
+FuncType = 2
+r = -3/4 cos(t/3)^3
+Visible = 0
+LegendText = Tschirnhausen's Cubic (2):  r(t)=a/cos(t/3)^3   a=-3/4
+From = -2pi
+To = 2pi
+Steps = 1000
+Color = 0x0000CCFF
+
+[Relation324]
+Relation = -13.5 x^2=y^2*(y-4.5)
+Style = 5
+Color = clRed
+Visible = 0
+LegendText = Tschirnhausen's Cubic (3):  27 a x^2=y^2 (y+9 a)   a=-1/2
+
+[Func402]
+FuncType = 2
+r = sec(t/3)^3/4
+Visible = 0
+LegendText = Tschirnhausen's Cubic (4):  r(t)=a sec(t/3)^3   a=1/4
+From = -2pi
+To = 2pi
+Steps = 1000
+Color = clBlue
+
+[Func403]
+FuncType = 1
+x = (1-3 t^2)/2
+y = t*(3-t^2)/2
+Visible = 0
+LegendText = Tschirnhausen's Cubic (5):  x(t)=a (1-3 t^2), y(t)=a t (3-t^2)   a=1/2
+From = -10
+To = 10
+Steps = 1000
+Color = 0x00FFCC99
+
+[Relation325]
+Relation = (y-1) (1+x^10)=6 x^8
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = *Two-peaked Function (1):  (y-1) (1+x^10)=a x^n   a=6, n=8
+
+[Relation326]
+Relation = (y-1) (1+x^10)=6 x^7
+Style = 5
+Color = 0x0000CCFF
+Visible = 0
+LegendText = *Two-peaked Function (2):  (y-1) (1+x^10)=a x^n   a=6, n=7
+
+[Func404]
+FuncType = 1
+x = 2 sin(t)
+y = 4 sin(t/2)
+Visible = 0
+LegendText = Viviani's Curve (1):  x(t)=a sin(t), y(t)=2 a sin(t/2)   a=2
+From = -10
+To = 10
+Steps = 1000
+Color = clBlue
+
+[Relation327]
+Relation = 4 x^2+y^4=4 y^2
+Style = 5
+Color = clGreen
+Visible = 0
+LegendText = Viviani's Curve (2):  4 x^2+y^4=4 y^2
+
+[Relation328]
+Relation = (y-x^2)^2=1-x^2
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Wassenaar's Curve (1):  (y-x^2)^2=1-a x^2   a=1
+
+[Relation329]
+Relation = (y-x^2)^2=1-2 x^2
+Style = 5
+Color = 0x0000CCFF
+Visible = 0
+LegendText = Wassenaar's Curve (2):  (y-x^2)^2=1-a x^2   a=2
+
+[Relation330]
+Relation = (y-x^2)^2=1-4 x^2
+Style = 5
+Color = 0x0066CC00
+Visible = 0
+LegendText = Wassenaar's Curve (3):  (y-x^2)^2=1-a x^2   a=4
+
+[Func405]
+FuncType = 1
+x = 2 cos(t) sqrt(sin(t)^3)
+y = -6 sin(t)
+Visible = 0
+LegendText = *Water Drop (1):  x(t)=a cos(t) sqrt(sin(t)^3), y(t)=b sin(t)   a=2, b=-6
+From = -10
+To = 10
+Steps = 1000
+Color = clBlue
+
+[Func406]
+FuncType = 1
+x = 2 cos(t) (cos(t)+sqrt(sin(t)^3))
+y = -6 sin(t)
+Visible = 0
+LegendText = *Water Drop (2):  x(t)=a cos(t) (cos(t)+sqrt(sin(t)^3)), y(t)=b sin(t)   a=2, b=-6
+From = -10
+To = 10
+Steps = 1000
+Color = 0x0033CC33
+
+[Func407]
+FuncType = 1
+x = 2 cos(t-cos(t))
+y = -6 sin(t)
+Visible = 0
+LegendText = *Water Drop (3):  x(t)=a cos(t-cos(t)), y(t)=b sin(t)   a=2, b=-6
+From = -10
+To = 10
+Steps = 1000
+Color = 0x0000CCFF
+
+[Relation331]
+Relation = ((x^2+y^2)^2+4 y^2-4 (x^2+y^2)) (x^2+y^2-4)=(4-1) (x^2+y^2) (8+1-2 (x^2+y^2)-4)
+Style = 5
+Color = 0x00FF9966
+Visible = 0
+LegendText = Watt's Curve (1):  ((x^2+y^2)^2+4 y^2-a^2 (x^2+y^2)) (x^2+y^2-a^2)=(b^2-1) (x^2+y^2) (2 a^2+1-2 (x^2+y^2)-b^2)   a=2, b=2
+
+[Relation332]
+Relation = ((x^2+y^2)^2+4 y^2-4 (x^2+y^2)) (x^2+y^2-4)=0
+Style = 5
+Color = 0x0000CCFF
+Visible = 0
+LegendText = Watt's Curve (2):  ((x^2+y^2)^2+4 y^2-a^2 (x^2+y^2)) (x^2+y^2-a^2)=(b^2-1) (x^2+y^2) (2 a^2+1-2 (x^2+y^2)-b^2)   a=2, b=1
+
+[Relation333]
+Relation = ((x^2+y^2)^2+4 y^2-4 (x^2+y^2)) (x^2+y^2-4)=((0.5)^2-1) (x^2+y^2) (8+1-2 (x^2+y^2)-(0.5)^2)
+Style = 5
+Color = clGreen
+Visible = 0
+LegendText = Watt's Curve (3):  ((x^2+y^2)^2+4 y^2-a^2 (x^2+y^2)) (x^2+y^2-a^2)=(b^2-1) (x^2+y^2) (2 a^2+1-2 (x^2+y^2)-b^2)   a=2, b=1/2
+
+[Relation334]
+Relation = ((x^2+y^2)^2+4 y^2-(1.5)^2*(x^2+y^2)) (x^2+y^2-(1.5)^2)=((0.4)^2-1) (x^2+y^2) (2*(1.5)^2+1-2 (x^2+y^2)-(0.4)^2)
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Watt's Curve (4):  ((x^2+y^2)^2+4 y^2-a^2 (x^2+y^2)) (x^2+y^2-a^2)=(b^2-1) (x^2+y^2) (2 a^2+1-2 (x^2+y^2)-b^2)   a=3/2, b=4/10
+
+[Relation335]
+Relation = ((x^2+y^2)^2+4 y^2-1 (x^2+y^2)) (x^2+y^2-1)=((0.8)^2-1) (x^2+y^2) (2+1-2 (x^2+y^2)-(0.8)^2)
+Style = 5
+Color = clRed
+Visible = 0
+LegendText = Watt's Curve (5):  ((x^2+y^2)^2+4 y^2-a^2 (x^2+y^2)) (x^2+y^2-a^2)=(b^2-1) (x^2+y^2) (2 a^2+1-2 (x^2+y^2)-b^2)   a=2, b=8/10
+
+[Relation336]
+Relation = ((x^2+y^2)^2+4 y^2-(0.2)^2 (x^2+y^2)) (x^2+y^2-(0.2)^2)=((0.8)^2-1) (x^2+y^2) (2 (0.2)^2+1-2 (x^2+y^2)-(0.8)^2)
+Style = 5
+Color = 0x00868686
+Visible = 0
+LegendText = Watt's Curve (6):  ((x^2+y^2)^2+4 y^2-a^2 (x^2+y^2)) (x^2+y^2-a^2)=(b^2-1) (x^2+y^2) (2 a^2+1-2 (x^2+y^2)-b^2)   a=2/10, b=8/10
+
+[Relation337]
+Relation = y=e^-x
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Weibull Curve (1):  y=e^-x^a   a=1 (Exponential Curve)
+
+[Relation338]
+Relation = y=e^-x^2
+Style = 5
+Color = 0x0066CC66
+Visible = 0
+LegendText = Weibull Curve (2):  y=e^-x^a   a=2 (Gauss Curve)
+
+[Relation339]
+Relation = y=e^-x^4
+Style = 5
+Color = clRed
+Visible = 0
+LegendText = Weibull Curve (3):  y=e^-x^a   a=4 (Weibull Curve)
+
+[Func408]
+FuncType = 2
+r = 4 cot(2 t)
+Visible = 0
+LegendText = Windmill Curve (1):  r(t)=a cot(2 t)   a=4
+From = 0
+To = 2pi
+Steps = 1000
+Color = clBlue
+
+[Relation340]
+Relation = 4 x^2*y^2*(x^2+y^2)=4 (x^2-y^2)^2
+Style = 5
+Color = 0x0000CCFF
+Visible = 0
+LegendText = Windmill Curve (2):  4 x^2 y^2 (x^2+y^2)=a^2 (x^2-y^2)^2   a=2
+
+[Func409]
+FuncType = 2
+r = min(tan(sin(2 t))^6,8)
+Visible = 0
+LegendText = *Windmill Curve (3):  r(t)=min(tan(sin(2 t))^6,a)   a=8
+From = 0
+To = 2pi
+Steps = 1000
+Color = 0x0033CC66
+
+[Func410]
+FuncType = 2
+r = min(8 cos(2 t)^4,5)
+Visible = 0
+LegendText = *Windmill Curve (4):  r(t)=min(a cos(2 t)^4,b)   a=8, b=5
+From = 0
+To = 2pi
+Steps = 1000
+Color = clRed
+
+[Func411]
+FuncType = 1
+x = t
+y = 1/(1+t^2)
+Visible = 0
+LegendText = Witch of Agnesi (1):  x(t)=a t, y(t)=a/(1+t^2)   a=1
+From = -10
+To = 10
+Steps = 1000
+Color = clRed
+
+[Func412]
+FuncType = 1
+x = 2 tan(t)
+y = 2 cos(t)^2
+Visible = 0
+LegendText = Witch of Agnesi (2):  x(t)=a tan(t), y(t)=a cos(t)^2   a=2
+From = -10
+To = 10
+Steps = 1000
+Color = 0x0000CCFF
+
+[Relation341]
+Relation = y*x^2=(pi)^2*(pi-y)
+Style = 5
+Color = 0x0066CC66
+Visible = 0
+LegendText = Witch of Agnesi (3):  y x^2=a^2 (a-y)   a=pi
+
+[Relation342]
+Relation = y*(x^2+36)=216
+Style = 5
+Color = clBlue
+Visible = 0
+LegendText = Witch of Agnesi (4):  y (x^2+4 a^2)=8 a^3   a=3
+
+[Data]
+TextLabelCount = 1
+FuncCount = 412
+PointSeriesCount = 0
+ShadeCount = 0
+RelationCount = 342
+OleObjectCount = 0
+

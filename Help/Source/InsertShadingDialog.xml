@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chapter SYSTEM "dtd/dblite.dtd" [
+<!ENTITY % Symbols SYSTEM "Symbols.ent">
+%Symbols;
+]>
+<section id="InsertShadingDialog">
+	<?dbhh topicname="IDH_DIALOG_SHADING" topicid="140"?>
+	<title>Insert shading</title>
+	<indexterm><primary>insert</primary></indexterm>
+	<indexterm><primary>shading</primary></indexterm>
+	<indexterm><primary>interval</primary></indexterm>
+	<indexterm><primary>above</primary></indexterm>
+	<indexterm><primary>below</primary></indexterm>
+	<indexterm><primary>inside</primary></indexterm>
+	<indexterm><primary>between</primary></indexterm>
+	<para>
+		The dialog below is used to add a shading to the selected function.
+		To insert a new shading, you use <menuchoice><guimenu>Function</guimenu><guimenuitem>Insert shading...</guimenuitem></menuchoice>.
+		To change an existing shading, you first select it in the <glossterm>function list</glossterm> and use <menuchoice><guimenu>Function</guimenu><guimenuitem>Edit...</guimenuitem></menuchoice>.
+		The shading is used to mark an area between the function graph and something else.
+	</para>
+
+	<simplesect>
+		<title>Shading</title>
+		<para>
+  		<graphic fileref="DialogShade1.png" align="center" scale="80"/>
+		</para>
+		<para>
+			In the <guilabel>Shading</guilabel> tab you can choose between the following types of shadings:
+		</para>
+
+		<variablelist>
+			<varlistentry>
+				<term>Between function and x-axis</term>
+				<listitem>
+					<para>
+						This is the most commonly used type of shading.
+						This will shade the area between the graph of the function and the x-axis in the selected interval.
+						If you check <guilabel>Decrease to intersection</guilabel> or <guilabel>Increase to intersection</guilabel>,
+						the interval will decrease or increase until the graph is crossing the x-axis.
+					</para>
+				</listitem>
+			</varlistentry>
+
+			<varlistentry>
+				<term>Between function and y-axis</term>
+				<listitem>
+					<para>
+						This will shade the area between the graph of the function and the y-axis in the selected interval.
+						This is rarely used and probably most useful for parametric functions.
+						Notice that you still use the x-coordinates for the interval.
+						If you check <guilabel>Decrease to intersection</guilabel> or <guilabel>Increase to intersection</guilabel>,
+						the interval will decrease or increase until the graph is crossing the y-axis.
+					</para>
+				</listitem>
+			</varlistentry>
+
+			<varlistentry>
+				<term>Below function</term>
+				<listitem>
+					<para>
+						This will shade the area below the graph of the function down to the bottom of the graphing area in the selected interval.
+						If you check <guilabel>Decrease to intersection</guilabel> or <guilabel>Increase to intersection</guilabel>,
+						the interval will decrease or increase until the graph is crossing the bottom of the graphing area.
+					</para>
+				</listitem>
+			</varlistentry>
+
+			<varlistentry>
+				<term>Above function</term>
+				<listitem>
+					<para>
+						This will shade the area above the graph of the function up to the top of the graphing area in the selected interval.
+						If you check <guilabel>Decrease to intersection</guilabel> or <guilabel>Increase to intersection</guilabel>,
+						the interval will decrease or increase until the graph is crossing the top of the graphing area.
+					</para>
+				</listitem>
+			</varlistentry>
+
+			<varlistentry>
+				<term>Inside function</term>
+				<listitem>
+					<para>
+						This will shade the area inside the graph of the function in the selected interval.
+						If you check <guilabel>Decrease to intersection</guilabel> or <guilabel>Increase to intersection</guilabel>,
+						the interval will decrease or increase until the graph is crossing itself.
+						This is especially useful to shade a closed part of a parametric or polar function, but it can also be used to shade standard functions.
+					</para>
+				</listitem>
+			</varlistentry>
+
+			<varlistentry>
+				<term>Between functions</term>
+				<listitem>
+					<para>
+						This will shade the area between the graphs of two functions.
+						The first function is the one you selected in the <glossterm>function list</glossterm> in the main window, before you invoked the dialog.
+						The second function is selected in the list box in the <guilabel>2nd function</guilabel> tab.
+						For standard functions, the interval will be the same for the two functions.
+						For parametric functions, you may select different intervals for the two functions.
+						If you don't select an interval for the second function, it will use the same interval as the first function.
+					</para>
+				</listitem>
+			</varlistentry>
+		</variablelist>
+	</simplesect>
+
+	<simplesect>
+		<title>Options</title>
+		<para>
+			At the <guilabel>Options</guilabel> tab shown below, you may change the options for the shading.
+		</para>
+
+		<graphic fileref="DialogShade2.png" align="center" scale="60"/>
+
+		<variablelist>
+			<varlistentry>
+				<term>From</term>
+				<listitem>
+					<para>
+						Here you may enter a value, for which you want the shading to start.
+						You specify the x-coordinate if you are using a standard function or the t-parameter if you are using a parametric or polar function.
+						If you don't enter a value, the shading will start at negative infinity.
+						If you place a check mark in <guilabel>Decrease to intersection</guilabel>,
+						the start coordinate of the shading will be decreased from the entered value to the coordinate where the graph is crossing the axis,
+						the edge of the graphing area, itself or another graph, depending of the type of shading selected.
+					</para>
+				</listitem>
+			</varlistentry>
+
+			<varlistentry>
+				<term>To</term>
+				<listitem>
+					<para>
+						Here you may enter a value, for which you want the shading to stop.
+						You specify the x-coordinate if you are using a standard function or the t-parameter if you are using a parametric or polar function.
+						If you don't enter a value, the shading will continue until positive infinity.
+						If you place a check mark in <guilabel>Increase to intersection</guilabel>,
+						the end coordinate of the shading will be increased from the entered value to the coordinate where the graph is crossing the axis,
+						the edge of the graphing area, itself or another graph depending of the type of shading selected.
+					</para>
+				</listitem>
+			</varlistentry>
+
+			<varlistentry>
+				<term>Style</term>
+				<listitem>
+					<para>
+						Here you may choose between different styles to use for the shading.
+					</para>
+				</listitem>
+			</varlistentry>
+
+			<varlistentry>
+				<term>Color</term>
+				<listitem>
+					<para>
+						Here you may choose the color of the shading.
+					</para>
+				</listitem>
+			</varlistentry>
+
+			<varlistentry>
+				<term>Mark border</term>
+				<listitem>
+					<para>
+						Check this to draw a line around the border of the shading.
+						Uncheck it to leave the shading without a border, which is useful if you want two shadings to look as one.
+					</para>
+				</listitem>
+			</varlistentry>
+		</variablelist>
+	</simplesect>
+
+	<simplesect>
+		<title>2nd function</title>
+		<para>
+			When you have chosen <guilabel>Between functions</guilabel> in the <guilabel>Shading</guilabel> tab,
+			you may select the second function in the <guilabel>2nd function</guilabel> tab.
+			The dialog with the <guilabel>2nd function</guilabel> tab is shown below.
+		</para>
+
+		<graphic fileref="DialogShade3.png" align="center" scale="60"/>
+
+		<variablelist>
+			<varlistentry>
+				<term>Shading range for 2nd function</term>
+				<listitem>
+					<para>
+						This is used to select the interval for the second function,
+						just like you selected the interval for the first function in the <guilabel>Options</guilabel> tab.
+						This is only available for parametric functions and not for standard functions.
+						For standard functions the interval for the second function is always the same as the interval for the first function.
+						If you enter neither a start nor an end of interval for a parametric function, the values for the first function will be used for the second function as well.
+					</para>
+				</listitem>
+			</varlistentry>
+		</variablelist>
+	</simplesect>
+
+	<para>
+		Shadings are a great way to mark an area, but if you get weird results, check that you selected the right function and the right interval.
+		If you try to shade an interval crossing an asymptote or your shading is associated with a weird parametric function, you might get weird results.
+		But really, what did you expect?
+	</para>
+</section>

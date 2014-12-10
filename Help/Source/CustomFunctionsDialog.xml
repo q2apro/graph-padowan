@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chapter SYSTEM "dtd/dblite.dtd" [
+<!ENTITY % Symbols SYSTEM "Symbols.ent">
+%Symbols;
+]>
+<section id="CustomFunctionsDialog">
+	<?dbhh topicname="IDH_DIALOG_CUSTOM" topicid="90"?>
+	<title>Custom functions/constants</title>
+	<indexterm><primary>custom function</primary></indexterm>
+	<indexterm><primary>custom constant</primary></indexterm>
+	<indexterm><primary>functions</primary></indexterm>
+	<indexterm><primary>constants</primary></indexterm>
+	<para>
+		Graph allows you to define your own custom functions and constants, which you can use in other expressions in the program.
+		You may want to use this to factor out frequently used constants and subexpressions to make it faster and easier to use these items.
+		Use the <menuchoice><guimenu>Function</guimenu><guimenuitem>Custom functions...</guimenuitem></menuchoice> menu item to show the dialog.
+	</para>
+
+  <graphic fileref="DialogCustomFunctions.png" align="center" scale="60"/>
+
+	<variablelist>
+		<varlistentry>
+			<term>Entering functions</term>
+			<listitem>
+				<para>
+					The function and constant names are entered in the first column.
+					The name may contain any combination of letters, digits and underscore but it must always start with a letter.
+					You may not use a name that is already assigned to a built-in function or variable.
+				</para>
+				<para>
+					Function arguments are entered after the name in brackets separated by comma, e.g. <literal>f(x,y,z)</literal> is a function named f taking three arguments named x, y and z.
+					Like the function name, the argument names must start with a letter and only contain letters and digits.
+				</para>
+				<para>
+					 The expressions you want to define are entered in the second column.
+					 The expressions can use the arguments specified in the first column and all built-in functions, other custom functions and constants, and even call themselves recursively.
+					 A comment can be written after a # symbol at the end of an expression.
+				</para>
+			</listitem>
+		</varlistentry>
+
+		<varlistentry>
+			<term>Changing and removing functions</term>
+			<listitem>
+				<para>
+					You can remove a function or constant by clearing the name and definition or selecting <guimenuitem>Remove row</guimenuitem> from the context menu.
+					All elements using the deleted function or constant will fail when evaluated.
+				</para>
+			</listitem>
+		</varlistentry>
+	</variablelist>
+
+	<para>
+		When you press <guibutton>OK</guibutton> or <guibutton>Apply</guibutton> in the shown dialog,
+		all elements are updated to reflect any changes to the functions and constants.
+	</para>
+</section>

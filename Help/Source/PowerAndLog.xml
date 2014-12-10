@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chapter SYSTEM "dtd/dblite.dtd" [
+<!ENTITY % Symbols SYSTEM "Symbols.ent">
+%Symbols;
+]>
+<section id="PowerAndLog">
+	<title>Power and logarithm</title>
+	<section id="sqr" xreflabel="sqr">
+		<title><markup>sqr</markup> function</title>
+		<indexterm><primary><function>sqr</function> function</primary></indexterm>
+		<indexterm><primary>square</primary></indexterm>
+		<para>
+			Returns the square of the argument.
+		</para>
+		<simplesect>
+			<title>Syntax</title>
+			<para><mathphrase>sqr(z)</mathphrase></para>
+		</simplesect>
+		<simplesect>
+			<title>Description</title>
+			<para>
+				The <function>sqr</function> function calculates the square of <parameter>z</parameter>, i.e. <parameter>z</parameter> raised to the power of 2.
+				<parameter>z</parameter> may be any <glossterm>numeric expression</glossterm> that evaluates to a <glossterm>real number</glossterm> or a <glossterm>complex number</glossterm>.
+			</para>
+		</simplesect>
+	</section>
+
+
+	<section id="exp" xreflabel="exp">
+		<title><markup>exp</markup> function</title>
+		<indexterm><primary><function>exp</function> function</primary></indexterm>
+		<indexterm><primary>exponential</primary></indexterm>
+		<para>
+			Returns <emphasis>e</emphasis> raised to the power of the argument.
+		</para>
+		<simplesect>
+			<title>Syntax</title>
+			<para><mathphrase>exp(z)</mathphrase></para>
+		</simplesect>
+		<simplesect>
+			<title>Description</title>
+			<para>
+				The <function>exp</function> function is used to raise <emphasis>e</emphasis>, Euler's constant, to the power of <parameter>z</parameter>.
+				This is the same as <mathphrase>e^z</mathphrase>.
+				<parameter>z</parameter> may be any <glossterm>numeric expression</glossterm> that evaluates to a <glossterm>real number</glossterm> or a <glossterm>complex number</glossterm>.
+			</para>
+		</simplesect>
+		<simplesect>
+			<title>See also</title>
+			<para>
+				<simplelist>
+					<member><ulink url="http://en.wikipedia.org/wiki/Exponential_function"><orgname>Wikipedia</orgname></ulink></member>
+					<member><ulink url="http://mathworld.wolfram.com/ExponentialFunction.html"><orgname>MathWorld</orgname></ulink></member>
+				</simplelist>
+			</para>
+		</simplesect>
+	</section>
+
+
+	<section id="sqrt" xreflabel="sqrt">
+		<title><markup>sqrt</markup> function</title>
+		<indexterm><primary><function>sqrt</function> function</primary></indexterm>
+		<indexterm><primary>square root</primary></indexterm>
+		<para>
+			Returns the square root of the argument.
+		</para>
+		<simplesect>
+			<title>Syntax</title>
+			<para><mathphrase>sqrt(z)</mathphrase></para>
+		</simplesect>
+		<simplesect>
+			<title>Description</title>
+			<para>
+				The <function>sqrt</function> function calculates the square root of <parameter>z</parameter>, i.e. <parameter>z</parameter> raised to the power of &frac12;.
+				<parameter>z</parameter> may be any <glossterm>numeric expression</glossterm> that evaluates to a <glossterm>real number</glossterm> or a <glossterm>complex number</glossterm>.
+				If the calculation is done with real numbers, the argument is only defined for <parameter>z</parameter> &ge; 0.
+			</para>
+		</simplesect>
+		<simplesect>
+			<title>See also</title>
+			<para>
+				<simplelist>
+					<member><ulink url="http://en.wikipedia.org/wiki/Square_root"><orgname>Wikipedia</orgname></ulink></member>
+					<member><ulink url="http://mathworld.wolfram.com/SquareRoot.html"><orgname>MathWorld</orgname></ulink></member>
+				</simplelist>
+			</para>
+		</simplesect>
+	</section>
+
+
+	<section id="root" xreflabel="root">
+		<title><markup>root</markup> function</title>
+		<indexterm><primary><function>root</function> function</primary></indexterm>
+		<para>
+			Returns the <varname>n</varname><superscript>th</superscript> root of the argument.
+		</para>
+		<simplesect>
+			<title>Syntax</title>
+			<para><mathphrase>root(n, z)</mathphrase></para>
+		</simplesect>
+		<simplesect>
+			<title>Description</title>
+			<para>
+				The <function>root</function> function calculates the <varname>n</varname><superscript>th</superscript> root of <varname>z</varname>.
+				<parameter>n</parameter> and <parameter>z</parameter> may be any <glossterm>numeric expression</glossterm> that evaluates to a <glossterm>real number</glossterm> or a <glossterm>complex number</glossterm>.
+				If the calculation is done with real numbers, the argument is only defined for <parameter>z</parameter> &ge; 0.
+			</para>
+		</simplesect>
+		<simplesect>
+			<title>Remarks</title>
+			<para>
+				When the calculation is done with real numbers, the function is only defined for <parameter>z</parameter>&lt;0 if <parameter>n</parameter> is an odd <glossterm>integer</glossterm>.
+				For calculations with complex numbers, <function>root</function> is defined for the whole complex plane except at the pole <parameter>n</parameter>=0.
+				Notice that for calculations with complex numbers the result will always have an imaginary part when <parameter>z</parameter>&lt;0
+				even though the result is real when calculations are done with real numbers and <parameter>n</parameter> is an odd integer.
+			</para>
+		</simplesect>
+		<simplesect>
+			<title>Example</title>
+			<para>
+				Instead of <mathphrase>x^(1/3)</mathphrase>, you can use <mathphrase>root(3, x)</mathphrase>.
+			</para>
+		</simplesect>
+		<simplesect>
+			<title>See also</title>
+			<para>
+				<simplelist>
+					<member><ulink url="http://en.wikipedia.org/wiki/Nth_root"><orgname>Wikipedia</orgname></ulink></member>
+					<member><ulink url="http://mathworld.wolfram.com/RadicalRoot.html"><orgname>MathWorld</orgname></ulink></member>
+				</simplelist>
+			</para>
+		</simplesect>
+	</section>
+
+
+	<section id="ln" xreflabel="ln">
+		<title><markup>ln</markup> function</title>
+		<indexterm><primary><function>ln</function> function</primary></indexterm>
+		<indexterm><primary>logarithm</primary></indexterm>
+		<indexterm><primary>natural logarithm</primary></indexterm>
+		<para>
+			Returns the natural logarithm of the argument.
+		</para>
+		<simplesect>
+			<title>Syntax</title>
+			<para><mathphrase>ln(z)</mathphrase></para>
+		</simplesect>
+		<simplesect>
+			<title>Description</title>
+			<para>
+				The <function>ln</function> function calculates the logarithm of <parameter>z</parameter> with base <emphasis>e</emphasis>, which is Euler's constant.
+				<mathphrase>ln(z)</mathphrase> is commonly known as the natural logarithm.
+				<parameter>z</parameter> may be any <glossterm>numeric expression</glossterm> that evaluates to a <glossterm>real number</glossterm> or a <glossterm>complex number</glossterm>.
+				If the calculation is done with real numbers, the argument is only defined for <parameter>z</parameter>>0.
+				When calculating with complex numbers, <parameter>z</parameter> is defined for all numbers except <parameter>z</parameter>=0.
+			</para>
+		</simplesect>
+		<simplesect>
+			<title>See also</title>
+			<para>
+				<simplelist>
+					<member><ulink url="http://en.wikipedia.org/wiki/Natural_logarithm"><orgname>Wikipedia</orgname></ulink></member>
+					<member><ulink url="http://mathworld.wolfram.com/NaturalLogarithm.html"><orgname>MathWorld</orgname></ulink></member>
+				</simplelist>
+			</para>
+		</simplesect>
+	</section>
+
+
+	<section id="log" xreflabel="log">
+		<title><markup>log</markup> function</title>
+		<indexterm><primary><function>log</function> function</primary></indexterm>
+		<indexterm><primary>logarithm</primary></indexterm>
+		<para>
+			Returns the base 10 logarithm of the argument.
+		</para>
+		<simplesect>
+			<title>Syntax</title>
+			<para><mathphrase>log(z)</mathphrase></para>
+		</simplesect>
+		<simplesect>
+			<title>Description</title>
+			<para>
+				The <function>log</function> function calculates the logarithm of <parameter>z</parameter> with base 10.
+				<parameter>z</parameter> may be any <glossterm>numeric expression</glossterm> that evaluates to a <glossterm>real number</glossterm> or a <glossterm>complex number</glossterm>.
+				If the calculation is done with real numbers, the argument is only defined for <parameter>z</parameter>>0.
+				When calculating with complex numbers, <parameter>z</parameter> is defined for all numbers except <parameter>z</parameter>=0.
+			</para>
+		</simplesect>
+		<simplesect>
+			<title>See also</title>
+			<para>
+				<simplelist>
+					<member><ulink url="http://en.wikipedia.org/wiki/Common_logarithm"><orgname>Wikipedia</orgname></ulink></member>
+					<member><ulink url="http://mathworld.wolfram.com/CommonLogarithm.html"><orgname>MathWorld</orgname></ulink></member>
+				</simplelist>
+			</para>
+		</simplesect>
+	</section>
+
+
+	<section id="logb" xreflabel="logb">
+		<title><markup>logb</markup> function</title>
+		<indexterm><primary><function>logb</function> function</primary></indexterm>
+		<indexterm><primary>logarithm</primary></indexterm>
+		<para>
+			Returns the base <parameter>n</parameter> logarithm of the argument.
+		</para>
+		<simplesect>
+			<title>Syntax</title>
+			<para><mathphrase>logb(z, n)</mathphrase></para>
+		</simplesect>
+		<simplesect>
+			<title>Description</title>
+			<para>
+				The <function>logb</function> function calculates the logarithm of <parameter>z</parameter> with base <parameter>n</parameter>.
+				<parameter>z</parameter> may be any <glossterm>numeric expression</glossterm> that evaluates to a <glossterm>real number</glossterm> or a <glossterm>complex number</glossterm>.
+				If the calculation is done with real numbers, the argument is only defined for <parameter>z</parameter>>0.
+				When calculating with complex numbers, <parameter>z</parameter> is defined for all numbers except <parameter>z</parameter>=0.
+				<parameter>n</parameter> must evaluate to a positive real number.
+			</para>
+		</simplesect>
+		<simplesect>
+			<title>See also</title>
+			<para>
+				<simplelist>
+					<member><ulink url="http://en.wikipedia.org/wiki/Logarithm"><orgname>Wikipedia</orgname></ulink></member>
+					<member><ulink url="http://mathworld.wolfram.com/Logarithm.html"><orgname>MathWorld</orgname></ulink></member>
+				</simplelist>
+			</para>
+		</simplesect>
+	</section>
+</section>

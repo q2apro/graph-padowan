@@ -1,0 +1,51 @@
+;This file was created by Graph (http://www.padowan.dk)
+;Do not change this file from other programs.
+[Graph]
+Version = 4.3.0.380
+MinVersion = 2.5
+OS = Windows XP 5.1 Service Pack 2
+
+[Axes]
+xMin = -2
+xMax = 2
+xTickUnit = 0.5
+xGridUnit = 0.5
+yMin = -2
+yMax = 2
+yTickUnit = 0.5
+yGridUnit = 0.5
+AxesColor = clBlue
+GridColor = 0x00FF9999
+ShowLegend = 0
+Radian = 1
+AxesStyle = 0
+
+[Relation1]
+Relation = x^2+y^2<=2
+Style = 0
+Color = clSkyBlue
+Size = 0
+
+[Relation2]
+Relation = x^2+y^2<=1+0.5*sin((x^3+y^3)*2pi)
+Style = 0
+Color = clRed
+
+[Func1]
+FuncType = 1
+x = sqrt(2)*cos t
+y = sqrt(2)*sin t
+From = -10
+To = 10
+Steps = 1000
+Color = 0x000000CC
+Size = 3
+
+[Data]
+TextLabelCount = 0
+FuncCount = 1
+PointSeriesCount = 0
+ShadeCount = 0
+RelationCount = 2
+OleObjectCount = 0
+

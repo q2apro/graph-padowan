@@ -1,0 +1,42 @@
+;This file was created by Graph (http://www.padowan.dk)
+;Change this file at your own risk.
+[Graph]
+Version = 3.2
+Build = 144
+MinVersion = 2.5
+OS = Windows 2000 5.0 Service Pack 4
+
+[Axes]
+xMin = -10
+xMax = 10
+yMin = -10
+yMax = 10
+xTickUnit = 1.5707963267949
+yTickUnit = 2
+xGridUnit = 1.5707963267949
+yGridUnit = 2
+yLabel = f(x)
+xMultiplyOfPi = 1
+AxesColor = clBlue
+GridColor = 0x00FF9999
+NumberFont = Times New Roman,12,clBlack,B
+ShowLegend = 0
+Radian = 1
+
+[Data]
+FuncCount = 1
+PointSeriesCount = 0
+ShadeCount = 0
+TextLabelCount = 1
+
+[Func1]
+FuncType = 0
+y = x*sin(x)
+Style = 1
+Color = clRed
+Size = 2
+
+[Label1]
+Pos = -6.90435,5.96154
+Text = {\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang1033{\\fonttbl{\\f0\\fnil\\fcharset0 Times New Roman;}{\\f1\\fnil Times New Roman;}}\n{\\colortbl ;\\red0\\green0\\blue0;}\n\\viewkind4\\uc1\\pard\\cf1\\lang1030\\b\\f0\\fs24 y=x*sin x\\lang1033\\b0\\f1\\par\n}\n
+

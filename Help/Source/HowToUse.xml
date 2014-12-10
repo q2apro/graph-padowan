@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chapter SYSTEM "dtd/dblite.dtd">
+<chapter id="HowToUse">
+	<title>How to use Graph</title>
+	<indexterm><primary><application>Graph</application></primary></indexterm>
+	<indexterm><primary>use</primary></indexterm>
+	<indexterm><primary>main window</primary></indexterm>
+	<indexterm><primary>function list</primary></indexterm>
+	<indexterm><primary>graphing area</primary></indexterm>
+	<indexterm><primary>coordinate system</primary></indexterm>
+	<indexterm><primary>status bar</primary></indexterm>
+	<indexterm><primary>tool bar</primary></indexterm>
+	<indexterm><primary>draw</primary></indexterm>
+	<indexterm><primary>plot</primary></indexterm>
+	<simplesect>
+		<para>
+			When the program starts, you will see the main window shown below.
+			This window shows the graphing area to the right with the coordinate system where the graphs you insert will be shown.
+			You can use the menu or the buttons on the toolbar to show different dialog boxes to insert a function, edit functions, delete functions etc.
+			You can find a <link linkend="MenuItems">description</link> of all the menu items.
+		</para>
+		<para>
+			The toolbar may be customized by right clicking on the bar and selecting <guimenuitem>Customize toolbar...</guimenuitem> from the popup menu.
+			You can then customize the toolbar by dragging commands to and from the bar.
+			The status bar at the bottom of the window shows tooltips or other information to the left and the coordinates located at the mouse pointer to the right.
+		</para>
+
+  	<graphic fileref="DialogMain.png" align="center" scale="60"/>
+
+		<para>
+			You can add new elements to the coordinate system from the Function menu.
+			For example if you want to add a new function you use the menu item
+			<link linkend="InsertFunctionDialog">
+				<menuchoice>
+					<guimenu>Function</guimenu>
+					<guimenuitem>Insert function...</guimenuitem>
+				</menuchoice>
+			</link>
+
+		</para>
+		<para>
+			The <glossterm>function list</glossterm> to the left shows a list of functions, tangents, point series, shadings and relations you have added.
+			If you want to manipulate anything in the list, just select it and use the <guimenu>Function</guimenu> menu.
+			You can also right click on an item in the list to get the context menu with available commands.
+			An item may be edited by double clicking on it.
+		</para>
+		<para>
+			The <guimenu>Calc</guimenu> menu contains commands to make calculations on functions, for example evaluations at specific coordinates or given intervals.
+		</para>
+	</simplesect>
+</chapter>

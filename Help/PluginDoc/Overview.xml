@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chapter SYSTEM "dtd/dblite.dtd">
+<chapter id="Overview" xmlns:xi="http://www.w3.org/2001/XInclude">
+	<title>Overview</title>
+	<indexterm><primary>Overview</primary></indexterm>
+	<para>
+	<para>
+		The scripting engine can be used to create plugins or to enter commands and access advanced features directly in Graph.
+		In both cases you need to install the 32 bit version of <application>Python 3.2</application> from <ulink url="http://www.python.org"/>.
+		Documentation of the Python language may be found installed with Python or <ulink url="http://docs.python.org/3.2/">online</ulink>.
+	</para>
+
+	<simplesect>
+		<title>Plugins</title>
+		<para>
+			Plugins are Python scripts and are usually distributed in source form as .py files.
+			The plugin files are placed in the <filename>Plugins</filename> directory where Graph is installed, and will automatically be found and loaded by Graph.
+			A plugin will usually register some a callback function to be called when some event occur when the plugin is loaded.
+			This can for example be a function that is called when a menu item is selected.
+			This function will when do the actual work of the plugin.
+			The work done when the plugin is loaded should be kept to a minimum to keep loading time low.
+		</para>
+	</simplesect>
+
+	<simplesect>
+		<title>Python interpreter</title>
+		<para>
+			You can also use the scripting engine through the Python interpreter shown when you press <shortcut><keycap><markup>F11</markup></keycap></shortcut> inside Graph.
+			In this interpreter you can write Python expressions and that way do very advanced things.
+			It is also an easy way to test code before it is used in a plugin.
+		</para>
+	</simplesect>
+	</para>
+</chapter>

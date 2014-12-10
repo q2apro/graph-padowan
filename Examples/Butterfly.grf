@@ -1,0 +1,39 @@
+;This file was created by Graph (http://www.padowan.dk)
+;Do not change this file from other programs.
+[Graph]
+Version = 4.3.0.373
+MinVersion = 2.5
+OS = Windows XP 5.1 Service Pack 2
+
+[Axes]
+xMin = -5
+xMax = 5
+xTickUnit = 1
+xGridUnit = 1
+yMin = -5
+yMax = 5
+yTickUnit = 2
+yGridUnit = 2
+AxesColor = clBlue
+GridColor = 0x00FF9999
+ShowLegend = 1
+Radian = 1
+
+[Func1]
+FuncType = 2
+r = e^(sin(t)) - 2cos(4t) + sin((t - pi/2) /12)^5
+ShowInLegend = 0
+From = 0
+To = 24pi
+Steps = 1000
+Color = clRed
+Size = 2
+
+[Data]
+TextLabelCount = 0
+FuncCount = 1
+PointSeriesCount = 0
+ShadeCount = 0
+RelationCount = 0
+OleObjectCount = 0
+

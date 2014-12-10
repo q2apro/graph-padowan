@@ -1,0 +1,72 @@
+;This file was created by Graph (http://www.padowan.dk)
+;Do not change this file from other programs.
+[Graph]
+Version = 4.3.0.374
+MinVersion = 2.5
+OS = Windows XP 5.1 Service Pack 2
+
+[Axes]
+xMin = 10
+xMax = 10000
+xTickUnit = 10
+xGridUnit = 10
+xLogScl = 1
+xShowTicks = 0
+xShowGrid = 1
+xAutoTick = 0
+xAutoGrid = 0
+xLabel = kHz
+xAxisCross = 4
+yMin = -10
+yMax = 0.6
+yTickUnit = 1
+yGridUnit = 1
+yShowTicks = 0
+yShowGrid = 1
+yAutoTick = 0
+yAutoGrid = 0
+yLabel = dB
+yAxisCross = 1
+AxesColor = 0x00003333
+GridColor = 0x00003333
+NumberFont = Verdana,10,clBlack
+LabelFont = Verdana,10,clBlack
+LegendFont = Verdana,8,clBlack
+ShowLegend = 1
+Radian = 1
+Title = Frequency Response
+TitleFont = Verdana,12,clBlack,B
+AxesStyle = 2
+
+[PointSeries1]
+FillColor = clBlue
+LineColor = clBlue
+Size = 0
+Style = 0
+LineSize = 2
+LineStyle = 0
+Interpolation = 1
+LabelPosition = 1
+Points = 20,-13.15;30,-4.61;40,-2.56;50,-1.72;60,-.42;70,0;80,-.32;90,-.63;100,-.72;200,-1.12;300,-.96;400,-.55;500,-.27;750,-.08;1000,-.11;1500,-.26;2000,-.52;2500,-.57;3000,-.48;3500,-.64;4000,-1.02;4500,-1.83;5000,-3.04;5500,-4.32;6000,-5.84;6500,-7.24;7000,-7.77;
+LegendText = HDT-1X
+
+[PointSeries2]
+FillColor = clRed
+LineColor = clRed
+Size = 0
+Style = 0
+LineSize = 2
+LineStyle = 0
+Interpolation = 1
+LabelPosition = 1
+Points = 10,0;50,0;100,-.01;400,-.14;700,-.42;1000,-.81;1500,-1.63;2000,-2.54;2500,-3.44;3000,-4.28;3500,-5.05;4000,-5.75;4500,-6.37;5000,-6.92;5500,-7.41;6000,-7.85;6500,-8.24;7000,-8.58;7500,-8.89;8000,-9.16;8500,-9.41;9000,-9.62;9500,-9.82;10000,-10.00;
+LegendText = NRSC
+
+[Data]
+TextLabelCount = 0
+FuncCount = 0
+PointSeriesCount = 2
+ShadeCount = 0
+RelationCount = 0
+OleObjectCount = 0
+

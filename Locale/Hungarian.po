@@ -1,0 +1,3841 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Graph\n"
+"POT-Creation-Date: 2012-11-12 22:11\n"
+"PO-Revision-Date: 2012-11-07 21:21+0100\n"
+"Last-Translator: Michael Bach Ipsen <rosenthall@hotmail.com>\n"
+"Language-Team: Magyari Gábor <magyari@kola.sulinet.hu>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: dxgettext 1.2.1\n"
+"X-Poedit-Country: HUNGARY\n"
+"X-Poedit-Basepath: e:\\\n"
+
+#. Form1..Recent1..Hint
+msgid "Open file: %s"
+msgstr "Megnyitás"
+
+#. Form1..PopupMenu1..Tree_ShowInLegend..Caption
+msgid "Show in legend"
+msgstr "Mutasd az emlékeztetőben"
+
+#. Form1..PopupMenu1..Tree_ShowInLegend..Hint
+msgid "Check to show the selected item in the legend."
+msgstr "Jelöld be, hogy a kiválsztott elem látható legyen az emlékeztetőben."
+
+#. Form1..PopupMenu1..Tree_Placement..Caption
+#. Form1..PopupMenu3..Label_Placement..Caption
+#. Form1..PopupMenu4..Legend_Placement..Caption
+#. Form21..Caption
+msgid "Placement"
+msgstr "Elhelyezés"
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Above..Caption
+#. Form1..PopupMenu3..Label_Placement..Label_Above..Caption
+msgid "Above x-axis"
+msgstr "Az x tengely fölött"
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Above....Hint
+#. Form1..PopupMenu3..Label_Placement..Label_Above....Hint
+msgid "Place the label directly above the x-axis on the right side of the image."
+msgstr "A cimke legyen közvetlenül az x tengely fölött a kép jobb oldalán."
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Below..Caption
+#. Form1..PopupMenu3..Label_Placement..Label_Below..Caption
+msgid "Below x-axis"
+msgstr "Az x tengely alatt"
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Below....Hint
+#. Form1..PopupMenu3..Label_Placement..Label_Below....Hint
+msgid "Place the label directly below the x-axis on the right side of the image."
+msgstr "A cimke legyen közvetlenül az x tengely alatt a kép jobb oldalán."
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Left..Caption
+#. Form1..PopupMenu3..Label_Placement..Label_Left..Caption
+msgid "Left of y-axis"
+msgstr "Az y tengelytől balra"
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Left....Hint
+#. Form1..PopupMenu3..Label_Placement..Label_Left....Hint
+msgid "Place the label to the left of the y-axis at the top of the image."
+msgstr "A cimke legyen közvetlenül balra az y tengelytől a kép tetején."
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Right..Caption
+#. Form1..PopupMenu3..Label_Placement..Label_Right..Caption
+msgid "Right of y-axis"
+msgstr "Az y tengelytől jobbra"
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Right....Hint
+#. Form1..PopupMenu3..Label_Placement..Label_Right....Hint
+msgid "Place the label to the right of the y-axis at the top of the image."
+msgstr "A cimke legyen közvetlenül jobbra az y tengelytől a kép tetején."
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Placement_Custom..Caption
+#. Form1..PopupMenu1..Tree_Rotation..Tree_Rotation_Custom..Caption
+#. Form1..PopupMenu3..Label_Placement..Label_Placement_Custom..Caption
+#. Form1..PopupMenu3..Label_Rotation..Label_Rotation_Custom..Caption
+#. Form11..GroupBox2..ExtColorBox1..CustomName
+#. Form12..GroupBox2..ExtColorBox1..CustomName
+#. Form13..GroupBox1..ExtColorBox1..CustomName
+#. Form14..PageControl1..TabSheet1..GroupBox1..ExtColorBox1..CustomName
+#. Form14..PageControl1..TabSheet1..GroupBox2..ExtColorBox2..CustomName
+#. Form16..PageControl1..TabSheet2..GroupBox3..ExtColorBox1..CustomName
+#. Form3..PageControl1..TabSheet4..GroupBox3..ExtColorBox1..CustomName
+#. Form3..PageControl1..TabSheet4..GroupBox3..ExtColorBox2..CustomName
+#. Form3..PageControl1..TabSheet4..GroupBox3..ExtColorBox3..CustomName
+#. Form5..GroupBox4..GridPanelEx1..ExtColorBox1..CustomName
+#. Form6..ColorBox1..CustomName
+#. Form6..ColorBox2..CustomName
+#. Form7..GroupBox4..ExtColorBox1..CustomName
+msgid "Custom..."
+msgstr "Egyéni..."
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Placement_Custom..Hint
+#. Form1..PopupMenu3..Label_Placement..Label_Placement_Custom..Hint
+msgid "Place the label at a custom position."
+msgstr "Cimke egyéni elhelyezése"
+
+#. Form1..PopupMenu1..Tree_Rotation..Caption
+#. Form1..PopupMenu3..Label_Rotation..Caption
+msgid "Rotation"
+msgstr "Forgatás"
+
+#. Form1..PopupMenu1..Tree_Rotation..Tree_Rotation_0..Hint
+#. Form1..PopupMenu3..Label_Rotation..Rotation_0..Hint
+msgid "Show the label with no rotation."
+msgstr "Kiszínezi a grafikon alatti területet."
+
+#. Form1..PopupMenu1..Tree_Rotation..Tree_Rotation_90..Hint
+#. Form1..PopupMenu3..Label_Rotation..Rotation_90..Hint
+msgid "Show the label rotated 90° counter clockwise."
+msgstr "Cimke 90°-kal jobbra forgatva."
+
+#. Form1..PopupMenu1..Tree_Rotation..Tree_Rotation_180..Hint
+#. Form1..PopupMenu3..Label_Rotation..Rotation_180..Hint
+msgid "Show the label rotated 180°."
+msgstr "Cimke 180°-kal elforgatva"
+
+#. Form1..PopupMenu1..Tree_Rotation..Tree_Rotation_270..Hint
+#. Form1..PopupMenu3..Label_Rotation..Rotation_270..Hint
+msgid "Show the label rotated 270° counter clockwise."
+msgstr "Cimke 90°-kal balra forgatva"
+
+#. Form1..PopupMenu1..Tree_Rotation..Tree_Rotation_Custom..Hint
+#. Form1..PopupMenu3..Label_Rotation..Label_Rotation_Custom..Hint
+msgid "Specify the angle of rotation for the label."
+msgstr "Válaszd ki a cím betűtípusát."
+
+#. Form1..PopupMenu1..Tree_Export..Caption
+#. Form14..PopupMenu1..Popup_Export..Caption
+#. Form15..PopupMenu1..Popup1_Export..Caption
+#. Form17..PopupMenu1..Popup_Export..Caption
+msgid "Export to file..."
+msgstr "Exportálás fájlba..."
+
+#. Form1..PopupMenu1..Tree_Export..Hint
+msgid "Export the selected point series to a file."
+msgstr "A pontsor exportálása fájlba."
+
+#. Form1..ActionManager..............Caption
+msgid "Import"
+msgstr "Importálás"
+
+#. Form1..ActionManager..........Caption
+#. Form1..ActionManager..NewAction..Category
+#. Form1..ActionManager..OpenAction..Category
+#. Form1..ActionManager..SaveAction..Category
+#. Form1..ActionManager..SaveAsAction..Category
+#. Form1..ActionManager..SaveCopyAsAction..Category
+#. Form1..ActionManager..SaveAsImageAction..Category
+#. Form1..ActionManager..PrintAction..Category
+#. Form1..ActionManager..ExitAction..Category
+#. Form1..ActionManager..ImportGraphFileAction..Category
+#. Form1..ActionManager..ImportPointSeriesAction..Category
+msgid "File"
+msgstr "Fájl"
+
+#. Form1..ActionManager..........Caption
+#. Form1..ActionManager..UndoAction..Category
+#. Form1..ActionManager..RedoAction..Category
+#. Form1..ActionManager..CutAction..Category
+#. Form1..ActionManager..CopyAction..Category
+#. Form1..ActionManager..PasteAction..Category
+#. Form1..ActionManager..CopyImageAction..Category
+#. Form1..ActionManager..AxesAction..Category
+#. Form1..ActionManager..OptionsAction..Category
+msgid "Edit"
+msgstr "Szerkesztés"
+
+#. Form1..ActionManager..........Caption
+#. Form1..ActionManager..InsertFunctionAction..Category
+#. Form1..ActionManager..InsertTangentAction..Category
+#. Form1..ActionManager..InsertShadeAction..Category
+#. Form1..ActionManager..InsertPointsAction..Category
+#. Form1..ActionManager..InsertTrendlineAction..Category
+#. Form1..ActionManager..EditAction..Category
+#. Form1..ActionManager..DeleteAction..Category
+#. Form1..ActionManager..InsertDifAction..Category
+#. Form1..ActionManager..InsertLabelAction..Category
+#. Form1..ActionManager..InsertRelationAction..Category
+#. Form1..ActionManager..CustomFunctionsAction..Category
+#. ParFuncFrame..ComboBox1..Text
+#. ParFuncFrame..ComboBox1....Items.Strings
+#. PolFuncFrame..ComboBox1..Text
+#. PolFuncFrame..ComboBox1....Items.Strings
+#. StdFuncFrame..ComboBox1..Text
+#. StdFuncFrame..ComboBox1....Items.Strings
+msgid "Function"
+msgstr "Függvény"
+
+#. Form1..ActionManager..........Caption
+#. Form1..ActionManager..ZoomInAction..Category
+#. Form1..ActionManager..ZoomOutAction..Category
+#. Form1..ActionManager..ZoomWindowAction..Category
+#. Form1..ActionManager..ZoomSquareAction..Category
+#. Form1..ActionManager..ZoomStandardAction..Category
+#. Form1..ActionManager..ZoomFitAction..Category
+#. Form1..ActionManager..ZoomFitAllAction..Category
+#. Form1..ActionManager..ZoomXInAction..Category
+#. Form1..ActionManager..ZoomXOutAction..Category
+#. Form1..ActionManager..ZoomYInAction..Category
+#. Form1..ActionManager..ZoomYOutAction..Category
+msgid "Zoom"
+msgstr "Nagyítás"
+
+#. Form1..ActionManager..........Caption
+#. Form1..ActionManager..PathAction..Category
+#. Form1..ActionManager..AreaAction..Category
+#. Form1..ActionManager..EvalAction..Category
+#. Form1..ActionManager..TableAction..Category
+#. Form1..ActionManager..AnimateAction..Category
+#. Form15..Button2..Caption
+msgid "Calc"
+msgstr "Számítások"
+
+#. Form1..ActionManager..........Caption
+msgid "Plugins"
+msgstr "Bővítmények"
+
+#. Form1..ActionManager..............Caption
+msgid "Internet"
+msgstr "Internet"
+
+#. Form1..ActionManager..........Caption
+#. Form1..ActionManager..ContentsAction..Category
+#. Form1..ActionManager..ListAction..Category
+#. Form1..ActionManager..HomePageAction..Category
+#. Form1..ActionManager..UpdateAction..Category
+#. Form1..ActionManager..AboutAction..Category
+#. Form1..ActionManager..FaqAction..Category
+#. Form1..ActionManager..DonateAction..Category
+#. Form1..ActionManager..TipAction..Category
+#. Form1..ActionManager..SupportAction..Category
+#. Form1..ActionManager..ScriptDocAction..Category
+#. Form11..Button3..Caption
+#. Form12..Button3..Caption
+#. Form13..Button3..Caption
+#. Form14..Button3..Caption
+#. Form15..Button3..Caption
+#. Form16..Button3..Caption
+#. Form17..Button4..Caption
+#. Form19..Button3..Caption
+#. Form3..Button3..Caption
+#. Form4..Button3..Caption
+#. Form5..Button3..Caption
+#. Form6..Button3..Caption
+#. Form7..Button3..Caption
+msgid "Help"
+msgstr "Segítség"
+
+#. Form1..ActionManager..NewAction..Caption
+msgid "New"
+msgstr "Új"
+
+#. Form1..ActionManager..NewAction..Hint
+msgid "Create a new coordinate system."
+msgstr "Új koordinátarendszer létrehozása."
+
+#. Form1..ActionManager..OpenAction..Caption
+msgid "Open..."
+msgstr "Megnyitás"
+
+#. Form1..ActionManager..OpenAction..Hint
+msgid "Read a coordinate system from a file."
+msgstr "Koordinátarendszer és függvények beolvasása fájlból."
+
+#. Form1..ActionManager..SaveAction..Caption
+msgid "Save"
+msgstr "Mentés"
+
+#. Form1..ActionManager..SaveAction..Hint
+msgid "Write the current coordinate system to a file."
+msgstr "Koordinátarendszer és függvények kiírása fájlba."
+
+#. Form1..ActionManager..SaveAsAction..Caption
+#. Form20..PopupMenu1..Save1..Caption
+msgid "Save as..."
+msgstr "Mentés másként"
+
+#. Form1..ActionManager..SaveAsAction..Hint
+msgid "Write the current coordinate system to a file with a new name."
+msgstr "A koordinátarendszer mentése új néven."
+
+#. Form1..ActionManager..SaveCopyAsAction..Caption
+msgid "Save copy as..."
+msgstr "Másolat mentése"
+
+#. Form1..ActionManager..SaveCopyAsAction..Hint
+msgid "Save a copy of the current coordinate system to a file."
+msgstr "Az aktuális koordinátarendszer mentése"
+
+#. Form1..ActionManager..SaveAsImageAction..Caption
+msgid "Save as image..."
+msgstr "Mentés képként"
+
+#. Form1..ActionManager..SaveAsImageAction..Hint
+msgid "Save the shown coordinate system as an image."
+msgstr "A koordinátarendszer mentése kép formátumba."
+
+#. Form1..ActionManager..PrintAction..Caption
+msgid "Print..."
+msgstr "Nyomtatás"
+
+#. Form1..ActionManager..PrintAction..Hint
+msgid "Print shown coordinate system."
+msgstr "A koordinátarendszer kinyomtatása."
+
+#. Form1..ActionManager..ExitAction..Caption
+msgid "Exit"
+msgstr "Kilépés"
+
+#. Form1..ActionManager..ExitAction..Hint
+msgid "Quit the program."
+msgstr "Kilépés a programból."
+
+#. Form1..ActionManager..UndoAction..Caption
+#. Form6..PopupMenu1..Popup_Undo..Caption
+msgid "Undo"
+msgstr "Visszavonás"
+
+#. Form1..ActionManager..UndoAction..Hint
+msgid "Undo the last action."
+msgstr "Az utolsó művelet visszavonása."
+
+#. Form1..ActionManager..RedoAction..Caption
+#. Form6..PopupMenu1..Popup_Redo..Caption
+msgid "Redo"
+msgstr "Ismét"
+
+#. Form1..ActionManager..RedoAction..Hint
+msgid "Redo the last action undone."
+msgstr "Az utolsó visszavont művelet helyreállítása."
+
+#. Form1..ActionManager..CutAction..Caption
+#. Form14..PopupMenu1..Popup_Cut..Caption
+#. Form17..PopupMenu1..Popup_Cut..Caption
+#. Form6..PopupMenu1..Popup_Cut..Caption
+msgid "Cut"
+msgstr "Kivágás"
+
+#. Form1..ActionManager..CutAction..Hint
+msgid "Cut the selected function or point series to the clipboard."
+msgstr "A kijelölt függvény vagy pontsor kivágása a vágólapra."
+
+#. Form1..ActionManager..CopyAction..Caption
+#. Form14..PopupMenu1..Popup_Copy..Caption
+#. Form15..PopupMenu1..Popup1_Copy..Caption
+#. Form17..PopupMenu1..Popup_Copy..Caption
+#. Form6..PopupMenu1..Popup_Copy..Caption
+msgid "Copy"
+msgstr "Másolás"
+
+#. Form1..ActionManager..CopyAction..Hint
+msgid "Copy the selected function or point series to the clipboard."
+msgstr "A kijelölt függvény vagy pontsor másolása a vágólapra."
+
+#. Form1..ActionManager..PasteAction..Caption
+#. Form14..PopupMenu1..Popup_Paste..Caption
+#. Form17..PopupMenu1..Popup_Paste..Caption
+#. Form6..PopupMenu1..Popup_Paste..Caption
+msgid "Paste"
+msgstr "Beillesztés"
+
+#. Form1..ActionManager..PasteAction....Hint
+msgid "Paste a function or point series from the clipboard into the coordinate system."
+msgstr "A vágólap tartalmának beillesztése a koordinátarendszerbe."
+
+#. Form1..ActionManager..CopyImageAction..Caption
+msgid "Copy image"
+msgstr "Kép másolása"
+
+#. Form1..ActionManager..CopyImageAction..Hint
+msgid "Copy the shown coordinate system to the clipboard."
+msgstr "A koordinátarendszer másolása képként."
+
+#. Form1..ActionManager..AxesAction..Caption
+msgid "Axes..."
+msgstr "Tengelyek"
+
+#. Form1..ActionManager..AxesAction..Hint
+msgid "Edit axes settings."
+msgstr "Tengelyek beállítása."
+
+#. Form1..ActionManager..OptionsAction..Caption
+#. Form1..SaveDialogEx1..HelpCaption
+#. Form19..Button4..Caption
+msgid "Options..."
+msgstr "Beállítások"
+
+#. Form1..ActionManager..OptionsAction..Hint
+msgid "Edit various options for the interface and program features."
+msgstr "A programfelület és az elérhető szolgáltatások beállításainak módosítása."
+
+#. Form1..ActionManager..InsertFunctionAction..Caption
+msgid "Insert function..."
+msgstr "Függvény beszúrása"
+
+#. Form1..ActionManager..InsertFunctionAction..Hint
+msgid "Insert a new function."
+msgstr "Új függvény hozzáadása."
+
+#. Form1..ActionManager..InsertTangentAction..Caption
+msgid "Insert tangent/normal..."
+msgstr "Érintő/merőleges"
+
+#. Form1..ActionManager..InsertTangentAction..Hint
+msgid "Insert a tangent or normal for the selected function."
+msgstr "Érintő hozzáadása a kiválasztott függvényhez."
+
+#. Form1..ActionManager..InsertShadeAction..Caption
+msgid "Insert shading..."
+msgstr "Kiszínezés"
+
+#. Form1..ActionManager..InsertShadeAction..Hint
+msgid "Add shading to the selected function."
+msgstr "A függvény által meghatározott rész besatírozása."
+
+#. Form1..ActionManager..InsertPointsAction..Caption
+msgid "Insert point series..."
+msgstr "Pontsor beszúrása"
+
+#. Form1..ActionManager..InsertPointsAction..Hint
+msgid "Insert a point series."
+msgstr "Pontsor beszúrása"
+
+#. Form1..ActionManager..InsertTrendlineAction..Caption
+msgid "Insert trendline..."
+msgstr "Trendvonal felvétele"
+
+#. Form1..ActionManager..InsertTrendlineAction..Hint
+msgid "Insert a curve of best fit for the selected point series."
+msgstr "Pontsorhoz illeszkedő görbe hozzáadása."
+
+#. Form1..ActionManager..EditAction..Caption
+msgid "Edit..."
+msgstr "Szerkesztés"
+
+#. Form1..ActionManager..EditAction..Hint
+msgid "Edit the selected element: Function, tangent, point series, etc."
+msgstr "A kiválasztott függvény, érintő vagy pontsor módosítása."
+
+#. Form1..ActionManager..DeleteAction..Caption
+#. Form14..PopupMenu1..Popup_Delete..Caption
+#. Form17..PopupMenu1..Popup_Delete..Caption
+msgid "Delete"
+msgstr "Törlés"
+
+#. Form1..ActionManager..DeleteAction..Hint
+msgid "Delete the selected function, tangent or point series."
+msgstr "A kiválasztott függvény, érintő vagy pontsor törlése."
+
+#. Form1..ActionManager..InsertDifAction..Caption
+msgid "Insert f'(x)..."
+msgstr "f'(x) beszúrása"
+
+#. Form1..ActionManager..InsertDifAction..Hint
+msgid "Insert the first derivative of the selected function."
+msgstr "A kiválasztott függvény első deriváltjának hozzáadása."
+
+#. Form1..ActionManager..ZoomInAction..Caption
+msgid "In"
+msgstr "Nagyítás"
+
+#. Form1..ActionManager..ZoomInAction..Hint
+msgid "Zoom in. Hold down Shift to zoom with larger steps."
+msgstr "Nagyítás. A Shift nyomva tartásával gyorsabb ütemben."
+
+#. Form1..ActionManager..ZoomOutAction..Caption
+msgid "Out"
+msgstr "Kicsinyítés"
+
+#. Form1..ActionManager..ZoomOutAction..Hint
+msgid "Zoom out. Hold down Shift to zoom with larger steps."
+msgstr "Kicsinyítés. A Shift nyomva tartásával gyorsabb ütemben."
+
+#. Form1..ActionManager..ZoomWindowAction..Caption
+msgid "Window"
+msgstr "Ablak"
+
+#. Form1..ActionManager..ZoomWindowAction..Hint
+msgid "Zoom to user selected window."
+msgstr "A kijelölt ablak kinagyítása."
+
+#. Form1..ActionManager..ZoomSquareAction..Caption
+msgid "Square"
+msgstr "Arányos"
+
+#. Form1..ActionManager..ZoomSquareAction....Hint
+msgid "Zoom to scale the axes equally. This will show a plotted circle in its correct relation instead of an ellipse."
+msgstr "Arányos nagyítás. Ezt használva a kör körnek látszik és nem ellipszisnek."
+
+#. Form1..ActionManager..ZoomStandardAction..Caption
+msgid "Standard"
+msgstr "Alap"
+
+#. Form1..ActionManager..ZoomStandardAction..Hint
+msgid "Reset the axes to their default settings."
+msgstr "A tengelyek visszaállítása eredeti állapotába."
+
+#. Form1..ActionManager..MoveUpAction..Category
+#. Form1..ActionManager..MoveDownAction..Category
+#. Form1..ActionManager..MoveLeftAction..Category
+#. Form1..ActionManager..MoveRightAction..Category
+#. Form1..ActionManager..MoveAction..Category
+msgid "Move"
+msgstr "Mozgatás"
+
+#. Form1..ActionManager..MoveUpAction..Caption
+msgid "Move up"
+msgstr "Fel"
+
+#. Form1..ActionManager..MoveUpAction....Hint
+msgid "Move the graphing area up along the coordinate system. Hold down Shift to move in larger steps."
+msgstr "Az ablakot felfelé mozdítja a koordinátarendszerhez képest. A Shift nyomva tartásával gyorsabban."
+
+#. Form1..ActionManager..MoveDownAction..Caption
+msgid "Move down"
+msgstr "Le"
+
+#. Form1..ActionManager..MoveDownAction....Hint
+msgid "Move the graphing area down along the coordinate system. Hold down Shift to move in larger steps."
+msgstr "Az ablakot lefelé mozdítja a koordinátarendszerhez képest. A Shift nyomva tartásával gyorsabban."
+
+#. Form1..ActionManager..MoveLeftAction..Caption
+msgid "Move left"
+msgstr "Balra"
+
+#. Form1..ActionManager..MoveLeftAction....Hint
+msgid "Move the graphing area to the left along the coordinate system. Hold down Shift to move in larger steps."
+msgstr "Az ablakot balra mozdítja a koordinátarendszerhez képest. A Shift nyomva tartásával gyorsabban."
+
+#. Form1..ActionManager..MoveRightAction..Caption
+msgid "Move right"
+msgstr "Jobbra"
+
+#. Form1..ActionManager..MoveRightAction....Hint
+msgid "Move the graphing area to the right along the coordinate system. Hold down Shift to move in larger steps."
+msgstr "Az ablakot jobbra mozdítja a koordinátarendszerhez képest. A Shift nyomva tartásával gyorsabban."
+
+#. Form1..ActionManager..MoveAction..Caption
+msgid "Move system"
+msgstr "Mozgatás egérrel"
+
+#. Form1..ActionManager..MoveAction..Hint
+msgid "Move the coordinate system with the mouse."
+msgstr "A koordinátarendszer mozgatása egérrel"
+
+#. Form1..ActionManager..PathAction..Caption
+msgid "Length of path"
+msgstr "Ívhossz"
+
+#. Form1..ActionManager..PathAction....Hint
+msgid "Calculate the length of path between two given points on the curve."
+msgstr "Ívhossz kiszámítása a görbe két adott pontja között."
+
+#. Form1..ActionManager..AreaAction..Caption
+#. AreaFrame..GridPanel1..Label3..Caption
+msgid "Area"
+msgstr "Terület"
+
+#. Form1..ActionManager..AreaAction..Hint
+msgid "Calculate the definite integral over a given interval."
+msgstr "A megadott intervallumhoz tartozó határozott integrál számítása."
+
+#. Form1..ActionManager..EvalAction..Caption
+#. Form9..Caption
+msgid "Evaluate"
+msgstr "Számítás"
+
+#. Form1..ActionManager..EvalAction..Hint
+msgid "Evaluate or trace the selected function."
+msgstr "A kiválasztott függvény értékeinek számítása és ábrázolása."
+
+#. Form1..ActionManager..TableAction..Caption
+msgid "Table"
+msgstr "Táblázat"
+
+#. Form1..ActionManager..TableAction..Hint
+msgid "Show an evaluation table."
+msgstr "Értéktáblázat megjelenítése."
+
+#. Form1..ActionManager..ContentsAction..Caption
+msgid "Contents and index"
+msgstr "Tartalom"
+
+#. Form1..ActionManager..ContentsAction..Hint
+msgid "Open help file."
+msgstr "Help fájl megnyitása (angol)."
+
+#. Form1..ActionManager..ListAction..Caption
+msgid "List of functions"
+msgstr "Függvények listája"
+
+#. Form1..ActionManager..ListAction..Hint
+msgid "Show a list of built-in functions that can be used for graphing."
+msgstr "A beépített függvények listájának megjelenítése."
+
+#. Form1..ActionManager..HomePageAction..Caption
+msgid "Graph web site"
+msgstr "A Graph weboldala."
+
+#. Form1..ActionManager..HomePageAction..Hint
+msgid "Open the default browser and show the Graph web site."
+msgstr "A Graph honlapja - megnyitás az alapértelmezett böngészővel."
+
+#. Form1..ActionManager..UpdateAction..Caption
+msgid "Check for update"
+msgstr "Frissítés"
+
+#. Form1..ActionManager..UpdateAction..Hint
+msgid "Contact the home page to see if a newer version is available."
+msgstr "Programfrissítés keresése az Interneten."
+
+#. Form1..ActionManager..AboutAction..Caption
+#. Form2..Caption
+msgid "About Graph"
+msgstr "A Graph névjegye"
+
+#. Form1..ActionManager..AboutAction..Hint
+msgid "Show copyright information."
+msgstr "Szerzői jogok"
+
+#. Form1..ActionManager..SeparatorAction..Category
+#. Form1..ActionManager..SeparatorAction..Caption
+msgid "Separator"
+msgstr "Elválasztó"
+
+#. Form1..ActionManager..ZoomFitAction..Caption
+msgid "Fit"
+msgstr "Kitölt"
+
+#. Form1..ActionManager..ZoomFitAction..Hint
+msgid "Zoom to show the selected element."
+msgstr "Olyan nagyítás, amely esetén a kiválasztott elem kitölti a lehetséges ablakot."
+
+#. Form1..ActionManager..ZoomFitAllAction..Caption
+msgid "Fit all"
+msgstr "Teljes nagyítás"
+
+#. Form1..ActionManager..ZoomFitAllAction..Hint
+msgid "Zoom to show all elements."
+msgstr "Olyan nagyítás, amely esetén minden elem látszik."
+
+#. Form1..ActionManager..FaqAction..Caption
+msgid "Frequently Asked Questions"
+msgstr "GyIK"
+
+#. Form1..ActionManager..FaqAction..Hint
+msgid "Show a list of frequently asked questions and their answers."
+msgstr "A gyakran ismételt kérdések és válaszok megjelenítése."
+
+#. Form1..ActionManager..InsertLabelAction..Caption
+msgid "Insert label..."
+msgstr "Cimke beszúrása"
+
+#. Form1..ActionManager..InsertLabelAction..Hint
+msgid "Insert a text label."
+msgstr "Cimke beszúrása"
+
+#. Form1..ActionManager..DonateAction..Caption
+msgid "Donate"
+msgstr "Támogatás"
+
+#. Form1..ActionManager..DonateAction..Hint
+msgid "Donate money to the project."
+msgstr "Támogasd pénzzel a terméket"
+
+#. Form1..ActionManager..TipAction..Caption
+#. Form10..Caption
+#. Form10..Panel1..LinkLabel1..Caption
+msgid "Tip of the day"
+msgstr "A nap ötlete"
+
+#. Form1..ActionManager..TipAction..Hint
+msgid "Show tip of the day"
+msgstr "Mutasd a nap ötletét"
+
+#. Form1..ActionManager..SupportAction..Caption
+msgid "Support"
+msgstr "Támogatás"
+
+#. Form1..ActionManager..SupportAction..Hint
+msgid "Open browser with the support page for the program."
+msgstr "A programtámogatás weboldalának megnyitása."
+
+#. Form1..ActionManager..ZoomXInAction..Caption
+msgid "Zoom x-axis in"
+msgstr "x nagyítás"
+
+#. Form1..ActionManager..ZoomXInAction....Hint
+msgid "Zoom in on the x-axis only. Hold down Shift to zoom with larger steps."
+msgstr "Nyújtás (csak x tengely). A Shift nyomva tartásával gyorsabb ütemben."
+
+#. Form1..ActionManager..ZoomXOutAction..Caption
+msgid "Zoom x-axis out"
+msgstr "x kicsinyítés"
+
+#. Form1..ActionManager..ZoomXOutAction....Hint
+msgid "Zoom out on the x-axis only. Hold down Shift to zoom with larger steps."
+msgstr "Zsugorítás (csak x tengely). A Shift nyomva tartásával gyorsabb ütemben."
+
+#. Form1..ActionManager..ZoomYInAction..Caption
+msgid "Zoom y-axis in"
+msgstr "y nagyítás"
+
+#. Form1..ActionManager..ZoomYInAction....Hint
+msgid "Zoom in on the y-axis only. Hold down Shift to zoom with larger steps."
+msgstr "Nyújtás (csak y tengely). A Shift nyomva tartásával gyorsabb ütemben."
+
+#. Form1..ActionManager..ZoomYOutAction..Caption
+msgid "Zoom y-axis out"
+msgstr "y kicsinyítés"
+
+#. Form1..ActionManager..ZoomYOutAction....Hint
+msgid "Zoom out on the y-axis only. Hold down Shift to zoom with larger steps."
+msgstr "Zsugorítás (csak y tengely). A Shift nyomva tartásával gyorsabb ütemben."
+
+#. Form1..ActionManager..InsertRelationAction..Caption
+msgid "Insert relation..."
+msgstr "Egyenlet beszúrása"
+
+#. Form1..ActionManager..InsertRelationAction..Hint
+msgid "Insert a new equation or inequality."
+msgstr "Új egyenlet vagy egyenlőtlenség beszúrása."
+
+#. Form1..ActionManager..CustomFunctionsAction..Caption
+msgid "Custom functions/constants..."
+msgstr "Egyéni függvények/állandók"
+
+#. Form1..ActionManager..CustomFunctionsAction..Hint
+msgid "Create custom functions and constants for use in graphs."
+msgstr "A programban használható egyéni függvények készítése."
+
+#. Form1..ActionManager..AnimateAction..Caption
+msgid "Animate..."
+msgstr "Animáció..."
+
+#. Form1..ActionManager..AnimateAction..Hint
+msgid "Create an animation by variating a constant."
+msgstr "Animáció készítése egy konstans változtatásával."
+
+#. Form1..ActionManager..ImportGraphFileAction..Caption
+msgid "Graph file..."
+msgstr "Graph fájl..."
+
+#. Form1..ActionManager..ImportGraphFileAction..Hint
+msgid "Import a Graph file into the current coordinate system."
+msgstr "Grah fájl importálása a jelenlegi koordinátarendszerbe."
+
+#. Form1..ActionManager..ImportPointSeriesAction..Caption
+msgid "Point series..."
+msgstr "Pontsor..."
+
+#. Form1..ActionManager..ImportPointSeriesAction..Hint
+msgid "Import point series from a data file."
+msgstr "Pontsor importálása adatfájlból."
+
+#. Form1..ActionManager..ScriptDocAction..Caption
+msgid "Scripting engine documentation"
+msgstr "Szkript motor dokumentációja."
+
+#. Form1..ActionManager..ScriptDocAction..Hint
+msgid "Show documentation for scripting engine and plugin system."
+msgstr "Mutassa a szkriptek és bővítmények dokumentációját."
+
+#. Form1..PopupMenu2..ToolBar_Reset..Caption
+msgid "Reset to default"
+msgstr "Visszaállítás"
+
+#. Form1..PopupMenu2..ToolBar_Reset..Hint
+msgid "Reset the toolbar icons to the installation default."
+msgstr "Az eszköztár visszaállítása eredeti állapotába."
+
+#. Form1..PopupMenu2..ToolBar_Customize..Caption
+msgid "Customize toolbar..."
+msgstr "Testreszabás"
+
+#. Form1..PopupMenu2..ToolBar_Customize..Hint
+msgid "Customize the icons shown on the toolbar."
+msgstr "Az eszköztár elemeinek módosítása."
+
+#. Form1..PopupMenu3..Label_Edit..Caption
+msgid "Edit label..."
+msgstr "Cimke szerkesztése"
+
+#. Form1..PopupMenu3..Label_Edit..Hint
+msgid "Edit the label under the cursor."
+msgstr "A kijelölt cimke módosítása."
+
+#. Form1..PopupMenu3..Label_Delete..Caption
+msgid "Delete label"
+msgstr "Cimke törlése"
+
+#. Form1..PopupMenu3..Label_Delete..Hint
+msgid "Delete the label under the cursor."
+msgstr "A kijelölt cimke törlése."
+
+#. Form1..PopupMenu4..Legend_Show..Caption
+#. Form3..PageControl1..TabSheet3..CheckBox15..Caption
+msgid "Show legend"
+msgstr "Emlékeztető"
+
+#. Form1..PopupMenu4..Legend_Show..Hint
+#. Form3..PageControl1..TabSheet3..CheckBox15..Hint
+msgid "Select to show a legend in the coordinate system."
+msgstr "Mutassa az emlékeztetőt."
+
+#. Form1..PopupMenu4..Legend_Font..Caption
+msgid "Font..."
+msgstr "Betűtípus..."
+
+#. Form1..PopupMenu4..Legend_Font..Hint
+msgid "Change the font of the legend."
+msgstr "Válaszd ki a cimke betűtípusát."
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_TopRight..Caption
+#. Form3..PageControl1..TabSheet3..RadioGroup3....Items.Strings
+msgid "Top Right"
+msgstr "Jobbra fent"
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_TopRight..Hint
+msgid "Show the legend in the upper right corner."
+msgstr "Mutassa az emlékeztetőt a kép jobb felső sarkában."
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_BottomRight..Caption
+#. Form3..PageControl1..TabSheet3..RadioGroup3....Items.Strings
+msgid "Bottom Right"
+msgstr "Jobbra lent"
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_BottomRight..Hint
+msgid "Show the legend in the bottom right corner."
+msgstr "Mutassa az emlékeztetőt a kép jobb alsó sarkában."
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_TopLeft..Caption
+#. Form3..PageControl1..TabSheet3..RadioGroup3....Items.Strings
+msgid "Top Left"
+msgstr "Balra fent"
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_TopLeft..Hint
+msgid "Show the legend in the upper left corner."
+msgstr "Mutassa az emlékeztetőt a kép bal felső sarkában."
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_BottomLeft..Caption
+#. Form3..PageControl1..TabSheet3..RadioGroup3....Items.Strings
+msgid "Bottom Left"
+msgstr "Balra lent"
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_BottomLeft..Hint
+msgid "Show the legend in the bottom left corner."
+msgstr "Mutassa az emlékeztetőt a kép bal alsó sarkában."
+
+#. Form10..Button1..Caption
+#. Form15..Button1..Caption
+#. Form19..Button2..Caption
+msgid "Close"
+msgstr "Bezárás"
+
+#. Form10..Button2..Caption
+msgid "Next tip"
+msgstr "Következő ötlet"
+
+#. Form10..Button3..Caption
+msgid "Previous tip"
+msgstr "Előző ötlet"
+
+#. Form10..CheckBox1..Caption
+msgid "Show tips at startup"
+msgstr "Mutasd az ötleteket induláskor"
+
+#. Form10..Panel1..Label1..Caption
+msgid "Did you know..."
+msgstr "Tudtad-e"
+
+#. Form11..Caption
+msgid "Insert relation"
+msgstr "Összefüggés beszúrása"
+
+#. Form11..Label1..Caption
+msgid "Relation:"
+msgstr "Összefüggés:"
+
+#. Form11..Label2..Caption
+msgid "Constraints:"
+msgstr "Feltételek:"
+
+#. Form11..Button1..Caption
+#. Form12..Button1..Caption
+#. Form13..Button1..Caption
+#. Form14..Button1..Caption
+#. Form16..Button1..Caption
+#. Form17..Button1..Caption
+#. Form18..Button1..Caption
+#. Form2..Button1..Caption
+#. Form21..TntButton1..Caption
+#. Form3..Button1..Caption
+#. Form4..Button1..Caption
+#. Form5..Button1..Caption
+#. Form6..Button1..Caption
+#. Form7..Button1..Caption
+#. Form8..Button1..Caption
+#. PrintFrm..Button1..Caption
+msgid "OK"
+msgstr "OK"
+
+#. Form11..Button2..Caption
+#. Form12..Button2..Caption
+#. Form13..Button2..Caption
+#. Form14..Button2..Caption
+#. Form15..ProgressForm1..ButtonCaption
+#. Form16..Button2..Caption
+#. Form17..Button2..Caption
+#. Form18..Button2..Caption
+#. Form19..ProgressForm1..ButtonCaption
+#. Form21..TntButton2..Caption
+#. Form3..Button2..Caption
+#. Form4..Button2..Caption
+#. Form5..Button2..Caption
+#. Form6..Button2..Caption
+#. Form7..Button2..Caption
+#. Form8..Button2..Caption
+#. PrintFrm..Button2..Caption
+msgid "Cancel"
+msgstr "Mégse"
+
+#. Form11..GroupBox1..Caption
+#. Form12..GroupBox1..Caption
+#. Form5..GroupBox3..Caption
+#. Form7..GroupBox3..Caption
+msgid "Legend text"
+msgstr "Emlékeztető szöveg"
+
+#. Form11..GroupBox1..Label10..Caption
+#. Form12..GroupBox1..Label10..Caption
+#. Form14..Label3..Caption
+#. Form16..PageControl1..TabSheet2..Label12..Caption
+#. Form5..GroupBox3..Label10..Caption
+#. Form7..GroupBox3..Label10..Caption
+msgid "Description:"
+msgstr "Leírás:"
+
+#. Form11..GroupBox1..Edit3....Hint
+#. Form5..GroupBox3..Edit7....Hint
+msgid "Write a descriptive text to show in the legend and function list. If empty the formula will be used."
+msgstr "Szöveg, amely az Emlékeztetőbe kerül. Ha üres, allor a hozzárendelési szabály jelenik meg."
+
+#. Form11..GroupBox2..Caption
+#. Form16..PageControl1..TabSheet2..GroupBox3..Caption
+#. PrintFrm..GroupBox1..Button3..Caption
+msgid "Properties"
+msgstr "Tulajdonságok"
+
+#. Form11..GroupBox2..Label7..Caption
+#. Form13..GroupBox1..Label7..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox1..Label1..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox2..Label5..Caption
+#. Form16..PageControl1..TabSheet2..GroupBox3..Label4..Caption
+msgid "Style:"
+msgstr "Stílus:"
+
+#. Form11..GroupBox2..Label9..Caption
+#. Form12..GroupBox2..Label9..Caption
+#. Form13..GroupBox1..Label6..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox1..Label2..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox2..Label6..Caption
+#. Form16..PageControl1..TabSheet2..GroupBox3..Label5..Caption
+#. Form5..GroupBox4..GridPanelEx1..Label9..Caption
+#. Form7..GroupBox4..Label9..Caption
+msgid "Color:"
+msgstr "Szín:"
+
+#. Form11..GroupBox2..Label3..Caption
+#. Form12..GroupBox2..Label8..Caption
+#. Form13..GroupBox1..Label5..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox2..Label7..Caption
+#. Form5..GroupBox4..GridPanelEx1..Label8..Caption
+#. Form7..GroupBox4..Label8..Caption
+msgid "Width:"
+msgstr "Vastagság:"
+
+#. Form11..GroupBox2..ShadeSelect1....Hint
+msgid "Select the style used for drawing the inequality. Not used for equations."
+msgstr "Válszd ki az egyenlőtlenség ábrázolásának típusát. Egyenlet esetén nem használható."
+
+#. Form11..GroupBox2..ExtColorBox1..Hint
+msgid "Select the color for drawing the relation."
+msgstr "A relációt ábrázoló grafikon színének kiválasztása."
+
+#. Form11..GroupBox2..Panel1..Edit4....Hint
+msgid "Width in pixels of the equation line or the borderline of the inequality."
+msgstr "Az egyenlet grafikonjának vastagsága képpontban. Egyenlőtlenségnél nem használható."
+
+#. Form11..Edit1..Hint
+msgid "Enter the relation, for example \"x^2+y^2 = 25\" or \"y < sin(x)\""
+msgstr "Írd le az összefüggést, pl. \"x^2+y^2 = 25\" vagy \"y < sin(x)\""
+
+#. Form11..Edit2....Hint
+msgid "Enter constraints for the relation, for example \"x > 0 and y < 5\""
+msgstr "Írd le a feltételeket, pl. \"x > 0 and y < 5\""
+
+#. Form12..Caption
+msgid "Insert tangent/normal"
+msgstr "Érintő/Normális beszúrása"
+
+#. Form12..Edit1..Hint
+msgid "Value where the tangent/normal will interact with the function."
+msgstr "Add meg az x koordinátát, amihez érintőt/normálist keresünk."
+
+#. Form12..RadioGroup1..Hint
+msgid "Choose if you want a tangent or a normal."
+msgstr "Válszd ki, hogy érintőt vagy normálist keressünk."
+
+#. Form12..RadioGroup1..Caption
+msgid "Type"
+msgstr "Típus"
+
+#. Form12..RadioGroup1....Items.Strings
+msgid "Tangent"
+msgstr "Érintő"
+
+#. Form12..RadioGroup1....Items.Strings
+msgid "Normal"
+msgstr "Normális"
+
+#. Form12..GroupBox1..Edit2....Hint
+#. Form7..GroupBox3..Edit3....Hint
+msgid "Write a descriptive text to show in the legend. If empty the equation will be used."
+msgstr "Írj szöveg az Emlékeztetőbe, különben a hozzárendelési szabály jelenik meg."
+
+#. Form12..GroupBox2..Caption
+#. Form5..GroupBox4..Caption
+#. Form7..GroupBox4..Caption
+msgid "Graph properties"
+msgstr "Grafikon tulajdonságai"
+
+#. Form12..GroupBox2..Label7..Caption
+#. Form5..GroupBox4..GridPanelEx1..Label7..Caption
+#. Form7..GroupBox4..Label7..Caption
+msgid "Line style:"
+msgstr "Vonalstílus:"
+
+#. Form12..GroupBox2..Edit3..Hint
+#. Form13..GroupBox1..Edit2..Hint
+#. Form5..GroupBox4..GridPanelEx1..Panel1..Edit6..Hint
+#. Form7..GroupBox4..Edit4..Hint
+msgid "Width of graph in pixels."
+msgstr "A grafikon vastagsága képpontban."
+
+#. Form12..GroupBox2..LineSelect1..Hint
+#. Form13..GroupBox1..LineSelect1..Hint
+#. Form5..GroupBox4..GridPanelEx1..LineSelect1..Hint
+#. Form7..GroupBox4..LineSelect1..Hint
+msgid "Choose which line style to use for drawing the graph."
+msgstr "Válaszd ki a vonalstílust a grafikon rajzolásához."
+
+#. Form12..GroupBox2..ExtColorBox1..Hint
+#. Form13..GroupBox1..ExtColorBox1..Hint
+#. Form5..GroupBox4..GridPanelEx1..ExtColorBox1..Hint
+#. Form7..GroupBox4..ExtColorBox1..Hint
+msgid "Select the color of the graph."
+msgstr "Az ábra színének kiválasztása."
+
+#. Form12..GroupBox3..Caption
+#. Form5..GroupBox2..Caption
+#. Form7..GroupBox2..Caption
+msgid "Argument range"
+msgstr "Változó tartománya"
+
+#. Form12..GroupBox3..Label4..Caption
+#. Form15..Label1..Caption
+#. Form16..PageControl1..TabSheet2..GroupBox1..Label6..Caption
+#. Form16..PageControl1..TabSheet3..GroupBox2..Label8..Caption
+#. Form19..TntGroupBox1..Label2..Caption
+#. Form5..GroupBox2..Label4..Caption
+#. Form7..GroupBox2..Label4..Caption
+#. AreaFrame..GridPanel1..Label1..Caption
+msgid "From:"
+msgstr "Honnan:"
+
+#. Form12..GroupBox3..Label5..Caption
+#. Form15..Label2..Caption
+#. Form16..PageControl1..TabSheet2..GroupBox1..Label7..Caption
+#. Form16..PageControl1..TabSheet3..GroupBox2..Label9..Caption
+#. Form19..TntGroupBox1..Label3..Caption
+#. Form5..GroupBox2..Label5..Caption
+#. Form7..GroupBox2..Label5..Caption
+#. AreaFrame..GridPanel1..Label2..Caption
+msgid "To:"
+msgstr "Meddig:"
+
+#. Form12..GroupBox3..Edit4..Hint
+#. Form5..GroupBox2..Edit3..Hint
+#. Form7..GroupBox2..Edit1..Hint
+msgid "Start of range interval for the used variable."
+msgstr "A változó legkisebb értéke"
+
+#. Form12..GroupBox3..Edit5..Hint
+#. Form5..GroupBox2..Edit4..Hint
+#. Form7..GroupBox2..Edit2..Hint
+msgid "End of range interval for the used variable."
+msgstr "A változó legnyagyobb értéke"
+
+#. Form12..GroupBox5..Caption
+#. Form5..GroupBox5..Caption
+msgid "Endpoints"
+msgstr "Végpontok"
+
+#. Form12..GroupBox5..Label11..Caption
+#. Form5..GroupBox5..Label11..Caption
+msgid "Start:"
+msgstr "Kezdőpont:"
+
+#. Form12..GroupBox5..Label12..Caption
+#. Form5..GroupBox5..Label12..Caption
+msgid "End:"
+msgstr "Végpont:"
+
+#. Form12..GroupBox5..ComboBox1....Hint
+#. Form5..GroupBox5..ComboBox2....Hint
+msgid "Select marker to show at the start of the interval. Only used if an argument range is specified."
+msgstr "Válaszd ki az intervallum kezdőpontjának stílusát. Csak, ha a változó tartománya meghatározott."
+
+#. Form12..GroupBox5..ComboBox2....Hint
+#. Form5..GroupBox5..ComboBox3....Hint
+msgid "Select marker to show at the end of the interval. Only used if an argument range is specified."
+msgstr "Válaszd ki az intervallum végpontjának stílusát. Csak, ha a változó tartománya meghatározott."
+
+#. Form13..Caption
+msgid "Insert trendline"
+msgstr "Trendvonal beszúrása"
+
+#. Form13..GroupBox1..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox2..Caption
+msgid "Line"
+msgstr "Egyenes"
+
+#. Form13..PageControl1..TabSheet1..Caption
+msgid "Built-in"
+msgstr "Beépített"
+
+#. Form13..PageControl1..TabSheet1..Panel1..Image1..Hint
+msgid "Create a linear function: f(x)=ax+b"
+msgstr "Egyenes illesztése: f(x)=ax+b"
+
+#. Form13..PageControl1..TabSheet1..Panel2..Image2..Hint
+msgid "Create a logarithmic function: f(x)=a*ln(x)+b"
+msgstr "Logaritmikus illesztés: f(x)=a*ln(x)+b"
+
+#. Form13..PageControl1..TabSheet1..Panel3..Image3..Hint
+msgid "Create a polynomial function: f(x)=ax^3+bx^2+cx+d"
+msgstr "Polinom illesztés: f(x)=ax^3+bx^2+cx+d"
+
+#. Form13..PageControl1..TabSheet1..Panel4..Image4..Hint
+msgid "Create a power function: f(x)=ax^b"
+msgstr "Hatványfüggvény illesztés: f(x)=ax^b"
+
+#. Form13..PageControl1..TabSheet1..Panel5..Image5..Hint
+msgid "Create a exponential function: f(x)=a*b^x"
+msgstr "Exponenciális illesztés: f(x)=a*b^x"
+
+#. Form13..PageControl1..TabSheet1..StaticText1..Caption
+msgid "Order:"
+msgstr "Fokszám:"
+
+#. Form13..PageControl1..TabSheet1..RadioButton3..Caption
+msgid "Polynomial"
+msgstr "Polinom"
+
+#. Form13..PageControl1..TabSheet1..RadioButton2..Caption
+msgid "Logarithmic"
+msgstr "Logaritmikus"
+
+#. Form13..PageControl1..TabSheet1..RadioButton1..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox2..ComboBox2....Items.Strings
+msgid "Linear"
+msgstr "Lineáris"
+
+#. Form13..PageControl1..TabSheet1..RadioButton4..Caption
+msgid "Power"
+msgstr "Hatvány"
+
+#. Form13..PageControl1..TabSheet1..RadioButton5..Caption
+msgid "Exponential"
+msgstr "Exponenciális"
+
+#. Form13..PageControl1..TabSheet1..Panel6..Image6..Hint
+msgid "Create a moving average as a series of straight lines."
+msgstr "Mozgóátlag készítése egyenesek sorozatából."
+
+#. Form13..PageControl1..TabSheet1..RadioButton6..Caption
+msgid "Moving average"
+msgstr "Mozgó átlag"
+
+#. Form13..PageControl1..TabSheet1..StaticText2..Caption
+msgid "Period:"
+msgstr "Periódus:"
+
+#. Form13..PageControl1..TabSheet1..Edit4..Hint
+msgid "Determines how many points are used for the average."
+msgstr "Meghatározza, hány pontból számoljunk átlagot."
+
+#. Form13..PageControl1..TabSheet1..Edit1..Hint
+msgid "The order of the polynomium. For example 2 means a parable."
+msgstr "A polinom fokszáma. Pl. 2 az parabolát jelent."
+
+#. Form13..PageControl1..TabSheet2..Caption
+msgid "User defined"
+msgstr "Saját"
+
+#. Form13..PageControl1..TabSheet2..Label1..Caption
+msgid "Model:"
+msgstr "Modell:"
+
+#. Form13..PageControl1..TabSheet2..Button4..Caption
+#. Form8..Caption
+msgid "Add model"
+msgstr "Modell hozzáadása"
+
+#. Form13..PageControl1..TabSheet2..Button5..Caption
+msgid "Remove model"
+msgstr "Modell törlése"
+
+#. Form13..PageControl1..TabSheet2..Button6..Caption
+msgid "Edit model"
+msgstr "Modell módosítása"
+
+#. Form13..PageControl1..TabSheet2..Edit3..Hint
+msgid "Enter a function model to base the trendline on."
+msgstr "Írd be milyen függvénymodell legyen a trendvonal."
+
+#. Form13..CheckBox1....Hint
+#. Form13..Edit5....Hint
+msgid "Type a value in the Intercept box to specify the point where you want the trendline to meet the y-axis. This is only available for linear, polynomial and exponential trendlines."
+msgstr "Írd a téglalapba azt az értéket, hol messe a trendvonal az y tengelyt. Ez a lehetőség csak lineáris, polinomiális és exponenciális illesztésnél elérhető. "
+
+#. Form13..CheckBox1..Caption
+msgid "Intercept ="
+msgstr "Tengelymetszet ="
+
+#. Form13..TntPopupMenu1..Popup_Import..Caption
+#. Form14..PopupMenu1..Popup_Import..Caption
+#. Form17..PopupMenu1..Popup_Import..Caption
+msgid "Import from file..."
+msgstr "Importálás fájlból"
+
+#. Form13..TntPopupMenu1..Popup_Import..Hint
+msgid "Import user models from a file."
+msgstr "Felhasználói modell importálása fájlból."
+
+#. Form13..TntPopupMenu1..Popup_Export..Caption
+msgid "Export all to file..."
+msgstr "Exportálás fájlba..."
+
+#. Form13..TntPopupMenu1..Popup_Export..Hint
+msgid "Export user models to a file."
+msgstr "A felhasználói modellek exportálása fájlba."
+
+#. Form13..SaveDialog1..Filter
+#. Form13..OpenDialog1..Filter
+msgid "User models [*.ini]|*.ini"
+msgstr "Felhasználói modellek [*.ini]|*.ini"
+
+#. Form14..Caption
+msgid "Insert point series"
+msgstr "Pontsor beszúrása"
+
+#. Form14..Edit1....Hint
+msgid "The name of the point series, which is shown in the list to the left of the coordinate system."
+msgstr "A pontsor neve. Ez jelenik meg a koordinátarendszerhez tartozó listán."
+
+#. Form14..Edit1..Text
+msgid "Series"
+msgstr "Pontsor"
+
+#. Form14..GroupBox4....Hint
+msgid "This shows a sample of the markers and the lines between the markers."
+msgstr "Ilyen lesz a pont és a pontokat összekötő vonal mintája."
+
+#. Form14..GroupBox4..Caption
+msgid "Sample"
+msgstr "Minta"
+
+#. Form14..PageControl1..TabSheet1..Caption
+msgid "Markers"
+msgstr "Jelek"
+
+#. Form14..PageControl1..TabSheet1..GroupBox1..Caption
+msgid "Marker"
+msgstr "Jel"
+
+#. Form14..PageControl1..TabSheet1..GroupBox1..Label4..Caption
+msgid "Size:"
+msgstr "Méret:"
+
+#. Form14..PageControl1..TabSheet1..GroupBox1..Edit2..Hint
+msgid "Choose the size of the markers."
+msgstr "Válaszd ki a jel méretét."
+
+#. Form14..PageControl1..TabSheet1..GroupBox1..PointSelect1..Hint
+msgid "Choose the type of markers to be shown at each point."
+msgstr "Válaszd ki a jel típusát."
+
+#. Form14..PageControl1..TabSheet1..GroupBox1..ExtColorBox1..Hint
+msgid "Choose the color of the markers."
+msgstr "Válaszd ki a jel színét."
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..Label11..Caption
+msgid "Interpolation:"
+msgstr "Interpoláció:"
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..LineSelect1....Hint
+msgid "Choose the style of lines to be drawn between the points. You may also choose not to draw any lines."
+msgstr "Válaszd ki a pontok közötti vonal stílusát. Választhatsz üreset is, ekkor a pontok nem lesznek összekötve."
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..Edit3..Hint
+msgid "Choose the width of the lines in pixels."
+msgstr "Válaszd ki a vonal vastagságát."
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..ComboBox2..Hint
+msgid "Select which kind of line to draw between the markers."
+msgstr "Válaszd ki a pontokat összekötő vonal típusát."
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..ComboBox2....Items.Strings
+msgid "1D cubic spline"
+msgstr "1D harmadfokú interpoláció"
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..ComboBox2....Items.Strings
+msgid "2D cubic spline"
+msgstr "2D harmadfokú interpoláció"
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..ComboBox2....Items.Strings
+msgid "Half cosine"
+msgstr "Koszinusz"
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..ExtColorBox2..Hint
+msgid "Choose the color of the lines."
+msgstr "Válaszd ki a vonal színét."
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..Caption
+msgid "Labels"
+msgstr "Cimkék"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..Label8..Caption
+msgid "Position:"
+msgstr "Pozíció:"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..CheckBox2..Hint
+msgid "Check to show the coordinate at each point."
+msgstr "Jelöld be, hogy minden pont koordinátái megjelenjenek."
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..CheckBox2..Caption
+msgid "Show coordinates"
+msgstr "Mutasd a koordinátákat"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..BitBtn1..Hint
+msgid "Select the font for the coordinates."
+msgstr "A koordináták betűtípusa."
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1..Hint
+msgid "Select where the coordinates should be shown."
+msgstr "Hol jelenjenek meg a koordináták?"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+msgid "Above"
+msgstr "Fölött"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+msgid "Below"
+msgstr "Alatt"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+msgid "Left"
+msgstr "Balra"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+msgid "Right"
+msgstr "Jobbra"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+msgid "Above Left"
+msgstr "Balra fent"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+msgid "Above Right"
+msgstr "Jobbra fent"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+msgid "Below Left"
+msgstr "Balra lent"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+msgid "Below Right"
+msgstr "Jobbra lent"
+
+#. Form14..PageControl1..TabSheet1..RadioGroup1....Hint
+msgid "Choose between cartesian (x,y) coordinates and polar (θ,r) coordinates."
+msgstr "Választás a derékszögű (x,y), illetve a polár (θ,r) koordináták között."
+
+#. Form14..PageControl1..TabSheet1..RadioGroup1..Caption
+msgid "Coordinate type"
+msgstr "Koordináta típusa"
+
+#. Form14..PageControl1..TabSheet1..RadioGroup1....Items.Strings
+msgid "Cartesian"
+msgstr "Derékszögű (Descartes)"
+
+#. Form14..PageControl1..TabSheet1..RadioGroup1....Items.Strings
+#. Form4..GridPanelEx1..RadioGroup1....Items.Strings
+msgid "Polar"
+msgstr "Trigonometrikus"
+
+#. Form14..PageControl1..TabSheet2..Caption
+msgid "Error bars"
+msgstr "Hibajelek"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..Caption
+msgid "X error amount"
+msgstr "X hiba jelek"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..CheckBox3..Hint
+msgid "Show horizontal error bars."
+msgstr "Vízszintes hiba megjelenítése"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..CheckBox3..Caption
+msgid "Show x-bars"
+msgstr "Mutasd az x-hibát"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..RadioButton1..Hint
+#. Form14..PageControl1..TabSheet2..GroupBox6..RadioButton4..Hint
+msgid "All error bars are the same size."
+msgstr "Minden hiba azonos méretű."
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..RadioButton1..Caption
+#. Form14..PageControl1..TabSheet2..GroupBox6..RadioButton4..Caption
+msgid "Fixed:"
+msgstr "Állandó:"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..Edit4..Hint
+#. Form14..PageControl1..TabSheet2..GroupBox6..Edit6..Hint
+msgid "Enter fixed value."
+msgstr "Írd be az állandó értékét."
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..RadioButton2..Hint
+msgid "All error bars are the same percentage of the x-coordinate."
+msgstr "Minden hiba azonos százalékértékű."
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..RadioButton2..Caption
+#. Form14..PageControl1..TabSheet2..GroupBox6..RadioButton5..Caption
+msgid "Relative:"
+msgstr "Relatív:"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..RadioButton3..Hint
+#. Form14..PageControl1..TabSheet2..GroupBox6..RadioButton6..Hint
+msgid "Each error bar is given a custom value."
+msgstr "Minden hiba különböző."
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..RadioButton3..Caption
+#. Form14..PageControl1..TabSheet2..GroupBox6..RadioButton6..Caption
+msgid "Custom"
+msgstr "Különböző"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..Edit5..Hint
+#. Form14..PageControl1..TabSheet2..GroupBox6..Edit7..Hint
+msgid "Enter relative value in percent."
+msgstr "Add meg a relatív hibát százalékban."
+
+#. Form14..PageControl1..TabSheet2..GroupBox6..Caption
+msgid "Y error amount"
+msgstr "Y-hiba jelek"
+
+#. Form14..PageControl1..TabSheet2..GroupBox6..CheckBox4..Hint
+msgid "Show vertical error bars."
+msgstr "Függőleges hiba megjelenítése"
+
+#. Form14..PageControl1..TabSheet2..GroupBox6..CheckBox4..Caption
+msgid "Show y-bars"
+msgstr "Mutasd az y-hibát"
+
+#. Form14..PageControl1..TabSheet2..GroupBox6..RadioButton5..Hint
+msgid "All error bars are the same percentage of the y-coordinate."
+msgstr "Minden hiba azonos százalékértékű."
+
+#. Form14..PopupMenu1..Popup_Cut..Hint
+#. Form17..PopupMenu1..Popup_Cut..Hint
+#. Form6..PopupMenu1..Popup_Cut..Hint
+msgid "Cut the selected text to the clipboard."
+msgstr "A kijelölt szöveg kivágása."
+
+#. Form14..PopupMenu1..Popup_Copy..Hint
+#. Form17..PopupMenu1..Popup_Copy..Hint
+#. Form6..PopupMenu1..Popup_Copy..Hint
+msgid "Copy the selected text to the clipboard."
+msgstr "A kijelölt szöveg másolása"
+
+#. Form14..PopupMenu1..Popup_Paste....Hint
+#. Form17..PopupMenu1..Popup_Paste....Hint
+msgid "Paste text from the clipboard into the grid. Other cells may be overwritten by the text from the clipboard."
+msgstr "Szöveg beillesztése a vágólapról. A cellák értékeit felülírhatja a beillesztett adat."
+
+#. Form14..PopupMenu1..Popup_Delete..Hint
+#. Form17..PopupMenu1..Popup_Delete..Hint
+msgid "Erase selected cells."
+msgstr "Kijelölt cellák törlése."
+
+#. Form14..PopupMenu1..Popup_Insert..Caption
+#. Form17..PopupMenu1..Popup_Insert..Caption
+msgid "Insert row"
+msgstr "Sor beszúrása"
+
+#. Form14..PopupMenu1..Popup_Insert..Hint
+#. Form17..PopupMenu1..Popup_Insert..Hint
+msgid "Inserts a row in the grid moving rows below one down."
+msgstr "Új sor beszúrása a sorok lefelé tolásával."
+
+#. Form14..PopupMenu1..Popup_Remove..Caption
+#. Form17..PopupMenu1..Popup_Remove..Caption
+msgid "Remove row"
+msgstr "Sor törlése"
+
+#. Form14..PopupMenu1..Popup_Remove..Hint
+#. Form17..PopupMenu1..Popup_Remove..Hint
+msgid "Removes the selected rows."
+msgstr "Eltávolítja a kijelölt sort."
+
+#. Form14..PopupMenu1..Popup_Select..Caption
+#. Form15..PopupMenu1..Popup1_Select..Caption
+#. Form17..PopupMenu1..Popup_Select..Caption
+msgid "Select all"
+msgstr "Mindent kijelöl"
+
+#. Form14..PopupMenu1..Popup_Select..Hint
+#. Form15..PopupMenu1..Popup1_Select..Hint
+#. Form17..PopupMenu1..Popup_Select..Hint
+msgid "Select all cells."
+msgstr "Minden cella kijelölése."
+
+#. Form14..PopupMenu1..Popup_Import..Hint
+#. Form17..PopupMenu1..Popup_Import..Hint
+msgid "Import data from a file and place it at the selected cell."
+msgstr "Adatok importálása fájlból és beszúrása a kijelölt cellába."
+
+#. Form14..PopupMenu1..Popup_Export..Hint
+#. Form17..PopupMenu1..Popup_Export..Hint
+msgid "Export selected data to a file."
+msgstr "A kijelölt adat exportálása fájlba."
+
+#. Form15..Caption
+msgid "Calculate table"
+msgstr "Táblázat adatainak kiszámítása"
+
+#. Form15..Edit3....Hint
+msgid "The step value. This is the difference between two adjoining values in the defined interval."
+msgstr "Lépésköz. Megadja az x értékek közti távolságot az intervallumban."
+
+#. Form15..Edit1..Hint
+msgid "The first x-value in the interval."
+msgstr "Az első x érték az intervallumban."
+
+#. Form15..Edit2..Hint
+msgid "The last x-value in the interval."
+msgstr "Az utolsó x érték az intervallumban."
+
+#. Form15..PopupMenu1..Popup1_Show1..Caption
+#. Form15..PopupMenu1..Popup1_Show2..Caption
+#. Form15..PopupMenu1..Popup1_Show3..Caption
+#. Form15..PopupMenu1..Popup1_Show4..Caption
+#. Form15..PopupMenu1..Popup1_Show5..Caption
+msgid "Show %s"
+msgstr "Megjelenítés"
+
+#. Form15..PopupMenu1..Popup1_Show1..Hint
+#. Form15..PopupMenu1..Popup1_Show2..Hint
+#. Form15..PopupMenu1..Popup1_Show3..Hint
+#. Form15..PopupMenu1..Popup1_Show4..Hint
+#. Form15..PopupMenu1..Popup1_Show5..Hint
+msgid "Show the %s column in the table."
+msgstr "Mutassa a tábla %s. oszlopát"
+
+#. Form15..PopupMenu1..Popup1_Copy..Hint
+msgid "Copy selected cells to the clipboard."
+msgstr "Kijelölt cellák másolása."
+
+#. Form15..PopupMenu1..Popup1_Export..Hint
+msgid "Saves the selected data to a file."
+msgstr "A kijelölt adatok mentése fájlba."
+
+#. Form15..ProgressForm1..Caption
+msgid "Calculating"
+msgstr "Számolás"
+
+#. Form15..SaveDialog1..Filter
+msgid "CSV (Comma delimited) [*.csv]|*.csv|Text [*.txt]|*.txt"
+msgstr "CSV (vesszővel tagolt fájl)"
+
+#. Form16..Caption
+msgid "Insert shading"
+msgstr "Színezés beszúrása"
+
+#. Form16..PageControl1..TabSheet1..Caption
+msgid "Shading"
+msgstr "Színezés"
+
+#. Form16..PageControl1..TabSheet1..Panel1..Image1..Hint
+#. Form16..PageControl1..TabSheet1..RadioButton1..Hint
+msgid "Shades the area between the function and the x-axis."
+msgstr "Kiszínezi a grafikon és az x tengely közötti területet."
+
+#. Form16..PageControl1..TabSheet1..Panel2..Image2..Hint
+#. Form16..PageControl1..TabSheet1..RadioButton2..Hint
+msgid "Shades the area below the function."
+msgstr "Kiszínezi a grafikon alatti területet."
+
+#. Form16..PageControl1..TabSheet1..Panel3..Image3..Hint
+#. Form16..PageControl1..TabSheet1..RadioButton3..Hint
+msgid "Shades the area above the function."
+msgstr "Kiszínezi a grafikon feletti területet."
+
+#. Form16..PageControl1..TabSheet1..Panel4..Image4..Hint
+#. Form16..PageControl1..TabSheet1..RadioButton4..Hint
+msgid "Shades the area between the function and the y-axis."
+msgstr "Kiszínezi a grafikon és az y tengely közötti területet."
+
+#. Form16..PageControl1..TabSheet1..Panel5..Image5..Hint
+#. Form16..PageControl1..TabSheet1..RadioButton5..Hint
+msgid "Shades the area inside the function."
+msgstr "Kiszínezi a grafikon 'belső' részét."
+
+#. Form16..PageControl1..TabSheet1..Panel6..Image6....Hint
+#. Form16..PageControl1..TabSheet1..RadioButton6....Hint
+msgid "Shades the area between the main function and the function selected in the list to the right."
+msgstr "Kiszínezi a fő függvénygrafikon és a jobb oldali listából kiválasztott függvény grafikonja közötti területet."
+
+#. Form16..PageControl1..TabSheet1..RadioButton3..Caption
+msgid "Above function"
+msgstr "A függvény felett"
+
+#. Form16..PageControl1..TabSheet1..RadioButton1..Caption
+msgid "Between function and x-axis"
+msgstr "A függvény és az x tengely között"
+
+#. Form16..PageControl1..TabSheet1..RadioButton6..Caption
+msgid "Between functions"
+msgstr "Függvények között"
+
+#. Form16..PageControl1..TabSheet1..RadioButton4..Caption
+msgid "Between function and y-axis"
+msgstr "A függvény és az y tengely között"
+
+#. Form16..PageControl1..TabSheet1..RadioButton5..Caption
+msgid "Inside function"
+msgstr "Belső rész"
+
+#. Form16..PageControl1..TabSheet1..RadioButton2..Caption
+msgid "Below function"
+msgstr "A függvény alatt"
+
+#. Form16..PageControl1..TabSheet2..Caption
+#. Form20..Panel2..ToolBar1..ToolButton6..Hint
+#. Form4..Caption
+msgid "Options"
+msgstr "Beállítások"
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..Caption
+#. Form19..TntGroupBox1..Caption
+msgid "Range"
+msgstr "Tartomány"
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..Edit1..Hint
+#. Form16..PageControl1..TabSheet3..GroupBox2..Edit3..Hint
+msgid "Coordinate where the shading starts."
+msgstr "A színezés kezdő koordinátája."
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..Edit2..Hint
+#. Form16..PageControl1..TabSheet3..GroupBox2..Edit4..Hint
+msgid "Coordinate where the shading ends."
+msgstr "A színezés végének koordinátája."
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..CheckBox2..Hint
+#. Form16..PageControl1..TabSheet3..GroupBox2..CheckBox4..Hint
+msgid "Check to increase the end coordinate until intersection."
+msgstr "Jelöld be, hogy a vége metszéspontnál legyen."
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..CheckBox2..Caption
+#. Form16..PageControl1..TabSheet3..GroupBox2..CheckBox4..Caption
+msgid "Increase to intersection"
+msgstr "Metszéspontig"
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..CheckBox1..Hint
+#. Form16..PageControl1..TabSheet3..GroupBox2..CheckBox3..Hint
+msgid "Check to decrease the start coordinate until intersection."
+msgstr "Jelöld be, hogy a kezdet metszéspontnál legyen."
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..CheckBox1..Caption
+#. Form16..PageControl1..TabSheet3..GroupBox2..CheckBox3..Caption
+msgid "Decrease to intersection"
+msgstr "Metszésponttól"
+
+#. Form16..PageControl1..TabSheet2..GroupBox3..ShadeSelect1..Hint
+msgid "Select the style used for the shading."
+msgstr "Színezési stílus kiválasztása."
+
+#. Form16..PageControl1..TabSheet2..GroupBox3..ExtColorBox1..Hint
+msgid "Select color used for shading."
+msgstr "Szín kiválasztása."
+
+#. Form16..PageControl1..TabSheet2..GroupBox3..CheckBox5..Hint
+msgid "Mark the border around the shading."
+msgstr "Jelölje vonal a színezés végét."
+
+#. Form16..PageControl1..TabSheet2..GroupBox3..CheckBox5..Caption
+msgid "Mark border"
+msgstr "Határvonal"
+
+#. Form16..PageControl1..TabSheet2..Edit5..Hint
+msgid "Enter a description to show in the legend."
+msgstr "Írd be az emlékeztető szövegét."
+
+#. Form16..PageControl1..TabSheet3..Caption
+msgid "2nd function"
+msgstr "Második függvény"
+
+#. Form16..PageControl1..TabSheet3..Label11..Caption
+msgid "2nd function:"
+msgstr "Második fv:"
+
+#. Form16..PageControl1..TabSheet3..ListBox1....Hint
+msgid "Select the second function when you want a shading between two functions."
+msgstr "Válaszd ki a második függvényt, ha két függvény közti részt szeretnél besatírozni."
+
+#. Form16..PageControl1..TabSheet3..GroupBox2..Caption
+msgid "Shading range for 2nd function"
+msgstr "Színezési tartomány a második függvényre"
+
+#. Form17..Caption
+msgid "Custom functions/constants"
+msgstr "Saját függvények/állandók"
+
+#. Form17..Button3..Caption
+msgid "Apply"
+msgstr "Alkalmaz"
+
+#. Form17..Grid1....TitleCaptions.Strings
+msgid "Names"
+msgstr "Nevek"
+
+#. Form17..Grid1....TitleCaptions.Strings
+msgid "Definition"
+msgstr "Megadás"
+
+#. Form18..Caption
+msgid "Image options"
+msgstr "Kép tulajdonságai"
+
+#. Form18..PageControl1..TabSheet1..Caption
+msgid "Size"
+msgstr "Méret"
+
+#. Form18..PageControl1..TabSheet1..Label1..Caption
+msgid "Image width:"
+msgstr "Kép szélessége:"
+
+#. Form18..PageControl1..TabSheet1..Label2..Caption
+msgid "Image height:"
+msgstr "Kép magassága:"
+
+#. Form18..PageControl1..TabSheet1..Edit1..Hint
+msgid "Set a custom image width in pixels."
+msgstr "Egyéni képszélesség beállítása (képpont)."
+
+#. Form18..PageControl1..TabSheet1..Edit2..Hint
+msgid "Set a custom image height in pixels."
+msgstr "Egyéni képmagasság beállítása (képpont)."
+
+#. Form18..PageControl1..TabSheet1..RadioGroup3....Hint
+msgid "Choose to use the same size as shown on the screen or a custom image size."
+msgstr "A képernyőn látható méretek, vagy egyéni képméret használata."
+
+#. Form18..PageControl1..TabSheet1..RadioGroup3..Caption
+msgid "Image size"
+msgstr "Kép mérete"
+
+#. Form18..PageControl1..TabSheet1..RadioGroup3....Items.Strings
+msgid "Screen size"
+msgstr "Képernyő mérete"
+
+#. Form18..PageControl1..TabSheet1..RadioGroup3....Items.Strings
+msgid "Custom size"
+msgstr "Egyéni méret"
+
+#. Form18..PageControl1..TabSheet2..RadioGroup1....Hint
+msgid "Progressive encoding allows viewers to see a rough copy of the image while it is downloaded."
+msgstr "A progresszív kódolás lehetővé teszi, hogy letöltés közben kisebb felbontású képként is megjelenhessen az ábra."
+
+#. Form18..PageControl1..TabSheet2..RadioGroup1..Caption
+msgid "Encoding"
+msgstr "Kódolás"
+
+#. Form18..PageControl1..TabSheet2..RadioGroup1....Items.Strings
+msgid "Sequential"
+msgstr "Sorozatban"
+
+#. Form18..PageControl1..TabSheet2..RadioGroup1....Items.Strings
+msgid "Progressive"
+msgstr "Progresszív"
+
+#. Form18..PageControl1..TabSheet2..GroupBox1..Hint
+msgid "Select a compression quality."
+msgstr "Tömörítési minőség kiválasztása."
+
+#. Form18..PageControl1..TabSheet2..GroupBox1..Caption
+msgid "Quality"
+msgstr "Minőség"
+
+#. Form18..PageControl1..TabSheet3..Label3..Caption
+msgid "Paper size:"
+msgstr "Papír mérete"
+
+#. Form18..PageControl1..TabSheet3..RadioGroup2..Hint
+#. PrintFrm..RadioGroup1..Hint
+msgid "Choose paper orientation."
+msgstr "Papír tájolása."
+
+#. Form18..PageControl1..TabSheet3..RadioGroup2..Caption
+#. PrintFrm..RadioGroup1..Caption
+msgid "Orientation"
+msgstr "Tájolás"
+
+#. Form18..PageControl1..TabSheet3..RadioGroup2....Items.Strings
+#. PrintFrm..RadioGroup1....Items.Strings
+msgid "Portrait"
+msgstr "Álló"
+
+#. Form18..PageControl1..TabSheet3..RadioGroup2....Items.Strings
+#. PrintFrm..RadioGroup1....Items.Strings
+msgid "Landscape"
+msgstr "Fekvő"
+
+#. Form18..PageControl1..TabSheet3..ComboBox1..Hint
+msgid "Choose paper size to use."
+msgstr "Válaszd ki a papír méretét."
+
+#. Form18..PageControl1..TabSheet3..ComboBox1....Items.Strings
+msgid "Letter"
+msgstr "Betű"
+
+#. Form18..PageControl1..TabSheet3..ComboBox1....Items.Strings
+msgid "Ledger"
+msgstr "Főkönyv"
+
+#. Form18..PageControl1..TabSheet3..ComboBox1....Items.Strings
+msgid "Legal"
+msgstr "Megengedett"
+
+#. Form18..CheckBox1..Hint
+#. Form3..CheckBox16..Hint
+msgid "Select this to use these settings as defaults in the future."
+msgstr "Jelöld be, hogy a jelenlegi beállítások legyenek alapértelmezettek a jövőben."
+
+#. Form18..CheckBox1..Caption
+#. Form3..CheckBox16..Caption
+msgid "Save as default"
+msgstr "Legyen alapértelmezett"
+
+#. Form19..Caption
+#. Form19..Button1..Caption
+msgid "Animate"
+msgstr "Animálás"
+
+#. Form19..Label1..Caption
+msgid "Constant:"
+msgstr "Állandó:"
+
+#. Form19..ComboBox1..Hint
+msgid "Choose a constant to change between each frame."
+msgstr "Válaszd ki az állandót, amely változik a képkockák között. "
+
+#. Form19..TntGroupBox1..Label4..Caption
+msgid "Step:"
+msgstr "Lépések:"
+
+#. Form19..TntGroupBox1..Edit1..Hint
+msgid "The first value of the constant."
+msgstr "Az állandó kezdő értéke."
+
+#. Form19..TntGroupBox1..Edit2..Hint
+msgid "The last value of the constant."
+msgstr "Az állandó záró értéke."
+
+#. Form19..TntGroupBox1..Edit3..Hint
+msgid "The chosen constant is changed by this value between each frame."
+msgstr "A választott konstans ennyivel változik az egyes képkockák között."
+
+#. Form19..TntGroupBox2..Caption
+msgid "Frame options"
+msgstr "Keret tulajdonságai"
+
+#. Form19..TntGroupBox2..Label5..Caption
+msgid "Frame width:"
+msgstr "Keret szélessége:"
+
+#. Form19..TntGroupBox2..Label6..Caption
+msgid "Frame height:"
+msgstr "Keret magassága:"
+
+#. Form19..TntGroupBox2..Label7..Caption
+msgid "Frames/second:"
+msgstr "Kép/másodperc:"
+
+#. Form19..TntGroupBox2..Edit4..Hint
+msgid "Width of each frame, in pixels."
+msgstr "Valamennyi keret szélessége (képpont)."
+
+#. Form19..TntGroupBox2..Edit5..Hint
+msgid "Height of each frame, in pixels."
+msgstr "Valamennyi keret magassága (képpont)."
+
+#. Form19..TntGroupBox2..Edit6..Hint
+msgid "Number of frames per second used when the animation is played."
+msgstr "Az animáció lejátszásának finomsága (kép/másodperc)."
+
+#. Form19..ProgressForm1..Caption
+msgid "Working"
+msgstr "Feldolgozás"
+
+#. Form2..Panel1..Version..Caption
+msgid "Version %s"
+msgstr "Verzió %s"
+
+#. Form2..Panel1..Label3..Caption
+msgid "Build %s"
+msgstr "Build %s"
+
+#. Form2..Panel1..Comments....Caption
+msgid "This is free software, and you are welcome to redistribute it under the terms in the <a href=\"%s\">GNU General Public License</a> version 2. Please send bug reports and suggestions to the programmer."
+msgstr "Ez egy szabadon felhasználható szoftver. Szabadon terjeszthető a <a href=\"%s\">GNU General Public License</a> 2. változata szerint. Kérünk, ha hibát találsz a programban, jelezd észrevételeidet a program készítőinek."
+
+#. Form2..Panel1..LinkLabel1....Caption
+msgid "The newest version as well as the source code are available at: %s"
+msgstr "A legújabb verzió és a forrása elérhető a következő címen: %s"
+
+#. Form2..Panel1..LinkLabel2..Caption
+msgid "Email: %s"
+msgstr "E-mail: %s"
+
+#. Form2..Panel1..LinkLabel3..Caption
+msgid "<Language> translation by <Translator>"
+msgstr "Magyar fordítás: Magyari Gábor"
+
+#. Form20..Caption
+msgid "Animation"
+msgstr "Animáció"
+
+#. Form20..Panel2..ToolBar1..ToolButton1..Hint
+msgid "Play"
+msgstr "Lejátszás"
+
+#. Form20..Panel2..ToolBar1..ToolButton2..Hint
+msgid "Pause"
+msgstr "Szünet"
+
+#. Form20..Panel2..ToolBar1..ToolButton3..Hint
+msgid "Stop"
+msgstr "Leállítás"
+
+#. Form20..Panel2..ToolBar1..ToolButton4..Hint
+msgid "Back"
+msgstr "Vissza"
+
+#. Form20..Panel2..ToolBar1..ToolButton5..Hint
+msgid "Step"
+msgstr "Léptetés"
+
+#. Form20..SaveDialog1..Filter
+msgid "Audio Video Interleave [*.avi]|*.avi"
+msgstr "[*.avi]|*.avi Interaktív anyag (audio, video) "
+
+#. Form20..PopupMenu1..Speed1..Caption
+msgid "Speed"
+msgstr "Sebesség"
+
+#. Form20..PopupMenu1..Speed1..N101..Hint
+#. Form20..PopupMenu1..Speed1..N501..Hint
+#. Form20..PopupMenu1..Speed1..N1001..Hint
+#. Form20..PopupMenu1..Speed1..N1501..Hint
+#. Form20..PopupMenu1..Speed1..N2001..Hint
+#. Form20..PopupMenu1..Speed1..N10001..Hint
+msgid "Change the speed used to play the animation."
+msgstr "A lejátszás sebességének megváltoztatása."
+
+#. Form20..PopupMenu1..Repeat1..Caption
+msgid "Repeat"
+msgstr "Ismétlés"
+
+#. Form20..PopupMenu1..Repeat1..Hint
+msgid "Repeat playing the animation until manually stopped."
+msgstr "Az animáció ismételt lejátszása kézi megszakításig."
+
+#. Form20..PopupMenu1..Reverse1..Caption
+msgid "Auto reverse"
+msgstr "Automatikus visszajátszás."
+
+#. Form20..PopupMenu1..Reverse1....Hint
+msgid "Play backwards when the end of the animation is reached. This is most useful in combination with the \"Repeat\" command."
+msgstr "Az animáció lejátszása visszafelé, ha véget ér. Ez a lehetőség különösen hasznos az \"Ismétlés\" funcióval együtt."
+
+#. Form20..PopupMenu1..Save1..Hint
+msgid "Save the animation to a file."
+msgstr "Animáció mentése fájlba."
+
+#. Form20..PopupMenu1..Saveimageas1..Caption
+msgid "Save frame..."
+msgstr "Keret mentése ..."
+
+#. Form20..PopupMenu1..Saveimageas1..Hint
+msgid "Save the shown frame to an image file."
+msgstr "A keret mentése kép formátumba."
+
+#. Form20..PopupMenu1..Saveimagesequence1..Caption
+msgid "Save all frames..."
+msgstr "Minden keret mentése..."
+
+#. Form20..PopupMenu1..Saveimagesequence1....Hint
+msgid "Save all frames in the animation to image files. This will create as many files as there are frames in the animation."
+msgstr "Az animáció mentése képenként. Annyi képfájl készül, ahány képkockából áll az animáció."
+
+#. Form21..Label1..Caption
+msgid "Corner:"
+msgstr "Sarok:"
+
+#. Form21..ComboBox1..Hint
+msgid "Choose which corner of the label should be locked."
+msgstr "Válaszd kimelyik sarokban jelenjen meg az emlékeztető."
+
+#. Form21..ComboBox1....Items.Strings
+msgid "Upper Left"
+msgstr "Bal felső"
+
+#. Form21..ComboBox1....Items.Strings
+msgid "Upper Right"
+msgstr "Jobb felső"
+
+#. Form21..ComboBox1....Items.Strings
+msgid "Lower Left"
+msgstr "Bal alsó"
+
+#. Form21..ComboBox1....Items.Strings
+msgid "Lower Right"
+msgstr "Jobb alsó"
+
+#. Form21..Edit1..Hint
+#. Form21..Edit2..Hint
+msgid "Enter a coordinate to lock label at."
+msgstr "Add meg a cimke rögzítési helyének koordinátáit."
+
+#. Form22..Caption
+msgid "Python interpreter"
+msgstr "Python fordító"
+
+#. Form22..PopupMenu1..Clear1..Caption
+msgid "Clear"
+msgstr "Törlés"
+
+#. Form3..Caption
+msgid "Edit axes"
+msgstr "Tengelyek beállítása"
+
+#. Form3..PageControl1..TabSheet1..Caption
+#. ParFuncFrame..ComboBox1....Items.Strings
+#. PolFuncFrame..ComboBox1....Items.Strings
+#. StdFuncFrame..ComboBox1....Items.Strings
+msgid "x-axis"
+msgstr "x tengelyhez"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Label1..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..Label5..Caption
+msgid "Minimum:"
+msgstr "Minimum:"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Edit1..Hint
+msgid "Minimum x-value."
+msgstr "A legkisebb x érték."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Label2..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..Label6..Caption
+msgid "Maximum:"
+msgstr "Maximum:"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Edit2..Hint
+msgid "Maximum x-value."
+msgstr "A legnagyobb x érték."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Label3..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..Label7..Caption
+msgid "Tick unit:"
+msgstr "Beosztás egysége:"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Edit3..Hint
+msgid "Units between ticks on the x-axis."
+msgstr "Az x tengely beosztásai közötti egység."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Label14..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..Label9..Caption
+msgid "Grid unit:"
+msgstr "Rácsozás egysége:"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Edit4..Hint
+msgid "Units between the grid lines perpendicular to the x-axis."
+msgstr "A x tengelyre merőleges rácsvonalak közti távolság."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox4..Hint
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox11..Hint
+msgid "Determine the tick unit automatically."
+msgstr "A beosztás automatikus beállítása."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox4..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox11..Caption
+msgid "Auto tick"
+msgstr "Automatikus"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox6..Hint
+msgid "Show tick marks on the x-axis."
+msgstr "Beosztás megjelenítése az x tengelyen"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox6..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox13..Caption
+msgid "Show ticks"
+msgstr "Megjelenít"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox5..Hint
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox12..Hint
+msgid "Set the grid unit to the same as the tick unit."
+msgstr "A rácsvonalak illesztése a tengely beosztásához"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox5..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox12..Caption
+msgid "Auto grid"
+msgstr "Automatikus"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox7..Hint
+msgid "Show vertical grid lines."
+msgstr "Függőleges rácsvonalak megjelenítése."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox7..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox14..Caption
+msgid "Show grid"
+msgstr "Megjelenít"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Panel1..CheckBox3....Hint
+msgid "Show the label at the right side of the graphing area, above the x-axis."
+msgstr "Mutasd a cimkét a rajzterület jobb oldalán az x tengely fölött."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Panel1..CheckBox3..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..Panel3..CheckBox10..Caption
+msgid "Label:"
+msgstr "Cimke:"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Panel1..Edit5..Hint
+#. Form3..PageControl1..TabSheet2..GridPanel2..Panel3..Edit11..Hint
+msgid "Edit the label for the axis here."
+msgstr "A tengelyek cimkéinek szerkesztése."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Panel2..Label4..Caption
+msgid "The x-axis cross at y="
+msgstr "Az x tengely metszéspontja y="
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Panel2..Edit6..Hint
+msgid "The x-axis will intersect with the y-axis at this value."
+msgstr "Az x tengely ennél az értéknél metszi az y tengelyt."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox1..Hint
+msgid "Use logarithmic scale on the x-axis."
+msgstr "Az x tengely logaritmikus beosztása."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox1..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox8..Caption
+msgid "Logarithmic scale"
+msgstr "Logaritmikus"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox2..Hint
+msgid "Show units on the x-axis."
+msgstr "Mutasd az x tengely egységeit."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox2..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox9..Caption
+msgid "Show numbers"
+msgstr "Szám megjelenítése"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox17..Hint
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox18..Hint
+msgid "Show units on the selected axis as a fraction multiplied by pi."
+msgstr "A tengelyen megjelenő egységek legyenek a pi többszörösei."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox17..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox18..Caption
+msgid "Show as a multiple of π"
+msgstr "A beosztások a π többszörösei"
+
+#. Form3..PageControl1..TabSheet2..Caption
+#. ParFuncFrame..ComboBox1....Items.Strings
+#. PolFuncFrame..ComboBox1....Items.Strings
+msgid "y-axis"
+msgstr "y tengelyhez"
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Edit7..Hint
+msgid "Minimum y-value."
+msgstr "A legkisebb y érték."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Edit8..Hint
+msgid "Maximum y-value."
+msgstr "A legnagyobb y érték."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Edit9..Hint
+msgid "Units between ticks on the y-axis."
+msgstr "Az y tengely beosztásai közötti egység."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Edit10..Hint
+msgid "Units between the grid lines perpendicular to the y-axis."
+msgstr "Az y tengelyre merőleges rácsvonalak közti távolság."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox13..Hint
+msgid "Show tick marks on the y-axis."
+msgstr "Mutasd az y tengely beosztásait"
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox14..Hint
+msgid "Show horizontal grid lines."
+msgstr "A vízszintes rácsvonalak megjelenítése."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Panel3..CheckBox10....Hint
+msgid "Show the label at the top of the graphing area, to the right of the y-axis."
+msgstr "Mutasd a cimkét a rajzterület felső részén az y tengely jobb oldalán."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Panel4..Label8..Caption
+msgid "The y-axis cross at x="
+msgstr "Az y tengely metszéspontja x="
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Panel4..Edit12..Hint
+msgid "The y-axis will intersect with the x-axis at this value."
+msgstr "Az y tengely ennél az értéknél metszi az x tengelyt."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox8..Hint
+msgid "Use logarithmic scale for the y-axis."
+msgstr "Logaritmikus beosztás az y tengelyen."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox9..Hint
+msgid "Show units on the y-axis."
+msgstr "Az y tengely beosztásának megjelenítése."
+
+#. Form3..PageControl1..TabSheet3..Caption
+msgid "Settings"
+msgstr "Beállítások"
+
+#. Form3..PageControl1..TabSheet3..Label16..Caption
+msgid "Title:"
+msgstr "Cím:"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup1....Hint
+msgid "Choose if you want to show the axes, and if you want to show them crossed or at the left and bottom of the image."
+msgstr "Válaszd ki, látszanak-e a tengelyek, és hogy a metszéspont középen vagy a bal alsó sarokban legyen."
+
+#. Form3..PageControl1..TabSheet3..RadioGroup1..Caption
+msgid "Axes style"
+msgstr "Tengelyek"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup1....Items.Strings
+msgid "None"
+msgstr "Nincs"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup1....Items.Strings
+msgid "Crossed"
+msgstr "Kereszt"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup1....Items.Strings
+msgid "Boxed"
+msgstr "L alak"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup2....Hint
+msgid "Choose if trigonometric functions should calculate in radians or degrees."
+msgstr "Válaszd ki a a trigonometrikus függvények esetén a szögmérés egységét."
+
+#. Form3..PageControl1..TabSheet3..RadioGroup2..Caption
+msgid "Trigonometry"
+msgstr "Trigonometrikus"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup2....Items.Strings
+msgid "Radian"
+msgstr "Radiánban"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup2....Items.Strings
+msgid "Degree"
+msgstr "Fokban"
+
+#. Form3..PageControl1..TabSheet3..Edit13..Hint
+msgid "Enter a title to show above the coordinate system."
+msgstr "Írd be a koordinátarendszer címét."
+
+#. Form3..PageControl1..TabSheet3..BitBtn1..Hint
+msgid "Select the font for the title."
+msgstr "Válaszd ki a cím betűtípusát."
+
+#. Form3..PageControl1..TabSheet3..RadioGroup3..Hint
+msgid "Choose where the legend should be placed."
+msgstr "Válaszd ki, hol jelenjen meg az emlékeztető."
+
+#. Form3..PageControl1..TabSheet3..RadioGroup3..Caption
+msgid "Legend placement"
+msgstr "Emlékeztető elhelyezése"
+
+#. Form3..PageControl1..TabSheet3..CheckBox19....Hint
+msgid "Check this to use complex numbers for calculations. Notice that this will slow graphing down."
+msgstr "Jelöld be komlex számokkal való munkához. Figyelem! Ez jelentősen lassítja az ábrázolást."
+
+#. Form3..PageControl1..TabSheet3..CheckBox19..Caption
+msgid "Calculate with complex numbers"
+msgstr "Komplex számok használata"
+
+#. Form3..PageControl1..TabSheet4..Caption
+msgid "Font and color"
+msgstr "Betű és szín"
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..Caption
+msgid "Colors"
+msgstr "Színek"
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..Label17..Caption
+msgid "Grid color:"
+msgstr "Rács színe:"
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..Label18..Caption
+msgid "Axes color:"
+msgstr "Tengelyek színe:"
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..Label19..Caption
+#. Form6..Label4..Caption
+msgid "Background color:"
+msgstr "Háttér színe:"
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..ExtColorBox1..Hint
+msgid "Select the color of the image background."
+msgstr "Válaszd ki a háttér színét."
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..ExtColorBox2..Hint
+msgid "Select the color of the axes."
+msgstr "Válaszd ki a tengelyek színét."
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..ExtColorBox3..Hint
+msgid "Select the color of the grid lines."
+msgstr "Válaszd ki a rácsvonalak színét."
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..Caption
+msgid "Fonts"
+msgstr "Betűtípus"
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..Label20..Caption
+msgid "Number font:"
+msgstr "Számok:"
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..Label21..Caption
+msgid "Label font:"
+msgstr "Cimke:"
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..Label10..Caption
+msgid "Legend font:"
+msgstr "Emlékeztető:"
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..BitBtn2..Hint
+msgid "Select the font used to show the labels on the axes."
+msgstr "Válaszd ki a tengelyek cimkéjének betűtípusát."
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..BitBtn3..Hint
+msgid "Select the font used to show the numbers on the axes."
+msgstr "Válaszd ki a tengelyeken megjelenő számok betűtípusát."
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..BitBtn4..Hint
+msgid "Select the font used to show the legend text."
+msgstr "Válaszd ki az emlékeztető betűtípusát."
+
+#. Form4..GridPanelEx1..Label1..Caption
+msgid "Decimals:"
+msgstr "Tizedesjegyek:"
+
+#. Form4..GridPanelEx1..Panel1..Edit1..Hint
+msgid "Number of decimals used when results are shown."
+msgstr "Az eredményekben ennyi tizedesjegy jelenik meg."
+
+#. Form4..GridPanelEx1..RadioGroup1..Hint
+msgid "Format used when complex numbers are shown."
+msgstr "Kompelx szám megjelenítésének formája."
+
+#. Form4..GridPanelEx1..RadioGroup1..Caption
+msgid "Complex form"
+msgstr "Komplex forma"
+
+#. Form4..GridPanelEx1..RadioGroup1....Items.Strings
+msgid "Real"
+msgstr "Valós"
+
+#. Form4..GridPanelEx1..RadioGroup1....Items.Strings
+msgid "Rectangular"
+msgstr "Kanonikus"
+
+#. Form4..GridPanelEx1..Label2..Caption
+msgid "Recent files:"
+msgstr "Korábbi fájlok:"
+
+#. Form4..GridPanelEx1..Panel2..Edit2..Hint
+msgid "The number of most recent used files shown in the File menu."
+msgstr "Ennyi legutóbb használt fájl megjelenítése a Fájl menüben."
+
+#. Form4..GridPanelEx1..Label3..Caption
+msgid "Max undo steps:"
+msgstr "Maximum visszavonható lépés:"
+
+#. Form4..GridPanelEx1..Panel3..Edit3....Hint
+msgid "Maximum number of undo steps saved. Set this to 0 to prevent undo."
+msgstr "A viszavonható műveletek száma. Állíts 0-ra a visszavonás kikapcsolásához."
+
+#. Form4..GridPanelEx1..Label5..Caption
+msgid "Font scale:"
+msgstr "Betűméret:"
+
+#. Form4..GridPanelEx1..ComboBox1....Hint
+msgid "This is used to scale the user interface if you are having problems reading the text."
+msgstr "Itt állítható a felhasználói felület méretezése, ha nem jól olvasható a szöveg."
+
+#. Form4..GridPanelEx1..Label4..Caption
+msgid "Language:"
+msgstr "Nyelv:"
+
+#. Form4..GridPanelEx1..ComboBox2..Hint
+msgid "Select the language to use for the user interface."
+msgstr "A felhasználói felület nyelvének beállítása."
+
+#. Form4..GridPanelEx1..CheckBox2..Hint
+msgid "Show the tooltip when the cursor is over an item."
+msgstr "Gyorstipp megjelenítése az egérmutatóhoz."
+
+#. Form4..GridPanelEx1..CheckBox2..Caption
+msgid "Show tooltip"
+msgstr "Gyorstipp"
+
+#. Form4..GridPanelEx1..CheckBox3....Hint
+msgid "Save the size of the main window when the program exits. This is used the next time Graph is run."
+msgstr "A fő ablak helyzetének mentése a program bezárásakor. Következő indításkor ugyanez lesz a beállítás."
+
+#. Form4..GridPanelEx1..CheckBox3..Caption
+msgid "Save workspace on exit"
+msgstr "Munkaterület mentése kilépéskor"
+
+#. Form4..GridPanelEx1..CheckBox4....Hint
+msgid "If checked the program will contact a web server when the program is started to see if a newer version is available."
+msgstr "Ha bejelölöd, a program induláskor automatikusan kapcsolódik a web szerverhez, és  megkeresi a programfrissítést."
+
+#. Form4..GridPanelEx1..CheckBox4..Caption
+msgid "Check for new version of Graph at startup"
+msgstr "Frissítések keresése induláskor"
+
+#. Form4..GridPanelEx1..CheckBox5....Hint
+msgid "Use a custom decimal separator instead of the default from the Windows Regional settings."
+msgstr "Egyéni tizedesjel használata. (Ha nem a Windows területi beállításaiban megadottat szeretné használni."
+
+#. Form4..GridPanelEx1..CheckBox5..Caption
+msgid "Custom decimal separator:"
+msgstr "Egyéni tizedesjel:"
+
+#. Form4..GridPanelEx1..Edit4..Hint
+msgid "Decimal separator used when exporting to other programs."
+msgstr "Más programokba exportálásnál használt tizedesjel."
+
+#. Form5..Caption
+msgid "Insert function"
+msgstr "Függvény hozzáadása"
+
+#. Form5..Label1..Caption
+msgid "Function type:"
+msgstr "Függvény típusa:"
+
+#. Form5..ComboBox1..Hint
+msgid "Select the function type to graph."
+msgstr "Válaszd ki az ábrázolandó függvény típusát."
+
+#. Form5..ComboBox1....Items.Strings
+msgid "Standard function   y=f(x)"
+msgstr "Általános: y=f(x)"
+
+#. Form5..ComboBox1....Items.Strings
+msgid "Parametric function x(t), y(t)"
+msgstr "Paraméteres: x(t), y(t)"
+
+#. Form5..ComboBox1....Items.Strings
+msgid "Polar function         r=f(t)"
+msgstr "Polárfüggvéyn r=f(t)"
+
+#. Form5..GroupBox1..Caption
+msgid "Function equation"
+msgstr "Hozzárendelési szabály"
+
+#. Form5..GroupBox2..Label6..Caption
+msgid "Steps:"
+msgstr "Lépések:"
+
+#. Form5..GroupBox2..Edit5..Hint
+msgid "Number of calculation steps used to draw the graph."
+msgstr "Az ábrázoláshoz használt számítási lépések száma."
+
+#. Form5..GroupBox4..GridPanelEx1..Label13..Caption
+msgid "Draw type:"
+msgstr "Rajz típusa:"
+
+#. Form5..GroupBox4..GridPanelEx1..ComboBox4....Hint
+msgid "Choose Lines if you want the calculated points for the graph to be connected. Choose Dots if you only want to show a dot at each point."
+msgstr "Válaszd a Vonalak-at a kiszámított pontok összekötéséhez. Válaszd a Pontok-at különálló pontok ábrázolásához."
+
+#. Form5..GroupBox4..GridPanelEx1..ComboBox4..Text
+#. Form5..GroupBox4..GridPanelEx1..ComboBox4....Items.Strings
+msgid "Automatic"
+msgstr "Automatikus"
+
+#. Form5..GroupBox4..GridPanelEx1..ComboBox4....Items.Strings
+msgid "Dots"
+msgstr "Pontok"
+
+#. Form5..GroupBox4..GridPanelEx1..ComboBox4....Items.Strings
+msgid "Lines"
+msgstr "Vonalak"
+
+#. Form6..Caption
+msgid "Insert text label"
+msgstr "Cimke beszúrása"
+
+#. Form6..Label1..Caption
+msgid "Font name:"
+msgstr "Betűtípus:"
+
+#. Form6..Label2..Caption
+msgid "Font size:"
+msgstr "Betűméret:"
+
+#. Form6..Label3..Caption
+msgid "Font color:"
+msgstr "Betűszín:"
+
+#. Form6..ComboBox1..Hint
+msgid "Text size."
+msgstr "Szöveg mérete"
+
+#. Form6..GroupBox1..Caption
+msgid "Text string"
+msgstr "Szöveg"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton11..Hint
+msgid "Insert symbol (Ctrl+G)"
+msgstr "Szimbólum beszúrása (Ctrl+G)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton13..Hint
+msgid "Insert object."
+msgstr "Objektum beszúrása"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton1..Hint
+msgid "Bold (Ctrl+B)"
+msgstr "Félkövér (Ctrl-B)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton2..Hint
+msgid "Italic (Ctrl+I)"
+msgstr "Dőlt (Ctrl-I)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton3..Hint
+msgid "Underline (Ctrl+U)"
+msgstr "Aláhúzott (Ctrl-U)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton4..Hint
+msgid "Strikethrough (Ctrl+S)"
+msgstr "Áthúzott (Ctrl-S)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton9..Hint
+msgid "Superscript (Ctrl++)"
+msgstr "Felső index (Ctrl++)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton10..Hint
+msgid "Subscript (Ctrl+=)"
+msgstr "Alsó index (Ctrl+=)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton5..Hint
+msgid "Align left (Ctrl+L)"
+msgstr "Balra igazítás (Ctrl-L)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton6..Hint
+msgid "Center (Ctrl+E)"
+msgstr "Középre igazítás (Ctrl-E)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton7..Hint
+msgid "Align right (Ctrl+R)"
+msgstr "Jobbra igazítás (Ctrl-R)"
+
+#. Form6..IFontBox1..Hint
+msgid "Text font."
+msgstr "Betűtípus"
+
+#. Form6..ColorBox1..Hint
+msgid "Text color."
+msgstr "Betűszín."
+
+#. Form6..ColorBox2..Hint
+msgid "Select background color of the text label."
+msgstr "Válaszd ki a szövegdoboz háttérerének színét."
+
+#. Form6..ColorBox2..DefaultName
+msgid "Transparent"
+msgstr "Átlátszó"
+
+#. Form6..PopupMenu1..Popup_Undo..Hint
+msgid "Undo last action."
+msgstr "Az utolsó művelet visszavonása."
+
+#. Form6..PopupMenu1..Popup_Redo..Hint
+msgid "Redo last undone action."
+msgstr "Az utolsó visszavont művelet megismétlése."
+
+#. Form6..PopupMenu1..Popup_Paste..Hint
+msgid "Paste the contents of the clipboard."
+msgstr "A vágólap tartalmának beillesztése."
+
+#. Form6..PopupMenu1..Popup_PasteSpecial..Caption
+msgid "Paste special..."
+msgstr "Irányított beillesztés..."
+
+#. Form6..PopupMenu1..Popup_PasteSpecial..Hint
+msgid "Select which clipboard representation you want to paste."
+msgstr "Válaszd ki, melyik vágólap tartalmát illesszük be."
+
+#. Form6..PopupMenu1..Popup_InsertObject..Caption
+msgid "Insert object..."
+msgstr "Objektum beszúrása..."
+
+#. Form6..PopupMenu1..Popup_InsertObject..Hint
+msgid "Create a new OLE object."
+msgstr "Új OLE objektum létrehozása."
+
+#. Form6..PopupMenu1..Popup_EditObject..Caption
+msgid "Edit object"
+msgstr "Objektum szerkesztése"
+
+#. Form6..PopupMenu1..Popup_EditObject..Hint
+msgid "Edit selected OLE object."
+msgstr "A kiválasztott OLE objektum szerkesztése."
+
+#. Form7..Caption
+msgid "Insert f'(x)"
+msgstr "f'(x) hozzáadása"
+
+#. Form8..Label1..Caption
+#. PrintFrm..GroupBox1..Label1..Caption
+msgid "Name:"
+msgstr "Név:"
+
+#. Form8..ValueListEditor1....TitleCaptions.Strings
+msgid "Constant"
+msgstr "Konstans"
+
+#. Form8..ValueListEditor1....TitleCaptions.Strings
+msgid "Value"
+msgstr "Érték"
+
+#. Form9..Label1..Caption
+msgid "Select a function or tangent to evaluate."
+msgstr "Függvény/érintő kiválasztása a számításhoz"
+
+#. Form9..PolFuncFrame1....Hint
+#. ParFuncFrame..ComboBox1....Hint
+#. StdFuncFrame..ComboBox1....Hint
+msgid "Select where the cursor will be placed when you click on the image."
+msgstr "Válszd ki, mit mutasson a kurzor a képre kattintáskor."
+
+#. AreaFrame..GridPanel1..Panel1..Edit1....Hint
+msgid "Enter the start coordinate or mark the range on the graph itself with the mouse."
+msgstr "Add meg a kezdő koordinátát, vagy jelöld ki a tartományt az egérrel."
+
+#. AreaFrame..GridPanel1..Panel2..Edit2....Hint
+msgid "Enter the end coordinate or mark the range on the graph itself with the mouse."
+msgstr "Add meg a végső koordinátát, vagy jelöld ki a tartományt az egérrel."
+
+#. ParFuncFrame..Label7..Caption
+#. PolFuncFrame..Label7..Caption
+#. StdFuncFrame..Label5..Caption
+msgid "Snap to:"
+msgstr "Illesztés"
+
+#. ParFuncFrame..Edit2..Hint
+msgid "The x-coordinate evaluated for the t-parameter."
+msgstr "A t paraméterhez tartozó x koordináta."
+
+#. ParFuncFrame..Edit3..Hint
+msgid "The y-coordinate evaluated for the t-parameter."
+msgstr "A t paraméterhez tartozó y koordináta."
+
+#. ParFuncFrame..Edit4..Hint
+msgid "The derivative of x(t) evaluated for the entered t-parameter."
+msgstr "Az x(t) deriváltja a beírt t paraméterhez."
+
+#. ParFuncFrame..Edit5..Hint
+msgid "The derivative of y(t) evaluated for the entered t-parameter."
+msgstr "Az y(t) deriváltja a beírt t paraméterhez."
+
+#. ParFuncFrame..Edit6..Hint
+msgid "The slope of the function evaluated for the entered t-parameter."
+msgstr "A függvény meredeksége a megadott t paraméter esetén."
+
+#. ParFuncFrame..Edit1....Hint
+msgid "Enter the value for the parameter t for which you want to evaluate the function, or click on the graph in the graphing area."
+msgstr "A függvényérték kiszámításához add meg a t paraméter értékét, vagy kattints az ábra megfelelő területére."
+
+#. ParFuncFrame..ComboBox1....Items.Strings
+#. PolFuncFrame..ComboBox1....Items.Strings
+#. StdFuncFrame..ComboBox1....Items.Strings
+msgid "Intersection"
+msgstr "Metszésponthoz"
+
+#. ParFuncFrame..ComboBox1....Items.Strings
+#. PolFuncFrame..ComboBox1....Items.Strings
+msgid "Extreme x-value"
+msgstr "szélsőérték-helyhez (x)"
+
+#. ParFuncFrame..ComboBox1....Items.Strings
+#. PolFuncFrame..ComboBox1....Items.Strings
+#. StdFuncFrame..ComboBox1....Items.Strings
+msgid "Extreme y-value"
+msgstr "szélsőértékhez (y)"
+
+#. PolFuncFrame..Edit2..Hint
+msgid "The distance to the function evaluated for the given angle."
+msgstr "A megadott t paraméter esetén az origótól mért távolság ."
+
+#. PolFuncFrame..Edit3..Hint
+msgid "The x-coordinate evaluated for the given angle."
+msgstr "A megadott t paraméterhez tartozó x koordináta. "
+
+#. PolFuncFrame..Edit4..Hint
+msgid "The y-coordinate evaluated for the given angle."
+msgstr "A megadott t paraméterhez tartozó y koordináta."
+
+#. PolFuncFrame..Edit5..Hint
+msgid "The derivative of the function evaluated for the given angle."
+msgstr "A függvény deriváltja a megadott t paraméternél."
+
+#. PolFuncFrame..Edit6..Hint
+msgid "The slope of the function evaluated for the given angle."
+msgstr "A függvény meredeksége a megadott t paraméternél."
+
+#. PolFuncFrame..Edit1....Hint
+msgid "Enter the value of the polar angle for which you want to evaluate the function, or click on the graph in the graphing area."
+msgstr "Add meg a függvényértékhez választott polárszöget, vagy kattints a rajzon látható görbére."
+
+#. StdFuncFrame..Edit1....Hint
+msgid "Enter a value for which you want to evaluate the function, or click on the graph in the graphing area."
+msgstr "Add meg a függvényérték számításához választott x értéket, vagy kattints a rajzon látható görbére."
+
+#. StdFuncFrame..Edit2..Hint
+msgid "This is the function evaluated for the entered x-value."
+msgstr "A megadott x értékhez tartozó függvényérték."
+
+#. StdFuncFrame..Edit3....Hint
+msgid "This is the first derivative of the function evaluated for the entered value."
+msgstr "A függvény első deriváltja a változó megadott érték esetén."
+
+#. StdFuncFrame..Edit4....Hint
+msgid "This is the second derivative of the function evaluated for the entered value."
+msgstr "A függvény második deriváltja a változó megadott érték esetén."
+
+#. TanFrame..Edit2....Hint
+msgid "This is the y-coordinate corresponding to the entered x-coordinate."
+msgstr "Az érintő adott x koordinátához tartozó y értéke."
+
+#. TanFrame..Edit1..Hint
+msgid "Enter an x-coordinate or click in the graphing area."
+msgstr "Add meg az x koordinátát vagy kattints az ábrára a megfelelő helyen."
+
+msgid "Error"
+msgstr "Hiba"
+
+msgid "Error %s"
+msgstr "%s hiba"
+
+msgid "Length"
+msgstr "Ívhossz"
+
+msgid "Degrees"
+msgstr "Fokban"
+
+msgid "Label"
+msgstr "Cimke"
+
+msgid "%s-error"
+msgstr "%s-hiba"
+
+msgid "Axes"
+msgstr "Tengelyek"
+
+msgid "Ctrl"
+msgstr "Ctrl"
+
+msgid "Alt"
+msgstr "Alt"
+
+msgid "Shift"
+msgstr "Shift"
+
+msgid "Del"
+msgstr "Del"
+
+msgid "Ins"
+msgstr "Ins"
+
+msgid "Home"
+msgstr "Home"
+
+msgid "End"
+msgstr "End"
+
+msgid "PgUp"
+msgstr "PgUp"
+
+msgid "PgDn"
+msgstr "PgDn"
+
+msgid "Up"
+msgstr "Fel"
+
+msgid "Down"
+msgstr "Le"
+
+msgid "Esc"
+msgstr "Esc"
+
+msgid "Enter"
+msgstr "Enter"
+
+msgid "Tab"
+msgstr "Tab"
+
+msgid "BkSp"
+msgstr "Backspace"
+
+msgid "Space"
+msgstr "Szóköz"
+
+msgid "An error occurred while evaluating power function."
+msgstr "Hiba történt a hatvány számítása közban."
+
+msgid "Tangent to pi/2+n*pi (90+n180 in degrees) is undefined."
+msgstr "A tangens nem értelmezhető 90°+k180° esetén."
+
+msgid "Fact can only be calculated for positive integers."
+msgstr "Faktoriális csak pozitív egészekre számolható."
+
+msgid "Cannot take logarithm to number equal or less than zero."
+msgstr "Csak pozitív számoknak van logaritmusa."
+
+msgid "sqrt is undefined for negative numbers."
+msgstr "Negatív számból nem lehet négyzetgyököt vonni."
+
+msgid "A part of the evaluation gave a number with an imaginary part."
+msgstr "A számítás komplex eredményt adott."
+
+msgid "Division by zero."
+msgstr "A 0-val osztás értelmetlen."
+
+msgid "Inverse trigonometric function out of range [-1;1]"
+msgstr "Az inverz trigonometrikus függvény kívül esik a lehetséges tartományon [-1;1]"
+
+msgid "The function is not defined for this value."
+msgstr "Ehhez az értékhez nem tartozik függvényérték."
+
+msgid "atanh evaluated at undefined value."
+msgstr "Az atanh függvény itt nem értelmezhető."
+
+msgid "acosh evaluated at undefined value."
+msgstr "Az acosh függvény itt nem értelmezhető."
+
+msgid "arg(0) is undefined."
+msgstr "arg(0) nem értelmezhető"
+
+msgid "Evaluation failed."
+msgstr "Számítási hiba."
+
+msgid "Argument produced a function result with total loss of precision."
+msgstr "Az argumentumhoz csak nagyon pontatlan függvényérték számolható."
+
+msgid "The custom function/constant '%s' was not found or has the wrong number of arguments."
+msgstr "A(z) '%s' egyéni függvény/állandó nem található, vagy nem megfelelő számú argumentuma van."
+
+msgid "Too many recursive calls."
+msgstr "Túl sok rekurzív hivatkozás."
+
+msgid "Overflow: A function returned a value too large to handle."
+msgstr "Túlcsordulás: a függvény értéke túl nagy."
+
+msgid "A plugin function failed: %s"
+msgstr "Hibát okozott egy bővítmény-függvény: %s"
+
+msgid "Unexpected operator. Operator '%s' cannot be placed here."
+msgstr "Ismeretlen operátor. A(z) %s operátor itt nem használható."
+
+msgid "The right bracket is missing."
+msgstr "A zárójel vége hiányzik."
+
+msgid "Invalid number of arguments supplied for the function '%s'"
+msgstr "A(z) s% függvényhez nem megfelelő az argumentum."
+
+msgid "Comparison operator misplaced."
+msgstr "A relációs jel rossz helyen van."
+
+msgid "Invalid number found. Use the format: -5.475E-8"
+msgstr "Érvénytelen számformátum. Használd a következőt: -5.475E-8"
+
+msgid "String is empty. You need to enter a formula."
+msgstr "Nem írtál be semmit. Adj meg egy függvényt."
+
+msgid "Comma is not allowed here. Use dot as decimal separator."
+msgstr "Tizedesvessző itt nem használható; Használj helyette pontot."
+
+msgid "Unexpected end of brackets."
+msgstr "Nincs vége a zárójelnek."
+
+msgid "Number, constant or function expected."
+msgstr "Ide szám, konstans vagy függvény szükséges."
+
+msgid "Parameter after constant or variable not allowed."
+msgstr "Változó vagy konstans után nem állhat paraméter."
+
+msgid "Expression expected."
+msgstr "Ide egy kifejezés szükséges."
+
+msgid "Unknown variable, function or constant: \"%s\""
+msgstr "Ismeretlen változó, függvény vagy konstans: \"%s\""
+
+msgid "Unknown character: \"%s\""
+msgstr "Ismeretlen jel: \"%s\""
+
+msgid "The end of the expression was unexpected."
+msgstr "Hiányzik a kifejezés vége."
+
+msgid "Error parsing expression."
+msgstr "Hiba a kifejezés fordítása során."
+
+msgid "A calculation resulted in an overflow."
+msgstr "A számítás során túlcsordulás történt."
+
+msgid "An invalid value was used in the calculation."
+msgstr "Érvénytelen érték a számításban."
+
+msgid "Not enough points for calculation."
+msgstr "Nincs elég pont a számításhoz."
+
+msgid "Illegal name \"%s\" for user defined function or constant."
+msgstr "A \"%s\" név érvénytelen az egyéni függvény vagy konstans definiciójában. "
+
+msgid "Cannot differentiate recursive function."
+msgstr "Rekurzív függvényt nem lehet differenciálni."
+
+msgid "Internal error."
+msgstr "Belső hiba történt."
+
+msgid "Function \"%s\" cannot be differentiated."
+msgstr "A \"%s\" függvényt nem lehet differenciálni."
+
+msgid "Not further specified error occurred under calculation."
+msgstr "Ismeretlen hiba lépett fel a számítás során."
+
+msgid "No solution found. Try another guess or another model."
+msgstr "Nem találtam megoldást. Próbálkozz más modellel."
+
+msgid "No result found."
+msgstr "Nincs eredmény."
+
+msgid "An accurate result cannot be found."
+msgstr "Nem található megfelelő eredmény."
+
+msgid "Internal error. Please notify the programmer with as much information as possible."
+msgstr "Belső hiba történt. Kérünk küldd el az információkat a program készítőjének."
+
+msgid "You need to enter a name for the function/constant."
+msgstr "Írd be a függvény vagy a konstans nevét."
+
+msgid ""
+"Invalid function/constant name '%s'.\n"
+"The name may only contain letters and decimal digits, and it must always start with a letter.\n"
+"In addition you are not allowed to redefine built-in names."
+msgstr ""
+"Érvénytelen név (függvény/konstans):'%s'.\n"
+"A név csak betűt és számjegyet tartalmazhat, és betűvel kell kezdődnie."
+
+msgid "You need to enter a name for the argument."
+msgstr "Írd be az argumentum nevét."
+
+msgid ""
+"Invalid argument name '%s'.\n"
+"The name may only contain letters and decimal digits, and it must always start with a letter.\n"
+" In addition you are not allowed to use built-in names as argument names."
+msgstr ""
+"A következő argumentum neve nem érvényes '%s'.\n"
+"A név csak metűt és számjegyet tartalmazhat, és betűvel kell kezdődnie.\n"
+"A programba beépített nevek nem módosíthatók."
+
+msgid "Character found after brackets."
+msgstr "Karakter van a zárójel után."
+
+msgid "Symbol \"%s\" defined more than once."
+msgstr "A(z) \"%s\"szimbólum többször definiált."
+
+msgid "Invalid equation or inequality."
+msgstr "Érvénytelen kifejezés."
+
+msgid "Updating..."
+msgstr "Frissítés..."
+
+msgid "Save changes?"
+msgstr "Mented a változásokat?"
+
+msgid "Save changes in %s?"
+msgstr "Változások mentése ide: %s?"
+
+msgid "You have reached the maximum range of zoom."
+msgstr "Elérted a maximális nagyítást."
+
+msgid "You have reached the minimum range of zoom."
+msgstr "Elérted a maximális kicsinyítést."
+
+msgid "'%s' must not be zero."
+msgstr "'%s' nem lehet nulla."
+
+msgid "Error in value"
+msgstr "Hibás adat"
+
+msgid "'%s' has to be an integer value greater or equal to 0."
+msgstr "'%s' csak nemnegatív egész szám lehet."
+
+msgid "'%s' must be greater than zero."
+msgstr "'%s' csak pozitív lehet."
+
+msgid "'%s' must be an integer greater than zero."
+msgstr "'%s' csak pozitív egész lehet."
+
+msgid "Trying to break zoom limit."
+msgstr "Határon túli nagyítás."
+
+msgid "'%s' must be greater than '%s'"
+msgstr "'%s' legyen nagyobb, mint '%s'"
+
+msgid "The maximum value must be greater than the minimum value."
+msgstr "A maximumnak nagyobbnak kell lennie a minimumnál."
+
+msgid "You need to enter a value."
+msgstr "Írd be az értéket."
+
+msgid ""
+"This file was created with Graph %s.\n"
+"Only files from version %s and higher can be opened."
+msgstr ""
+"Ezt a fájlt a Graph programmal készítették %s.\n"
+"Csak a(z) %s vagy későbbi verziókkal nyitható meg."
+
+msgid "'%s' is not a valid number."
+msgstr "'%s' nem megfelelő szám."
+
+msgid "'%s' must be a positive number."
+msgstr "'%s' számnak pozitívnak kell lennie."
+
+msgid "File not found: %s"
+msgstr "Nem található a következő fájl: %s"
+
+msgid ""
+"Error reading file: %s\n"
+"The file is not a correct Graph file."
+msgstr ""
+"Fájl olvasási hiba: %s\n"
+"A fájl nem megfelelő formátumú."
+
+msgid "Unknown error while reading file: %s"
+msgstr "Ismeretlen hiba a(z) %s fájl olvasása közben."
+
+msgid "Graph files [*.grf]|*.grf"
+msgstr "Graph fájlok [*.grf]|*.grf"
+
+msgid ""
+"Cannot write to file: %s\n"
+"Access denied. Check that the file is not in use or write protected."
+msgstr ""
+"Nem írható a következő fájl: %s\n"
+"Hozzáférés megtagadva. Nézd meg, nem írásvédett-e a fájl."
+
+msgid "The font \"%s\" doesn't exist. Standard font is used instead."
+msgstr "A(z) \"%s\" jelet nem ismerem. Használj szabványos betűket."
+
+msgid "Graph system"
+msgstr "Graph rendszer"
+
+msgid "Open"
+msgstr "Megnyitás"
+
+msgid "Selection error"
+msgstr "Hibás kiválasztás"
+
+msgid "File error"
+msgstr "Fájl hiba"
+
+msgid "Write access failed"
+msgstr "Írási jog hiányzik"
+
+msgid "OLE error"
+msgstr "OLE hiba"
+
+msgid "Error reading object"
+msgstr "Hiba az objektum olvasásakor"
+
+msgid "Not a valid Graph object."
+msgstr "Nem érvényes Graph objektum."
+
+msgid "Object error"
+msgstr "Objektum hiba"
+
+msgid "Windows does not have enough resources to save an image that large."
+msgstr "A Windowsnak kevés szabad erőforrása van a kép mentéséhez."
+
+msgid "'%1%' must be between %2% and %3%."
+msgstr "A(z) '%1%' értékének %2% és %3% között kell lennie."
+
+msgid "File not found"
+msgstr "Nem található a fájl."
+
+msgid "Error reading file"
+msgstr "Hiba a fájl beolvasásakor"
+
+msgid "Printer error"
+msgstr "Nyomtatási hiba"
+
+msgid "Invalid use of infinity. Infinity cannot be used here."
+msgstr "Érvénytelen érték. A végtelen nem használható ezen a helyen."
+
+msgid "Not enough memory to complete the operation."
+msgstr ""
+
+msgid "Confirm delete"
+msgstr "Törlés megerősítése"
+
+msgid "Are you sure you want to delete %s?"
+msgstr "Biztosan törölni akarod a következőt? %s"
+
+msgid "Graph files [*.grf]|*.grf|All files [*.*]|*.*"
+msgstr "Graph fájlok [*.grf]|*.grf|Minden fájl [*.*]|*.*"
+
+msgid "CSV (semicolon delimited) [*.csv]|*.csv|CSV (comma delimited) [*.csv]|*.csv|Text (tab delimited) [*.txt]|*.txt|Text (space delimited) [*.txt]|*.txt|All files [*.*]|*.*"
+msgstr "CSV (pontosvesszővel elválasztott) [*.csv]|*.csv|CSV (vesszővel elválasztott) [*.csv]|*.csv|Text (tabbal elválasztott) [*.txt]|*.txt|Text (szóközzel elválasztott) [*.txt]|*.txt|All files [*.*]|*.*"
+
+msgid "Are you sure you want to delete the model: %s?"
+msgstr "Biztosan törölni akarod a következő modellt? %s"
+
+msgid "Maximum number on x-axis must be greater than the minimum value."
+msgstr "Az x tengely maximuma kisebb, mint a minimuma."
+
+msgid "Maximum number on y-axis must be greater than the minimum value."
+msgstr "Az y tengely maximuma kisebb, mint a minimuma."
+
+msgid "Server application not found."
+msgstr "A kiszolgáló alkalmazás nem található."
+
+msgid "Maximum number for t must be greater than the minimum value."
+msgstr "A t paraméter maximuma legyen nagyobb, mint a minimuma."
+
+msgid "The step value for t must be a number greater than 0."
+msgstr "A t paraméter lépésköze legyen pozitív."
+
+msgid "The minimum value for the x-axis must be greater than 0, when the x-axis is logarithmic scaled."
+msgstr "Az x tengely legkisebb értéke legyen pozitív, ha az x tengely logaritmikus beosztású."
+
+msgid "The cross point of the y-axis must be greater than 0, when the x-axis is logarithmic scaled."
+msgstr "Az y tengely metszéspontja legyen pozitív, ha az x tengely logaritmikus beosztású."
+
+msgid "The minimum value for the y-axis must be greater than 0, when the y-axis is logarithmic scaled."
+msgstr "Az y tengely legkisebb értéke legyen pozitív, ha az x tengely logaritmikus beosztású."
+
+msgid "The cross point of the x-axis must be greater than 0, when the y-axis is logarithmic scaled."
+msgstr "Az x tengely metszéspontja legyen pozitív, ha az y tengely logaritmikus beosztású."
+
+msgid "'Recent files' must be between 0 and 9."
+msgstr "A 'Korábbi fájlok' száma legyen 0 és 9 között."
+
+msgid "The end of interval must be greater than the start of interval."
+msgstr "Az intervallum vége legyen nagyobb, mint az intervallum eleje."
+
+msgid "Error in interval."
+msgstr "Hibás intervallum."
+
+msgid "The width must be an integer greater than 0."
+msgstr "A vastagság mértéke pozitív egész."
+
+msgid "Error in width"
+msgstr "Hibás vastagság"
+
+msgid "The end of interval must be greater than the start of interval and %s must be greater than 0."
+msgstr "Az intervallum vége legyen nagyobb, mint az intervallum eleje, és %s  legyen pozitív."
+
+msgid "Invalid model name."
+msgstr "Érvénytelen modellnév."
+
+msgid "A model of that name already exist."
+msgstr "Ilyen nevű modell már létezik."
+
+msgid "The derivative of the function is not defined at %s=%s"
+msgstr "A függvény deriváltja nem létezik, ha %s=%s"
+
+msgid "Coordinate not defined"
+msgstr "A koordináta ismeretlen."
+
+msgid "Checking for newer version..."
+msgstr "Frissítés keresése..."
+
+msgid "Abort printing?"
+msgstr "Megszakítod a nyomtatást?"
+
+msgid "Calculate area"
+msgstr "Terület kiszámítása"
+
+msgid "Calculate length of path"
+msgstr "Ívhossz kiszámítása"
+
+msgid "Edit function"
+msgstr "Függvény szerkesztése"
+
+msgid "Edit tangent/normal"
+msgstr "Érintő/normális szerkesztése"
+
+msgid "Error processing file '%s' at line %s."
+msgstr "Hiba a(z) '%s' fájl feldolgozásában. (%s. sor)"
+
+msgid "Edit text label"
+msgstr "Szöveges cimke szerkesztése"
+
+msgid "The model needs some constants (starting with a $) for Graph to find."
+msgstr "A modellhez néhány konstans ($-ral kezdődő) érték szükséges."
+
+msgid "'%s' has to be an integer value between 0 and 1000."
+msgstr "'s%' legyen 0 és 1000 közötti egész."
+
+msgid "Printing error"
+msgstr "Nyomtatási hiba"
+
+msgid "An unknown error occurred while printing."
+msgstr "Ismeretlen hiba nyomtatás közben."
+
+msgid "Error while adding points"
+msgstr "Hiba a pontok hozzáadásakor"
+
+msgid "Each point needs both an x- and a y-coordinate."
+msgstr "Minden ponthoz szükséges egy x és egy y koordináta."
+
+msgid "\"%s\" is not a valid number."
+msgstr "\"%s\" nem érvényes szám."
+
+msgid "You didn't add any points. You need to specify some x- and y-coordinates in the grid."
+msgstr "Nem adtál meg egy pontot sem. Adj meg néhány x és y koordinátát."
+
+msgid "Edit point series"
+msgstr "Pontsor szerkesztése"
+
+msgid "Edit shading"
+msgstr "Színezés szerkesztése"
+
+msgid "You need to select a function."
+msgstr "Válassz ki egy függvényt."
+
+msgid "New version of Graph available"
+msgstr "A Graph új verziója megjelent"
+
+msgid ""
+"Graph %s is now available for download from www.padowan.dk\n"
+"\n"
+"Would you like to visit the download page?"
+msgstr ""
+"A Graph %s letölthető innen: www.padowan.dk\n"
+"\n"
+"Szeretnéd megnyitni a webhelyet?"
+
+msgid "No new version"
+msgstr "Nem jelent meg új verzió"
+
+msgid "You are already using the most recent version of Graph."
+msgstr "A Graph legfrisebb verzióját használod"
+
+msgid ""
+"Cannot connect to server www.padowan.dk.\n"
+"Either the server is down or you do not have a connection to the Internet."
+msgstr ""
+"Nem lehet kapcsolódni a következőhöz: www.padowan.dk.\n"
+"Lehet, hogy a szerver nem működik, vagy nincs Internet kapcsolat."
+
+msgid "Socket error %s"
+msgstr "Csatlakozási hiba %s"
+
+msgid "Definite integral, or signed area between function and x-axis, for the given domain range."
+msgstr "Határozott integrál, vagy a függvény grafikonja és az x tengely közötti terület a megadott tartományon."
+
+msgid "Length of path along the curve calculated for the given range."
+msgstr "A függvény ívhossza a megadott tartományon."
+
+msgid ""
+"The file cannot be opened by this version of the program.\n"
+"You need at least Graph %s to open this file."
+msgstr ""
+"A fájl nem nyitható meg a program ezen verziójával.\n"
+"Ez a fájl csak a Graph %s, vagy későbbi verzókkal nyitható meg."
+
+msgid ""
+"This file was saved by an outdated version of Graph,\n"
+"and it cannot be opened by the current version."
+msgstr ""
+"A fájl egy korábbi Graph verzióval készült,\n"
+"így a jelenlegi verzióval nem használható."
+
+msgid ""
+"\n"
+"\n"
+"If you don't want to be asked again, this feature may be disabled from the Edit|Options dialog."
+msgstr ""
+"\n"
+"\n"
+"Ha nem akarod, hogy ez a kérdés újra megjelenjen, tiltsd le a Szerkesztés|Beállítások menüpontban."
+
+msgid "Edit relation"
+msgstr "Összefüggés szerkesztése"
+
+msgid "Commands"
+msgstr "Műveletek"
+
+msgid "(All Commands)"
+msgstr "(Minden művelet)"
+
+msgid "To add a command to the toolbar simply select a category and drag the command out of this dialog box to the toolbar."
+msgstr "Parancsikont úgy lehet az eszköztárhoz adni, ha kiválasztjuk a kategóriát és az ikont az egérrel az eszköztárra húzzuk."
+
+msgid "Edit f'(x)"
+msgstr "f'(x) szerkesztése"
+
+msgid "Edit trendline"
+msgstr "Trendvonal szerkesztése"
+
+msgid "Categories:"
+msgstr "Kategóriák:"
+
+msgid ""
+"The program seems to be stuck in an infinite loop.\n"
+"If you cancel the operation the program will become unstable.\n"
+"You should therefore save your data under a new name and restart the application."
+msgstr ""
+"A program végtelen ciklusba került. \n"
+"Ha megszakítja a műveletet, a program futása instabillá válhat. \n"
+"Mentse el adatait más néven, és indítsa újra az alkalmazást!"
+
+msgid "Thread is not responding"
+msgstr "Nem válaszol."
+
+msgid "This Tip of the day can give you a lot of information about the program that most users don't know."
+msgstr "A Nap Ötlete használható, nem közismert információkat ad a program kezeléséről."
+
+#, fuzzy
+msgid "You can get help using Graph, report bugs and suggest future improvements at the web forum: <a href=\"http://forum.padowan.dk\">http://forum.padowan.dk</a>"
+msgstr "A következő webhelyen kaphat segítésget a Graph használatához, jelezhet hibákat, javasolhat fejlesztéseket és javításokat a készítőknek: <a href=\"http://www.padowan.dk/forum\">http://www.padowan.dk/forum</a>"
+
+msgid "You can customize the toolbar by right clicking on it and select 'Customize toolbar'."
+msgstr "Jobb gombbal kattintva személyre szabhatod az eszköztárat a 'Testreszabás' menüponttal."
+
+msgid "Instead of deleting a function, you can make it invisible by removing the check mark for the item in the function list."
+msgstr "A függvény törlése helyett rejtetté tehető, a függvénylistán látható jelölőnégyzetre kattintással"
+
+msgid "You can paste images into a text label."
+msgstr "Képek is beilleszthetőek a szöveges cimkébe."
+
+msgid "Text labels can contain any kind of OLE objects, for example Microsoft Equation. When editing a label right click in the editing area and select 'Insert object'."
+msgstr "A szöveges cimkék bármilyen OLE objektumot tartalmazhatnak, pl. MS Egyenletszerkesztő objektumot. A beszúráshoz szerkesztés közben kattints jobb gombbal a területre, és válaszd ki az 'Objektum beszúrása' menüpontot."
+
+msgid "You can export points from a point series to a file that can be read by other programs, for example Microsoft Excel. When editing the point series select the points, right click and choose 'Export to file'."
+msgstr "A pontsorok táblázat exportálható más programokba, pl. Microsoft Excelbe. Ehhez kattints jobb gombbal a pontsor nevére és válaszd az 'Exportálás fájlba' menüpontot."
+
+msgid "A vertical line at x=5 can be drawn as the parametric function x(t)=5, y(t)=t or as the relation x=5."
+msgstr "Függőleges vonalat (pl. x=5) ábrázolhatunk paraméteres függvényként (x(t)=5, y(t)=t) vagy összefüggésként (x=5)."
+
+msgid "You can use Zoom|Square to make the axes look equally scaled. This is especially useful when drawing circles and similar functions."
+msgstr "A Nagyítás|Arányos menüpont segítségével mérethelyessé teheted az ábrát. Ez különösen hasznos körök és más szimmetrikus alakzatok ábrázolásakor."
+
+msgid "You can find a list of all available functions in the help."
+msgstr "A Segítség menüpontban megtalálható az összes, a program által ismert függvény listája."
+
+msgid "You can combine two functions to one using 'if'. For example the function f(x)=x for x<1 and f(x)=x^2 for x>=1 can be written as f(x)=if(x<1, x, x^2)."
+msgstr "Az 'if' segítségével kombinált függvényeket is létrehozhatsz. Például x<1  esetén f(x)=x, x>=1 esetén f(x)=x^2 megadható a következő módon: f(x)=if(x>1, x, x^2)."
+
+msgid "You can import the contents of another Graph file into the current coordinate system using 'File|Import|Graph file'."
+msgstr "Más Graph fájl tartalma importálható az aktuális koordinátarendszerbe a Fájl|Importálás|Graph fájl menüpont segítségével."
+
+msgid "If you check 'Save as default' in the Axes dialog the current settings will be used as default when creating new coordinate systems."
+msgstr "Ha a Tengelyek párbeszédablakban bejelölöd a 'Legyen alapértelmezett' négyzetet, akkor az aktuális beállítások alapértelmezettek lesznek és a következő koordinátarendszerek ez alapján jönnek létre."
+
+msgid "While you hold down the Ctrl key, you can use the arrow keys to move the system."
+msgstr "A Ctrl gomb lenyomva tartásával a kurzormozgató nyilak segítségével mozgatható a koordinátarendszer."
+
+msgid "While you hold down the Ctrl key, you can use the + and - keys to zoom in and out."
+msgstr "A Ctrl gomb lenyomva tartásával a + és a - jel nagyításra használható."
+
+msgid "You can use the scroll button on your mouse to zoom in and out at the position of the mouse cursor."
+msgstr "Az egér görgőjével nagyítható és kicsinyíthető az ábra az egérmutató helyzetéhez képest."
+
+msgid "If you don't want an item shown in the legend, you can right click on the item in the function list and deselect 'Show in legend'."
+msgstr "Ha nem akarsz megjeleníteni egy elemet az Emlékeztetőben, kattints jobb gombbal a megfelelő elemre függvénylistában, és szüntesd meg a 'Mutasd az emlékeztetőben' jelölését."
+
+msgid "If you want the axes shown to the left and bottom of the image, you can choose Axes style as Boxed in the Settings tab of the Axes dialog."
+msgstr "Ha azt szeretnéd, hogy atengelyek a bal alsó sarokban metsszék egymást, válaszd ki a Tengelyek stílusa: Bal alsó metszés-t az Tengelyek menüpont Beállítások fülén."
+
+msgid "Graph can save the shown coordinate system in five different image formats: bmp, emf, png, jpg and pdf."
+msgstr "A program 5 különböző formátumba tud menteni: bmp, emf, png, jpg és pdf."
+
+msgid "You can use 'Edit|Copy image' to copy the coordinate system and paste it into another program, for example, Microsoft Word. Later you can usually edit the image in Graph by double clicking on it in the other program."
+msgstr "A Szerkesztés|Kép másolása menüpont segítségével vágólapra másolható a koordinátarendszer, és beilleszthető más alkalmazásokba is. Később az ábra ismét szerkeszthetővé válik, ha a másik alkalmazásban duplán rákattintunk."
+
+msgid "You can open a saved grf-file in a new instance of the program by double clicking on it in Explorer."
+msgstr "Az Intézőből dupla kattintással is megnyitható a grf fájl a Graph program segítségével."
+
+msgid "You can drag a grf-file from explorer into an open instance of Graph to open the file."
+msgstr "A megnyitott Graph programban úgy is megnyitható egy grf fájl, hogy az intézőből ráhúzzuk a program ablakára."
+
+msgid "Graph will remember the size of the main window between executions. This can be disabled from the Options dialog."
+msgstr "A Graph program megjegyzi a fő ablak méretét és helyzetét a következő indításig. Ez a lehetőség kikapcsolható a Beállítások menüpontban."
+
+msgid "Calc|Table can be used to create a table with evaluation values for a function."
+msgstr "A Számítások|Táblázat menüponttal értéktáblázat készíthető az adott függvényhez."
+
+msgid "A part or the whole evaluation table can be exported to a file by right clicking and selecting 'Export to file'. It can afterwards be opened in other programs like Microsoft Excel."
+msgstr "Az értéktáblázat akár részben is exportálható fájlba. Ehhez kattints jobb gombbal a kiválasztott részre és válaszd az Exportálás fájlba menüpontot. Ezután a táblázat más programokban is felhasználható."
+
+msgid "Data from the evaluation table can be copied to another program like Microsoft Excel."
+msgstr "A vágólap segítségével az értéktáblázat átmásolható más programokba, például Microsoft Excelbe."
+
+msgid "The data points in a point series can be copied to and from other programs like Microsoft Excel."
+msgstr "A vágólap segítségével más programokból például Microsoft Excelből is beilleszthetjük a pontsor adatait."
+
+msgid "Elements as functions, point series, etc. can be copied from one instance of the program to another using Edit|Copy."
+msgstr "Vágólap segítségével átmásolhatunk függvényeket az egyik éppen futó Graph programból egy másikba. (Szerkesztés/Másolás)"
+
+msgid "You can always undo the last thing you did using Edit|Undo."
+msgstr "A legutolsó művelet visszavonható a Szerkesztés|Visszavonás menüponttal."
+
+msgid "If you used Edit|Undo by mistake, you can use Edit|Redo to redo what you have undone."
+msgstr "Ha mégsem akarsz visszavonni egy műveletet, azt visszaállíthatod a Szerkesztés|Ismét menüpontjával."
+
+msgid "In the Axes dialog you can add a title to the coordinate system."
+msgstr "A Tengelyek párbeszédablakban megadható a koordinátarendszer címe."
+
+msgid "You can import point series from files saved by other programs, like Microsoft Excel."
+msgstr "Más programokból (pl. Microsoft Exclel) is lehet pontsort importálni."
+
+msgid "When inserting a point series, you can copy data from programs like Microsoft Excel, and paste the data into the grid in Graph."
+msgstr "Pontsor hozzáadásakor az adatokat más programokból kimásolt értékekkel is feltölthetjük. Ehhez illesszük be a kimásolt adatokat a pontsor táblázatába."
+
+msgid "You can use 'Zoom|Fit all' to change the coordinate system so all functions and point series are visible."
+msgstr "A Nagyítás|Teljes nagyítás segítségével minden ábrázolt függvény és pont megjelenik a koordinátarendszeren, ha ez lehetséges."
+
+msgid "You can use Zoom|Fit to change the coordinate system to show all parts of the selected function or point series."
+msgstr "A Nagyítás|Kitöltés segítségével optimális nagyításban látható a grafikon."
+
+msgid "When you hold down the Shift key you can drag the coordinate system around with the mouse."
+msgstr "A Shift gomb lenyomva tartásával a koordinátarendszer az egér segítségével mozgatható."
+
+msgid "You can use Calc|Evaluate to find intersections between functions, crossings with the axes and extremum points."
+msgstr "A Számítások|Számítás segítségével kiszámítható két függvény metszéspontja, tengelypontok és szélsőértékek is."
+
+msgid "When a point series is selected you can add points to it by clicking on the image while you hold down the Ctrl key."
+msgstr "A kiválasztott pontsorhoz úgy is hozzáadhatunk újabb pontot, hogy a Ctrl gomb lenyomva tartásával az ábrán oda kattintunk, ahová az új pontot akarjuk helyezni."
+
+msgid "You can use a relation to plot any inequality, for example sin(x^2) < cos(y^2)"
+msgstr "Összefüggéseket is használhatunk például egyenlőtlenségek megoldására. (f(x)=sin(x)<0.5)"
+
+msgid "You can use a relation to plot any equation, for example x*sin x = y*cos y"
+msgstr "Összefüggéseket is használhatunk például egyenlet megoldására. (f(x)=sin(x)=0.5)"
+
+msgid "Elements (functions, shadings, labels, relations, etc.) are drawn in the same order they appear in the function list to the left."
+msgstr "Az ábrázolt elemek (függvények, színezés, cimkék, összefüggések, stb.) olyan sorrendben kerülnek ábrázolásra, amilyen sorrendben a bel oldalon megjelenő függvénylistában vannak."
+
+msgid "You can move the selected element in the function list either by dragging it with the mouse or with the arrow up/down keys while ALT is held down."
+msgstr "A függvénylista elemeinek sorrendje módosítható áthúzással vagy az ALT nyomva tartása közben a LE és FEL gombokkal."
+
+msgid "You can show functions and other elements behind the axes by moving the element above the axes in the function list to the left. To move shadings and tangents you will have to move the functions they are attached to."
+msgstr "Függvényeket és más elemeket a tengely mögé helyezhetünk, ha a bal oldalon lévő függvénylistában a \"Tengelyek\" fölé húzzuk. A satírozást és más elemeket a tengely mögé helyezhetünk, ha a hozzájuk tartozó függvényeket a tengelyek mögé helyezzük."
+
+msgid "Custom text labels may be attached to the axes by right clicking on the label and selecting a placement from the context menu."
+msgstr "Egyéni szövegcimke beszúrható úgy, hogy jobb gombbal kattintunk a a megfelelő helyre, és beírjuk/formázzuk a kívánt szöveget."
+
+msgid "The legend may be moved freely with the mouse or attached to one of the corners by right clicking on the legend and choose a placement from the context menu."
+msgstr "Az Emlékeztető szabadon mozgatható az egérrel, vagy bármely sarokba elhelyezhető jobb gombos kattintással."
+
+msgid "As an alternative to Transparent, you can choose a custom background color for labels. This is especially useful for labels drawn over shadings."
+msgstr "Átlátszóság helyett beállítható egyéni háttér a cimkékre. Ez különösen hasznos, ha a cimke színezés fölött helyezkedik el."
+
+msgid "In most places like point series, axes settings, function ranges, etc., you can use expressions like pi/4 instead of numbers."
+msgstr "A legtöbb helyen (pontsor, tengely, intervallum, stb.) számok helyett kifejezések is használhatók, mint pl. pi/4."
+
+msgid "You can create your own custom constants under Function|Custom functions for use in functions, point series, etc. For example g=9.80665, R=8.31"
+msgstr "Létrehozható egyéni konstans a Függvények|Saját függvények menüpontban. Ezeket az állandókat később felhasználhatjuk függvények vagy pontsorok megadásakor."
+
+msgid "You can create your own custom functions under Function|Custom functions for use in plotting functions, relations, etc. For example sinc(x)=if(x=0, 0, sin(x)/x)"
+msgstr "Létrehozható saját egyedi függvény a Függvények|Saját függvények menüpontban."
+
+msgid "In the Save as image dialog there is an Option button you can use to specify the image resolution. This is especially useful if you want a high resolution image."
+msgstr "A Mentés képként párbeszédablakban a Beállítások gomb segítségével kiválasztható, milyen felbontású legyen az elmentett kép."
+
+msgid "Point series can have arrows as markers. A point series with arrows as markers and lines between the points can be used to show vectors."
+msgstr "Pontsorok megjeleníthetők nyilakkal is. Ezzel a lehetőséggel akár vektorokat is ábrázolhatzunk."
+
+msgid "Insert symbol"
+msgstr "Szimbólum beszúrása"
+
+msgid "Subset:"
+msgstr "Részhalmaz:"
+
+msgid "Insert"
+msgstr "Beszúrás"
+
+msgid "Select color"
+msgstr "Színválasztás"
+
+msgid "Customize"
+msgstr "Egyéni"
+
+msgid "Description"
+msgstr "Leírás"
+
+msgid "Cannot open clipboard: %s"
+msgstr "A vágólap nem nyitható meg: %s"
+
+msgid "There is no default printer currently selected."
+msgstr "Nincs kiválasztva alapértelmezett nyomtató."
+
+msgid "Install for all users"
+msgstr "Telepítés minden felhasználónak"
+
+msgid "Examples"
+msgstr "Példák"
+
+msgid "Local"
+msgstr "Helyi"
+
+msgid "Global"
+msgstr "Általános"
+
+#. PrintFrm..Caption
+msgid "Print"
+msgstr "Nyomtatás"
+
+#. PrintFrm..Label6..Caption
+msgid "Scale:"
+msgstr "Méret:"
+
+#. PrintFrm..GroupBox1..Caption
+msgid "Printer"
+msgstr "Nyomtató:"
+
+#. PrintFrm..GroupBox1..Label7..Caption
+msgid "Type:"
+msgstr "Típus:"
+
+#. PrintFrm..GroupBox1..Label8..Caption
+msgid "Where:"
+msgstr "Hová:"
+
+#. PrintFrm..GroupBox1..Label9..Caption
+msgid "Comment:"
+msgstr "Megjegyzés:"
+
+#. PrintFrm..GroupBox1..ComboBox1....Hint
+msgid "Select the printer to use. The Properties button may be used to change more advanced settings for the printer."
+msgstr "Nyomtató kiválasztása. További lehetőségek a Beállítások gomb segítségével érhetők el."
+
+#. PrintFrm..RadioGroup2....Hint
+msgid "Select to print in color (or grayscale if your printer is not a color printer) or convert all colors to black."
+msgstr "Színes vagy szürkeárnyalatos nyomtatás."
+
+#. PrintFrm..RadioGroup2..Caption
+msgid "Print output"
+msgstr "Kimenet"
+
+#. PrintFrm..RadioGroup2....Items.Strings
+msgid "Color"
+msgstr "Szín"
+
+#. PrintFrm..RadioGroup2....Items.Strings
+msgid "Black && white"
+msgstr "Fekete && fehér"
+
+#. PrintFrm..GroupBox2..Caption
+msgid "Position (millimeters)"
+msgstr "Pozíció (milliméterben)"
+
+#. PrintFrm..GroupBox2..Label3..Caption
+msgid "Left margin:"
+msgstr "Bal margó:"
+
+#. PrintFrm..GroupBox2..Label4..Caption
+msgid "Top margin:"
+msgstr "Felső margó:"
+
+#. PrintFrm..GroupBox2..CheckBox1..Hint
+msgid "Center the printing area on the page."
+msgstr "A nyomtatási terület középre igazítása."
+
+#. PrintFrm..GroupBox2..CheckBox1..Caption
+msgid "Center on page"
+msgstr "A lap közepére"
+
+#. PrintFrm..GroupBox2..Edit1....Hint
+#. PrintFrm..GroupBox2..Edit2....Hint
+msgid "Specify the printing area of the page. The printer will print only within these margins."
+msgstr "Nyomtatási terület meghatározása. Csak a kijelölt terület kerül kinyomtatásra."
+
+#. PrintFrm..GroupBox3..Label5..Caption
+msgid "Number of copies:"
+msgstr "Másolatok száma:"
+
+#. PrintFrm..GroupBox3..Edit3..Hint
+msgid "Choose number of copies to print."
+msgstr "Másolatok száma:"
+
+#. PrintFrm..Edit4..Hint
+msgid "Enter percent of original size."
+msgstr "Új méret az eredetihez képest százalékban."
+
+#~ msgid "Associate *.grf files with Graph."
+#~ msgstr "Társítsd a Graph programot a *.grf fájlokhoz"
+
+#~ msgid "Associate .grf files"
+#~ msgstr "Társítás .grf kiterjesztéshez."
+
+#~ msgid "Integral"
+#~ msgstr "Integrál"
+
+#~ msgid "Calculate definite integral"
+#~ msgstr "Határozott integrál kiszámítása"
+
+#~ msgid "Integrate"
+#~ msgstr "Integrál"
+
+#~ msgid "Area or length of path calculated for the given range using Simpson's formula."
+#~ msgstr "Terület vagy ívhossz kiszámítása a megadott tartományon a Simpson formula segítségével."
+
+#~ msgid "Extremum"
+#~ msgstr "Szélsőérték"
+
+#~ msgid "This is the functions second derivative evaluated for the entered value."
+#~ msgstr "A függvény második deriváltja a változó megadott érték esetén."
+
+#~ msgid "Zoom in."
+#~ msgstr "Nagyítás"
+
+#~ msgid "Zoom out."
+#~ msgstr "Kicsinyítés"
+
+#~ msgid "Zoom to standard coordinates."
+#~ msgstr "Az alapértelmezett nézet visszaállítása."
+
+#~ msgid "Calculates the area under the path of the selected function."
+#~ msgstr "A kiválasztott függvény alatti terület kiszámítása."
+
+#~ msgid "Go to home page"
+#~ msgstr "Honlap megynitása"
+
+#~ msgid "About Graph..."
+#~ msgstr "Névjegy"
+
+#~ msgid "All points"
+#~ msgstr "Minden pont"
+
+#~ msgid "Zoom as much as all points are visible."
+#~ msgstr "A lehetséges legtöbb pont megjelenítése."
+
+#~ msgid "Zoom in on the x-axis only."
+#~ msgstr "Csak az x tengely irányában nagyítja a képet."
+
+#~ msgid "Zoom out on the x-axis only."
+#~ msgstr "Csak az x tengely irányában kicsinyíti a képet."
+
+#~ msgid "Zoom in on the y-axis only."
+#~ msgstr "Csak az y tengely irányában nagyítja a képet."
+
+#~ msgid "Zoom out on the y-axis only."
+#~ msgstr "Csak az y tengely irányában kicsinyíti a képet."
+
+#~ msgid "Custom functions..."
+#~ msgstr "Egyéni függvények"
+
+#~ msgid "Mark end of range"
+#~ msgstr "Tartomány végének jelölése"
+
+#~ msgid "Mark the start of the shading with a line."
+#~ msgstr "Jelölje vonal a színezés kezdetét."
+
+#~ msgid "Mark start of range"
+#~ msgstr "Tartomány kezdetének jelölése"
+
+#~ msgid "Image information"
+#~ msgstr "Kép jellemzői"
+
+#~ msgid "Open the file %s."
+#~ msgstr "A(z) %s fájl megnyitása."
+
+#~ msgid "Text [*.txt; *.csv]|*.txt;*.csv|All files [*.*]|*.*"
+#~ msgstr "Szöveg [*.txt; *.csv]|*.txt;*.csv|Minden fájl [*.*]|*.*"
+
+#~ msgid "The server responded with the message '%s'"
+#~ msgstr "A szervertől a következő válasz érkezett: '%s'"
+
+#~ msgid "Protocol reply error %s"
+#~ msgstr "Protokoll válasz hiba %s"
+
+#~ msgid "You can send suggestions for future versions, bug reports and comments to graph@padowan.dk"
+#~ msgstr "A graph@padowan.dk címre várjuk a hibák jelzését, új funkciók fejlesztésének igényét és véleményeket."
+
+#~ msgid "Select to place the image on the middle of the page."
+#~ msgstr "A kép igazítása az oldal közepére."
+
+#~ msgid "Insert shade..."
+#~ msgstr "Kiszínezés"
+
+#~ msgid "Shade"
+#~ msgstr "Színezés"
+
+#~ msgid "Black"
+#~ msgstr "Fekete"
+
+#~ msgid "Maroon"
+#~ msgstr "Gesztenye"
+
+#~ msgid "Green"
+#~ msgstr "Zöld"
+
+#~ msgid "Olive"
+#~ msgstr "Oliva"
+
+#~ msgid "Navy"
+#~ msgstr "Tenger"
+
+#~ msgid "Purple"
+#~ msgstr "Lila"
+
+#~ msgid "Gray"
+#~ msgstr "Szürke"
+
+#~ msgid "Silver"
+#~ msgstr "Ezüst"
+
+#~ msgid "Red"
+#~ msgstr "Piros"
+
+#~ msgid "Lime"
+#~ msgstr "Banánzöld"
+
+#~ msgid "Yellow"
+#~ msgstr "Sárga"
+
+#~ msgid "Blue"
+#~ msgstr "Kék"
+
+#~ msgid "Fuchsia"
+#~ msgstr "Magenta"
+
+#~ msgid "Aqua"
+#~ msgstr "Türkiz"
+
+#~ msgid "Money Green"
+#~ msgstr "Világoszöld"
+
+#~ msgid "Sky Blue"
+#~ msgstr "Világoskék"
+
+#~ msgid "Med Gray"
+#~ msgstr "Sötétszürke"
+
+#~ msgid "Insert a text label (select and click in the main window where you want the label)."
+#~ msgstr "Szövegdoboz beszúrása (Kattintással válaszd ki a fő ablakban, hová kerüljön a szövegdoboz)."
+
+#~ msgid "Cut the selected text to the clipboard"
+#~ msgstr "A kijelölt szöveg kivágása"
+
+#~ msgid "Open an animation file."
+#~ msgstr "Animációs fájl megnyitása."
+
+#, fuzzy
+#~ msgid "Version -%s"
+#~ msgstr "Verzió"
+
+#~ msgid "Visible"
+#~ msgstr "Látható"
+
+#~ msgid "Check to make the selected item visible in the coordinate system."
+#~ msgstr "Jelöld be, hogy a kiválasztott elem látható legyen a koordinátarendszerben."
+
+#~ msgid "Functions"
+#~ msgstr "Függvények"
+
+#~ msgid "Tangents"
+#~ msgstr "Érintők"
+
+#~ msgid "Point series"
+#~ msgstr "Pontsorok"
+
+#~ msgid "Shades"
+#~ msgstr "Színezések"
+
+#~ msgid "No error occurred. You should not see this message."
+#~ msgstr "Nincs hiba. Nem szabadna látni ezt a feliratot."
+
+#~ msgid "Right bracket missing."
+#~ msgstr "A záró zárójel hiányzik."
+
+#~ msgid "Conversion error"
+#~ msgstr "Konvertálási hiba"
+
+#~ msgid ""
+#~ "Unknown error code.\n"
+#~ "Could not find error message for this error."
+#~ msgstr ""
+#~ "Ismeretlen hibakód.\n"
+#~ "Ehhez a hibához nincs hibaüzenet."
+
+#~ msgid "This error should not occur. Please report this to the programmer."
+#~ msgstr "Hiba történt. Kérünk értesítsd a program készítőjét."
+
+#~ msgid "The maximum length of text has been reached."
+#~ msgstr "Elérted a szöveg maximális hosszát."
+
+#~ msgid "Dialog error: %sh"
+#~ msgstr "Párbeszéd hiba: %sh"
+
+#~ msgid "Unknown Graph data found while pasting clipboard data."
+#~ msgstr "Beillesztési hiba: ismeretlen Graph adat."
+
+#~ msgid "To add actions to your application simply drag and drop from either Categories or Actions onto an existing ActionBar."
+#~ msgstr "Művelet hozzáadáaához egyszerűen húzza át a Kategóriák vagy a Műveletek panelből az Eszköztárra."

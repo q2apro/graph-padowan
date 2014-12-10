@@ -1,0 +1,48 @@
+;This file was created by Graph (http://www.padowan.dk)
+;Change this file at your own risk.
+[Graph]
+Version = 3.2
+Build = 144
+MinVersion = 2.5
+OS = Windows 2000 5.0 Service Pack 4
+
+[Axes]
+xMin = -1
+xMax = 15
+yMin = -10
+yMax = 12
+xTickUnit = 2
+yTickUnit = 5
+xGridUnit = 2
+yGridUnit = 5
+xShowGrid = 1
+yShowGrid = 1
+xShowLabel = 0
+yShowLabel = 0
+yLabel = f(x)
+AxesColor = clBlue
+GridColor = 0x00FF7F7F
+ShowLegend = 1
+Radian = 1
+Title = Tangent example
+
+[Data]
+FuncCount = 1
+PointSeriesCount = 0
+ShadeCount = 0
+TextLabelCount = 0
+
+[Func1]
+FuncType = 0
+y = 50ln(x)/x^2
+Color = clRed
+Size = 2
+TanCount = 1
+
+[Func1Tan1]
+t = 4
+Style = 1
+Color = clNavy
+Size = 2
+LegendText = Tangent at x=4
+

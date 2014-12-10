@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chapter SYSTEM "dtd/dblite.dtd" [
+<!ENTITY % Symbols SYSTEM "Symbols.ent">
+%Symbols;
+]>
+<section id="InsertPointSeriesDialog">
+	<?dbhh topicname="IDH_DIALOG_POINT_SERIES" topicid="120"?>
+	<title>Insert point series</title>
+	<indexterm><primary>insert</primary></indexterm>
+	<indexterm><primary>point series</primary></indexterm>
+	<indexterm><primary>markers</primary></indexterm>
+	<indexterm><primary>smooth line</primary></indexterm>
+	<indexterm><primary>trendline</primary></indexterm>
+	<indexterm><primary>interpolation</primary></indexterm>
+	<indexterm><primary>labels</primary></indexterm>
+	<indexterm><primary>error bars</primary></indexterm>
+	<indexterm><primary>arrow</primary></indexterm>
+	<indexterm><primary>import</primary></indexterm>
+	<para>
+		You can use the dialog below to add a series of points to the coordinate system.
+		The points will be shown in the coordinate system in the graphing area as a series of markers.
+		To insert a new point series, you use <menuchoice><guimenu>Function</guimenu><guimenuitem>Insert point series...</guimenuitem></menuchoice>.
+		To change an existing point series, you first select it in the <glossterm>function list</glossterm> and use <menuchoice><guimenu>Function</guimenu><guimenuitem>Edit...</guimenuitem></menuchoice>.
+	</para>
+
+  <graphic fileref="DialogPoints.png" align="center" scale="80"/>
+
+	<para>
+		After adding a point series, you may add a <link linkend="InsertTrendlineDialog">trendline</link> which is the curve of best fit for the points.
+	</para>
+	<para>
+		In the grid you can enter the x- and y-coordinates of the points.
+		You may enter any number of points you want, but all points need both an x-coordinate and a y-coordinate.
+	</para>
+	<para>
+		You can select some points and use the right click menu to copy them to another program.
+		Likewise you may copy data from other programs like MS Word or MS Excel and paste them into this the grid in dialog.
+	</para>
+	<para>
+		From the context menu, you can also choose to import data from a file.
+		Graph can import text files with data separated by either tabs, commas or semicolons.
+		The data will be placed at the position of the caret.
+		This makes it possible to load data from more than one file, or to have x-coordinates in one file and y-coordinates in another file.
+		In the usual case where you have all data in one file, you should make sure that the caret is located at the upper left cell before you import.
+	</para>
+
+	<variablelist>
+		<varlistentry>
+			<term>Description</term>
+			<listitem>
+				<para>
+					In the edit box at the top of the dialog, you can enter a name for the series, which will be shown in the <glossterm>legend</glossterm>.
+				</para>
+			</listitem>
+		</varlistentry>
+
+		<varlistentry>
+			<term>Coordinate type</term>
+			<listitem>
+				<para>
+					You need to choose between the type of coordinates used for the points.
+					<guilabel>Cartesian</guilabel> is used when you want to specify (x,y)-coordinates.
+					<guilabel>Polar</guilabel> is used when you want to specify (&theta;,r)-coordinates,
+					where <emphasis>&theta;</emphasis> is the angle and <emphasis>r</emphasis> is the distance from the origin.
+					The angle <emphasis>&theta;</emphasis> is in <glossterm>radians</glossterm> or degrees depending on the current setting.
+				</para>
+			</listitem>
+		</varlistentry>
+
+		<varlistentry>
+			<term>Marker</term>
+			<listitem>
+				<para>
+					To the right you can choose between different types of markers.
+					The style may be a circle, a square, a triangle, etc.
+					You may also change the color and size of the markers.
+					If the size is set to 0, neither markers nor error bars will be shown.
+				</para>
+				<para>
+					Notice that if you select an arrow as marker, the arrow will be shown pointing tangential to the line at the point.
+					The actual direction therefore depends on the <guilabel>Interpolation</guilabel> setting.
+					The first point is never shown when the marker is an arrow.
+				</para>
+			</listitem>
+		</varlistentry>
+
+		<varlistentry>
+			<term>Line</term>
+			<listitem>
+				<para>
+					It is possible to draw lines between the markers.
+					The line will always be drawn between points in the same order they appear in the grid.
+					You can choose between different styles, colors and widths for the lines.
+					You can also choose to draw no line at all.
+				</para>
+				<para>
+					You can choose between four types of interpolation: <guilabel>Linear</guilabel> will draw straight lines between the markers.
+					<guilabel>1D cubic spline</guilabel> will draw a <ulink url="http://en.wikipedia.org/wiki/Cubic_splines">natural cubic spline</ulink>,
+					which is a nice smooth line connecting all the points sorted by the x-coordinate with 3<superscript>rd</superscript> degree polynomials.
+					<guilabel>2D cubic spline</guilabel> will draw a smooth cubic spline through all points in order.
+					<guilabel>Half cosine</guilabel> will draw half cosine curves between the points,
+					which might not look as smooth as the cubic splines but they never undershoot/overshoot like the cubic splines can do.
+				</para>
+			</listitem>
+		</varlistentry>
+
+		<varlistentry>
+			<term>Labels</term>
+			<listitem>
+				<para>
+					Put a check in <guilabel>Show coordinates</guilabel> to show Cartesian or polar coordinates at each point.
+					You may use the <guibutton><inlinegraphic fileref="Font.png" scale="60"/></guibutton>
+					button to change the font, and the drop down box to select whether the labels are shown over, below, to the left or to the right of the points.
+				</para>
+			</listitem>
+		</varlistentry>
+
+		<varlistentry>
+			<term>Error bars</term>
+			<listitem>
+				<para>
+					Here you can choose to show horizontal or vertical error bars, also known as uncertainty bars.
+					They are shown as thin bars at each point in the point series indicating the uncertainty of the point.
+					There are three ways to indicate the size of the error bars:
+					<guilabel>Fixed</guilabel> is used to specify that all points have the same uncertainty.
+					<guilabel>Relative</guilabel> is used to specify a percentage of the x- or y-coordinate for each point as uncertainty.
+					<guilabel>Custom</guilabel> will add an extra column to the table where you may specify a different uncertainty value for each point.
+					All uncertainties are &plusmn;values. Custom Y-errors are also used to weight the points when creating trendlines.
+				</para>
+			</listitem>
+		</varlistentry>
+	</variablelist>
+</section>

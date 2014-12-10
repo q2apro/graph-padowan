@@ -1,0 +1,349 @@
+/************************************************************************/
+/* Generic style-sheet for the documentation                            */
+/* in Windows CHM Help File format                                      */
+/*                                                                      */
+/* If you prefer sans-serif fonts, just replace all the instances of    */
+/* 'times new roman,times,serif' with 'arial,helvetica,sans-serif'.     */
+/************************************************************************/
+
+
+/* Generic tag-level style definitions */
+body {
+	font-family: Verdana, Helvetica, Arial, sans-serif;
+	background: #fff;
+	color: #000;
+	margin: 0;
+	padding: 0;
+}
+
+PRE
+{
+    font-size: 10pt;
+}
+TT
+{
+    font-size: 12pt;
+}
+
+TT.Filename, TT.Literal{
+	font-weight: bold;
+}
+
+a {
+	color: blue;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+	color: black;
+}
+
+IMG {
+  border: none;
+}
+
+div.figure {
+	padding: 4px;
+	clear: both;
+	text-align: center;
+	margin: 0px 0px 5px 10px;
+}
+
+div.figure p {
+	margin-top: 2px;
+	margin-bottom: 0px;
+	font-size: 80%;
+	text-align: center;
+}
+
+.author
+{
+    font-size: 12pt;
+    font-style: italic;
+    font-weight: normal;
+    color: black;
+}
+
+div.navheader,
+div.navfooter {
+  width:100%; filter:progid:DXImageTransform.Microsoft.Gradient(startColorstr='#809BC8', endColorstr='#FFFFFF', gradientType='0');
+  color: white;
+  clear: both;
+  border: 1px solid black;
+  border-left: 0;
+  border-right: 0;
+}
+
+div.navheader informaltable th {
+	font-size: medium;
+}
+
+/* normal text in the footer */
+div.navfooter informaltable td {
+	color: black;
+}
+
+div.navheader informaltable td a,
+div.navfooter informaltable td a {
+	color: #black;
+	text-decoration: none;
+}
+
+/* links in header and footer */
+div.navheader informaltable td a:hover,
+div.navfooter informaltable td a:hover {
+	text-decoration: underline;
+	background-color: transparent;
+}
+
+div.navheader informaltable td a:visited,
+div.navfooter informaltable td a:visited {
+	color: black;
+}
+
+div.navheader hr, div.navfooter hr{
+	display: none;
+}
+
+div.book,
+div.chapter,
+div.sect1,
+div.sect2,
+div.sect3,
+div.preface,
+div.appendix,
+div.section,
+div.glossary {
+	margin: 20px;
+}
+
+/* table of contents */
+div.toc {
+	border: 1px solid black;
+	padding: 0px 10px;
+	background-color: #fff9cd;
+	color: black;
+	margin-bottom: 1cm;
+	width: 80%;
+}
+
+div.toc b { font-size: 140%; }
+
+div.toc a {
+	margin-left: 5px;
+	margin-bottom: 5px;
+}
+
+/* toc definitions for different sections and chapters */
+div.book div.toc {
+	background-color: transparent;
+	border: 0;
+	padding: 0;
+	font-size: medium;
+}
+
+div.informaltable title { background-color: #FFFFFF; width:100%; border: 0px; }
+div.informaltable p { text-align: center; }
+div.informaltable table {
+	background-color: #7099C5;
+	border-width: 0px;
+   font-size: 90%;
+}
+
+div.informaltable th {
+	text-align: center;
+	color: white;
+	background-color: #7099C5;
+	padding: 1px 4px 1px 4px;
+	border: none;
+	vertical-align: top;
+}
+div.informaltable tr {
+	background-color: #f0f0ff;
+}
+div.informaltable td {
+	vertical-align: top;
+	padding: 2px 4px 1px 4px;
+	border: none;
+}
+
+/* Revert format changes in tables in informaltables, e.g. used in the Acknowledgements chapter */
+div.informaltable table table{
+   font-size: 100%;
+   background-color: transparent;
+   margin-left: -5px;
+   margin-top: -3px;
+   margin-bottom: -3px;
+}
+
+div.informaltable table table td {
+   padding-top: 0;
+   padding-bottom: 0;
+}
+
+.caution, .important, .note, .tip, .warning {
+	border-top: 5px solid;
+	border-left: 1px solid;
+	margin: 1em 0 0 1em;
+	padding: 5px 0 10px 0;
+	width: 90%;
+	clear: both;
+}
+
+.action, .guibutton, .guimenu, .guisubmenu, .guimenuitem {
+  font-weight: bold;
+}
+
+.guibutton, .guimenu, .guisubmenu, .guimenuitem {
+  padding: 0px 0.5em 0px 0.5em;
+}
+
+.guimenu, .guisubmenu, .guimenuitem, .guilabel {
+/*	font-size: 10pt; */
+	background-color: #EEE;
+}
+
+.guibutton {
+	font-size: 10pt;
+	border-width: 1px 2px 2px 1px;
+	border-style: solid;
+	background: #eee;
+	border-color: #ddd #bbb #bbb #ddd;
+}
+
+.sidebar {
+	background-color: #DCDCDC;
+	padding: 0.5em 0.5em 0.5em 0.5em;
+}
+
+.tip {
+	border-color: #090;
+}
+
+.note {
+	border-color: #069;
+}
+
+.important {
+	border-color: #069;
+}
+
+.caution {
+	border-color: #c60;
+}
+
+.warning {
+	border-color: #900;
+}
+
+.term {
+	border-bottom: 1px dotted black;
+}
+
+div.variablelist dt {
+   margin-top: 1em;
+}
+
+div.variablelist dd {
+   margin-top: -1em;
+}
+
+div.glossary dd {
+   margin-top: -1em;
+}
+
+.symbol {
+   font-family: "Symbol";
+}
+
+h2 {
+   margin-bottom: -0.7em;
+}
+
+div.section div.simplesect h3 {
+   font-size: 120%;
+   margin-bottom: -0.7em;
+}
+
+div.section h3 {
+   font-size: 170%;
+   margin-bottom: -0.7em;
+}
+
+h4 {
+   margin-bottom: -1em;
+}
+
+table.simplelist {
+   /*margin-top: 0.8em;*/
+}
+
+
+div.simplesect h2 {
+   font-size: 120%;
+}
+
+h3.othercredit {
+  font-size: 100%;
+  margin-top: -1em;
+}
+
+h3.title {
+  margin-bottom: -0.5em;
+}
+
+span.contrib {
+  font-weight: bold;
+}
+
+p.copyright {
+  margin-top: 1em;
+}
+
+div.authorgroup {
+  margin-top: 3em;
+}
+
+div em.parameter,
+div code.varname {
+  font-size: 130%;
+  font-style: italic;
+}
+
+
+.email {
+  font-size: 100%;
+}
+
+/* Make space between answer and question in FAQ */
+tr.answer td {
+  border-bottom: solid 1em rgb(255,255,255);
+}
+
+code.function {
+  font-size: 130%;
+}
+
+code.code,
+code.classname {
+  font-size: 100%;
+  display:inline-block;
+}
+
+span.property {
+  font-weight: bold;
+}
+
+dt em.parameter,
+dd em.parameter {
+  font-size: 110%;
+}
+
+/* Add shaded background and border to program listings */
+pre.programlisting {
+  background-color: #FFFF99;
+  border: 1px solid #006600;
+  width: 0; /* This will make the width as small as possible to no smaller */
+  padding: 5px; /* Add space between border and content */
+}

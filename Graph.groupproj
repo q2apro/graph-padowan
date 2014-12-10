@@ -1,0 +1,84 @@
+﻿	<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+		<PropertyGroup>
+			<ProjectGuid>{C609907F-158C-47A1-99C2-88FFFB732ED1}</ProjectGuid>
+		</PropertyGroup>
+		<ItemGroup>
+			<Projects Include="Components\IComp.cbproj">
+				<Dependencies/>
+			</Projects>
+			<Projects Include="Source\Graph.cbproj">
+				<Dependencies/>
+			</Projects>
+			<Projects Include="Func32\Func32.cbproj">
+				<Dependencies/>
+			</Projects>
+			<Projects Include="Func32\Test\Test.cbproj">
+				<Dependencies/>
+			</Projects>
+			<Projects Include="Libraries\gsl\gsl.cbproj">
+				<Dependencies/>
+			</Projects>
+		</ItemGroup>
+		<ProjectExtensions>
+			<Borland.Personality>Default.Personality.12</Borland.Personality>
+			<Borland.ProjectType/>
+			<BorlandProject>
+				<Default.Personality/>
+			</BorlandProject>
+		</ProjectExtensions>
+		<Target Name="IComp">
+			<MSBuild Projects="Components\IComp.cbproj"/>
+		</Target>
+		<Target Name="IComp:Clean">
+			<MSBuild Projects="Components\IComp.cbproj" Targets="Clean"/>
+		</Target>
+		<Target Name="IComp:Make">
+			<MSBuild Projects="Components\IComp.cbproj" Targets="Make"/>
+		</Target>
+		<Target Name="Graph">
+			<MSBuild Projects="Source\Graph.cbproj"/>
+		</Target>
+		<Target Name="Graph:Clean">
+			<MSBuild Projects="Source\Graph.cbproj" Targets="Clean"/>
+		</Target>
+		<Target Name="Graph:Make">
+			<MSBuild Projects="Source\Graph.cbproj" Targets="Make"/>
+		</Target>
+		<Target Name="Func32">
+			<MSBuild Projects="Func32\Func32.cbproj"/>
+		</Target>
+		<Target Name="Func32:Clean">
+			<MSBuild Projects="Func32\Func32.cbproj" Targets="Clean"/>
+		</Target>
+		<Target Name="Func32:Make">
+			<MSBuild Projects="Func32\Func32.cbproj" Targets="Make"/>
+		</Target>
+		<Target Name="Test">
+			<MSBuild Projects="Func32\Test\Test.cbproj"/>
+		</Target>
+		<Target Name="Test:Clean">
+			<MSBuild Projects="Func32\Test\Test.cbproj" Targets="Clean"/>
+		</Target>
+		<Target Name="Test:Make">
+			<MSBuild Projects="Func32\Test\Test.cbproj" Targets="Make"/>
+		</Target>
+		<Target Name="gsl">
+			<MSBuild Projects="Libraries\gsl\gsl.cbproj"/>
+		</Target>
+		<Target Name="gsl:Clean">
+			<MSBuild Projects="Libraries\gsl\gsl.cbproj" Targets="Clean"/>
+		</Target>
+		<Target Name="gsl:Make">
+			<MSBuild Projects="Libraries\gsl\gsl.cbproj" Targets="Make"/>
+		</Target>
+		<Target Name="Build">
+			<CallTarget Targets="IComp;Graph;Func32;Test;gsl"/>
+		</Target>
+		<Target Name="Clean">
+			<CallTarget Targets="IComp:Clean;Graph:Clean;Func32:Clean;Test:Clean;gsl:Clean"/>
+		</Target>
+		<Target Name="Make">
+			<CallTarget Targets="IComp:Make;Graph:Make;Func32:Make;Test:Make;gsl:Make"/>
+		</Target>
+		<Import Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')" Project="$(BDS)\Bin\CodeGear.Group.Targets"/>
+	</Project>

@@ -1,0 +1,289 @@
+#include "Resource.h"
+
+MOVECURSOR1 CURSOR "hand1.cur"
+MOVECURSOR2 CURSOR "hand2.cur"
+
+STRINGTABLE LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+BEGIN
+  RES_ERROR       "Error"       //Used in titles of error message boxes
+  RES_SHADE       "Shading"     //Default name in Insert shading dialog
+  RES_ROTATION    "Rotation"    //Shown in rotation dialog
+  RES_VERSION     "Version %s"  //%s is replaced with version number
+  RES_BUILD       "Build %s"    //%s is replaced with build number
+  RES_ERROR_NUMBER "Error %s"   //Indicates an error code, e.g. "Error 5"
+  RES_AREA        "Area"        //Shown as title in the Calc|Area dialog when it is undocked
+  RES_LENGTH      "Length"      //Shown as title in the Calc|Length of path dialog when it is undocked
+  RES_SERIES      "Series"      //Default description in the Insert point series dialog
+  RES_DEGREES     "Degrees"     //Shown in rotation dialog
+  RES_LABEL       "Label"       //Name for labels shown in the function list if there is no text in the label.
+  RES_UNCERTAINTY "%s-error"    //Used for error bars in point series dialog as "x-error" or "y-error"
+  RES_TRANSPARENT "Transparent" //May be selected as background color in Insert label dialog
+  RES_AXES        "Axes"        //Shown in the function list
+
+  RES_KEY_CTRL      "Ctrl"       //Shortcut key
+  RES_KEY_ALT       "Alt"        //Shortcut key
+  RES_KEY_SHIFT     "Shift"      //Shortcut key
+  RES_KEY_DEL       "Del"         //Shortcut key
+  RES_KEY_INS       "Ins"         //Shortcut key
+  RES_KEY_HOME      "Home"        //Shortcut key
+  RES_KEY_END       "End"         //Shortcut key
+  RES_KEY_PGUP      "PgUp"        //Shortcut key
+  RES_KEY_PGDN      "PgDn"        //Shortcut key
+  RES_KEY_LEFT      "Left"        //Shortcut key
+  RES_KEY_RIGHT     "Right"       //Shortcut key
+  RES_KEY_UP        "Up"          //Shortcut key
+  RES_KEY_DOWN      "Down"        //Shortcut key
+  RES_KEY_ESC       "Esc"         //Shortcut key
+  RES_KEY_ENTER     "Enter"       //Shortcut key
+  RES_KEY_TAB       "Tab"         //Shortcut key
+  RES_KEY_BKSP      "BkSp"        //Shortcut key
+  RES_KEY_SPACE     "Space"       //Shortcut key
+
+  RES_PowCalcError        "An error occurred while evaluating power function."
+  RES_TanError            "Tangent to pi/2+n*pi (90+n180 in degrees) is undefined."
+  RES_FactError           "Fact can only be calculated for positive integers."
+  RES_LogError            "Cannot take logarithm to number equal or less than zero."
+  RES_SqrtError           "sqrt is undefined for negative numbers."
+  RES_ComplexError        "A part of the evaluation gave a number with an imaginary part."
+  RES_DivByZero           "Division by zero."
+  RES_ArcError            "Inverse trigonometric function out of range [-1;1]"
+  RES_NotDefError         "The function is not defined for this value."
+  RES_ATanhError          "atanh evaluated at undefined value."
+  RES_ACoshError          "acosh evaluated at undefined value."
+  RES_ArgError            "arg(0) is undefined."
+  RES_EvalFailed          "Evaluation failed."
+  RES_TotalLoss           "Argument produced a function result with total loss of precision."
+  RES_SymbolNotFound      "The custom function/constant '%s' was not found or has the wrong number of arguments."
+  RES_RecusionLimit       "Too many recursive calls."
+  RES_HugeValReturned     "Overflow: A function returned a value too large to handle."
+  RES_ExtFuncError        "A plugin function failed: %s"
+
+  RES_OperatorError       "Unexpected operator. Operator '%s' cannot be placed here."
+  RES_NoEndPar            "The right bracket is missing."
+  RES_ArgCountError       "Invalid number of arguments supplied for the function '%s'"
+  RES_InvalidCompare      "Comparison operator misplaced."
+  RES_InvalidNumber       "Invalid number found. Use the format: -5.475E-8"
+  RES_EmptyString         "String is empty. You need to enter a formula."
+  RES_CommaError          "Comma is not allowed here. Use dot as decimal separator."
+  RES_InvalidEndPar       "Unexpected end of brackets."
+  RES_FactorExpected      "Number, constant or function expected."
+  RES_ParAfterConst       "Parameter after constant or variable not allowed."
+  RES_ExpressionExp       "Expression expected."
+  RES_UnknownVar          "Unknown variable, function or constant: \"%s\""
+  RES_UnknownChar         "Unknown character: \"%s\""
+  RES_UnexpectedEnd       "The end of the expression was unexpected."
+  RES_ParseError          "Error parsing expression."
+
+  RES_Overflow            "A calculation resulted in an overflow."
+  RES_InvalidValue        "An invalid value was used in the calculation."
+  RES_TooFewPoints        "Not enough points for calculation."
+  RES_IllegalName         "Illegal name \"%s\" for user defined function or constant."
+  RES_RecursiveDif        "Cannot differentiate recursive function."
+  RES_NoFunc              "Internal error."
+  RES_NotDifAble          "Function \"%s\" cannot be differentiated."
+  RES_ErrorType           "Internal error."
+  RES_CalcError           "Not further specified error occurred under calculation."
+  RES_BadGuess            "No solution found. Try another guess or another model."
+  RES_NoResult            "No result found."
+  RES_NoAccurateResult    "An accurate result cannot be found."
+  RES_InternalError       "Internal error. Please notify the programmer with as much information as possible."
+
+  RES_EmptyName           "You need to enter a name for the function/constant."
+  RES_InvalidName         "Invalid function/constant name '%s'.\nThe name may only contain letters and decimal digits, and it must always start with a letter.\nIn addition you are not allowed to redefine built-in names."
+  RES_EmptyArg            "You need to enter a name for the argument."
+  RES_InvalidArg          "Invalid argument name '%s'.\nThe name may only contain letters and decimal digits, and it must always start with a letter.\n In addition you are not allowed to use built-in names as argument names."
+  RES_EndParMissing       "The right bracket is missing."
+  RES_CharAfterEndPar     "Character found after brackets."
+  RES_DoubleDefinedSymbol "Symbol \"%s\" defined more than once."
+
+  RES_INVALID_RELATION    "Invalid equation or inequality."
+
+  RES_UPDATE              "Updating..."         //Shown in status bar
+  RES_SAVE_CHANGES        "Save changes?"       //Asked when trying to exit
+  RES_SAVE_CHANGES_IN     "Save changes in %s?" //Asked when trying to exit
+  RES_MAX_ZOOM            "You have reached the maximum range of zoom."  //Written in status bar when trying to zoom in too much
+  RES_MIN_ZOOM            "You have reached the minimum range of zoom."  //Written in status bar when trying to zoom out too much
+  RES_NOT_EQUAL_ZERO      "'%s' must not be zero."
+  RES_ERROR_IN_VALUE      "Error in value"  //Error message when an invalid value is entered.
+  RES_LIMIT_ZERO          "'%s' has to be an integer value greater or equal to 0."
+  RES_GREATER_ZERO        "'%s' must be greater than zero."
+  RES_INT_GREATER_ZERO    "'%s' must be an integer greater than zero."
+  RES_ERROR_ZOOM          "Trying to break zoom limit." //Error message in Axes dialog when zoom in/out too much
+  RES_GREATER             "'%s' must be greater than '%s'"
+  RES_MAX_GREATER_MIN     "The maximum value must be greater than the minimum value."
+  RES_VALUE_NEEDED        "You need to enter a value."
+  RES_INVALID_VERSION     "This file was created with Graph %s.\nOnly files from version %s and higher can be opened."
+  RES_NOT_VALID_NUMBER    "'%s' is not a valid number."
+  RES_OPEN_FILE           "Open file: %s"                //Hint for recent file menu items
+  RES_POSITIVE            "'%s' must be a positive number."
+  RES_FILE_NOT_FOUND      "File not found: %s"
+  RES_NOT_GRAPH_FILE      "Error reading file: %s\nThe file is not a correct Graph file."
+  RES_ERROR_READING_FILE  "Unknown error while reading file: %s"
+  RES_FILE_FILTER         "Graph files [*.grf]|*.grf" //Used in Save as dialog
+  RES_FILE_ACCESS         "Cannot write to file: %s\nAccess denied. Check that the file is not in use or write protected."
+  RES_UNKNOWN_FONT        "The font \"%s\" doesn't exist. Standard font is used instead."
+  RES_OLE_GRAPH_SYSTEM    "Graph system" //Description of grf file
+  RES_OLE_OPEN            "Open"         //Menu item shown in OLE client to open a Graph system object in Graph
+  RES_SELECTION_ERROR     "Selection error" //Error in Insert shading dialog when you need to select a function
+  RES_FILE_ERROR          "File error"      //Title in error message when reading a grf-file failed
+  RES_WRITE_FAILED        "Write access failed"
+  RES_OLE_ERROR           "OLE error"
+  RES_READING_OBJECT      "Error reading object"
+  RES_INVALID_OBJECT      "Not a valid Graph object." //Error message when a Graph OLE object is invalid.
+  RES_OBJECT_ERROR        "Object error"              //Error message when a Graph OLE object is invalid.
+  RES_OUT_OF_RESOURCES    "Windows does not have enough resources to save an image that large."
+  RES_VALUE_RANGE         "'%1%' must be between %2% and %3%."
+  RES_FILE_DOESNT_EXIST   "File not found"
+  RES_FILE_READ_ERROR     "Error reading file"
+  RES_PRINTER_ERROR       "Printer error"
+  RES_INVALID_USE_OF_INF  "Invalid use of infinity. Infinity cannot be used here."
+  RES_OUT_OF_MEMORY       "Not enough memory to complete the operation."
+
+  RES_CAPTION_DELETE      "Confirm delete"
+  RES_SHOW                "Show %s"     //Context menu in Calc|Table dialog
+  RES_SAVE_OPTIONS        "Options..."  //Button in Save as image dialog
+  RES_MOVING_AVERAGE      "Moving average"
+  RES_DELETE              "Are you sure you want to delete %s?"
+  RES_GRAPH_FILTER        "Graph files [*.grf]|*.grf|All files [*.*]|*.*"           //Save as dialog
+  RES_DATA_FILTER         "CSV (semicolon delimited) [*.csv]|*.csv|CSV (comma delimited) [*.csv]|*.csv|Text (tab delimited) [*.txt]|*.txt|Text (space delimited) [*.txt]|*.txt|All files [*.*]|*.*"     //Import from file dialog
+  RES_DELETE_MODEL        "Are you sure you want to delete the model: %s?"
+  RES_EXPORT_DATA_FILTER  "CSV (Comma delimited) [*.csv]|*.csv|Text [*.txt]|*.txt"  //Export to file dialog
+
+  500 "Maximum number on x-axis must be greater than the minimum value."
+  501 "Maximum number on y-axis must be greater than the minimum value."
+  502 "Server application not found."                                               //Error message when trying to activate an OLE object
+  503 "Edit model"                                                                  //Insert trendline dialog
+  504 "Maximum number for t must be greater than the minimum value."
+  505 "The step value for t must be a number greater than 0."
+  506 "The minimum value for the x-axis must be greater than 0, when the x-axis is logarithmic scaled."
+  507 "The cross point of the y-axis must be greater than 0, when the x-axis is logarithmic scaled."
+  508 "The minimum value for the y-axis must be greater than 0, when the y-axis is logarithmic scaled."
+  509 "The cross point of the x-axis must be greater than 0, when the y-axis is logarithmic scaled."
+  510 "'Recent files' must be between 0 and 9."
+  511 "The end of interval must be greater than the start of interval."
+  512 "Error in interval."
+  513 "The width must be an integer greater than 0."
+  514 "Error in width"
+  515 "The end of interval must be greater than the start of interval and %s must be greater than 0."
+  516 "Invalid model name."
+  517 "A model of that name already exist."
+  518 "The derivative of the function is not defined at %s=%s"
+  519 "Coordinate not defined"    //Caption of message box when trying to insert tangent at undefined coordinate
+  520 "Checking for newer version..."
+  521 "Abort printing?"
+  522 "Calculate area"
+  523 "Calculate length of path"
+  524 "Edit function"
+  525 "Edit tangent/normal"
+  526 "Error processing file '%s' at line %s."
+  527 "Evaluate"
+  528 "Edit text label"
+  529 "The model needs some constants (starting with a $) for Graph to find."
+  530 "'%s' has to be an integer value between 0 and 1000."
+  531 "Printing error"
+  532 "An unknown error occurred while printing."
+  533 "Error while adding points" //Error message title in Point series dialog
+  534 "Each point needs both an x- and a y-coordinate."
+  535 "\"%s\" is not a valid number."
+  536 "You didn't add any points. You need to specify some x- and y-coordinates in the grid."
+  537 "Edit point series"
+  538 "Edit shading"
+  539 "You need to select a function."
+  540 "New version of Graph available"
+  541 "Graph %s is now available for download from www.padowan.dk\n\nWould you like to visit the download page?"
+  542 "No new version"
+  543 "You are already using the most recent version of Graph."
+  544 "Cannot connect to server www.padowan.dk.\nEither the server is down or you do not have a connection to the Internet."
+  545 "Socket error %s"                            //Communication error when checking for newer version
+  546 "Definite integral, or signed area between function and x-axis, for the given domain range."
+  547 "Length of path along the curve calculated for the given range."
+  548 "The file cannot be opened by this version of the program.\nYou need at least Graph %s to open this file."
+  549 "This file was saved by an outdated version of Graph,\nand it cannot be opened by the current version."
+  550 "\n\nIf you don't want to be asked again, this feature may be disabled from the Edit|Options dialog."
+  551 "Edit relation"
+  552 "Commands"        //Customize toolbar dialog
+  553 "(All Commands)"  //Customize toolbar dialog
+  554 "To add a command to the toolbar simply select a category and drag the command out of this dialog box to the toolbar."
+  555 "Edit f'(x)"
+  556 "Edit trendline"
+  557 "Categories:"     //Customize toolbar dialog
+  558 "<Language> translation by <Translator>"  //Please replace <Language> with the local name of the language and <Translator> with the name of the translator.
+  559 "The program seems to be stuck in an infinite loop.\nIf you cancel the operation the program will become unstable.\nYou should therefore save your data under a new name and restart the application." //An error message that hopefully is never seen by the user
+  560 "Thread is not responding"
+
+  600 "This Tip of the day can give you a lot of information about the program that most users don't know."                                                       //Tip of the Day
+  601 "You can get help using Graph, report bugs and suggest future improvements at the web forum: <a href=\"http://forum.padowan.dk\">http://forum.padowan.dk</a>"  //Tip of the Day
+  602 "You can customize the toolbar by right clicking on it and select 'Customize toolbar'."                                                                     //Tip of the Day
+  603 "Instead of deleting a function, you can make it invisible by removing the check mark for the item in the function list."                                  //Tip of the Day
+  604 "You can paste images into a text label."                                                                                                                   //Tip of the Day
+  605 "Text labels can contain any kind of OLE objects, for example Microsoft Equation. When editing a label right click in the editing area and select 'Insert object'."  //Tip of the Day
+  606 "You can export points from a point series to a file that can be read by other programs, for example Microsoft Excel. When editing the point series select the points, right click and choose 'Export to file'." //Tip of the Day
+  607 "A vertical line at x=5 can be drawn as the parametric function x(t)=5, y(t)=t or as the relation x=5."                                                     //Tip of the Day
+  608 "You can use Zoom|Square to make the axes look equally scaled. This is especially useful when drawing circles and similar functions."                       //Tip of the Day
+  609 "You can find a list of all available functions in the help."                                                                                               //Tip of the Day
+  610 "You can combine two functions to one using 'if'. For example the function f(x)=x for x<1 and f(x)=x^2 for x>=1 can be written as f(x)=if(x<1, x, x^2)."    //Tip of the Day
+  611 "You can import the contents of another Graph file into the current coordinate system using 'File|Import|Graph file'."                                      //Tip of the Day
+  612 "If you check 'Save as default' in the Axes dialog the current settings will be used as default when creating new coordinate systems."                                   //Tip of the Day
+  613 "While you hold down the Ctrl key, you can use the arrow keys to move the system."                                                                          //Tip of the Day
+  614 "While you hold down the Ctrl key, you can use the + and - keys to zoom in and out."                                                                        //Tip of the Day
+  615 "You can use the scroll button on your mouse to zoom in and out at the position of the mouse cursor."                                                       //Tip of the Day
+  616 "If you don't want an item shown in the legend, you can right click on the item in the function list and deselect 'Show in legend'."                        //Tip of the Day
+  617 "If you want the axes shown to the left and bottom of the image, you can choose Axes style as Boxed in the Settings tab of the Axes dialog."                //Tip of the Day
+  618 "Graph can save the shown coordinate system in five different image formats: bmp, emf, png, jpg and pdf."                                                   //Tip of the Day
+  619 "You can use 'Edit|Copy image' to copy the coordinate system and paste it into another program, for example, Microsoft Word. Later you can usually edit the image in Graph by double clicking on it in the other program."  //Tip of the Day
+  620 "You can open a saved grf-file in a new instance of the program by double clicking on it in Explorer."                                                      //Tip of the Day
+  621 "You can drag a grf-file from explorer into an open instance of Graph to open the file."                                                                    //Tip of the Day
+  622 "Graph will remember the size of the main window between executions. This can be disabled from the Options dialog."                           //Tip of the Day
+  623 "Calc|Table can be used to create a table with evaluation values for a function."                                                                           //Tip of the Day
+  624 "A part or the whole evaluation table can be exported to a file by right clicking and selecting 'Export to file'. It can afterwards be opened in other programs like Microsoft Excel." //Tip of the Day
+  625 "Data from the evaluation table can be copied to another program like Microsoft Excel."                                                 //Tip of the Day
+  626 "The data points in a point series can be copied to and from other programs like Microsoft Excel."                                    //Tip of the Day
+  627 "Elements as functions, point series, etc. can be copied from one instance of the program to another using Edit|Copy."                                                //Tip of the Day
+  628 "You can always undo the last thing you did using Edit|Undo."                                                                                               //Tip of the Day
+  629 "If you used Edit|Undo by mistake, you can use Edit|Redo to redo what you have undone."                                                                     //Tip of the Day
+  630 "In the Axes dialog you can add a title to the coordinate system."                                                                                          //Tip of the Day
+  631 "You can import point series from files saved by other programs, like Microsoft Excel."                                                                     //Tip of the Day
+  632 "When inserting a point series, you can copy data from programs like Microsoft Excel, and paste the data into the grid in Graph."                           //Tip of the Day
+  633 "You can use 'Zoom|Fit all' to change the coordinate system so all functions and point series are visible."                                                 //Tip of the Day
+  634 "You can use Zoom|Fit to change the coordinate system to show all parts of the selected function or point series."                                          //Tip of the Day
+  635 "When you hold down the Shift key you can drag the coordinate system around with the mouse."                                                                //Tip of the Day
+  636 "You can use Calc|Evaluate to find intersections between functions, crossings with the axes and extremum points."                                           //Tip of the Day
+  637 "When a point series is selected you can add points to it by clicking on the image while you hold down the Ctrl key."                                       //Tip of the Day
+  638 "You can use a relation to plot any inequality, for example sin(x^2) < cos(y^2)"                                                                            //Tip of the Day
+  639 "You can use a relation to plot any equation, for example x*sin x = y*cos y"                                                                                //Tip of the Day
+  640 "Elements (functions, shadings, labels, relations, etc.) are drawn in the same order they appear in the function list to the left."                         //Tip of the Day
+  641 "You can move the selected element in the function list either by dragging it with the mouse or with the arrow up/down keys while ALT is held down."        //Tip of the Day
+  642 "You can show functions and other elements behind the axes by moving the element above the axes in the function list to the left. To move shadings and tangents you will have to move the functions they are attached to." //Tip of the Day
+  643 "Custom text labels may be attached to the axes by right clicking on the label and selecting a placement from the context menu."                            //Tip of the Day
+  644 "The legend may be moved freely with the mouse or attached to one of the corners by right clicking on the legend and choose a placement from the context menu." //Tip of the Day
+  645 "As an alternative to Transparent, you can choose a custom background color for labels. This is especially useful for labels drawn over shadings."              //Tip of the Day
+  646 "In most places like point series, axes settings, function ranges, etc., you can use expressions like pi/4 instead of numbers."                             //Tip of the Day
+  647 "You can create your own custom constants under Function|Custom functions for use in functions, point series, etc. For example g=9.80665, R=8.31"           //Tip of the Day
+  648 "You can create your own custom functions under Function|Custom functions for use in plotting functions, relations, etc. For example sinc(x)=if(x=0, 0, sin(x)/x)"  //Tip of the Day
+  649 "In the Save as image dialog there is an Option button you can use to specify the image resolution. This is especially useful if you want a high resolution image." //Tip of the Day
+  650 "Point series can have arrows as markers. A point series with arrows as markers and lines between the points can be used to show vectors."                  //Tip of the Day
+
+/*
+//Texts used in components
+"Insert symbol"
+"Font name:"
+"Subset:"
+"Close"
+"Insert"
+"Select color"
+
+//Texts for Customize Toolbar
+"Customize"    //Customize toolbar dialog
+"Description"  //Customize toolbar dialog
+
+//Error messages in the VCL
+"Cannot open clipboard: %s"  //Another application has locked the clipboard
+"There is no default printer currently selected."
+
+"Install for all users"  //Text from the installation
+"Examples"               //Icon added to Start menu
+
+"Local"
+"Global"
+*/
+END

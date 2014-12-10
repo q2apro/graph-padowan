@@ -1,0 +1,3748 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Abdellah Chelli <abdellahchelli@gmail.com>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: Graph\n"
+"POT-Creation-Date: 2012-11-12 22:11\n"
+"PO-Revision-Date: 2012-11-12 17:39+0100\n"
+"Last-Translator: Michael Bach Ipsen <rosenthall@hotmail.com>\n"
+"Language-Team: IL\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+"X-Generator: Virtaal 0.7.0\n"
+"X-Poedit-Language: Arabic\n"
+"X-Poedit-Country: ALGERIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Bookmarks: 806,-1,-1,-1,-1,-1,751,-1,-1,-1\n"
+"BiDiMode: 1\n"
+
+#. Form1..Recent1..Hint
+msgid "Open file: %s"
+msgstr "فتح الملف: ‪%s"
+
+#. Form1..PopupMenu1..Tree_ShowInLegend..Caption
+msgid "Show in legend"
+msgstr "عرض في مفتاح الرسم"
+
+#. Form1..PopupMenu1..Tree_ShowInLegend..Hint
+msgid "Check to show the selected item in the legend."
+msgstr "تعيين لإظهار العناصر المحددة داخل مفتاح الرسم."
+
+#. Form1..PopupMenu1..Tree_Placement..Caption
+#. Form1..PopupMenu3..Label_Placement..Caption
+#. Form1..PopupMenu4..Legend_Placement..Caption
+#. Form21..Caption
+msgid "Placement"
+msgstr "الموضع"
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Above..Caption
+#. Form1..PopupMenu3..Label_Placement..Label_Above..Caption
+msgid "Above x-axis"
+msgstr "فوق المحور x"
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Above....Hint
+#. Form1..PopupMenu3..Label_Placement..Label_Above....Hint
+msgid "Place the label directly above the x-axis on the right side of the image."
+msgstr "وضع التسمية مباشرة فوق المحور x على الجانب الأيمن من الصورة."
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Below..Caption
+#. Form1..PopupMenu3..Label_Placement..Label_Below..Caption
+msgid "Below x-axis"
+msgstr "تحت المحور x"
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Below....Hint
+#. Form1..PopupMenu3..Label_Placement..Label_Below....Hint
+msgid "Place the label directly below the x-axis on the right side of the image."
+msgstr "وضع التسمية مباشرة تحت المحور x في الجانب الأيمن من الصورة."
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Left..Caption
+#. Form1..PopupMenu3..Label_Placement..Label_Left..Caption
+msgid "Left of y-axis"
+msgstr "يسار المحور y"
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Left....Hint
+#. Form1..PopupMenu3..Label_Placement..Label_Left....Hint
+msgid "Place the label to the left of the y-axis at the top of the image."
+msgstr "وضع التسمية مباشرة على يسار المحور y في الأعلى الصورة."
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Right..Caption
+#. Form1..PopupMenu3..Label_Placement..Label_Right..Caption
+msgid "Right of y-axis"
+msgstr "يمين المحور y"
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Right....Hint
+#. Form1..PopupMenu3..Label_Placement..Label_Right....Hint
+msgid "Place the label to the right of the y-axis at the top of the image."
+msgstr "وضع التسمية مباشرة على يمين المحور y في الأعلى الصورة."
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Placement_Custom..Caption
+#. Form1..PopupMenu1..Tree_Rotation..Tree_Rotation_Custom..Caption
+#. Form1..PopupMenu3..Label_Placement..Label_Placement_Custom..Caption
+#. Form1..PopupMenu3..Label_Rotation..Label_Rotation_Custom..Caption
+#. Form11..GroupBox2..ExtColorBox1..CustomName
+#. Form12..GroupBox2..ExtColorBox1..CustomName
+#. Form13..GroupBox1..ExtColorBox1..CustomName
+#. Form14..PageControl1..TabSheet1..GroupBox1..ExtColorBox1..CustomName
+#. Form14..PageControl1..TabSheet1..GroupBox2..ExtColorBox2..CustomName
+#. Form16..PageControl1..TabSheet2..GroupBox3..ExtColorBox1..CustomName
+#. Form3..PageControl1..TabSheet4..GroupBox3..ExtColorBox1..CustomName
+#. Form3..PageControl1..TabSheet4..GroupBox3..ExtColorBox2..CustomName
+#. Form3..PageControl1..TabSheet4..GroupBox3..ExtColorBox3..CustomName
+#. Form5..GroupBox4..GridPanelEx1..ExtColorBox1..CustomName
+#. Form6..ColorBox1..CustomName
+#. Form6..ColorBox2..CustomName
+#. Form7..GroupBox4..ExtColorBox1..CustomName
+msgid "Custom..."
+msgstr "مخصّص ..."
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Placement_Custom..Hint
+#. Form1..PopupMenu3..Label_Placement..Label_Placement_Custom..Hint
+msgid "Place the label at a custom position."
+msgstr "وضع التسمية في مكان مخصص."
+
+#. Form1..PopupMenu1..Tree_Rotation..Caption
+#. Form1..PopupMenu3..Label_Rotation..Caption
+msgid "Rotation"
+msgstr "استدارة"
+
+#. Form1..PopupMenu1..Tree_Rotation..Tree_Rotation_0..Hint
+#. Form1..PopupMenu3..Label_Rotation..Rotation_0..Hint
+msgid "Show the label with no rotation."
+msgstr "عرض النص دون استدارة."
+
+#. Form1..PopupMenu1..Tree_Rotation..Tree_Rotation_90..Hint
+#. Form1..PopupMenu3..Label_Rotation..Rotation_90..Hint
+msgid "Show the label rotated 90° counter clockwise."
+msgstr "عرض التسمية باستدارة 90 درجة عكس اتجاه عقارب الساعة."
+
+#. Form1..PopupMenu1..Tree_Rotation..Tree_Rotation_180..Hint
+#. Form1..PopupMenu3..Label_Rotation..Rotation_180..Hint
+msgid "Show the label rotated 180°."
+msgstr "عرض التسمية باستدارة 180 درجة."
+
+#. Form1..PopupMenu1..Tree_Rotation..Tree_Rotation_270..Hint
+#. Form1..PopupMenu3..Label_Rotation..Rotation_270..Hint
+msgid "Show the label rotated 270° counter clockwise."
+msgstr "عرض التسمية باستدارة 270 درجة عكس اتجاه عقارب الساعة."
+
+#. Form1..PopupMenu1..Tree_Rotation..Tree_Rotation_Custom..Hint
+#. Form1..PopupMenu3..Label_Rotation..Label_Rotation_Custom..Hint
+msgid "Specify the angle of rotation for the label."
+msgstr "تعيين زاوية استدارة التسمية."
+
+#. Form1..PopupMenu1..Tree_Export..Caption
+#. Form14..PopupMenu1..Popup_Export..Caption
+#. Form15..PopupMenu1..Popup1_Export..Caption
+#. Form17..PopupMenu1..Popup_Export..Caption
+msgid "Export to file..."
+msgstr "تصدير إلى ملف ..."
+
+#. Form1..PopupMenu1..Tree_Export..Hint
+msgid "Export the selected point series to a file."
+msgstr "تصدير السلسلة النقطية المحددة إلى ملف."
+
+#. Form1..ActionManager..............Caption
+msgid "Import"
+msgstr "استيراد"
+
+#. Form1..ActionManager..........Caption
+#. Form1..ActionManager..NewAction..Category
+#. Form1..ActionManager..OpenAction..Category
+#. Form1..ActionManager..SaveAction..Category
+#. Form1..ActionManager..SaveAsAction..Category
+#. Form1..ActionManager..SaveCopyAsAction..Category
+#. Form1..ActionManager..SaveAsImageAction..Category
+#. Form1..ActionManager..PrintAction..Category
+#. Form1..ActionManager..ExitAction..Category
+#. Form1..ActionManager..ImportGraphFileAction..Category
+#. Form1..ActionManager..ImportPointSeriesAction..Category
+msgid "File"
+msgstr "ملف"
+
+#. Form1..ActionManager..........Caption
+#. Form1..ActionManager..UndoAction..Category
+#. Form1..ActionManager..RedoAction..Category
+#. Form1..ActionManager..CutAction..Category
+#. Form1..ActionManager..CopyAction..Category
+#. Form1..ActionManager..PasteAction..Category
+#. Form1..ActionManager..CopyImageAction..Category
+#. Form1..ActionManager..AxesAction..Category
+#. Form1..ActionManager..OptionsAction..Category
+msgid "Edit"
+msgstr "تحرير"
+
+#. Form1..ActionManager..........Caption
+#. Form1..ActionManager..InsertFunctionAction..Category
+#. Form1..ActionManager..InsertTangentAction..Category
+#. Form1..ActionManager..InsertShadeAction..Category
+#. Form1..ActionManager..InsertPointsAction..Category
+#. Form1..ActionManager..InsertTrendlineAction..Category
+#. Form1..ActionManager..EditAction..Category
+#. Form1..ActionManager..DeleteAction..Category
+#. Form1..ActionManager..InsertDifAction..Category
+#. Form1..ActionManager..InsertLabelAction..Category
+#. Form1..ActionManager..InsertRelationAction..Category
+#. Form1..ActionManager..CustomFunctionsAction..Category
+#. ParFuncFrame..ComboBox1..Text
+#. ParFuncFrame..ComboBox1....Items.Strings
+#. PolFuncFrame..ComboBox1..Text
+#. PolFuncFrame..ComboBox1....Items.Strings
+#. StdFuncFrame..ComboBox1..Text
+#. StdFuncFrame..ComboBox1....Items.Strings
+msgid "Function"
+msgstr "دالة"
+
+#. Form1..ActionManager..........Caption
+#. Form1..ActionManager..ZoomInAction..Category
+#. Form1..ActionManager..ZoomOutAction..Category
+#. Form1..ActionManager..ZoomWindowAction..Category
+#. Form1..ActionManager..ZoomSquareAction..Category
+#. Form1..ActionManager..ZoomStandardAction..Category
+#. Form1..ActionManager..ZoomFitAction..Category
+#. Form1..ActionManager..ZoomFitAllAction..Category
+#. Form1..ActionManager..ZoomXInAction..Category
+#. Form1..ActionManager..ZoomXOutAction..Category
+#. Form1..ActionManager..ZoomYInAction..Category
+#. Form1..ActionManager..ZoomYOutAction..Category
+msgid "Zoom"
+msgstr "تقريب"
+
+#. Form1..ActionManager..........Caption
+#. Form1..ActionManager..PathAction..Category
+#. Form1..ActionManager..AreaAction..Category
+#. Form1..ActionManager..EvalAction..Category
+#. Form1..ActionManager..TableAction..Category
+#. Form1..ActionManager..AnimateAction..Category
+#. Form15..Button2..Caption
+msgid "Calc"
+msgstr "حساب"
+
+#. Form1..ActionManager..........Caption
+msgid "Plugins"
+msgstr "ملحقات"
+
+#. Form1..ActionManager..............Caption
+msgid "Internet"
+msgstr "أنترنيت"
+
+#. Form1..ActionManager..........Caption
+#. Form1..ActionManager..ContentsAction..Category
+#. Form1..ActionManager..ListAction..Category
+#. Form1..ActionManager..HomePageAction..Category
+#. Form1..ActionManager..UpdateAction..Category
+#. Form1..ActionManager..AboutAction..Category
+#. Form1..ActionManager..FaqAction..Category
+#. Form1..ActionManager..DonateAction..Category
+#. Form1..ActionManager..TipAction..Category
+#. Form1..ActionManager..SupportAction..Category
+#. Form1..ActionManager..ScriptDocAction..Category
+#. Form11..Button3..Caption
+#. Form12..Button3..Caption
+#. Form13..Button3..Caption
+#. Form14..Button3..Caption
+#. Form15..Button3..Caption
+#. Form16..Button3..Caption
+#. Form17..Button4..Caption
+#. Form19..Button3..Caption
+#. Form3..Button3..Caption
+#. Form4..Button3..Caption
+#. Form5..Button3..Caption
+#. Form6..Button3..Caption
+#. Form7..Button3..Caption
+msgid "Help"
+msgstr "مساعدة"
+
+#. Form1..ActionManager..NewAction..Caption
+msgid "New"
+msgstr "جديد"
+
+#. Form1..ActionManager..NewAction..Hint
+msgid "Create a new coordinate system."
+msgstr "إنشاء معلم إحداثيات جديد."
+
+#. Form1..ActionManager..OpenAction..Caption
+msgid "Open..."
+msgstr "فتح ..."
+
+#. Form1..ActionManager..OpenAction..Hint
+msgid "Read a coordinate system from a file."
+msgstr "قراءة معلم إحداثيات من ملف."
+
+#. Form1..ActionManager..SaveAction..Caption
+msgid "Save"
+msgstr "حفظ"
+
+#. Form1..ActionManager..SaveAction..Hint
+msgid "Write the current coordinate system to a file."
+msgstr "حفظ  معلم الإحداثيات الحالي في ملف."
+
+#. Form1..ActionManager..SaveAsAction..Caption
+#. Form20..PopupMenu1..Save1..Caption
+msgid "Save as..."
+msgstr "حفظ باسم ..."
+
+#. Form1..ActionManager..SaveAsAction..Hint
+msgid "Write the current coordinate system to a file with a new name."
+msgstr "حفظ  معلم الإحداثيات الحالي في ملف باسم جديد."
+
+#. Form1..ActionManager..SaveCopyAsAction..Caption
+msgid "Save copy as..."
+msgstr "حفظ نسخة باسم ..."
+
+#. Form1..ActionManager..SaveCopyAsAction..Hint
+msgid "Save a copy of the current coordinate system to a file."
+msgstr "حفظ  نسخة لمعلم الإحداثيات الحالي في ملف."
+
+#. Form1..ActionManager..SaveAsImageAction..Caption
+msgid "Save as image..."
+msgstr "حفظ كصورة ..."
+
+#. Form1..ActionManager..SaveAsImageAction..Hint
+msgid "Save the shown coordinate system as an image."
+msgstr "حفظ معلم الإحداثيات الظاهر كصورة."
+
+#. Form1..ActionManager..PrintAction..Caption
+msgid "Print..."
+msgstr "طباعة ..."
+
+#. Form1..ActionManager..PrintAction..Hint
+msgid "Print shown coordinate system."
+msgstr "طباعة معلم الإحداثيات الظاهر."
+
+#. Form1..ActionManager..ExitAction..Caption
+msgid "Exit"
+msgstr "خروج"
+
+#. Form1..ActionManager..ExitAction..Hint
+msgid "Quit the program."
+msgstr "خروج من البرنامج."
+
+#. Form1..ActionManager..UndoAction..Caption
+#. Form6..PopupMenu1..Popup_Undo..Caption
+msgid "Undo"
+msgstr "تراجع"
+
+#. Form1..ActionManager..UndoAction..Hint
+msgid "Undo the last action."
+msgstr "تراجع عن الإجراء الأخير."
+
+#. Form1..ActionManager..RedoAction..Caption
+#. Form6..PopupMenu1..Popup_Redo..Caption
+msgid "Redo"
+msgstr "إعادة"
+
+#. Form1..ActionManager..RedoAction..Hint
+msgid "Redo the last action undone."
+msgstr "إعادة تنفيذ الإجراء المتراجع عنه."
+
+#. Form1..ActionManager..CutAction..Caption
+#. Form14..PopupMenu1..Popup_Cut..Caption
+#. Form17..PopupMenu1..Popup_Cut..Caption
+#. Form6..PopupMenu1..Popup_Cut..Caption
+msgid "Cut"
+msgstr "قص"
+
+#. Form1..ActionManager..CutAction..Hint
+msgid "Cut the selected function or point series to the clipboard."
+msgstr "قص الدالة أو السلسلة النقطية المحددة إلى الحافظة."
+
+#. Form1..ActionManager..CopyAction..Caption
+#. Form14..PopupMenu1..Popup_Copy..Caption
+#. Form15..PopupMenu1..Popup1_Copy..Caption
+#. Form17..PopupMenu1..Popup_Copy..Caption
+#. Form6..PopupMenu1..Popup_Copy..Caption
+msgid "Copy"
+msgstr "نسخ"
+
+#. Form1..ActionManager..CopyAction..Hint
+msgid "Copy the selected function or point series to the clipboard."
+msgstr "نسخ الدالة أو السلسلة النقطية المحددة إلى الحافظة."
+
+#. Form1..ActionManager..PasteAction..Caption
+#. Form14..PopupMenu1..Popup_Paste..Caption
+#. Form17..PopupMenu1..Popup_Paste..Caption
+#. Form6..PopupMenu1..Popup_Paste..Caption
+msgid "Paste"
+msgstr "لصق"
+
+#. Form1..ActionManager..PasteAction....Hint
+msgid "Paste a function or point series from the clipboard into the coordinate system."
+msgstr "لصق دالة أو سلسلة نقطية من الحافظة إلى معلم الإحداثيات."
+
+#. Form1..ActionManager..CopyImageAction..Caption
+msgid "Copy image"
+msgstr "نسخ صورة"
+
+#. Form1..ActionManager..CopyImageAction..Hint
+msgid "Copy the shown coordinate system to the clipboard."
+msgstr "نسخ صورة لمعلم الإحداثيات إلى الحافظة."
+
+#. Form1..ActionManager..AxesAction..Caption
+msgid "Axes..."
+msgstr "محاور ..."
+
+#. Form1..ActionManager..AxesAction..Hint
+msgid "Edit axes settings."
+msgstr "تعديل خيارات المحاور."
+
+#. Form1..ActionManager..OptionsAction..Caption
+#. Form1..SaveDialogEx1..HelpCaption
+#. Form19..Button4..Caption
+msgid "Options..."
+msgstr "خيارات ..."
+
+#. Form1..ActionManager..OptionsAction..Hint
+msgid "Edit various options for the interface and program features."
+msgstr "تعديل خيارات مختلفة للواجهة و البرنامج."
+
+#. Form1..ActionManager..InsertFunctionAction..Caption
+msgid "Insert function..."
+msgstr "إدراج دالة ..."
+
+#. Form1..ActionManager..InsertFunctionAction..Hint
+msgid "Insert a new function."
+msgstr "إدراج دالة جديدة."
+
+#. Form1..ActionManager..InsertTangentAction..Caption
+msgid "Insert tangent/normal..."
+msgstr "إدراج مماس/عمود ..."
+
+#. Form1..ActionManager..InsertTangentAction..Hint
+msgid "Insert a tangent or normal for the selected function."
+msgstr "إدراج مماس أو عمود للدالة المحددة."
+
+#. Form1..ActionManager..InsertShadeAction..Caption
+msgid "Insert shading..."
+msgstr "إدراج تظليل ..."
+
+#. Form1..ActionManager..InsertShadeAction..Hint
+msgid "Add shading to the selected function."
+msgstr "إضافة تظليل للدالة المحددة."
+
+#. Form1..ActionManager..InsertPointsAction..Caption
+msgid "Insert point series..."
+msgstr "إدراج سلسلة نقطية ..."
+
+#. Form1..ActionManager..InsertPointsAction..Hint
+msgid "Insert a point series."
+msgstr "إدراج سلسلة نقطية جديدة."
+
+#. Form1..ActionManager..InsertTrendlineAction..Caption
+msgid "Insert trendline..."
+msgstr " إدراج خط إتجاه ..."
+
+#. Form1..ActionManager..InsertTrendlineAction..Hint
+msgid "Insert a curve of best fit for the selected point series."
+msgstr "إدراج المنحنى الأكثر ملائمة للسلسلة النقطية المحددة."
+
+#. Form1..ActionManager..EditAction..Caption
+msgid "Edit..."
+msgstr "تحرير ..."
+
+#. Form1..ActionManager..EditAction..Hint
+msgid "Edit the selected element: Function, tangent, point series, etc."
+msgstr "تحرير العنصر المحدد: دالة، مماس، سلسلة نقطية، أو غيرها."
+
+#. Form1..ActionManager..DeleteAction..Caption
+#. Form14..PopupMenu1..Popup_Delete..Caption
+#. Form17..PopupMenu1..Popup_Delete..Caption
+msgid "Delete"
+msgstr "حذف"
+
+#. Form1..ActionManager..DeleteAction..Hint
+msgid "Delete the selected function, tangent or point series."
+msgstr "حذف العنصر المحدد: دالة، مماس، سلسلة نقطية، أو غيرها."
+
+#. Form1..ActionManager..InsertDifAction..Caption
+msgid "Insert f'(x)..."
+msgstr "إدراج (f'(x ..."
+
+#. Form1..ActionManager..InsertDifAction..Hint
+msgid "Insert the first derivative of the selected function."
+msgstr "إدراج المشتق الأول للدالة المحددة."
+
+#. Form1..ActionManager..ZoomInAction..Caption
+msgid "In"
+msgstr "تقريب"
+
+#. Form1..ActionManager..ZoomInAction..Hint
+msgid "Zoom in. Hold down Shift to zoom with larger steps."
+msgstr "تقريب، أبق مفتاح الإزاحة Shift مضغوطا للتقريب بخطوات كبيرة."
+
+#. Form1..ActionManager..ZoomOutAction..Caption
+msgid "Out"
+msgstr "تبعيد"
+
+#. Form1..ActionManager..ZoomOutAction..Hint
+msgid "Zoom out. Hold down Shift to zoom with larger steps."
+msgstr "تبعيد، أبق مفتاح الإزاحة Shift مضغوطا للتبعيد بخطوات كبيرة."
+
+#. Form1..ActionManager..ZoomWindowAction..Caption
+msgid "Window"
+msgstr "نافذة"
+
+#. Form1..ActionManager..ZoomWindowAction..Hint
+msgid "Zoom to user selected window."
+msgstr "تقريب إلى مجال الذي حدده المستخدم."
+
+#. Form1..ActionManager..ZoomSquareAction..Caption
+msgid "Square"
+msgstr "مربع"
+
+#. Form1..ActionManager..ZoomSquareAction....Hint
+msgid "Zoom to scale the axes equally. This will show a plotted circle in its correct relation instead of an ellipse."
+msgstr "التقريب لمساواة مقياسي المحورين. هذا يظهر الدائرة في شكلها الصحيح بدل الشكل الإهليجي."
+
+#. Form1..ActionManager..ZoomStandardAction..Caption
+msgid "Standard"
+msgstr "نموذجي"
+
+#. Form1..ActionManager..ZoomStandardAction..Hint
+msgid "Reset the axes to their default settings."
+msgstr "إعادة التعيين المحاور إلى الإعدادات الافتراضية."
+
+#. Form1..ActionManager..MoveUpAction..Category
+#. Form1..ActionManager..MoveDownAction..Category
+#. Form1..ActionManager..MoveLeftAction..Category
+#. Form1..ActionManager..MoveRightAction..Category
+#. Form1..ActionManager..MoveAction..Category
+msgid "Move"
+msgstr "تحريك"
+
+#. Form1..ActionManager..MoveUpAction..Caption
+msgid "Move up"
+msgstr "تحريك إلى الأعلى"
+
+#. Form1..ActionManager..MoveUpAction....Hint
+msgid "Move the graphing area up along the coordinate system. Hold down Shift to move in larger steps."
+msgstr "تحريك منطقة البيان إلى الأعلى في موازاة معلم الإحداثيات. أبق مفتاح الإزاحة Shift مضغوطا للتحريك بخطوات كبيرة."
+
+#. Form1..ActionManager..MoveDownAction..Caption
+msgid "Move down"
+msgstr "تحريك إلى الأسفل"
+
+#. Form1..ActionManager..MoveDownAction....Hint
+msgid "Move the graphing area down along the coordinate system. Hold down Shift to move in larger steps."
+msgstr "تحريك منطقة البيان إلى الأسفل في موازاة معلم الإحداثيات. أبق مفتاح الإزاحة Shift مضغوطا للتحريك بخطوات كبيرة."
+
+#. Form1..ActionManager..MoveLeftAction..Caption
+msgid "Move left"
+msgstr "تحريك إلى اليسار"
+
+#. Form1..ActionManager..MoveLeftAction....Hint
+msgid "Move the graphing area to the left along the coordinate system. Hold down Shift to move in larger steps."
+msgstr "تحريك منطقة البيان إلى اليسار في موازاة معلم الإحداثيات. أبق مفتاح الإزاحة Shift مضغوطا للتحريك بخطوات كبيرة."
+
+#. Form1..ActionManager..MoveRightAction..Caption
+msgid "Move right"
+msgstr "تحريك إلى اليمين"
+
+#. Form1..ActionManager..MoveRightAction....Hint
+msgid "Move the graphing area to the right along the coordinate system. Hold down Shift to move in larger steps."
+msgstr "تحريك منطقة البيان إلى اليمين في موازاة معلم الإحداثيات. أبق مفتاح الإزاحة Shift مضغوطا للتحريك بخطوات كبيرة."
+
+#. Form1..ActionManager..MoveAction..Caption
+msgid "Move system"
+msgstr "تحريك المعلم"
+
+#. Form1..ActionManager..MoveAction..Hint
+msgid "Move the coordinate system with the mouse."
+msgstr "تحريك معلم الإحداثيات مع الفأرة."
+
+#. Form1..ActionManager..PathAction..Caption
+msgid "Length of path"
+msgstr "طول مسار"
+
+#. Form1..ActionManager..PathAction....Hint
+msgid "Calculate the length of path between two given points on the curve."
+msgstr "حساب طول المسار بين نقطتين معينتين على المنحنى."
+
+#. Form1..ActionManager..AreaAction..Caption
+#. AreaFrame..GridPanel1..Label3..Caption
+msgid "Area"
+msgstr "مساحة"
+
+#. Form1..ActionManager..AreaAction..Hint
+msgid "Calculate the definite integral over a given interval."
+msgstr "حساب التكامل الواضح عبر مجال معين."
+
+#. Form1..ActionManager..EvalAction..Caption
+#. Form9..Caption
+msgid "Evaluate"
+msgstr "تقييم"
+
+#. Form1..ActionManager..EvalAction..Hint
+msgid "Evaluate or trace the selected function."
+msgstr "تقييم أو تتبع قيم الدالة المحددة."
+
+#. Form1..ActionManager..TableAction..Caption
+msgid "Table"
+msgstr "جدول"
+
+#. Form1..ActionManager..TableAction..Hint
+msgid "Show an evaluation table."
+msgstr "عرض جدول تقييم."
+
+#. Form1..ActionManager..ContentsAction..Caption
+msgid "Contents and index"
+msgstr "المحتويات و الفهرس"
+
+#. Form1..ActionManager..ContentsAction..Hint
+msgid "Open help file."
+msgstr "فتح ملف المساعدة."
+
+#. Form1..ActionManager..ListAction..Caption
+msgid "List of functions"
+msgstr "قائمة الدوال"
+
+#. Form1..ActionManager..ListAction..Hint
+msgid "Show a list of built-in functions that can be used for graphing."
+msgstr "عرض قائمة الدوال المضمّنة التي يمكن استخدامها للرسم البياني."
+
+#. Form1..ActionManager..HomePageAction..Caption
+msgid "Graph web site"
+msgstr "موقع غْراف Graph"
+
+#. Form1..ActionManager..HomePageAction..Hint
+msgid "Open the default browser and show the Graph web site."
+msgstr "فتح المتصفح الافتراضي و عرض موقع غْراف Graph."
+
+#. Form1..ActionManager..UpdateAction..Caption
+msgid "Check for update"
+msgstr "تحقق من وجود تحديث"
+
+#. Form1..ActionManager..UpdateAction..Hint
+msgid "Contact the home page to see if a newer version is available."
+msgstr "اتصال بموقع البرنامج لرؤية إذا ما كان هنالك إصدار جديد."
+
+#. Form1..ActionManager..AboutAction..Caption
+#. Form2..Caption
+msgid "About Graph"
+msgstr "عن غْراف Graph"
+
+#. Form1..ActionManager..AboutAction..Hint
+msgid "Show copyright information."
+msgstr "عرض حقوق البرنامج."
+
+#. Form1..ActionManager..SeparatorAction..Category
+#. Form1..ActionManager..SeparatorAction..Caption
+msgid "Separator"
+msgstr "فاصل"
+
+#. Form1..ActionManager..ZoomFitAction..Caption
+msgid "Fit"
+msgstr "ملائم"
+
+#. Form1..ActionManager..ZoomFitAction..Hint
+msgid "Zoom to show the selected element."
+msgstr "تقريب لعرض العنصر المحدد."
+
+#. Form1..ActionManager..ZoomFitAllAction..Caption
+msgid "Fit all"
+msgstr "ملائم للكل"
+
+#. Form1..ActionManager..ZoomFitAllAction..Hint
+msgid "Zoom to show all elements."
+msgstr "تغيير حجم الصورة لإظهار كل العناصر."
+
+#. Form1..ActionManager..FaqAction..Caption
+msgid "Frequently Asked Questions"
+msgstr "أسئلة شائعة"
+
+#. Form1..ActionManager..FaqAction..Hint
+msgid "Show a list of frequently asked questions and their answers."
+msgstr "عرض قائمة لأسئلة شائعة و أجوبتها."
+
+#. Form1..ActionManager..InsertLabelAction..Caption
+msgid "Insert label..."
+msgstr "إدراج تسمية ..."
+
+#. Form1..ActionManager..InsertLabelAction..Hint
+msgid "Insert a text label."
+msgstr "إدراج نص تسمية."
+
+#. Form1..ActionManager..DonateAction..Caption
+msgid "Donate"
+msgstr "تبرع"
+
+#. Form1..ActionManager..DonateAction..Hint
+msgid "Donate money to the project."
+msgstr "تبرع بالمال من أجل المشروع."
+
+#. Form1..ActionManager..TipAction..Caption
+#. Form10..Caption
+#. Form10..Panel1..LinkLabel1..Caption
+msgid "Tip of the day"
+msgstr "نصيحة اليوم"
+
+#. Form1..ActionManager..TipAction..Hint
+msgid "Show tip of the day"
+msgstr "عرض نصيحة مفيدة لهذا اليوم."
+
+#. Form1..ActionManager..SupportAction..Caption
+msgid "Support"
+msgstr "دعم"
+
+#. Form1..ActionManager..SupportAction..Hint
+msgid "Open browser with the support page for the program."
+msgstr "فتح المتصفح على صفحة الدعم الخاصة بالبرنامج."
+
+#. Form1..ActionManager..ZoomXInAction..Caption
+msgid "Zoom x-axis in"
+msgstr "تقريب المحور x"
+
+#. Form1..ActionManager..ZoomXInAction....Hint
+msgid "Zoom in on the x-axis only. Hold down Shift to zoom with larger steps."
+msgstr "تقريب على طول المحور x فقط، أبق مفتاح الإزاحة Shift مضغوطا للتقريب بخطوات كبيرة."
+
+#. Form1..ActionManager..ZoomXOutAction..Caption
+msgid "Zoom x-axis out"
+msgstr "تبعيد المحور x"
+
+#. Form1..ActionManager..ZoomXOutAction....Hint
+msgid "Zoom out on the x-axis only. Hold down Shift to zoom with larger steps."
+msgstr "تبعيد على طول المحور x فقط، أبق مفتاح الإزاحة Shift مضغوطا للتبعيد بخطوات كبيرة."
+
+#. Form1..ActionManager..ZoomYInAction..Caption
+msgid "Zoom y-axis in"
+msgstr "تقريب المحور y"
+
+#. Form1..ActionManager..ZoomYInAction....Hint
+msgid "Zoom in on the y-axis only. Hold down Shift to zoom with larger steps."
+msgstr "تقريب على طول المحور y فقط، أبق مفتاح الإزاحة Shift مضغوطا للتقريب بخطوات كبيرة."
+
+#. Form1..ActionManager..ZoomYOutAction..Caption
+msgid "Zoom y-axis out"
+msgstr "تبعيد المحور y"
+
+#. Form1..ActionManager..ZoomYOutAction....Hint
+msgid "Zoom out on the y-axis only. Hold down Shift to zoom with larger steps."
+msgstr "تبعيد على طول المحور y فقط، أبق مفتاح الإزاحة Shift مضغوطا للتبعيد بخطوات كبيرة."
+
+#. Form1..ActionManager..InsertRelationAction..Caption
+msgid "Insert relation..."
+msgstr "إدراج علاقة ..."
+
+#. Form1..ActionManager..InsertRelationAction..Hint
+msgid "Insert a new equation or inequality."
+msgstr "إدراج معادلة أو متراجحة جديدة."
+
+#. Form1..ActionManager..CustomFunctionsAction..Caption
+msgid "Custom functions/constants..."
+msgstr "دوال\\ثوابت مخصصة..."
+
+#. Form1..ActionManager..CustomFunctionsAction..Hint
+msgid "Create custom functions and constants for use in graphs."
+msgstr "إنشاء دوال و ثوابت مخصصة لاستخدامها في الرسومات البيانية."
+
+#. Form1..ActionManager..AnimateAction..Caption
+msgid "Animate..."
+msgstr "رسوم متحركة ..."
+
+#. Form1..ActionManager..AnimateAction..Hint
+msgid "Create an animation by variating a constant."
+msgstr "إنشاء رسوم متحركة بتغيير ثابت."
+
+#. Form1..ActionManager..ImportGraphFileAction..Caption
+msgid "Graph file..."
+msgstr "ملف غْراف Graph ..."
+
+#. Form1..ActionManager..ImportGraphFileAction..Hint
+msgid "Import a Graph file into the current coordinate system."
+msgstr "استيراد محتويات ملف غْراف Graph إلى معلم الإحداثيات الحالي."
+
+#. Form1..ActionManager..ImportPointSeriesAction..Caption
+msgid "Point series..."
+msgstr "سلسلة نقطية ..."
+
+#. Form1..ActionManager..ImportPointSeriesAction..Hint
+msgid "Import point series from a data file."
+msgstr "استيراد سلسلة نقطية من ملف."
+
+#. Form1..ActionManager..ScriptDocAction..Caption
+msgid "Scripting engine documentation"
+msgstr "توثيق محرك البرمجة النصية"
+
+#. Form1..ActionManager..ScriptDocAction..Hint
+msgid "Show documentation for scripting engine and plugin system."
+msgstr "عرض توثيق محرّك البرمجة النصية و نظام الملحقات البرمجية."
+
+#. Form1..PopupMenu2..ToolBar_Reset..Caption
+msgid "Reset to default"
+msgstr "إعادة التنضيد إلى الخيارات الافتراضية"
+
+#. Form1..PopupMenu2..ToolBar_Reset..Hint
+msgid "Reset the toolbar icons to the installation default."
+msgstr "إعادة التنضيد أيقونات شريط الأدوات إلى الخيارات الافتراضية للتثبيت."
+
+#. Form1..PopupMenu2..ToolBar_Customize..Caption
+msgid "Customize toolbar..."
+msgstr "تخصيص شريط الأدوات ..."
+
+#. Form1..PopupMenu2..ToolBar_Customize..Hint
+msgid "Customize the icons shown on the toolbar."
+msgstr "تخصيص الأيقونات المعروضة على شريط الأدوات."
+
+#. Form1..PopupMenu3..Label_Edit..Caption
+msgid "Edit label..."
+msgstr "تحرير التسمية ..."
+
+#. Form1..PopupMenu3..Label_Edit..Hint
+msgid "Edit the label under the cursor."
+msgstr "تحرير التسمية التي تحت المؤشر."
+
+#. Form1..PopupMenu3..Label_Delete..Caption
+msgid "Delete label"
+msgstr "حذف التسمية"
+
+#. Form1..PopupMenu3..Label_Delete..Hint
+msgid "Delete the label under the cursor."
+msgstr "حذف التسمية التي تحت المؤشر."
+
+#. Form1..PopupMenu4..Legend_Show..Caption
+#. Form3..PageControl1..TabSheet3..CheckBox15..Caption
+msgid "Show legend"
+msgstr "عرض مفتاح الرسم"
+
+#. Form1..PopupMenu4..Legend_Show..Hint
+#. Form3..PageControl1..TabSheet3..CheckBox15..Hint
+msgid "Select to show a legend in the coordinate system."
+msgstr "اختر لعرض مفتاح الرسم في المعلم أم لا."
+
+#. Form1..PopupMenu4..Legend_Font..Caption
+msgid "Font..."
+msgstr "خط الكتابة ..."
+
+#. Form1..PopupMenu4..Legend_Font..Hint
+msgid "Change the font of the legend."
+msgstr "تغيير خط كتابة مفتاح الرسم."
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_TopRight..Caption
+#. Form3..PageControl1..TabSheet3..RadioGroup3....Items.Strings
+msgid "Top Right"
+msgstr "أعلى اليمين"
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_TopRight..Hint
+msgid "Show the legend in the upper right corner."
+msgstr "عرض مفتاح الرسم في الزاوية العلوية اليمنى."
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_BottomRight..Caption
+#. Form3..PageControl1..TabSheet3..RadioGroup3....Items.Strings
+msgid "Bottom Right"
+msgstr "أسفل اليمين"
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_BottomRight..Hint
+msgid "Show the legend in the bottom right corner."
+msgstr "عرض مفتاح الرسم في الزاوية السفلية اليمنى."
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_TopLeft..Caption
+#. Form3..PageControl1..TabSheet3..RadioGroup3....Items.Strings
+msgid "Top Left"
+msgstr "أعلى اليسار"
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_TopLeft..Hint
+msgid "Show the legend in the upper left corner."
+msgstr "عرض مفتاح الرسم في الزاوية العلوية اليسرى."
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_BottomLeft..Caption
+#. Form3..PageControl1..TabSheet3..RadioGroup3....Items.Strings
+msgid "Bottom Left"
+msgstr "أسفل اليسار"
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_BottomLeft..Hint
+msgid "Show the legend in the bottom left corner."
+msgstr "عرض مفتاح الرسم في الزاوية السفلية اليسرى."
+
+#. Form10..Button1..Caption
+#. Form15..Button1..Caption
+#. Form19..Button2..Caption
+msgid "Close"
+msgstr "إغلاق"
+
+#. Form10..Button2..Caption
+msgid "Next tip"
+msgstr "النصيحة التالية"
+
+#. Form10..Button3..Caption
+msgid "Previous tip"
+msgstr "النصيحة السابقة"
+
+#. Form10..CheckBox1..Caption
+msgid "Show tips at startup"
+msgstr "عرض نصائح مفيدة عند بدء التشغيل."
+
+#. Form10..Panel1..Label1..Caption
+msgid "Did you know..."
+msgstr "هل تعلم ..."
+
+#. Form11..Caption
+msgid "Insert relation"
+msgstr "إدراج علاقة"
+
+#. Form11..Label1..Caption
+msgid "Relation:"
+msgstr "العلاقة:"
+
+#. Form11..Label2..Caption
+msgid "Constraints:"
+msgstr "الشروط الضرورية:"
+
+#. Form11..Button1..Caption
+#. Form12..Button1..Caption
+#. Form13..Button1..Caption
+#. Form14..Button1..Caption
+#. Form16..Button1..Caption
+#. Form17..Button1..Caption
+#. Form18..Button1..Caption
+#. Form2..Button1..Caption
+#. Form21..TntButton1..Caption
+#. Form3..Button1..Caption
+#. Form4..Button1..Caption
+#. Form5..Button1..Caption
+#. Form6..Button1..Caption
+#. Form7..Button1..Caption
+#. Form8..Button1..Caption
+#. PrintFrm..Button1..Caption
+msgid "OK"
+msgstr "موافق"
+
+#. Form11..Button2..Caption
+#. Form12..Button2..Caption
+#. Form13..Button2..Caption
+#. Form14..Button2..Caption
+#. Form15..ProgressForm1..ButtonCaption
+#. Form16..Button2..Caption
+#. Form17..Button2..Caption
+#. Form18..Button2..Caption
+#. Form19..ProgressForm1..ButtonCaption
+#. Form21..TntButton2..Caption
+#. Form3..Button2..Caption
+#. Form4..Button2..Caption
+#. Form5..Button2..Caption
+#. Form6..Button2..Caption
+#. Form7..Button2..Caption
+#. Form8..Button2..Caption
+#. PrintFrm..Button2..Caption
+msgid "Cancel"
+msgstr "إلغاء"
+
+#. Form11..GroupBox1..Caption
+#. Form12..GroupBox1..Caption
+#. Form5..GroupBox3..Caption
+#. Form7..GroupBox3..Caption
+msgid "Legend text"
+msgstr "نص مفتاح الرسم"
+
+#. Form11..GroupBox1..Label10..Caption
+#. Form12..GroupBox1..Label10..Caption
+#. Form14..Label3..Caption
+#. Form16..PageControl1..TabSheet2..Label12..Caption
+#. Form5..GroupBox3..Label10..Caption
+#. Form7..GroupBox3..Label10..Caption
+msgid "Description:"
+msgstr "الوصف:"
+
+#. Form11..GroupBox1..Edit3....Hint
+#. Form5..GroupBox3..Edit7....Hint
+msgid "Write a descriptive text to show in the legend and function list. If empty the formula will be used."
+msgstr "أكتب نص وصفي يعرض داخل مفتاح الرسم و قائمة الدوال.  إذا تركته فارغا فسوف تستخدم المعادلة مكانه."
+
+#. Form11..GroupBox2..Caption
+#. Form16..PageControl1..TabSheet2..GroupBox3..Caption
+#. PrintFrm..GroupBox1..Button3..Caption
+msgid "Properties"
+msgstr "الخصائص"
+
+#. Form11..GroupBox2..Label7..Caption
+#. Form13..GroupBox1..Label7..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox1..Label1..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox2..Label5..Caption
+#. Form16..PageControl1..TabSheet2..GroupBox3..Label4..Caption
+msgid "Style:"
+msgstr "النمط:"
+
+#. Form11..GroupBox2..Label9..Caption
+#. Form12..GroupBox2..Label9..Caption
+#. Form13..GroupBox1..Label6..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox1..Label2..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox2..Label6..Caption
+#. Form16..PageControl1..TabSheet2..GroupBox3..Label5..Caption
+#. Form5..GroupBox4..GridPanelEx1..Label9..Caption
+#. Form7..GroupBox4..Label9..Caption
+msgid "Color:"
+msgstr "اللون:"
+
+#. Form11..GroupBox2..Label3..Caption
+#. Form12..GroupBox2..Label8..Caption
+#. Form13..GroupBox1..Label5..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox2..Label7..Caption
+#. Form5..GroupBox4..GridPanelEx1..Label8..Caption
+#. Form7..GroupBox4..Label8..Caption
+msgid "Width:"
+msgstr "العرض:"
+
+#. Form11..GroupBox2..ShadeSelect1....Hint
+msgid "Select the style used for drawing the inequality. Not used for equations."
+msgstr "اختر النمط المستخدم لرسم المتراجحة. لا يستخدم للمعادلات."
+
+#. Form11..GroupBox2..ExtColorBox1..Hint
+msgid "Select the color for drawing the relation."
+msgstr "اختر لونا لرسم العلاقة."
+
+#. Form11..GroupBox2..Panel1..Edit4....Hint
+msgid "Width in pixels of the equation line or the borderline of the inequality."
+msgstr "العرض بالبكسل لخط الرسم لحلول المعادلة أو لحدود حلول المتراجحة."
+
+#. Form11..Edit1..Hint
+msgid "Enter the relation, for example \"x^2+y^2 = 25\" or \"y < sin(x)\""
+msgstr "أدخل علاقة، مثلا ‪\"x^2+y^2 = 25\" أو \"y < sin(x)\""
+
+#. Form11..Edit2....Hint
+msgid "Enter constraints for the relation, for example \"x > 0 and y < 5\""
+msgstr "أدخل الشروط الضرورية للعلاقة، مثلا ‪\"x > 0 and y < 5\""
+
+#. Form12..Caption
+msgid "Insert tangent/normal"
+msgstr "إدراج مماس/عمود"
+
+#. Form12..Edit1..Hint
+msgid "Value where the tangent/normal will interact with the function."
+msgstr "القيمة أين سيتقاطع المماس أو العمود مع الدالة."
+
+#. Form12..RadioGroup1..Hint
+msgid "Choose if you want a tangent or a normal."
+msgstr "اختر إن كنت تريد مماسا أم عمودا."
+
+#. Form12..RadioGroup1..Caption
+msgid "Type"
+msgstr "النوع"
+
+#. Form12..RadioGroup1....Items.Strings
+msgid "Tangent"
+msgstr "مماس"
+
+#. Form12..RadioGroup1....Items.Strings
+msgid "Normal"
+msgstr "عمود"
+
+#. Form12..GroupBox1..Edit2....Hint
+#. Form7..GroupBox3..Edit3....Hint
+msgid "Write a descriptive text to show in the legend. If empty the equation will be used."
+msgstr "أكتب نص وصفي يعرض داخل مفتاح الرسم.  إذا تركته فارغا فسوف تستخدم المعادلة مكانه."
+
+#. Form12..GroupBox2..Caption
+#. Form5..GroupBox4..Caption
+#. Form7..GroupBox4..Caption
+msgid "Graph properties"
+msgstr "خصائص الرسم"
+
+#. Form12..GroupBox2..Label7..Caption
+#. Form5..GroupBox4..GridPanelEx1..Label7..Caption
+#. Form7..GroupBox4..Label7..Caption
+msgid "Line style:"
+msgstr "نمط الخط:"
+
+#. Form12..GroupBox2..Edit3..Hint
+#. Form13..GroupBox1..Edit2..Hint
+#. Form5..GroupBox4..GridPanelEx1..Panel1..Edit6..Hint
+#. Form7..GroupBox4..Edit4..Hint
+msgid "Width of graph in pixels."
+msgstr "عرض خط الرسم بالبكسل."
+
+#. Form12..GroupBox2..LineSelect1..Hint
+#. Form13..GroupBox1..LineSelect1..Hint
+#. Form5..GroupBox4..GridPanelEx1..LineSelect1..Hint
+#. Form7..GroupBox4..LineSelect1..Hint
+msgid "Choose which line style to use for drawing the graph."
+msgstr "اختر أي نمط خط للرسم."
+
+#. Form12..GroupBox2..ExtColorBox1..Hint
+#. Form13..GroupBox1..ExtColorBox1..Hint
+#. Form5..GroupBox4..GridPanelEx1..ExtColorBox1..Hint
+#. Form7..GroupBox4..ExtColorBox1..Hint
+msgid "Select the color of the graph."
+msgstr "اختر لون الرسم."
+
+#. Form12..GroupBox3..Caption
+#. Form5..GroupBox2..Caption
+#. Form7..GroupBox2..Caption
+msgid "Argument range"
+msgstr "مجال المتغيرات"
+
+#. Form12..GroupBox3..Label4..Caption
+#. Form15..Label1..Caption
+#. Form16..PageControl1..TabSheet2..GroupBox1..Label6..Caption
+#. Form16..PageControl1..TabSheet3..GroupBox2..Label8..Caption
+#. Form19..TntGroupBox1..Label2..Caption
+#. Form5..GroupBox2..Label4..Caption
+#. Form7..GroupBox2..Label4..Caption
+#. AreaFrame..GridPanel1..Label1..Caption
+msgid "From:"
+msgstr "من:"
+
+#. Form12..GroupBox3..Label5..Caption
+#. Form15..Label2..Caption
+#. Form16..PageControl1..TabSheet2..GroupBox1..Label7..Caption
+#. Form16..PageControl1..TabSheet3..GroupBox2..Label9..Caption
+#. Form19..TntGroupBox1..Label3..Caption
+#. Form5..GroupBox2..Label5..Caption
+#. Form7..GroupBox2..Label5..Caption
+#. AreaFrame..GridPanel1..Label2..Caption
+msgid "To:"
+msgstr "إلى:"
+
+#. Form12..GroupBox3..Edit4..Hint
+#. Form5..GroupBox2..Edit3..Hint
+#. Form7..GroupBox2..Edit1..Hint
+msgid "Start of range interval for the used variable."
+msgstr "بداية المجال للمتغير المستخدم."
+
+#. Form12..GroupBox3..Edit5..Hint
+#. Form5..GroupBox2..Edit4..Hint
+#. Form7..GroupBox2..Edit2..Hint
+msgid "End of range interval for the used variable."
+msgstr "نهاية المجال للمتغير المستخدم."
+
+#. Form12..GroupBox5..Caption
+#. Form5..GroupBox5..Caption
+msgid "Endpoints"
+msgstr "النقاط الطرفية"
+
+#. Form12..GroupBox5..Label11..Caption
+#. Form5..GroupBox5..Label11..Caption
+msgid "Start:"
+msgstr "البداية:"
+
+#. Form12..GroupBox5..Label12..Caption
+#. Form5..GroupBox5..Label12..Caption
+msgid "End:"
+msgstr "النهاية:"
+
+#. Form12..GroupBox5..ComboBox1....Hint
+#. Form5..GroupBox5..ComboBox2....Hint
+msgid "Select marker to show at the start of the interval. Only used if an argument range is specified."
+msgstr "اختر علامة التي تعرض في بداية المجال. تستخدم فقط إذا كان مجال المتغير محددا."
+
+#. Form12..GroupBox5..ComboBox2....Hint
+#. Form5..GroupBox5..ComboBox3....Hint
+msgid "Select marker to show at the end of the interval. Only used if an argument range is specified."
+msgstr "اختر علامة التي تعرض في نهاية المجال. تستخدم فقط إذا كان مجال المتغير محددا."
+
+#. Form13..Caption
+msgid "Insert trendline"
+msgstr " إدراج خط اتجاه"
+
+#. Form13..GroupBox1..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox2..Caption
+msgid "Line"
+msgstr "خط"
+
+#. Form13..PageControl1..TabSheet1..Caption
+msgid "Built-in"
+msgstr "مضمّنة"
+
+#. Form13..PageControl1..TabSheet1..Panel1..Image1..Hint
+msgid "Create a linear function: f(x)=ax+b"
+msgstr "إنشاء دالة خطية: ‭f(x)=ax+b"
+
+#. Form13..PageControl1..TabSheet1..Panel2..Image2..Hint
+msgid "Create a logarithmic function: f(x)=a*ln(x)+b"
+msgstr "إنشاء دالة لوغاريتمية: ‭f(x)=a*ln(x)+b"
+
+#. Form13..PageControl1..TabSheet1..Panel3..Image3..Hint
+msgid "Create a polynomial function: f(x)=ax^3+bx^2+cx+d"
+msgstr "إنشاء دالة كثيرة الحدود: ‭f(x)=ax^3+bx^2+cx+d"
+
+#. Form13..PageControl1..TabSheet1..Panel4..Image4..Hint
+msgid "Create a power function: f(x)=ax^b"
+msgstr "إنشاء دالة القوة: ‭f(x)=ax^b"
+
+#. Form13..PageControl1..TabSheet1..Panel5..Image5..Hint
+msgid "Create a exponential function: f(x)=a*b^x"
+msgstr "إنشاء دالة أسية: ‭f(x)=a*b^x"
+
+#. Form13..PageControl1..TabSheet1..StaticText1..Caption
+msgid "Order:"
+msgstr "الدرجة:"
+
+#. Form13..PageControl1..TabSheet1..RadioButton3..Caption
+msgid "Polynomial"
+msgstr "كثيرة حدود"
+
+#. Form13..PageControl1..TabSheet1..RadioButton2..Caption
+msgid "Logarithmic"
+msgstr "لوغاريتمية"
+
+#. Form13..PageControl1..TabSheet1..RadioButton1..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox2..ComboBox2....Items.Strings
+msgid "Linear"
+msgstr "خطية"
+
+#. Form13..PageControl1..TabSheet1..RadioButton4..Caption
+msgid "Power"
+msgstr "قوة"
+
+#. Form13..PageControl1..TabSheet1..RadioButton5..Caption
+msgid "Exponential"
+msgstr "أسية"
+
+#. Form13..PageControl1..TabSheet1..Panel6..Image6..Hint
+msgid "Create a moving average as a series of straight lines."
+msgstr "إنشاء معدل(متوسط) متحرك كسلسلة من القطع المستقيمة."
+
+#. Form13..PageControl1..TabSheet1..RadioButton6..Caption
+msgid "Moving average"
+msgstr "معدل متحرك"
+
+#. Form13..PageControl1..TabSheet1..StaticText2..Caption
+msgid "Period:"
+msgstr "الدور:"
+
+#. Form13..PageControl1..TabSheet1..Edit4..Hint
+msgid "Determines how many points are used for the average."
+msgstr "تحديد كم عدد النقاط المستخدمة لحساب المعدل."
+
+#. Form13..PageControl1..TabSheet1..Edit1..Hint
+msgid "The order of the polynomium. For example 2 means a parable."
+msgstr "درجة كثير الحدود. مثلا 2 تعني قطع مكافئ."
+
+#. Form13..PageControl1..TabSheet2..Caption
+msgid "User defined"
+msgstr "معرفة من قبل المستخدم"
+
+#. Form13..PageControl1..TabSheet2..Label1..Caption
+msgid "Model:"
+msgstr "النموذج:"
+
+#. Form13..PageControl1..TabSheet2..Button4..Caption
+#. Form8..Caption
+msgid "Add model"
+msgstr "إضافة نموذج"
+
+#. Form13..PageControl1..TabSheet2..Button5..Caption
+msgid "Remove model"
+msgstr "إزالة نموذج"
+
+#. Form13..PageControl1..TabSheet2..Button6..Caption
+msgid "Edit model"
+msgstr "تحرير نموذج"
+
+#. Form13..PageControl1..TabSheet2..Edit3..Hint
+msgid "Enter a function model to base the trendline on."
+msgstr "أدخل نموذج لدالة كأساس لخط الاتجاه."
+
+#. Form13..CheckBox1....Hint
+#. Form13..Edit5....Hint
+msgid "Type a value in the Intercept box to specify the point where you want the trendline to meet the y-axis. This is only available for linear, polynomial and exponential trendlines."
+msgstr "أكتب قيمة لتعيين أين تريد من خط الاتجاه التقاطع مع المحور y. هذا متوفر فقط لخطوط الاتجاه الخطية، الأسية و كثيرة الحدود."
+
+#. Form13..CheckBox1..Caption
+msgid "Intercept ="
+msgstr "نقطة التقاطع ="
+
+#. Form13..TntPopupMenu1..Popup_Import..Caption
+#. Form14..PopupMenu1..Popup_Import..Caption
+#. Form17..PopupMenu1..Popup_Import..Caption
+msgid "Import from file..."
+msgstr "استيراد من ملف ..."
+
+#. Form13..TntPopupMenu1..Popup_Import..Hint
+msgid "Import user models from a file."
+msgstr "استيراد نماذج  لمستخدم من ملف."
+
+#. Form13..TntPopupMenu1..Popup_Export..Caption
+msgid "Export all to file..."
+msgstr "تصدير الكل إلى ملف ..."
+
+#. Form13..TntPopupMenu1..Popup_Export..Hint
+msgid "Export user models to a file."
+msgstr "تصدير نماذج المستخدم إلى ملف."
+
+#. Form13..SaveDialog1..Filter
+#. Form13..OpenDialog1..Filter
+msgid "User models [*.ini]|*.ini"
+msgstr "نماذج المستخدم [*.ini]|*.ini"
+
+#. Form14..Caption
+msgid "Insert point series"
+msgstr "إدراج سلسلة نقطية"
+
+#. Form14..Edit1....Hint
+msgid "The name of the point series, which is shown in the list to the left of the coordinate system."
+msgstr "اسم السلسلة النقطية، الذي يظهر في مفتاح الرسم و في قائمة الدوال."
+
+#. Form14..Edit1..Text
+msgid "Series"
+msgstr "سلسلة"
+
+#. Form14..GroupBox4....Hint
+msgid "This shows a sample of the markers and the lines between the markers."
+msgstr "هذا الشكل يظهر عينة من العلامات و الخطوط بينها."
+
+#. Form14..GroupBox4..Caption
+msgid "Sample"
+msgstr "معاينة"
+
+#. Form14..PageControl1..TabSheet1..Caption
+msgid "Markers"
+msgstr "علامات"
+
+#. Form14..PageControl1..TabSheet1..GroupBox1..Caption
+msgid "Marker"
+msgstr "علامة"
+
+#. Form14..PageControl1..TabSheet1..GroupBox1..Label4..Caption
+msgid "Size:"
+msgstr "الحجم:"
+
+#. Form14..PageControl1..TabSheet1..GroupBox1..Edit2..Hint
+msgid "Choose the size of the markers."
+msgstr "اختر حجم العلامات."
+
+#. Form14..PageControl1..TabSheet1..GroupBox1..PointSelect1..Hint
+msgid "Choose the type of markers to be shown at each point."
+msgstr "اختر نوع العلامات لإظهارها عند كل نقطة."
+
+#. Form14..PageControl1..TabSheet1..GroupBox1..ExtColorBox1..Hint
+msgid "Choose the color of the markers."
+msgstr "اختر لون العلامات."
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..Label11..Caption
+msgid "Interpolation:"
+msgstr "الاستكمال:"
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..LineSelect1....Hint
+msgid "Choose the style of lines to be drawn between the points. You may also choose not to draw any lines."
+msgstr "اختر نمط خط الرسم بين النقاط. يمكنك أن تختار عدم رسم أي خط."
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..Edit3..Hint
+msgid "Choose the width of the lines in pixels."
+msgstr "اختر عرض الخط بالبكسل."
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..ComboBox2..Hint
+msgid "Select which kind of line to draw between the markers."
+msgstr "اختر نوع الاستكمال لتطبيقه على رسم الخطوط بين العلامات."
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..ComboBox2....Items.Strings
+msgid "1D cubic spline"
+msgstr "قطع تكعبية أحادية البعد"
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..ComboBox2....Items.Strings
+msgid "2D cubic spline"
+msgstr "قطع تكعبية ثنائية البعد"
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..ComboBox2....Items.Strings
+msgid "Half cosine"
+msgstr "نصف جيب تمام"
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..ExtColorBox2..Hint
+msgid "Choose the color of the lines."
+msgstr "اختر لون الخط."
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..Caption
+msgid "Labels"
+msgstr "التسميات"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..Label8..Caption
+msgid "Position:"
+msgstr "الموضع:"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..CheckBox2..Hint
+msgid "Check to show the coordinate at each point."
+msgstr "تعيين لعرض الإحداثيات عند كل نقطة."
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..CheckBox2..Caption
+msgid "Show coordinates"
+msgstr "عرض الإحداثيات"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..BitBtn1..Hint
+msgid "Select the font for the coordinates."
+msgstr "اختر خطا لكتابة الإحداثيات."
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1..Hint
+msgid "Select where the coordinates should be shown."
+msgstr "اختر أين يجب عرض الإحداثيات."
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+msgid "Above"
+msgstr "أعلى"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+msgid "Below"
+msgstr "أسفل"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+msgid "Left"
+msgstr "يسار"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+msgid "Right"
+msgstr "يمين"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+msgid "Above Left"
+msgstr "أعلى اليسار"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+msgid "Above Right"
+msgstr "أعلى اليمين"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+msgid "Below Left"
+msgstr "أسفل اليسار"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+msgid "Below Right"
+msgstr "أسفل اليمين"
+
+#. Form14..PageControl1..TabSheet1..RadioGroup1....Hint
+msgid "Choose between cartesian (x,y) coordinates and polar (θ,r) coordinates."
+msgstr "اختر بين الإحداثيات الديكارتية (x, y) والإحداثيات القطبية (θ, r)."
+
+#. Form14..PageControl1..TabSheet1..RadioGroup1..Caption
+msgid "Coordinate type"
+msgstr "نوع الإحداثيات"
+
+#. Form14..PageControl1..TabSheet1..RadioGroup1....Items.Strings
+msgid "Cartesian"
+msgstr "ديكارتية"
+
+#. Form14..PageControl1..TabSheet1..RadioGroup1....Items.Strings
+#. Form4..GridPanelEx1..RadioGroup1....Items.Strings
+msgid "Polar"
+msgstr "قطبية"
+
+#. Form14..PageControl1..TabSheet2..Caption
+msgid "Error bars"
+msgstr "حدود الخطأ"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..Caption
+msgid "X error amount"
+msgstr "قيمة حدود الخطأ لـ x"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..CheckBox3..Hint
+msgid "Show horizontal error bars."
+msgstr "عرض حدود الخطأ الأفقية."
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..CheckBox3..Caption
+msgid "Show x-bars"
+msgstr "عرض حدود x"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..RadioButton1..Hint
+#. Form14..PageControl1..TabSheet2..GroupBox6..RadioButton4..Hint
+msgid "All error bars are the same size."
+msgstr "لكل حدود الخطأ نفس حجم."
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..RadioButton1..Caption
+#. Form14..PageControl1..TabSheet2..GroupBox6..RadioButton4..Caption
+msgid "Fixed:"
+msgstr "ثابتة:"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..Edit4..Hint
+#. Form14..PageControl1..TabSheet2..GroupBox6..Edit6..Hint
+msgid "Enter fixed value."
+msgstr "أدخل قيمة ثابتة."
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..RadioButton2..Hint
+msgid "All error bars are the same percentage of the x-coordinate."
+msgstr "كل حدود الخطأ لها نفس النسبة المئوية للإحداثية x."
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..RadioButton2..Caption
+#. Form14..PageControl1..TabSheet2..GroupBox6..RadioButton5..Caption
+msgid "Relative:"
+msgstr "نسبة:"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..RadioButton3..Hint
+#. Form14..PageControl1..TabSheet2..GroupBox6..RadioButton6..Hint
+msgid "Each error bar is given a custom value."
+msgstr "كل حد خطأ يعطى قيمة مخصصة."
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..RadioButton3..Caption
+#. Form14..PageControl1..TabSheet2..GroupBox6..RadioButton6..Caption
+msgid "Custom"
+msgstr "تخصيص"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..Edit5..Hint
+#. Form14..PageControl1..TabSheet2..GroupBox6..Edit7..Hint
+msgid "Enter relative value in percent."
+msgstr "أدخل قيمة نسبية كنسبة مئوية."
+
+#. Form14..PageControl1..TabSheet2..GroupBox6..Caption
+msgid "Y error amount"
+msgstr "قيمة حدود الخطأ لـ y"
+
+#. Form14..PageControl1..TabSheet2..GroupBox6..CheckBox4..Hint
+msgid "Show vertical error bars."
+msgstr "عرض حدود الخطأ العمودية."
+
+#. Form14..PageControl1..TabSheet2..GroupBox6..CheckBox4..Caption
+msgid "Show y-bars"
+msgstr "عرض حدود y"
+
+#. Form14..PageControl1..TabSheet2..GroupBox6..RadioButton5..Hint
+msgid "All error bars are the same percentage of the y-coordinate."
+msgstr "كل حدود الخطأ لها نفس النسبة المئوية للإحداثية y."
+
+#. Form14..PopupMenu1..Popup_Cut..Hint
+#. Form17..PopupMenu1..Popup_Cut..Hint
+#. Form6..PopupMenu1..Popup_Cut..Hint
+msgid "Cut the selected text to the clipboard."
+msgstr "قص النص المحدد إلى الحافظة."
+
+#. Form14..PopupMenu1..Popup_Copy..Hint
+#. Form17..PopupMenu1..Popup_Copy..Hint
+#. Form6..PopupMenu1..Popup_Copy..Hint
+msgid "Copy the selected text to the clipboard."
+msgstr "نسخ النص المحدد إلى الحافظة."
+
+#. Form14..PopupMenu1..Popup_Paste....Hint
+#. Form17..PopupMenu1..Popup_Paste....Hint
+msgid "Paste text from the clipboard into the grid. Other cells may be overwritten by the text from the clipboard."
+msgstr "لصق نص من الحافظة إلى الشبكة. يمكن لخلايا أخرى أن تكتب بواسطة النص من الحافظة."
+
+#. Form14..PopupMenu1..Popup_Delete..Hint
+#. Form17..PopupMenu1..Popup_Delete..Hint
+msgid "Erase selected cells."
+msgstr "مسح الخلايا المحددة."
+
+#. Form14..PopupMenu1..Popup_Insert..Caption
+#. Form17..PopupMenu1..Popup_Insert..Caption
+msgid "Insert row"
+msgstr "إدراج سطر"
+
+#. Form14..PopupMenu1..Popup_Insert..Hint
+#. Form17..PopupMenu1..Popup_Insert..Hint
+msgid "Inserts a row in the grid moving rows below one down."
+msgstr "إدراج سطر في الشبكة مع تحريك السطور السفلى سطرا واحدا إلى أسفل."
+
+#. Form14..PopupMenu1..Popup_Remove..Caption
+#. Form17..PopupMenu1..Popup_Remove..Caption
+msgid "Remove row"
+msgstr "إزالة السطر"
+
+#. Form14..PopupMenu1..Popup_Remove..Hint
+#. Form17..PopupMenu1..Popup_Remove..Hint
+msgid "Removes the selected rows."
+msgstr "إزالة الأسطر المحددة."
+
+#. Form14..PopupMenu1..Popup_Select..Caption
+#. Form15..PopupMenu1..Popup1_Select..Caption
+#. Form17..PopupMenu1..Popup_Select..Caption
+msgid "Select all"
+msgstr "تحديد الكل"
+
+#. Form14..PopupMenu1..Popup_Select..Hint
+#. Form15..PopupMenu1..Popup1_Select..Hint
+#. Form17..PopupMenu1..Popup_Select..Hint
+msgid "Select all cells."
+msgstr "تحديد كل الخلايا."
+
+#. Form14..PopupMenu1..Popup_Import..Hint
+#. Form17..PopupMenu1..Popup_Import..Hint
+msgid "Import data from a file and place it at the selected cell."
+msgstr "استيراد البيانات من ملف و وضعها عند الخلية المحددة."
+
+#. Form14..PopupMenu1..Popup_Export..Hint
+#. Form17..PopupMenu1..Popup_Export..Hint
+msgid "Export selected data to a file."
+msgstr "تصدير البيانات المحددة إلى ملف."
+
+#. Form15..Caption
+msgid "Calculate table"
+msgstr "حساب الجدول"
+
+#. Form15..Edit3....Hint
+msgid "The step value. This is the difference between two adjoining values in the defined interval."
+msgstr "قيمة الخطوة. و هي الفرق بين كل قيمتين متتابعتين ضمن المجال المعرف."
+
+#. Form15..Edit1..Hint
+msgid "The first x-value in the interval."
+msgstr "القيمة الأولى لـ x في المجال."
+
+#. Form15..Edit2..Hint
+msgid "The last x-value in the interval."
+msgstr "القيمة الأخيرة لـ x في المجال."
+
+#. Form15..PopupMenu1..Popup1_Show1..Caption
+#. Form15..PopupMenu1..Popup1_Show2..Caption
+#. Form15..PopupMenu1..Popup1_Show3..Caption
+#. Form15..PopupMenu1..Popup1_Show4..Caption
+#. Form15..PopupMenu1..Popup1_Show5..Caption
+msgid "Show %s"
+msgstr "عرض ‭%s"
+
+#. Form15..PopupMenu1..Popup1_Show1..Hint
+#. Form15..PopupMenu1..Popup1_Show2..Hint
+#. Form15..PopupMenu1..Popup1_Show3..Hint
+#. Form15..PopupMenu1..Popup1_Show4..Hint
+#. Form15..PopupMenu1..Popup1_Show5..Hint
+msgid "Show the %s column in the table."
+msgstr "عرض العمود %s في الجدول."
+
+#. Form15..PopupMenu1..Popup1_Copy..Hint
+msgid "Copy selected cells to the clipboard."
+msgstr "نسخ الخلايا المحددة إلى الحافظة."
+
+#. Form15..PopupMenu1..Popup1_Export..Hint
+msgid "Saves the selected data to a file."
+msgstr "حفظ المعطيات المحددة إلى ملف."
+
+#. Form15..ProgressForm1..Caption
+msgid "Calculating"
+msgstr "حساب"
+
+#. Form15..SaveDialog1..Filter
+msgid "CSV (Comma delimited) [*.csv]|*.csv|Text [*.txt]|*.txt"
+msgstr "CSV (محدّدة بالفاصلة) [*.csv]|*.csv|نص [*.txt]|*.txt"
+
+#. Form16..Caption
+msgid "Insert shading"
+msgstr "إدراج تظليل"
+
+#. Form16..PageControl1..TabSheet1..Caption
+msgid "Shading"
+msgstr "تظليل"
+
+#. Form16..PageControl1..TabSheet1..Panel1..Image1..Hint
+#. Form16..PageControl1..TabSheet1..RadioButton1..Hint
+msgid "Shades the area between the function and the x-axis."
+msgstr "تظليل المساحة بين الدالة و المحور x."
+
+#. Form16..PageControl1..TabSheet1..Panel2..Image2..Hint
+#. Form16..PageControl1..TabSheet1..RadioButton2..Hint
+msgid "Shades the area below the function."
+msgstr "تظليل المساحة تحت الدالة."
+
+#. Form16..PageControl1..TabSheet1..Panel3..Image3..Hint
+#. Form16..PageControl1..TabSheet1..RadioButton3..Hint
+msgid "Shades the area above the function."
+msgstr "تظليل المساحة فوق الدالة."
+
+#. Form16..PageControl1..TabSheet1..Panel4..Image4..Hint
+#. Form16..PageControl1..TabSheet1..RadioButton4..Hint
+msgid "Shades the area between the function and the y-axis."
+msgstr "تظليل المساحة بين الدالة و المحور y."
+
+#. Form16..PageControl1..TabSheet1..Panel5..Image5..Hint
+#. Form16..PageControl1..TabSheet1..RadioButton5..Hint
+msgid "Shades the area inside the function."
+msgstr "تظليل المساحة داخل الدالة."
+
+#. Form16..PageControl1..TabSheet1..Panel6..Image6....Hint
+#. Form16..PageControl1..TabSheet1..RadioButton6....Hint
+msgid "Shades the area between the main function and the function selected in the list to the right."
+msgstr "تظليل المساحة بين الدالة الرئيسية و الدالة المحددة في القائمة على اليمين."
+
+#. Form16..PageControl1..TabSheet1..RadioButton3..Caption
+msgid "Above function"
+msgstr "فوق دالة"
+
+#. Form16..PageControl1..TabSheet1..RadioButton1..Caption
+msgid "Between function and x-axis"
+msgstr "بين دالة و المحور x"
+
+#. Form16..PageControl1..TabSheet1..RadioButton6..Caption
+msgid "Between functions"
+msgstr "بين دالتين"
+
+#. Form16..PageControl1..TabSheet1..RadioButton4..Caption
+msgid "Between function and y-axis"
+msgstr "بين دالة و المحور y"
+
+#. Form16..PageControl1..TabSheet1..RadioButton5..Caption
+msgid "Inside function"
+msgstr "داخل دالة"
+
+#. Form16..PageControl1..TabSheet1..RadioButton2..Caption
+msgid "Below function"
+msgstr "تحت دالة"
+
+#. Form16..PageControl1..TabSheet2..Caption
+#. Form20..Panel2..ToolBar1..ToolButton6..Hint
+#. Form4..Caption
+msgid "Options"
+msgstr "خيارات"
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..Caption
+#. Form19..TntGroupBox1..Caption
+msgid "Range"
+msgstr "مجال"
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..Edit1..Hint
+#. Form16..PageControl1..TabSheet3..GroupBox2..Edit3..Hint
+msgid "Coordinate where the shading starts."
+msgstr "الإحداثيات أين يبدأ التظليل."
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..Edit2..Hint
+#. Form16..PageControl1..TabSheet3..GroupBox2..Edit4..Hint
+msgid "Coordinate where the shading ends."
+msgstr "الإحداثيات أين ينتهي التظليل."
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..CheckBox2..Hint
+#. Form16..PageControl1..TabSheet3..GroupBox2..CheckBox4..Hint
+msgid "Check to increase the end coordinate until intersection."
+msgstr "تعيين لزيادة قيمة النهاية حتى التقاطع."
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..CheckBox2..Caption
+#. Form16..PageControl1..TabSheet3..GroupBox2..CheckBox4..Caption
+msgid "Increase to intersection"
+msgstr "زيادة حتى التقاطع."
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..CheckBox1..Hint
+#. Form16..PageControl1..TabSheet3..GroupBox2..CheckBox3..Hint
+msgid "Check to decrease the start coordinate until intersection."
+msgstr "تعيين لإنقاص قيمة  البداية حتى التقاطع."
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..CheckBox1..Caption
+#. Form16..PageControl1..TabSheet3..GroupBox2..CheckBox3..Caption
+msgid "Decrease to intersection"
+msgstr "إنقاص حتى التقاطع."
+
+#. Form16..PageControl1..TabSheet2..GroupBox3..ShadeSelect1..Hint
+msgid "Select the style used for the shading."
+msgstr "اختر النمط المستخدم للتظليل."
+
+#. Form16..PageControl1..TabSheet2..GroupBox3..ExtColorBox1..Hint
+msgid "Select color used for shading."
+msgstr "اختر لونا للتظليل."
+
+#. Form16..PageControl1..TabSheet2..GroupBox3..CheckBox5..Hint
+msgid "Mark the border around the shading."
+msgstr "إبراز حافة التظليل."
+
+#. Form16..PageControl1..TabSheet2..GroupBox3..CheckBox5..Caption
+msgid "Mark border"
+msgstr "إبراز الحدود"
+
+#. Form16..PageControl1..TabSheet2..Edit5..Hint
+msgid "Enter a description to show in the legend."
+msgstr "أدخل وصفا لعرضه داخل مفتاح الرسم."
+
+#. Form16..PageControl1..TabSheet3..Caption
+msgid "2nd function"
+msgstr "دالة ثانية"
+
+#. Form16..PageControl1..TabSheet3..Label11..Caption
+msgid "2nd function:"
+msgstr "الدالة الثانية:"
+
+#. Form16..PageControl1..TabSheet3..ListBox1....Hint
+msgid "Select the second function when you want a shading between two functions."
+msgstr "اختر الدالة الثانية عندما تريد التظليل بين دالتين."
+
+#. Form16..PageControl1..TabSheet3..GroupBox2..Caption
+msgid "Shading range for 2nd function"
+msgstr "مجال التظليل للدالة الثانية"
+
+#. Form17..Caption
+msgid "Custom functions/constants"
+msgstr "دوال و ثوابت مخصصة"
+
+#. Form17..Button3..Caption
+msgid "Apply"
+msgstr "تطبيق"
+
+#. Form17..Grid1....TitleCaptions.Strings
+msgid "Names"
+msgstr "الأسماء"
+
+#. Form17..Grid1....TitleCaptions.Strings
+msgid "Definition"
+msgstr "التعريف"
+
+#. Form18..Caption
+msgid "Image options"
+msgstr "خيارات الصورة"
+
+#. Form18..PageControl1..TabSheet1..Caption
+msgid "Size"
+msgstr "الحجم"
+
+#. Form18..PageControl1..TabSheet1..Label1..Caption
+msgid "Image width:"
+msgstr "العرض:"
+
+#. Form18..PageControl1..TabSheet1..Label2..Caption
+msgid "Image height:"
+msgstr "الإرتفاع:"
+
+#. Form18..PageControl1..TabSheet1..Edit1..Hint
+msgid "Set a custom image width in pixels."
+msgstr "تعيين عرض صورة مخصص، بـ بكسل."
+
+#. Form18..PageControl1..TabSheet1..Edit2..Hint
+msgid "Set a custom image height in pixels."
+msgstr "تعيين إرتفاع صورة مخصص، بـ بكسل."
+
+#. Form18..PageControl1..TabSheet1..RadioGroup3....Hint
+msgid "Choose to use the same size as shown on the screen or a custom image size."
+msgstr "اختر استخدام نفس الحجم كما هو ظاهر على الشاشة أو حجم صورة مخصص."
+
+#. Form18..PageControl1..TabSheet1..RadioGroup3..Caption
+msgid "Image size"
+msgstr "حجم الصورة"
+
+#. Form18..PageControl1..TabSheet1..RadioGroup3....Items.Strings
+msgid "Screen size"
+msgstr "الحجم الحالي"
+
+#. Form18..PageControl1..TabSheet1..RadioGroup3....Items.Strings
+msgid "Custom size"
+msgstr "حجم مخصص"
+
+#. Form18..PageControl1..TabSheet2..RadioGroup1....Hint
+msgid "Progressive encoding allows viewers to see a rough copy of the image while it is downloaded."
+msgstr "الترميز المتدرج يسمح للمتصفح بعرض نسخة غير واضحة للصورة أثناء التحميل."
+
+#. Form18..PageControl1..TabSheet2..RadioGroup1..Caption
+msgid "Encoding"
+msgstr "الترميز"
+
+#. Form18..PageControl1..TabSheet2..RadioGroup1....Items.Strings
+msgid "Sequential"
+msgstr "متتال"
+
+#. Form18..PageControl1..TabSheet2..RadioGroup1....Items.Strings
+msgid "Progressive"
+msgstr "متدرج"
+
+#. Form18..PageControl1..TabSheet2..GroupBox1..Hint
+msgid "Select a compression quality."
+msgstr "اختر جودة الضغط."
+
+#. Form18..PageControl1..TabSheet2..GroupBox1..Caption
+msgid "Quality"
+msgstr "الجودة"
+
+#. Form18..PageControl1..TabSheet3..Label3..Caption
+msgid "Paper size:"
+msgstr "حجم الورق:"
+
+#. Form18..PageControl1..TabSheet3..RadioGroup2..Hint
+#. PrintFrm..RadioGroup1..Hint
+msgid "Choose paper orientation."
+msgstr "اختر وضعية الورقة."
+
+#. Form18..PageControl1..TabSheet3..RadioGroup2..Caption
+#. PrintFrm..RadioGroup1..Caption
+msgid "Orientation"
+msgstr "الوضعية"
+
+#. Form18..PageControl1..TabSheet3..RadioGroup2....Items.Strings
+#. PrintFrm..RadioGroup1....Items.Strings
+msgid "Portrait"
+msgstr "طوليا"
+
+#. Form18..PageControl1..TabSheet3..RadioGroup2....Items.Strings
+#. PrintFrm..RadioGroup1....Items.Strings
+msgid "Landscape"
+msgstr "عرضيا"
+
+#. Form18..PageControl1..TabSheet3..ComboBox1..Hint
+msgid "Choose paper size to use."
+msgstr "اختر حجم الورق لاستخدامه."
+
+#. Form18..PageControl1..TabSheet3..ComboBox1....Items.Strings
+msgid "Letter"
+msgstr "رسالة"
+
+#. Form18..PageControl1..TabSheet3..ComboBox1....Items.Strings
+msgid "Ledger"
+msgstr "دفتر"
+
+#. Form18..PageControl1..TabSheet3..ComboBox1....Items.Strings
+msgid "Legal"
+msgstr "قانوني"
+
+#. Form18..CheckBox1..Hint
+#. Form3..CheckBox16..Hint
+msgid "Select this to use these settings as defaults in the future."
+msgstr "جعل هذه الإعدادات الافتراضية في المستقبل."
+
+#. Form18..CheckBox1..Caption
+#. Form3..CheckBox16..Caption
+msgid "Save as default"
+msgstr "حفظ كإعدادات افتراضية"
+
+#. Form19..Caption
+#. Form19..Button1..Caption
+msgid "Animate"
+msgstr "رسوم متحركة"
+
+#. Form19..Label1..Caption
+msgid "Constant:"
+msgstr "الثابت:"
+
+#. Form19..ComboBox1..Hint
+msgid "Choose a constant to change between each frame."
+msgstr "إختر ثابتا لتغييره في كل لقطة."
+
+#. Form19..TntGroupBox1..Label4..Caption
+msgid "Step:"
+msgstr "الخطوة:"
+
+#. Form19..TntGroupBox1..Edit1..Hint
+msgid "The first value of the constant."
+msgstr "القيمة الأولى للثابت."
+
+#. Form19..TntGroupBox1..Edit2..Hint
+msgid "The last value of the constant."
+msgstr "القيمة الأخيرة للثابت."
+
+#. Form19..TntGroupBox1..Edit3..Hint
+msgid "The chosen constant is changed by this value between each frame."
+msgstr "الثابت المختار سيغير بهذه القيمة في كل لقطة."
+
+#. Form19..TntGroupBox2..Caption
+msgid "Frame options"
+msgstr "خيارات اللقطة"
+
+#. Form19..TntGroupBox2..Label5..Caption
+msgid "Frame width:"
+msgstr "عرض اللقطة:"
+
+#. Form19..TntGroupBox2..Label6..Caption
+msgid "Frame height:"
+msgstr "إرتفاع اللقطة:"
+
+#. Form19..TntGroupBox2..Label7..Caption
+msgid "Frames/second:"
+msgstr "لقطة في الثانية:"
+
+#. Form19..TntGroupBox2..Edit4..Hint
+msgid "Width of each frame, in pixels."
+msgstr "عرض كل لقطة، بـ البكسل."
+
+#. Form19..TntGroupBox2..Edit5..Hint
+msgid "Height of each frame, in pixels."
+msgstr "إرتفاع كل لقطة، بـ البكسل."
+
+#. Form19..TntGroupBox2..Edit6..Hint
+msgid "Number of frames per second used when the animation is played."
+msgstr "عدد اللقطات في الثانية المستخدم أثناء تشغيل الرسوم المتحركة."
+
+#. Form19..ProgressForm1..Caption
+msgid "Working"
+msgstr "عمل"
+
+#. Form2..Panel1..Version..Caption
+msgid "Version %s"
+msgstr "الإصدار ‪%s"
+
+#. Form2..Panel1..Label3..Caption
+msgid "Build %s"
+msgstr "البناء ‪%s"
+
+#. Form2..Panel1..Comments....Caption
+msgid "This is free software, and you are welcome to redistribute it under the terms in the <a href=\"%s\">GNU General Public License</a> version 2. Please send bug reports and suggestions to the programmer."
+msgstr "هذا البرنامج مجاني، مرحب بتوزيعه تحت رخصة جنو العمومية (<a href=\"%s\">GNU General Public License</a>) الإصدار 2.رجاءا أرسل تقارير العلل أو الاقتراحات إلى المبرمج."
+
+#. Form2..Panel1..LinkLabel1....Caption
+msgid "The newest version as well as the source code are available at: %s"
+msgstr "كل من الإصدار الجديد و مصدر البرنامج متاحة في : %s"
+
+#. Form2..Panel1..LinkLabel2..Caption
+msgid "Email: %s"
+msgstr "البريد الإلكتروني: %s"
+
+#. Form2..Panel1..LinkLabel3..Caption
+msgid "<Language> translation by <Translator>"
+msgstr ""
+"Arabic translation by: Abdellah Chelli\n"
+"قام بالترجمة العربية: عبد الله شلي"
+
+#. Form20..Caption
+msgid "Animation"
+msgstr "الرسوم المتحركة"
+
+#. Form20..Panel2..ToolBar1..ToolButton1..Hint
+msgid "Play"
+msgstr "تشغيل"
+
+#. Form20..Panel2..ToolBar1..ToolButton2..Hint
+msgid "Pause"
+msgstr "توقف مؤقت"
+
+#. Form20..Panel2..ToolBar1..ToolButton3..Hint
+msgid "Stop"
+msgstr "توقف"
+
+#. Form20..Panel2..ToolBar1..ToolButton4..Hint
+msgid "Back"
+msgstr "عودة"
+
+#. Form20..Panel2..ToolBar1..ToolButton5..Hint
+msgid "Step"
+msgstr "خطوة"
+
+#. Form20..SaveDialog1..Filter
+msgid "Audio Video Interleave [*.avi]|*.avi"
+msgstr "Audio Video Interleave [*.avi]|*.avi"
+
+#. Form20..PopupMenu1..Speed1..Caption
+msgid "Speed"
+msgstr "السرعة"
+
+#. Form20..PopupMenu1..Speed1..N101..Hint
+#. Form20..PopupMenu1..Speed1..N501..Hint
+#. Form20..PopupMenu1..Speed1..N1001..Hint
+#. Form20..PopupMenu1..Speed1..N1501..Hint
+#. Form20..PopupMenu1..Speed1..N2001..Hint
+#. Form20..PopupMenu1..Speed1..N10001..Hint
+msgid "Change the speed used to play the animation."
+msgstr "تغيير السرعة المستخدمة لعرض الرسوم المتحركة."
+
+#. Form20..PopupMenu1..Repeat1..Caption
+msgid "Repeat"
+msgstr "تكرار"
+
+#. Form20..PopupMenu1..Repeat1..Hint
+msgid "Repeat playing the animation until manually stopped."
+msgstr "تكرار الرسوم المتحركة إلى أن توقف يدويا."
+
+#. Form20..PopupMenu1..Reverse1..Caption
+msgid "Auto reverse"
+msgstr "حركة عكسية آلية"
+
+#. Form20..PopupMenu1..Reverse1....Hint
+msgid "Play backwards when the end of the animation is reached. This is most useful in combination with the \"Repeat\" command."
+msgstr "تشغيل الرسوم المتحركة عكسيا عندما تصل إلى نهايتها. هذة الخاصية ذي فائدة حينما تستخدم مع الأمر \"تكرار\""
+
+#. Form20..PopupMenu1..Save1..Hint
+msgid "Save the animation to a file."
+msgstr "حفظ الرسوم المتحركة إلى ملف."
+
+#. Form20..PopupMenu1..Saveimageas1..Caption
+msgid "Save frame..."
+msgstr "حفظ اللقطة ..."
+
+#. Form20..PopupMenu1..Saveimageas1..Hint
+msgid "Save the shown frame to an image file."
+msgstr "حفظ اللقطة الحالية كصورة."
+
+#. Form20..PopupMenu1..Saveimagesequence1..Caption
+msgid "Save all frames..."
+msgstr "حفظ كل اللقطات..."
+
+#. Form20..PopupMenu1..Saveimagesequence1....Hint
+msgid "Save all frames in the animation to image files. This will create as many files as there are frames in the animation."
+msgstr "حفظ كل اللقطات إلى ملفات صور. هذا سينشئ ملفات كثيرة بعدد اللقطات الموجودة."
+
+#. Form21..Label1..Caption
+msgid "Corner:"
+msgstr "الزاوية:"
+
+#. Form21..ComboBox1..Hint
+msgid "Choose which corner of the label should be locked."
+msgstr "اختر أي الزاوية تريد وضع مفتاح الرسم عندها."
+
+#. Form21..ComboBox1....Items.Strings
+msgid "Upper Left"
+msgstr "أعلى اليسار"
+
+#. Form21..ComboBox1....Items.Strings
+msgid "Upper Right"
+msgstr "أعلى اليمين"
+
+#. Form21..ComboBox1....Items.Strings
+msgid "Lower Left"
+msgstr "أعلى اليسار"
+
+#. Form21..ComboBox1....Items.Strings
+msgid "Lower Right"
+msgstr "أعلى اليمين"
+
+#. Form21..Edit1..Hint
+#. Form21..Edit2..Hint
+msgid "Enter a coordinate to lock label at."
+msgstr "أدخل إحداثية، لوضع النص عندها."
+
+#. Form22..Caption
+msgid "Python interpreter"
+msgstr "مترجم بايثون"
+
+#. Form22..PopupMenu1..Clear1..Caption
+msgid "Clear"
+msgstr "مسح"
+
+#. Form3..Caption
+msgid "Edit axes"
+msgstr "تحرير المحاور"
+
+#. Form3..PageControl1..TabSheet1..Caption
+#. ParFuncFrame..ComboBox1....Items.Strings
+#. PolFuncFrame..ComboBox1....Items.Strings
+#. StdFuncFrame..ComboBox1....Items.Strings
+msgid "x-axis"
+msgstr "المحور x"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Label1..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..Label5..Caption
+msgid "Minimum:"
+msgstr "القيمة الدنيا:"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Edit1..Hint
+msgid "Minimum x-value."
+msgstr "القيمة الدنيا لـ x."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Label2..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..Label6..Caption
+msgid "Maximum:"
+msgstr "القيمة العليا:"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Edit2..Hint
+msgid "Maximum x-value."
+msgstr "القيمة العليا لـ x."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Label3..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..Label7..Caption
+msgid "Tick unit:"
+msgstr "وحدة التدريجات:"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Edit3..Hint
+msgid "Units between ticks on the x-axis."
+msgstr "الوحدات بين التدريجات على المحور x."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Label14..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..Label9..Caption
+msgid "Grid unit:"
+msgstr "وحدة الشبكة:"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Edit4..Hint
+msgid "Units between the grid lines perpendicular to the x-axis."
+msgstr "البعد بين خطوط الشبكة العمودية على المحور x."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox4..Hint
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox11..Hint
+msgid "Determine the tick unit automatically."
+msgstr "تعيين وحدة التدريجات آليا."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox4..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox11..Caption
+msgid "Auto tick"
+msgstr "تعيين الوحدة آليا"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox6..Hint
+msgid "Show tick marks on the x-axis."
+msgstr "إظهار التدريجات على المحور x."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox6..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox13..Caption
+msgid "Show ticks"
+msgstr "إظهار التدريجات"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox5..Hint
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox12..Hint
+msgid "Set the grid unit to the same as the tick unit."
+msgstr "جعل وحدة الشبكة مساوية لوحدة التدريجات."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox5..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox12..Caption
+msgid "Auto grid"
+msgstr "تعيين الوحدة آليا"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox7..Hint
+msgid "Show vertical grid lines."
+msgstr "إظهار الخطوط الشبكة العمودية."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox7..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox14..Caption
+msgid "Show grid"
+msgstr "إظهار الشبكة"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Panel1..CheckBox3....Hint
+msgid "Show the label at the right side of the graphing area, above the x-axis."
+msgstr "إظهار التسمية في الجانب الأيمن من معلم الرسم، فوق المحور x."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Panel1..CheckBox3..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..Panel3..CheckBox10..Caption
+msgid "Label:"
+msgstr "العنوان:"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Panel1..Edit5..Hint
+#. Form3..PageControl1..TabSheet2..GridPanel2..Panel3..Edit11..Hint
+msgid "Edit the label for the axis here."
+msgstr "تحرير عنوان المحور."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Panel2..Label4..Caption
+msgid "The x-axis cross at y="
+msgstr "المحور x يقطع المحور y عند y="
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Panel2..Edit6..Hint
+msgid "The x-axis will intersect with the y-axis at this value."
+msgstr "المحور x سيتقاطع مع المحور y عند هذه القيمة."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox1..Hint
+msgid "Use logarithmic scale on the x-axis."
+msgstr "استخدام المقياس اللوغاريتمي في المحور x."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox1..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox8..Caption
+msgid "Logarithmic scale"
+msgstr "مقياس لوغاريتمي"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox2..Hint
+msgid "Show units on the x-axis."
+msgstr "إظهار الإحداثيات على المحور x."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox2..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox9..Caption
+msgid "Show numbers"
+msgstr "إظهار القيم"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox17..Hint
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox18..Hint
+msgid "Show units on the selected axis as a fraction multiplied by pi."
+msgstr "إظهار التدريجات على المحور المحدد كنسب مضروبة في pi."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox17..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox18..Caption
+msgid "Show as a multiple of π"
+msgstr "إظهار كمضاعفات لـ π"
+
+#. Form3..PageControl1..TabSheet2..Caption
+#. ParFuncFrame..ComboBox1....Items.Strings
+#. PolFuncFrame..ComboBox1....Items.Strings
+msgid "y-axis"
+msgstr "المحور y"
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Edit7..Hint
+msgid "Minimum y-value."
+msgstr "القيمة الدنيا لـ y."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Edit8..Hint
+msgid "Maximum y-value."
+msgstr "القيمة العليا لـ y."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Edit9..Hint
+msgid "Units between ticks on the y-axis."
+msgstr "البعد بين التدريجات على المحور y."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Edit10..Hint
+msgid "Units between the grid lines perpendicular to the y-axis."
+msgstr "البعد بين خطوط الشبكة العمودية على المحور y."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox13..Hint
+msgid "Show tick marks on the y-axis."
+msgstr "إظهار التدريجات على المحور y."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox14..Hint
+msgid "Show horizontal grid lines."
+msgstr "إظهار خطوط الشبكة العمودية."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Panel3..CheckBox10....Hint
+msgid "Show the label at the top of the graphing area, to the right of the y-axis."
+msgstr "إظهار التسمية في أعلى معلم الرسم، يمين المحور y."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Panel4..Label8..Caption
+msgid "The y-axis cross at x="
+msgstr "المحور y يقطع المحور x عند x="
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Panel4..Edit12..Hint
+msgid "The y-axis will intersect with the x-axis at this value."
+msgstr "المحور y سيتقاطع مع المحور x عند هذه القيمة."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox8..Hint
+msgid "Use logarithmic scale for the y-axis."
+msgstr "استخدام المقياس اللوغاريتمي في المحور y."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox9..Hint
+msgid "Show units on the y-axis."
+msgstr "إظهار الإحداثيات على المحور y."
+
+#. Form3..PageControl1..TabSheet3..Caption
+msgid "Settings"
+msgstr "الإعدادات"
+
+#. Form3..PageControl1..TabSheet3..Label16..Caption
+msgid "Title:"
+msgstr "العنوان:"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup1....Hint
+msgid "Choose if you want to show the axes, and if you want to show them crossed or at the left and bottom of the image."
+msgstr "اختر إذا ما كنت تريد إظهار المحاور، و إذا ما كنت تريد عرضها متقاطعة أو عند يسار أسفل الصورة."
+
+#. Form3..PageControl1..TabSheet3..RadioGroup1..Caption
+msgid "Axes style"
+msgstr "نمط المحاور"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup1....Items.Strings
+msgid "None"
+msgstr "لا محاور"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup1....Items.Strings
+msgid "Crossed"
+msgstr "متقاطعة"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup1....Items.Strings
+msgid "Boxed"
+msgstr "جانبية"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup2....Hint
+msgid "Choose if trigonometric functions should calculate in radians or degrees."
+msgstr "إختر ما إذا كنت تريد أن تحسب الدوال المثلثية بـ الراديان أم الدرجات."
+
+#. Form3..PageControl1..TabSheet3..RadioGroup2..Caption
+msgid "Trigonometry"
+msgstr "حساب المثلثات"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup2....Items.Strings
+msgid "Radian"
+msgstr "راديان"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup2....Items.Strings
+msgid "Degree"
+msgstr "درجة"
+
+#. Form3..PageControl1..TabSheet3..Edit13..Hint
+msgid "Enter a title to show above the coordinate system."
+msgstr "أدخل عنوانا لعرضه أعلى المعلم."
+
+#. Form3..PageControl1..TabSheet3..BitBtn1..Hint
+msgid "Select the font for the title."
+msgstr "اختر خط العنوان."
+
+#. Form3..PageControl1..TabSheet3..RadioGroup3..Hint
+msgid "Choose where the legend should be placed."
+msgstr "اختر أين يوضع مفتاح الرسم."
+
+#. Form3..PageControl1..TabSheet3..RadioGroup3..Caption
+msgid "Legend placement"
+msgstr "موضع مفتاح الرسم."
+
+#. Form3..PageControl1..TabSheet3..CheckBox19....Hint
+msgid "Check this to use complex numbers for calculations. Notice that this will slow graphing down."
+msgstr "استخدام الأعداد المركبة للحسابات. قد يؤدي هذا إلى بطئ الرسم."
+
+#. Form3..PageControl1..TabSheet3..CheckBox19..Caption
+msgid "Calculate with complex numbers"
+msgstr "حساب باستخدام الأعداد المركبة"
+
+#. Form3..PageControl1..TabSheet4..Caption
+msgid "Font and color"
+msgstr "الخطوط و الألون"
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..Caption
+msgid "Colors"
+msgstr "الألوان"
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..Label17..Caption
+msgid "Grid color:"
+msgstr "لون الشبكة:"
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..Label18..Caption
+msgid "Axes color:"
+msgstr "لون المحاور:"
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..Label19..Caption
+#. Form6..Label4..Caption
+msgid "Background color:"
+msgstr "لون الخلفية:"
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..ExtColorBox1..Hint
+msgid "Select the color of the image background."
+msgstr "اختر لون خلفية الصورة."
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..ExtColorBox2..Hint
+msgid "Select the color of the axes."
+msgstr "اختر لون المحاور."
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..ExtColorBox3..Hint
+msgid "Select the color of the grid lines."
+msgstr "اختر لون خطوط الشبكة."
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..Caption
+msgid "Fonts"
+msgstr "الخطوط"
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..Label20..Caption
+msgid "Number font:"
+msgstr "خط الأعداد:"
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..Label21..Caption
+msgid "Label font:"
+msgstr "خط العناوين:"
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..Label10..Caption
+msgid "Legend font:"
+msgstr "خط مفتاح الرسم:"
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..BitBtn2..Hint
+msgid "Select the font used to show the labels on the axes."
+msgstr "اختر الخط المستخدم لعرض عناوين المحاور."
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..BitBtn3..Hint
+msgid "Select the font used to show the numbers on the axes."
+msgstr "اختر الخط المستخدم لعرض الأعداد على المحاور."
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..BitBtn4..Hint
+msgid "Select the font used to show the legend text."
+msgstr "اختر الخط المستخدم لعرض نص مفتاح الرسم."
+
+#. Form4..GridPanelEx1..Label1..Caption
+msgid "Decimals:"
+msgstr "الأرقم العشرية:"
+
+#. Form4..GridPanelEx1..Panel1..Edit1..Hint
+msgid "Number of decimals used when results are shown."
+msgstr "عدد الأرقام العشرية المستخدمة في إظهار النتائج."
+
+#. Form4..GridPanelEx1..RadioGroup1..Hint
+msgid "Format used when complex numbers are shown."
+msgstr "الشكل المستخدم لعرض الأعداد المركبة."
+
+#. Form4..GridPanelEx1..RadioGroup1..Caption
+msgid "Complex form"
+msgstr "صيغة الأعداد المركبة"
+
+#. Form4..GridPanelEx1..RadioGroup1....Items.Strings
+msgid "Real"
+msgstr "حقيقية"
+
+#. Form4..GridPanelEx1..RadioGroup1....Items.Strings
+msgid "Rectangular"
+msgstr "ديكارتية"
+
+#. Form4..GridPanelEx1..Label2..Caption
+msgid "Recent files:"
+msgstr "الملفات السابقة:"
+
+#. Form4..GridPanelEx1..Panel2..Edit2..Hint
+msgid "The number of most recent used files shown in the File menu."
+msgstr "عدد آخر الملفات المستخدمة المعروضة في قائمة 'ملف'."
+
+#. Form4..GridPanelEx1..Label3..Caption
+msgid "Max undo steps:"
+msgstr "أقصى عدد للتراجع:"
+
+#. Form4..GridPanelEx1..Panel3..Edit3....Hint
+msgid "Maximum number of undo steps saved. Set this to 0 to prevent undo."
+msgstr "أقصى عدد لخطوات التراجع  المحفوظة. لمنع التراجع عدل القيمة إلى 0."
+
+#. Form4..GridPanelEx1..Label5..Caption
+msgid "Font scale:"
+msgstr "حجم الخط:"
+
+#. Form4..GridPanelEx1..ComboBox1....Hint
+msgid "This is used to scale the user interface if you are having problems reading the text."
+msgstr "استخدم هذا لتغيير حجم الخط لواجهة المستعمل إذا كنت تجد صعوبة في قراءة النص."
+
+#. Form4..GridPanelEx1..Label4..Caption
+msgid "Language:"
+msgstr "اللغة:"
+
+#. Form4..GridPanelEx1..ComboBox2..Hint
+msgid "Select the language to use for the user interface."
+msgstr "اختر اللغة المستخدمة لواجهة المستعمل."
+
+#. Form4..GridPanelEx1..CheckBox2..Hint
+msgid "Show the tooltip when the cursor is over an item."
+msgstr "عرض  الإرشادات عند وضع المؤشر فوق العنصر."
+
+#. Form4..GridPanelEx1..CheckBox2..Caption
+msgid "Show tooltip"
+msgstr "عرض الإرشادات"
+
+#. Form4..GridPanelEx1..CheckBox3....Hint
+msgid "Save the size of the main window when the program exits. This is used the next time Graph is run."
+msgstr "حفظ حجم النافذة عند إغلاق البرنامج. يستخدم هذا الخيار عند تشغيل البرنامج في المرة التالية."
+
+#. Form4..GridPanelEx1..CheckBox3..Caption
+msgid "Save workspace on exit"
+msgstr "حفظ فضاء العمل عن الخروج"
+
+#. Form4..GridPanelEx1..CheckBox4....Hint
+msgid "If checked the program will contact a web server when the program is started to see if a newer version is available."
+msgstr "عند تشغيل البرنامج سيقوم بالإتصال بالملقم و يرى ما إذا كان هنالك إصدار جديد."
+
+#. Form4..GridPanelEx1..CheckBox4..Caption
+msgid "Check for new version of Graph at startup"
+msgstr "التحقق من توفر إصدار جديد من غْراف Graph عند التشغيل"
+
+#. Form4..GridPanelEx1..CheckBox5....Hint
+msgid "Use a custom decimal separator instead of the default from the Windows Regional settings."
+msgstr "استخدم فاصل عشري مخصص بدلاً من القيمة الافتراضية من إعدادات وينداوز الإقليمية."
+
+#. Form4..GridPanelEx1..CheckBox5..Caption
+msgid "Custom decimal separator:"
+msgstr "فاصل عشري مخصص:"
+
+#. Form4..GridPanelEx1..Edit4..Hint
+msgid "Decimal separator used when exporting to other programs."
+msgstr "الفاصل العشري المستخدم عند التصدير إلى برامج أخرى."
+
+#. Form5..Caption
+msgid "Insert function"
+msgstr "إدراج دالة"
+
+#. Form5..Label1..Caption
+msgid "Function type:"
+msgstr "نوع الدالة:"
+
+#. Form5..ComboBox1..Hint
+msgid "Select the function type to graph."
+msgstr "اختر نوع الدالة المراد رسمها."
+
+#. Form5..ComboBox1....Items.Strings
+msgid "Standard function   y=f(x)"
+msgstr "دالة قياسية    ‪y=f(x)"
+
+#. Form5..ComboBox1....Items.Strings
+msgid "Parametric function x(t), y(t)"
+msgstr "دالة وسيطية   ‪x(t), y(t)"
+
+#. Form5..ComboBox1....Items.Strings
+msgid "Polar function         r=f(t)"
+msgstr "دالة قطبية      ‪r=f(t)"
+
+#. Form5..GroupBox1..Caption
+msgid "Function equation"
+msgstr "معادلة الدالة"
+
+#. Form5..GroupBox2..Label6..Caption
+msgid "Steps:"
+msgstr "الخطوات:"
+
+#. Form5..GroupBox2..Edit5..Hint
+msgid "Number of calculation steps used to draw the graph."
+msgstr "عدد الخطوات الحسابية لرسم المنحنى البياني."
+
+#. Form5..GroupBox4..GridPanelEx1..Label13..Caption
+msgid "Draw type:"
+msgstr "نوع الرسم:"
+
+#. Form5..GroupBox4..GridPanelEx1..ComboBox4....Hint
+msgid "Choose Lines if you want the calculated points for the graph to be connected. Choose Dots if you only want to show a dot at each point."
+msgstr "إختر خطوط إذا أردت من النقاط المحسوبة أن توصل. أو إختر نقاط إذا أردت رسم النقاط فقط."
+
+#. Form5..GroupBox4..GridPanelEx1..ComboBox4..Text
+#. Form5..GroupBox4..GridPanelEx1..ComboBox4....Items.Strings
+msgid "Automatic"
+msgstr "إفتراضي"
+
+#. Form5..GroupBox4..GridPanelEx1..ComboBox4....Items.Strings
+msgid "Dots"
+msgstr "نقاط"
+
+#. Form5..GroupBox4..GridPanelEx1..ComboBox4....Items.Strings
+msgid "Lines"
+msgstr "خطوط"
+
+#. Form6..Caption
+msgid "Insert text label"
+msgstr "إدراج نص"
+
+#. Form6..Label1..Caption
+msgid "Font name:"
+msgstr "اسم الخط:"
+
+#. Form6..Label2..Caption
+msgid "Font size:"
+msgstr "حجم الخط:"
+
+#. Form6..Label3..Caption
+msgid "Font color:"
+msgstr "لون الخط:"
+
+#. Form6..ComboBox1..Hint
+msgid "Text size."
+msgstr "حجم النص."
+
+#. Form6..GroupBox1..Caption
+msgid "Text string"
+msgstr "النص"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton11..Hint
+msgid "Insert symbol (Ctrl+G)"
+msgstr "إدراج رمز (Ctrl+G)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton13..Hint
+msgid "Insert object."
+msgstr "إدراج كائن."
+
+#. Form6..GroupBox1..ToolBar1..ToolButton1..Hint
+msgid "Bold (Ctrl+B)"
+msgstr "عريض (Ctrl+B)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton2..Hint
+msgid "Italic (Ctrl+I)"
+msgstr "مائل (Ctrl+I)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton3..Hint
+msgid "Underline (Ctrl+U)"
+msgstr "تسطير (Ctrl+U)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton4..Hint
+msgid "Strikethrough (Ctrl+S)"
+msgstr "تشطيب (Ctrl+S)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton9..Hint
+msgid "Superscript (Ctrl++)"
+msgstr "رمز علوي (Ctrl++)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton10..Hint
+msgid "Subscript (Ctrl+=)"
+msgstr "رمز سفلي (Ctrl+=)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton5..Hint
+msgid "Align left (Ctrl+L)"
+msgstr "محاذاة إلى اليسار (Ctrl+L)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton6..Hint
+msgid "Center (Ctrl+E)"
+msgstr "توسيط (Ctrl+E)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton7..Hint
+msgid "Align right (Ctrl+R)"
+msgstr "محاذاة إلى اليمين (Ctrl+R)"
+
+#. Form6..IFontBox1..Hint
+msgid "Text font."
+msgstr "خط النص."
+
+#. Form6..ColorBox1..Hint
+msgid "Text color."
+msgstr "لون النص."
+
+#. Form6..ColorBox2..Hint
+msgid "Select background color of the text label."
+msgstr "اختر لون خلفية النص."
+
+#. Form6..ColorBox2..DefaultName
+msgid "Transparent"
+msgstr "شفاف"
+
+#. Form6..PopupMenu1..Popup_Undo..Hint
+msgid "Undo last action."
+msgstr "التراجع عن الخطوة الأخيرة."
+
+#. Form6..PopupMenu1..Popup_Redo..Hint
+msgid "Redo last undone action."
+msgstr "إعادة القيام بالخطوة الأخيرة المتراجع عنها."
+
+#. Form6..PopupMenu1..Popup_Paste..Hint
+msgid "Paste the contents of the clipboard."
+msgstr "لصق محتويات الحافظة."
+
+#. Form6..PopupMenu1..Popup_PasteSpecial..Caption
+msgid "Paste special..."
+msgstr "لصق خاص ..."
+
+#. Form6..PopupMenu1..Popup_PasteSpecial..Hint
+msgid "Select which clipboard representation you want to paste."
+msgstr "اختر على أي شكل تريد لصق الحافظة."
+
+#. Form6..PopupMenu1..Popup_InsertObject..Caption
+msgid "Insert object..."
+msgstr "إدراج كائن ..."
+
+#. Form6..PopupMenu1..Popup_InsertObject..Hint
+msgid "Create a new OLE object."
+msgstr "إنشاء كائن OLE جديد."
+
+#. Form6..PopupMenu1..Popup_EditObject..Caption
+msgid "Edit object"
+msgstr "تحرير كائن"
+
+#. Form6..PopupMenu1..Popup_EditObject..Hint
+msgid "Edit selected OLE object."
+msgstr "تحرير كائن OLE المحدد."
+
+#. Form7..Caption
+msgid "Insert f'(x)"
+msgstr "إدراج ‪f'(x)"
+
+#. Form8..Label1..Caption
+#. PrintFrm..GroupBox1..Label1..Caption
+msgid "Name:"
+msgstr "الاسم:"
+
+#. Form8..ValueListEditor1....TitleCaptions.Strings
+msgid "Constant"
+msgstr "ثابت"
+
+#. Form8..ValueListEditor1....TitleCaptions.Strings
+msgid "Value"
+msgstr "قيمة"
+
+#. Form9..Label1..Caption
+msgid "Select a function or tangent to evaluate."
+msgstr "حدد دالة أو مماس للتقييم."
+
+#. Form9..PolFuncFrame1....Hint
+#. ParFuncFrame..ComboBox1....Hint
+#. StdFuncFrame..ComboBox1....Hint
+msgid "Select where the cursor will be placed when you click on the image."
+msgstr "اختر أين يوضع المؤشر حينما تنقر على البيان."
+
+#. AreaFrame..GridPanel1..Panel1..Edit1....Hint
+msgid "Enter the start coordinate or mark the range on the graph itself with the mouse."
+msgstr "أدخل إحداثيات البداية أو عين المجال على الرسم البياني مباشرة باستخدام الفأرة."
+
+#. AreaFrame..GridPanel1..Panel2..Edit2....Hint
+msgid "Enter the end coordinate or mark the range on the graph itself with the mouse."
+msgstr "أدخل إحداثيات النهاية أو عين المجال على الرسم البياني مباشرة باستخدام الفأرة."
+
+#. ParFuncFrame..Label7..Caption
+#. PolFuncFrame..Label7..Caption
+#. StdFuncFrame..Label5..Caption
+msgid "Snap to:"
+msgstr "إلتصاق بـ:"
+
+#. ParFuncFrame..Edit2..Hint
+msgid "The x-coordinate evaluated for the t-parameter."
+msgstr "الإحداثية x مقدرة من أجل الوسيط t ."
+
+#. ParFuncFrame..Edit3..Hint
+msgid "The y-coordinate evaluated for the t-parameter."
+msgstr "الإحداثية y مقدرة من أجل الوسيط t ."
+
+#. ParFuncFrame..Edit4..Hint
+msgid "The derivative of x(t) evaluated for the entered t-parameter."
+msgstr "مشتق ‪x(t)‬ مقدر من أجل الوسيط t المعطى."
+
+#. ParFuncFrame..Edit5..Hint
+msgid "The derivative of y(t) evaluated for the entered t-parameter."
+msgstr "مشتق ‪y(t)‬ مقدر من أجل الوسيط t المعطى."
+
+#. ParFuncFrame..Edit6..Hint
+msgid "The slope of the function evaluated for the entered t-parameter."
+msgstr "ميل الدالة مقدر من أجل الوسيط t المعطى."
+
+#. ParFuncFrame..Edit1....Hint
+msgid "Enter the value for the parameter t for which you want to evaluate the function, or click on the graph in the graphing area."
+msgstr "أدخل القيمة التي من أجلها تريد تقييم الدالة، أو أنقر على بيان الدالة مباشرة."
+
+#. ParFuncFrame..ComboBox1....Items.Strings
+#. PolFuncFrame..ComboBox1....Items.Strings
+#. StdFuncFrame..ComboBox1....Items.Strings
+msgid "Intersection"
+msgstr "تقاطع"
+
+#. ParFuncFrame..ComboBox1....Items.Strings
+#. PolFuncFrame..ComboBox1....Items.Strings
+msgid "Extreme x-value"
+msgstr "ذروة y"
+
+#. ParFuncFrame..ComboBox1....Items.Strings
+#. PolFuncFrame..ComboBox1....Items.Strings
+#. StdFuncFrame..ComboBox1....Items.Strings
+msgid "Extreme y-value"
+msgstr "ذروة x"
+
+#. PolFuncFrame..Edit2..Hint
+msgid "The distance to the function evaluated for the given angle."
+msgstr "المسافة إلى الدالة مقدرة من أجل الزاوية المعينة."
+
+#. PolFuncFrame..Edit3..Hint
+msgid "The x-coordinate evaluated for the given angle."
+msgstr "الإحداثية x مقدرة من أجل الزاوية المعينة."
+
+#. PolFuncFrame..Edit4..Hint
+msgid "The y-coordinate evaluated for the given angle."
+msgstr "الإحداثية y مقدرة من أجل الزاوية المعينة."
+
+#. PolFuncFrame..Edit5..Hint
+msgid "The derivative of the function evaluated for the given angle."
+msgstr "مشتق الدالة مقدر من أجل الزاوية المعينة."
+
+#. PolFuncFrame..Edit6..Hint
+msgid "The slope of the function evaluated for the given angle."
+msgstr "ميل الدالة مقدر من أجل الزاوية المعينة."
+
+#. PolFuncFrame..Edit1....Hint
+msgid "Enter the value of the polar angle for which you want to evaluate the function, or click on the graph in the graphing area."
+msgstr "أدخل قيمة الزاوية القطبية التي من أجلها تريد تقييم الدالة، أو أنقر على بيان الدالة مباشرة."
+
+#. StdFuncFrame..Edit1....Hint
+msgid "Enter a value for which you want to evaluate the function, or click on the graph in the graphing area."
+msgstr "أدخل القيمة التي من أجلها تريد تقييم الدالة، أو أنقر على بيان الدالة مباشرة."
+
+#. StdFuncFrame..Edit2..Hint
+msgid "This is the function evaluated for the entered x-value."
+msgstr "قيمة الدالة مقدرة من أجل قيمة x المعينة."
+
+#. StdFuncFrame..Edit3....Hint
+msgid "This is the first derivative of the function evaluated for the entered value."
+msgstr " قيمة المشتق الأول للدالة المقدرة من أجل قيمة x المعينة."
+
+#. StdFuncFrame..Edit4....Hint
+msgid "This is the second derivative of the function evaluated for the entered value."
+msgstr "هذه هي قيمة المشتق الثاني للدالة مقدرة من أجل القيمة المعينة."
+
+#. TanFrame..Edit2....Hint
+msgid "This is the y-coordinate corresponding to the entered x-coordinate."
+msgstr "الإحداثية y المقدرة من أجل الإحداثية x المعينة."
+
+#. TanFrame..Edit1..Hint
+msgid "Enter an x-coordinate or click in the graphing area."
+msgstr "أدخل إحداثية x أو أنقر على الرسم مباشرة."
+
+msgid "Error"
+msgstr "خطأ"
+
+msgid "Error %s"
+msgstr "الخطأ %s"
+
+msgid "Length"
+msgstr "طول"
+
+msgid "Degrees"
+msgstr "الدرجات"
+
+msgid "Label"
+msgstr "نص"
+
+msgid "%s-error"
+msgstr "الخطأ - ‪%s"
+
+msgid "Axes"
+msgstr "محاور"
+
+msgid "Ctrl"
+msgstr "Ctrl"
+
+msgid "Alt"
+msgstr "Alt"
+
+msgid "Shift"
+msgstr "Shift"
+
+msgid "Del"
+msgstr "Del"
+
+msgid "Ins"
+msgstr "Ins"
+
+msgid "Home"
+msgstr "Home"
+
+msgid "End"
+msgstr "End"
+
+msgid "PgUp"
+msgstr "PgUp"
+
+msgid "PgDn"
+msgstr "PgDn"
+
+msgid "Up"
+msgstr "Up"
+
+msgid "Down"
+msgstr "Down"
+
+msgid "Esc"
+msgstr "Esc"
+
+msgid "Enter"
+msgstr "Enter"
+
+msgid "Tab"
+msgstr "Tab"
+
+msgid "BkSp"
+msgstr "BkSp"
+
+msgid "Space"
+msgstr "Space"
+
+msgid "An error occurred while evaluating power function."
+msgstr "وقع خطأ أثناء تقييم دالة القوة."
+
+msgid "Tangent to pi/2+n*pi (90+n180 in degrees) is undefined."
+msgstr "الظل غير معرف عند pi/2+n*pi (بالدرجات 90+180 n)."
+
+msgid "Fact can only be calculated for positive integers."
+msgstr "يمكن حساب العاملي (Fact) فقط من أجل الأعداد الصحيحة الموجبة."
+
+msgid "Cannot take logarithm to number equal or less than zero."
+msgstr "لا يمكن حساب لوغاريتم لعدد أصغر من أو يساوي الصفر."
+
+msgid "sqrt is undefined for negative numbers."
+msgstr "دالة الجدر المربع غير معرفة من أجل أعداد سالبة."
+
+msgid "A part of the evaluation gave a number with an imaginary part."
+msgstr "جزء من التقييم أعطى عددا بجزء تخيلي."
+
+msgid "Division by zero."
+msgstr "قسمة على الصفر."
+
+msgid "Inverse trigonometric function out of range [-1;1]"
+msgstr "دالة مثلثية عكسية خارج المجال [-1;1]"
+
+msgid "The function is not defined for this value."
+msgstr "الدالة غير معرفة من أجل هذه القيمة."
+
+msgid "atanh evaluated at undefined value."
+msgstr "حساب atanh عند قيمة غير معرفة."
+
+msgid "acosh evaluated at undefined value."
+msgstr "حساب acosh عند قيمة غير معرفة."
+
+msgid "arg(0) is undefined."
+msgstr "العدد الأول في المعطيات ‪arg(0)‬ غير معرف."
+
+msgid "Evaluation failed."
+msgstr "فشل التقييم."
+
+msgid "Argument produced a function result with total loss of precision."
+msgstr "المعطيات أنتجت حاصل دالة بخسارة كلية لدقة العدد."
+
+msgid "The custom function/constant '%s' was not found or has the wrong number of arguments."
+msgstr "الدالة/الثابت المخصص(ة)  '‪%s‬' لا يمكن العثور عليه (ها) أو أن الدالة تملك عدد المعطيات خاطئ."
+
+msgid "Too many recursive calls."
+msgstr "نداءات متكررة (تراجعية) كثيرة."
+
+msgid "Overflow: A function returned a value too large to handle."
+msgstr "فيض (Overflow):قيمة حاصل الدالة كبيرة و لا يمكن التعامل معها."
+
+msgid "A plugin function failed: %s"
+msgstr "فشل البرنامج المساعد: %s"
+
+msgid "Unexpected operator. Operator '%s' cannot be placed here."
+msgstr "عملية غير متوقعة. لا يمكن وضع العملية '‪%s‬' هنا."
+
+msgid "The right bracket is missing."
+msgstr "القوس الأيمن مفقود."
+
+msgid "Invalid number of arguments supplied for the function '%s'"
+msgstr "قدم للدالة  '‪%s‬' عدد غير مقبول من المعطيات."
+
+msgid "Comparison operator misplaced."
+msgstr "عملية المقارنة في مكان خاطئ."
+
+msgid "Invalid number found. Use the format: -5.475E-8"
+msgstr "العثور على عدد غير مقبول. استخدم الشكل التالي: ‭-5.475E-8"
+
+msgid "String is empty. You need to enter a formula."
+msgstr "النص فارغ. تحتاج لإدخال صيغة."
+
+msgid "Comma is not allowed here. Use dot as decimal separator."
+msgstr "الفاصلة غير مسموح بها هنا. استخدم النقطة كفاصل عشري."
+
+msgid "Unexpected end of brackets."
+msgstr "نهاية غير متوقعة للأقواس."
+
+msgid "Number, constant or function expected."
+msgstr "من المتوقع: عدد، ثابت أو دالة."
+
+msgid "Parameter after constant or variable not allowed."
+msgstr "وسيط بعد ثابت أو متغير غير مسموح به."
+
+msgid "Expression expected."
+msgstr "من المتوقع: عبارة."
+
+msgid "Unknown variable, function or constant: \"%s\""
+msgstr "متغير، دالة أو ثابت مجهول:  \"‪%s‬\""
+
+msgid "Unknown character: \"%s\""
+msgstr "حرف مجهول: \"‪%s‬\""
+
+msgid "The end of the expression was unexpected."
+msgstr "نهاية العبارة غير متوقعة."
+
+msgid "Error parsing expression."
+msgstr "خطأ في تفسير العبارة."
+
+msgid "A calculation resulted in an overflow."
+msgstr "نتج فيض (overflow) عند الحساب."
+
+msgid "An invalid value was used in the calculation."
+msgstr "استخدمت قيمة غير مقبولة في الحساب."
+
+msgid "Not enough points for calculation."
+msgstr "نقاط غير كافية لإجراء الحسابات."
+
+msgid "Illegal name \"%s\" for user defined function or constant."
+msgstr " \"‪%s‬\" اسم غير مقبول للدالة أو  الثابت."
+
+msgid "Cannot differentiate recursive function."
+msgstr "لا يمكن إشتقاق دالة تراجعية."
+
+msgid "Internal error."
+msgstr "خطأ داخلي."
+
+msgid "Function \"%s\" cannot be differentiated."
+msgstr "لا يمكن اشتقاق الدالة \"%s\"."
+
+msgid "Not further specified error occurred under calculation."
+msgstr "حدث خطأ غير معروف أثناء الحساب."
+
+msgid "No solution found. Try another guess or another model."
+msgstr "لم يعثر على أي حل، حاول التخمين مجددا أو جرب نموذجا آخرا."
+
+msgid "No result found."
+msgstr "لا توجد نتائج."
+
+msgid "An accurate result cannot be found."
+msgstr "لا يمكن العثور على نتيجة دقيقة."
+
+msgid "Internal error. Please notify the programmer with as much information as possible."
+msgstr "خطأ داخلي. أرجوا أن تعلم المبرمج بمعلومات وافية قدر ما تستطيع."
+
+msgid "You need to enter a name for the function/constant."
+msgstr "يجب عليك إدخال اسم للدالة/الثابت."
+
+msgid ""
+"Invalid function/constant name '%s'.\n"
+"The name may only contain letters and decimal digits, and it must always start with a letter.\n"
+"In addition you are not allowed to redefine built-in names."
+msgstr ""
+"اسم دالة/ثابت غير مقبول '‪%s‬'.\n"
+"الاسم يمكن أن يحتوي على حروف و أرقام، و يجب أن يبدأ دائما بحرف.\n"
+"بالإضافة إلى ذلك لا يمكن إعادة تعريف الأسماء المضمنة (كـ pi و cos)."
+
+msgid "You need to enter a name for the argument."
+msgstr "يجب أن تدخل اسما لأحد المعطيات."
+
+msgid ""
+"Invalid argument name '%s'.\n"
+"The name may only contain letters and decimal digits, and it must always start with a letter.\n"
+" In addition you are not allowed to use built-in names as argument names."
+msgstr ""
+"اسم أحد المعطيات غير مقبول '‪%s‬'.\n"
+"الاسم يمكن أن يحتوي على حروف و أرقام، و يجب أن يبدأ دائما بحرف.\n"
+"بالإضافة إلى ذلك لا يمكن إعادة تعريف الأسماء المضمنة (كـ pi و cos)."
+
+msgid "Character found after brackets."
+msgstr "عثر على حرف (أو رمز) بعد الأقواس."
+
+msgid "Symbol \"%s\" defined more than once."
+msgstr "الرمز \"‪%s‬\" عرف أكثر من مرة."
+
+msgid "Invalid equation or inequality."
+msgstr "معادلة أو متراجحة غير مقبولة."
+
+msgid "Updating..."
+msgstr "تحديث ..."
+
+msgid "Save changes?"
+msgstr "حفظ تغييرات؟"
+
+msgid "Save changes in %s?"
+msgstr "حفظ تغييرات في ‪%s‬ ؟"
+
+msgid "You have reached the maximum range of zoom."
+msgstr "لقد وصلت إلى أقصى مدى للتكبير."
+
+msgid "You have reached the minimum range of zoom."
+msgstr "لقد وصلت إلى أقصى مدى للتصغير."
+
+msgid "'%s' must not be zero."
+msgstr "يجب أن يكون '%s' غير الصفر."
+
+msgid "Error in value"
+msgstr "خطأ في القيمة"
+
+msgid "'%s' has to be an integer value greater or equal to 0."
+msgstr "'‪%s‬' يجب أن يكون عددا صحيحا أكبر من أو يساوي 0."
+
+msgid "'%s' must be greater than zero."
+msgstr "'‪%s‬' يجب أن يكون أكبر من الصفر."
+
+msgid "'%s' must be an integer greater than zero."
+msgstr "'‪%s‬' يجب أن يكون عددا صحيحا أكبر من الصفر."
+
+msgid "Trying to break zoom limit."
+msgstr "محاولة تخطي حدود التكبير/التصغير."
+
+msgid "'%s' must be greater than '%s'"
+msgstr "'‪%s‬' يجب أ ن يكون أكبر من '‪%s‬'"
+
+msgid "The maximum value must be greater than the minimum value."
+msgstr "القيمة العليا يجب أن تكون أكبر من القيمة الدنيا."
+
+msgid "You need to enter a value."
+msgstr "يجب أن تدخل قيمة."
+
+msgid ""
+"This file was created with Graph %s.\n"
+"Only files from version %s and higher can be opened."
+msgstr ""
+"هذا الملف أنشئ بـ  غْراف‪Graph %s.\n"
+"إلا الملفات من الإصدار ‪%s‬ و أعلى يمكن فتحها."
+
+msgid "'%s' is not a valid number."
+msgstr "'‪%s‬' ليس عددا مقبولا."
+
+msgid "'%s' must be a positive number."
+msgstr "'‪%s‬' يجب أن يكون عددا موجبا."
+
+msgid "File not found: %s"
+msgstr "لا يمكن العثور على الملف: ‪%s"
+
+msgid ""
+"Error reading file: %s\n"
+"The file is not a correct Graph file."
+msgstr ""
+"خطأ أثناء قراءة الملف: ‪%s\n"
+"الملف ليس ملف غْراف Graph صحيح."
+
+msgid "Unknown error while reading file: %s"
+msgstr "خطأ مجهول أثناء قراءة الملف: ‪%s"
+
+msgid "Graph files [*.grf]|*.grf"
+msgstr "ملفات غْراف [*.grf]|*.grf"
+
+msgid ""
+"Cannot write to file: %s\n"
+"Access denied. Check that the file is not in use or write protected."
+msgstr ""
+"لا يمكن الكتابة إلى الملف: ‪%s\n"
+"الوصول مرفوض. تأكد من أن الملف ليس مستعملا من قبل برنامج آخر أو محميا ضد الكتابة."
+
+msgid "The font \"%s\" doesn't exist. Standard font is used instead."
+msgstr "الخط \"‪%s‬\" غير موجود. الخط القياسي استخدم مكانه."
+
+msgid "Graph system"
+msgstr "نظام غْراف"
+
+msgid "Open"
+msgstr "فتح"
+
+msgid "Selection error"
+msgstr "خطأ في التحديد"
+
+msgid "File error"
+msgstr "خطأ في الملف"
+
+msgid "Write access failed"
+msgstr "فشل محاولة الكتابة"
+
+msgid "OLE error"
+msgstr "خطأ في OLE"
+
+msgid "Error reading object"
+msgstr "خطأ أثناء قراءة الكائن"
+
+msgid "Not a valid Graph object."
+msgstr "ليس كائن غْراف Graph مقبول."
+
+msgid "Object error"
+msgstr "خطأ في الكائن"
+
+msgid "Windows does not have enough resources to save an image that large."
+msgstr "لا يملك النظام الموارد الكافية لحفظ صورة ذات حجم كبير."
+
+msgid "'%1%' must be between %2% and %3%."
+msgstr "'‪%1%‬' يجب أن يكون بين ‪%2%‬ و ‪%3%‬."
+
+msgid "File not found"
+msgstr "لا يمكن العثور على الملف"
+
+msgid "Error reading file"
+msgstr "خطأ أثناء قراءة الملف"
+
+msgid "Printer error"
+msgstr "خطأ الطابعة"
+
+msgid "Invalid use of infinity. Infinity cannot be used here."
+msgstr "استخدام خاطئ للانهاية. لا يمكن استخدام لانهاية هنا."
+
+msgid "Not enough memory to complete the operation."
+msgstr ""
+
+msgid "Confirm delete"
+msgstr "تأكيد الحذف"
+
+msgid "Are you sure you want to delete %s?"
+msgstr "هل أنت متأكد من أنك تريد حذف ‪%s‬؟"
+
+msgid "Graph files [*.grf]|*.grf|All files [*.*]|*.*"
+msgstr "ملفات غْراف [*.grf]|*.grf|All files [*.*]|*.*"
+
+msgid "CSV (semicolon delimited) [*.csv]|*.csv|CSV (comma delimited) [*.csv]|*.csv|Text (tab delimited) [*.txt]|*.txt|Text (space delimited) [*.txt]|*.txt|All files [*.*]|*.*"
+msgstr "CSV (semicolon delimited) [*.csv]|*.csv|CSV (comma delimited) [*.csv]|*.csv|Text (tab delimited) [*.txt]|*.txt|Text (space delimited) [*.txt]|*.txt|All files [*.*]|*.*"
+
+msgid "Are you sure you want to delete the model: %s?"
+msgstr "هل أنت متأكد من أنك تريد حذف النموذج: ‪%s‬؟"
+
+msgid "Maximum number on x-axis must be greater than the minimum value."
+msgstr "القيمة العليا على المحور x يجب أن تكون أكبر من القيمة الدنيا."
+
+msgid "Maximum number on y-axis must be greater than the minimum value."
+msgstr "القيمة العليا على المحور y يجب أن تكون أكبر من القيمة الدنيا."
+
+msgid "Server application not found."
+msgstr "تطبيق البرمجي للملقم غير موجود."
+
+msgid "Maximum number for t must be greater than the minimum value."
+msgstr "يجب أن تكون القيمة العليا لـ  t أكبر من القيمة الدنيا."
+
+msgid "The step value for t must be a number greater than 0."
+msgstr "قيمة الخطوة لـ t يجب أن تكون أكبر من 0."
+
+msgid "The minimum value for the x-axis must be greater than 0, when the x-axis is logarithmic scaled."
+msgstr "يجب أن تكون القيمة الدنيا على المحور x أكبر من 0، عندما يكون ذو مقياس لوغاريتمي."
+
+msgid "The cross point of the y-axis must be greater than 0, when the x-axis is logarithmic scaled."
+msgstr "يجب ان تكون إحداثية التقاطع للمحور y أكبر من 0. عندما يكون المحور x بمقياس لوغاريتمي."
+
+msgid "The minimum value for the y-axis must be greater than 0, when the y-axis is logarithmic scaled."
+msgstr "يجب أن تكون القيمة الدنيا على المحور y أكبر من 0، عندما يكون ذو مقياس لوغاريتمي."
+
+msgid "The cross point of the x-axis must be greater than 0, when the y-axis is logarithmic scaled."
+msgstr "يجب أن تكون إحداثية التقاطع للمحور x أكبر من 0، عندما يكون المحور y بالمقياس اللوغاريتمي."
+
+msgid "'Recent files' must be between 0 and 9."
+msgstr "يجب أن يكون عدد 'الملفات السابقة' بين 0 و 9."
+
+msgid "The end of interval must be greater than the start of interval."
+msgstr "يجب أن تكون نهاية المجال أكبر من بدايته."
+
+msgid "Error in interval."
+msgstr "خطأ في المجال."
+
+msgid "The width must be an integer greater than 0."
+msgstr "العرض يجب أن يكون عدد صحيح أكبر من 0."
+
+msgid "Error in width"
+msgstr "خطأ في العرض"
+
+msgid "The end of interval must be greater than the start of interval and %s must be greater than 0."
+msgstr "يجب أن تكون نهاية المجال أكبر من بدايته و أن يكون %s أكبر من 0."
+
+msgid "Invalid model name."
+msgstr "اسم النموذج غير مقبول."
+
+msgid "A model of that name already exist."
+msgstr "يوجد نموذج آخر بهذا الاسم."
+
+msgid "The derivative of the function is not defined at %s=%s"
+msgstr "مشتق الدالة غير معرف عند ‪%s=%s"
+
+msgid "Coordinate not defined"
+msgstr "الإحداثية غير معرفة"
+
+msgid "Checking for newer version..."
+msgstr "التحقق من وجود إصدار جديد ..."
+
+msgid "Abort printing?"
+msgstr "إلغاء الطباعة؟"
+
+msgid "Calculate area"
+msgstr "حساب المساحة"
+
+msgid "Calculate length of path"
+msgstr "حساب طول المسار"
+
+msgid "Edit function"
+msgstr "تحرير الدالة"
+
+msgid "Edit tangent/normal"
+msgstr "تحرير المماس/العمود"
+
+msgid "Error processing file '%s' at line %s."
+msgstr "خطأ أثناء معالجة الملف '‪%s‬' في السطر ‪%s‬ ."
+
+msgid "Edit text label"
+msgstr "تحرير النص"
+
+msgid "The model needs some constants (starting with a $) for Graph to find."
+msgstr "النموذج يحتاج لبعض الثوابت (تبدأ بـ $) من أجل إيجاد البيان."
+
+msgid "'%s' has to be an integer value between 0 and 1000."
+msgstr "يجب أن يكون '‪%s‬' عدد صحيح بين 0 و 1000."
+
+msgid "Printing error"
+msgstr "خطأ أثناء الطباعة"
+
+msgid "An unknown error occurred while printing."
+msgstr "وقع خطأ مجهول أثناء الطباعة."
+
+msgid "Error while adding points"
+msgstr "خطأ أثناء إضافة النقاط"
+
+msgid "Each point needs both an x- and a y-coordinate."
+msgstr "كل نقطة تحتاج إلى الإحداثيتين x و y."
+
+msgid "\"%s\" is not a valid number."
+msgstr "\"‭%s‬\" ليس عددا مقبولا."
+
+msgid "You didn't add any points. You need to specify some x- and y-coordinates in the grid."
+msgstr "لم تضف أية نقطة. يجب أن تكتب بعض الإحداثيات x و y في الشبكة."
+
+msgid "Edit point series"
+msgstr "تحرير السلسلة النقطية"
+
+msgid "Edit shading"
+msgstr "تحرير التظليل"
+
+msgid "You need to select a function."
+msgstr "يجب أن تحدد دالة."
+
+msgid "New version of Graph available"
+msgstr "إصدار جديد من Graph متوفر."
+
+msgid ""
+"Graph %s is now available for download from www.padowan.dk\n"
+"\n"
+"Would you like to visit the download page?"
+msgstr ""
+"غْراف Graph %s‬ متوفر للتحميل من www.padowan.dk \n"
+"\n"
+"هل ترغب في زيارة صفحة التنزيل؟"
+
+msgid "No new version"
+msgstr "لا إصدار جديد"
+
+msgid "You are already using the most recent version of Graph."
+msgstr "أنت تستخدم آخر إصدار للبرنامج."
+
+msgid ""
+"Cannot connect to server www.padowan.dk.\n"
+"Either the server is down or you do not have a connection to the Internet."
+msgstr ""
+"لا يمكن الاتصال بالملقم www.padowan.dk .\n"
+"إما الملقم معطل أو أنك لا تملك اتصالا بالأنترنيت."
+
+msgid "Socket error %s"
+msgstr "خطأ ‪%s‬ في المقبس (Socket)"
+
+msgid "Definite integral, or signed area between function and x-axis, for the given domain range."
+msgstr "التكامل المعرف أو المساحة بين الدالة و المحور-x من الأجل المجال المعين."
+
+msgid "Length of path along the curve calculated for the given range."
+msgstr "طول مسار المنحنى محسوب من الأجل المجال المعين."
+
+msgid ""
+"The file cannot be opened by this version of the program.\n"
+"You need at least Graph %s to open this file."
+msgstr ""
+"لا يمكن فتح الملف بواسطة هذا الإصدار من البرنامج.\n"
+"تحتاج على الأقل غْراف ‪Graph %s‬ لفتح هذا الملف."
+
+msgid ""
+"This file was saved by an outdated version of Graph,\n"
+"and it cannot be opened by the current version."
+msgstr ""
+"هذا الملف حفظ بإصدار قديم من غْراف Graph،\n"
+"و لا يمكن فتحه بالإصدار الحالي."
+
+msgid ""
+"\n"
+"\n"
+"If you don't want to be asked again, this feature may be disabled from the Edit|Options dialog."
+msgstr ""
+"\n"
+"\n"
+"إذا كنت لا تريد أن تسأل مرة أخرى، هذة الخاصية يمكن إيقافها من قائمة 'تحرير|خيارات'."
+
+msgid "Edit relation"
+msgstr "تحرير العلاقة"
+
+msgid "Commands"
+msgstr "الأوامر"
+
+msgid "(All Commands)"
+msgstr "(كل الأوامر)"
+
+msgid "To add a command to the toolbar simply select a category and drag the command out of this dialog box to the toolbar."
+msgstr "لإضافة أمر إلى شريط الأدوات ببساطة اختر صنفا و اسحب الأمر خارج نافذة الحوار إلى شريط الأدوات."
+
+msgid "Edit f'(x)"
+msgstr "تحرير ‪f'(x)"
+
+msgid "Edit trendline"
+msgstr "تحرير خط الإتجاه"
+
+msgid "Categories:"
+msgstr "الصنف:"
+
+msgid ""
+"The program seems to be stuck in an infinite loop.\n"
+"If you cancel the operation the program will become unstable.\n"
+"You should therefore save your data under a new name and restart the application."
+msgstr ""
+"يبدو أن البرنامج قد علق في حلقة لانهائية.\n"
+"إذا قمت بإلغاء العملية سوف يصبح البرنامج غير مستقرا.\n"
+"لذلك يجب حفظ البيانات خاصتك تحت اسم جديد وإعادة تشغيل التطبيق."
+
+msgid "Thread is not responding"
+msgstr "Thread لا يستجيب."
+
+msgid "This Tip of the day can give you a lot of information about the program that most users don't know."
+msgstr "هذه نصيحة  اليوم التي تستطيع إعطاءك معلومات كثيرة حول البرنامج ، والتي لا يعرفها أغلب المستخدمين."
+
+#, fuzzy
+msgid "You can get help using Graph, report bugs and suggest future improvements at the web forum: <a href=\"http://forum.padowan.dk\">http://forum.padowan.dk</a>"
+msgstr "يمكنك الحصول على المساعدة لاستخدام غْراف، والتقرير بالعلل واقتراح تحسينات مستقبلية في منتدى الويب: <a href=\"http://www.padowan.dk/forum\">http://www.padowan.dk/forum</a>"
+
+msgid "You can customize the toolbar by right clicking on it and select 'Customize toolbar'."
+msgstr "يمكنك تخصيص لوحة الأدوات بنقرة يمنى عليها و اختر 'تخصيص لوحة الأدوات'."
+
+msgid "Instead of deleting a function, you can make it invisible by removing the check mark for the item in the function list."
+msgstr "بدل حذف دالة ، يمكنك جعلها غير مرئية بإزلة علامة التحديد الخاصة بها في قائمة الدوال."
+
+msgid "You can paste images into a text label."
+msgstr "يمكنك لصق صور إلى نص."
+
+msgid "Text labels can contain any kind of OLE objects, for example Microsoft Equation. When editing a label right click in the editing area and select 'Insert object'."
+msgstr "النص يمكن أن يحتوي على أي نوع من كائنات OLE، مثلا Equation Microsoft. بنقرة يمنى في موضع التحرير للنص ثم 'إدراج كائن'."
+
+msgid "You can export points from a point series to a file that can be read by other programs, for example Microsoft Excel. When editing the point series select the points, right click and choose 'Export to file'."
+msgstr "يمكنك تصدير نقاط من سلسلة نقطية إلى ملف و الذي تستطيع برامج أخرى قراءته، مثلا Microsoft Excel . عند تحرير السلسلة النقطية حدد النقاط، نقرة يمنى تم اختر 'تصدير إلى ملف'."
+
+msgid "A vertical line at x=5 can be drawn as the parametric function x(t)=5, y(t)=t or as the relation x=5."
+msgstr "يمكن رسم خط عمودي عند x=5 كدالة وسيطية x(t)=5، y(t)=t أو كعلاقة x=5."
+
+msgid "You can use Zoom|Square to make the axes look equally scaled. This is especially useful when drawing circles and similar functions."
+msgstr "يمكنك استعمال 'عرض|مربع' لجعل المحاور تبدوا متقايسة. و هذا ذو أهمية عند رسم الدوائر و الدوال المشابهة."
+
+msgid "You can find a list of all available functions in the help."
+msgstr "يمكنك إيجاد قائمة بكل الداول المتوفرة في قائمة المساعدة."
+
+msgid "You can combine two functions to one using 'if'. For example the function f(x)=x for x<1 and f(x)=x^2 for x>=1 can be written as f(x)=if(x<1, x, x^2)."
+msgstr "يمكنك تركيب دالتين في واحدة بواسطة 'if'. مثلا الدالة f(x)=x من أجل x<1 و f(x)=x^2 من اجل x>=1 يمكن كتابتها ‪f(x)=if(x<1, x, x^2)‬."
+
+msgid "You can import the contents of another Graph file into the current coordinate system using 'File|Import|Graph file'."
+msgstr "يمكنك استيراد محتويات ملف غْراف Graph آخر إلى المعلم الحالي باستخدام 'ملف|استيراد|ملف غْراف Graph'."
+
+msgid "If you check 'Save as default' in the Axes dialog the current settings will be used as default when creating new coordinate systems."
+msgstr "إذا اخترت 'حفظ كإعدادات افتراضية' في نافذة الحوار للمحاور، الإعدادات الحالية ستستخدم كإعدادات افتراضية  عند إنشاء معلم إحداثيات جديد."
+
+msgid "While you hold down the Ctrl key, you can use the arrow keys to move the system."
+msgstr "بينما تبقى ضاغطا على المفتاح Ctrl، يمكنك استخدام مفاتيح الأسهم لتحريك المعلم."
+
+msgid "While you hold down the Ctrl key, you can use the + and - keys to zoom in and out."
+msgstr "بينما تبقى ضاغطا على المفتاح Ctrl، يمكنك استخدام المفتاحين + و - لتكبير و تصغير المعلم."
+
+msgid "You can use the scroll button on your mouse to zoom in and out at the position of the mouse cursor."
+msgstr "يمكنك استعمال عجلة الفأرة لتكبير و تصغير عند موضع مؤشر الفأرة."
+
+msgid "If you don't want an item shown in the legend, you can right click on the item in the function list and deselect 'Show in legend'."
+msgstr "إذا كنت لا تريد إظهار عنصر في مفتاح الرسم، نقرة يمنى على العنصر في قائمة الدوال ثم ألغ اختيار 'إظهار في مفتاح الرسم'."
+
+msgid "If you want the axes shown to the left and bottom of the image, you can choose Axes style as Boxed in the Settings tab of the Axes dialog."
+msgstr "إذا كنت تريد المحاور أن تعرض على يسار و أسفل الصورة، يمكنك اختيار نمط المحاور 'جانبية' في نافذة إعدادات المحاور."
+
+msgid "Graph can save the shown coordinate system in five different image formats: bmp, emf, png, jpg and pdf."
+msgstr "يمكن لـغْراف Graph أن يحفظ صورة للمعلم في خمسة أنواع من الصور: bmp، emf، png، jpg و pdf."
+
+msgid "You can use 'Edit|Copy image' to copy the coordinate system and paste it into another program, for example, Microsoft Word. Later you can usually edit the image in Graph by double clicking on it in the other program."
+msgstr "يمكنك استخدام 'تحرير|نسخ صورة' لنسخ صورة للمعلم و لصقها إلى برنامج آخر، مثلا Microsoft Word. في ما بعد يمكنك تحرير الصورة في غْراف بنقرة مزدوجة عليها في البرنامج الآخر."
+
+msgid "You can open a saved grf-file in a new instance of the program by double clicking on it in Explorer."
+msgstr "يمكنك فتح ملف (grf) محفوظ في نافذة جديدة للبرنامج بنقرة مزدوجة عليه في المستعرض (Explorer)."
+
+msgid "You can drag a grf-file from explorer into an open instance of Graph to open the file."
+msgstr "يمكنك أ ن تسحب ملف (grf) من المستعرض (explorer) إلى نافذة غْراف Graph لفتحه."
+
+msgid "Graph will remember the size of the main window between executions. This can be disabled from the Options dialog."
+msgstr "يحفظ غْراف حجم النافذة الرئيسية عند الإغلاق. يمكن إيقاف هذه الخاصية من نافذة الخيارات."
+
+msgid "Calc|Table can be used to create a table with evaluation values for a function."
+msgstr "يمكنك 'حساب|جدول' من إنشاء جدول بقيم الدالة على طول المجال."
+
+msgid "A part or the whole evaluation table can be exported to a file by right clicking and selecting 'Export to file'. It can afterwards be opened in other programs like Microsoft Excel."
+msgstr "يمكنك تصدير جزء أو كامل جدول التقييم إلى ملف بنقرة يمنى ثم 'تصدير إلى ملف'.و يمكن بعد ذلك فتح الملف بواسطة برامج أخرى كـ Microsoft Excel."
+
+msgid "Data from the evaluation table can be copied to another program like Microsoft Excel."
+msgstr "يمكن نسخ بيانات جدول التقييم إلى برنامج آخر كـ Microsoft Excel."
+
+msgid "The data points in a point series can be copied to and from other programs like Microsoft Excel."
+msgstr "يمكن نسخ نقاط البيانات في السلاسل النقطية من و إلى برامج أخرى كـ Microsoft Excel."
+
+msgid "Elements as functions, point series, etc. can be copied from one instance of the program to another using Edit|Copy."
+msgstr "العناصر كالدوال و السلاسل النقطية و غيرهما... يمكن نسخها من نسخة مشغلة من البرنامج إلى أخرى باستخدام 'تحرير|نسخ'."
+
+msgid "You can always undo the last thing you did using Edit|Undo."
+msgstr "يمكنك دائما التراجع عن الخطوات الأخيرة باستعمال 'تحرير|تراجع'."
+
+msgid "If you used Edit|Undo by mistake, you can use Edit|Redo to redo what you have undone."
+msgstr "إذا استخدمت 'تحرير|تراجع' عن طريق الخطأ، فيمكنك استخدام 'تحرير|إعادة' لإستعادة ما تراجعت عنه."
+
+msgid "In the Axes dialog you can add a title to the coordinate system."
+msgstr "في نافذة الحوار للمحاور يمكنك إضافة عنوان للمعلم."
+
+msgid "You can import point series from files saved by other programs, like Microsoft Excel."
+msgstr "يمكنك استيراد سلسلة نقطية من ملفات برامج أخرى، كـ Microsoft Excel."
+
+msgid "When inserting a point series, you can copy data from programs like Microsoft Excel, and paste the data into the grid in Graph."
+msgstr "عند إدراج سلسلة نقطية ، يمكنك نسخ البيانات من البرامج كـ Microsoft Excel، و لصقها إلى الشبكة في غْراف Graph."
+
+msgid "You can use 'Zoom|Fit all' to change the coordinate system so all functions and point series are visible."
+msgstr "يمكنك استخدام 'عرض|ملائمة الكل'  لتغيير المعلم بحيث تظهر كل الدوال و السلاسل النقطية."
+
+msgid "You can use Zoom|Fit to change the coordinate system to show all parts of the selected function or point series."
+msgstr "يمكنك استخدام 'عرض|ملائم'  لتغيير المعلم بحيث يعرض الدالة أو السلسلة النقطية المحددة."
+
+msgid "When you hold down the Shift key you can drag the coordinate system around with the mouse."
+msgstr "مع إبقاء المفتاح Shift مضغوطا يمكنك سحب المعلم في أي إتجاه تريد باستخدام الفأرة."
+
+msgid "You can use Calc|Evaluate to find intersections between functions, crossings with the axes and extremum points."
+msgstr "يمكنك استخدام 'حساب|تقييم' لإيجاد نقاط التقاطع بين الدوال، و مع المحاور ونقاط الذروة."
+
+msgid "When a point series is selected you can add points to it by clicking on the image while you hold down the Ctrl key."
+msgstr "عندما تكون سلسلة نقطية محددة، يمكنك إضافة نقاط إليها بالنقر على الصورة بينما تبقي المفتاح Ctrl مضغوطا."
+
+msgid "You can use a relation to plot any inequality, for example sin(x^2) < cos(y^2)"
+msgstr "يمكنك استعمال علاقة لرسم أي متراجحة، مثلا ‪sin(x^2) < cos(y^2)"
+
+msgid "You can use a relation to plot any equation, for example x*sin x = y*cos y"
+msgstr "يمكنك استعمال علاقة لرسم أي معادلة، مثلا ‪x*sin x = y*cos y"
+
+msgid "Elements (functions, shadings, labels, relations, etc.) are drawn in the same order they appear in the function list to the left."
+msgstr "العناصر (دالة، تظليل، نص، علاقة، و غيرها) ترسم بنفس الترتيب الذي تظهر به في قائمة الدوال إلى اليسار."
+
+msgid "You can move the selected element in the function list either by dragging it with the mouse or with the arrow up/down keys while ALT is held down."
+msgstr "يمكنك تغيير ترتيب العنصر المحدد في قائمة الدوال إما بسحبه بواسطة الفأرة أو بواسطة مفاتيح الأسهم أعلى/أسفل مع إبقاء المفتاح ALT مضغوطا."
+
+msgid "You can show functions and other elements behind the axes by moving the element above the axes in the function list to the left. To move shadings and tangents you will have to move the functions they are attached to."
+msgstr "يمكنك عرض دوال و عناصر أخرى خلف المحاور بتحريك العنصر فوق المحاور في قائمة الدوال على اليسار. لتحريك تظليل أو مماس يجب عليك تحريك الدالة الملحقان بها."
+
+msgid "Custom text labels may be attached to the axes by right clicking on the label and selecting a placement from the context menu."
+msgstr "يمكن وصل نص بالمحاور بنقرة يمنى عليه اختيار موضع من القائمة المنسدلة."
+
+msgid "The legend may be moved freely with the mouse or attached to one of the corners by right clicking on the legend and choose a placement from the context menu."
+msgstr "يمكن تحريك مفتاح الرسم بحرية أو إلصاقه بإحدى الزوايا بنقر يمنى عليه و اختيارموضع من القائمة المنسدلة."
+
+msgid "As an alternative to Transparent, you can choose a custom background color for labels. This is especially useful for labels drawn over shadings."
+msgstr "كبديل للشفافية، يمكنك اختيار لون مخصص لخلفية النص. خصوصا إذا كان النص واقعا فوق تظليل."
+
+msgid "In most places like point series, axes settings, function ranges, etc., you can use expressions like pi/4 instead of numbers."
+msgstr "في أغلب الحالات كالسلاسل النقطية، إعدادات المحاور، مجالات الدالة، و غيرها. يمنك اسعمال عبارات كـ pi/4 بدل الأعداد."
+
+msgid "You can create your own custom constants under Function|Custom functions for use in functions, point series, etc. For example g=9.80665, R=8.31"
+msgstr "يمكنك إنشاء ثوابت مخصصة و الخاصة بك بواسطة 'دالة|دوال مخصصة' لاستخدامها في دوال، سلاسل نقطية، و غيرها. كمثال: g=9.80665،  R=8.31"
+
+msgid "You can create your own custom functions under Function|Custom functions for use in plotting functions, relations, etc. For example sinc(x)=if(x=0, 0, sin(x)/x)"
+msgstr "يمكنك إنشاء دوال مخصصة و الخاصة بك بواسطة 'دالة|دوال مخصصة' لاستخدامها في رسم دوال ، علاقات، و غيرها. كمثال: ‪sinc(x)=if(x=0, 0, sin(x)/x)"
+
+msgid "In the Save as image dialog there is an Option button you can use to specify the image resolution. This is especially useful if you want a high resolution image."
+msgstr "عند الحفظ كصورة، هنالك زر 'خيارات' الذي يمكنك من تعيين دقة الصورة. و يعتبر هذا مهما إذا أردت الحصول على صورة ذي دقة عالية."
+
+msgid "Point series can have arrows as markers. A point series with arrows as markers and lines between the points can be used to show vectors."
+msgstr "يمكن إختيار علامات سلسلة نقطية على شكل سهم، سلسلة نقطية ذات علامات في شكل سهم مع خطوط بين النقاط يمكن استخدامها لرسم الأشعة (الموجهات)."
+
+msgid "Insert symbol"
+msgstr "إدراج رمز"
+
+msgid "Subset:"
+msgstr "المجموعة الجزئية:"
+
+msgid "Insert"
+msgstr "إدراج"
+
+msgid "Select color"
+msgstr "اختر لونا"
+
+msgid "Customize"
+msgstr "تخصيص"
+
+msgid "Description"
+msgstr "الوصف"
+
+msgid "Cannot open clipboard: %s"
+msgstr "تعذر فتح الحافظة: %s"
+
+msgid "There is no default printer currently selected."
+msgstr "لا توجد طابعة افتراضية محددة حاليا."
+
+msgid "Install for all users"
+msgstr "تثبيت لكافة المستخدمين"
+
+msgid "Examples"
+msgstr "أمثلة"
+
+msgid "Local"
+msgstr "محلي"
+
+msgid "Global"
+msgstr "شامل"
+
+#. PrintFrm..Caption
+msgid "Print"
+msgstr "طباعة"
+
+#. PrintFrm..Label6..Caption
+msgid "Scale:"
+msgstr "القياس:"
+
+#. PrintFrm..GroupBox1..Caption
+msgid "Printer"
+msgstr "الطابعة"
+
+#. PrintFrm..GroupBox1..Label7..Caption
+msgid "Type:"
+msgstr "النوع:"
+
+#. PrintFrm..GroupBox1..Label8..Caption
+msgid "Where:"
+msgstr "الموقع:"
+
+#. PrintFrm..GroupBox1..Label9..Caption
+msgid "Comment:"
+msgstr "التعليق:"
+
+#. PrintFrm..GroupBox1..ComboBox1....Hint
+msgid "Select the printer to use. The Properties button may be used to change more advanced settings for the printer."
+msgstr "اختر طابعة لاستخدامها، و يمكنك استخدام زر 'الخصائص' لتعديل الإعدادات المتقدمة للطابعة."
+
+#. PrintFrm..RadioGroup2....Hint
+msgid "Select to print in color (or grayscale if your printer is not a color printer) or convert all colors to black."
+msgstr "اختر طباعة بالألوان (أو تدرج رمادي إذا كانت الطابعة ليست طابعة ملونة) أو تحويل كل الألوان إلى الأسود."
+
+#. PrintFrm..RadioGroup2..Caption
+msgid "Print output"
+msgstr "ألوان الطباعة"
+
+#. PrintFrm..RadioGroup2....Items.Strings
+msgid "Color"
+msgstr "كل الألوان"
+
+#. PrintFrm..RadioGroup2....Items.Strings
+msgid "Black && white"
+msgstr "أبيض و أسود"
+
+#. PrintFrm..GroupBox2..Caption
+msgid "Position (millimeters)"
+msgstr "الموضع (ميليمتر)"
+
+#. PrintFrm..GroupBox2..Label3..Caption
+msgid "Left margin:"
+msgstr "الهامش الأيسر:"
+
+#. PrintFrm..GroupBox2..Label4..Caption
+msgid "Top margin:"
+msgstr "الهامش العلوي:"
+
+#. PrintFrm..GroupBox2..CheckBox1..Hint
+msgid "Center the printing area on the page."
+msgstr "توسيط مساحة الطباعة في الصفحة."
+
+#. PrintFrm..GroupBox2..CheckBox1..Caption
+msgid "Center on page"
+msgstr "توسيط في الصفحة"
+
+#. PrintFrm..GroupBox2..Edit1....Hint
+#. PrintFrm..GroupBox2..Edit2....Hint
+msgid "Specify the printing area of the page. The printer will print only within these margins."
+msgstr "قم بتعيين مساحة الطباعة من الصفحة. ستتم طباعة فقط ضمن هذه الهوامش."
+
+#. PrintFrm..GroupBox3..Label5..Caption
+msgid "Number of copies:"
+msgstr "عدد النسخ:"
+
+#. PrintFrm..GroupBox3..Edit3..Hint
+msgid "Choose number of copies to print."
+msgstr "اختر عدد النسخ لطباعتها."
+
+#. PrintFrm..Edit4..Hint
+msgid "Enter percent of original size."
+msgstr "أدخل النسبة مقارنة بالحجم الأصلي."
+
+#~ msgid "Associate *.grf files with Graph."
+#~ msgstr "جعل غْراف Graph البرنامج الافتراضي لفتح الملفات  (*.grf)."
+
+#~ msgid "Associate .grf files"
+#~ msgstr "ربط الملفات (*.grf)"
+
+#~ msgid "Integral"
+#~ msgstr "تكامل"
+
+#~ msgid "Calculate definite integral"
+#~ msgstr "حساب تكامل المعرّف"
+
+#~ msgid "Integrate"
+#~ msgstr "تكامل"
+
+#~ msgid "Area or length of path calculated for the given range using Simpson's formula."
+#~ msgstr "مساحة أو طول المسار مقدر(ة) من أجل المجال المعين باستعمال معادلة Simpson."
+
+#~ msgid "Extremum"
+#~ msgstr "ذروة"
+
+#~ msgid "Saves the coordinate system as a new name."
+#~ msgstr "حفظ المعلم و الدوال كملف جديد."
+
+#~ msgid "Saves a copy of the current coordinate system."
+#~ msgstr "حفظ نسخة من المعلم و الدوال الحالية."
+
+#~ msgid "Zoom in."
+#~ msgstr "تكبير الصورة."
+
+#~ msgid "Zoom out."
+#~ msgstr "تصغير الصورة."
+
+#~ msgid "Calculates the area under the path of the selected function."
+#~ msgstr "حساب المساحة تحت مسار الدالة المحدد."
+
+#~ msgid "About Graph..."
+#~ msgstr "حول Graph ..."
+
+#~ msgid "Zoom in on the x-axis only."
+#~ msgstr "تكبير المحور x فقط."
+
+#~ msgid "Zoom out on the x-axis only."
+#~ msgstr "تصغير المحور x فقط."
+
+#~ msgid "Zoom in on the y-axis only."
+#~ msgstr "تكبير المحور y فقط."
+
+#~ msgid "Zoom out on the y-axis only."
+#~ msgstr "تصغير المحور y فقط."
+
+#~ msgid "Custom functions..."
+#~ msgstr "دوال مخصصة ..."
+
+#~ msgid "Insert an OLE object such as a drawing or an equation."
+#~ msgstr "إدراج كائن OLE على سبيل المثال رسم أو معادلة."
+
+#~ msgid "Show the f''(x) column in the table."
+#~ msgstr "إظهار عمود ‭f''(x)‬ في الجدول."
+
+#~ msgid "Mark end of range"
+#~ msgstr "إبراز نهاية المجال"
+
+#~ msgid "Mark the start of the shading with a line."
+#~ msgstr "إبراز بداية التظليل بخط."
+
+#~ msgid "Mark start of range"
+#~ msgstr "إبراز بداية المجال"
+
+#~ msgid "Open the file %s."
+#~ msgstr "فتح الملف ‪%s‬."
+
+#~ msgid "Text [*.txt; *.csv]|*.txt;*.csv|All files [*.*]|*.*"
+#~ msgstr "Text [*.txt; *.csv]|*.txt;*.csv|All files [*.*]|*.*"
+
+#~ msgid "The server responded with the message '%s'"
+#~ msgstr "أجاب الملقم بالرسالة: '‪%s‬'"
+
+#~ msgid "Protocol reply error %s"
+#~ msgstr "الخطأ - ‪%s‬ في إجابة نظام الإتصال (Protocol)"
+
+#~ msgid "You can send suggestions for future versions, bug reports and comments to graph@padowan.dk"
+#~ msgstr "يمكنك إرسال إقترحات من أجل الإصدارات القادمة، تقارير عن الأخطاء البرمجية أو تعليقات إلى graph@padowan.dk."
+
+#~ msgid "Select to place the image on the middle of the page."
+#~ msgstr "وضع الصورة في وسط الصفحة."
+
+#~ msgid "This is the functions second derivative evaluated for the entered value."
+#~ msgstr "قيمة المشتق الثاني للدالة المقدرة من أجل قيمة x المعينة."
+
+#~ msgid "Write coordinate system and functions to a file."
+#~ msgstr "حفظ المعلم و الدوال في ملف."
+
+#~ msgid "Zoom to standard coordinates."
+#~ msgstr "الرجوع إلى الحجم النموذجي."
+
+#~ msgid "Go to home page"
+#~ msgstr "زيارة الصفحة الرئيسية"
+
+#~ msgid "All points"
+#~ msgstr "كل النقاط"
+
+#~ msgid "Zoom as much as all points are visible."
+#~ msgstr "تغيير حجم الصورة بحيث تظهر كل النقاط بشكل واضح."
+
+#~ msgid "Image information"
+#~ msgstr "معلومات الصورة"

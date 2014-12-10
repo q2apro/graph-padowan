@@ -1,0 +1,41 @@
+;This file was created by Graph (http://www.padowan.dk)
+;Do not change this file from other programs.
+[Graph]
+Version = 4.3.0.380
+MinVersion = 2.5
+OS = Windows XP 5.1 Service Pack 2
+
+[Axes]
+xMin = -10
+xMax = 10
+xTickUnit = 2
+xGridUnit = 2
+xShowLabel = 0
+xShowNumbers = 0
+yMin = -10
+yMax = 10
+yTickUnit = 2
+yGridUnit = 2
+yShowLabel = 0
+yLabel = f(x)
+yShowNumbers = 0
+AxesColor = clBlue
+GridColor = 0x00FF9999
+ShowLegend = 1
+Radian = 1
+
+[Func1]
+FuncType = 0
+y = 5sin x-1+2rand
+LegendText = Sine with noise
+Color = clRed
+DrawType = 2
+
+[Data]
+TextLabelCount = 0
+FuncCount = 1
+PointSeriesCount = 0
+ShadeCount = 0
+RelationCount = 0
+OleObjectCount = 0
+

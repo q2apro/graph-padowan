@@ -1,0 +1,63 @@
+;This file was created by Graph (http://www.padowan.dk)
+;Do not change this file from other programs.
+[Graph]
+Version = 4.4.0.390
+MinVersion = 2.5
+OS = Windows XP 5.1 Service Pack 2
+
+[Axes]
+xMin = -10
+xMax = 10
+xTickUnit = 2
+xGridUnit = 2
+yMin = -10
+yMax = 10
+yTickUnit = 5
+yGridUnit = 5
+AxesColor = clBlue
+GridColor = 0x00FF9999
+LegendFont = Times New Roman,12,clBlack
+ShowLegend = 0
+Radian = 1
+Title = Animation example
+TitleFont = Times New Roman,16,clBlack,B
+
+[Func1]
+FuncType = 0
+y = a*x^2+b*x+c
+Color = clMaroon
+Size = 2
+
+[Label1]
+Placement = 0
+Pos = 2.93913043478261;4.71153846153846
+Text = {\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang1030{\\fonttbl{\\f0\\fnil\\fcharset0 Arial;}{\\f1\\fnil Arial;}}\n\\viewkind4\\uc1\\pard\\fs24 f(x)=%(a)x\\super 2\\nosupersub +%(b)x+%(c)\\f1\\par\n}\n
+BackgroundColor = clNone
+ShowInLegend = 0
+
+[Label2]
+Placement = 6
+Pos = -9.79130434782609;-8.31632653061224
+Text = {\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang1030{\\fonttbl{\\f0\\fnil\\fprq4\\fcharset0 Times New Roman;}}\n\\viewkind4\\uc1\\pard\\f0\\fs20 Choose Calc|Animate in the menu \\par\nand select one of the constants. \\par\nWhen you click on the Animate \\par\nbutton you will see what happens \\par\nwhen the constant changes.\\par\n}\n
+BackgroundColor = clNone
+ShowInLegend = 0
+
+[Data]
+TextLabelCount = 2
+FuncCount = 1
+PointSeriesCount = 0
+ShadeCount = 0
+RelationCount = 0
+OleObjectCount = 0
+
+[CustomFunctions]
+a = 0.5
+b = 2
+c = -3
+
+[Animate]
+Constant = a
+%a = 1;10;1
+%b = -5;5;1
+%c = 5;-10;1
+

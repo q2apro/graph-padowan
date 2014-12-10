@@ -1,0 +1,4077 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Graph\n"
+"POT-Creation-Date: 2012-11-12 22:11\n"
+"PO-Revision-Date: 2012-11-07 21:22+0100\n"
+"Last-Translator: Michael Bach Ipsen <rosenthall@hotmail.com>\n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: dxgettext 1.2.1\n"
+
+#. Form1..Recent1..Hint
+msgid "Open file: %s"
+msgstr "Άνοιγμα αρχείου: %s"
+
+#. Form1..PopupMenu1..Tree_ShowInLegend..Caption
+msgid "Show in legend"
+msgstr "Να εμφανίζεται υπότιτλος"
+
+#. Form1..PopupMenu1..Tree_ShowInLegend..Hint
+msgid "Check to show the selected item in the legend."
+msgstr "Τσεκάρετε για να εμφανίζεται το επιλεγμένο στοιχείο στο υπόμνημα."
+
+#. Form1..PopupMenu1..Tree_Placement..Caption
+#. Form1..PopupMenu3..Label_Placement..Caption
+#. Form1..PopupMenu4..Legend_Placement..Caption
+#. Form21..Caption
+msgid "Placement"
+msgstr "Θέση"
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Above..Caption
+#. Form1..PopupMenu3..Label_Placement..Label_Above..Caption
+msgid "Above x-axis"
+msgstr "Επάνω από τον άξονα των χ."
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Above....Hint
+#. Form1..PopupMenu3..Label_Placement..Label_Above....Hint
+msgid "Place the label directly above the x-axis on the right side of the image."
+msgstr "Ακριβώς επάνω από τον άξονα των χ , δεξιά της εικόνας."
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Below..Caption
+#. Form1..PopupMenu3..Label_Placement..Label_Below..Caption
+msgid "Below x-axis"
+msgstr "Κάτω από τον άξονα των χ."
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Below....Hint
+#. Form1..PopupMenu3..Label_Placement..Label_Below....Hint
+msgid "Place the label directly below the x-axis on the right side of the image."
+msgstr "Ακριβώς κάτω από τον άξονα των χ , δεξιά της εικόνας."
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Left..Caption
+#. Form1..PopupMenu3..Label_Placement..Label_Left..Caption
+msgid "Left of y-axis"
+msgstr "Αριστερά του άξονα των y."
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Left....Hint
+#. Form1..PopupMenu3..Label_Placement..Label_Left....Hint
+msgid "Place the label to the left of the y-axis at the top of the image."
+msgstr "Αριστερά του άξονα των y, στην κορυφή της εικόνας."
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Right..Caption
+#. Form1..PopupMenu3..Label_Placement..Label_Right..Caption
+msgid "Right of y-axis"
+msgstr "Δεξιά του άξονα των y."
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Right....Hint
+#. Form1..PopupMenu3..Label_Placement..Label_Right....Hint
+msgid "Place the label to the right of the y-axis at the top of the image."
+msgstr "Δεξιά του άξονα των y, στην κορυφή της εικόνας."
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Placement_Custom..Caption
+#. Form1..PopupMenu1..Tree_Rotation..Tree_Rotation_Custom..Caption
+#. Form1..PopupMenu3..Label_Placement..Label_Placement_Custom..Caption
+#. Form1..PopupMenu3..Label_Rotation..Label_Rotation_Custom..Caption
+#. Form11..GroupBox2..ExtColorBox1..CustomName
+#. Form12..GroupBox2..ExtColorBox1..CustomName
+#. Form13..GroupBox1..ExtColorBox1..CustomName
+#. Form14..PageControl1..TabSheet1..GroupBox1..ExtColorBox1..CustomName
+#. Form14..PageControl1..TabSheet1..GroupBox2..ExtColorBox2..CustomName
+#. Form16..PageControl1..TabSheet2..GroupBox3..ExtColorBox1..CustomName
+#. Form3..PageControl1..TabSheet4..GroupBox3..ExtColorBox1..CustomName
+#. Form3..PageControl1..TabSheet4..GroupBox3..ExtColorBox2..CustomName
+#. Form3..PageControl1..TabSheet4..GroupBox3..ExtColorBox3..CustomName
+#. Form5..GroupBox4..GridPanelEx1..ExtColorBox1..CustomName
+#. Form6..ColorBox1..CustomName
+#. Form6..ColorBox2..CustomName
+#. Form7..GroupBox4..ExtColorBox1..CustomName
+msgid "Custom..."
+msgstr "Προσαρμοσμένα..."
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Placement_Custom..Hint
+#. Form1..PopupMenu3..Label_Placement..Label_Placement_Custom..Hint
+msgid "Place the label at a custom position."
+msgstr ""
+
+#. Form1..PopupMenu1..Tree_Rotation..Caption
+#. Form1..PopupMenu3..Label_Rotation..Caption
+#, fuzzy
+msgid "Rotation"
+msgstr " σχέση:"
+
+#. Form1..PopupMenu1..Tree_Rotation..Tree_Rotation_0..Hint
+#. Form1..PopupMenu3..Label_Rotation..Rotation_0..Hint
+#, fuzzy
+msgid "Show the label with no rotation."
+msgstr "Γραμμοσκίαση της επιφάνειας κάτω από την συνάρτηση."
+
+#. Form1..PopupMenu1..Tree_Rotation..Tree_Rotation_90..Hint
+#. Form1..PopupMenu3..Label_Rotation..Rotation_90..Hint
+msgid "Show the label rotated 90° counter clockwise."
+msgstr ""
+
+#. Form1..PopupMenu1..Tree_Rotation..Tree_Rotation_180..Hint
+#. Form1..PopupMenu3..Label_Rotation..Rotation_180..Hint
+msgid "Show the label rotated 180°."
+msgstr ""
+
+#. Form1..PopupMenu1..Tree_Rotation..Tree_Rotation_270..Hint
+#. Form1..PopupMenu3..Label_Rotation..Rotation_270..Hint
+msgid "Show the label rotated 270° counter clockwise."
+msgstr ""
+
+#. Form1..PopupMenu1..Tree_Rotation..Tree_Rotation_Custom..Hint
+#. Form1..PopupMenu3..Label_Rotation..Label_Rotation_Custom..Hint
+#, fuzzy
+msgid "Specify the angle of rotation for the label."
+msgstr "Επιλογή γραμματοσειράς τίτλου."
+
+#. Form1..PopupMenu1..Tree_Export..Caption
+#. Form14..PopupMenu1..Popup_Export..Caption
+#. Form15..PopupMenu1..Popup1_Export..Caption
+#. Form17..PopupMenu1..Popup_Export..Caption
+msgid "Export to file..."
+msgstr "Εξαγωγή σε αρχείο..."
+
+#. Form1..PopupMenu1..Tree_Export..Hint
+msgid "Export the selected point series to a file."
+msgstr "Εξαγωγή της επιλεγμένης σειράς σε αρχείο."
+
+#. Form1..ActionManager..............Caption
+msgid "Import"
+msgstr "Εισαγωγή"
+
+#. Form1..ActionManager..........Caption
+#. Form1..ActionManager..NewAction..Category
+#. Form1..ActionManager..OpenAction..Category
+#. Form1..ActionManager..SaveAction..Category
+#. Form1..ActionManager..SaveAsAction..Category
+#. Form1..ActionManager..SaveCopyAsAction..Category
+#. Form1..ActionManager..SaveAsImageAction..Category
+#. Form1..ActionManager..PrintAction..Category
+#. Form1..ActionManager..ExitAction..Category
+#. Form1..ActionManager..ImportGraphFileAction..Category
+#. Form1..ActionManager..ImportPointSeriesAction..Category
+msgid "File"
+msgstr "Αρχείο"
+
+#. Form1..ActionManager..........Caption
+#. Form1..ActionManager..UndoAction..Category
+#. Form1..ActionManager..RedoAction..Category
+#. Form1..ActionManager..CutAction..Category
+#. Form1..ActionManager..CopyAction..Category
+#. Form1..ActionManager..PasteAction..Category
+#. Form1..ActionManager..CopyImageAction..Category
+#. Form1..ActionManager..AxesAction..Category
+#. Form1..ActionManager..OptionsAction..Category
+msgid "Edit"
+msgstr "Επεξεργασία"
+
+#. Form1..ActionManager..........Caption
+#. Form1..ActionManager..InsertFunctionAction..Category
+#. Form1..ActionManager..InsertTangentAction..Category
+#. Form1..ActionManager..InsertShadeAction..Category
+#. Form1..ActionManager..InsertPointsAction..Category
+#. Form1..ActionManager..InsertTrendlineAction..Category
+#. Form1..ActionManager..EditAction..Category
+#. Form1..ActionManager..DeleteAction..Category
+#. Form1..ActionManager..InsertDifAction..Category
+#. Form1..ActionManager..InsertLabelAction..Category
+#. Form1..ActionManager..InsertRelationAction..Category
+#. Form1..ActionManager..CustomFunctionsAction..Category
+#. ParFuncFrame..ComboBox1..Text
+#. ParFuncFrame..ComboBox1....Items.Strings
+#. PolFuncFrame..ComboBox1..Text
+#. PolFuncFrame..ComboBox1....Items.Strings
+#. StdFuncFrame..ComboBox1..Text
+#. StdFuncFrame..ComboBox1....Items.Strings
+msgid "Function"
+msgstr "Συνάρτηση"
+
+#. Form1..ActionManager..........Caption
+#. Form1..ActionManager..ZoomInAction..Category
+#. Form1..ActionManager..ZoomOutAction..Category
+#. Form1..ActionManager..ZoomWindowAction..Category
+#. Form1..ActionManager..ZoomSquareAction..Category
+#. Form1..ActionManager..ZoomStandardAction..Category
+#. Form1..ActionManager..ZoomFitAction..Category
+#. Form1..ActionManager..ZoomFitAllAction..Category
+#. Form1..ActionManager..ZoomXInAction..Category
+#. Form1..ActionManager..ZoomXOutAction..Category
+#. Form1..ActionManager..ZoomYInAction..Category
+#. Form1..ActionManager..ZoomYOutAction..Category
+msgid "Zoom"
+msgstr "Μεγέθυνση"
+
+#. Form1..ActionManager..........Caption
+#. Form1..ActionManager..PathAction..Category
+#. Form1..ActionManager..AreaAction..Category
+#. Form1..ActionManager..EvalAction..Category
+#. Form1..ActionManager..TableAction..Category
+#. Form1..ActionManager..AnimateAction..Category
+#. Form15..Button2..Caption
+msgid "Calc"
+msgstr "Υπολογισμός"
+
+#. Form1..ActionManager..........Caption
+msgid "Plugins"
+msgstr ""
+
+#. Form1..ActionManager..............Caption
+msgid "Internet"
+msgstr "Internet"
+
+#. Form1..ActionManager..........Caption
+#. Form1..ActionManager..ContentsAction..Category
+#. Form1..ActionManager..ListAction..Category
+#. Form1..ActionManager..HomePageAction..Category
+#. Form1..ActionManager..UpdateAction..Category
+#. Form1..ActionManager..AboutAction..Category
+#. Form1..ActionManager..FaqAction..Category
+#. Form1..ActionManager..DonateAction..Category
+#. Form1..ActionManager..TipAction..Category
+#. Form1..ActionManager..SupportAction..Category
+#. Form1..ActionManager..ScriptDocAction..Category
+#. Form11..Button3..Caption
+#. Form12..Button3..Caption
+#. Form13..Button3..Caption
+#. Form14..Button3..Caption
+#. Form15..Button3..Caption
+#. Form16..Button3..Caption
+#. Form17..Button4..Caption
+#. Form19..Button3..Caption
+#. Form3..Button3..Caption
+#. Form4..Button3..Caption
+#. Form5..Button3..Caption
+#. Form6..Button3..Caption
+#. Form7..Button3..Caption
+msgid "Help"
+msgstr "Βοήθεια"
+
+#. Form1..ActionManager..NewAction..Caption
+msgid "New"
+msgstr "Νέο"
+
+#. Form1..ActionManager..NewAction..Hint
+#, fuzzy
+msgid "Create a new coordinate system."
+msgstr "Δημιουργία νέου συστήματος συτεταγμένων."
+
+#. Form1..ActionManager..OpenAction..Caption
+msgid "Open..."
+msgstr "Άνοιγμα..."
+
+#. Form1..ActionManager..OpenAction..Hint
+#, fuzzy
+msgid "Read a coordinate system from a file."
+msgstr "Ανάγνωση συστήματος συντ. και συναρτήσεων από αρχείο."
+
+#. Form1..ActionManager..SaveAction..Caption
+msgid "Save"
+msgstr "Αποθήκευση"
+
+#. Form1..ActionManager..SaveAction..Hint
+#, fuzzy
+msgid "Write the current coordinate system to a file."
+msgstr "Εγγραφή συστήματος συντ. και συναρτήσεων σε αρχείο."
+
+#. Form1..ActionManager..SaveAsAction..Caption
+#. Form20..PopupMenu1..Save1..Caption
+msgid "Save as..."
+msgstr "Αποθήκευση ως..."
+
+#. Form1..ActionManager..SaveAsAction..Hint
+#, fuzzy
+msgid "Write the current coordinate system to a file with a new name."
+msgstr "Αποθήκευση του συστ.συντετ. με νέο όνομα."
+
+#. Form1..ActionManager..SaveCopyAsAction..Caption
+msgid "Save copy as..."
+msgstr "Αποθήκευση αντιγράφου ως..."
+
+#. Form1..ActionManager..SaveCopyAsAction..Hint
+#, fuzzy
+msgid "Save a copy of the current coordinate system to a file."
+msgstr "Αποθήκευση αντιγράφου του παρόντος συστ.συντεταγμένων."
+
+#. Form1..ActionManager..SaveAsImageAction..Caption
+msgid "Save as image..."
+msgstr "Αποθήκευση ως εικόνα."
+
+#. Form1..ActionManager..SaveAsImageAction..Hint
+#, fuzzy
+msgid "Save the shown coordinate system as an image."
+msgstr "Αποθήκευση του παρόντος συστ.συντεταγμένων ως εικόνα."
+
+#. Form1..ActionManager..PrintAction..Caption
+msgid "Print..."
+msgstr "Εκτύπωση..."
+
+#. Form1..ActionManager..PrintAction..Hint
+msgid "Print shown coordinate system."
+msgstr "Εκτύπωση του παρόντος συστ.συντεταγμένων."
+
+#. Form1..ActionManager..ExitAction..Caption
+msgid "Exit"
+msgstr "Έξοδος"
+
+#. Form1..ActionManager..ExitAction..Hint
+msgid "Quit the program."
+msgstr "Κλείσιμο του προγράμματος."
+
+#. Form1..ActionManager..UndoAction..Caption
+#. Form6..PopupMenu1..Popup_Undo..Caption
+msgid "Undo"
+msgstr "Αναίρεση"
+
+#. Form1..ActionManager..UndoAction..Hint
+msgid "Undo the last action."
+msgstr "Αναίρεση τελευταίας ενέργειας."
+
+#. Form1..ActionManager..RedoAction..Caption
+#. Form6..PopupMenu1..Popup_Redo..Caption
+msgid "Redo"
+msgstr "Ακύρωση αναίρεσης"
+
+#. Form1..ActionManager..RedoAction..Hint
+msgid "Redo the last action undone."
+msgstr "Ακύρωση τελευταίας αναίρεσης."
+
+#. Form1..ActionManager..CutAction..Caption
+#. Form14..PopupMenu1..Popup_Cut..Caption
+#. Form17..PopupMenu1..Popup_Cut..Caption
+#. Form6..PopupMenu1..Popup_Cut..Caption
+msgid "Cut"
+msgstr "Αποκοπή"
+
+#. Form1..ActionManager..CutAction..Hint
+#, fuzzy
+msgid "Cut the selected function or point series to the clipboard."
+msgstr "Αποκοπή της επιλεγμένης συνάρτησης ή σημειοσειράς στο πρόχειρο."
+
+#. Form1..ActionManager..CopyAction..Caption
+#. Form14..PopupMenu1..Popup_Copy..Caption
+#. Form15..PopupMenu1..Popup1_Copy..Caption
+#. Form17..PopupMenu1..Popup_Copy..Caption
+#. Form6..PopupMenu1..Popup_Copy..Caption
+msgid "Copy"
+msgstr "Αντιγραφή"
+
+#. Form1..ActionManager..CopyAction..Hint
+#, fuzzy
+msgid "Copy the selected function or point series to the clipboard."
+msgstr "Αντιγραφή της επιλεγμένης συνάρτησης ή σημειοσειράς στο πρόχειρο."
+
+#. Form1..ActionManager..PasteAction..Caption
+#. Form14..PopupMenu1..Popup_Paste..Caption
+#. Form17..PopupMenu1..Popup_Paste..Caption
+#. Form6..PopupMenu1..Popup_Paste..Caption
+msgid "Paste"
+msgstr "Επικόλληση"
+
+#. Form1..ActionManager..PasteAction....Hint
+#, fuzzy
+msgid "Paste a function or point series from the clipboard into the coordinate system."
+msgstr "Επικόλληση της συνάρτησης ή της σημειοσειράς από το πρόχειρο στο σύστημα αξόνων."
+
+#. Form1..ActionManager..CopyImageAction..Caption
+msgid "Copy image"
+msgstr "Αντιγραφή εικόνας"
+
+#. Form1..ActionManager..CopyImageAction..Hint
+#, fuzzy
+msgid "Copy the shown coordinate system to the clipboard."
+msgstr "Αντιγράφει το παρόν σύστημα συντεταγμένων στο πρόχειρο."
+
+#. Form1..ActionManager..AxesAction..Caption
+msgid "Axes..."
+msgstr "Άξονες..."
+
+#. Form1..ActionManager..AxesAction..Hint
+msgid "Edit axes settings."
+msgstr "Επεξεργασία στοιχείων αξόνων."
+
+#. Form1..ActionManager..OptionsAction..Caption
+#. Form1..SaveDialogEx1..HelpCaption
+#. Form19..Button4..Caption
+msgid "Options..."
+msgstr "Προτιμήσεις..."
+
+#. Form1..ActionManager..OptionsAction..Hint
+msgid "Edit various options for the interface and program features."
+msgstr "Προσαρμόστε το πρόγραμμα στις επιλογές σας."
+
+#. Form1..ActionManager..InsertFunctionAction..Caption
+msgid "Insert function..."
+msgstr "Εισαγωγή συνάρτησης..."
+
+#. Form1..ActionManager..InsertFunctionAction..Hint
+msgid "Insert a new function."
+msgstr "Εισαγωγή νέας συνάρτησης."
+
+#. Form1..ActionManager..InsertTangentAction..Caption
+msgid "Insert tangent/normal..."
+msgstr "Εισαγωγή εφαπτομένης/κάθετης..."
+
+#. Form1..ActionManager..InsertTangentAction..Hint
+#, fuzzy
+msgid "Insert a tangent or normal for the selected function."
+msgstr "Εισαγωγή νέας εφαπτομένης στην επιλεγμένη συνάρτηση."
+
+#. Form1..ActionManager..InsertShadeAction..Caption
+#, fuzzy
+msgid "Insert shading..."
+msgstr "Εισαγωγή γραμμοσκίασης... "
+
+#. Form1..ActionManager..InsertShadeAction..Hint
+#, fuzzy
+msgid "Add shading to the selected function."
+msgstr "Εισαγωγή γραμμοσκίασης σε μία συνάρτηση."
+
+#. Form1..ActionManager..InsertPointsAction..Caption
+msgid "Insert point series..."
+msgstr "Εισαγωγή σειράς σημείων..."
+
+#. Form1..ActionManager..InsertPointsAction..Hint
+#, fuzzy
+msgid "Insert a point series."
+msgstr "Εισαγωγή σειράς σημείων"
+
+#. Form1..ActionManager..InsertTrendlineAction..Caption
+msgid "Insert trendline..."
+msgstr "Εσαγωγή γραμμής..."
+
+#. Form1..ActionManager..InsertTrendlineAction..Hint
+msgid "Insert a curve of best fit for the selected point series."
+msgstr "Εισαγωγή βέλτιστης καμπύλης για την επιλεγμένη σημειοσειρά."
+
+#. Form1..ActionManager..EditAction..Caption
+msgid "Edit..."
+msgstr "Επεξεργασία..."
+
+#. Form1..ActionManager..EditAction..Hint
+#, fuzzy
+msgid "Edit the selected element: Function, tangent, point series, etc."
+msgstr "Επεξεργασία για την επιλεγμένη συνάρτηση, εφαπτομένη ή σημειοσειρά."
+
+#. Form1..ActionManager..DeleteAction..Caption
+#. Form14..PopupMenu1..Popup_Delete..Caption
+#. Form17..PopupMenu1..Popup_Delete..Caption
+msgid "Delete"
+msgstr "Διαγραφή"
+
+#. Form1..ActionManager..DeleteAction..Hint
+msgid "Delete the selected function, tangent or point series."
+msgstr "Διαγραφή της επιλεγμένης συνάρτησης, εφαπτομένης ή σημειοσειράς."
+
+#. Form1..ActionManager..InsertDifAction..Caption
+msgid "Insert f'(x)..."
+msgstr "Εισαγωγή f'(x)..."
+
+#. Form1..ActionManager..InsertDifAction..Hint
+msgid "Insert the first derivative of the selected function."
+msgstr "Εισαγωγή πρώτης παραγώγου της επιλεγμένης συνάρτησης."
+
+#. Form1..ActionManager..ZoomInAction..Caption
+msgid "In"
+msgstr "Μεγεθ."
+
+#. Form1..ActionManager..ZoomInAction..Hint
+msgid "Zoom in. Hold down Shift to zoom with larger steps."
+msgstr ""
+
+#. Form1..ActionManager..ZoomOutAction..Caption
+msgid "Out"
+msgstr "Σμικρ."
+
+#. Form1..ActionManager..ZoomOutAction..Hint
+msgid "Zoom out. Hold down Shift to zoom with larger steps."
+msgstr ""
+
+#. Form1..ActionManager..ZoomWindowAction..Caption
+msgid "Window"
+msgstr "Παράθυρο"
+
+#. Form1..ActionManager..ZoomWindowAction..Hint
+msgid "Zoom to user selected window."
+msgstr "Μεγέθυνση του επιλεγμένου παράθυρου."
+
+#. Form1..ActionManager..ZoomSquareAction..Caption
+msgid "Square"
+msgstr "Τετραγωνισμός"
+
+#. Form1..ActionManager..ZoomSquareAction....Hint
+#, fuzzy
+msgid "Zoom to scale the axes equally. This will show a plotted circle in its correct relation instead of an ellipse."
+msgstr "Μεγέθυνση για ισοτιμία αξόνων.Δείχνει σωστό κύκλο αντί για έλλειψη."
+
+#. Form1..ActionManager..ZoomStandardAction..Caption
+msgid "Standard"
+msgstr "Κανονικά"
+
+#. Form1..ActionManager..ZoomStandardAction..Hint
+#, fuzzy
+msgid "Reset the axes to their default settings."
+msgstr "Επαναφορά εικονιδίων της γραμμής εργαλείων στα προκαθορισμένα."
+
+#. Form1..ActionManager..MoveUpAction..Category
+#. Form1..ActionManager..MoveDownAction..Category
+#. Form1..ActionManager..MoveLeftAction..Category
+#. Form1..ActionManager..MoveRightAction..Category
+#. Form1..ActionManager..MoveAction..Category
+msgid "Move"
+msgstr "Μετακίνηση"
+
+#. Form1..ActionManager..MoveUpAction..Caption
+msgid "Move up"
+msgstr "Μετακίνηση επάνω"
+
+#. Form1..ActionManager..MoveUpAction....Hint
+#, fuzzy
+msgid "Move the graphing area up along the coordinate system. Hold down Shift to move in larger steps."
+msgstr "Μετακίνηση του παράθυρου προς τα πάνω."
+
+#. Form1..ActionManager..MoveDownAction..Caption
+msgid "Move down"
+msgstr "Μετακίνηση κάτω"
+
+#. Form1..ActionManager..MoveDownAction....Hint
+#, fuzzy
+msgid "Move the graphing area down along the coordinate system. Hold down Shift to move in larger steps."
+msgstr "Μετακίνηση του παράθυρου προς τα κάτω."
+
+#. Form1..ActionManager..MoveLeftAction..Caption
+msgid "Move left"
+msgstr "Μετακίνηση αριστερά"
+
+#. Form1..ActionManager..MoveLeftAction....Hint
+#, fuzzy
+msgid "Move the graphing area to the left along the coordinate system. Hold down Shift to move in larger steps."
+msgstr "Μετακίνηση του παράθυρου προς τα αριστερά."
+
+#. Form1..ActionManager..MoveRightAction..Caption
+msgid "Move right"
+msgstr "Μετακίνηση δεξιά"
+
+#. Form1..ActionManager..MoveRightAction....Hint
+#, fuzzy
+msgid "Move the graphing area to the right along the coordinate system. Hold down Shift to move in larger steps."
+msgstr "Μετακίνηση του παράθυρου προς τα δεξιά."
+
+#. Form1..ActionManager..MoveAction..Caption
+msgid "Move system"
+msgstr "Μετακίνηση αξόνων"
+
+#. Form1..ActionManager..MoveAction..Hint
+msgid "Move the coordinate system with the mouse."
+msgstr "Μετακίνηση του συστ.συτετεταγμένων με το ποντίκι."
+
+#. Form1..ActionManager..PathAction..Caption
+#, fuzzy
+msgid "Length of path"
+msgstr "Μήκος τροχιάς..."
+
+#. Form1..ActionManager..PathAction....Hint
+#, fuzzy
+msgid "Calculate the length of path between two given points on the curve."
+msgstr "Υπολογισμός του μήκους μιάς καμπύλης μεταξύ δύο σημείων."
+
+#. Form1..ActionManager..AreaAction..Caption
+#. AreaFrame..GridPanel1..Label3..Caption
+msgid "Area"
+msgstr "Περιοχή"
+
+#. Form1..ActionManager..AreaAction..Hint
+#, fuzzy
+msgid "Calculate the definite integral over a given interval."
+msgstr "Υπολογισμος πίνακα"
+
+#. Form1..ActionManager..EvalAction..Caption
+#. Form9..Caption
+msgid "Evaluate"
+msgstr "Υπολογισμός"
+
+#. Form1..ActionManager..EvalAction..Hint
+msgid "Evaluate or trace the selected function."
+msgstr "Υπολογισμός ή ιχνηλάτηση επιλεγμένης συνάρτησης."
+
+#. Form1..ActionManager..TableAction..Caption
+#, fuzzy
+msgid "Table"
+msgstr "Πίνακας..."
+
+#. Form1..ActionManager..TableAction..Hint
+#, fuzzy
+msgid "Show an evaluation table."
+msgstr "Εμφάνιση πίνακα τιμών."
+
+#. Form1..ActionManager..ContentsAction..Caption
+msgid "Contents and index"
+msgstr "Περιεχόμενα και ευρετήριο"
+
+#. Form1..ActionManager..ContentsAction..Hint
+msgid "Open help file."
+msgstr "Εμφάνιση βοήθειας."
+
+#. Form1..ActionManager..ListAction..Caption
+msgid "List of functions"
+msgstr "Κατάλογος συναρτήσεων"
+
+#. Form1..ActionManager..ListAction..Hint
+#, fuzzy
+msgid "Show a list of built-in functions that can be used for graphing."
+msgstr "Εμφάνιση καταλόγου συναρτήσεων που παριστάνονται γραφικά."
+
+#. Form1..ActionManager..HomePageAction..Caption
+#, fuzzy
+msgid "Graph web site"
+msgstr "Ιδιόιητες γραφήματς"
+
+#. Form1..ActionManager..HomePageAction..Hint
+#, fuzzy
+msgid "Open the default browser and show the Graph web site."
+msgstr "Άνοιγμα της αρχικής σελίδας στη προκαθορισμένη διεύθυνση."
+
+#. Form1..ActionManager..UpdateAction..Caption
+msgid "Check for update"
+msgstr "Έλεγχος για ενημερωμένες εκδόσεις"
+
+#. Form1..ActionManager..UpdateAction..Hint
+msgid "Contact the home page to see if a newer version is available."
+msgstr "Μετάβαση στην κεντρική σελίδα για αναζήτηση νεότερης έκδοσης."
+
+#. Form1..ActionManager..AboutAction..Caption
+#. Form2..Caption
+msgid "About Graph"
+msgstr "Πληροφορίες για Graph"
+
+#. Form1..ActionManager..AboutAction..Hint
+msgid "Show copyright information."
+msgstr "Εμφάνιση πληροφοριών copyright."
+
+#. Form1..ActionManager..SeparatorAction..Category
+#. Form1..ActionManager..SeparatorAction..Caption
+msgid "Separator"
+msgstr "Διαχωριστικό"
+
+#. Form1..ActionManager..ZoomFitAction..Caption
+msgid "Fit"
+msgstr "Προσαρμογή"
+
+#. Form1..ActionManager..ZoomFitAction..Hint
+#, fuzzy
+msgid "Zoom to show the selected element."
+msgstr "Προσαρμογή στην επιλεγμένη συνάρτηση."
+
+#. Form1..ActionManager..ZoomFitAllAction..Caption
+#, fuzzy
+msgid "Fit all"
+msgstr "Προσαρμογή"
+
+#. Form1..ActionManager..ZoomFitAllAction..Hint
+#, fuzzy
+msgid "Zoom to show all elements."
+msgstr "Προσαρμογή στην επιλεγμένη συνάρτηση."
+
+#. Form1..ActionManager..FaqAction..Caption
+msgid "Frequently Asked Questions"
+msgstr "Συχνές ερωτήσεις"
+
+#. Form1..ActionManager..FaqAction..Hint
+#, fuzzy
+msgid "Show a list of frequently asked questions and their answers."
+msgstr "Κατάλογος συχνών ερωτήσεων και απαντήσεων."
+
+#. Form1..ActionManager..InsertLabelAction..Caption
+msgid "Insert label..."
+msgstr "Εισαγωγή ετικέτας.."
+
+#. Form1..ActionManager..InsertLabelAction..Hint
+#, fuzzy
+msgid "Insert a text label."
+msgstr "Εισαγωγή ετικέτας.."
+
+#. Form1..ActionManager..DonateAction..Caption
+msgid "Donate"
+msgstr "Δωρεές"
+
+#. Form1..ActionManager..DonateAction..Hint
+#, fuzzy
+msgid "Donate money to the project."
+msgstr "Χρηματική δωρεά για το έργο"
+
+#. Form1..ActionManager..TipAction..Caption
+#. Form10..Caption
+#. Form10..Panel1..LinkLabel1..Caption
+msgid "Tip of the day"
+msgstr "Συμβουλή της ημέρας"
+
+#. Form1..ActionManager..TipAction..Hint
+msgid "Show tip of the day"
+msgstr "Εμφάνιση συμβουλής της ημέρας"
+
+#. Form1..ActionManager..SupportAction..Caption
+msgid "Support"
+msgstr "Υποστήριξη"
+
+#. Form1..ActionManager..SupportAction..Hint
+msgid "Open browser with the support page for the program."
+msgstr "Άνοιγμα της σελίδας υποστήριξης του προγράματος."
+
+#. Form1..ActionManager..ZoomXInAction..Caption
+msgid "Zoom x-axis in"
+msgstr "Μεγέθυνση x-άξονα"
+
+#. Form1..ActionManager..ZoomXInAction....Hint
+msgid "Zoom in on the x-axis only. Hold down Shift to zoom with larger steps."
+msgstr ""
+
+#. Form1..ActionManager..ZoomXOutAction..Caption
+msgid "Zoom x-axis out"
+msgstr "Σμίκρυνση  x-άξονα."
+
+#. Form1..ActionManager..ZoomXOutAction....Hint
+msgid "Zoom out on the x-axis only. Hold down Shift to zoom with larger steps."
+msgstr ""
+
+#. Form1..ActionManager..ZoomYInAction..Caption
+msgid "Zoom y-axis in"
+msgstr "Μεγέθυνση y-άξονα"
+
+#. Form1..ActionManager..ZoomYInAction....Hint
+msgid "Zoom in on the y-axis only. Hold down Shift to zoom with larger steps."
+msgstr ""
+
+#. Form1..ActionManager..ZoomYOutAction..Caption
+msgid "Zoom y-axis out"
+msgstr "Σμίκρυνση y-άξονα."
+
+#. Form1..ActionManager..ZoomYOutAction....Hint
+msgid "Zoom out on the y-axis only. Hold down Shift to zoom with larger steps."
+msgstr ""
+
+#. Form1..ActionManager..InsertRelationAction..Caption
+msgid "Insert relation..."
+msgstr "Εισαγωγή σχέσης..."
+
+#. Form1..ActionManager..InsertRelationAction..Hint
+msgid "Insert a new equation or inequality."
+msgstr "Εισαγωγή νέας εξίσωσης ή ανίσωσης."
+
+#. Form1..ActionManager..CustomFunctionsAction..Caption
+#, fuzzy
+msgid "Custom functions/constants..."
+msgstr " Προσαρμοσμένες συναρτήσεις/σταθερές"
+
+#. Form1..ActionManager..CustomFunctionsAction..Hint
+msgid "Create custom functions and constants for use in graphs."
+msgstr "Δημιουργία προσαρμοσμένων συναρτήσεων και σταθερών για γραφική παράσταση."
+
+#. Form1..ActionManager..AnimateAction..Caption
+#, fuzzy
+msgid "Animate..."
+msgstr "Δωρεές"
+
+#. Form1..ActionManager..AnimateAction..Hint
+msgid "Create an animation by variating a constant."
+msgstr "Δημιουργείστε animation μεταβάλοντας τισ σταθερές."
+
+#. Form1..ActionManager..ImportGraphFileAction..Caption
+msgid "Graph file..."
+msgstr "Αρχείο γραφικών..."
+
+#. Form1..ActionManager..ImportGraphFileAction..Hint
+#, fuzzy
+msgid "Import a Graph file into the current coordinate system."
+msgstr "Εισαγωγή γραφήματος στο τρέχον σύστημα συντεταγμένων."
+
+#. Form1..ActionManager..ImportPointSeriesAction..Caption
+msgid "Point series..."
+msgstr "Σειρές σημείων..."
+
+#. Form1..ActionManager..ImportPointSeriesAction..Hint
+msgid "Import point series from a data file."
+msgstr "Εισαγωγή σημειοσειράς από αρχείο δεδομένων."
+
+#. Form1..ActionManager..ScriptDocAction..Caption
+msgid "Scripting engine documentation"
+msgstr ""
+
+#. Form1..ActionManager..ScriptDocAction..Hint
+msgid "Show documentation for scripting engine and plugin system."
+msgstr ""
+
+#. Form1..PopupMenu2..ToolBar_Reset..Caption
+msgid "Reset to default"
+msgstr "Επαναφορά προκαθορισμένων"
+
+#. Form1..PopupMenu2..ToolBar_Reset..Hint
+#, fuzzy
+msgid "Reset the toolbar icons to the installation default."
+msgstr "Επαναφορά εικονιδίων της γραμμής εργαλείων στα προκαθορισμένα."
+
+#. Form1..PopupMenu2..ToolBar_Customize..Caption
+msgid "Customize toolbar..."
+msgstr "Προσαρμογή γραμμής εργαλείων..."
+
+#. Form1..PopupMenu2..ToolBar_Customize..Hint
+msgid "Customize the icons shown on the toolbar."
+msgstr "Προσαρμογή εικονιδίων της γραμμής εργαλείων."
+
+#. Form1..PopupMenu3..Label_Edit..Caption
+msgid "Edit label..."
+msgstr "Επεξεργασία ετικέτας..."
+
+#. Form1..PopupMenu3..Label_Edit..Hint
+msgid "Edit the label under the cursor."
+msgstr "Επεξεργασία ετικέτας με τον δρομέα."
+
+#. Form1..PopupMenu3..Label_Delete..Caption
+msgid "Delete label"
+msgstr "Διαγραφή ετικέτας"
+
+#. Form1..PopupMenu3..Label_Delete..Hint
+msgid "Delete the label under the cursor."
+msgstr "Διαγραφή ετικέτας με τον δρομέα."
+
+#. Form1..PopupMenu4..Legend_Show..Caption
+#. Form3..PageControl1..TabSheet3..CheckBox15..Caption
+msgid "Show legend"
+msgstr "Εμφάνιση λεζάντας"
+
+#. Form1..PopupMenu4..Legend_Show..Hint
+#. Form3..PageControl1..TabSheet3..CheckBox15..Hint
+msgid "Select to show a legend in the coordinate system."
+msgstr "Εμφάνιση λεζάντας στο σύστημα συντεταγμένων "
+
+#. Form1..PopupMenu4..Legend_Font..Caption
+#, fuzzy
+msgid "Font..."
+msgstr "Γραμματοσειρά"
+
+#. Form1..PopupMenu4..Legend_Font..Hint
+#, fuzzy
+msgid "Change the font of the legend."
+msgstr "Επιλογή γραμματοσειράς τίτλου."
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_TopRight..Caption
+#. Form3..PageControl1..TabSheet3..RadioGroup3....Items.Strings
+msgid "Top Right"
+msgstr "Επάνω δεξιά"
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_TopRight..Hint
+msgid "Show the legend in the upper right corner."
+msgstr "Εμφάνιση λεζάντας στην επάνω δεξιά γωνία."
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_BottomRight..Caption
+#. Form3..PageControl1..TabSheet3..RadioGroup3....Items.Strings
+msgid "Bottom Right"
+msgstr "Κάτω δεξιά"
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_BottomRight..Hint
+msgid "Show the legend in the bottom right corner."
+msgstr "Εμφάνιση λεζάντας στην κάτω δεξιά γωνία."
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_TopLeft..Caption
+#. Form3..PageControl1..TabSheet3..RadioGroup3....Items.Strings
+msgid "Top Left"
+msgstr "Επάνω αριστερά"
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_TopLeft..Hint
+msgid "Show the legend in the upper left corner."
+msgstr "Εμφάνιση λεζάντας στην επάνω αριστερή γωνία."
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_BottomLeft..Caption
+#. Form3..PageControl1..TabSheet3..RadioGroup3....Items.Strings
+msgid "Bottom Left"
+msgstr "Κάτω αριστερά"
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_BottomLeft..Hint
+msgid "Show the legend in the bottom left corner."
+msgstr "Εμφάνιση λεζάντας στην κάτω αριστερή γωνία."
+
+#. Form10..Button1..Caption
+#. Form15..Button1..Caption
+#. Form19..Button2..Caption
+msgid "Close"
+msgstr "Κλείσιμο"
+
+#. Form10..Button2..Caption
+msgid "Next tip"
+msgstr "Επόμενη συμβουλή"
+
+#. Form10..Button3..Caption
+msgid "Previous tip"
+msgstr "Προηγούμενη συμβουλή"
+
+#. Form10..CheckBox1..Caption
+msgid "Show tips at startup"
+msgstr "Εμφάνιση συμβουλών κατά την έναρξη"
+
+#. Form10..Panel1..Label1..Caption
+msgid "Did you know..."
+msgstr "Γνωρίζατε ότι..."
+
+#. Form11..Caption
+msgid "Insert relation"
+msgstr "Εισαγωγή σχέσης"
+
+#. Form11..Label1..Caption
+msgid "Relation:"
+msgstr " σχέση:"
+
+#. Form11..Label2..Caption
+msgid "Constraints:"
+msgstr "Σταθερές:"
+
+#. Form11..Button1..Caption
+#. Form12..Button1..Caption
+#. Form13..Button1..Caption
+#. Form14..Button1..Caption
+#. Form16..Button1..Caption
+#. Form17..Button1..Caption
+#. Form18..Button1..Caption
+#. Form2..Button1..Caption
+#. Form21..TntButton1..Caption
+#. Form3..Button1..Caption
+#. Form4..Button1..Caption
+#. Form5..Button1..Caption
+#. Form6..Button1..Caption
+#. Form7..Button1..Caption
+#. Form8..Button1..Caption
+#. PrintFrm..Button1..Caption
+msgid "OK"
+msgstr "Εντάξει"
+
+#. Form11..Button2..Caption
+#. Form12..Button2..Caption
+#. Form13..Button2..Caption
+#. Form14..Button2..Caption
+#. Form15..ProgressForm1..ButtonCaption
+#. Form16..Button2..Caption
+#. Form17..Button2..Caption
+#. Form18..Button2..Caption
+#. Form19..ProgressForm1..ButtonCaption
+#. Form21..TntButton2..Caption
+#. Form3..Button2..Caption
+#. Form4..Button2..Caption
+#. Form5..Button2..Caption
+#. Form6..Button2..Caption
+#. Form7..Button2..Caption
+#. Form8..Button2..Caption
+#. PrintFrm..Button2..Caption
+msgid "Cancel"
+msgstr "Άκυρο"
+
+#. Form11..GroupBox1..Caption
+#. Form12..GroupBox1..Caption
+#. Form5..GroupBox3..Caption
+#. Form7..GroupBox3..Caption
+msgid "Legend text"
+msgstr "Κείμενο λεζάντας"
+
+#. Form11..GroupBox1..Label10..Caption
+#. Form12..GroupBox1..Label10..Caption
+#. Form14..Label3..Caption
+#. Form16..PageControl1..TabSheet2..Label12..Caption
+#. Form5..GroupBox3..Label10..Caption
+#. Form7..GroupBox3..Label10..Caption
+msgid "Description:"
+msgstr "Περιγραφή:"
+
+#. Form11..GroupBox1..Edit3....Hint
+#. Form5..GroupBox3..Edit7....Hint
+#, fuzzy
+msgid "Write a descriptive text to show in the legend and function list. If empty the formula will be used."
+msgstr "Γράψτε περιγραφικό κείμενο μεσα στη λεζάντα, διαφορετικά θα χρησιμοποιειθεί η εξίσωση."
+
+#. Form11..GroupBox2..Caption
+#. Form16..PageControl1..TabSheet2..GroupBox3..Caption
+#. PrintFrm..GroupBox1..Button3..Caption
+msgid "Properties"
+msgstr "Ιδιότητες"
+
+#. Form11..GroupBox2..Label7..Caption
+#. Form13..GroupBox1..Label7..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox1..Label1..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox2..Label5..Caption
+#. Form16..PageControl1..TabSheet2..GroupBox3..Label4..Caption
+msgid "Style:"
+msgstr "Στίλ:"
+
+#. Form11..GroupBox2..Label9..Caption
+#. Form12..GroupBox2..Label9..Caption
+#. Form13..GroupBox1..Label6..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox1..Label2..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox2..Label6..Caption
+#. Form16..PageControl1..TabSheet2..GroupBox3..Label5..Caption
+#. Form5..GroupBox4..GridPanelEx1..Label9..Caption
+#. Form7..GroupBox4..Label9..Caption
+msgid "Color:"
+msgstr "Χρώμα:"
+
+#. Form11..GroupBox2..Label3..Caption
+#. Form12..GroupBox2..Label8..Caption
+#. Form13..GroupBox1..Label5..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox2..Label7..Caption
+#. Form5..GroupBox4..GridPanelEx1..Label8..Caption
+#. Form7..GroupBox4..Label8..Caption
+msgid "Width:"
+msgstr "Πάχος"
+
+#. Form11..GroupBox2..ShadeSelect1....Hint
+#, fuzzy
+msgid "Select the style used for drawing the inequality. Not used for equations."
+msgstr "Επιλογή στιλ για τις ανισώσεις, Όχι για τις εξισώσεις."
+
+#. Form11..GroupBox2..ExtColorBox1..Hint
+#, fuzzy
+msgid "Select the color for drawing the relation."
+msgstr "Επιλέξατε χρώμα γραμμής."
+
+#. Form11..GroupBox2..Panel1..Edit4....Hint
+#, fuzzy
+msgid "Width in pixels of the equation line or the borderline of the inequality."
+msgstr "Πάχος για τις εξισώσεις σε pixels.Όχι για τις ανισώσεις."
+
+#. Form11..Edit1..Hint
+msgid "Enter the relation, for example \"x^2+y^2 = 25\" or \"y < sin(x)\""
+msgstr "Εισαγωγή σχέσης,για παράδειγμα  \"x^2+y^2 = 25\" or \"y < sin(x)\""
+
+#. Form11..Edit2....Hint
+msgid "Enter constraints for the relation, for example \"x > 0 and y < 5\""
+msgstr "Εισαγωγή σταθερών στη σχέση, για παράδειγμα  \"x > 0 and y < 5\""
+
+#. Form12..Caption
+msgid "Insert tangent/normal"
+msgstr "Εισαγωγή εφαπτομένης/κάθετης"
+
+#. Form12..Edit1..Hint
+#, fuzzy
+msgid "Value where the tangent/normal will interact with the function."
+msgstr "Τετμημένη που η εφαπτομένη/κάθετη τεμνει τη συνάρτηση."
+
+#. Form12..RadioGroup1..Hint
+msgid "Choose if you want a tangent or a normal."
+msgstr "Επιλέξτε αν θέλετε εφαπτομένη ή κάθετη."
+
+#. Form12..RadioGroup1..Caption
+msgid "Type"
+msgstr "Τύπος"
+
+#. Form12..RadioGroup1....Items.Strings
+msgid "Tangent"
+msgstr "εφαπτομένη"
+
+#. Form12..RadioGroup1....Items.Strings
+msgid "Normal"
+msgstr "κάθετη"
+
+#. Form12..GroupBox1..Edit2....Hint
+#. Form7..GroupBox3..Edit3....Hint
+#, fuzzy
+msgid "Write a descriptive text to show in the legend. If empty the equation will be used."
+msgstr "Γράψτε περιγραφικό κείμενο μεσα στη λεζάντα, διαφορετικά θα χρησιμοποιειθεί η εξίσωση."
+
+#. Form12..GroupBox2..Caption
+#. Form5..GroupBox4..Caption
+#. Form7..GroupBox4..Caption
+msgid "Graph properties"
+msgstr "Ιδιόιητες γραφήματς"
+
+#. Form12..GroupBox2..Label7..Caption
+#. Form5..GroupBox4..GridPanelEx1..Label7..Caption
+#. Form7..GroupBox4..Label7..Caption
+msgid "Line style:"
+msgstr "Στιλ γραμμής:"
+
+#. Form12..GroupBox2..Edit3..Hint
+#. Form13..GroupBox1..Edit2..Hint
+#. Form5..GroupBox4..GridPanelEx1..Panel1..Edit6..Hint
+#. Form7..GroupBox4..Edit4..Hint
+msgid "Width of graph in pixels."
+msgstr "Πάχος γραμμής σε pixels."
+
+#. Form12..GroupBox2..LineSelect1..Hint
+#. Form13..GroupBox1..LineSelect1..Hint
+#. Form5..GroupBox4..GridPanelEx1..LineSelect1..Hint
+#. Form7..GroupBox4..LineSelect1..Hint
+msgid "Choose which line style to use for drawing the graph."
+msgstr "Επιλογή στιλ γραμμής τπυ γραφήματος."
+
+#. Form12..GroupBox2..ExtColorBox1..Hint
+#. Form13..GroupBox1..ExtColorBox1..Hint
+#. Form5..GroupBox4..GridPanelEx1..ExtColorBox1..Hint
+#. Form7..GroupBox4..ExtColorBox1..Hint
+#, fuzzy
+msgid "Select the color of the graph."
+msgstr "Επιλογή τύπου  συνάρτησης."
+
+#. Form12..GroupBox3..Caption
+#. Form5..GroupBox2..Caption
+#. Form7..GroupBox2..Caption
+msgid "Argument range"
+msgstr "Περιοχή τμήματος"
+
+#. Form12..GroupBox3..Label4..Caption
+#. Form15..Label1..Caption
+#. Form16..PageControl1..TabSheet2..GroupBox1..Label6..Caption
+#. Form16..PageControl1..TabSheet3..GroupBox2..Label8..Caption
+#. Form19..TntGroupBox1..Label2..Caption
+#. Form5..GroupBox2..Label4..Caption
+#. Form7..GroupBox2..Label4..Caption
+#. AreaFrame..GridPanel1..Label1..Caption
+msgid "From:"
+msgstr "Από:"
+
+#. Form12..GroupBox3..Label5..Caption
+#. Form15..Label2..Caption
+#. Form16..PageControl1..TabSheet2..GroupBox1..Label7..Caption
+#. Form16..PageControl1..TabSheet3..GroupBox2..Label9..Caption
+#. Form19..TntGroupBox1..Label3..Caption
+#. Form5..GroupBox2..Label5..Caption
+#. Form7..GroupBox2..Label5..Caption
+#. AreaFrame..GridPanel1..Label2..Caption
+msgid "To:"
+msgstr "Μεχρι"
+
+#. Form12..GroupBox3..Edit4..Hint
+#. Form5..GroupBox2..Edit3..Hint
+#. Form7..GroupBox2..Edit1..Hint
+msgid "Start of range interval for the used variable."
+msgstr "Αρχή της περιοχής τμήματος για την χρησιμοποιούμενη μεταβλιτή."
+
+#. Form12..GroupBox3..Edit5..Hint
+#. Form5..GroupBox2..Edit4..Hint
+#. Form7..GroupBox2..Edit2..Hint
+msgid "End of range interval for the used variable."
+msgstr "Τέλος της περιοχής τμήματος για την χρησιμοποιούμενη μεταβλιτή."
+
+#. Form12..GroupBox5..Caption
+#. Form5..GroupBox5..Caption
+msgid "Endpoints"
+msgstr "Ακραία σημεία"
+
+#. Form12..GroupBox5..Label11..Caption
+#. Form5..GroupBox5..Label11..Caption
+msgid "Start:"
+msgstr "Αρχή:"
+
+#. Form12..GroupBox5..Label12..Caption
+#. Form5..GroupBox5..Label12..Caption
+msgid "End:"
+msgstr "Τέλος:"
+
+#. Form12..GroupBox5..ComboBox1....Hint
+#. Form5..GroupBox5..ComboBox2....Hint
+msgid "Select marker to show at the start of the interval. Only used if an argument range is specified."
+msgstr "Επιλογή μαρκαρίσματος της αρχής του τμήματος.Χησιμοποιείται μόνο αν έχει καθοριστεί περιοχή."
+
+#. Form12..GroupBox5..ComboBox2....Hint
+#. Form5..GroupBox5..ComboBox3....Hint
+msgid "Select marker to show at the end of the interval. Only used if an argument range is specified."
+msgstr "Επιλογή μαρκαρίσματος του τέλους του τμήματος.Χησιμοποιείται μόνο αν έχει καθοριστεί περιοχή."
+
+#. Form13..Caption
+msgid "Insert trendline"
+msgstr "Εισαγωγή καμπύλης"
+
+#. Form13..GroupBox1..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox2..Caption
+msgid "Line"
+msgstr "Γραμμή"
+
+#. Form13..PageControl1..TabSheet1..Caption
+msgid "Built-in"
+msgstr "Καθορισμένες"
+
+#. Form13..PageControl1..TabSheet1..Panel1..Image1..Hint
+msgid "Create a linear function: f(x)=ax+b"
+msgstr "Δημιουργία γραμμικής συνάρτησης: f(x)=ax+b"
+
+#. Form13..PageControl1..TabSheet1..Panel2..Image2..Hint
+msgid "Create a logarithmic function: f(x)=a*ln(x)+b"
+msgstr "Δημιουργία λογαριθμικής συνάρτησης:f(x)=a*ln(x)+b "
+
+#. Form13..PageControl1..TabSheet1..Panel3..Image3..Hint
+msgid "Create a polynomial function: f(x)=ax^3+bx^2+cx+d"
+msgstr "Δημιουργία πολυωνυμικής συνάρτησης: f(x)=ax^3+bx^2+cx+d"
+
+#. Form13..PageControl1..TabSheet1..Panel4..Image4..Hint
+msgid "Create a power function: f(x)=ax^b"
+msgstr "Δημιουργία μονωνυμικής συνάρτησης:f(x)=ax^b"
+
+#. Form13..PageControl1..TabSheet1..Panel5..Image5..Hint
+msgid "Create a exponential function: f(x)=a*b^x"
+msgstr "Δημιουργία εκθετικής συνάρτησης: f(x)=a*b^x"
+
+#. Form13..PageControl1..TabSheet1..StaticText1..Caption
+msgid "Order:"
+msgstr "Σειρά "
+
+#. Form13..PageControl1..TabSheet1..RadioButton3..Caption
+msgid "Polynomial"
+msgstr "Πολυωνυμική"
+
+#. Form13..PageControl1..TabSheet1..RadioButton2..Caption
+msgid "Logarithmic"
+msgstr "Λογαριθμική"
+
+#. Form13..PageControl1..TabSheet1..RadioButton1..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox2..ComboBox2....Items.Strings
+msgid "Linear"
+msgstr "Γραμμική"
+
+#. Form13..PageControl1..TabSheet1..RadioButton4..Caption
+msgid "Power"
+msgstr "Δύναμη"
+
+#. Form13..PageControl1..TabSheet1..RadioButton5..Caption
+msgid "Exponential"
+msgstr "Εκθετική"
+
+#. Form13..PageControl1..TabSheet1..Panel6..Image6..Hint
+msgid "Create a moving average as a series of straight lines."
+msgstr "Δημιουργία κινητού μέσου από ευθείες γραμμές."
+
+#. Form13..PageControl1..TabSheet1..RadioButton6..Caption
+msgid "Moving average"
+msgstr " Κινητός μέσος"
+
+#. Form13..PageControl1..TabSheet1..StaticText2..Caption
+msgid "Period:"
+msgstr "Περίοδος:"
+
+#. Form13..PageControl1..TabSheet1..Edit4..Hint
+msgid "Determines how many points are used for the average."
+msgstr "Καθορίζει πόσα σημεία θα χρησιμοποιειθούν για τον μέσο."
+
+#. Form13..PageControl1..TabSheet1..Edit1..Hint
+msgid "The order of the polynomium. For example 2 means a parable."
+msgstr "Η σειρά του πολυώνυμου.Για παράδειγμα. το 2 παριστάνει παραβολή."
+
+#. Form13..PageControl1..TabSheet2..Caption
+msgid "User defined"
+msgstr "Καθορισμός από τον χρήστη"
+
+#. Form13..PageControl1..TabSheet2..Label1..Caption
+msgid "Model:"
+msgstr "Πρότυπο:"
+
+#. Form13..PageControl1..TabSheet2..Button4..Caption
+#. Form8..Caption
+msgid "Add model"
+msgstr "Προσθήκη προτύπου"
+
+#. Form13..PageControl1..TabSheet2..Button5..Caption
+msgid "Remove model"
+msgstr "Διαγραφή προτύπου"
+
+#. Form13..PageControl1..TabSheet2..Button6..Caption
+msgid "Edit model"
+msgstr "Επεξεργασία προτύπου"
+
+#. Form13..PageControl1..TabSheet2..Edit3..Hint
+#, fuzzy
+msgid "Enter a function model to base the trendline on."
+msgstr "Εισαγωγή περιγραφής στην ετικέτα."
+
+#. Form13..CheckBox1....Hint
+#. Form13..Edit5....Hint
+msgid "Type a value in the Intercept box to specify the point where you want the trendline to meet the y-axis. This is only available for linear, polynomial and exponential trendlines."
+msgstr "Γράψτε τη τιμή της τεταγμένης (Άξονας y) της γραμμής. Ισχύει μόνο για γραμμικές, πολυωνυμικές και εκθετικές καμπύλες."
+
+#. Form13..CheckBox1..Caption
+#, fuzzy
+msgid "Intercept ="
+msgstr "Internet"
+
+#. Form13..TntPopupMenu1..Popup_Import..Caption
+#. Form14..PopupMenu1..Popup_Import..Caption
+#. Form17..PopupMenu1..Popup_Import..Caption
+msgid "Import from file..."
+msgstr "Εισαγωγή από αρχείο..."
+
+#. Form13..TntPopupMenu1..Popup_Import..Hint
+#, fuzzy
+msgid "Import user models from a file."
+msgstr "Εισαγωγή σημειοσειράς από αρχείο δεδομένων."
+
+#. Form13..TntPopupMenu1..Popup_Export..Caption
+#, fuzzy
+msgid "Export all to file..."
+msgstr "Εξαγωγή σε αρχείο..."
+
+#. Form13..TntPopupMenu1..Popup_Export..Hint
+#, fuzzy
+msgid "Export user models to a file."
+msgstr "Εξαγωγή επιλεγμένων δεδομένων σε αρχείο."
+
+#. Form13..SaveDialog1..Filter
+#. Form13..OpenDialog1..Filter
+msgid "User models [*.ini]|*.ini"
+msgstr ""
+
+#. Form14..Caption
+msgid "Insert point series"
+msgstr "Εισαγωγή σειράς σημείων"
+
+#. Form14..Edit1....Hint
+msgid "The name of the point series, which is shown in the list to the left of the coordinate system."
+msgstr "Το όνομα της σημειοσειράς,που εμφανίζεται σε λίστα επάνω αριστερά."
+
+#. Form14..Edit1..Text
+msgid "Series"
+msgstr "Σειρά"
+
+#. Form14..GroupBox4....Hint
+msgid "This shows a sample of the markers and the lines between the markers."
+msgstr "Δείχνει ένα δείγμα των σημείων και τη γραμμή μεταξύ τους."
+
+#. Form14..GroupBox4..Caption
+msgid "Sample"
+msgstr "Δείγμα"
+
+#. Form14..PageControl1..TabSheet1..Caption
+msgid "Markers"
+msgstr "Σημεία"
+
+#. Form14..PageControl1..TabSheet1..GroupBox1..Caption
+msgid "Marker"
+msgstr "Σημείο"
+
+#. Form14..PageControl1..TabSheet1..GroupBox1..Label4..Caption
+msgid "Size:"
+msgstr "Μέγεθος:"
+
+#. Form14..PageControl1..TabSheet1..GroupBox1..Edit2..Hint
+msgid "Choose the size of the markers."
+msgstr "Επιλέξατε το μέγεθος των σημείων."
+
+#. Form14..PageControl1..TabSheet1..GroupBox1..PointSelect1..Hint
+msgid "Choose the type of markers to be shown at each point."
+msgstr "Επιλέξατε τον τύπο του μαρκαρίσματος κάθε σημείου."
+
+#. Form14..PageControl1..TabSheet1..GroupBox1..ExtColorBox1..Hint
+msgid "Choose the color of the markers."
+msgstr "Επιλέξατε το χρώμα του μαρκαρίσματος."
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..Label11..Caption
+msgid "Interpolation:"
+msgstr "Παρεμβολή:"
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..LineSelect1....Hint
+msgid "Choose the style of lines to be drawn between the points. You may also choose not to draw any lines."
+msgstr "Επιλέξατε το στιλ γραμμής μεταξύ των σημείων. Μπορείτε να επιλέξετε και χωρίς γραμμή."
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..Edit3..Hint
+#, fuzzy
+msgid "Choose the width of the lines in pixels."
+msgstr "Επιλέξατε πάχος γραμμής"
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..ComboBox2..Hint
+msgid "Select which kind of line to draw between the markers."
+msgstr "Επιλέξατε το είδος γραμμής μεταξύ των σημείων."
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..ComboBox2....Items.Strings
+#, fuzzy
+msgid "1D cubic spline"
+msgstr "Κυβικό"
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..ComboBox2....Items.Strings
+#, fuzzy
+msgid "2D cubic spline"
+msgstr "Κυβικό"
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..ComboBox2....Items.Strings
+msgid "Half cosine"
+msgstr "Συνημιτονοειδές"
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..ExtColorBox2..Hint
+msgid "Choose the color of the lines."
+msgstr "Επιλέξατε χρώμα γραμμής."
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..Caption
+msgid "Labels"
+msgstr "Ετικέτες"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..Label8..Caption
+msgid "Position:"
+msgstr "Θέση:"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..CheckBox2..Hint
+msgid "Check to show the coordinate at each point."
+msgstr "Επιλέξατε να εμφανίζονται οι συντεταγμένες καθε σημείου."
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..CheckBox2..Caption
+msgid "Show coordinates"
+msgstr "Εμφάνιση  συντεταγμένων"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..BitBtn1..Hint
+msgid "Select the font for the coordinates."
+msgstr "Επιλέξατε γραμματοσειρά για τις συντεταγμένες."
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1..Hint
+msgid "Select where the coordinates should be shown."
+msgstr "Επιλέξατε πού να εμφανίζονται οι συντεταγμένες."
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+msgid "Above"
+msgstr "Επάνω"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+msgid "Below"
+msgstr "Κάτω"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+msgid "Left"
+msgstr "Αριστερά"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+msgid "Right"
+msgstr "Δεξιά"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+#, fuzzy
+msgid "Above Left"
+msgstr "Μετακίνηση αριστερά"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+#, fuzzy
+msgid "Above Right"
+msgstr "Μετακίνηση δεξιά"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+#, fuzzy
+msgid "Below Left"
+msgstr "Κάτω από την συνάρτηση"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+#, fuzzy
+msgid "Below Right"
+msgstr "Επάνω δεξιά"
+
+#. Form14..PageControl1..TabSheet1..RadioGroup1....Hint
+msgid "Choose between cartesian (x,y) coordinates and polar (θ,r) coordinates."
+msgstr ""
+
+#. Form14..PageControl1..TabSheet1..RadioGroup1..Caption
+#, fuzzy
+msgid "Coordinate type"
+msgstr "Συντεταγμένες δεν ορίσθηκαν."
+
+#. Form14..PageControl1..TabSheet1..RadioGroup1....Items.Strings
+msgid "Cartesian"
+msgstr ""
+
+#. Form14..PageControl1..TabSheet1..RadioGroup1....Items.Strings
+#. Form4..GridPanelEx1..RadioGroup1....Items.Strings
+msgid "Polar"
+msgstr "Πολική"
+
+#. Form14..PageControl1..TabSheet2..Caption
+msgid "Error bars"
+msgstr "Περιοχές σφάλματος"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..Caption
+#, fuzzy
+msgid "X error amount"
+msgstr "Χ περιοχές σφάλματος"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..CheckBox3..Hint
+#, fuzzy
+msgid "Show horizontal error bars."
+msgstr "Εμφάνιση οριζόντιας περιοχής σφάλματος"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..CheckBox3..Caption
+msgid "Show x-bars"
+msgstr "Εμφάνιση Χ- περιοχές σφάλματος"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..RadioButton1..Hint
+#. Form14..PageControl1..TabSheet2..GroupBox6..RadioButton4..Hint
+msgid "All error bars are the same size."
+msgstr "Όλες οι περιοχές σφάλματος με ίδιο μέγεθος."
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..RadioButton1..Caption
+#. Form14..PageControl1..TabSheet2..GroupBox6..RadioButton4..Caption
+msgid "Fixed:"
+msgstr "Σταθερή:"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..Edit4..Hint
+#. Form14..PageControl1..TabSheet2..GroupBox6..Edit6..Hint
+msgid "Enter fixed value."
+msgstr "Εισαγωγή τιμής σταθερής."
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..RadioButton2..Hint
+msgid "All error bars are the same percentage of the x-coordinate."
+msgstr "Όλες οι περιοχές σφάλματος στο ίδιο ποσοστό μετις χ-συντεταγμένες."
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..RadioButton2..Caption
+#. Form14..PageControl1..TabSheet2..GroupBox6..RadioButton5..Caption
+msgid "Relative:"
+msgstr "Σχετικό:"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..RadioButton3..Hint
+#. Form14..PageControl1..TabSheet2..GroupBox6..RadioButton6..Hint
+msgid "Each error bar is given a custom value."
+msgstr "Για κάθε περιοχή σφάλματος προσαρμοσμένη τιμή."
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..RadioButton3..Caption
+#. Form14..PageControl1..TabSheet2..GroupBox6..RadioButton6..Caption
+msgid "Custom"
+msgstr " Προσαρμοσμένη"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..Edit5..Hint
+#. Form14..PageControl1..TabSheet2..GroupBox6..Edit7..Hint
+msgid "Enter relative value in percent."
+msgstr "Εισαγωγή σχετικής τιμής σε ποσοστό."
+
+#. Form14..PageControl1..TabSheet2..GroupBox6..Caption
+#, fuzzy
+msgid "Y error amount"
+msgstr "Y- περιοχές σφάλματος"
+
+#. Form14..PageControl1..TabSheet2..GroupBox6..CheckBox4..Hint
+#, fuzzy
+msgid "Show vertical error bars."
+msgstr "Εμφάνιση κατακόρυφης περιοχής σφάλματος"
+
+#. Form14..PageControl1..TabSheet2..GroupBox6..CheckBox4..Caption
+msgid "Show y-bars"
+msgstr "Εμφάνιση Y- περιοχές σφάλματος"
+
+#. Form14..PageControl1..TabSheet2..GroupBox6..RadioButton5..Hint
+msgid "All error bars are the same percentage of the y-coordinate."
+msgstr "Όλες οι περιοχές σφάλματος στο ίδιο ποσοστό μετις y-συντεταγμένες."
+
+#. Form14..PopupMenu1..Popup_Cut..Hint
+#. Form17..PopupMenu1..Popup_Cut..Hint
+#. Form6..PopupMenu1..Popup_Cut..Hint
+#, fuzzy
+msgid "Cut the selected text to the clipboard."
+msgstr "Αποκοπή επιλεγμένου κειμένου σιό πρόχειρο"
+
+#. Form14..PopupMenu1..Popup_Copy..Hint
+#. Form17..PopupMenu1..Popup_Copy..Hint
+#. Form6..PopupMenu1..Popup_Copy..Hint
+msgid "Copy the selected text to the clipboard."
+msgstr "Αντιγραφή επιλεγμένου κειμένου σιο πρόχειρο."
+
+#. Form14..PopupMenu1..Popup_Paste....Hint
+#. Form17..PopupMenu1..Popup_Paste....Hint
+msgid "Paste text from the clipboard into the grid. Other cells may be overwritten by the text from the clipboard."
+msgstr "Επικόλληση κειμένου από το πρόχειρο στο πλέγμα.Άλλα κελιά μπορεί να επανεγγραφούν με το κείμενο απο το πρόχειρο."
+
+#. Form14..PopupMenu1..Popup_Delete..Hint
+#. Form17..PopupMenu1..Popup_Delete..Hint
+msgid "Erase selected cells."
+msgstr "Διαγραφή επιλεγμένων κελιών."
+
+#. Form14..PopupMenu1..Popup_Insert..Caption
+#. Form17..PopupMenu1..Popup_Insert..Caption
+msgid "Insert row"
+msgstr "Εισαγωγή γραμμής"
+
+#. Form14..PopupMenu1..Popup_Insert..Hint
+#. Form17..PopupMenu1..Popup_Insert..Hint
+#, fuzzy
+msgid "Inserts a row in the grid moving rows below one down."
+msgstr "Εισαγωγή μιας γραμμής στο πλέγμα μετακινόντας τις γραμμές προς τα κάτω.."
+
+#. Form14..PopupMenu1..Popup_Remove..Caption
+#. Form17..PopupMenu1..Popup_Remove..Caption
+msgid "Remove row"
+msgstr "Διαγραφή γραμμης"
+
+#. Form14..PopupMenu1..Popup_Remove..Hint
+#. Form17..PopupMenu1..Popup_Remove..Hint
+msgid "Removes the selected rows."
+msgstr "Διαγραφή επιλεγμένων γραμμών."
+
+#. Form14..PopupMenu1..Popup_Select..Caption
+#. Form15..PopupMenu1..Popup1_Select..Caption
+#. Form17..PopupMenu1..Popup_Select..Caption
+msgid "Select all"
+msgstr "Επιλογή όλων"
+
+#. Form14..PopupMenu1..Popup_Select..Hint
+#. Form15..PopupMenu1..Popup1_Select..Hint
+#. Form17..PopupMenu1..Popup_Select..Hint
+msgid "Select all cells."
+msgstr "Επιλογή όλων των κελιων."
+
+#. Form14..PopupMenu1..Popup_Import..Hint
+#. Form17..PopupMenu1..Popup_Import..Hint
+msgid "Import data from a file and place it at the selected cell."
+msgstr "Εισαγωγή δεδομένων από αρχείο και τοποθέτηση σε επιλεγμένα κελιά."
+
+#. Form14..PopupMenu1..Popup_Export..Hint
+#. Form17..PopupMenu1..Popup_Export..Hint
+msgid "Export selected data to a file."
+msgstr "Εξαγωγή επιλεγμένων δεδομένων σε αρχείο."
+
+#. Form15..Caption
+msgid "Calculate table"
+msgstr "Υπολογισμος πίνακα"
+
+#. Form15..Edit3....Hint
+#, fuzzy
+msgid "The step value. This is the difference between two adjoining values in the defined interval."
+msgstr "Η τιμή του βήματος.Είναι η απόσταση μεταξύ των τιμών του χ στο επιλεγμένο διάστημα."
+
+#. Form15..Edit1..Hint
+msgid "The first x-value in the interval."
+msgstr "Η πρώτη τιμή του χ στο επιλεγμένο διάστημα."
+
+#. Form15..Edit2..Hint
+msgid "The last x-value in the interval."
+msgstr "Η τελευταία τιμή του χ στο επιλεγμένο διάστημα."
+
+#. Form15..PopupMenu1..Popup1_Show1..Caption
+#. Form15..PopupMenu1..Popup1_Show2..Caption
+#. Form15..PopupMenu1..Popup1_Show3..Caption
+#. Form15..PopupMenu1..Popup1_Show4..Caption
+#. Form15..PopupMenu1..Popup1_Show5..Caption
+#, fuzzy
+msgid "Show %s"
+msgstr "Εμφάνιση υποδιαιρέσεων"
+
+#. Form15..PopupMenu1..Popup1_Show1..Hint
+#. Form15..PopupMenu1..Popup1_Show2..Hint
+#. Form15..PopupMenu1..Popup1_Show3..Hint
+#. Form15..PopupMenu1..Popup1_Show4..Hint
+#. Form15..PopupMenu1..Popup1_Show5..Hint
+#, fuzzy
+msgid "Show the %s column in the table."
+msgstr "Εμφάνιση λεζάντας στην κάτω αριστερή γωνία."
+
+#. Form15..PopupMenu1..Popup1_Copy..Hint
+msgid "Copy selected cells to the clipboard."
+msgstr "Αντιγραφή επιλεγμένων κελιών στο πρόχειρο."
+
+#. Form15..PopupMenu1..Popup1_Export..Hint
+msgid "Saves the selected data to a file."
+msgstr "Αποθήκευση επιλεγμένων δεδομένων σε αρχείο."
+
+#. Form15..ProgressForm1..Caption
+msgid "Calculating"
+msgstr "Υπολογισμοί"
+
+#. Form15..SaveDialog1..Filter
+msgid "CSV (Comma delimited) [*.csv]|*.csv|Text [*.txt]|*.txt"
+msgstr "CSV (Διαχωριστικό το κόμμα) [*.csv]|*.csv|Text [*.txt]|*.txt"
+
+#. Form16..Caption
+#, fuzzy
+msgid "Insert shading"
+msgstr "Εισαγωγή γραμμοσκίασης"
+
+#. Form16..PageControl1..TabSheet1..Caption
+msgid "Shading"
+msgstr "Γραμμοσκίαση"
+
+#. Form16..PageControl1..TabSheet1..Panel1..Image1..Hint
+#. Form16..PageControl1..TabSheet1..RadioButton1..Hint
+msgid "Shades the area between the function and the x-axis."
+msgstr "Γραμμοσκίαση της επιφάνειας μεταξύ της συνάρτησης και του άξονα των χ."
+
+#. Form16..PageControl1..TabSheet1..Panel2..Image2..Hint
+#. Form16..PageControl1..TabSheet1..RadioButton2..Hint
+msgid "Shades the area below the function."
+msgstr "Γραμμοσκίαση της επιφάνειας κάτω από την συνάρτηση."
+
+#. Form16..PageControl1..TabSheet1..Panel3..Image3..Hint
+#. Form16..PageControl1..TabSheet1..RadioButton3..Hint
+msgid "Shades the area above the function."
+msgstr "Γραμμοσκίαση της επιφάνειας πάνω από την συνάρτηση."
+
+#. Form16..PageControl1..TabSheet1..Panel4..Image4..Hint
+#. Form16..PageControl1..TabSheet1..RadioButton4..Hint
+msgid "Shades the area between the function and the y-axis."
+msgstr "Γραμμοσκίαση της επιφάνειας μεταξύ της συνάρτησης και του άξονα των y."
+
+#. Form16..PageControl1..TabSheet1..Panel5..Image5..Hint
+#. Form16..PageControl1..TabSheet1..RadioButton5..Hint
+msgid "Shades the area inside the function."
+msgstr "Γραμμοσκίαση της επιφάνειας μέσα στη συνάρτηση."
+
+#. Form16..PageControl1..TabSheet1..Panel6..Image6....Hint
+#. Form16..PageControl1..TabSheet1..RadioButton6....Hint
+msgid "Shades the area between the main function and the function selected in the list to the right."
+msgstr "Γραμμοσκίαση της επιφάνειας μεταξύ της κύριας συνάρτησης και της επιλεγμένης από τη λίστα δεξιά."
+
+#. Form16..PageControl1..TabSheet1..RadioButton3..Caption
+msgid "Above function"
+msgstr "Επάνω από την συνάρτηση"
+
+#. Form16..PageControl1..TabSheet1..RadioButton1..Caption
+msgid "Between function and x-axis"
+msgstr "Μεταξύ της συνάρτησης και του άξονα των χ"
+
+#. Form16..PageControl1..TabSheet1..RadioButton6..Caption
+msgid "Between functions"
+msgstr "Μεταξύ συναρτήσεων"
+
+#. Form16..PageControl1..TabSheet1..RadioButton4..Caption
+msgid "Between function and y-axis"
+msgstr "Μεταξύ της συνάρτησης και του άξονα των y."
+
+#. Form16..PageControl1..TabSheet1..RadioButton5..Caption
+msgid "Inside function"
+msgstr " Μέσα στη συνάρτηση"
+
+#. Form16..PageControl1..TabSheet1..RadioButton2..Caption
+msgid "Below function"
+msgstr "Κάτω από την συνάρτηση"
+
+#. Form16..PageControl1..TabSheet2..Caption
+#. Form20..Panel2..ToolBar1..ToolButton6..Hint
+#. Form4..Caption
+msgid "Options"
+msgstr "Επιλογές"
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..Caption
+#. Form19..TntGroupBox1..Caption
+msgid "Range"
+msgstr "Περιοχή"
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..Edit1..Hint
+#. Form16..PageControl1..TabSheet3..GroupBox2..Edit3..Hint
+msgid "Coordinate where the shading starts."
+msgstr "Συντεταγμένες αρχής γραμμοσκιάσεως."
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..Edit2..Hint
+#. Form16..PageControl1..TabSheet3..GroupBox2..Edit4..Hint
+msgid "Coordinate where the shading ends."
+msgstr "Συντεταγμένες τέλους γραμμοσκιάσεως."
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..CheckBox2..Hint
+#. Form16..PageControl1..TabSheet3..GroupBox2..CheckBox4..Hint
+msgid "Check to increase the end coordinate until intersection."
+msgstr "Τσεκάρετε για να αυξηθεί το τέλος μεχρι το σημείο τομής."
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..CheckBox2..Caption
+#. Form16..PageControl1..TabSheet3..GroupBox2..CheckBox4..Caption
+msgid "Increase to intersection"
+msgstr "Αύξηση μεχρι το σημείο τομής"
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..CheckBox1..Hint
+#. Form16..PageControl1..TabSheet3..GroupBox2..CheckBox3..Hint
+#, fuzzy
+msgid "Check to decrease the start coordinate until intersection."
+msgstr "Τσεκάρετε για να ελαττωθεί η αρχή των συντεταγμένων μεχρι το σημείο τομής."
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..CheckBox1..Caption
+#. Form16..PageControl1..TabSheet3..GroupBox2..CheckBox3..Caption
+msgid "Decrease to intersection"
+msgstr "Μείωση μεχρι το σημείο τομής"
+
+#. Form16..PageControl1..TabSheet2..GroupBox3..ShadeSelect1..Hint
+msgid "Select the style used for the shading."
+msgstr "Επιλογή στιλ γραμμοσκιάσεως."
+
+#. Form16..PageControl1..TabSheet2..GroupBox3..ExtColorBox1..Hint
+msgid "Select color used for shading."
+msgstr "Επιλογή χρώματος γραμμοσκιάσεως."
+
+#. Form16..PageControl1..TabSheet2..GroupBox3..CheckBox5..Hint
+#, fuzzy
+msgid "Mark the border around the shading."
+msgstr "Σημειώστε το τέλος της γραμμοσκιάσεως με μια γραμμή."
+
+#. Form16..PageControl1..TabSheet2..GroupBox3..CheckBox5..Caption
+#, fuzzy
+msgid "Mark border"
+msgstr "Σημείο"
+
+#. Form16..PageControl1..TabSheet2..Edit5..Hint
+msgid "Enter a description to show in the legend."
+msgstr "Εισαγωγή περιγραφής στην ετικέτα."
+
+#. Form16..PageControl1..TabSheet3..Caption
+msgid "2nd function"
+msgstr "Δεύτερη συνάρτηση"
+
+#. Form16..PageControl1..TabSheet3..Label11..Caption
+msgid "2nd function:"
+msgstr "Δεύτερη συνάρτηση:"
+
+#. Form16..PageControl1..TabSheet3..ListBox1....Hint
+#, fuzzy
+msgid "Select the second function when you want a shading between two functions."
+msgstr "Επιλογή δεύτερης συνάρτησης,όταν θέλετε γραμμοσκίαση μεταξύ δύο συναρτήσεων. "
+
+#. Form16..PageControl1..TabSheet3..GroupBox2..Caption
+msgid "Shading range for 2nd function"
+msgstr "Περιοχή γραμμοσκιάσεως για τη δεύτερη συνάρτηση"
+
+#. Form17..Caption
+msgid "Custom functions/constants"
+msgstr " Προσαρμοσμένες συναρτήσεις/σταθερές"
+
+#. Form17..Button3..Caption
+msgid "Apply"
+msgstr "Εφαρμογή"
+
+#. Form17..Grid1....TitleCaptions.Strings
+msgid "Names"
+msgstr "Ονόματα"
+
+#. Form17..Grid1....TitleCaptions.Strings
+msgid "Definition"
+msgstr "Ορισμός"
+
+#. Form18..Caption
+msgid "Image options"
+msgstr "Επιλογές εικόνας"
+
+#. Form18..PageControl1..TabSheet1..Caption
+msgid "Size"
+msgstr "Μέγεθος"
+
+#. Form18..PageControl1..TabSheet1..Label1..Caption
+msgid "Image width:"
+msgstr "Πλάτος εικόνας:"
+
+#. Form18..PageControl1..TabSheet1..Label2..Caption
+msgid "Image height:"
+msgstr "Ύψος εικόνας:"
+
+#. Form18..PageControl1..TabSheet1..Edit1..Hint
+#, fuzzy
+msgid "Set a custom image width in pixels."
+msgstr "Βάλτε προσαρμοσμένο πλάτος εικόνας."
+
+#. Form18..PageControl1..TabSheet1..Edit2..Hint
+#, fuzzy
+msgid "Set a custom image height in pixels."
+msgstr "Βάλτε προσαρμοσμένο ύψος εικόνας."
+
+#. Form18..PageControl1..TabSheet1..RadioGroup3....Hint
+msgid "Choose to use the same size as shown on the screen or a custom image size."
+msgstr "Επιλέξτε το μέγεθος που φαίνεται στην οθόνη ή προσαρμοσμένο."
+
+#. Form18..PageControl1..TabSheet1..RadioGroup3..Caption
+#, fuzzy
+msgid "Image size"
+msgstr "Πλάτος εικόνας:"
+
+#. Form18..PageControl1..TabSheet1..RadioGroup3....Items.Strings
+#, fuzzy
+msgid "Screen size"
+msgstr "Μέγεθος κειμένου"
+
+#. Form18..PageControl1..TabSheet1..RadioGroup3....Items.Strings
+#, fuzzy
+msgid "Custom size"
+msgstr "Προσαρμογή"
+
+#. Form18..PageControl1..TabSheet2..RadioGroup1....Hint
+msgid "Progressive encoding allows viewers to see a rough copy of the image while it is downloaded."
+msgstr "Η προοδευτική κωδικοποίηση δείχνει χονδρικό αντίγραφο της εικόνας καθώς κατεβαίνει."
+
+#. Form18..PageControl1..TabSheet2..RadioGroup1..Caption
+msgid "Encoding"
+msgstr "Κωδικοποίηση"
+
+#. Form18..PageControl1..TabSheet2..RadioGroup1....Items.Strings
+#, fuzzy
+msgid "Sequential"
+msgstr "Επιλογή όλων"
+
+#. Form18..PageControl1..TabSheet2..RadioGroup1....Items.Strings
+msgid "Progressive"
+msgstr "Προοδευτικά"
+
+#. Form18..PageControl1..TabSheet2..GroupBox1..Hint
+msgid "Select a compression quality."
+msgstr "Επιλέξτε συμπιεσμένη πιότητα."
+
+#. Form18..PageControl1..TabSheet2..GroupBox1..Caption
+msgid "Quality"
+msgstr "Ποιότητα"
+
+#. Form18..PageControl1..TabSheet3..Label3..Caption
+#, fuzzy
+msgid "Paper size:"
+msgstr "Μέγεθος κειμένου"
+
+#. Form18..PageControl1..TabSheet3..RadioGroup2..Hint
+#. PrintFrm..RadioGroup1..Hint
+msgid "Choose paper orientation."
+msgstr "Επιλέξτε το προσανατολισμό του χαρτιού."
+
+#. Form18..PageControl1..TabSheet3..RadioGroup2..Caption
+#. PrintFrm..RadioGroup1..Caption
+msgid "Orientation"
+msgstr "Προσανατολισμός"
+
+#. Form18..PageControl1..TabSheet3..RadioGroup2....Items.Strings
+#. PrintFrm..RadioGroup1....Items.Strings
+msgid "Portrait"
+msgstr "Κατακόρυφος"
+
+#. Form18..PageControl1..TabSheet3..RadioGroup2....Items.Strings
+#. PrintFrm..RadioGroup1....Items.Strings
+msgid "Landscape"
+msgstr "Οριζόντιος"
+
+#. Form18..PageControl1..TabSheet3..ComboBox1..Hint
+#, fuzzy
+msgid "Choose paper size to use."
+msgstr "Επιλέξατε πάχος γραμμής"
+
+#. Form18..PageControl1..TabSheet3..ComboBox1....Items.Strings
+#, fuzzy
+msgid "Letter"
+msgstr "Αριστερά"
+
+#. Form18..PageControl1..TabSheet3..ComboBox1....Items.Strings
+msgid "Ledger"
+msgstr ""
+
+#. Form18..PageControl1..TabSheet3..ComboBox1....Items.Strings
+#, fuzzy
+msgid "Legal"
+msgstr "Πετρόλ"
+
+#. Form18..CheckBox1..Hint
+#. Form3..CheckBox16..Hint
+#, fuzzy
+msgid "Select this to use these settings as defaults in the future."
+msgstr "Τσεκάρετε για να χρησιμοποιείτε αυτές τις ρυθμίσεις αξόνων σαν προκαθορισμένες στο μέλλον."
+
+#. Form18..CheckBox1..Caption
+#. Form3..CheckBox16..Caption
+msgid "Save as default"
+msgstr "Αποθήκευση σαν προκαθορισμένο"
+
+#. Form19..Caption
+#. Form19..Button1..Caption
+#, fuzzy
+msgid "Animate"
+msgstr "Δωρεές"
+
+#. Form19..Label1..Caption
+#, fuzzy
+msgid "Constant:"
+msgstr "Σταθερές:"
+
+#. Form19..ComboBox1..Hint
+msgid "Choose a constant to change between each frame."
+msgstr "Επιλέξτε σταθερά για για εναλαγή των πλαισίων."
+
+#. Form19..TntGroupBox1..Label4..Caption
+#, fuzzy
+msgid "Step:"
+msgstr "Βήματα:"
+
+#. Form19..TntGroupBox1..Edit1..Hint
+#, fuzzy
+msgid "The first value of the constant."
+msgstr "Η πρώτη τιμή του χ στο επιλεγμένο διάστημα."
+
+#. Form19..TntGroupBox1..Edit2..Hint
+#, fuzzy
+msgid "The last value of the constant."
+msgstr "Η τελευταία τιμή του χ στο επιλεγμένο διάστημα."
+
+#. Form19..TntGroupBox1..Edit3..Hint
+msgid "The chosen constant is changed by this value between each frame."
+msgstr "Η επιλεγμένη σταθερά άλλαξε σε αυτή τη τιμή."
+
+#. Form19..TntGroupBox2..Caption
+#, fuzzy
+msgid "Frame options"
+msgstr "Επιλογές εικόνας"
+
+#. Form19..TntGroupBox2..Label5..Caption
+#, fuzzy
+msgid "Frame width:"
+msgstr "Πλάτος εικόνας:"
+
+#. Form19..TntGroupBox2..Label6..Caption
+#, fuzzy
+msgid "Frame height:"
+msgstr "Ύψος εικόνας:"
+
+#. Form19..TntGroupBox2..Label7..Caption
+msgid "Frames/second:"
+msgstr "Πλαίσια/δευτερόλεπτο:"
+
+#. Form19..TntGroupBox2..Edit4..Hint
+#, fuzzy
+msgid "Width of each frame, in pixels."
+msgstr "Πάχος γραμμής σε pixels."
+
+#. Form19..TntGroupBox2..Edit5..Hint
+#, fuzzy
+msgid "Height of each frame, in pixels."
+msgstr "Πάχος γραμμής σε pixels."
+
+#. Form19..TntGroupBox2..Edit6..Hint
+msgid "Number of frames per second used when the animation is played."
+msgstr "Πλαίσια ανα δευτερόλεπτο χρησιμοποιείται στο  animation."
+
+#. Form19..ProgressForm1..Caption
+msgid "Working"
+msgstr "Λειτουργεί"
+
+#. Form2..Panel1..Version..Caption
+msgid "Version %s"
+msgstr "Έκδοση %s"
+
+#. Form2..Panel1..Label3..Caption
+msgid "Build %s"
+msgstr "Build %s"
+
+#. Form2..Panel1..Comments....Caption
+#, fuzzy
+msgid "This is free software, and you are welcome to redistribute it under the terms in the <a href=\"%s\">GNU General Public License</a> version 2. Please send bug reports and suggestions to the programmer."
+msgstr "Ελεύθερο λογισμικό,και είναι ευπρόσδεκτη η αναδιανομή του υπό τους όρους της GNU General Public License. Παρακαλώ αναφέρατε αστοχίες και υποδείξεις στον προγραμματιστή."
+
+#. Form2..Panel1..LinkLabel1....Caption
+#, fuzzy
+msgid "The newest version as well as the source code are available at: %s"
+msgstr "Η τελευταία έκδοση καθώς και ο πηγαίος κώδικας διατίθεται από:"
+
+#. Form2..Panel1..LinkLabel2..Caption
+#, fuzzy
+msgid "Email: %s"
+msgstr "Email:"
+
+#. Form2..Panel1..LinkLabel3..Caption
+msgid "<Language> translation by <Translator>"
+msgstr "<Γλώσσα> μετάφραση από <Μεταφραστής>"
+
+#. Form20..Caption
+#, fuzzy
+msgid "Animation"
+msgstr "Δωρεές"
+
+#. Form20..Panel2..ToolBar1..ToolButton1..Hint
+#, fuzzy
+msgid "Play"
+msgstr "Πολική"
+
+#. Form20..Panel2..ToolBar1..ToolButton2..Hint
+#, fuzzy
+msgid "Pause"
+msgstr "Επικόλληση"
+
+#. Form20..Panel2..ToolBar1..ToolButton3..Hint
+#, fuzzy
+msgid "Stop"
+msgstr "Βήματα:"
+
+#. Form20..Panel2..ToolBar1..ToolButton4..Hint
+#, fuzzy
+msgid "Back"
+msgstr "Μαύρο"
+
+#. Form20..Panel2..ToolBar1..ToolButton5..Hint
+#, fuzzy
+msgid "Step"
+msgstr "Βήματα:"
+
+#. Form20..SaveDialog1..Filter
+msgid "Audio Video Interleave [*.avi]|*.avi"
+msgstr ""
+
+#. Form20..PopupMenu1..Speed1..Caption
+msgid "Speed"
+msgstr "Ταχύτητα"
+
+#. Form20..PopupMenu1..Speed1..N101..Hint
+#. Form20..PopupMenu1..Speed1..N501..Hint
+#. Form20..PopupMenu1..Speed1..N1001..Hint
+#. Form20..PopupMenu1..Speed1..N1501..Hint
+#. Form20..PopupMenu1..Speed1..N2001..Hint
+#. Form20..PopupMenu1..Speed1..N10001..Hint
+msgid "Change the speed used to play the animation."
+msgstr "Αλλαγή ταχύτητας του animation."
+
+#. Form20..PopupMenu1..Repeat1..Caption
+#, fuzzy
+msgid "Repeat"
+msgstr "Πραγματικοί"
+
+#. Form20..PopupMenu1..Repeat1..Hint
+msgid "Repeat playing the animation until manually stopped."
+msgstr "Επανάληψη του animation μέχρι να το σταματήσετε χειροκίνητα."
+
+#. Form20..PopupMenu1..Reverse1..Caption
+msgid "Auto reverse"
+msgstr "Αυτόματη αναστροφή."
+
+#. Form20..PopupMenu1..Reverse1....Hint
+msgid "Play backwards when the end of the animation is reached. This is most useful in combination with the \"Repeat\" command."
+msgstr "Ανάστροφο παίξιμο μέχρι το τέλος. Είναι η πιο χρήσιμη εφαρμογή τηε εντολής  ''Επανάληψη''"
+
+#. Form20..PopupMenu1..Save1..Hint
+#, fuzzy
+msgid "Save the animation to a file."
+msgstr "Αποθήκευση επιλεγμένων δεδομένων σε αρχείο."
+
+#. Form20..PopupMenu1..Saveimageas1..Caption
+#, fuzzy
+msgid "Save frame..."
+msgstr "Αποθήκευση ως..."
+
+#. Form20..PopupMenu1..Saveimageas1..Hint
+#, fuzzy
+msgid "Save the shown frame to an image file."
+msgstr "Αποθήκευση του παρόντος συστ.συντεταγμένων ως εικόνα."
+
+#. Form20..PopupMenu1..Saveimagesequence1..Caption
+#, fuzzy
+msgid "Save all frames..."
+msgstr "Αποθήκευση ως..."
+
+#. Form20..PopupMenu1..Saveimagesequence1....Hint
+msgid "Save all frames in the animation to image files. This will create as many files as there are frames in the animation."
+msgstr ""
+
+#. Form21..Label1..Caption
+#, fuzzy
+msgid "Corner:"
+msgstr "Χρώμα:"
+
+#. Form21..ComboBox1..Hint
+#, fuzzy
+msgid "Choose which corner of the label should be locked."
+msgstr "Επιλογή θέσης ετικέτας."
+
+#. Form21..ComboBox1....Items.Strings
+#, fuzzy
+msgid "Upper Left"
+msgstr "Επάνω αριστερά"
+
+#. Form21..ComboBox1....Items.Strings
+#, fuzzy
+msgid "Upper Right"
+msgstr "Επάνω δεξιά"
+
+#. Form21..ComboBox1....Items.Strings
+#, fuzzy
+msgid "Lower Left"
+msgstr "Επάνω αριστερά"
+
+#. Form21..ComboBox1....Items.Strings
+#, fuzzy
+msgid "Lower Right"
+msgstr "Επάνω δεξιά"
+
+#. Form21..Edit1..Hint
+#. Form21..Edit2..Hint
+#, fuzzy
+msgid "Enter a coordinate to lock label at."
+msgstr "Εισάγετε τιμή του χ, ή κάνετε click στην εφαπτομένη στο κύριο παράθυρο. "
+
+#. Form22..Caption
+msgid "Python interpreter"
+msgstr ""
+
+#. Form22..PopupMenu1..Clear1..Caption
+#, fuzzy
+msgid "Clear"
+msgstr "Κρεμ"
+
+#. Form3..Caption
+msgid "Edit axes"
+msgstr "Επεξεργασία αξόνων"
+
+#. Form3..PageControl1..TabSheet1..Caption
+#. ParFuncFrame..ComboBox1....Items.Strings
+#. PolFuncFrame..ComboBox1....Items.Strings
+#. StdFuncFrame..ComboBox1....Items.Strings
+msgid "x-axis"
+msgstr "Άξονας των  χ"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Label1..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..Label5..Caption
+msgid "Minimum:"
+msgstr "Ελάχιστο:"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Edit1..Hint
+msgid "Minimum x-value."
+msgstr "Ελάχιστη χ-τιμή."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Label2..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..Label6..Caption
+msgid "Maximum:"
+msgstr "Μέγιστο:"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Edit2..Hint
+msgid "Maximum x-value."
+msgstr "Μέγιστη χ-τιμή."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Label3..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..Label7..Caption
+msgid "Tick unit:"
+msgstr "Υποδιαίρεση,μονάδα:"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Edit3..Hint
+msgid "Units between ticks on the x-axis."
+msgstr "Μονάδες μεταξύ υποδιαιρέσεων στον άξονα των χ."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Label14..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..Label9..Caption
+msgid "Grid unit:"
+msgstr "Πλέγμα,μονάδα:"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Edit4..Hint
+msgid "Units between the grid lines perpendicular to the x-axis."
+msgstr "Μονάδες μεταξύ των γραμμών του πλέγματος κάθετες  στον άξονα των χ."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox4..Hint
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox11..Hint
+#, fuzzy
+msgid "Determine the tick unit automatically."
+msgstr "Αυτόματος προσδιορισμός υποδιαιρέσεων"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox4..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox11..Caption
+msgid "Auto tick"
+msgstr "Αυτόματες υποδιαιρέσεις"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox6..Hint
+#, fuzzy
+msgid "Show tick marks on the x-axis."
+msgstr "Εμφάνιση υποδιαιρέσεων στον άξονα των χ"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox6..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox13..Caption
+msgid "Show ticks"
+msgstr "Εμφάνιση υποδιαιρέσεων"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox5..Hint
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox12..Hint
+#, fuzzy
+msgid "Set the grid unit to the same as the tick unit."
+msgstr "Μονάδες πλέγματος ίδιες με τις υποδιαιρέσεις"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox5..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox12..Caption
+msgid "Auto grid"
+msgstr "Αυτόματο πλέγμα"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox7..Hint
+msgid "Show vertical grid lines."
+msgstr "Εμφάνιση κατακόρυφων γραμμών πλέγματος."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox7..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox14..Caption
+msgid "Show grid"
+msgstr "Εμφάνιση πλέγματος"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Panel1..CheckBox3....Hint
+#, fuzzy
+msgid "Show the label at the right side of the graphing area, above the x-axis."
+msgstr "Εμφάνιση λεζάντας δεξιά πάνω από τον άξονα των χ."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Panel1..CheckBox3..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..Panel3..CheckBox10..Caption
+msgid "Label:"
+msgstr "Ετικέτα:"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Panel1..Edit5..Hint
+#. Form3..PageControl1..TabSheet2..GridPanel2..Panel3..Edit11..Hint
+#, fuzzy
+msgid "Edit the label for the axis here."
+msgstr "Επεξεργασία ετικέτας εδώ."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Panel2..Label4..Caption
+msgid "The x-axis cross at y="
+msgstr "Ο άξονας των χ τέμνει στο y= "
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Panel2..Edit6..Hint
+#, fuzzy
+msgid "The x-axis will intersect with the y-axis at this value."
+msgstr "Ο άξονας των x τέμνει τον άξονα των y σε αυτή την τιμή."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox1..Hint
+msgid "Use logarithmic scale on the x-axis."
+msgstr "Χρήση λογαριθμικής κλίμακας στον άξονα των χ."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox1..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox8..Caption
+msgid "Logarithmic scale"
+msgstr "Λογαριθμική κλίμακα"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox2..Hint
+msgid "Show units on the x-axis."
+msgstr "Εμφάνιση μονάδων στον άξονα των χ."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox2..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox9..Caption
+msgid "Show numbers"
+msgstr "Εμφάνιση αριθμών"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox17..Hint
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox18..Hint
+#, fuzzy
+msgid "Show units on the selected axis as a fraction multiplied by pi."
+msgstr "Εμφάνιση μονάδων σαν κλάσμα πολλαπλάσιο του π."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox17..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox18..Caption
+#, fuzzy
+msgid "Show as a multiple of π"
+msgstr "Εμφάνιση σαν πολλαπλάσιο του π."
+
+#. Form3..PageControl1..TabSheet2..Caption
+#. ParFuncFrame..ComboBox1....Items.Strings
+#. PolFuncFrame..ComboBox1....Items.Strings
+msgid "y-axis"
+msgstr "Άξονας των  y"
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Edit7..Hint
+msgid "Minimum y-value."
+msgstr "Ελάχιστη y-τιμή."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Edit8..Hint
+msgid "Maximum y-value."
+msgstr "Μέγιστη y-τιμή."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Edit9..Hint
+msgid "Units between ticks on the y-axis."
+msgstr "Μονάδες μεταξύ υποδιαιρέσεων στον άξονα των y."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Edit10..Hint
+msgid "Units between the grid lines perpendicular to the y-axis."
+msgstr "Μονάδες μεταξύ των γραμμών του πλέγματος κάθετες  στον άξονα των y."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox13..Hint
+#, fuzzy
+msgid "Show tick marks on the y-axis."
+msgstr "Εμφάνιση υποδιαιρέσεων στον άξονα των y."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox14..Hint
+msgid "Show horizontal grid lines."
+msgstr "Εμφάνιση οριζόντιων γραμμών πλέγματος."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Panel3..CheckBox10....Hint
+#, fuzzy
+msgid "Show the label at the top of the graphing area, to the right of the y-axis."
+msgstr "Εμφάνιση λεζάντας στην κορυφή του παράθυρου δεξιά από τον άξονα των y."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Panel4..Label8..Caption
+msgid "The y-axis cross at x="
+msgstr "Ο άξονας των y τέμνει στο χ="
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Panel4..Edit12..Hint
+#, fuzzy
+msgid "The y-axis will intersect with the x-axis at this value."
+msgstr "Ο άξονας των y τέμνει τον άξονα των χ σε αυτή την τιμή."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox8..Hint
+msgid "Use logarithmic scale for the y-axis."
+msgstr "Χρήση λογαριθμικής κλίμακας στον άξονα των y."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox9..Hint
+msgid "Show units on the y-axis."
+msgstr "Εμφάνιση μονάδων στον άξονα των y."
+
+#. Form3..PageControl1..TabSheet3..Caption
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+#. Form3..PageControl1..TabSheet3..Label16..Caption
+msgid "Title:"
+msgstr "Τίτλος:"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup1....Hint
+msgid "Choose if you want to show the axes, and if you want to show them crossed or at the left and bottom of the image."
+msgstr "Επιλέξατε αν θέλετε να φαίνονται οι άξονες, και να φαίνεται το σημείο τομής ή κατω αριστερά στην εικόνα."
+
+#. Form3..PageControl1..TabSheet3..RadioGroup1..Caption
+msgid "Axes style"
+msgstr "Στιλ αξόνων"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup1....Items.Strings
+msgid "None"
+msgstr "Κανένας"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup1....Items.Strings
+msgid "Crossed"
+msgstr "Κέντρο"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup1....Items.Strings
+msgid "Boxed"
+msgstr "Άκρη"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup2....Hint
+#, fuzzy
+msgid "Choose if trigonometric functions should calculate in radians or degrees."
+msgstr "Επιλέξατε αν οι τριγωνομετρικές συναρτήσεις υπολογίζονται σε ακτίνια ή μοίρες."
+
+#. Form3..PageControl1..TabSheet3..RadioGroup2..Caption
+msgid "Trigonometry"
+msgstr "Τριγωνομετρία"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup2....Items.Strings
+msgid "Radian"
+msgstr "Rad"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup2....Items.Strings
+msgid "Degree"
+msgstr "Μοίρες"
+
+#. Form3..PageControl1..TabSheet3..Edit13..Hint
+msgid "Enter a title to show above the coordinate system."
+msgstr "Εισαγωγή τίτλου επάνω από το συστημα συντεταγμένων."
+
+#. Form3..PageControl1..TabSheet3..BitBtn1..Hint
+msgid "Select the font for the title."
+msgstr "Επιλογή γραμματοσειράς τίτλου."
+
+#. Form3..PageControl1..TabSheet3..RadioGroup3..Hint
+msgid "Choose where the legend should be placed."
+msgstr "Επιλογή θέσης ετικέτας."
+
+#. Form3..PageControl1..TabSheet3..RadioGroup3..Caption
+msgid "Legend placement"
+msgstr " Θέση ετικέτας"
+
+#. Form3..PageControl1..TabSheet3..CheckBox19....Hint
+msgid "Check this to use complex numbers for calculations. Notice that this will slow graphing down."
+msgstr "Τσεκάρετε για χρήση μιγαδικών αριθμών στους υπολογισμούς Σημειώστε ότι επιβραδίνεται η σχεδίαση."
+
+#. Form3..PageControl1..TabSheet3..CheckBox19..Caption
+msgid "Calculate with complex numbers"
+msgstr " Υπολογισμοί με μιγαδικούς αριθμούς"
+
+#. Form3..PageControl1..TabSheet4..Caption
+msgid "Font and color"
+msgstr "Γραμματοσειρά και χρώμα"
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..Caption
+msgid "Colors"
+msgstr "Χρώματα"
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..Label17..Caption
+msgid "Grid color:"
+msgstr "Χρώμα πλεγματος:"
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..Label18..Caption
+msgid "Axes color:"
+msgstr "Χρώμα αξόνων:"
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..Label19..Caption
+#. Form6..Label4..Caption
+msgid "Background color:"
+msgstr "Χρώμα φόντου:"
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..ExtColorBox1..Hint
+#, fuzzy
+msgid "Select the color of the image background."
+msgstr "Επιλέξατε το χρώμα του μαρκαρίσματος."
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..ExtColorBox2..Hint
+#, fuzzy
+msgid "Select the color of the axes."
+msgstr "Επιλέξατε το χρώμα του μαρκαρίσματος."
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..ExtColorBox3..Hint
+#, fuzzy
+msgid "Select the color of the grid lines."
+msgstr "Επιλέξατε χρώμα γραμμής."
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..Caption
+msgid "Fonts"
+msgstr "Γραμματοσειρά"
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..Label20..Caption
+msgid "Number font:"
+msgstr "Γραμματοσειρά αριθμών:"
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..Label21..Caption
+msgid "Label font:"
+msgstr "Γραμματοσειρά ετικέτας:"
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..Label10..Caption
+msgid "Legend font:"
+msgstr "Γραμματοσειρά λεζάντας"
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..BitBtn2..Hint
+#, fuzzy
+msgid "Select the font used to show the labels on the axes."
+msgstr "Επιλογή γραμματοσειράς ετικέτας στούς άξονες.."
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..BitBtn3..Hint
+msgid "Select the font used to show the numbers on the axes."
+msgstr "Επιλογή γραμματοσειράς αριθμών στούς άξονες."
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..BitBtn4..Hint
+msgid "Select the font used to show the legend text."
+msgstr "Επιλογή γραμματοσειράς κειμένου λεζάντας."
+
+#. Form4..GridPanelEx1..Label1..Caption
+msgid "Decimals:"
+msgstr "Δεκαδικοί:"
+
+#. Form4..GridPanelEx1..Panel1..Edit1..Hint
+msgid "Number of decimals used when results are shown."
+msgstr "Αριθμός δεκαδικών στην εμφάνιση των αποτελεσμάτων."
+
+#. Form4..GridPanelEx1..RadioGroup1..Hint
+msgid "Format used when complex numbers are shown."
+msgstr "Μορφή που χρησιμοποιείται για την παράσταση μιγαδικών αριθμών"
+
+#. Form4..GridPanelEx1..RadioGroup1..Caption
+#, fuzzy
+msgid "Complex form"
+msgstr "Μιγαδική μορφή"
+
+#. Form4..GridPanelEx1..RadioGroup1....Items.Strings
+msgid "Real"
+msgstr "Πραγματικοί"
+
+#. Form4..GridPanelEx1..RadioGroup1....Items.Strings
+msgid "Rectangular"
+msgstr "Ορθογώνια"
+
+#. Form4..GridPanelEx1..Label2..Caption
+msgid "Recent files:"
+msgstr "Πρόσφατα αρχεία:"
+
+#. Form4..GridPanelEx1..Panel2..Edit2..Hint
+#, fuzzy
+msgid "The number of most recent used files shown in the File menu."
+msgstr "Ο αριθμός των πιο πρόσφατων αρχείων φαίνεται στο μενού αρχείο."
+
+#. Form4..GridPanelEx1..Label3..Caption
+msgid "Max undo steps:"
+msgstr "Μέγιστος αριθμός αναιρέσεων:"
+
+#. Form4..GridPanelEx1..Panel3..Edit3....Hint
+msgid "Maximum number of undo steps saved. Set this to 0 to prevent undo."
+msgstr "Μέγιστος αριθμός αναιρέσεων αποθηκεύθηκε.Τοποθετήστε στο 0 για αποφυγή αναιρέσεως."
+
+#. Form4..GridPanelEx1..Label5..Caption
+#, fuzzy
+msgid "Font scale:"
+msgstr "Μέγεθος γραμμάτων:"
+
+#. Form4..GridPanelEx1..ComboBox1....Hint
+msgid "This is used to scale the user interface if you are having problems reading the text."
+msgstr "Χρησιμοποιεί την κλίμακα αν υπάρχουν προβλήματα ανάγνωσης του κειμένου."
+
+#. Form4..GridPanelEx1..Label4..Caption
+msgid "Language:"
+msgstr "Γλώσσα:"
+
+#. Form4..GridPanelEx1..ComboBox2..Hint
+#, fuzzy
+msgid "Select the language to use for the user interface."
+msgstr "Επιλογή στιλ γραμμοσκιάσεως."
+
+#. Form4..GridPanelEx1..CheckBox2..Hint
+#, fuzzy
+msgid "Show the tooltip when the cursor is over an item."
+msgstr "Εμφάνιση συμβουλής όταν ο δρομέας είναι πάνω από κάτι."
+
+#. Form4..GridPanelEx1..CheckBox2..Caption
+msgid "Show tooltip"
+msgstr "Εμφάνιση συμβουλής"
+
+#. Form4..GridPanelEx1..CheckBox3....Hint
+#, fuzzy
+msgid "Save the size of the main window when the program exits. This is used the next time Graph is run."
+msgstr "Αποθήκευση της θέσης του παράθυρου όταν κλείνει το πρόγραμμα. Αυτές οι ρυθμήσεις χρησιμοποιούνται την επόμενη φορά που θα ανοίξει το πρόγραμμα.|Αποθήκευση της κατάστασης του παράθυρου κατά την έξοδο."
+
+#. Form4..GridPanelEx1..CheckBox3..Caption
+msgid "Save workspace on exit"
+msgstr "Αποθήκευση παράθυρου κατά την έξοδο."
+
+#. Form4..GridPanelEx1..CheckBox4....Hint
+msgid "If checked the program will contact a web server when the program is started to see if a newer version is available."
+msgstr "Αν τσεκαριστεί το πρόγραμμα συνδέεται με τον διακομιστή στην εκκίνηση για να διαπιστωθεί αν υπάρχει νεότερη έκδοση."
+
+#. Form4..GridPanelEx1..CheckBox4..Caption
+msgid "Check for new version of Graph at startup"
+msgstr "Έλεγχος για νεότερη έκδοση του  Graph στην εκκίνηση"
+
+#. Form4..GridPanelEx1..CheckBox5....Hint
+msgid "Use a custom decimal separator instead of the default from the Windows Regional settings."
+msgstr ""
+
+#. Form4..GridPanelEx1..CheckBox5..Caption
+msgid "Custom decimal separator:"
+msgstr ""
+
+#. Form4..GridPanelEx1..Edit4..Hint
+msgid "Decimal separator used when exporting to other programs."
+msgstr ""
+
+#. Form5..Caption
+msgid "Insert function"
+msgstr "Εισαγωγή συνάρτησης"
+
+#. Form5..Label1..Caption
+msgid "Function type:"
+msgstr "Τύπος  συνάρτησης:"
+
+#. Form5..ComboBox1..Hint
+msgid "Select the function type to graph."
+msgstr "Επιλογή τύπου  συνάρτησης."
+
+#. Form5..ComboBox1....Items.Strings
+msgid "Standard function   y=f(x)"
+msgstr "Τυπική συνάρτηση  y=f(x)"
+
+#. Form5..ComboBox1....Items.Strings
+msgid "Parametric function x(t), y(t)"
+msgstr "Παραμετρική συνάρτηση x(t), y(t)"
+
+#. Form5..ComboBox1....Items.Strings
+msgid "Polar function         r=f(t)"
+msgstr "Πολική συνάρτηση     r=f(t)"
+
+#. Form5..GroupBox1..Caption
+msgid "Function equation"
+msgstr "Εξίσωση συνάρτησης"
+
+#. Form5..GroupBox2..Label6..Caption
+msgid "Steps:"
+msgstr "Βήματα:"
+
+#. Form5..GroupBox2..Edit5..Hint
+msgid "Number of calculation steps used to draw the graph."
+msgstr "Αριθμός υπολογιστικών βημάτων για τη γραφική παράσταση."
+
+#. Form5..GroupBox4..GridPanelEx1..Label13..Caption
+msgid "Draw type:"
+msgstr "Τύπος σχεδίασης:"
+
+#. Form5..GroupBox4..GridPanelEx1..ComboBox4....Hint
+msgid "Choose Lines if you want the calculated points for the graph to be connected. Choose Dots if you only want to show a dot at each point."
+msgstr "Επιλέξατε Γραμμές αν θέλετε να συνδέονται τα σημεία. Επιλέξατε Κουκκίδες αν θέλετε να φαίνεται μια κουκκίδα για κάθε σημείο."
+
+#. Form5..GroupBox4..GridPanelEx1..ComboBox4..Text
+#. Form5..GroupBox4..GridPanelEx1..ComboBox4....Items.Strings
+#, fuzzy
+msgid "Automatic"
+msgstr "Αυτόματες υποδιαιρέσεις"
+
+#. Form5..GroupBox4..GridPanelEx1..ComboBox4....Items.Strings
+msgid "Dots"
+msgstr "Κουκκίδες"
+
+#. Form5..GroupBox4..GridPanelEx1..ComboBox4....Items.Strings
+msgid "Lines"
+msgstr "Γραμμές"
+
+#. Form6..Caption
+#, fuzzy
+msgid "Insert text label"
+msgstr "Εισαγωγή ετικέτας.."
+
+#. Form6..Label1..Caption
+msgid "Font name:"
+msgstr "Γραμματοσειρά:"
+
+#. Form6..Label2..Caption
+msgid "Font size:"
+msgstr "Μέγεθος γραμμάτων:"
+
+#. Form6..Label3..Caption
+msgid "Font color:"
+msgstr "Χρώμα γραμμάτων:"
+
+#. Form6..ComboBox1..Hint
+#, fuzzy
+msgid "Text size."
+msgstr "Μέγεθος κειμένου"
+
+#. Form6..GroupBox1..Caption
+msgid "Text string"
+msgstr "Πλαίσιο  κειμένου"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton11..Hint
+#, fuzzy
+msgid "Insert symbol (Ctrl+G)"
+msgstr "Εισαγωγή συμβόλου"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton13..Hint
+#, fuzzy
+msgid "Insert object."
+msgstr "Εισαγωγή αντικειμένου..."
+
+#. Form6..GroupBox1..ToolBar1..ToolButton1..Hint
+#, fuzzy
+msgid "Bold (Ctrl+B)"
+msgstr "Έντονα (Ctrl-B)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton2..Hint
+#, fuzzy
+msgid "Italic (Ctrl+I)"
+msgstr "Πλάγια (Ctrl-I)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton3..Hint
+#, fuzzy
+msgid "Underline (Ctrl+U)"
+msgstr "Υπογραμμισμένα (Ctrl-U)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton4..Hint
+#, fuzzy
+msgid "Strikethrough (Ctrl+S)"
+msgstr "Διαγραμμισμένα (Ctrl-S)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton9..Hint
+msgid "Superscript (Ctrl++)"
+msgstr "Εκθέτες (Ctrl++)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton10..Hint
+msgid "Subscript (Ctrl+=)"
+msgstr "Δείκτες (Ctrl+=)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton5..Hint
+#, fuzzy
+msgid "Align left (Ctrl+L)"
+msgstr "Ευθυγράμμιση αριστερά (Ctrl-L)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton6..Hint
+#, fuzzy
+msgid "Center (Ctrl+E)"
+msgstr "Κέντρο (Ctrl-E)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton7..Hint
+#, fuzzy
+msgid "Align right (Ctrl+R)"
+msgstr "Ευθυγράμμιση δεξιά (Ctrl-R)"
+
+#. Form6..IFontBox1..Hint
+#, fuzzy
+msgid "Text font."
+msgstr "Γραμματοσειρά"
+
+#. Form6..ColorBox1..Hint
+#, fuzzy
+msgid "Text color."
+msgstr "Χρώμα κειμένου"
+
+#. Form6..ColorBox2..Hint
+#, fuzzy
+msgid "Select background color of the text label."
+msgstr "Επιλογή γραμματοσειράς τίτλου."
+
+#. Form6..ColorBox2..DefaultName
+msgid "Transparent"
+msgstr "Διαφανές"
+
+#. Form6..PopupMenu1..Popup_Undo..Hint
+msgid "Undo last action."
+msgstr "Αναίρεση τελευταίας ενέργειας."
+
+#. Form6..PopupMenu1..Popup_Redo..Hint
+msgid "Redo last undone action."
+msgstr "Ακύρωση αναίρεσης."
+
+#. Form6..PopupMenu1..Popup_Paste..Hint
+msgid "Paste the contents of the clipboard."
+msgstr "Επικόλληση  επιλεγμένου κειμένου από το πρόχειρο."
+
+#. Form6..PopupMenu1..Popup_PasteSpecial..Caption
+msgid "Paste special..."
+msgstr "Ειδική επικόλληση..."
+
+#. Form6..PopupMenu1..Popup_PasteSpecial..Hint
+msgid "Select which clipboard representation you want to paste."
+msgstr "Επιλογή εικόνας από το πρόχειρο που θέλετε να επικολλήσετε."
+
+#. Form6..PopupMenu1..Popup_InsertObject..Caption
+msgid "Insert object..."
+msgstr "Εισαγωγή αντικειμένου..."
+
+#. Form6..PopupMenu1..Popup_InsertObject..Hint
+msgid "Create a new OLE object."
+msgstr "Δημιουργία νέου OLE αντικειμένου."
+
+#. Form6..PopupMenu1..Popup_EditObject..Caption
+msgid "Edit object"
+msgstr "Επεξεργασία αντικειμένου"
+
+#. Form6..PopupMenu1..Popup_EditObject..Hint
+msgid "Edit selected OLE object."
+msgstr "Επεξεργασία επιλεγμένου OLE αντικειμένου."
+
+#. Form7..Caption
+msgid "Insert f'(x)"
+msgstr "Εισαγωγή  f'(x)"
+
+#. Form8..Label1..Caption
+#. PrintFrm..GroupBox1..Label1..Caption
+msgid "Name:"
+msgstr "Όνομα:"
+
+#. Form8..ValueListEditor1....TitleCaptions.Strings
+msgid "Constant"
+msgstr "Σταθερά"
+
+#. Form8..ValueListEditor1....TitleCaptions.Strings
+msgid "Value"
+msgstr "Τιμή"
+
+#. Form9..Label1..Caption
+#, fuzzy
+msgid "Select a function or tangent to evaluate."
+msgstr "Επιλογή συνάρτησης ή εφαπτομένης για υπολογισμό"
+
+#. Form9..PolFuncFrame1....Hint
+#. ParFuncFrame..ComboBox1....Hint
+#. StdFuncFrame..ComboBox1....Hint
+msgid "Select where the cursor will be placed when you click on the image."
+msgstr "Καθορίστε πού θα τοποθετηθεί ο δείκτης όταν κάνετε click στην εικόνα."
+
+#. AreaFrame..GridPanel1..Panel1..Edit1....Hint
+#, fuzzy
+msgid "Enter the start coordinate or mark the range on the graph itself with the mouse."
+msgstr "Εισάγετε τις συντεταγμένες της αρχής ή καθορίστε την περιοχή με το ποντίκι"
+
+#. AreaFrame..GridPanel1..Panel2..Edit2....Hint
+#, fuzzy
+msgid "Enter the end coordinate or mark the range on the graph itself with the mouse."
+msgstr "Εισάγετε τις συντεταγμένες του τέλους ή καθορίστε την περιοχή με το ποντίκι."
+
+#. ParFuncFrame..Label7..Caption
+#. PolFuncFrame..Label7..Caption
+#. StdFuncFrame..Label5..Caption
+msgid "Snap to:"
+msgstr "Προσάρτηση σε:"
+
+#. ParFuncFrame..Edit2..Hint
+msgid "The x-coordinate evaluated for the t-parameter."
+msgstr "Η τετμημένη του χ υπολογιζόμενη από την t-παράμετρο."
+
+#. ParFuncFrame..Edit3..Hint
+msgid "The y-coordinate evaluated for the t-parameter."
+msgstr "Η τεταγμένη του y υπολογιζόμενη από την t-παράμετρο."
+
+#. ParFuncFrame..Edit4..Hint
+msgid "The derivative of x(t) evaluated for the entered t-parameter."
+msgstr "Παράγωγος της x(t) υπολογιζόμενη από την t-παράμετρο."
+
+#. ParFuncFrame..Edit5..Hint
+msgid "The derivative of y(t) evaluated for the entered t-parameter."
+msgstr "Παράγωγος της y(t) υπολογιζόμενη από την t-παράμετρο."
+
+#. ParFuncFrame..Edit6..Hint
+msgid "The slope of the function evaluated for the entered t-parameter."
+msgstr "Κλίση (εφαπτομένη) της συνάρτησης υπολογιζόμενη από την t-παράμετρο."
+
+#. ParFuncFrame..Edit1....Hint
+#, fuzzy
+msgid "Enter the value for the parameter t for which you want to evaluate the function, or click on the graph in the graphing area."
+msgstr "Εισάγετε έναν αριθμό για τον οποίο θέλετε να υπολογίσετε τη συνάρτηση, ή κάνετε click στο κύριο παράθυρο. "
+
+#. ParFuncFrame..ComboBox1....Items.Strings
+#. PolFuncFrame..ComboBox1....Items.Strings
+#. StdFuncFrame..ComboBox1....Items.Strings
+msgid "Intersection"
+msgstr "Σημεία τομής"
+
+#. ParFuncFrame..ComboBox1....Items.Strings
+#. PolFuncFrame..ComboBox1....Items.Strings
+msgid "Extreme x-value"
+msgstr "Μέγιστη τιμή του  χ"
+
+#. ParFuncFrame..ComboBox1....Items.Strings
+#. PolFuncFrame..ComboBox1....Items.Strings
+#. StdFuncFrame..ComboBox1....Items.Strings
+msgid "Extreme y-value"
+msgstr "Μέγιστη τιμή του  y"
+
+#. PolFuncFrame..Edit2..Hint
+msgid "The distance to the function evaluated for the given angle."
+msgstr "Απόσταση της συνάρτησης για δοθείσα γωνία."
+
+#. PolFuncFrame..Edit3..Hint
+msgid "The x-coordinate evaluated for the given angle."
+msgstr "Τετμημένη του χ για δοθείσα γωνία."
+
+#. PolFuncFrame..Edit4..Hint
+msgid "The y-coordinate evaluated for the given angle."
+msgstr "Τεταγμένη του y για δοθείσα γωνία."
+
+#. PolFuncFrame..Edit5..Hint
+msgid "The derivative of the function evaluated for the given angle."
+msgstr "Παράγωγος της συνάρτησης για δοθείσα γωνία."
+
+#. PolFuncFrame..Edit6..Hint
+msgid "The slope of the function evaluated for the given angle."
+msgstr "Κλίση της συνάρτησης για δοθείσα γωνία."
+
+#. PolFuncFrame..Edit1....Hint
+#, fuzzy
+msgid "Enter the value of the polar angle for which you want to evaluate the function, or click on the graph in the graphing area."
+msgstr "Εισάγετε την ανεξάρτητη μεταβλητή για την οποία θέλετε να υπολογίσετε τη συνάρτηση, ή κάνετε click στο κύριο παράθυρο. "
+
+#. StdFuncFrame..Edit1....Hint
+#, fuzzy
+msgid "Enter a value for which you want to evaluate the function, or click on the graph in the graphing area."
+msgstr "Εισάγετε έναν αριθμό για τον οποίο θέλετε να υπολογίσετε τη συνάρτηση, ή κάνετε click στο κύριο παράθυρο. "
+
+#. StdFuncFrame..Edit2..Hint
+msgid "This is the function evaluated for the entered x-value."
+msgstr "Η συνάρτηση για τη δοθείσα τιμή του χ."
+
+#. StdFuncFrame..Edit3....Hint
+#, fuzzy
+msgid "This is the first derivative of the function evaluated for the entered value."
+msgstr "Πρώτη παράγωγος της συνάρτησης για τη δοθείσα τιμή."
+
+#. StdFuncFrame..Edit4....Hint
+#, fuzzy
+msgid "This is the second derivative of the function evaluated for the entered value."
+msgstr "Πρώτη παράγωγος της συνάρτησης για τη δοθείσα τιμή."
+
+#. TanFrame..Edit2....Hint
+#, fuzzy
+msgid "This is the y-coordinate corresponding to the entered x-coordinate."
+msgstr "Τιμή του y της εφαπτομένης για δεδομένο χ."
+
+#. TanFrame..Edit1..Hint
+#, fuzzy
+msgid "Enter an x-coordinate or click in the graphing area."
+msgstr "Εισάγετε τιμή του χ, ή κάνετε click στην εφαπτομένη στο κύριο παράθυρο. "
+
+msgid "Error"
+msgstr "Σφάλμα"
+
+#, fuzzy
+msgid "Error %s"
+msgstr "Περιοχές σφάλματος"
+
+msgid "Length"
+msgstr "Μήκος"
+
+#, fuzzy
+msgid "Degrees"
+msgstr "Μοίρες"
+
+msgid "Label"
+msgstr "Ετικέτα"
+
+msgid "%s-error"
+msgstr "%s-σφάλμα"
+
+msgid "Axes"
+msgstr "Άξονες"
+
+msgid "Ctrl"
+msgstr ""
+
+msgid "Alt"
+msgstr ""
+
+#, fuzzy
+msgid "Shift"
+msgstr "Λευκό"
+
+#, fuzzy
+msgid "Del"
+msgstr "Διαγραφή"
+
+#, fuzzy
+msgid "Ins"
+msgstr "Μεγεθ."
+
+msgid "Home"
+msgstr ""
+
+#, fuzzy
+msgid "End"
+msgstr "Τέλος:"
+
+msgid "PgUp"
+msgstr ""
+
+msgid "PgDn"
+msgstr ""
+
+msgid "Up"
+msgstr ""
+
+#, fuzzy
+msgid "Down"
+msgstr "Δωρεές"
+
+msgid "Esc"
+msgstr ""
+
+#, fuzzy
+msgid "Enter"
+msgstr "Εκτυπωτής"
+
+msgid "Tab"
+msgstr ""
+
+msgid "BkSp"
+msgstr ""
+
+#, fuzzy
+msgid "Space"
+msgstr "Αποθήκευση"
+
+msgid "An error occurred while evaluating power function."
+msgstr "Έγινε λάθος στον υπολογισμό της δύναμης."
+
+#, fuzzy
+msgid "Tangent to pi/2+n*pi (90+n180 in degrees) is undefined."
+msgstr "Εφαπτομένη στις 90+p180 μοίρες δεν ορίζεται."
+
+msgid "Fact can only be calculated for positive integers."
+msgstr "Το παραγοντικό υπολογίζεται μόνο για θετικούς ακέραιους."
+
+msgid "Cannot take logarithm to number equal or less than zero."
+msgstr "Δεν υπάρχει λογάριθμος αριθμού ίσου ή μικρότερου του μηδέν."
+
+msgid "sqrt is undefined for negative numbers."
+msgstr "Δεν ορίζεται για αρνητικούς αριθμους."
+
+msgid "A part of the evaluation gave a number with an imaginary part."
+msgstr "Ο υπολογισμός έδωσε μιγαδικό αριθμό."
+
+msgid "Division by zero."
+msgstr "Διαίρεση με μηδέν."
+
+msgid "Inverse trigonometric function out of range [-1;1]"
+msgstr "Αντίστροφη τριγωνομετρική συνάρτηση εκτος περιοχής [-1;1] "
+
+msgid "The function is not defined for this value."
+msgstr "Η συνάρτηση δεν ορίζεται για αυτή τη τιμή."
+
+msgid "atanh evaluated at undefined value."
+msgstr "Η atanh υπολογίζεται για απροσδιόριστη τιμή."
+
+msgid "acosh evaluated at undefined value."
+msgstr "Το acosh υπολογίζεται για απροσδιόριστη τιμή."
+
+msgid "arg(0) is undefined."
+msgstr "Το arg(0) δεν ορίζεται."
+
+msgid "Evaluation failed."
+msgstr "Ο υπολογισμός απέτυχε."
+
+msgid "Argument produced a function result with total loss of precision."
+msgstr "Ένα στοιχείο της συνάρησης προκάλεσε ολική απώλεια της ακρίβειας."
+
+msgid "The custom function/constant '%s' was not found or has the wrong number of arguments."
+msgstr "Η προσαρμοσμένη επιλογή/Σταθερά '%s' δεν βρέθηκε ή είχε λάθος παράμετρο."
+
+msgid "Too many recursive calls."
+msgstr "Πάρα πολλές επαναλαμβανόμενες ενέργειες."
+
+msgid "Overflow: A function returned a value too large to handle."
+msgstr ""
+
+msgid "A plugin function failed: %s"
+msgstr ""
+
+msgid "Unexpected operator. Operator '%s' cannot be placed here."
+msgstr "Απροσδόκητος τελεστής. Ο τελεστής '%s' σε λάθος θέση."
+
+#, fuzzy
+msgid "The right bracket is missing."
+msgstr "Η παρένθεση δεν έκλεισε."
+
+#, fuzzy
+msgid "Invalid number of arguments supplied for the function '%s'"
+msgstr "Λάθος αριθμός παραμέτρων στη συνάρτηση '%s'"
+
+#, fuzzy
+msgid "Comparison operator misplaced."
+msgstr "Το σύμβολο σύγκρισης σε λαθος θέση."
+
+msgid "Invalid number found. Use the format: -5.475E-8"
+msgstr "Άκυρος αριθμός. Χρησιμοποιείστε τη μορφή: -5.475E-8"
+
+#, fuzzy
+msgid "String is empty. You need to enter a formula."
+msgstr "Το πλαίσιο είναι άδειο.Βάλτε μια συνάρτηση."
+
+#, fuzzy
+msgid "Comma is not allowed here. Use dot as decimal separator."
+msgstr "Δεν επιτρέπεται κόμμα, Χρησιμοποιείστε τελεία για τους δεκαδικούς."
+
+#, fuzzy
+msgid "Unexpected end of brackets."
+msgstr "Απροσδόκητο κλείσιμο της παρένθεσης."
+
+msgid "Number, constant or function expected."
+msgstr "Αναμένεται αριθμός, σταθερά ή συνάρτηση."
+
+msgid "Parameter after constant or variable not allowed."
+msgstr "Δεν επιτρέπεται παράμετρος μετα από σταθερά ή μεταβλητή."
+
+msgid "Expression expected."
+msgstr "Αναμένεται παράσταση."
+
+msgid "Unknown variable, function or constant: \"%s\""
+msgstr "Άγνωστη μεταβλητή, συνάρτηση ή σταθερά: \"%s\""
+
+msgid "Unknown character: \"%s\""
+msgstr "Άγνωστος χαρακτήρας: \"%s\""
+
+msgid "The end of the expression was unexpected."
+msgstr "Απροσδόκητο τέλος της έκφρασης."
+
+#, fuzzy
+msgid "Error parsing expression."
+msgstr "Λάθος στο κειμενο της συνάρτησης"
+
+msgid "A calculation resulted in an overflow."
+msgstr "Ο υπολογισμός προκάλεσε υπερφόρτωση."
+
+msgid "An invalid value was used in the calculation."
+msgstr "Άκυρη τιμή χρησιμοποιήθηκε στον υπολογισμό."
+
+msgid "Not enough points for calculation."
+msgstr "Δεν είναι αρκετά τα σημεία για τον υπολογισμό."
+
+msgid "Illegal name \"%s\" for user defined function or constant."
+msgstr "Ακατάλληλο όνομα \"%s\" για τη συνάρτηση ή την σταθερά."
+
+msgid "Cannot differentiate recursive function."
+msgstr "Δεν μπορεί να διαφοριστεί επαναλαμβανόμενη συνάρτηση."
+
+msgid "Internal error."
+msgstr "Εσωτερικό λάθος."
+
+#, fuzzy
+msgid "Function \"%s\" cannot be differentiated."
+msgstr "Δεν μπορεί να διαφοριστεί η συνάρτηση."
+
+msgid "Not further specified error occurred under calculation."
+msgstr "Μη περαιτέρω προσδιορισμός του σφάλματος που έγινε στον υπολογισμό."
+
+msgid "No solution found. Try another guess or another model."
+msgstr "Δεν βρέθηκε λύση.Δοκιμάστε κάποια άλλη υπόθεση ή μοντέλο."
+
+msgid "No result found."
+msgstr ""
+
+#, fuzzy
+msgid "An accurate result cannot be found."
+msgstr "Ο υπολογισμός προκάλεσε υπερφόρτωση."
+
+msgid "Internal error. Please notify the programmer with as much information as possible."
+msgstr "Λειτουργικό λάθος.Ενημερώστε τον προγραματιστή με όσο το δυνατό περισσότερες λεπτομέρειες."
+
+msgid "You need to enter a name for the function/constant."
+msgstr "Πρέπει να δώσετε ένα όνομα στη συνάρτηση/σταθερά."
+
+msgid ""
+"Invalid function/constant name '%s'.\n"
+"The name may only contain letters and decimal digits, and it must always start with a letter.\n"
+"In addition you are not allowed to redefine built-in names."
+msgstr ""
+"Άκυρο όνομα συνάρτησης/σταθεράς '%s'.\n"
+"Το όνομα πρέπει να περιέχει μόνο γράματα και δεκαδικά ψηφία, και πάντα πρέπει να αρχίζει με γράμμα.\n"
+"Επιπροσθέτως δεν επιτρέπεται να αλλάζουν προκαθορισμένα ονόματα."
+
+msgid "You need to enter a name for the argument."
+msgstr "Πρέπει να δώσετε ένα όνομα στο σχόλιο."
+
+msgid ""
+"Invalid argument name '%s'.\n"
+"The name may only contain letters and decimal digits, and it must always start with a letter.\n"
+" In addition you are not allowed to use built-in names as argument names."
+msgstr ""
+"Άκυρο όνομα σχολίου.'%s'.\n"
+"Το όνομα πρέπει να περιέχει μόνο γράματα και δεκαδικά ψηφία, και πάντα πρέπει να αρχίζει με γράμμα.\n"
+"Επιπροσθέτως δεν επιτρέπεται να αλλάζουν προκαθορισμένα ονόματα."
+
+#, fuzzy
+msgid "Character found after brackets."
+msgstr "Βρέθηκε γράμμα μετά την παρένθεση."
+
+msgid "Symbol \"%s\" defined more than once."
+msgstr "Το σύμβολο \"%s\" καθορίστηκε πάνω από μια φορά."
+
+msgid "Invalid equation or inequality."
+msgstr "Άκυρη εξίσωση ή ανίσωση."
+
+msgid "Updating..."
+msgstr "Ενημερώνεται..."
+
+msgid "Save changes?"
+msgstr "Να αποθηκευθούν οι αλλαγές;"
+
+#, fuzzy
+msgid "Save changes in %s?"
+msgstr "Να αποθηκευθούν οι αλλαγές στο %s ;"
+
+msgid "You have reached the maximum range of zoom."
+msgstr "Φθάσατε στη μέγιστη μεγέθυνση."
+
+msgid "You have reached the minimum range of zoom."
+msgstr "Φθάσατε στην ελάχιστη σμίκρυνση."
+
+#, fuzzy
+msgid "'%s' must not be zero."
+msgstr "'%s' πρέπει να είναι μεγαλύτερος από το μηδέν."
+
+msgid "Error in value"
+msgstr "Σφάλμα στην τιμή"
+
+msgid "'%s' has to be an integer value greater or equal to 0."
+msgstr "'%s' πρέπει να είναι ακέραιος μεγαλύτερος ή ίσος με το μηδέν."
+
+msgid "'%s' must be greater than zero."
+msgstr "'%s' πρέπει να είναι μεγαλύτερος από το μηδέν."
+
+msgid "'%s' must be an integer greater than zero."
+msgstr "'%s' πρέπει να είναι ακέραιος μεγαλύτερος από το μηδέν."
+
+msgid "Trying to break zoom limit."
+msgstr "Υπερβαίνονται τα όρια μεγέθυνσης."
+
+msgid "'%s' must be greater than '%s'"
+msgstr "'%s' πρέπει να είναι μεγαλύτερος απο '%s'"
+
+msgid "The maximum value must be greater than the minimum value."
+msgstr "Η μέγιστη τιμή πρέπει να είναι μεγαλύτερη από την ελάχιστη."
+
+msgid "You need to enter a value."
+msgstr "Πρέπει να εισάγετε τιμή."
+
+msgid ""
+"This file was created with Graph %s.\n"
+"Only files from version %s and higher can be opened."
+msgstr ""
+"Αυτό το αρχείο δημιουργήθηκε με το Graph %s.\n"
+"Μόνο αρχεία με έκδοση %s και πάνω μπορεί να ανοιχτούν."
+
+msgid "'%s' is not a valid number."
+msgstr "'%s' δεν είναι έγκυρος ο αριθμός."
+
+msgid "'%s' must be a positive number."
+msgstr "'%s' πρέπει να είναι θετικός αριθμός."
+
+msgid "File not found: %s"
+msgstr "Ο φάκελλος δεν βρέθηκε: %s"
+
+#, fuzzy
+msgid ""
+"Error reading file: %s\n"
+"The file is not a correct Graph file."
+msgstr ""
+"Σφάλμα ανάγνωσης αρχείου: %s\n"
+"Το αρχείο δεν είναι σωστό graph αρχείο"
+
+msgid "Unknown error while reading file: %s"
+msgstr "Άγνωστο σφάλμα κατα την ανάγνωση του αρχείου: %s"
+
+msgid "Graph files [*.grf]|*.grf"
+msgstr "Graph αρχεία [*.grf]|*.grf"
+
+msgid ""
+"Cannot write to file: %s\n"
+"Access denied. Check that the file is not in use or write protected."
+msgstr ""
+"Αδύνατη η εγγραφή στο αρχείο: %s\n"
+"Η πρόσβαση είναι αδύνατη. Ελέγξατε αν ο φάκελος δεν χρησιμοποιείται ή προστατεύεται."
+
+msgid "The font \"%s\" doesn't exist. Standard font is used instead."
+msgstr "Η γραμματοσειρά  \"%s\"  δεν υπάρχει.Χρησιμοποιείστε έγκυρη γραμματοσειρά."
+
+#, fuzzy
+msgid "Graph system"
+msgstr "Μετακίνηση αξόνων"
+
+#, fuzzy
+msgid "Open"
+msgstr "Άνοιγμα..."
+
+msgid "Selection error"
+msgstr "Επιλογή λάθος"
+
+msgid "File error"
+msgstr "Αρχείο λάθος"
+
+msgid "Write access failed"
+msgstr "Πρόσβαση εγγραφής απέτυχε"
+
+msgid "OLE error"
+msgstr "OLE λάθος"
+
+msgid "Error reading object"
+msgstr "Αποτυχία ανάγνωσης"
+
+msgid "Not a valid Graph object."
+msgstr "Όχι έγκυρο Graph αντικείμενο."
+
+msgid "Object error"
+msgstr "Αντικείμενο λάθος"
+
+#, fuzzy
+msgid "Windows does not have enough resources to save an image that large."
+msgstr "Τα Windows δεν έχουν πόρους για αποθήκευση τόσο μεγάλης εικόνας."
+
+#, fuzzy
+msgid "'%1%' must be between %2% and %3%."
+msgstr "Τα 'πρόσφατα αρχεία' πρέπει να είναι μεταξύ 0 και 9."
+
+#, fuzzy
+msgid "File not found"
+msgstr "Ο φάκελλος δεν βρέθηκε: %s"
+
+#, fuzzy
+msgid "Error reading file"
+msgstr "Αποτυχία ανάγνωσης"
+
+#, fuzzy
+msgid "Printer error"
+msgstr "Σφάλμα κατά την εκτύπωση"
+
+msgid "Invalid use of infinity. Infinity cannot be used here."
+msgstr ""
+
+msgid "Not enough memory to complete the operation."
+msgstr ""
+
+msgid "Confirm delete"
+msgstr "Επιβεβαιώστε διαγραφή"
+
+#, fuzzy
+msgid "Are you sure you want to delete %s?"
+msgstr "Είστε βεβαιοι ότι θέλετε να διαγράψετε το %s"
+
+msgid "Graph files [*.grf]|*.grf|All files [*.*]|*.*"
+msgstr "Αρχεία Graph f [*.grf]|*.grf|όλα τα αρχεία [*.*]|*.*"
+
+msgid "CSV (semicolon delimited) [*.csv]|*.csv|CSV (comma delimited) [*.csv]|*.csv|Text (tab delimited) [*.txt]|*.txt|Text (space delimited) [*.txt]|*.txt|All files [*.*]|*.*"
+msgstr ""
+
+#, fuzzy
+msgid "Are you sure you want to delete the model: %s?"
+msgstr "Είστε βέβαιοι πως θελετε να αντικαταστήσετε το πρότυπο: %s"
+
+msgid "Maximum number on x-axis must be greater than the minimum value."
+msgstr "Το μέγιστο στον άξονα των χ πρέπει να είναι μεγαλύτερο από το ελάχιστο."
+
+msgid "Maximum number on y-axis must be greater than the minimum value."
+msgstr "Το μέγιστο στον άξονα των y πρέπει να είναι μεγαλύτερο από το ελάχιστο."
+
+msgid "Server application not found."
+msgstr "Δεν βρέθηκε εφαρμογή εξυπηρέτη."
+
+msgid "Maximum number for t must be greater than the minimum value."
+msgstr "Το μέγιστο του t πρέπει να είναι μεγαλύτερο από το ελάχιστο."
+
+msgid "The step value for t must be a number greater than 0."
+msgstr "Το βήμα στις τιμές του t πρέπει να είναι μεγαλύτερος από το 0."
+
+msgid "The minimum value for the x-axis must be greater than 0, when the x-axis is logarithmic scaled."
+msgstr "Η ελάχιστη τιμή στον άξονα των χ πρέπει να είναι μεγαλύτερη από το 0, όταν η κλίμακα είναι λογαριθμική."
+
+msgid "The cross point of the y-axis must be greater than 0, when the x-axis is logarithmic scaled."
+msgstr "Η αρχή στον άξονα των y πρέπει να είναι μεγαλύτερη από το 0, όταν η κλίμακα στον άξονα των χ είναι λογαριθμική."
+
+msgid "The minimum value for the y-axis must be greater than 0, when the y-axis is logarithmic scaled."
+msgstr "Η ελάχιστη τιμή στον άξονα των y πρέπει να είναι μεγαλύτερη από το 0, όταν η κλίμακα είναι λογαριθμική."
+
+msgid "The cross point of the x-axis must be greater than 0, when the y-axis is logarithmic scaled."
+msgstr "Η αρχή στον άξονα των χ πρέπει να είναι μεγαλύτερη από το 0, όταν η κλίμακα στον άξονα των y είναι λογαριθμική."
+
+msgid "'Recent files' must be between 0 and 9."
+msgstr "Τα 'πρόσφατα αρχεία' πρέπει να είναι μεταξύ 0 και 9."
+
+msgid "The end of interval must be greater than the start of interval."
+msgstr "Το τέλος των διαστημάτων πρέπει να είναι μεγαλύτερο από την αρχή των διαστημάτων."
+
+msgid "Error in interval."
+msgstr "Λάθος στα διαστήματα."
+
+msgid "The width must be an integer greater than 0."
+msgstr "Το πλάτος πρέπει να είναι ακέραιος μεγαλύτερος από το 0."
+
+msgid "Error in width"
+msgstr "Λάθος στο πλάτος."
+
+msgid "The end of interval must be greater than the start of interval and %s must be greater than 0."
+msgstr "Το τέλος των διαστημάτων πρέπει να είναι μεγαλύτερο από την αρχή των διαστημάτων και %s πρέπει να είναι μεγαλύτερος από το 0."
+
+msgid "Invalid model name."
+msgstr ""
+
+msgid "A model of that name already exist."
+msgstr ""
+
+msgid "The derivative of the function is not defined at %s=%s"
+msgstr "Η παράγωγος της συνάρτησης δεν ορίζεται στο %s=%s"
+
+#, fuzzy
+msgid "Coordinate not defined"
+msgstr "Συντεταγμένες δεν ορίσθηκαν."
+
+msgid "Checking for newer version..."
+msgstr "Έλεγχος για νέα έκδοση..."
+
+msgid "Abort printing?"
+msgstr "Διακοπή εκτύπωσης;"
+
+msgid "Calculate area"
+msgstr "Υπολογισμός εμβαδού"
+
+msgid "Calculate length of path"
+msgstr "Υπολογισμός μήκους καμπύλης"
+
+msgid "Edit function"
+msgstr "Επεξεργασία συνάρτησης"
+
+msgid "Edit tangent/normal"
+msgstr "Επεξεργασία εφαπτομένης/κάθετης"
+
+msgid "Error processing file '%s' at line %s."
+msgstr "Λάθος πρόσβασης αρχείου  '%s' γραμμή %s."
+
+#, fuzzy
+msgid "Edit text label"
+msgstr "Κειμενο"
+
+msgid "The model needs some constants (starting with a $) for Graph to find."
+msgstr ""
+
+msgid "'%s' has to be an integer value between 0 and 1000."
+msgstr "'%s' πρέπει να είναι ακέραιος μεταξύ 0 και 1000."
+
+msgid "Printing error"
+msgstr "Σφάλμα κατά την εκτύπωση"
+
+#, fuzzy
+msgid "An unknown error occurred while printing."
+msgstr "Άγνωστο σφάλμα κατά την εκτύπωση."
+
+msgid "Error while adding points"
+msgstr "Σφάλμα κατά την προσθήκη σημείων"
+
+msgid "Each point needs both an x- and a y-coordinate."
+msgstr "Κάθε σημείο θέλει χ- και y- συντεταγμένες."
+
+msgid "\"%s\" is not a valid number."
+msgstr "\"%s\" δεν είναι έγκυρος αριθμός."
+
+msgid "You didn't add any points. You need to specify some x- and y-coordinates in the grid."
+msgstr "Δεν τοποθετήθηκε κανένα σημείο. Πρέπει προσδιορισθούν μερικές  χ- και y- συντεταγμένες στον πίνακα."
+
+msgid "Edit point series"
+msgstr "Επεξεργασία σημειοσειράς"
+
+#, fuzzy
+msgid "Edit shading"
+msgstr "Επεξεργασία γραμμοσκίασης"
+
+msgid "You need to select a function."
+msgstr "Πρέπει να επιλεγεί συνάρτηση."
+
+msgid "New version of Graph available"
+msgstr "Υπάρχει νέα έκδοση του Graph"
+
+#, fuzzy
+msgid ""
+"Graph %s is now available for download from www.padowan.dk\n"
+"\n"
+"Would you like to visit the download page?"
+msgstr ""
+"Graph %s διατίθεται για μεταφόρτωση από www.padowan.dk\n"
+"με αυτές τις νέες βελτιώσεις από την προηγούμενη έκδοση :\n"
+"\n"
+"%s\n"
+"\n"
+"Θέλετε να επισκευθείτε την τοποθεσία;"
+
+msgid "No new version"
+msgstr "Δεν υπάρχει νέα έκδοση "
+
+#, fuzzy
+msgid "You are already using the most recent version of Graph."
+msgstr "Ήδη χρησιμοποιείτε τη πιο πρόσφατη έκδοση του προγράμματος."
+
+msgid ""
+"Cannot connect to server www.padowan.dk.\n"
+"Either the server is down or you do not have a connection to the Internet."
+msgstr ""
+"Δεν είναι δυνατή η σύνδεση με την τοποθεσία  www.padowan.dk.\n"
+"Ή ο διακομιστής δεν ανταποκρίνεται ή δεν έχετε σύνδεση Internet."
+
+msgid "Socket error %s"
+msgstr "Socket error %s"
+
+msgid "Definite integral, or signed area between function and x-axis, for the given domain range."
+msgstr ""
+
+#, fuzzy
+msgid "Length of path along the curve calculated for the given range."
+msgstr "Κλίση της συνάρτησης για δοθείσα γωνία."
+
+msgid ""
+"The file cannot be opened by this version of the program.\n"
+"You need at least Graph %s to open this file."
+msgstr ""
+"Το αρχείο δεν μπορεί να ανοίξει με αυτή την έκδοση του προγράμματος.\n"
+"Χρειάζεται τουλάχιστον Graph %s για να ανοίξει."
+
+#, fuzzy
+msgid ""
+"This file was saved by an outdated version of Graph,\n"
+"and it cannot be opened by the current version."
+msgstr ""
+"Το αρχείο αποθηκεύθηκε με παλαιότερη έκδοση Graph,\n"
+"και δεν μπορεί να ανοίξει με την τρέχουσα."
+
+msgid ""
+"\n"
+"\n"
+"If you don't want to be asked again, this feature may be disabled from the Edit|Options dialog."
+msgstr ""
+"\n"
+"\n"
+"Αν δεν θέλετε να ερωτηθήτε πάλι, απενεργοποιείστε τη δυνατότητα από Επεξεργασία|Προτιμήσεις."
+
+msgid "Edit relation"
+msgstr "Επεξεργασία σχέσης"
+
+#, fuzzy
+msgid "Commands"
+msgstr "Σχόλιο:"
+
+#, fuzzy
+msgid "(All Commands)"
+msgstr "(Όλες οι ενέργειες)"
+
+#, fuzzy
+msgid "To add a command to the toolbar simply select a category and drag the command out of this dialog box to the toolbar."
+msgstr "Για να προσθέσετε μια εντολή στη γραμμή εργαλείων απλά επιλέξτε κατηγορία και σύρετε την εντολή απο το πλαίσιο διαλόγου στη γραμμή εργαλείων."
+
+#, fuzzy
+msgid "Edit f'(x)"
+msgstr "Εισαγωγή  f'(x)"
+
+#, fuzzy
+msgid "Edit trendline"
+msgstr "Επεξεργασία σχέσης"
+
+#, fuzzy
+msgid "Categories:"
+msgstr "Cate&gories:"
+
+msgid ""
+"The program seems to be stuck in an infinite loop.\n"
+"If you cancel the operation the program will become unstable.\n"
+"You should therefore save your data under a new name and restart the application."
+msgstr ""
+
+msgid "Thread is not responding"
+msgstr ""
+
+#, fuzzy
+msgid "This Tip of the day can give you a lot of information about the program that most users don't know."
+msgstr "Αυτή η Συμβουλή της ημέρας δίνει πολλές πληροφορίες για το πρόγραμμα που πολλοί χρήστες αγνοούν."
+
+msgid "You can get help using Graph, report bugs and suggest future improvements at the web forum: <a href=\"http://forum.padowan.dk\">http://forum.padowan.dk</a>"
+msgstr ""
+
+#, fuzzy
+msgid "You can customize the toolbar by right clicking on it and select 'Customize toolbar'."
+msgstr "Μπορείτε να προσαρμόσετε τη γραμμή εργαλείων με δεξί κλικ επάνω της και επιλέγοντας 'προσαρμγή γραμμής εργαλείων'"
+
+#, fuzzy
+msgid "Instead of deleting a function, you can make it invisible by removing the check mark for the item in the function list."
+msgstr "Αντί να διαγράψετε μια συνάρτηση μπορείτε να την κάνετε μη ορατή με δεξί κλικ στη λίστα των συναρτήσεων και αφαιρώντας το τσεκάρισμα 'ορατό' στο αναδυόμενο μενού."
+
+msgid "You can paste images into a text label."
+msgstr "Μπορείτε να επικολλήσετε εικόνες σε μια ετικέτα κειμένου."
+
+msgid "Text labels can contain any kind of OLE objects, for example Microsoft Equation. When editing a label right click in the editing area and select 'Insert object'."
+msgstr "Ετικέτες κειμένου μπορεί να περιέχουν καθε είδους OLE αντικείμενα, π.χ.  Microsoft Equation. Κατα την επεξεργασία ετικέτας κανετε δεξί κλικ στη επιφάνια της και επιλέξατε 'εισαγωγή αντικειμένου'."
+
+msgid "You can export points from a point series to a file that can be read by other programs, for example Microsoft Excel. When editing the point series select the points, right click and choose 'Export to file'."
+msgstr "Μπορείτε να εξάγετε σειμεία από μια σημειοσειρά σε αρχείο που μπορεί να διαβαστεί από άλλα προγράμματα π.χ. Microsoft Excel .Κατα την επεξεργασία της σημειοσειράς επιλέξατε τα σημεία κάνετε δεξί κλικ και επιλέξατε 'Εξαγωγή σε αρχείο'."
+
+#, fuzzy
+msgid "A vertical line at x=5 can be drawn as the parametric function x(t)=5, y(t)=t or as the relation x=5."
+msgstr "Μια κατακόρυφη γραμμή στο χ=5 μπορεί να σχεδιαστεί σαν παραμετρική συνάρτηση  x(t)=5, y(t)=t ή σαν σχέση x=5"
+
+msgid "You can use Zoom|Square to make the axes look equally scaled. This is especially useful when drawing circles and similar functions."
+msgstr "Μπορείτε να χρησιμοποιτίσετε Μεγέθυνση|Τετραγωνισμός για να έχουν οι άξονες την ίδια κλίμακα. Αυτό είναι ιδιαίτερα χρήσιμο στη σχεδίαση κύκλων και παρεμφερών συναρτήσεων."
+
+msgid "You can find a list of all available functions in the help."
+msgstr "Μπορείτε να βρείτε κατάλογο όλων των διαθέσιμων συναρτήσεων στη βοήθεια."
+
+msgid "You can combine two functions to one using 'if'. For example the function f(x)=x for x<1 and f(x)=x^2 for x>=1 can be written as f(x)=if(x<1, x, x^2)."
+msgstr "Μπορείτε να συνδυάσετε δύο συναρτήσεις σε μία χρησιμοποιώντας 'if'. Για παράδειγμα η συνάρηση f(x)=x for x<1 και f(x)=x^2 για x>=1 μπορεί να γραφεί σαν f(x)=if(x<1, x, x^2)."
+
+msgid "You can import the contents of another Graph file into the current coordinate system using 'File|Import|Graph file'."
+msgstr "Μπορείτε να εισάγετε τα περιεχόμενα ενός άλλου αρχείου Graph στο τρέχον σύστημα συντεταγμένων χρησιμοποιώντας 'Αρχείο|Εισαγωγή|αρχείο Graph'."
+
+#, fuzzy
+msgid "If you check 'Save as default' in the Axes dialog the current settings will be used as default when creating new coordinate systems."
+msgstr "Μπορείτε να τσεκάρετε 'Αποθήκευση σαν προκαθορισμένο' στο διάλογο τρεχουσών ρυθμίσεων αξόνων για να χρησιμοποιείται σαν  προκαθορισμένο κατά τη δημιουργία νέων αρχείων."
+
+msgid "While you hold down the Ctrl key, you can use the arrow keys to move the system."
+msgstr "Κρατώντας πατημένο το  Ctrl, μπορείτε να χρησιμοποιείσετε τα βελάκια για να μετακινήσετε το σύστημα."
+
+msgid "While you hold down the Ctrl key, you can use the + and - keys to zoom in and out."
+msgstr "Κρατώντας πατημένο το  Ctrl, χρησιμοποιείστε τα + και - πλήκτρα για μεγέθυνση ή σμίκρυνση."
+
+msgid "You can use the scroll button on your mouse to zoom in and out at the position of the mouse cursor."
+msgstr "Μπορείτε να χρησιμοποιείτε τη ρόδα του ποντικιού για μεγέθυνση ή σμίκρυνση της περιοχής που βρίσκειαι ο δρομέας."
+
+msgid "If you don't want an item shown in the legend, you can right click on the item in the function list and deselect 'Show in legend'."
+msgstr "Αν δεν θέλετε κάτι να εμφανίζεται στη λεζάντα, κάνετε κλικ επάνω του στη λίστα των συναρτήσεων και ξεμαρκάρετε 'Να εμφανίζεται υπότιτλος'."
+
+msgid "If you want the axes shown to the left and bottom of the image, you can choose Axes style as Boxed in the Settings tab of the Axes dialog."
+msgstr "Αν θέλετε οι άξονες να εμφανίζονται κάτω αριστερά, επιλέξατε στο διάλογο Στιλ αξόνων Άκρη."
+
+#, fuzzy
+msgid "Graph can save the shown coordinate system in five different image formats: bmp, emf, png, jpg and pdf."
+msgstr "Το Graph μπορεί να αποθηκεύει το τρέχον σύστημα αξόνων σε 4 διαφορετικά πρότυπα εικόνας: bmp, emf, png και jpg"
+
+#, fuzzy
+msgid "You can use 'Edit|Copy image' to copy the coordinate system and paste it into another program, for example, Microsoft Word. Later you can usually edit the image in Graph by double clicking on it in the other program."
+msgstr "Μπορείτε να χρησιμοποιείσετε 'Επεξεργασία|Αντιγραφή εικόνας' για να αντιγράψετε το σύστημα συντεταγμένων στο πρόχειρο και να το αντιγράψετε σε άλλο πρόγραμμα."
+
+msgid "You can open a saved grf-file in a new instance of the program by double clicking on it in Explorer."
+msgstr "Μπορείτε να ανοίξετε ένα αποθηκευμένο grf-αρχείο σε κάποιο σημείο του προγράμματος διπλοπατώντας το στον Εξερευνητή."
+
+msgid "You can drag a grf-file from explorer into an open instance of Graph to open the file."
+msgstr "Μπορείτε να σύρετε ένα grf-αρχείο από τον Εξερευνητή σε κάποιο στάδιο του Graph για να το ανοίξετε."
+
+#, fuzzy
+msgid "Graph will remember the size of the main window between executions. This can be disabled from the Options dialog."
+msgstr "Το Graph απομνημονεύει το μέγεθος και τη θέση του παράθυρου σε κάθε στάδιο της εκτέλεσης. Απενεργοποιείται απο τις Ρυθμίσεις."
+
+msgid "Calc|Table can be used to create a table with evaluation values for a function."
+msgstr "Υπολογισμός|Πίνακας μπορεί να χρησιμοποιειθεί για να δημιουργηθεί πίνακας υπολογισμού των τιμών της συνάρτησης."
+
+msgid "A part or the whole evaluation table can be exported to a file by right clicking and selecting 'Export to file'. It can afterwards be opened in other programs like Microsoft Excel."
+msgstr "Ενα μέρος του πίνακα υπολογισμού μπορεί να εξαχθεί σε αρχείο με δεξί κλικ και επιλογή 'Εξαγωγή σε αρχείο'. Αυτό μετά μπορεί να ανοιχθεί με άλλο πρόγραμμα όπως Microsoft Excel."
+
+#, fuzzy
+msgid "Data from the evaluation table can be copied to another program like Microsoft Excel."
+msgstr "Δεδομένα από τον πίνακα υπολογισμού μπορεί να αντιγραφούν σε  άλλο πρόγραμμα  όπως το Microsoft Excel χρησιμοποιώντας το πρόχειρο."
+
+#, fuzzy
+msgid "The data points in a point series can be copied to and from other programs like Microsoft Excel."
+msgstr "Δεδομένα από πίνακα σημειοσειράς μπορεί να αντιγραφούν από και σε άλλο πρόγραμμα  όπως το Microsoft Excel χρησιμοποιώντας το πρόχειρο."
+
+#, fuzzy
+msgid "Elements as functions, point series, etc. can be copied from one instance of the program to another using Edit|Copy."
+msgstr "Συναρτήσεις  μπορεί να αντιγραφούν από ένα στάδιο του προγράμματος σε άλλο μέσω προχείρου χρησιμοποιώντας Επεξεργασία|Αντιγραφή."
+
+msgid "You can always undo the last thing you did using Edit|Undo."
+msgstr "Πάντα μπορείτε να αναιρέσετε την τελευταία ενέργια χρησιμοποιώντας Επεξεργασία|Αναίρεση."
+
+msgid "If you used Edit|Undo by mistake, you can use Edit|Redo to redo what you have undone."
+msgstr "Αν χρησιμοποιείσατε Επεξεργασία|Αναίρεση κατά λάθος χρησιμοποιείστε Επεξεργασία|Επανάληψη για να ακυρώσετε την Αναίρεση."
+
+msgid "In the Axes dialog you can add a title to the coordinate system."
+msgstr "Στο διάλογο Άξονες μπορείτε να προσθέσετε ένα τίτλο για το σύστημα συντεταγμένων."
+
+msgid "You can import point series from files saved by other programs, like Microsoft Excel."
+msgstr "Μπορείτε να εισάγετε σημειοσειρές από αποθηκευμένα αρχεία σε άλλα προγράμματα, όπως  Microsoft Excel."
+
+#, fuzzy
+msgid "When inserting a point series, you can copy data from programs like Microsoft Excel, and paste the data into the grid in Graph."
+msgstr "Κατά την εισαγωγή σημειοσειράς δεδομένα από άλλο πρόγραμμα όπως το Microsoft Excel  μπορεί να αντιγραφούν και να επικολληθούν στον πίνακα του Graph."
+
+#, fuzzy
+msgid "You can use 'Zoom|Fit all' to change the coordinate system so all functions and point series are visible."
+msgstr "Μπορείτε να χρησιμοποιείσετε 'Μεγέθυνση|Όλα τα σημεία' για να αλλάξετε το σύστημα συντεταγμένων έτσι ώστε όλα τα σημεία να είναι ορατά."
+
+#, fuzzy
+msgid "You can use Zoom|Fit to change the coordinate system to show all parts of the selected function or point series."
+msgstr "Μπορείτε να χρησιμοποιείσετε Μεγέθυνση|Προσαρμογή για να αλλάξετε το σύστημα συντεταγμένων έτσι ώστε όλες οι συναρτήσεις ή τα σημεία να είναι ορατά."
+
+msgid "When you hold down the Shift key you can drag the coordinate system around with the mouse."
+msgstr "Κρατώντας πατημένο το Shift, μπορείτε να χρησιμοποιείσετε το ποντίκι για να μετακινήσετε το σύστημα."
+
+msgid "You can use Calc|Evaluate to find intersections between functions, crossings with the axes and extremum points."
+msgstr "Μπορείτε να χρησιμοποιείσετε Υπολογισμός|Υπολογισμός για την εύρεση σημείων τομής συναρτήσεων μεταξύ τους, με τους άξονες και ακρότατα."
+
+msgid "When a point series is selected you can add points to it by clicking on the image while you hold down the Ctrl key."
+msgstr "Όταν επιλεγεί σειρά σημείων μπορείτε να προσθέσετε σημεία κάνοντας κλικ στην εικόνα ενώ κρατάτε πατημένο το  Ctrl."
+
+msgid "You can use a relation to plot any inequality, for example sin(x^2) < cos(y^2)"
+msgstr "Μπορείτε να χρησιμοποιείσετε μια σχέση για να παραστήσετε ανίσωση, π.χ. sin(x^2) < cos(y^2)"
+
+msgid "You can use a relation to plot any equation, for example x*sin x = y*cos y"
+msgstr "Μπορείτε να χρησιμοποιείσετε μια σχέση για να παραστήσετε εξίσωση, π.χ.  x*sin x = y*cos y"
+
+msgid "Elements (functions, shadings, labels, relations, etc.) are drawn in the same order they appear in the function list to the left."
+msgstr "Στοιχεία (συναρτήσεις, γραμμοσκιάσεις, ετικέτες, σχέσεις, κλπ.) σχεδιάζονται με τη σειρά που εμφανίζονται στη λίστα των συναρτήσεων αριστερά."
+
+msgid "You can move the selected element in the function list either by dragging it with the mouse or with the arrow up/down keys while ALT is held down."
+msgstr "Μπορείτε να μετακινήσετε επιλεγμένα στοιχεία στη λίστα των συναρτήσεων είτε σύροντας με το ποντίκι είτε με τα βελάκια πανω/κάτω με πατημένο το ALT."
+
+#, fuzzy
+msgid "You can show functions and other elements behind the axes by moving the element above the axes in the function list to the left. To move shadings and tangents you will have to move the functions they are attached to."
+msgstr "Μπορείτε να εμφανίσετε γραμμοσκιάσεις και άλλα στοιχεία πίσω από τους άξονες μετακινόντας τα επάνω στους άξονες στη λίστα αριστερά."
+
+msgid "Custom text labels may be attached to the axes by right clicking on the label and selecting a placement from the context menu."
+msgstr "Ετικέτες προσαρμοσμένου κειμένου μπορεί να προσαρτηθούν στους άξονες με δεξί κλικ και επιλογή θέσης απο το εμφανιζόμενο μενού."
+
+msgid "The legend may be moved freely with the mouse or attached to one of the corners by right clicking on the legend and choose a placement from the context menu."
+msgstr "Οι ετικέτες μπορεί να μετακινούνται ελεύθερα με το ποντίκι ή να τοποθετούνται σε μια γωνία με δεξί κλικ και επιλογή θέσης απο το εμφανιζόμενο μενού."
+
+#, fuzzy
+msgid "As an alternative to Transparent, you can choose a custom background color for labels. This is especially useful for labels drawn over shadings."
+msgstr "Εναλλακτικά το προσαρμοσμένο χρώμα φόντου μπορεί να επιλεγεί διάφανο.Είναι ιδιαίτερα χρήσιμο για ετικέτες πάνω σε γραμμοσκίαση."
+
+msgid "In most places like point series, axes settings, function ranges, etc., you can use expressions like pi/4 instead of numbers."
+msgstr "Σε πολλές περιπτώσεις όπως σημειοσειρές, άξονες, περιοχές συναρτήσεων κλπ, μπορεί να χρησιμοποιειθούν εκφράσεις όπως π/4 αντί αριθμών. "
+
+msgid "You can create your own custom constants under Function|Custom functions for use in functions, point series, etc. For example g=9.80665, R=8.31"
+msgstr "Μπορείτε να δημιουργήσετε δικές σας προσαρμοσμένες σταθερές στο Συναρτήσεις|Προσαρμοσμένες, για χρήση σε συναρτήσεις,  σημειοσειρές, κλπ. Παράδειγμα  g=9.80665, R=8.31"
+
+msgid "You can create your own custom functions under Function|Custom functions for use in plotting functions, relations, etc. For example sinc(x)=if(x=0, 0, sin(x)/x)"
+msgstr "Μπορείτε να δημιουργήσετε δικές σας προσαρμοσμένες συναρτήσεις  στο Συναρτήσεις|Προσαρμοσμένες, για χρήση στη σχεδίαση συναρτήσεων, σχέσεων, κλπ. Παράδειγμα  sinc(x)=if(x=0, 0, sin(x)/x)"
+
+msgid "In the Save as image dialog there is an Option button you can use to specify the image resolution. This is especially useful if you want a high resolution image."
+msgstr "Στο διάλογο  Αποθήκευση σαν εικόνα υπάρχει το κουμπί Επιλογές για να ορίσετε την ανάλυση της εικόνας. Ιδιαίτερα χρήσιμο για εικόνες υψηλής ανάλυσης."
+
+msgid "Point series can have arrows as markers. A point series with arrows as markers and lines between the points can be used to show vectors."
+msgstr "Σημειοσειρές μπορεί να έχουν βέλη σαν μαρκάρισμα σημείου. Σημειοσειρά με βέλη και γραμμές μεταξυ των σημείων χρησιμοποιείται για την παράσταση διανυσμάτων."
+
+msgid "Insert symbol"
+msgstr "Εισαγωγή συμβόλου"
+
+msgid "Subset:"
+msgstr "Αντικείμενο:"
+
+msgid "Insert"
+msgstr "Εισαγωγή"
+
+msgid "Select color"
+msgstr "Επιλογή χρώματος"
+
+msgid "Customize"
+msgstr "Προσαρμογή"
+
+msgid "Description"
+msgstr "Περιγραφή"
+
+msgid "Cannot open clipboard: %s"
+msgstr ""
+
+#, fuzzy
+msgid "There is no default printer currently selected."
+msgstr "Δεν υπάρχει εγκατεστημένος εκτυπωτής."
+
+msgid "Install for all users"
+msgstr ""
+
+#, fuzzy
+msgid "Examples"
+msgstr "Δείγμα"
+
+#, fuzzy
+msgid "Local"
+msgstr "Πετρόλ"
+
+msgid "Global"
+msgstr "Γενικά"
+
+#. PrintFrm..Caption
+msgid "Print"
+msgstr "Εκτύπωση"
+
+#. PrintFrm..Label6..Caption
+msgid "Scale:"
+msgstr "Κλίμακα:"
+
+#. PrintFrm..GroupBox1..Caption
+msgid "Printer"
+msgstr "Εκτυπωτής"
+
+#. PrintFrm..GroupBox1..Label7..Caption
+msgid "Type:"
+msgstr "Τύπος:"
+
+#. PrintFrm..GroupBox1..Label8..Caption
+msgid "Where:"
+msgstr "Θέση:"
+
+#. PrintFrm..GroupBox1..Label9..Caption
+msgid "Comment:"
+msgstr "Σχόλιο:"
+
+#. PrintFrm..GroupBox1..ComboBox1....Hint
+msgid "Select the printer to use. The Properties button may be used to change more advanced settings for the printer."
+msgstr "Επιλέξτε εκτυπωτή. Με το κουμπί Ιδιότητες αλλάξτε σε πιο προχωρημένες ρυθμίσεις."
+
+#. PrintFrm..RadioGroup2....Hint
+msgid "Select to print in color (or grayscale if your printer is not a color printer) or convert all colors to black."
+msgstr "Επιλέξτε έγχρωμη εκτύπωση (ή σε κλίμακα του γκρι αν ο εκτυπωτής δεν είναι έγχρωμος) ή μετατρέψτε όλα τα χρώματα σε μαύρο."
+
+#. PrintFrm..RadioGroup2..Caption
+msgid "Print output"
+msgstr "Είδος εκτύπωσης"
+
+#. PrintFrm..RadioGroup2....Items.Strings
+msgid "Color"
+msgstr "Έγχρωμο"
+
+#. PrintFrm..RadioGroup2....Items.Strings
+msgid "Black && white"
+msgstr "Ασπρόμαυρο"
+
+#. PrintFrm..GroupBox2..Caption
+msgid "Position (millimeters)"
+msgstr "Θέση (χιλιοστά)"
+
+#. PrintFrm..GroupBox2..Label3..Caption
+msgid "Left margin:"
+msgstr "Αριστερό περιθώριο:"
+
+#. PrintFrm..GroupBox2..Label4..Caption
+msgid "Top margin:"
+msgstr "Άνω περιθώριο:"
+
+#. PrintFrm..GroupBox2..CheckBox1..Hint
+#, fuzzy
+msgid "Center the printing area on the page."
+msgstr "Εισαγωγή περιγραφής στην ετικέτα."
+
+#. PrintFrm..GroupBox2..CheckBox1..Caption
+msgid "Center on page"
+msgstr "Κέντρο σελίδας"
+
+#. PrintFrm..GroupBox2..Edit1....Hint
+#. PrintFrm..GroupBox2..Edit2....Hint
+msgid "Specify the printing area of the page. The printer will print only within these margins."
+msgstr ""
+
+#. PrintFrm..GroupBox3..Label5..Caption
+msgid "Number of copies:"
+msgstr "Αριθμός αντιτύπων:"
+
+#. PrintFrm..GroupBox3..Edit3..Hint
+#, fuzzy
+msgid "Choose number of copies to print."
+msgstr "Αριθμός αντιτύπων:"
+
+#. PrintFrm..Edit4..Hint
+msgid "Enter percent of original size."
+msgstr "Βάλτε ποσοστό του κανονικού μεγέθους."
+
+#, fuzzy
+#~ msgid "Associate *.grf files with Graph."
+#~ msgstr "Σύνδεση *.grf αρχείων με το Graph"
+
+#~ msgid "Associate .grf files"
+#~ msgstr "Σύνδεση *.grf αρχείων"
+
+#, fuzzy
+#~ msgid "Integral"
+#~ msgstr "Internet"
+
+#, fuzzy
+#~ msgid "Calculate definite integral"
+#~ msgstr "Υπολογισμος πίνακα"
+
+#, fuzzy
+#~ msgid "Integrate"
+#~ msgstr "Internet"
+
+#~ msgid "Area or length of path calculated for the given range using Simpson's formula."
+#~ msgstr "Επιφάνεια ή μήκος διαδρομής υπολογισμένη για τη δεδομένη περιοχή με τον τύπο Simpson. "
+
+#~ msgid "Extremum"
+#~ msgstr "Μέγιστο"
+
+#~ msgid "This is the functions second derivative evaluated for the entered value."
+#~ msgstr "Δεύτερη παράγωγος της συνάρτησης για τη δοθείσα τιμή."
+
+#~ msgid "Zoom in."
+#~ msgstr "Μεγέθυνση."
+
+#~ msgid "Zoom out."
+#~ msgstr "Σμίκρυνση"
+
+#~ msgid "Zoom to standard coordinates."
+#~ msgstr "Κανονικές συντεταγμένες."
+
+#, fuzzy
+#~ msgid "Calculates the area under the path of the selected function."
+#~ msgstr "Εισαγωγή πρώτης παραγώγου της επιλεγμένης συνάρτησης."
+
+#~ msgid "Go to home page"
+#~ msgstr "Μετάβαση στην αρχική σελίδα"
+
+#~ msgid "About Graph..."
+#~ msgstr "Σχετικά με το Graph..."
+
+#~ msgid "All points"
+#~ msgstr "Όλα τα σημεία"
+
+#~ msgid "Zoom as much as all points are visible."
+#~ msgstr "Προσαρμογή ώστε να φαίνονται όλα τα σημεία."
+
+#~ msgid "Zoom in on the x-axis only."
+#~ msgstr "Μεγέθυνση x-άξονα μόνο."
+
+#~ msgid "Zoom out on the x-axis only."
+#~ msgstr "Σμίκρυνση x-άξονα μόνο."
+
+#~ msgid "Zoom in on the y-axis only."
+#~ msgstr "Μεγέθυνση y-άξονα μόνο."
+
+#~ msgid "Zoom out on the y-axis only."
+#~ msgstr "Σμίκρυνση y-άξονα μόνο."
+
+#~ msgid "Custom functions..."
+#~ msgstr "Προσαρμοσμένες συναρτήσεις..."
+
+#~ msgid "Mark end of range"
+#~ msgstr "Σημειώστε το τέλος της περιοχής"
+
+#~ msgid "Mark the start of the shading with a line."
+#~ msgstr "Σημειώστε την αρχή της γραμμοσκιάσεως με μια γραμμή."
+
+#~ msgid "Mark start of range"
+#~ msgstr "Σημειώστε την αρχή της περιοχής"
+
+#, fuzzy
+#~ msgid "Image information"
+#~ msgstr "Επιλογές εικόνας"
+
+#~ msgid "Open the file %s."
+#~ msgstr "Άνοιγμα φακέλλου  %s."
+
+#~ msgid "Text [*.txt; *.csv]|*.txt;*.csv|All files [*.*]|*.*"
+#~ msgstr "Κείμενο [*.txt; *.csv]|*.txt;*.csv|όλα τα αρχεία [*.*]|*.*"
+
+#~ msgid "The server responded with the message '%s'"
+#~ msgstr "Ο διακομιστής απάντησε με το μήνυμα  '%s'"
+
+#~ msgid "Protocol reply error %s"
+#~ msgstr "Λάθος πρωτοκόλλου %s"
+
+#, fuzzy
+#~ msgid "You can send suggestions for future versions, bug reports and comments to graph@padowan.dk"
+#~ msgstr "Μπορείτε να στέλνετε προτάσεις για μελλοντικές εκδόσεις, αναφορές αστοχιών και σχόλια στο graph@padowan.dk."
+
+#, fuzzy
+#~ msgid "Select to place the image on the middle of the page."
+#~ msgstr "Επιλογή γραμματοσειράς ετικέτας στούς άξονες.."
+
+#~ msgid "Insert shade..."
+#~ msgstr "Εισαγωγή γραμμοσκίασης... "
+
+#~ msgid "Shade"
+#~ msgstr "Γραμμοσκίαση"
+
+#~ msgid "Black"
+#~ msgstr "Μαύρο"
+
+#~ msgid "Maroon"
+#~ msgstr "Βυσσινί"
+
+#~ msgid "Green"
+#~ msgstr "Πράσινο"
+
+#~ msgid "Olive"
+#~ msgstr "Λαδί"
+
+#~ msgid "Navy"
+#~ msgstr "Μπλε-Γκρι"
+
+#~ msgid "Purple"
+#~ msgstr "Βιολετί"
+
+#~ msgid "Gray"
+#~ msgstr "Γκρι"
+
+#~ msgid "Silver"
+#~ msgstr "Ασημί"
+
+#~ msgid "Red"
+#~ msgstr "Κόκκινο"
+
+#~ msgid "Lime"
+#~ msgstr "Φωτεινό πράσινο"
+
+#~ msgid "Yellow"
+#~ msgstr "Κίτρινο"
+
+#~ msgid "Blue"
+#~ msgstr "Μπλε"
+
+#~ msgid "Fuchsia"
+#~ msgstr "Ροζ"
+
+#~ msgid "Aqua"
+#~ msgstr "Τυρκουάζ"
+
+#~ msgid "Money Green"
+#~ msgstr "Πράσινο ανοιχτό"
+
+#~ msgid "Sky Blue"
+#~ msgstr "Παλ μπλε"
+
+#~ msgid "Med Gray"
+#~ msgstr "Γκρι ανοιχτό"
+
+#~ msgid "Insert a text label (select and click in the main window where you want the label)."
+#~ msgstr "Προσθέστε λεζάντα κειμένου.(Επιλέξτε και κάντε κλικ στη θέση που επιθυμήτε να τοποθετηθεί)."
+
+#~ msgid "Cut the selected text to the clipboard"
+#~ msgstr "Αποκοπή επιλεγμένου κειμένου σιό πρόχειρο"
+
+#, fuzzy
+#~ msgid "Open an animation file."
+#~ msgstr "Άνοιγμα φακέλλου  %s."
+
+#, fuzzy
+#~ msgid "Version -%s"
+#~ msgstr "Έκδοση"
+
+#~ msgid "Visible"
+#~ msgstr "Ορατό"
+
+#~ msgid "Check to make the selected item visible in the coordinate system."
+#~ msgstr "Τσεκάρετε για να εμφανίζεται το επιλεγμένο στοιχείο στο σύστημα αξόνων."
+
+#~ msgid "Functions"
+#~ msgstr "Συναρτήσεις"
+
+#~ msgid "Tangents"
+#~ msgstr "Εφαπτομένες"
+
+#~ msgid "Point series"
+#~ msgstr "Σειρά σημείων"
+
+#~ msgid "Shades"
+#~ msgstr "Γραμμοσκιάσεις"
+
+#~ msgid "No error occurred. You should not see this message."
+#~ msgstr "Δεν έγινε λάθος.Μη λαμβάνεις υπόψη το μήνυμα."
+
+#~ msgid "Conversion error"
+#~ msgstr "Μετατροπή λάθος"
+
+#~ msgid ""
+#~ "Unknown error code.\n"
+#~ "Could not find error message for this error."
+#~ msgstr ""
+#~ "Άγνωστο σφάλμα.\n"
+#~ "Δεν υπάρχει μήνυμα για αυτό το σφάλμα."
+
+#~ msgid "This error should not occur. Please report this to the programmer."
+#~ msgstr "Αυτό το σφάλμα δεν έπρεπε να συμβεί.Να αναφερθεί στον προγραμματιστή."
+
+#~ msgid "The maximum length of text has been reached."
+#~ msgstr "Φτάσατε στο μέγιστο μήκος κειμένου."
+
+#~ msgid "Dialog error: %sh"
+#~ msgstr "Σφάλμα διαλόγου: %sh"
+
+#~ msgid "Unknown Graph data found while pasting clipboard data."
+#~ msgstr "Άγνωστη εφαρμογή Graph κατα την επικόλληση από το πρόχειρο."

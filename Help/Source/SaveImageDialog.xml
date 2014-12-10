@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chapter SYSTEM "dtd/dblite.dtd" [
+<!ENTITY % Symbols SYSTEM "Symbols.ent">
+%Symbols;
+]>
+<section id="SaveImageDialog">
+	<?dbhh topicname="IDH_DIALOG_SAVE_IMAGE" topicid="80"?>
+	<title>Save as image</title>
+	<indexterm><primary>save</primary></indexterm>
+	<indexterm><primary>picture</primary></indexterm>
+	<indexterm><primary>image</primary></indexterm>
+	<indexterm><primary>metafile</primary></indexterm>
+	<indexterm><primary>bitmap</primary></indexterm>
+	<indexterm><primary><filename>bmp</filename></primary></indexterm>
+	<indexterm><primary><filename>emf</filename></primary></indexterm>
+	<indexterm><primary><filename>png</filename></primary></indexterm>
+	<indexterm><primary><filename>gif</filename></primary></indexterm>
+	<indexterm><primary><filename>jpg</filename></primary></indexterm>
+	<indexterm><primary><filename>svg</filename></primary></indexterm>
+	<para>
+		Use the menu item <menuchoice><guimenu>File</guimenu><guimenuitem>Save as image...</guimenuitem></menuchoice> to save the shown coordinate system as an image file.
+		When the menu item has been chosen, a standard <guilabel>Save As</guilabel> dialog will appear.
+		In this dialog you write a filename, choose a directory and select one of the following image types:
+	</para>
+
+	<variablelist>
+		<varlistentry>
+			<term>Windows Enhanced Metafile (emf)</term>
+			<listitem>
+				<para>
+					Metafiles are usually preferred because they are small and look nice even when scaled.
+					Though emf files are widely supported under MS Windows, they are not very portable.
+				</para>
+			</listitem>
+		</varlistentry>
+
+		<varlistentry>
+			<term>Scalable Vector Graphics (svg)</term>
+			<listitem>
+				<para>
+					This is a format for portable metafiles and should therefore be preferred for files placed on the Internet.
+					However the format is still not supported by all browsers.
+				</para>
+			</listitem>
+		</varlistentry>
+
+		<varlistentry>
+			<term>Portable Network Graphics (png)</term>
+			<listitem>
+				<para>
+					Portable Network Graphics (png) is a format that is better compressed than bmp files.
+					This is the most sustainable format for web pages, because it is small and can be understood by all browsers.
+				</para>
+			</listitem>
+		</varlistentry>
+
+		<varlistentry>
+			<term>Windows Bitmap (bmp)</term>
+			<listitem>
+				<para>
+					Windows Bitmap (bmp) is a standard format supported by almost all Windows programs that can read graphics files.
+				</para>
+			</listitem>
+		</varlistentry>
+
+		<varlistentry>
+			<term>Joint Photographic Experts Group (jpeg)</term>
+			<listitem>
+				<para>
+					Joint Photographic Experts Group (jpeg) is a bitmap format with loss.
+					It is supported but not recommended because graphs will usually become blurred.
+				</para>
+			</listitem>
+		</varlistentry>
+
+		<varlistentry>
+			<term>Portable Document Format (pdf)</term>
+			<listitem>
+				<para>
+					Portable Document Format (pdf) is actually not an image format.
+					It is a way to store documents as postscript in a portable way.
+					Graph will store the image as Portable Network Graphics inside the pdf file.
+				</para>
+			</listitem>
+		</varlistentry>
+	</variablelist>
+
+	<para>
+		The <guibutton>Options...</guibutton> button in the save dialog can be used to change the image size.
+		You may also be able to change other settings depending on the chosen image format.
+	</para>
+</section>

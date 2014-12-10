@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "dtd/svg11.dtd">
+<svg height="34" viewBox="3 1 57 34" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <g>
+  <text x="3" y="32" font-family="Symbol" font-size="24">&#x222B;</text>
+  <text x="10" y="12" font-family="Times New Roman" font-size="8">b</text>
+  <text x="8" y="35" font-family="Times New Roman" font-size="8">a</text>
+  <text x="45" y="27" font-family="Times New Roman" font-size="15">dx</text>
+  <text x="18" y="27" font-family="Times New Roman" font-size="15">f(x)</text>
+  </g>
+</svg>

@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chapter SYSTEM "dtd/dblite.dtd" [
+<!ENTITY % Symbols SYSTEM "Symbols.ent">
+%Symbols;
+]>
+<section id="ListOfFunctions" xmlns:xi="http://www.w3.org/2001/XInclude">
+	<title>List of functions</title>
+	<indexterm><primary>functions</primary></indexterm>
+	<indexterm><primary>constants</primary></indexterm>
+	<indexterm><primary>x-variable</primary></indexterm>
+	<indexterm><primary>t-variable</primary></indexterm>
+	<indexterm><primary>Euler's constant</primary></indexterm>
+	<indexterm><primary><constant>pi</constant></primary></indexterm>
+	<indexterm><primary>operators</primary></indexterm>
+	<indexterm><primary>addition</primary></indexterm>
+	<indexterm><primary>subtraction</primary></indexterm>
+	<indexterm><primary>multiplication</primary></indexterm>
+	<indexterm><primary>division</primary></indexterm>
+	<indexterm><primary>negation</primary></indexterm>
+	<indexterm><primary>exponentiation</primary></indexterm>
+	<indexterm><primary>power</primary></indexterm>
+	<indexterm><primary>and operator</primary></indexterm>
+	<indexterm><primary>or operator</primary></indexterm>
+	<indexterm><primary>xor operator</primary></indexterm>
+	<indexterm><primary>not operator</primary></indexterm>
+	<indexterm><primary>infinity</primary></indexterm>
+	<indexterm><primary><constant>inf</constant></primary></indexterm>
+
+	<para>
+		The following is a list of all variables, constants, operators and functions supported by the program.
+		The list of operators shows the operators with the highest precedence first.
+		The precedence of operators can be changed through the use of brackets.
+		(), {} and [] may all be used alike.
+		Notice that expressions in Graph are case insensitive, i.e. there are no difference between upper and lower case characters.
+		The only exception is <function>e</function> as Euler's constant and E as the exponent in a <glossterm linkend="RealNumber">number</glossterm> in scientific notation.
+	</para>
+	<para>
+		<informaltable>
+			<?dbhtml table-width="90%" ?>
+			<tgroup cols="2">
+				<colspec colnum="1" colwidth="1.9cm"/>
+				<colspec colnum="2" colwidth="*"/>
+				<thead>
+					<row>
+						<entry>Constant</entry>
+						<entry>Description</entry>
+					</row>
+				</thead>
+				<tbody>
+					<row>
+						<entry><varname>x</varname></entry>
+						<entry>The independent variable used in standard functions.</entry>
+					</row>
+					<row>
+						<entry><varname>t</varname></entry>
+						<entry>The independent variable called parameter for parametric functions and polar angle for polar functions.</entry>
+					</row>
+					<row>
+						<entry><constant>e</constant></entry>
+						<entry>Euler's constant. In this program defined as <mathphrase>e=2.718281828459045235360287</mathphrase></entry>
+					</row>
+					<row>
+						<entry><constant>pi</constant></entry>
+ 	   				<entry>The constant &pi;, which in this program is defined as <mathphrase>pi=3.141592653589793238462643</mathphrase></entry>
+ 	   			</row>
+		 			<row>
+ 	   				<entry><constant>undef</constant></entry>
+ 	   				<entry>Always returns an error. Used to indicate that part of a function is undefined.</entry>
+ 	   			</row>
+ 	   			<row>
+ 	   				<entry><constant>&imag;</constant></entry>
+ 	   				<entry>The imaginary unit. Defined as <mathphrase>&imag;<superscript>2</superscript> = -1</mathphrase>. Only useful when working with complex numbers.</entry>
+		 			</row>
+					<row>
+						<entry><constant>inf</constant></entry>
+						<entry>The constant for infinity. Only useful as argument to the <function>integrate</function> function.</entry>
+					</row>
+ 	   			<row>
+ 	   				<entry><xref linkend="rand"/></entry>
+ 	   				<entry>Evaluates to a random number between 0 and 1.</entry>
+    			</row>
+ 				</tbody>
+			</tgroup>
+		</informaltable>
+	</para>
+
+
+	<para>
+		<informaltable>
+			<?dbhtml table-width="90%" ?>
+			<tgroup cols="2">
+				<colspec colnum="1" colwidth="0.25*"/>
+				<colspec colnum="2" colwidth="0.75*"/>
+				<thead>
+					<row>
+						<entry>Operator</entry>
+						<entry>Description</entry>
+					</row>
+				</thead>
+				<tbody>
+					<row>
+						<entry>Exponentiation (^)</entry>
+						<entry>Raise to the power of an exponent. Example: f(x)=2^x</entry>
+					</row>
+					<row>
+						<entry>Negation (-)</entry>
+						<entry>The negative value of a factor. Example: f(x)=-x</entry>
+					</row>
+					<row>
+						<entry>Logical NOT (not)</entry>
+						<entry><function>not</function> <parameter>a</parameter> evaluates to 1 if <parameter>a</parameter> is zero, and evaluates to 0 otherwise.</entry>
+					</row>
+					<row>
+						<entry>Multiplication (*)</entry>
+		     		<entry>Multiplies two factors. Example: f(x)=2*x</entry>
+		     	</row>
+			 		<row>
+		     		<entry>Division (/)</entry>
+		     		<entry>Divides two factors. Example: f(x)=2/x</entry>
+		     	</row>
+		     	<row>
+		     		<entry>Addition (+)</entry>
+		     		<entry>Adds two terms. Example: f(x)=2+x</entry>
+			 		</row>
+		     	<row>
+		     		<entry>Subtraction (-)</entry>
+		     		<entry>Subtracts two terms. Example: f(x)=2-x</entry>
+		      </row>
+		     	<row>
+		     		<entry>Greater than (>)</entry>
+		     		<entry>Indicates if an expression is greater than another expression.</entry>
+		      </row>
+		     	<row>
+		     		<entry>Greater than or equal to (>=)</entry>
+		     		<entry>Indicates if an expression is greater or equal to another expression.</entry>
+		      </row>
+		     	<row>
+		     		<entry>Less than (&lt;)</entry>
+		     		<entry>Indicates if an expression is less than another expression.</entry>
+		      </row>
+		     	<row>
+		     		<entry>Less than or equal to (&lt;=)</entry>
+		     		<entry>Indicates if an expression is less or equal to another expression.</entry>
+		      </row>
+		     	<row>
+		     		<entry>Equal (=)</entry>
+		     		<entry>Indicates if two expressions evaluate to the exact same value.</entry>
+		      </row>
+		     	<row>
+		     		<entry>Not equal (&lt;>)</entry>
+		     		<entry>Indicates if two expressions does not evaluate to the exact same value.</entry>
+		      </row>
+		     	<row>
+		     		<entry>Logical AND (and)</entry>
+		     		<entry>
+							<parameter>a</parameter> <function>and</function> <parameter>b</parameter> evaluates to 1 if both <parameter>a</parameter> and <parameter>b</parameter>
+							are non-zero, and evaluates to 0 otherwise.
+						</entry>
+		      </row>
+		     	<row>
+		     		<entry>Logical OR (or)</entry>
+		     		<entry>
+							<parameter>a</parameter> <function>or</function> <parameter>b</parameter> evaluates to 1 if either <parameter>a</parameter> or <parameter>b</parameter>
+							are non-zero, and evaluates to 0 otherwise.
+						</entry>
+					</row>
+		     	<row>
+		     		<entry>Logical XOR (xor)</entry>
+		     		<entry>
+							<parameter>a</parameter> <function>xor</function> <parameter>b</parameter> evaluates to 1 if either <parameter>a</parameter> or <parameter>b</parameter>,
+							but not both, are non-zero, and evaluates to 0 otherwise.
+						</entry>
+		      </row>
+		    </tbody>
+		 	</tgroup>
+		</informaltable>
+	</para>
+
+
+	<?hard-pagebreak?>
+	<para>
+		<informaltable>
+			<?dbhtml table-width="90%" ?>
+			<tgroup cols="2">
+				<colspec colnum="1" colname="col1" colwidth="1.9cm"/>
+				<colspec colnum="2" colname="col2" colwidth="*"/>
+				<thead>
+					<row>
+						<entry>Function</entry>
+						<entry>Description</entry>
+					</row>
+				</thead>
+				<tbody>
+					<row>
+						<entry namest="col1" nameend="col2" align="center"><emphasis>Trigonometric</emphasis></entry>
+					</row>
+					<row>
+						<entry><xref linkend="sin"/></entry>
+						<entry>Returns the sine of the argument, which may be in radians or degrees.</entry>
+					</row>
+					<row>
+						<entry><xref linkend="cos"/></entry>
+						<entry>Returns the cosine of the argument, which may be in radians or degrees.</entry>
+					</row>
+					<row>
+						<entry><xref linkend="tan"/></entry>
+   					<entry>Returns the tangent of the argument, which may be in radians or degrees.</entry>
+   				</row>
+	 				<row>
+   					<entry><xref linkend="asin"/></entry>
+     				<entry>Returns the inverse sine of the argument. The returned value may be in radians or degrees.</entry>
+   				</row>
+   				<row>
+   					<entry><xref linkend="acos"/></entry>
+   					<entry>Returns the inverse cosine of the argument. The returned value may be in radians or degrees.</entry>
+		 			</row>
+   				<row>
+   					<entry><xref linkend="atan"/></entry>
+   					<entry>Returns the inverse tangent of the argument. The returned value may be in radians or degrees.</entry>
+   				</row>
+   				<row>
+   					<entry><xref linkend="sec"/></entry>
+   					<entry>Returns the secant of the argument, which may be in radians or degrees.</entry>
+   				</row>
+   				<row>
+   					<entry><xref linkend="csc"/></entry>
+   					<entry>Returns the cosecant of the argument, which may be in radians or degrees.</entry>
+   				</row>
+   				<row>
+   					<entry><xref linkend="cot"/></entry>
+   					<entry>Returns the cotangent of the argument, which may be in radians or degrees.</entry>
+   				</row>
+   				<row>
+   					<entry><xref linkend="asec"/></entry>
+   					<entry>Returns the inverse secant of the argument. The returned value may be in radians or degrees.</entry>
+   				</row>
+   				<row>
+   					<entry><xref linkend="acsc"/></entry>
+   					<entry>Returns the inverse cosecant of the argument. The returned value may be in radians or degrees.</entry>
+   				</row>
+   				<row>
+   					<entry><xref linkend="acot"/></entry>
+   					<entry>Returns the inverse cotangent of the argument. The returned value may be in radians or degrees.</entry>
+   				</row>
+					<row>
+						<entry namest="col1" nameend="col2" align="center"><emphasis>Hyperbolic</emphasis></entry>
+					</row>
+					<row>
+						<entry><xref linkend="sinh"/></entry>
+						<entry>Returns the hyperbolic sine of the argument.</entry>
+					</row>
+					<row>
+						<entry><xref linkend="cosh"/></entry>
+						<entry>Returns the hyperbolic cosine of the argument.</entry>
+					</row>
+					<row>
+						<entry><xref linkend="tanh"/></entry>
+						<entry>Returns the hyperbolic tangent of the argument.</entry>
+					</row>
+					<row>
+						<entry><xref linkend="asinh"/></entry>
+						<entry>Returns the inverse hyperbolic sine of the argument.</entry>
+					</row>
+					<row>
+						<entry><xref linkend="acosh"/></entry>
+						<entry>Returns the inverse hyperbolic cosine of the argument.</entry>
+					</row>
+					<row>
+						<entry><xref linkend="atanh"/></entry>
+						<entry>Returns the inverse hyperbolic tangent of the argument.</entry>
+					</row>
+					<row>
+						<entry><xref linkend="csch"/></entry>
+						<entry>Returns the hyperbolic cosecant of the argument.</entry>
+					</row>
+					<row>
+						<entry><xref linkend="sech"/></entry>
+						<entry>Returns the hyperbolic secant of the argument.</entry>
+					</row>
+					<row>
+						<entry><xref linkend="coth"/></entry>
+						<entry>Returns the hyperbolic cotangent of the argument.</entry>
+					</row>
+					<row>
+						<entry><xref linkend="acsch"/></entry>
+						<entry>Returns the inverse hyperbolic cosecant of the argument.</entry>
+					</row>
+					<row>
+						<entry><xref linkend="asech"/></entry>
+						<entry>Returns the inverse hyperbolic secant of the argument.</entry>
+					</row>
+					<row>
+						<entry><xref linkend="acoth"/></entry>
+						<entry>Returns the inverse hyperbolic cotangent of the argument.</entry>
+					</row>
+					<row>
+						<entry namest="col1" nameend="col2" align="center"><emphasis>Power and Logarithm</emphasis></entry>
+					</row>
+					<row>
+						<entry><xref linkend="sqr"/></entry>
+						<entry>Returns the square of the argument, i.e. the power of two.</entry>
+					</row>
+					<row>
+						<entry><xref linkend="exp"/></entry>
+						<entry>Returns e raised to the power of the argument.</entry>
+					</row>
+					<row>
+						<entry><xref linkend="sqrt"/></entry>
+						<entry>Returns the square root of the argument.</entry>
+					</row>
+					<row>
+						<entry><xref linkend="root"/></entry>
+						<entry>Returns the n<superscript>th</superscript> root of the argument.</entry>
+					</row>
+					<row>
+						<entry><xref linkend="ln"/></entry>
+						<entry>Returns the logarithm with base e to the argument.</entry>
+					</row>
+					<row>
+						<entry><xref linkend="log"/></entry>
+						<entry>Returns the logarithm with base 10 to the argument.</entry>
+					</row>
+					<row>
+						<entry><xref linkend="logb"/></entry>
+						<entry>Returns the logarithm with base n to the argument.</entry>
+					</row>
+					<row>
+						<entry namest="col1" nameend="col2" align="center"><emphasis>Complex</emphasis></entry>
+					</row>
+					<row>
+						<entry><xref linkend="abs"/></entry>
+						<entry>Returns the absolute value of the argument.</entry>
+					</row>
+					<row>
+						<entry><xref linkend="arg"/></entry>
+						<entry>Returns the angle of the argument in radians or degrees.</entry>
+					</row>
+					<row>
+						<entry><xref linkend="conj"/></entry>
+						<entry>Returns the conjugate of the argument.</entry>
+					</row>
+					<row>
+						<entry><xref linkend="re"/></entry>
+						<entry>Returns the real part of the argument.</entry>
+					</row>
+					<row>
+						<entry><xref linkend="im"/></entry>
+						<entry>Returns the imaginary part of the argument.</entry>
+					</row>
+					<row>
+						<entry namest="col1" nameend="col2" align="center"><emphasis>Rounding</emphasis></entry>
+					</row>
+					<row>
+						<entry><xref linkend="trunc"/></entry>
+						<entry>Returns the integer part of the argument.</entry>
+					</row>
+					<row>
+						<entry><xref linkend="fract"/></entry>
+						<entry>Returns the fractional part of the argument.</entry>
+					</row>
+					<row>
+						<entry><xref linkend="ceil"/></entry>
+						<entry>Rounds the argument up to nearest integer.</entry>
+					</row>
+					<row>
+						<entry><xref linkend="floor"/></entry>
+						<entry>Rounds the argument down to the nearest integer.</entry>
+					</row>
+					<row>
+						<entry><xref linkend="round"/></entry>
+						<entry>Rounds the first argument to the number of decimals given by the second argument.</entry>
+					</row>
+					<row>
+						<entry namest="col1" nameend="col2" align="center"><emphasis>Piecewise</emphasis></entry>
+					</row>
+					<row>
+						<entry><xref linkend="sign"/></entry>
+						<entry>Returns the sign of the argument: 1 if the argument is greater than 0, and -1 if the argument is less than 0.</entry>
+					</row>
+					<row>
+						<entry><xref linkend="u"/></entry>
+						<entry>Unit step: Returns 1 if the argument is greater than or equal 0, and 0 otherwise.</entry>
+					</row>
+					<row>
+						<entry><xref linkend="min"/></entry>
+						<entry>Returns the smallest of the arguments.</entry>
+					</row>
+					<row>
+						<entry><xref linkend="max"/></entry>
+						<entry>Returns the greatest of the arguments.</entry>
+					</row>
+					<row>
+						<entry><xref linkend="range"/></entry>
+						<entry>Returns the second argument if it is in the range of the first and third argument.</entry>
+					</row>
+					<row>
+						<entry><xref linkend="if"/></entry>
+						<entry>Returns the second argument if the first argument does not evaluate to 0; Else the third argument is returned.</entry>
+					</row>
+					<row>
+						<entry namest="col1" nameend="col2" align="center"><emphasis>Special</emphasis></entry>
+					</row>
+					<row>
+						<entry><xref linkend="integrate"/></entry>
+						<entry>Returns the numeric integral of the first argument from the second argument to the third argument.</entry>
+					</row>
+					<row>
+						<entry><xref linkend="sum"/></entry>
+						<entry>Returns the sum of the first argument evaluated for each integer in the range from the second to the third argument.</entry>
+					</row>
+					<row>
+						<entry><xref linkend="product"/></entry>
+						<entry>Returns the product of the first argument evaluated for each integer in the range from the second to the third argument.</entry>
+					</row>
+					<row>
+						<entry><xref linkend="fact"/></entry>
+						<entry>Returns the factorial of the argument.</entry>
+					</row>
+					<row>
+						<entry><xref linkend="gamma"/></entry>
+						<entry>Returns the Euler gamma function of the argument.</entry>
+					</row>
+					<row>
+						<entry><xref linkend="beta"/></entry>
+						<entry>Returns the beta function evaluated for the arguments.</entry>
+					</row>
+					<row>
+						<entry><xref linkend="w"/></entry>
+						<entry>Returns the Lambert W-function evaluated for the argument.</entry>
+					</row>
+					<row>
+						<entry><xref linkend="zeta"/></entry>
+						<entry>Returns the Riemann Zeta function evaluated for the argument.</entry>
+					</row>
+					<row>
+						<entry><xref linkend="mod"/></entry>
+						<entry>Returns the remainder of the first argument divided by the second argument.</entry>
+					</row>
+					<row>
+						<entry><xref linkend="dnorm"/></entry>
+						<entry>Returns the normal distribution of the first argument with optional mean value and standard deviation.</entry>
+					</row>
+				</tbody>
+ 			</tgroup>
+		</informaltable>
+	</para>
+
+	<simplesect>
+		<title>Notice the following relations:</title>
+		<para>
+			<simplelist>
+				<member><mathphrase>sin(x)^2= (sin(x))^2</mathphrase></member>
+				<member><mathphrase>sin 2x = sin(2x)</mathphrase></member>
+				<member><mathphrase>sin 2+x = sin(2)+x</mathphrase></member>
+				<member><mathphrase>sin x^2	= sin(x^2)</mathphrase></member>
+				<member><mathphrase>2(x+3)x	= 2*(x+3)*x</mathphrase></member>
+				<member><mathphrase>-x^2 = -(x^2)</mathphrase></member>
+				<member><mathphrase>2x = 2*x</mathphrase></member>
+                                <member><mathphrase>1/2x = 1/(2*x)</mathphrase></member>
+				<member><mathphrase>e^2x = e^(2*x)</mathphrase></member>
+				<member><mathphrase>x^2^3 = x^(2^3)</mathphrase></member>
+			</simplelist>
+		</para>
+	</simplesect>
+</section>
+<?hard-pagebreak?>

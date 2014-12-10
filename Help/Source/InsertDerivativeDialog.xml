@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chapter SYSTEM "dtd/dblite.dtd" [
+<!ENTITY % Symbols SYSTEM "Symbols.ent">
+%Symbols;
+]>
+<section id="InsertDerivativeDialog">
+	<?dbhh topicname="IDH_DIALOG_DERIVATIVE" topicid="70"?>
+	<title>Insert f'(x)</title>
+	<indexterm><primary>insert</primary></indexterm>
+	<indexterm><primary><mathphrase>f'(x)</mathphrase></primary></indexterm>
+	<indexterm><primary>differentiate</primary></indexterm>
+	<indexterm><primary>derivative</primary></indexterm>
+	<indexterm><primary>slope</primary></indexterm>
+	<indexterm><primary>function</primary></indexterm>
+	<para>
+		The dialog shown below is used to create the first derivative of a function.
+		To create a derivative, you select the function you want to differentiate and use <menuchoice><guimenu>Function</guimenu><guimenuitem>Insert f'(x)...</guimenuitem></menuchoice>.
+	</para>
+	<para>
+		If the function is a standard function, the first derivative is the slope of the function, and it is defined as the function differentiated with respect to x:
+		<mathphrase>f'(x) = df(x)/dx</mathphrase>
+	</para>
+
+  <graphic fileref="DialogDiff.png" align="center" scale="60"/>
+
+	<para>
+		You can select an interval, line style, width in pixels and color for the derivative of the function.
+		The derivative is inserted as a function and can be edited as such.
+		The derivative will not change if you edit the original function.
+	</para>
+</section>

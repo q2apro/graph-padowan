@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chapter SYSTEM "dtd/dblite.dtd" [
+<!ENTITY % Symbols SYSTEM "Symbols.ent">
+%Symbols;
+]>
+<section id="Special">
+	<title>Special</title>
+	<section id="integrate" xreflabel="integrate">
+		<title><markup>integrate</markup> function</title>
+		<indexterm><primary><function>integrate</function> function</primary></indexterm>
+		<indexterm><primary>numerical integral</primary></indexterm>
+		<indexterm><primary>area</primary></indexterm>
+		<para>
+			Returns an approximation for the numerical integral of the given expression over the given range.
+		</para>
+		<simplesect>
+			<title>Syntax</title>
+			<para><mathphrase>integrate(f,var,a,b)</mathphrase></para>
+		</simplesect>
+		<simplesect>
+			<title>Description</title>
+			<para>
+				The <function>integrate</function> function returns an approximation for the numerical integral of <parameter>f</parameter> with the variable
+				<parameter>var</parameter> from <parameter>a</parameter> to <parameter>b</parameter>.
+				This is mathematically written as:
+				<mediaobject>
+	  			<imageobject role="fo"><imagedata fileref="Integrate.svg"/></imageobject>
+  				<imageobject role="htmlhelp"><imagedata fileref="Integrate.emf"/></imageobject>
+  				<imageobject role="html"><imagedata fileref="Integrate.png"/></imageobject>
+				</mediaobject>
+			</para>
+			<para>
+				This integral is the same as the area between the function <parameter>f</parameter> and the x-axis from <parameter>a</parameter> to <parameter>b</parameter>
+				where the area under the axis is counted negative.
+				<parameter>f</parameter> may be any function with the variable indicated as the second argument <parameter>var</parameter>.
+				<parameter>a</parameter> and <parameter>b</parameter> may be any <glossterm linkend="NumericExpression">numeric expressions</glossterm> that evaluate to
+				<glossterm linkend="RealNumber">real numbers</glossterm> or they can be <constant>-INF</constant> or <constant>INF</constant> to indicate negative or positive infinity.
+				<function>integrate</function> does not calculate the integral exactly.
+				Instead the calculation is done using the Gauss-Kronrod 21-point integration rule adaptively to an estimated relative error less than <mathphrase>10<superscript>-3</superscript></mathphrase>.
+			</para>
+		</simplesect>
+		<simplesect>
+			<title>Examples</title>
+			<para>
+			<mathphrase>f(x)=integrate(t^2-7t+1, t, -3, 15)</mathphrase> will integrate f(t)=t^2-7t+1 from -3 to 15 and evaluate to 396.
+			More useful is <mathphrase>f(x)=integrate(s*sin(s), s, 0, x)</mathphrase>.
+			This will plot the definite integral of f(s)=s*sin(s) from 0 to x, which is the same as the indefinite integral of f(x)=x*sin(x).
+			</para>
+		</simplesect>
+		<simplesect>
+			<title>See also</title>
+			<para>
+				<simplelist>
+					<member><ulink url="http://en.wikipedia.org/wiki/Integral"><orgname>Wikipedia</orgname></ulink></member>
+					<member><ulink url="http://mathworld.wolfram.com/Integral.html"><orgname>MathWorld</orgname></ulink></member>
+				</simplelist>
+			</para>
+		</simplesect>
+	</section>
+
+
+	<section id="sum" xreflabel="sum">
+		<title><markup>sum</markup> function</title>
+		<indexterm><primary><function>sum</function> function</primary></indexterm>
+		<indexterm><primary>summation</primary></indexterm>
+		<para>
+			Returns the summation of an expression evaluated over a range of integers.
+		</para>
+		<simplesect>
+			<title>Syntax</title>
+			<para><mathphrase>sum(f,var,a,b)</mathphrase></para>
+		</simplesect>
+		<simplesect>
+			<title>Description</title>
+			<para>
+				The <function>sum</function> function returns the summation of <parameter>f</parameter> where <parameter>var</parameter> is evaluated for all integers from <parameter>a</parameter> to <parameter>b</parameter>.
+				This is mathematically written as:
+				<mediaobject>
+	  			<imageobject role="fo"><imagedata fileref="Sum.svg"/></imageobject>
+  				<imageobject role="htmlhelp"><imagedata fileref="Sum.emf"/></imageobject>
+  				<imageobject role="html"><imagedata fileref="Sum.png"/></imageobject>
+				</mediaobject>
+			</para>
+			<para>
+				<parameter>f</parameter> may be any function with the variable indicated as the second argument <parameter>var</parameter>.
+				<parameter>a</parameter> and <parameter>b</parameter> may be any <glossterm linkend="NumericExpression">numeric expressions</glossterm> that evaluate to <glossterm linkend="Integer">integers</glossterm>.
+			</para>
+		</simplesect>
+		<simplesect>
+			<title>See also</title>
+			<para>
+				<simplelist>
+					<member><ulink url="http://en.wikipedia.org/wiki/Summation"><orgname>Wikipedia</orgname></ulink></member>
+					<member><ulink url="http://mathworld.wolfram.com/Sum.html"><orgname>MathWorld</orgname></ulink></member>
+				</simplelist>
+			</para>
+		</simplesect>
+	</section>
+
+
+	<section id="product" xreflabel="product">
+		<title><markup>product</markup> function</title>
+		<indexterm><primary><function>product</function> function</primary></indexterm>
+		<para>
+			Returns the product of an expression evaluated over a range of integers.
+		</para>
+		<simplesect>
+			<title>Syntax</title>
+			<para><mathphrase>product(f,var,a,b)</mathphrase></para>
+		</simplesect>
+		<simplesect>
+			<title>Description</title>
+			<para>
+				The <function>product</function> function returns the product of <parameter>f</parameter> where <parameter>var</parameter> is evaluated for all integers from <parameter>a</parameter> to <parameter>b</parameter>.
+				This is mathematically written as:
+				<mediaobject>
+	  			<imageobject role="fo"><imagedata fileref="Product.svg"/></imageobject>
+  				<imageobject role="htmlhelp"><imagedata fileref="Product.emf"/></imageobject>
+  				<imageobject role="html"><imagedata fileref="Product.png"/></imageobject>
+				</mediaobject>
+			</para>
+			<para>
+				<parameter>f</parameter> may be any function with the variable indicated as the second argument <parameter>var</parameter>.
+				<parameter>a</parameter> and <parameter>b</parameter> may be any <glossterm linkend="NumericExpression">numeric expressions</glossterm> that evaluate to <glossterm linkend="Integer">integers</glossterm>.
+			</para>
+		</simplesect>
+		<simplesect>
+			<title>See also</title>
+			<para>
+				<simplelist>
+					<member><ulink url="http://en.wikipedia.org/wiki/Multiplication#Capital_pi_notation"><orgname>Wikipedia</orgname></ulink></member>
+					<member><ulink url="http://mathworld.wolfram.com/Product.html"><orgname>MathWorld</orgname></ulink></member>
+				</simplelist>
+			</para>
+		</simplesect>
+	</section>
+
+
+	<section id="fact" xreflabel="fact">
+		<title><markup>fact</markup> function</title>
+		<indexterm><primary><function>fact</function> function</primary></indexterm>
+		<indexterm><primary>factorial</primary></indexterm>
+		<para>
+			Returns the factorial of the argument.
+		</para>
+		<simplesect>
+			<title>Syntax</title>
+			<para><mathphrase>fact(n)</mathphrase></para>
+		</simplesect>
+		<simplesect>
+			<title>Description</title>
+			<para>
+			  The <function>fact</function> function returns the factorial of <parameter>n</parameter>, commonly written as n!.
+				<parameter>n</parameter> may be any <glossterm>numeric expression</glossterm> that evaluates to a positive <glossterm>integer</glossterm>.
+				The function is defined as <mathphrase>fact(n)=n(n-1)(n-2)...1</mathphrase>,
+				and relates to the <function linkend="gamma">gamma</function> function as <mathphrase>fact(n)=gamma(n+1)</mathphrase>.
+			</para>
+		</simplesect>
+		<simplesect>
+			<title>See also</title>
+			<para>
+				<simplelist>
+					<member><ulink url="http://en.wikipedia.org/wiki/Factorial"><orgname>Wikipedia</orgname></ulink></member>
+					<member><ulink url="http://mathworld.wolfram.com/Factorial.html"><orgname>MathWorld</orgname></ulink></member>
+				</simplelist>
+			</para>
+		</simplesect>
+	</section>
+
+
+	<section id="gamma" xreflabel="gamma">
+		<title><markup>gamma</markup> function</title>
+		<indexterm><primary><function>gamma</function> function</primary></indexterm>
+		<indexterm><primary>factorial</primary></indexterm>
+		<para>
+			Returns the value of the Euler gamma function of the argument.
+		</para>
+		<simplesect>
+			<title>Syntax</title>
+			<para><mathphrase>gamma(z)</mathphrase></para>
+		</simplesect>
+		<simplesect>
+			<title>Description</title>
+			<para>
+				The <function>gamma</function> function returns the result of the Euler gamma function of <parameter>z</parameter>, commonly written as &Gamma;(z).
+				<parameter>z</parameter> may be any <glossterm>numeric expression</glossterm> that evaluates to a <glossterm>real number</glossterm> or a <glossterm>complex number</glossterm>.
+				The gamma function relates to the factorial function as <mathphrase>fact(n)=gamma(n+1)</mathphrase>.
+				The mathematical definition of the gamma function is:
+				<informalfigure>
+				<mediaobject>
+	  			<imageobject role="fo"><imagedata fileref="Gamma.svg"/></imageobject>
+  				<imageobject role="htmlhelp"><imagedata fileref="Gamma.emf"/></imageobject>
+  				<imageobject role="html"><imagedata fileref="Gamma.png"/></imageobject>
+				</mediaobject>
+				</informalfigure>
+				This cannot be calculated precisely, so Graph is using the Lanczos approximation to calculate the <function>gamma</function> function.
+			</para>
+		</simplesect>
+		<simplesect>
+			<title>See also</title>
+			<para>
+				<simplelist>
+					<member><ulink url="http://en.wikipedia.org/wiki/Gamma_function"><orgname>Wikipedia</orgname></ulink></member>
+					<member><ulink url="http://mathworld.wolfram.com/GammaFunction.html"><orgname>MathWorld</orgname></ulink></member>
+				</simplelist>
+			</para>
+		</simplesect>
+	</section>
+
+
+	<section id="beta" xreflabel="beta">
+		<title><markup>beta</markup> function</title>
+		<indexterm><primary><function>beta</function> function</primary></indexterm>
+		<para>
+			Returns the value of the Euler beta function evaluated for the arguments.
+		</para>
+		<simplesect>
+			<title>Syntax</title>
+			<para><mathphrase>beta(m, n)</mathphrase></para>
+		</simplesect>
+		<simplesect>
+			<title>Description</title>
+			<para>
+				The <function>beta</function> function returns the result of the Euler beta function evaluated for <parameter>m</parameter> and <parameter>n</parameter>.
+				<parameter>m</parameter> and <parameter>n</parameter> may be any <glossterm linkend="NumericExpression">numeric expressions</glossterm>
+				that evaluate to <glossterm linkend="RealNumber">real numbers</glossterm> or <glossterm linkend="ComplexNumber">complex numbers</glossterm>.
+				The <function>beta</function> function relates to the <function linkend="gamma">gamma</function> function as
+				<mathphrase>beta(m, n) = gamma(m) * gamma(n) / gamma(m+n)</mathphrase>.
+			</para>
+		</simplesect>
+		<simplesect>
+			<title>See also</title>
+			<para>
+				<simplelist>
+					<member><ulink url="http://en.wikipedia.org/wiki/Beta_function"><orgname>Wikipedia</orgname></ulink></member>
+					<member><ulink url="http://mathworld.wolfram.com/BetaFunction.html"><orgname>MathWorld</orgname></ulink></member>
+				</simplelist>
+			</para>
+		</simplesect>
+	</section>
+
+
+	<section id="w" xreflabel="W">
+		<title><markup>W</markup> function</title>
+		<indexterm><primary><function>W</function> function</primary></indexterm>
+		<indexterm><primary>Lambert W-function</primary></indexterm>
+		<indexterm><primary>omega function</primary></indexterm>
+		<para>
+			Returns the value of the Lambert W-function evaluated for the argument.
+		</para>
+		<simplesect>
+			<title>Syntax</title>
+			<para><mathphrase>W(z)</mathphrase></para>
+		</simplesect>
+		<simplesect>
+			<title>Description</title>
+			<para>
+			  The <function>W</function> function returns the result of the Lambert W-function, also known as the omega function, evaluated for <parameter>z</parameter>.
+				<parameter>z</parameter> may be any <glossterm>numeric expression</glossterm> that evaluates to a <glossterm>real number</glossterm> or a <glossterm>complex number</glossterm>.
+				The inverse of the <function>W</function> function is given by <mathphrase>f(W)=W*e<superscript>W</superscript></mathphrase>.
+			</para>
+		</simplesect>
+		<simplesect>
+			<title>Remarks</title>
+			<para>
+				For real values of <parameter>z</parameter> when <mathphrase><parameter>z</parameter> &lt; -1/e</mathphrase>, the <function>W</function> function will evaluate to values with an imaginary part.
+			</para>
+		</simplesect>
+		<simplesect>
+			<title>See also</title>
+			<para>
+				<simplelist>
+					<member><ulink url="http://en.wikipedia.org/wiki/Lambert_w_function"><orgname>Wikipedia</orgname></ulink></member>
+					<member><ulink url="http://mathworld.wolfram.com/LambertW-Function.html"><orgname>MathWorld</orgname></ulink></member>
+				</simplelist>
+			</para>
+		</simplesect>
+	</section>
+
+
+	<section id="zeta" xreflabel="zeta">
+		<title><markup>zeta</markup> function</title>
+		<indexterm><primary><function>zeta</function> function</primary></indexterm>
+		<indexterm><primary>Riemann Zeta function</primary></indexterm>
+		<para>
+			Returns the value of the Riemann Zeta function evaluated for the argument.
+		</para>
+		<simplesect>
+			<title>Syntax</title>
+			<para><mathphrase>zeta(z)</mathphrase></para>
+		</simplesect>
+		<simplesect>
+			<title>Description</title>
+			<para>
+			  The <function>zeta</function> function returns the result of the Riemann Zeta function, commonly written as &zeta;(s).
+				<parameter>z</parameter> may be any <glossterm>numeric expression</glossterm> that evaluates to a <glossterm>real number</glossterm> or a <glossterm>complex number</glossterm>.
+			</para>
+		</simplesect>
+		<simplesect>
+			<title>Remarks</title>
+			<para>
+				The <function>zeta</function> function is defined for the whole complex plane except for the pole at <parameter>z</parameter>=1.
+			</para>
+		</simplesect>
+		<simplesect>
+			<title>See also</title>
+			<para>
+				<simplelist>
+					<member><ulink url="http://en.wikipedia.org/wiki/Riemann_zeta_function"><orgname>Wikipedia</orgname></ulink></member>
+					<member><ulink url="http://mathworld.wolfram.com/RiemannZetaFunction.html"><orgname>MathWorld</orgname></ulink></member>
+				</simplelist>
+			</para>
+		</simplesect>
+	</section>
+
+
+	<section id="mod" xreflabel="mod">
+		<title><markup>mod</markup> function</title>
+		<indexterm><primary><function>mod</function> function</primary></indexterm>
+		<indexterm><primary>modulus</primary></indexterm>
+		<indexterm><primary>remainder</primary></indexterm>
+		<para>
+			Returns the remainder of the first argument divided by the second argument.
+		</para>
+		<simplesect>
+			<title>Syntax</title>
+			<para><mathphrase>mod(m,n)</mathphrase></para>
+		</simplesect>
+		<simplesect>
+			<title>Description</title>
+			<para>
+				Calculates <parameter>m</parameter> modulo <parameter>n</parameter>, the remainder of <mathphrase>m/n</mathphrase>.
+				<function>mod</function> calculates the remainder f, where <mathphrase>m = a*n + f</mathphrase> for some integer a.
+				The sign of f is always the same as the sign of <parameter>n</parameter>.
+				When <mathphrase><parameter>n</parameter>=0</mathphrase>, <function>mod</function> returns 0.
+				<parameter>m</parameter> and <parameter>n</parameter> may be any <glossterm linkend="NumericExpression">numeric expressions</glossterm> that evaluate to <glossterm linkend="RealNumber">real numbers</glossterm>.
+			</para>
+		</simplesect>
+		<simplesect>
+			<title>See also</title>
+			<para>
+				<simplelist>
+					<member><ulink url="http://en.wikipedia.org/wiki/Modular_arithmetic"><orgname>Wikipedia</orgname></ulink></member>
+					<member><ulink url="http://mathworld.wolfram.com/Congruence.html"><orgname>MathWorld</orgname></ulink></member>
+				</simplelist>
+			</para>
+		</simplesect>
+	</section>
+
+
+	<section id="dnorm" xreflabel="dnorm">
+		<title><markup>dnorm</markup> function</title>
+		<indexterm><primary><function>dnorm</function> function</primary></indexterm>
+		<indexterm><primary>normal distribution</primary></indexterm>
+		<para>
+			Returns the normal distribution of the first argument with optional mean value and standard deviation.
+		</para>
+		<simplesect>
+			<title>Syntax</title>
+			<para><mathphrase>dnorm(x, [&mu;,&sigma;])</mathphrase></para>
+		</simplesect>
+		<simplesect>
+			<title>Description</title>
+			<para>
+				The <function>dnorm</function> function is the probability density of the normal distribution, also called Gaussian distribution.
+				<parameter>x</parameter> is the variate, also known as the random variable, <parameter>&mu;</parameter> is the mean value and &sigma; is the standard deviation.
+				<parameter>&mu;</parameter> and &sigma; are optional
+				and if left out the standard normal distribution is used where <mathphrase><parameter>&mu;</parameter>=0</mathphrase> and &sigma;=1.
+				<parameter>x</parameter>, <parameter>&mu;</parameter> and &sigma; may be any <glossterm linkend="NumericExpression">numeric expressions</glossterm>
+				that evaluate to <glossterm linkend="RealNumber">real numbers</glossterm> where &sigma; > 0.
+				The normal distribution is defined as:
+				<mediaobject>
+	  			<imageobject role="fo"><imagedata fileref="Dnorm.svg"/></imageobject>
+  				<imageobject role="htmlhelp"><imagedata fileref="Dnorm.emf"/></imageobject>
+  				<imageobject role="html"><imagedata fileref="Dnorm.png"/></imageobject>
+				</mediaobject>
+			</para>
+		</simplesect>
+		<simplesect>
+			<title>See also</title>
+			<para>
+				<simplelist>
+					<member><ulink url="http://en.wikipedia.org/wiki/Normal_distribution"><orgname>Wikipedia</orgname></ulink></member>
+					<member><ulink url="http://mathworld.wolfram.com/NormalDistribution.html"><orgname>MathWorld</orgname></ulink></member>
+				</simplelist>
+			</para>
+		</simplesect>
+	</section>
+</section>

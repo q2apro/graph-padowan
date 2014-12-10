@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chapter SYSTEM "dtd/dblite.dtd" [
+<!ENTITY % Symbols SYSTEM "Symbols.ent">
+%Symbols;
+]>
+<section id="InsertTrendlineDialog">
+	<?dbhh topicname="IDH_DIALOG_TRENDLINE" topicid="130"?>
+	<title>Insert trendline</title>
+	<indexterm><primary>insert</primary></indexterm>
+	<indexterm><primary>trendline</primary></indexterm>
+	<indexterm><primary>line of best fit</primary></indexterm>
+	<indexterm><primary>linear</primary></indexterm>
+	<indexterm><primary>logarithmic</primary></indexterm>
+	<indexterm><primary>power</primary></indexterm>
+	<indexterm><primary>exponential</primary></indexterm>
+	<indexterm><primary>polyline</primary></indexterm>
+	<indexterm><primary>function</primary></indexterm>
+	<indexterm><primary>regression</primary></indexterm>
+	<indexterm><primary>SSQ</primary></indexterm>
+	<indexterm><primary>sum of squares</primary></indexterm>
+	<para>
+		Use the dialog shown below to insert a trendline that is the function that fits a <link linkend="InsertPointSeriesDialog">point series</link> best.
+		A trendline is a function that shows a trend in a series of points, i.e. a trendline is the curve of bets fit of a specific type for a series of points.
+		The trendline is added as an ordinary function.
+		To create a trendline, you select the point series you want to base the trendline on and use <menuchoice><guimenu>Function</guimenu><guimenuitem>Insert trendline...</guimenuitem></menuchoice>.
+	</para>
+
+	<para>
+		If the point series has custom Y-errors defined, these values are used to weight the points.
+		The weight for each point is <mathphrase>1/&sigma;<superscript>2</superscript></mathphrase> where &sigma; is the Y-error for the point.
+		X-errors are not used.
+	</para>
+
+	<simplesect>
+		<title>Built-in</title>
+		<para>
+			<graphic fileref="DialogTrendline1.png" align="center" scale="60"/>
+		</para>
+		<para>
+			You may choose between the following built-in functions.
+			These functions will give an accurate result.
+			For <guilabel>Linear</guilabel>, <guilabel>Polynomial</guilabel> and <guilabel>Exponential</guilabel> trendlines,
+			you may select the <guilabel>Intercept</guilabel> field and specify the point where you want the trendline to meet the y-axis.
+		</para>
+
+		<variablelist>
+			<varlistentry>
+				<term>Linear</term>
+				<listitem>
+					<para>
+						This is a straight line with the function f(x) = a*x+b, where a and b are constants calculated so the line is the best fit to the point series.
+					</para>
+					<para>
+						The trendline is calculated so the sum of squares (SSQ)
+						<mathphrase>&Sigma;(y<subscript>i</subscript>-f(x<subscript>i</subscript>))<superscript>2</superscript></mathphrase>
+						will be as small as possible.
+						If possible the function will cross the points in the series; else the function will be so close to the series that the summation cannot get any smaller.
+					</para>
+				</listitem>
+			</varlistentry>
+
+			<varlistentry>
+				<term>Logarithmic</term>
+				<listitem>
+					<para>
+						A logarithmic line of best fit is given as <mathphrase>f(x) = a*ln(x)+b</mathphrase>, where <constant>a</constant> and <constant>b</constant> are constants,
+						and <function>ln</function> is the natural logarithm function.
+						To add a logarithmic function, no point in the series may have an x-coordinate that is negative or zero.
+					</para>
+					<para>
+						A logarithmic function is a straight line in a semilogarithmic coordinate system.
+						The point series is therefore converted to a semilogarithmic coordinate system and the logarithmic function with the smallest sum of squares (SSQ) is found.
+					</para>
+				</listitem>
+			</varlistentry>
+
+			<varlistentry>
+				<term>Polynomial</term>
+				<listitem>
+					<para>
+				  	A polynomial is a function given by
+						<mathphrase>f(x) = a<subscript>n</subscript>*x<superscript>n</superscript> + ... + a<subscript>3</subscript>*x<superscript>3</superscript> +
+						a<subscript>2</subscript>*x<superscript>2</superscript> + a<subscript>1</subscript>*x + a<subscript>0</subscript></mathphrase>,
+						where <constant>a<subscript>0</subscript></constant>...<constant>a<subscript>n</subscript></constant> are constants.
+						<constant>n</constant> is the order of the polynomial.
+						You need at least one more point than the order.
+					</para>
+				</listitem>
+			</varlistentry>
+
+			<varlistentry>
+				<term>Power</term>
+				<listitem>
+					<para>
+						A power function is given by <mathphrase>f(x) = a*x<superscript>b</superscript></mathphrase>,
+						where <constant>a</constant> and <constant>b</constant> are constants calculated so the function is the best fit of the point series.
+						To add a power function, no point in the series may have an x- or y-coordinate that is negative or zero.
+					</para>
+					<para>
+						A power function is a straight line in a double logarithmic coordinate system.
+						The point series is therefore converted to a double logarithmic coordinate system and the power function with the smallest sum of squares (SSQ) is found.
+					</para>
+				</listitem>
+			</varlistentry>
+
+			<varlistentry>
+				<term>Exponential</term>
+				<listitem>
+					<para>
+						An exponential function is given by <mathphrase>f(x) = a*b<superscript>x</superscript></mathphrase>,
+						where <constant>a</constant> and <constant>b</constant> are constants calculated so the function is the best fit of the point series.
+						To add an exponential function, no point in the series may have a y-coordinate that is negative or zero.
+					</para>
+					<para>
+						An Exponential function is a straight line in a semilogarithmic coordinate system with the y-axis as the logarithmic axis.
+						The point series is therefore converted to a semilogarithmic coordinate system and the exponential function with the smallest sum of squares (SSQ) is found.
+					</para>
+				</listitem>
+			</varlistentry>
+
+			<varlistentry>
+				<term>Moving average</term>
+				<listitem>
+					<para>
+						Moving average is a series of straight lines based on the average of the previous points.
+						The <guilabel>Period</guilabel> determines how many points are used for the average.
+						If <guilabel>Period</guilabel> is 1 only one point is used, which actually isn't an average.
+						This will draw a line directly between the points.
+						When <guilabel>Period</guilabel> is larger than 1, the y-coordinate for the line at each point will not be the same as the y-coordinate of the point.
+						Instead it will be an average of the previous points.
+					</para>
+				</listitem>
+			</varlistentry>
+		</variablelist>
+	</simplesect>
+
+	<simplesect>
+		<title>User defined</title>
+		<para>
+			<graphic fileref="DialogTrendline2.png" align="center" scale="60"/>
+		</para>
+		<para>
+			In this tab you can enter your own trendline models.
+			The model is entered as a standard function,
+			where all the constants that you want Graph to find are named with a $ followed by any combination of characters (a-z) and digits (0-9).
+			Examples of valid constants are: $a, $y0, $const.
+		</para>
+
+		<para>
+			An example of a model could be <mathphrase>f(x)=$a*x^$b+$c</mathphrase>.
+			The program tries to calculate the constants <constant>$a</constant>, <constant>$b</constant> and <constant>$c</constant>
+			so that f(x) will be as close to the point series as possible.
+			You can use the <guibutton>Add model</guibutton> button to add the model to the saved list with a name.
+		</para>
+
+		<para>
+			The program needs a guess for where to start the search for the optimum.
+			As default the guess for all constants is 1, but this can be changed for models added to the list.
+			A better guess will increase the possibility that an optimum can be found.
+		</para>
+
+		<para>
+			Graph will try to find the constants for the model f(x) so the sum of squares
+			<mathphrase>&Sigma;(y<subscript>i</subscript>-f(x<subscript>i</subscript>))<superscript>2</superscript></mathphrase>
+			will be the smallest possible.
+			The program will start with the guess and move towards the minimum of the sum of squares.
+			If a solution is not found after 100 iterations or the given guess is not valid, the program gives up.
+		</para>
+
+		<para>
+			It is possible, even though it rarely happens, that more than one minimum exists.
+			In this case the minimum nearest to the guess will be found, even though this may not be the best.
+		</para>
+
+		<para>
+			Notice that you should avoid redundant constants as they might confuse the program.
+			For example this model has a redundant constant: <mathphrase>f(x)=$c+$d/($a*x+$b)</mathphrase>.
+			Notice the relation between the constants <constant>$a</constant>, <constant>$b</constant> and <constant>$d</constant>.
+			If you multiply <constant>$a</constant>, <constant>$b</constant> and <constant>$d</constant> with the same value the resulting function will not be changed.
+			This means that there are an infinite number of combinations of constants with the same resulting function and hence an infinite number of best solutions.
+			This may confuse the program when it tries to find the best one.
+			Therefore either <constant>$a</constant>, <constant>$b</constant> or <constant>$d</constant> should be removed.
+		</para>
+
+		<para>
+			When the trendline is added, the correlation coefficient <mathphrase>R<superscript>2</superscript></mathphrase> is shown in the comment.
+			The closer <mathphrase>R<superscript>2</superscript></mathphrase> is to 1 the closer the trendline is to the points.
+	  </para>
+	</simplesect>
+</section>

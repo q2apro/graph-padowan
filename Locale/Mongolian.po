@@ -1,0 +1,3922 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Граф\n"
+"POT-Creation-Date: 2012-11-12 22:11\n"
+"PO-Revision-Date: 2012-11-07 21:21+0100\n"
+"Last-Translator: Michael Bach Ipsen <rosenthall@hotmail.com>\n"
+"Language-Team: Батнасан <baagiibat@yahoo.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: dxgettext 1.2.1\n"
+"X-Poedit-Country: MONGOLIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#. Form1..Recent1..Hint
+msgid "Open file: %s"
+msgstr "Файл нээх: %s"
+
+#. Form1..PopupMenu1..Tree_ShowInLegend..Caption
+msgid "Show in legend"
+msgstr "Нэршилын самбар үзүүл."
+
+#. Form1..PopupMenu1..Tree_ShowInLegend..Hint
+msgid "Check to show the selected item in the legend."
+msgstr "Сонгогдсон зүйлийг нэрлэсэн нэрсийг үзүүлнэ."
+
+#. Form1..PopupMenu1..Tree_Placement..Caption
+#. Form1..PopupMenu3..Label_Placement..Caption
+#. Form1..PopupMenu4..Legend_Placement..Caption
+#. Form21..Caption
+msgid "Placement"
+msgstr "Байршил"
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Above..Caption
+#. Form1..PopupMenu3..Label_Placement..Label_Above..Caption
+msgid "Above x-axis"
+msgstr "х-тэнхлэг дээгүүр"
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Above....Hint
+#. Form1..PopupMenu3..Label_Placement..Label_Above....Hint
+#, fuzzy
+msgid "Place the label directly above the x-axis on the right side of the image."
+msgstr "Зургийг хуудасны голд байрлуулна."
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Below..Caption
+#. Form1..PopupMenu3..Label_Placement..Label_Below..Caption
+msgid "Below x-axis"
+msgstr "х-тэнхлэгийн доогуур"
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Below....Hint
+#. Form1..PopupMenu3..Label_Placement..Label_Below....Hint
+#, fuzzy
+msgid "Place the label directly below the x-axis on the right side of the image."
+msgstr "Зургийг хуудасны голд байрлуулна."
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Left..Caption
+#. Form1..PopupMenu3..Label_Placement..Label_Left..Caption
+msgid "Left of y-axis"
+msgstr "У- тэнхлэгийн зүүн тал"
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Left....Hint
+#. Form1..PopupMenu3..Label_Placement..Label_Left....Hint
+#, fuzzy
+msgid "Place the label to the left of the y-axis at the top of the image."
+msgstr "Координатын системийн цонхыг баруун тийш зөөх"
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Right..Caption
+#. Form1..PopupMenu3..Label_Placement..Label_Right..Caption
+msgid "Right of y-axis"
+msgstr "У- тэнхлэгийн баруун тал"
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Right....Hint
+#. Form1..PopupMenu3..Label_Placement..Label_Right....Hint
+#, fuzzy
+msgid "Place the label to the right of the y-axis at the top of the image."
+msgstr "Координатын системийн цонхыг баруун тийш зөөх"
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Placement_Custom..Caption
+#. Form1..PopupMenu1..Tree_Rotation..Tree_Rotation_Custom..Caption
+#. Form1..PopupMenu3..Label_Placement..Label_Placement_Custom..Caption
+#. Form1..PopupMenu3..Label_Rotation..Label_Rotation_Custom..Caption
+#. Form11..GroupBox2..ExtColorBox1..CustomName
+#. Form12..GroupBox2..ExtColorBox1..CustomName
+#. Form13..GroupBox1..ExtColorBox1..CustomName
+#. Form14..PageControl1..TabSheet1..GroupBox1..ExtColorBox1..CustomName
+#. Form14..PageControl1..TabSheet1..GroupBox2..ExtColorBox2..CustomName
+#. Form16..PageControl1..TabSheet2..GroupBox3..ExtColorBox1..CustomName
+#. Form3..PageControl1..TabSheet4..GroupBox3..ExtColorBox1..CustomName
+#. Form3..PageControl1..TabSheet4..GroupBox3..ExtColorBox2..CustomName
+#. Form3..PageControl1..TabSheet4..GroupBox3..ExtColorBox3..CustomName
+#. Form5..GroupBox4..GridPanelEx1..ExtColorBox1..CustomName
+#. Form6..ColorBox1..CustomName
+#. Form6..ColorBox2..CustomName
+#. Form7..GroupBox4..ExtColorBox1..CustomName
+msgid "Custom..."
+msgstr "Өөрийхөөрөө..."
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Placement_Custom..Hint
+#. Form1..PopupMenu3..Label_Placement..Label_Placement_Custom..Hint
+msgid "Place the label at a custom position."
+msgstr ""
+
+#. Form1..PopupMenu1..Tree_Rotation..Caption
+#. Form1..PopupMenu3..Label_Rotation..Caption
+msgid "Rotation"
+msgstr "Эргүүлэлт"
+
+#. Form1..PopupMenu1..Tree_Rotation..Tree_Rotation_0..Hint
+#. Form1..PopupMenu3..Label_Rotation..Rotation_0..Hint
+#, fuzzy
+msgid "Show the label with no rotation."
+msgstr "Цаанах функцын  сүүдэр."
+
+#. Form1..PopupMenu1..Tree_Rotation..Tree_Rotation_90..Hint
+#. Form1..PopupMenu3..Label_Rotation..Rotation_90..Hint
+msgid "Show the label rotated 90° counter clockwise."
+msgstr ""
+
+#. Form1..PopupMenu1..Tree_Rotation..Tree_Rotation_180..Hint
+#. Form1..PopupMenu3..Label_Rotation..Rotation_180..Hint
+msgid "Show the label rotated 180°."
+msgstr ""
+
+#. Form1..PopupMenu1..Tree_Rotation..Tree_Rotation_270..Hint
+#. Form1..PopupMenu3..Label_Rotation..Rotation_270..Hint
+msgid "Show the label rotated 270° counter clockwise."
+msgstr ""
+
+#. Form1..PopupMenu1..Tree_Rotation..Tree_Rotation_Custom..Hint
+#. Form1..PopupMenu3..Label_Rotation..Label_Rotation_Custom..Hint
+#, fuzzy
+msgid "Specify the angle of rotation for the label."
+msgstr "Функц болон шүргэгчийн тэгшитгэлийг сонго!"
+
+#. Form1..PopupMenu1..Tree_Export..Caption
+#. Form14..PopupMenu1..Popup_Export..Caption
+#. Form15..PopupMenu1..Popup1_Export..Caption
+#. Form17..PopupMenu1..Popup_Export..Caption
+msgid "Export to file..."
+msgstr "Файл болгон экпортло..."
+
+#. Form1..PopupMenu1..Tree_Export..Hint
+msgid "Export the selected point series to a file."
+msgstr "Сонгогдсон цэгэн цувааг файл болгон экспортлоно."
+
+#. Form1..ActionManager..............Caption
+msgid "Import"
+msgstr "Импорт"
+
+#. Form1..ActionManager..........Caption
+#. Form1..ActionManager..NewAction..Category
+#. Form1..ActionManager..OpenAction..Category
+#. Form1..ActionManager..SaveAction..Category
+#. Form1..ActionManager..SaveAsAction..Category
+#. Form1..ActionManager..SaveCopyAsAction..Category
+#. Form1..ActionManager..SaveAsImageAction..Category
+#. Form1..ActionManager..PrintAction..Category
+#. Form1..ActionManager..ExitAction..Category
+#. Form1..ActionManager..ImportGraphFileAction..Category
+#. Form1..ActionManager..ImportPointSeriesAction..Category
+msgid "File"
+msgstr "Файл"
+
+#. Form1..ActionManager..........Caption
+#. Form1..ActionManager..UndoAction..Category
+#. Form1..ActionManager..RedoAction..Category
+#. Form1..ActionManager..CutAction..Category
+#. Form1..ActionManager..CopyAction..Category
+#. Form1..ActionManager..PasteAction..Category
+#. Form1..ActionManager..CopyImageAction..Category
+#. Form1..ActionManager..AxesAction..Category
+#. Form1..ActionManager..OptionsAction..Category
+msgid "Edit"
+msgstr "Засвар"
+
+#. Form1..ActionManager..........Caption
+#. Form1..ActionManager..InsertFunctionAction..Category
+#. Form1..ActionManager..InsertTangentAction..Category
+#. Form1..ActionManager..InsertShadeAction..Category
+#. Form1..ActionManager..InsertPointsAction..Category
+#. Form1..ActionManager..InsertTrendlineAction..Category
+#. Form1..ActionManager..EditAction..Category
+#. Form1..ActionManager..DeleteAction..Category
+#. Form1..ActionManager..InsertDifAction..Category
+#. Form1..ActionManager..InsertLabelAction..Category
+#. Form1..ActionManager..InsertRelationAction..Category
+#. Form1..ActionManager..CustomFunctionsAction..Category
+#. ParFuncFrame..ComboBox1..Text
+#. ParFuncFrame..ComboBox1....Items.Strings
+#. PolFuncFrame..ComboBox1..Text
+#. PolFuncFrame..ComboBox1....Items.Strings
+#. StdFuncFrame..ComboBox1..Text
+#. StdFuncFrame..ComboBox1....Items.Strings
+msgid "Function"
+msgstr "Функц"
+
+#. Form1..ActionManager..........Caption
+#. Form1..ActionManager..ZoomInAction..Category
+#. Form1..ActionManager..ZoomOutAction..Category
+#. Form1..ActionManager..ZoomWindowAction..Category
+#. Form1..ActionManager..ZoomSquareAction..Category
+#. Form1..ActionManager..ZoomStandardAction..Category
+#. Form1..ActionManager..ZoomFitAction..Category
+#. Form1..ActionManager..ZoomFitAllAction..Category
+#. Form1..ActionManager..ZoomXInAction..Category
+#. Form1..ActionManager..ZoomXOutAction..Category
+#. Form1..ActionManager..ZoomYInAction..Category
+#. Form1..ActionManager..ZoomYOutAction..Category
+msgid "Zoom"
+msgstr "Харагдац"
+
+#. Form1..ActionManager..........Caption
+#. Form1..ActionManager..PathAction..Category
+#. Form1..ActionManager..AreaAction..Category
+#. Form1..ActionManager..EvalAction..Category
+#. Form1..ActionManager..TableAction..Category
+#. Form1..ActionManager..AnimateAction..Category
+#. Form15..Button2..Caption
+msgid "Calc"
+msgstr "Тооцоол"
+
+#. Form1..ActionManager..........Caption
+msgid "Plugins"
+msgstr ""
+
+#. Form1..ActionManager..............Caption
+msgid "Internet"
+msgstr "Интернэт"
+
+#. Form1..ActionManager..........Caption
+#. Form1..ActionManager..ContentsAction..Category
+#. Form1..ActionManager..ListAction..Category
+#. Form1..ActionManager..HomePageAction..Category
+#. Form1..ActionManager..UpdateAction..Category
+#. Form1..ActionManager..AboutAction..Category
+#. Form1..ActionManager..FaqAction..Category
+#. Form1..ActionManager..DonateAction..Category
+#. Form1..ActionManager..TipAction..Category
+#. Form1..ActionManager..SupportAction..Category
+#. Form1..ActionManager..ScriptDocAction..Category
+#. Form11..Button3..Caption
+#. Form12..Button3..Caption
+#. Form13..Button3..Caption
+#. Form14..Button3..Caption
+#. Form15..Button3..Caption
+#. Form16..Button3..Caption
+#. Form17..Button4..Caption
+#. Form19..Button3..Caption
+#. Form3..Button3..Caption
+#. Form4..Button3..Caption
+#. Form5..Button3..Caption
+#. Form6..Button3..Caption
+#. Form7..Button3..Caption
+msgid "Help"
+msgstr "Зөвлөмж"
+
+#. Form1..ActionManager..NewAction..Caption
+msgid "New"
+msgstr "Шинэ"
+
+#. Form1..ActionManager..NewAction..Hint
+#, fuzzy
+msgid "Create a new coordinate system."
+msgstr "Шинэ координатын систем үүсгэ"
+
+#. Form1..ActionManager..OpenAction..Caption
+msgid "Open..."
+msgstr "Нээх"
+
+#. Form1..ActionManager..OpenAction..Hint
+#, fuzzy
+msgid "Read a coordinate system from a file."
+msgstr "Координатын систем болон функцыг файлаас унш."
+
+#. Form1..ActionManager..SaveAction..Caption
+msgid "Save"
+msgstr "Хадгалах"
+
+#. Form1..ActionManager..SaveAction..Hint
+#, fuzzy
+msgid "Write the current coordinate system to a file."
+msgstr "Координатын систем болон функцыг файлд бич."
+
+#. Form1..ActionManager..SaveAsAction..Caption
+#. Form20..PopupMenu1..Save1..Caption
+msgid "Save as..."
+msgstr "Хадгалахдаа..."
+
+#. Form1..ActionManager..SaveAsAction..Hint
+#, fuzzy
+msgid "Write the current coordinate system to a file with a new name."
+msgstr "Координатын системийг шинэ нэртэй болгон хадгал"
+
+#. Form1..ActionManager..SaveCopyAsAction..Caption
+msgid "Save copy as..."
+msgstr "Хадгалахдаа хувилан..."
+
+#. Form1..ActionManager..SaveCopyAsAction..Hint
+#, fuzzy
+msgid "Save a copy of the current coordinate system to a file."
+msgstr "Энэ координатын системийг хувилан хадгална."
+
+#. Form1..ActionManager..SaveAsImageAction..Caption
+msgid "Save as image..."
+msgstr "Зураг болгон хадгалахдаа..."
+
+#. Form1..ActionManager..SaveAsImageAction..Hint
+#, fuzzy
+msgid "Save the shown coordinate system as an image."
+msgstr "Харагдаж байгаа координатын системийг зураг болгон хадгалах."
+
+#. Form1..ActionManager..PrintAction..Caption
+msgid "Print..."
+msgstr "Хэвлэхдээ.."
+
+#. Form1..ActionManager..PrintAction..Hint
+msgid "Print shown coordinate system."
+msgstr "Харагдаж байгаа координатын системийг хэвлэ."
+
+#. Form1..ActionManager..ExitAction..Caption
+msgid "Exit"
+msgstr "Гарах"
+
+#. Form1..ActionManager..ExitAction..Hint
+msgid "Quit the program."
+msgstr "Программыг хаах"
+
+#. Form1..ActionManager..UndoAction..Caption
+#. Form6..PopupMenu1..Popup_Undo..Caption
+msgid "Undo"
+msgstr "Хийснээ болих"
+
+#. Form1..ActionManager..UndoAction..Hint
+msgid "Undo the last action."
+msgstr "Сүүлчийн үйлдлийг хүчингүй болгох"
+
+#. Form1..ActionManager..RedoAction..Caption
+#. Form6..PopupMenu1..Popup_Redo..Caption
+msgid "Redo"
+msgstr "Давтан хийх"
+
+#. Form1..ActionManager..RedoAction..Hint
+msgid "Redo the last action undone."
+msgstr "Сүүлчийн үйлдлийг давтах"
+
+#. Form1..ActionManager..CutAction..Caption
+#. Form14..PopupMenu1..Popup_Cut..Caption
+#. Form17..PopupMenu1..Popup_Cut..Caption
+#. Form6..PopupMenu1..Popup_Cut..Caption
+msgid "Cut"
+msgstr "Таслах"
+
+#. Form1..ActionManager..CutAction..Hint
+#, fuzzy
+msgid "Cut the selected function or point series to the clipboard."
+msgstr "Сонгосон функц болон цэгэн цувааг clipboard руу таслан авах"
+
+#. Form1..ActionManager..CopyAction..Caption
+#. Form14..PopupMenu1..Popup_Copy..Caption
+#. Form15..PopupMenu1..Popup1_Copy..Caption
+#. Form17..PopupMenu1..Popup_Copy..Caption
+#. Form6..PopupMenu1..Popup_Copy..Caption
+msgid "Copy"
+msgstr "Хувилах"
+
+#. Form1..ActionManager..CopyAction..Hint
+#, fuzzy
+msgid "Copy the selected function or point series to the clipboard."
+msgstr "Сонгогдсон функц болон цэгэн цувааг clipboard-руу хувилах."
+
+#. Form1..ActionManager..PasteAction..Caption
+#. Form14..PopupMenu1..Popup_Paste..Caption
+#. Form17..PopupMenu1..Popup_Paste..Caption
+#. Form6..PopupMenu1..Popup_Paste..Caption
+msgid "Paste"
+msgstr "Наах"
+
+#. Form1..ActionManager..PasteAction....Hint
+#, fuzzy
+msgid "Paste a function or point series from the clipboard into the coordinate system."
+msgstr "Pastes a function or point series from the clipboard into the coordinate system."
+
+#. Form1..ActionManager..CopyImageAction..Caption
+msgid "Copy image"
+msgstr "Зураг болгон хувилах"
+
+#. Form1..ActionManager..CopyImageAction..Hint
+#, fuzzy
+msgid "Copy the shown coordinate system to the clipboard."
+msgstr "Харагдаж байгаа координатын системийг зураг болгон  clipboard руу хувилах"
+
+#. Form1..ActionManager..AxesAction..Caption
+msgid "Axes..."
+msgstr "Тэнхлэгүүд..."
+
+#. Form1..ActionManager..AxesAction..Hint
+msgid "Edit axes settings."
+msgstr "Тэнхлэгийн тохиргоо засварлах."
+
+#. Form1..ActionManager..OptionsAction..Caption
+#. Form1..SaveDialogEx1..HelpCaption
+#. Form19..Button4..Caption
+msgid "Options..."
+msgstr "Тохиргоонууд..."
+
+#. Form1..ActionManager..OptionsAction..Hint
+msgid "Edit various options for the interface and program features."
+msgstr "Программын ерөнхий тохиргоог хийнэ. Цаашид байнгын ашиглах тохиргоо."
+
+#. Form1..ActionManager..InsertFunctionAction..Caption
+msgid "Insert function..."
+msgstr "Функ оруул..."
+
+#. Form1..ActionManager..InsertFunctionAction..Hint
+msgid "Insert a new function."
+msgstr "Шинэ функц оруул."
+
+#. Form1..ActionManager..InsertTangentAction..Caption
+msgid "Insert tangent/normal..."
+msgstr "Шүргэгч/ нормал оруулах."
+
+#. Form1..ActionManager..InsertTangentAction..Hint
+msgid "Insert a tangent or normal for the selected function."
+msgstr "Сонгогдсон функцэд шинэ тангент эсвэл нормаль оруулна."
+
+#. Form1..ActionManager..InsertShadeAction..Caption
+#, fuzzy
+msgid "Insert shading..."
+msgstr "Сүүдэр оруулах..."
+
+#. Form1..ActionManager..InsertShadeAction..Hint
+msgid "Add shading to the selected function."
+msgstr "Сонгосон функцэд сүүдэр нэмнэ"
+
+#. Form1..ActionManager..InsertPointsAction..Caption
+msgid "Insert point series..."
+msgstr "Цэгэн цуваа оруулах..."
+
+#. Form1..ActionManager..InsertPointsAction..Hint
+msgid "Insert a point series."
+msgstr "Цэгэн цуваа оруулна"
+
+#. Form1..ActionManager..InsertTrendlineAction..Caption
+msgid "Insert trendline..."
+msgstr "Шүргэгч оруулахдаа.."
+
+#. Form1..ActionManager..InsertTrendlineAction..Hint
+msgid "Insert a curve of best fit for the selected point series."
+msgstr "Сонгогдсон цэгэн цувааг бүрэн хамарсан байхаар муруй оруулна."
+
+#. Form1..ActionManager..EditAction..Caption
+msgid "Edit..."
+msgstr "Завсарлах..."
+
+#. Form1..ActionManager..EditAction..Hint
+msgid "Edit the selected element: Function, tangent, point series, etc."
+msgstr "Сонгогдсон элементүүдийг засварлана."
+
+#. Form1..ActionManager..DeleteAction..Caption
+#. Form14..PopupMenu1..Popup_Delete..Caption
+#. Form17..PopupMenu1..Popup_Delete..Caption
+msgid "Delete"
+msgstr "Устга"
+
+#. Form1..ActionManager..DeleteAction..Hint
+msgid "Delete the selected function, tangent or point series."
+msgstr "Сонгогдсон функц, шүргэгч, цэгэн цувааг /тахир  шугам/ арилгах"
+
+#. Form1..ActionManager..InsertDifAction..Caption
+msgid "Insert f'(x)..."
+msgstr " f'(x) уламжлал оруулах..."
+
+#. Form1..ActionManager..InsertDifAction..Hint
+msgid "Insert the first derivative of the selected function."
+msgstr "Сонгогдсон функцын нэгдүгээр эрэмбийн уламжлал оруулах"
+
+#. Form1..ActionManager..ZoomInAction..Caption
+msgid "In"
+msgstr "Дотогш"
+
+#. Form1..ActionManager..ZoomInAction..Hint
+msgid "Zoom in. Hold down Shift to zoom with larger steps."
+msgstr ""
+
+#. Form1..ActionManager..ZoomOutAction..Caption
+msgid "Out"
+msgstr "Гадагш"
+
+#. Form1..ActionManager..ZoomOutAction..Hint
+msgid "Zoom out. Hold down Shift to zoom with larger steps."
+msgstr ""
+
+#. Form1..ActionManager..ZoomWindowAction..Caption
+msgid "Window"
+msgstr "Цонх"
+
+#. Form1..ActionManager..ZoomWindowAction..Hint
+msgid "Zoom to user selected window."
+msgstr "Хэрэглэгчийн сонгосон цонхыг томгох, агшаах"
+
+#. Form1..ActionManager..ZoomSquareAction..Caption
+msgid "Square"
+msgstr "Квадрат"
+
+#. Form1..ActionManager..ZoomSquareAction....Hint
+msgid "Zoom to scale the axes equally. This will show a plotted circle in its correct relation instead of an ellipse."
+msgstr "Тэнхлэгүүдийн массштабыг ижил хэмжээтэй болгох.  Жишээ нь тойрог нь эллипс шиг харагдаж байвал түүнийг тойрог болгох."
+
+#. Form1..ActionManager..ZoomStandardAction..Caption
+msgid "Standard"
+msgstr "Стандарт"
+
+#. Form1..ActionManager..ZoomStandardAction..Hint
+#, fuzzy
+msgid "Reset the axes to their default settings."
+msgstr "Командын хэрэглүүрийн мөрийг анхны суурилуулалт шиг болгох"
+
+#. Form1..ActionManager..MoveUpAction..Category
+#. Form1..ActionManager..MoveDownAction..Category
+#. Form1..ActionManager..MoveLeftAction..Category
+#. Form1..ActionManager..MoveRightAction..Category
+#. Form1..ActionManager..MoveAction..Category
+msgid "Move"
+msgstr "Зөө"
+
+#. Form1..ActionManager..MoveUpAction..Caption
+msgid "Move up"
+msgstr "Дээш зөөх"
+
+#. Form1..ActionManager..MoveUpAction....Hint
+#, fuzzy
+msgid "Move the graphing area up along the coordinate system. Hold down Shift to move in larger steps."
+msgstr "Координатын системийн цонхыг дээш зөөх"
+
+#. Form1..ActionManager..MoveDownAction..Caption
+msgid "Move down"
+msgstr "Доош зөөх"
+
+#. Form1..ActionManager..MoveDownAction....Hint
+#, fuzzy
+msgid "Move the graphing area down along the coordinate system. Hold down Shift to move in larger steps."
+msgstr "Координатын системийн цонхыг доош зөөх"
+
+#. Form1..ActionManager..MoveLeftAction..Caption
+msgid "Move left"
+msgstr "Зүүн тийш зөөх"
+
+#. Form1..ActionManager..MoveLeftAction....Hint
+#, fuzzy
+msgid "Move the graphing area to the left along the coordinate system. Hold down Shift to move in larger steps."
+msgstr "Координатын системийн цонхыг зүүн тийш зөөнө."
+
+#. Form1..ActionManager..MoveRightAction..Caption
+msgid "Move right"
+msgstr "Баруун тийш зөөх"
+
+#. Form1..ActionManager..MoveRightAction....Hint
+#, fuzzy
+msgid "Move the graphing area to the right along the coordinate system. Hold down Shift to move in larger steps."
+msgstr "Координатын системийн цонхыг баруун тийш зөөх"
+
+#. Form1..ActionManager..MoveAction..Caption
+msgid "Move system"
+msgstr "Системийг зөөх"
+
+#. Form1..ActionManager..MoveAction..Hint
+msgid "Move the coordinate system with the mouse."
+msgstr "Координатын системийг хулганы тусламжтайгаар зөөх"
+
+#. Form1..ActionManager..PathAction..Caption
+msgid "Length of path"
+msgstr "Уртыг олохдоо..."
+
+#. Form1..ActionManager..PathAction....Hint
+#, fuzzy
+msgid "Calculate the length of path between two given points on the curve."
+msgstr "Муруй дээр өгөгдсөн 2 цэгийн хоорондох замын уртыг олно."
+
+#. Form1..ActionManager..AreaAction..Caption
+#. AreaFrame..GridPanel1..Label3..Caption
+#, fuzzy
+msgid "Area"
+msgstr "Талбай"
+
+#. Form1..ActionManager..AreaAction..Hint
+#, fuzzy
+msgid "Calculate the definite integral over a given interval."
+msgstr "Тооцоолох хүснэгт"
+
+#. Form1..ActionManager..EvalAction..Caption
+#. Form9..Caption
+msgid "Evaluate"
+msgstr "Үнэлэх"
+
+#. Form1..ActionManager..EvalAction..Hint
+msgid "Evaluate or trace the selected function."
+msgstr "Сонгогдсон функцын утга эсвэл уламжлалын утга зэргийг тухайн өгсөн цэг дээр бодох"
+
+#. Form1..ActionManager..TableAction..Caption
+#, fuzzy
+msgid "Table"
+msgstr "Хүснэгт..."
+
+#. Form1..ActionManager..TableAction..Hint
+#, fuzzy
+msgid "Show an evaluation table."
+msgstr "Үнэлэлтийн хүснэгт үзүүлэх"
+
+#. Form1..ActionManager..ContentsAction..Caption
+msgid "Contents and index"
+msgstr "Агуулга ба жагсаалт"
+
+#. Form1..ActionManager..ContentsAction..Hint
+msgid "Open help file."
+msgstr "Зөвлөмжийг файл нээх"
+
+#. Form1..ActionManager..ListAction..Caption
+msgid "List of functions"
+msgstr "Функцуудын жагсаалт"
+
+#. Form1..ActionManager..ListAction..Hint
+#, fuzzy
+msgid "Show a list of built-in functions that can be used for graphing."
+msgstr "График байгуулахад ашигласан функцүүдийн жагсаалтыг үзүүлнэ."
+
+#. Form1..ActionManager..HomePageAction..Caption
+#, fuzzy
+msgid "Graph web site"
+msgstr "Графикын шинж чанар"
+
+#. Form1..ActionManager..HomePageAction..Hint
+#, fuzzy
+msgid "Open the default browser and show the Graph web site."
+msgstr "Гол браузер программыг нээж энэ программын нүүр хуудсыг үзүүлнэ. "
+
+#. Form1..ActionManager..UpdateAction..Caption
+msgid "Check for update"
+msgstr "Нэмэлтийг шалга."
+
+#. Form1..ActionManager..UpdateAction..Hint
+msgid "Contact the home page to see if a newer version is available."
+msgstr "Нүүр хуудсанд холбогдож шинэ хувилбар боломжтой эсэхийг шалга."
+
+#. Form1..ActionManager..AboutAction..Caption
+#. Form2..Caption
+msgid "About Graph"
+msgstr "Графикын тухай:"
+
+#. Form1..ActionManager..AboutAction..Hint
+msgid "Show copyright information."
+msgstr "Бүтээлийн тухай мэдээллийг үз."
+
+#. Form1..ActionManager..SeparatorAction..Category
+#. Form1..ActionManager..SeparatorAction..Caption
+msgid "Separator"
+msgstr "Сеператор"
+
+#. Form1..ActionManager..ZoomFitAction..Caption
+msgid "Fit"
+msgstr "Дэлгэц дүүргэ"
+
+#. Form1..ActionManager..ZoomFitAction..Hint
+#, fuzzy
+msgid "Zoom to show the selected element."
+msgstr "Сонгогдсон функцын массштаб."
+
+#. Form1..ActionManager..ZoomFitAllAction..Caption
+#, fuzzy
+msgid "Fit all"
+msgstr "Дэлгэц дүүргэ"
+
+#. Form1..ActionManager..ZoomFitAllAction..Hint
+#, fuzzy
+msgid "Zoom to show all elements."
+msgstr "Сонгогдсон функцын массштаб."
+
+#. Form1..ActionManager..FaqAction..Caption
+msgid "Frequently Asked Questions"
+msgstr "Программын талаарх нийтлэг асуултууд"
+
+#. Form1..ActionManager..FaqAction..Hint
+#, fuzzy
+msgid "Show a list of frequently asked questions and their answers."
+msgstr "Программын талаарх хэрэглэгчдээс ирсэн асуултууд, тэдгээрийн хариулт."
+
+#. Form1..ActionManager..InsertLabelAction..Caption
+msgid "Insert label..."
+msgstr "Нэршил оруулахдаа..."
+
+#. Form1..ActionManager..InsertLabelAction..Hint
+#, fuzzy
+msgid "Insert a text label."
+msgstr "Нэршил оруулахдаа..."
+
+#. Form1..ActionManager..DonateAction..Caption
+msgid "Donate"
+msgstr "Хандив"
+
+#. Form1..ActionManager..DonateAction..Hint
+msgid "Donate money to the project."
+msgstr "Төсөлд мөнгөн хандив өргөнө."
+
+#. Form1..ActionManager..TipAction..Caption
+#. Form10..Caption
+#. Form10..Panel1..LinkLabel1..Caption
+msgid "Tip of the day"
+msgstr "Хэрэглэгчийн хөтөч"
+
+#. Form1..ActionManager..TipAction..Hint
+msgid "Show tip of the day"
+msgstr "Өдрийн шинжийг үзүүл"
+
+#. Form1..ActionManager..SupportAction..Caption
+msgid "Support"
+msgstr "Дэмжлэг"
+
+#. Form1..ActionManager..SupportAction..Hint
+msgid "Open browser with the support page for the program."
+msgstr "Гол браузер программыг нээж энэ программын нүүр  хуудсыг үзүүлнэ. "
+
+#. Form1..ActionManager..ZoomXInAction..Caption
+msgid "Zoom x-axis in"
+msgstr "х-тэнхлэгийг багасга"
+
+#. Form1..ActionManager..ZoomXInAction....Hint
+msgid "Zoom in on the x-axis only. Hold down Shift to zoom with larger steps."
+msgstr ""
+
+#. Form1..ActionManager..ZoomXOutAction..Caption
+msgid "Zoom x-axis out"
+msgstr "х-тэнхлэгийг томсго"
+
+#. Form1..ActionManager..ZoomXOutAction....Hint
+msgid "Zoom out on the x-axis only. Hold down Shift to zoom with larger steps."
+msgstr ""
+
+#. Form1..ActionManager..ZoomYInAction..Caption
+msgid "Zoom y-axis in"
+msgstr "у-тэнхлэгийг багасга"
+
+#. Form1..ActionManager..ZoomYInAction....Hint
+msgid "Zoom in on the y-axis only. Hold down Shift to zoom with larger steps."
+msgstr ""
+
+#. Form1..ActionManager..ZoomYOutAction..Caption
+msgid "Zoom y-axis out"
+msgstr "у- тэнхлэгийг томсго"
+
+#. Form1..ActionManager..ZoomYOutAction....Hint
+msgid "Zoom out on the y-axis only. Hold down Shift to zoom with larger steps."
+msgstr ""
+
+#. Form1..ActionManager..InsertRelationAction..Caption
+msgid "Insert relation..."
+msgstr "Тэнцэтгэл оруулах..."
+
+#. Form1..ActionManager..InsertRelationAction..Hint
+msgid "Insert a new equation or inequality."
+msgstr "Шинэ илэрхийлэл, тэнцэтгэл биш оруулах"
+
+#. Form1..ActionManager..CustomFunctionsAction..Caption
+#, fuzzy
+msgid "Custom functions/constants..."
+msgstr "Хэрэглэгчийн функц/тогтмолууд..."
+
+#. Form1..ActionManager..CustomFunctionsAction..Hint
+msgid "Create custom functions and constants for use in graphs."
+msgstr "Графикд байнга ашиглагдах өөрийн функц оруулах"
+
+#. Form1..ActionManager..AnimateAction..Caption
+msgid "Animate..."
+msgstr "Амилуулахдаа..."
+
+#. Form1..ActionManager..AnimateAction..Hint
+msgid "Create an animation by variating a constant."
+msgstr "Вариац тогтмолоор амьд хөдөлгөөн үүсгэх"
+
+#. Form1..ActionManager..ImportGraphFileAction..Caption
+msgid "Graph file..."
+msgstr "График файл..."
+
+#. Form1..ActionManager..ImportGraphFileAction..Hint
+msgid "Import a Graph file into the current coordinate system."
+msgstr "Тухайн координатын системд график импортлоно."
+
+#. Form1..ActionManager..ImportPointSeriesAction..Caption
+msgid "Point series..."
+msgstr "Цэгэн цуваа..."
+
+#. Form1..ActionManager..ImportPointSeriesAction..Hint
+msgid "Import point series from a data file."
+msgstr "Өгөгдөлийн файлаас цэгэн цуваа импортло"
+
+#. Form1..ActionManager..ScriptDocAction..Caption
+msgid "Scripting engine documentation"
+msgstr ""
+
+#. Form1..ActionManager..ScriptDocAction..Hint
+msgid "Show documentation for scripting engine and plugin system."
+msgstr ""
+
+#. Form1..PopupMenu2..ToolBar_Reset..Caption
+msgid "Reset to default"
+msgstr "Анхны хэлбэрт оруул"
+
+#. Form1..PopupMenu2..ToolBar_Reset..Hint
+#, fuzzy
+msgid "Reset the toolbar icons to the installation default."
+msgstr "Командын хэрэглүүрийн мөрийг анхны суурилуулалт шиг болгох"
+
+#. Form1..PopupMenu2..ToolBar_Customize..Caption
+msgid "Customize toolbar..."
+msgstr "Хэрэглүүрийг өөриймсөглөх..."
+
+#. Form1..PopupMenu2..ToolBar_Customize..Hint
+msgid "Customize the icons shown on the toolbar."
+msgstr "Хэрэглүүр дээрх зургийг өөриймсөглөх."
+
+#. Form1..PopupMenu3..Label_Edit..Caption
+msgid "Edit label..."
+msgstr "Нэршил засварлах..."
+
+#. Form1..PopupMenu3..Label_Edit..Hint
+msgid "Edit the label under the cursor."
+msgstr "Курсорын доорх нэршил засварлах"
+
+#. Form1..PopupMenu3..Label_Delete..Caption
+msgid "Delete label"
+msgstr "Нэршил арилгах"
+
+#. Form1..PopupMenu3..Label_Delete..Hint
+msgid "Delete the label under the cursor."
+msgstr "Курсорын доорх нэршил арилгах"
+
+#. Form1..PopupMenu4..Legend_Show..Caption
+#. Form3..PageControl1..TabSheet3..CheckBox15..Caption
+msgid "Show legend"
+msgstr "Нэршилын самбар үзүүлэх"
+
+#. Form1..PopupMenu4..Legend_Show..Hint
+#. Form3..PageControl1..TabSheet3..CheckBox15..Hint
+msgid "Select to show a legend in the coordinate system."
+msgstr "Тухайн координатын системийн нэршлийн самбар үзүүлэх"
+
+#. Form1..PopupMenu4..Legend_Font..Caption
+#, fuzzy
+msgid "Font..."
+msgstr "Фонт"
+
+#. Form1..PopupMenu4..Legend_Font..Hint
+msgid "Change the font of the legend."
+msgstr "Нэршлийн самбарын фонтыг өөрчлөх"
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_TopRight..Caption
+#. Form3..PageControl1..TabSheet3..RadioGroup3....Items.Strings
+msgid "Top Right"
+msgstr "Баруун дээд"
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_TopRight..Hint
+msgid "Show the legend in the upper right corner."
+msgstr "Нэршил бичиглэлийг баруун дээд буланд байрлуулан харуул"
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_BottomRight..Caption
+#. Form3..PageControl1..TabSheet3..RadioGroup3....Items.Strings
+msgid "Bottom Right"
+msgstr "Зүүн доод"
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_BottomRight..Hint
+msgid "Show the legend in the bottom right corner."
+msgstr "Нэршлийн самбарыг баруун доод буланд харуулна."
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_TopLeft..Caption
+#. Form3..PageControl1..TabSheet3..RadioGroup3....Items.Strings
+msgid "Top Left"
+msgstr "Зүүн дээд"
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_TopLeft..Hint
+msgid "Show the legend in the upper left corner."
+msgstr "Нэршил бичиглэлийг зүүн дээд буланд байрлуулан харуул"
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_BottomLeft..Caption
+#. Form3..PageControl1..TabSheet3..RadioGroup3....Items.Strings
+msgid "Bottom Left"
+msgstr "Зүүн доод"
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_BottomLeft..Hint
+msgid "Show the legend in the bottom left corner."
+msgstr "Нэршил бичиглэлийг зүүн доод буланд байрлуулан харуул"
+
+#. Form10..Button1..Caption
+#. Form15..Button1..Caption
+#. Form19..Button2..Caption
+msgid "Close"
+msgstr "Хаах"
+
+#. Form10..Button2..Caption
+msgid "Next tip"
+msgstr "Дараахь"
+
+#. Form10..Button3..Caption
+msgid "Previous tip"
+msgstr "Өмнөх"
+
+#. Form10..CheckBox1..Caption
+msgid "Show tips at startup"
+msgstr "Эхлэнгүүт хувилбарыг үзүүлж бай."
+
+#. Form10..Panel1..Label1..Caption
+msgid "Did you know..."
+msgstr "Чи мэдэх үү..."
+
+#. Form11..Caption
+msgid "Insert relation"
+msgstr "Тэнцэнтгэл биш оруулах"
+
+#. Form11..Label1..Caption
+msgid "Relation:"
+msgstr "Харьцаа:"
+
+#. Form11..Label2..Caption
+msgid "Constraints:"
+msgstr "Тэнцэтгэл биш:"
+
+#. Form11..Button1..Caption
+#. Form12..Button1..Caption
+#. Form13..Button1..Caption
+#. Form14..Button1..Caption
+#. Form16..Button1..Caption
+#. Form17..Button1..Caption
+#. Form18..Button1..Caption
+#. Form2..Button1..Caption
+#. Form21..TntButton1..Caption
+#. Form3..Button1..Caption
+#. Form4..Button1..Caption
+#. Form5..Button1..Caption
+#. Form6..Button1..Caption
+#. Form7..Button1..Caption
+#. Form8..Button1..Caption
+#. PrintFrm..Button1..Caption
+msgid "OK"
+msgstr "Ok"
+
+#. Form11..Button2..Caption
+#. Form12..Button2..Caption
+#. Form13..Button2..Caption
+#. Form14..Button2..Caption
+#. Form15..ProgressForm1..ButtonCaption
+#. Form16..Button2..Caption
+#. Form17..Button2..Caption
+#. Form18..Button2..Caption
+#. Form19..ProgressForm1..ButtonCaption
+#. Form21..TntButton2..Caption
+#. Form3..Button2..Caption
+#. Form4..Button2..Caption
+#. Form5..Button2..Caption
+#. Form6..Button2..Caption
+#. Form7..Button2..Caption
+#. Form8..Button2..Caption
+#. PrintFrm..Button2..Caption
+msgid "Cancel"
+msgstr "Болих"
+
+#. Form11..GroupBox1..Caption
+#. Form12..GroupBox1..Caption
+#. Form5..GroupBox3..Caption
+#. Form7..GroupBox3..Caption
+msgid "Legend text"
+msgstr "Нэршил бичиглэл"
+
+#. Form11..GroupBox1..Label10..Caption
+#. Form12..GroupBox1..Label10..Caption
+#. Form14..Label3..Caption
+#. Form16..PageControl1..TabSheet2..Label12..Caption
+#. Form5..GroupBox3..Label10..Caption
+#. Form7..GroupBox3..Label10..Caption
+msgid "Description:"
+msgstr "Бичлэг:"
+
+#. Form11..GroupBox1..Edit3....Hint
+#. Form5..GroupBox3..Edit7....Hint
+#, fuzzy
+msgid "Write a descriptive text to show in the legend and function list. If empty the formula will be used."
+msgstr "Хэрэв хоосон илэрхийлэл бичигдсэн бол нэмэлт техтийг нэршлын самбарт бичнэ."
+
+#. Form11..GroupBox2..Caption
+#. Form16..PageControl1..TabSheet2..GroupBox3..Caption
+#. PrintFrm..GroupBox1..Button3..Caption
+msgid "Properties"
+msgstr "Шинж чанар"
+
+#. Form11..GroupBox2..Label7..Caption
+#. Form13..GroupBox1..Label7..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox1..Label1..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox2..Label5..Caption
+#. Form16..PageControl1..TabSheet2..GroupBox3..Label4..Caption
+msgid "Style:"
+msgstr "Хэлбэр:"
+
+#. Form11..GroupBox2..Label9..Caption
+#. Form12..GroupBox2..Label9..Caption
+#. Form13..GroupBox1..Label6..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox1..Label2..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox2..Label6..Caption
+#. Form16..PageControl1..TabSheet2..GroupBox3..Label5..Caption
+#. Form5..GroupBox4..GridPanelEx1..Label9..Caption
+#. Form7..GroupBox4..Label9..Caption
+msgid "Color:"
+msgstr "Өнгө:"
+
+#. Form11..GroupBox2..Label3..Caption
+#. Form12..GroupBox2..Label8..Caption
+#. Form13..GroupBox1..Label5..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox2..Label7..Caption
+#. Form5..GroupBox4..GridPanelEx1..Label8..Caption
+#. Form7..GroupBox4..Label8..Caption
+msgid "Width:"
+msgstr "Өргөн:"
+
+#. Form11..GroupBox2..ShadeSelect1....Hint
+#, fuzzy
+msgid "Select the style used for drawing the inequality. Not used for equations."
+msgstr "Харьцааг зурах өнгийг сонгох"
+
+#. Form11..GroupBox2..ExtColorBox1..Hint
+msgid "Select the color for drawing the relation."
+msgstr "Харьцааг зурах өнгийг сонгох"
+
+#. Form11..GroupBox2..Panel1..Edit4....Hint
+msgid "Width in pixels of the equation line or the borderline of the inequality."
+msgstr ""
+
+#. Form11..Edit1..Hint
+msgid "Enter the relation, for example \"x^2+y^2 = 25\" or \"y < sin(x)\""
+msgstr "Тэнцэтгэл бишийг дараах байдлаар оруул. Жишээ нь: x^2+y^2 = 25 эсвэл \"y < sin(x). "
+
+#. Form11..Edit2....Hint
+msgid "Enter constraints for the relation, for example \"x > 0 and y < 5\""
+msgstr "Харьцаа, тэнцэтгэл биш оруулах. Жишээ нь x > 0 ба < 5"
+
+#. Form12..Caption
+msgid "Insert tangent/normal"
+msgstr "Шүргэгч/ нормал оруул"
+
+#. Form12..Edit1..Hint
+#, fuzzy
+msgid "Value where the tangent/normal will interact with the function."
+msgstr "Сүүдэрлэлт эхлэх цэгийн координат."
+
+#. Form12..RadioGroup1..Hint
+msgid "Choose if you want a tangent or a normal."
+msgstr "Хэрэв та тангенс болон нормаль хүсэж байгаа бол сонго "
+
+#. Form12..RadioGroup1..Caption
+msgid "Type"
+msgstr "Төрөл"
+
+#. Form12..RadioGroup1....Items.Strings
+msgid "Tangent"
+msgstr "Шүргэгч"
+
+#. Form12..RadioGroup1....Items.Strings
+msgid "Normal"
+msgstr "Нормаль"
+
+#. Form12..GroupBox1..Edit2....Hint
+#. Form7..GroupBox3..Edit3....Hint
+msgid "Write a descriptive text to show in the legend. If empty the equation will be used."
+msgstr "Хэрэв хоосон илэрхийлэл бичигдсэн бол нэмэлт техтийг нэршлын самбарт бичнэ."
+
+#. Form12..GroupBox2..Caption
+#. Form5..GroupBox4..Caption
+#. Form7..GroupBox4..Caption
+msgid "Graph properties"
+msgstr "Графикын шинж чанар"
+
+#. Form12..GroupBox2..Label7..Caption
+#. Form5..GroupBox4..GridPanelEx1..Label7..Caption
+#. Form7..GroupBox4..Label7..Caption
+msgid "Line style:"
+msgstr "Шугамын хэлбэр:"
+
+#. Form12..GroupBox2..Edit3..Hint
+#. Form13..GroupBox1..Edit2..Hint
+#. Form5..GroupBox4..GridPanelEx1..Panel1..Edit6..Hint
+#. Form7..GroupBox4..Edit4..Hint
+msgid "Width of graph in pixels."
+msgstr "Графикын цэгийн өргөн"
+
+#. Form12..GroupBox2..LineSelect1..Hint
+#. Form13..GroupBox1..LineSelect1..Hint
+#. Form5..GroupBox4..GridPanelEx1..LineSelect1..Hint
+#. Form7..GroupBox4..LineSelect1..Hint
+msgid "Choose which line style to use for drawing the graph."
+msgstr "Графикыг ямар шугамаар зурахаа сонго."
+
+#. Form12..GroupBox2..ExtColorBox1..Hint
+#. Form13..GroupBox1..ExtColorBox1..Hint
+#. Form5..GroupBox4..GridPanelEx1..ExtColorBox1..Hint
+#. Form7..GroupBox4..ExtColorBox1..Hint
+msgid "Select the color of the graph."
+msgstr "Графикийн өнгийг сонгоно"
+
+#. Form12..GroupBox3..Caption
+#. Form5..GroupBox2..Caption
+#. Form7..GroupBox2..Caption
+msgid "Argument range"
+msgstr "Аргументын хэмжээ"
+
+#. Form12..GroupBox3..Label4..Caption
+#. Form15..Label1..Caption
+#. Form16..PageControl1..TabSheet2..GroupBox1..Label6..Caption
+#. Form16..PageControl1..TabSheet3..GroupBox2..Label8..Caption
+#. Form19..TntGroupBox1..Label2..Caption
+#. Form5..GroupBox2..Label4..Caption
+#. Form7..GroupBox2..Label4..Caption
+#. AreaFrame..GridPanel1..Label1..Caption
+msgid "From:"
+msgstr "Хаанаас:"
+
+#. Form12..GroupBox3..Label5..Caption
+#. Form15..Label2..Caption
+#. Form16..PageControl1..TabSheet2..GroupBox1..Label7..Caption
+#. Form16..PageControl1..TabSheet3..GroupBox2..Label9..Caption
+#. Form19..TntGroupBox1..Label3..Caption
+#. Form5..GroupBox2..Label5..Caption
+#. Form7..GroupBox2..Label5..Caption
+#. AreaFrame..GridPanel1..Label2..Caption
+msgid "To:"
+msgstr "Хаана:"
+
+#. Form12..GroupBox3..Edit4..Hint
+#. Form5..GroupBox2..Edit3..Hint
+#. Form7..GroupBox2..Edit1..Hint
+msgid "Start of range interval for the used variable."
+msgstr "Ашиглаж байгаа хувьсагчдын интервалын хэмжээг эхлэл"
+
+#. Form12..GroupBox3..Edit5..Hint
+#. Form5..GroupBox2..Edit4..Hint
+#. Form7..GroupBox2..Edit2..Hint
+msgid "End of range interval for the used variable."
+msgstr "Ашиглаж байгаа хувьсагчдын интервалын хэмжээг төгсгөл"
+
+#. Form12..GroupBox5..Caption
+#. Form5..GroupBox5..Caption
+msgid "Endpoints"
+msgstr "Төгсгөл цэгүүд"
+
+#. Form12..GroupBox5..Label11..Caption
+#. Form5..GroupBox5..Label11..Caption
+msgid "Start:"
+msgstr "Эхлэх:"
+
+#. Form12..GroupBox5..Label12..Caption
+#. Form5..GroupBox5..Label12..Caption
+msgid "End:"
+msgstr "Төгсөх:"
+
+#. Form12..GroupBox5..ComboBox1....Hint
+#. Form5..GroupBox5..ComboBox2....Hint
+msgid "Select marker to show at the start of the interval. Only used if an argument range is specified."
+msgstr ""
+
+#. Form12..GroupBox5..ComboBox2....Hint
+#. Form5..GroupBox5..ComboBox3....Hint
+msgid "Select marker to show at the end of the interval. Only used if an argument range is specified."
+msgstr ""
+
+#. Form13..Caption
+msgid "Insert trendline"
+msgstr "Тэнцэнтгэл биш оруулах "
+
+#. Form13..GroupBox1..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox2..Caption
+msgid "Line"
+msgstr "Шулуун"
+
+#. Form13..PageControl1..TabSheet1..Caption
+msgid "Built-in"
+msgstr "Байгуулсан"
+
+#. Form13..PageControl1..TabSheet1..Panel1..Image1..Hint
+msgid "Create a linear function: f(x)=ax+b"
+msgstr "Шугаман функц үүсгэх:  f(x)=ax+b"
+
+#. Form13..PageControl1..TabSheet1..Panel2..Image2..Hint
+msgid "Create a logarithmic function: f(x)=a*ln(x)+b"
+msgstr "Логарифм  функц үүсгэх: f(x)=a*ln(x)+b"
+
+#. Form13..PageControl1..TabSheet1..Panel3..Image3..Hint
+msgid "Create a polynomial function: f(x)=ax^3+bx^2+cx+d"
+msgstr "Полиномиал функц үүсгэх: f(x)=ax^3+bx^2+cx+d"
+
+#. Form13..PageControl1..TabSheet1..Panel4..Image4..Hint
+msgid "Create a power function: f(x)=ax^b"
+msgstr "Илтгэгч функц үүсгэх: f(x)=ax^b"
+
+#. Form13..PageControl1..TabSheet1..Panel5..Image5..Hint
+msgid "Create a exponential function: f(x)=a*b^x"
+msgstr "Ехпонциал функц үүсгэх: f(x)=a*b^x"
+
+#. Form13..PageControl1..TabSheet1..StaticText1..Caption
+msgid "Order:"
+msgstr "Жагсаалт:"
+
+#. Form13..PageControl1..TabSheet1..RadioButton3..Caption
+msgid "Polynomial"
+msgstr "Полиномиал"
+
+#. Form13..PageControl1..TabSheet1..RadioButton2..Caption
+msgid "Logarithmic"
+msgstr "Логарифм "
+
+#. Form13..PageControl1..TabSheet1..RadioButton1..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox2..ComboBox2....Items.Strings
+msgid "Linear"
+msgstr "Шугаман"
+
+#. Form13..PageControl1..TabSheet1..RadioButton4..Caption
+msgid "Power"
+msgstr "Илтгэгч"
+
+#. Form13..PageControl1..TabSheet1..RadioButton5..Caption
+msgid "Exponential"
+msgstr "Ехфонциал"
+
+#. Form13..PageControl1..TabSheet1..Panel6..Image6..Hint
+msgid "Create a moving average as a series of straight lines."
+msgstr "Шулуун шугаман цувааны байгуулалтын алхам тогтоох"
+
+#. Form13..PageControl1..TabSheet1..RadioButton6..Caption
+msgid "Moving average"
+msgstr "Дундажийг зөөх"
+
+#. Form13..PageControl1..TabSheet1..StaticText2..Caption
+msgid "Period:"
+msgstr "Үе:"
+
+#. Form13..PageControl1..TabSheet1..Edit4..Hint
+msgid "Determines how many points are used for the average."
+msgstr "Дундажид хэдэн цэг ашиглагдахыг тодорхойлох"
+
+#. Form13..PageControl1..TabSheet1..Edit1..Hint
+msgid "The order of the polynomium. For example 2 means a parable."
+msgstr "Полиномиал жагсаалт. "
+
+#. Form13..PageControl1..TabSheet2..Caption
+msgid "User defined"
+msgstr "Хэрэглэгчийн тодорхойлсноор"
+
+#. Form13..PageControl1..TabSheet2..Label1..Caption
+msgid "Model:"
+msgstr "Загвар:"
+
+#. Form13..PageControl1..TabSheet2..Button4..Caption
+#. Form8..Caption
+msgid "Add model"
+msgstr "Загвар нэм"
+
+#. Form13..PageControl1..TabSheet2..Button5..Caption
+msgid "Remove model"
+msgstr "Загвар арилга"
+
+#. Form13..PageControl1..TabSheet2..Button6..Caption
+msgid "Edit model"
+msgstr "Загвар засварлах"
+
+#. Form13..PageControl1..TabSheet2..Edit3..Hint
+#, fuzzy
+msgid "Enter a function model to base the trendline on."
+msgstr "Тайлбар бичгийг харуулах утга оруулах"
+
+#. Form13..CheckBox1....Hint
+#. Form13..Edit5....Hint
+msgid "Type a value in the Intercept box to specify the point where you want the trendline to meet the y-axis. This is only available for linear, polynomial and exponential trendlines."
+msgstr ""
+
+#. Form13..CheckBox1..Caption
+msgid "Intercept ="
+msgstr "Intercept ="
+
+#. Form13..TntPopupMenu1..Popup_Import..Caption
+#. Form14..PopupMenu1..Popup_Import..Caption
+#. Form17..PopupMenu1..Popup_Import..Caption
+msgid "Import from file..."
+msgstr "Файл импортлохдоо..."
+
+#. Form13..TntPopupMenu1..Popup_Import..Hint
+#, fuzzy
+msgid "Import user models from a file."
+msgstr "Өгөгдөлийн файлаас цэгэн цуваа импортло"
+
+#. Form13..TntPopupMenu1..Popup_Export..Caption
+#, fuzzy
+msgid "Export all to file..."
+msgstr "Файл болгон экпортло..."
+
+#. Form13..TntPopupMenu1..Popup_Export..Hint
+#, fuzzy
+msgid "Export user models to a file."
+msgstr "Сонгогдсон өгөгдлийн файл болгон экпортлоно."
+
+#. Form13..SaveDialog1..Filter
+#. Form13..OpenDialog1..Filter
+msgid "User models [*.ini]|*.ini"
+msgstr ""
+
+#. Form14..Caption
+msgid "Insert point series"
+msgstr "Цэгэн цуваа оруул"
+
+#. Form14..Edit1....Hint
+msgid "The name of the point series, which is shown in the list to the left of the coordinate system."
+msgstr "Координатын системийн зүүн талын жагсаалтын харагдаж буй  цувааны нэр."
+
+#. Form14..Edit1..Text
+msgid "Series"
+msgstr "Цуваа"
+
+#. Form14..GroupBox4....Hint
+msgid "This shows a sample of the markers and the lines between the markers."
+msgstr ""
+
+#. Form14..GroupBox4..Caption
+msgid "Sample"
+msgstr "Жишээ"
+
+#. Form14..PageControl1..TabSheet1..Caption
+msgid "Markers"
+msgstr "Тодруулагчууд"
+
+#. Form14..PageControl1..TabSheet1..GroupBox1..Caption
+msgid "Marker"
+msgstr "Тодруулалт"
+
+#. Form14..PageControl1..TabSheet1..GroupBox1..Label4..Caption
+msgid "Size:"
+msgstr "Хэмжээ:"
+
+#. Form14..PageControl1..TabSheet1..GroupBox1..Edit2..Hint
+msgid "Choose the size of the markers."
+msgstr "Тодруулагчийн хэмжээг тодорхойл"
+
+#. Form14..PageControl1..TabSheet1..GroupBox1..PointSelect1..Hint
+msgid "Choose the type of markers to be shown at each point."
+msgstr "Цэг бүр дээр тодруулагчийн хэлбэрийг сонго"
+
+#. Form14..PageControl1..TabSheet1..GroupBox1..ExtColorBox1..Hint
+msgid "Choose the color of the markers."
+msgstr "Тодруулагчийн өнгийг сонго"
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..Label11..Caption
+msgid "Interpolation:"
+msgstr "Интерполяц:"
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..LineSelect1....Hint
+msgid "Choose the style of lines to be drawn between the points. You may also choose not to draw any lines."
+msgstr "Цэгүүдийн хоорондох шугамын хэлбэрийг сонго. Ямар ч шугамаар зурахгүй байж болно."
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..Edit3..Hint
+msgid "Choose the width of the lines in pixels."
+msgstr "Пиксель дэх шугамын өргөнийг сонго"
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..ComboBox2..Hint
+msgid "Select which kind of line to draw between the markers."
+msgstr "Тодруулагчуудын хооронд ямар шугамаар зурахаа сонго"
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..ComboBox2....Items.Strings
+#, fuzzy
+msgid "1D cubic spline"
+msgstr "Куб сплайн"
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..ComboBox2....Items.Strings
+#, fuzzy
+msgid "2D cubic spline"
+msgstr "Куб сплайн"
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..ComboBox2....Items.Strings
+msgid "Half cosine"
+msgstr "Хагас  косинус"
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..ExtColorBox2..Hint
+msgid "Choose the color of the lines."
+msgstr "Шугамын өнгийг сонго"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..Caption
+msgid "Labels"
+msgstr "Хаяг:"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..Label8..Caption
+msgid "Position:"
+msgstr "Байрлал:"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..CheckBox2..Hint
+msgid "Check to show the coordinate at each point."
+msgstr "Цэг бүрийн координатыг харуулж шалга"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..CheckBox2..Caption
+msgid "Show coordinates"
+msgstr "Координатуудыг харуул."
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..BitBtn1..Hint
+msgid "Select the font for the coordinates."
+msgstr "Координатуудын фонтыг сонгох"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1..Hint
+msgid "Select where the coordinates should be shown."
+msgstr "Хаана идвэхжүүлнэ тэд харагдах болно."
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+msgid "Above"
+msgstr "Дээшлүүл"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+msgid "Below"
+msgstr "Доошлуул"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+msgid "Left"
+msgstr "Зүүн"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+msgid "Right"
+msgstr "Баруун"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+#, fuzzy
+msgid "Above Left"
+msgstr "Зүүн тийш зөөх"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+#, fuzzy
+msgid "Above Right"
+msgstr "Баруун тийш зөөх"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+#, fuzzy
+msgid "Below Left"
+msgstr "Доод талын функц"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+#, fuzzy
+msgid "Below Right"
+msgstr "Баруун дээд"
+
+#. Form14..PageControl1..TabSheet1..RadioGroup1....Hint
+msgid "Choose between cartesian (x,y) coordinates and polar (θ,r) coordinates."
+msgstr ""
+
+#. Form14..PageControl1..TabSheet1..RadioGroup1..Caption
+#, fuzzy
+msgid "Coordinate type"
+msgstr "Координат тодорхойлогдоогүй байна."
+
+#. Form14..PageControl1..TabSheet1..RadioGroup1....Items.Strings
+msgid "Cartesian"
+msgstr ""
+
+#. Form14..PageControl1..TabSheet1..RadioGroup1....Items.Strings
+#. Form4..GridPanelEx1..RadioGroup1....Items.Strings
+msgid "Polar"
+msgstr "Туйлын"
+
+#. Form14..PageControl1..TabSheet2..Caption
+msgid "Error bars"
+msgstr "Алдааны мөр"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..Caption
+#, fuzzy
+msgid "X error amount"
+msgstr "Х алдааны мөр"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..CheckBox3..Hint
+msgid "Show horizontal error bars."
+msgstr "Алдааны мөрийг хэвтээгээр харуул"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..CheckBox3..Caption
+msgid "Show x-bars"
+msgstr "х мөрийг харуул"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..RadioButton1..Hint
+#. Form14..PageControl1..TabSheet2..GroupBox6..RadioButton4..Hint
+msgid "All error bars are the same size."
+msgstr ""
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..RadioButton1..Caption
+#. Form14..PageControl1..TabSheet2..GroupBox6..RadioButton4..Caption
+msgid "Fixed:"
+msgstr "Засварлагдах:"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..Edit4..Hint
+#. Form14..PageControl1..TabSheet2..GroupBox6..Edit6..Hint
+msgid "Enter fixed value."
+msgstr "Засварлагдах утгыг оруулна."
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..RadioButton2..Hint
+msgid "All error bars are the same percentage of the x-coordinate."
+msgstr ""
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..RadioButton2..Caption
+#. Form14..PageControl1..TabSheet2..GroupBox6..RadioButton5..Caption
+msgid "Relative:"
+msgstr "Хамаарал:"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..RadioButton3..Hint
+#. Form14..PageControl1..TabSheet2..GroupBox6..RadioButton6..Hint
+msgid "Each error bar is given a custom value."
+msgstr ""
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..RadioButton3..Caption
+#. Form14..PageControl1..TabSheet2..GroupBox6..RadioButton6..Caption
+msgid "Custom"
+msgstr "Өөриймсөг"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..Edit5..Hint
+#. Form14..PageControl1..TabSheet2..GroupBox6..Edit7..Hint
+#, fuzzy
+msgid "Enter relative value in percent."
+msgstr "Засварлагдах утгыг оруулна."
+
+#. Form14..PageControl1..TabSheet2..GroupBox6..Caption
+#, fuzzy
+msgid "Y error amount"
+msgstr "у алдааны мөр"
+
+#. Form14..PageControl1..TabSheet2..GroupBox6..CheckBox4..Hint
+msgid "Show vertical error bars."
+msgstr "Алдааны мэдээллийг босоогоор харуулна."
+
+#. Form14..PageControl1..TabSheet2..GroupBox6..CheckBox4..Caption
+msgid "Show y-bars"
+msgstr "у-тэнхлэгийн харуул"
+
+#. Form14..PageControl1..TabSheet2..GroupBox6..RadioButton5..Hint
+msgid "All error bars are the same percentage of the y-coordinate."
+msgstr ""
+
+#. Form14..PopupMenu1..Popup_Cut..Hint
+#. Form17..PopupMenu1..Popup_Cut..Hint
+#. Form6..PopupMenu1..Popup_Cut..Hint
+msgid "Cut the selected text to the clipboard."
+msgstr "Сонгосон текстийг clipboard руу таслан авах"
+
+#. Form14..PopupMenu1..Popup_Copy..Hint
+#. Form17..PopupMenu1..Popup_Copy..Hint
+#. Form6..PopupMenu1..Popup_Copy..Hint
+msgid "Copy the selected text to the clipboard."
+msgstr "Сонгогдсон текстийг clipboard-руу хувилах."
+
+#. Form14..PopupMenu1..Popup_Paste....Hint
+#. Form17..PopupMenu1..Popup_Paste....Hint
+msgid "Paste text from the clipboard into the grid. Other cells may be overwritten by the text from the clipboard."
+msgstr ""
+
+#. Form14..PopupMenu1..Popup_Delete..Hint
+#. Form17..PopupMenu1..Popup_Delete..Hint
+msgid "Erase selected cells."
+msgstr "Сонгогдсон нүдүүдийг арилга."
+
+#. Form14..PopupMenu1..Popup_Insert..Caption
+#. Form17..PopupMenu1..Popup_Insert..Caption
+msgid "Insert row"
+msgstr "Мөр оруулах"
+
+#. Form14..PopupMenu1..Popup_Insert..Hint
+#. Form17..PopupMenu1..Popup_Insert..Hint
+msgid "Inserts a row in the grid moving rows below one down."
+msgstr ""
+
+#. Form14..PopupMenu1..Popup_Remove..Caption
+#. Form17..PopupMenu1..Popup_Remove..Caption
+msgid "Remove row"
+msgstr "Мөр арилгах"
+
+#. Form14..PopupMenu1..Popup_Remove..Hint
+#. Form17..PopupMenu1..Popup_Remove..Hint
+msgid "Removes the selected rows."
+msgstr "Сонгогдсон мөрийг арилгана."
+
+#. Form14..PopupMenu1..Popup_Select..Caption
+#. Form15..PopupMenu1..Popup1_Select..Caption
+#. Form17..PopupMenu1..Popup_Select..Caption
+msgid "Select all"
+msgstr "Бүгдийг идвэхжүүл"
+
+#. Form14..PopupMenu1..Popup_Select..Hint
+#. Form15..PopupMenu1..Popup1_Select..Hint
+#. Form17..PopupMenu1..Popup_Select..Hint
+msgid "Select all cells."
+msgstr "Бүх нүднүүдийг идвэхжүүл..."
+
+#. Form14..PopupMenu1..Popup_Import..Hint
+#. Form17..PopupMenu1..Popup_Import..Hint
+msgid "Import data from a file and place it at the selected cell."
+msgstr ""
+
+#. Form14..PopupMenu1..Popup_Export..Hint
+#. Form17..PopupMenu1..Popup_Export..Hint
+msgid "Export selected data to a file."
+msgstr "Сонгогдсон өгөгдлийн файл болгон экпортлоно."
+
+#. Form15..Caption
+msgid "Calculate table"
+msgstr "Тооцоолох хүснэгт"
+
+#. Form15..Edit3....Hint
+#, fuzzy
+msgid "The step value. This is the difference between two adjoining values in the defined interval."
+msgstr "Алхам. Энэ нь х тэнхлэг дээрх завсаруудын хоорондох зай."
+
+#. Form15..Edit1..Hint
+msgid "The first x-value in the interval."
+msgstr "Интервалын эхний х-утга"
+
+#. Form15..Edit2..Hint
+msgid "The last x-value in the interval."
+msgstr "Интервалын сүүлийн х - утга."
+
+#. Form15..PopupMenu1..Popup1_Show1..Caption
+#. Form15..PopupMenu1..Popup1_Show2..Caption
+#. Form15..PopupMenu1..Popup1_Show3..Caption
+#. Form15..PopupMenu1..Popup1_Show4..Caption
+#. Form15..PopupMenu1..Popup1_Show5..Caption
+msgid "Show %s"
+msgstr "Үзүүл %-г"
+
+#. Form15..PopupMenu1..Popup1_Show1..Hint
+#. Form15..PopupMenu1..Popup1_Show2..Hint
+#. Form15..PopupMenu1..Popup1_Show3..Hint
+#. Form15..PopupMenu1..Popup1_Show4..Hint
+#. Form15..PopupMenu1..Popup1_Show5..Hint
+#, fuzzy
+msgid "Show the %s column in the table."
+msgstr "Нэршил бичиглэлийг зүүн доод буланд байрлуулан харуул"
+
+#. Form15..PopupMenu1..Popup1_Copy..Hint
+msgid "Copy selected cells to the clipboard."
+msgstr "Сонгогдсон нүднүүдийг clipboard-руу хувилах."
+
+#. Form15..PopupMenu1..Popup1_Export..Hint
+msgid "Saves the selected data to a file."
+msgstr "Сонгосон өгөгдлийг файлд хадгална."
+
+#. Form15..ProgressForm1..Caption
+msgid "Calculating"
+msgstr "Тооцоолол"
+
+#. Form15..SaveDialog1..Filter
+msgid "CSV (Comma delimited) [*.csv]|*.csv|Text [*.txt]|*.txt"
+msgstr "CSV (Comma delimited) [*.csv]|*.csv|Text [*.txt]|*.txt"
+
+#. Form16..Caption
+#, fuzzy
+msgid "Insert shading"
+msgstr "Сүүдэр оруулах"
+
+#. Form16..PageControl1..TabSheet1..Caption
+msgid "Shading"
+msgstr "Сүүдэрлэл"
+
+#. Form16..PageControl1..TabSheet1..Panel1..Image1..Hint
+#. Form16..PageControl1..TabSheet1..RadioButton1..Hint
+msgid "Shades the area between the function and the x-axis."
+msgstr "Х тэнхлэг болон функийн графикаар хашигдсан мужийг сүүдэрлэнэ."
+
+#. Form16..PageControl1..TabSheet1..Panel2..Image2..Hint
+#. Form16..PageControl1..TabSheet1..RadioButton2..Hint
+msgid "Shades the area below the function."
+msgstr "Цаанах функцын  сүүдэр."
+
+#. Form16..PageControl1..TabSheet1..Panel3..Image3..Hint
+#. Form16..PageControl1..TabSheet1..RadioButton3..Hint
+msgid "Shades the area above the function."
+msgstr "Наанах функцын мужийн сүүдэр."
+
+#. Form16..PageControl1..TabSheet1..Panel4..Image4..Hint
+#. Form16..PageControl1..TabSheet1..RadioButton4..Hint
+msgid "Shades the area between the function and the y-axis."
+msgstr "У тэнхлэг болон функийн графикаар хашигдсан мужийг сүүдэрлэнэ."
+
+#. Form16..PageControl1..TabSheet1..Panel5..Image5..Hint
+#. Form16..PageControl1..TabSheet1..RadioButton5..Hint
+msgid "Shades the area inside the function."
+msgstr "Гаднах функцын сүүдэр."
+
+#. Form16..PageControl1..TabSheet1..Panel6..Image6....Hint
+#. Form16..PageControl1..TabSheet1..RadioButton6....Hint
+msgid "Shades the area between the main function and the function selected in the list to the right."
+msgstr "Үндсэн функц болон сонгогдсон функцын хоорондох мужийн сүүдэрлэнэ."
+
+#. Form16..PageControl1..TabSheet1..RadioButton3..Caption
+msgid "Above function"
+msgstr "Дээд талын функц"
+
+#. Form16..PageControl1..TabSheet1..RadioButton1..Caption
+msgid "Between function and x-axis"
+msgstr "х тэнхлэг боло функцын хооронд"
+
+#. Form16..PageControl1..TabSheet1..RadioButton6..Caption
+msgid "Between functions"
+msgstr "Функцүүдийн хооронд"
+
+#. Form16..PageControl1..TabSheet1..RadioButton4..Caption
+msgid "Between function and y-axis"
+msgstr "у- тэнхлэг болон функцын хооронд"
+
+#. Form16..PageControl1..TabSheet1..RadioButton5..Caption
+msgid "Inside function"
+msgstr "Гаднах функц"
+
+#. Form16..PageControl1..TabSheet1..RadioButton2..Caption
+msgid "Below function"
+msgstr "Доод талын функц"
+
+#. Form16..PageControl1..TabSheet2..Caption
+#. Form20..Panel2..ToolBar1..ToolButton6..Hint
+#. Form4..Caption
+msgid "Options"
+msgstr "Тохируулга"
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..Caption
+#. Form19..TntGroupBox1..Caption
+msgid "Range"
+msgstr "Хэмжээ"
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..Edit1..Hint
+#. Form16..PageControl1..TabSheet3..GroupBox2..Edit3..Hint
+msgid "Coordinate where the shading starts."
+msgstr "Сүүдэрлэлт эхлэх цэгийн координат."
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..Edit2..Hint
+#. Form16..PageControl1..TabSheet3..GroupBox2..Edit4..Hint
+msgid "Coordinate where the shading ends."
+msgstr "Сүүдэрлэлт эхлэх цэгийн ккординат."
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..CheckBox2..Hint
+#. Form16..PageControl1..TabSheet3..GroupBox2..CheckBox4..Hint
+msgid "Check to increase the end coordinate until intersection."
+msgstr "Огтолцох хүртэл төгсгөл цэгийн координатыг багасга."
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..CheckBox2..Caption
+#. Form16..PageControl1..TabSheet3..GroupBox2..CheckBox4..Caption
+msgid "Increase to intersection"
+msgstr "Огтлолцолыг ихэсгэх"
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..CheckBox1..Hint
+#. Form16..PageControl1..TabSheet3..GroupBox2..CheckBox3..Hint
+msgid "Check to decrease the start coordinate until intersection."
+msgstr "Огтолцох хүртэл эхлэлийн координатыг нэмэгдүүлж шалга."
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..CheckBox1..Caption
+#. Form16..PageControl1..TabSheet3..GroupBox2..CheckBox3..Caption
+msgid "Decrease to intersection"
+msgstr "Огтлолцолын багасга"
+
+#. Form16..PageControl1..TabSheet2..GroupBox3..ShadeSelect1..Hint
+msgid "Select the style used for the shading."
+msgstr "Ашигласан сүүдрийн хэлбэрийг сонгох"
+
+#. Form16..PageControl1..TabSheet2..GroupBox3..ExtColorBox1..Hint
+msgid "Select color used for shading."
+msgstr "Ашиглаж байгаа сүүдрийн өнгийг сонгоно."
+
+#. Form16..PageControl1..TabSheet2..GroupBox3..CheckBox5..Hint
+#, fuzzy
+msgid "Mark the border around the shading."
+msgstr "Ашигласан сүүдрийн хэлбэрийг сонгох"
+
+#. Form16..PageControl1..TabSheet2..GroupBox3..CheckBox5..Caption
+#, fuzzy
+msgid "Mark border"
+msgstr "Тодруулалт"
+
+#. Form16..PageControl1..TabSheet2..Edit5..Hint
+msgid "Enter a description to show in the legend."
+msgstr "Тайлбар бичгийг харуулах утга оруулах"
+
+#. Form16..PageControl1..TabSheet3..Caption
+msgid "2nd function"
+msgstr "2 дахь функц"
+
+#. Form16..PageControl1..TabSheet3..Label11..Caption
+msgid "2nd function:"
+msgstr "2-дахь функц:"
+
+#. Form16..PageControl1..TabSheet3..ListBox1....Hint
+msgid "Select the second function when you want a shading between two functions."
+msgstr ""
+
+#. Form16..PageControl1..TabSheet3..GroupBox2..Caption
+msgid "Shading range for 2nd function"
+msgstr "2-р функцын сүүдэрлэх хэмжээ"
+
+#. Form17..Caption
+msgid "Custom functions/constants"
+msgstr "Хэрэглэгчийн функц/тогтмолууд..."
+
+#. Form17..Button3..Caption
+msgid "Apply"
+msgstr "Ашиглах"
+
+#. Form17..Grid1....TitleCaptions.Strings
+msgid "Names"
+msgstr "Нэрс"
+
+#. Form17..Grid1....TitleCaptions.Strings
+msgid "Definition"
+msgstr "Тодорхойлолт"
+
+#. Form18..Caption
+msgid "Image options"
+msgstr "Зургийн тохиргоо."
+
+#. Form18..PageControl1..TabSheet1..Caption
+msgid "Size"
+msgstr "Хэмжээ :"
+
+#. Form18..PageControl1..TabSheet1..Label1..Caption
+msgid "Image width:"
+msgstr "Дүрсийн өргөн:"
+
+#. Form18..PageControl1..TabSheet1..Label2..Caption
+msgid "Image height:"
+msgstr "Дүрсийн урт:"
+
+#. Form18..PageControl1..TabSheet1..Edit1..Hint
+msgid "Set a custom image width in pixels."
+msgstr ""
+
+#. Form18..PageControl1..TabSheet1..Edit2..Hint
+msgid "Set a custom image height in pixels."
+msgstr ""
+
+#. Form18..PageControl1..TabSheet1..RadioGroup3....Hint
+msgid "Choose to use the same size as shown on the screen or a custom image size."
+msgstr ""
+
+#. Form18..PageControl1..TabSheet1..RadioGroup3..Caption
+msgid "Image size"
+msgstr "Зургийн хэмжээ"
+
+#. Form18..PageControl1..TabSheet1..RadioGroup3....Items.Strings
+msgid "Screen size"
+msgstr "Дэлгэцийн хэмжээ"
+
+#. Form18..PageControl1..TabSheet1..RadioGroup3....Items.Strings
+msgid "Custom size"
+msgstr "Өөрийн хэмжээс"
+
+#. Form18..PageControl1..TabSheet2..RadioGroup1....Hint
+msgid "Progressive encoding allows viewers to see a rough copy of the image while it is downloaded."
+msgstr ""
+
+#. Form18..PageControl1..TabSheet2..RadioGroup1..Caption
+msgid "Encoding"
+msgstr "Кодчилол"
+
+#. Form18..PageControl1..TabSheet2..RadioGroup1....Items.Strings
+#, fuzzy
+msgid "Sequential"
+msgstr "Бүгдийг идвэхжүүл"
+
+#. Form18..PageControl1..TabSheet2..RadioGroup1....Items.Strings
+msgid "Progressive"
+msgstr "Прогресс"
+
+#. Form18..PageControl1..TabSheet2..GroupBox1..Hint
+msgid "Select a compression quality."
+msgstr "Шахалтын хэмжээ сонгоно."
+
+#. Form18..PageControl1..TabSheet2..GroupBox1..Caption
+msgid "Quality"
+msgstr "Чанар"
+
+#. Form18..PageControl1..TabSheet3..Label3..Caption
+msgid "Paper size:"
+msgstr "Цаасны хэмжээ"
+
+#. Form18..PageControl1..TabSheet3..RadioGroup2..Hint
+#. PrintFrm..RadioGroup1..Hint
+msgid "Choose paper orientation."
+msgstr "Цаасны хэвтаа босоо хэлбэр  сонгох."
+
+#. Form18..PageControl1..TabSheet3..RadioGroup2..Caption
+#. PrintFrm..RadioGroup1..Caption
+msgid "Orientation"
+msgstr "Харьцаа :"
+
+#. Form18..PageControl1..TabSheet3..RadioGroup2....Items.Strings
+#. PrintFrm..RadioGroup1....Items.Strings
+msgid "Portrait"
+msgstr "Босоо"
+
+#. Form18..PageControl1..TabSheet3..RadioGroup2....Items.Strings
+#. PrintFrm..RadioGroup1....Items.Strings
+msgid "Landscape"
+msgstr "Хэвтээ"
+
+#. Form18..PageControl1..TabSheet3..ComboBox1..Hint
+msgid "Choose paper size to use."
+msgstr "Ашиглах цаасны хэмжээ сонгоно."
+
+#. Form18..PageControl1..TabSheet3..ComboBox1....Items.Strings
+#, fuzzy
+msgid "Letter"
+msgstr "Зүүн"
+
+#. Form18..PageControl1..TabSheet3..ComboBox1....Items.Strings
+msgid "Ledger"
+msgstr ""
+
+#. Form18..PageControl1..TabSheet3..ComboBox1....Items.Strings
+#, fuzzy
+msgid "Legal"
+msgstr "Бүдэг ногоон"
+
+#. Form18..CheckBox1..Hint
+#. Form3..CheckBox16..Hint
+msgid "Select this to use these settings as defaults in the future."
+msgstr "Энэ тохиргоог байнга ашиглаж байхаар тохируулна."
+
+#. Form18..CheckBox1..Caption
+#. Form3..CheckBox16..Caption
+msgid "Save as default"
+msgstr "Байнгын болгон хадгалах"
+
+#. Form19..Caption
+#. Form19..Button1..Caption
+msgid "Animate"
+msgstr "Хөдөлгөөнт дүрс"
+
+#. Form19..Label1..Caption
+msgid "Constant:"
+msgstr "Тогтмол:"
+
+#. Form19..ComboBox1..Hint
+msgid "Choose a constant to change between each frame."
+msgstr "Хүрээ бүрийн хоорондох тогтмолыг сонгоно."
+
+#. Form19..TntGroupBox1..Label4..Caption
+msgid "Step:"
+msgstr "Алхамууд:"
+
+#. Form19..TntGroupBox1..Edit1..Hint
+#, fuzzy
+msgid "The first value of the constant."
+msgstr "Тогтмолын эхний утга"
+
+#. Form19..TntGroupBox1..Edit2..Hint
+msgid "The last value of the constant."
+msgstr "Тогтмолын сүүлийн утга"
+
+#. Form19..TntGroupBox1..Edit3..Hint
+#, fuzzy
+msgid "The chosen constant is changed by this value between each frame."
+msgstr "Хүрээ бүрийн хоорондох тогтмолыг сонгоно."
+
+#. Form19..TntGroupBox2..Caption
+#, fuzzy
+msgid "Frame options"
+msgstr "Зургийн тохиргоо."
+
+#. Form19..TntGroupBox2..Label5..Caption
+#, fuzzy
+msgid "Frame width:"
+msgstr "Дүрсийн өргөн:"
+
+#. Form19..TntGroupBox2..Label6..Caption
+#, fuzzy
+msgid "Frame height:"
+msgstr "Дүрсийн урт:"
+
+#. Form19..TntGroupBox2..Label7..Caption
+msgid "Frames/second:"
+msgstr "Хүрээнүүд/удаахь:"
+
+#. Form19..TntGroupBox2..Edit4..Hint
+#, fuzzy
+msgid "Width of each frame, in pixels."
+msgstr "Графикын цэгийн өргөн"
+
+#. Form19..TntGroupBox2..Edit5..Hint
+#, fuzzy
+msgid "Height of each frame, in pixels."
+msgstr "Графикын цэгийн өргөн"
+
+#. Form19..TntGroupBox2..Edit6..Hint
+msgid "Number of frames per second used when the animation is played."
+msgstr ""
+
+#. Form19..ProgressForm1..Caption
+msgid "Working"
+msgstr "Ажиллаж байна"
+
+#. Form2..Panel1..Version..Caption
+#, fuzzy
+msgid "Version %s"
+msgstr "Хувилбар:"
+
+#. Form2..Panel1..Label3..Caption
+#, fuzzy
+msgid "Build %s"
+msgstr "Бүтээсэн"
+
+#. Form2..Panel1..Comments....Caption
+#, fuzzy
+msgid "This is free software, and you are welcome to redistribute it under the terms in the <a href=\"%s\">GNU General Public License</a> version 2. Please send bug reports and suggestions to the programmer."
+msgstr "Энэ бол чөлөөт программ бөгөөд та оролдохыг хүсвэл наашаа..."
+
+#. Form2..Panel1..LinkLabel1....Caption
+#, fuzzy
+msgid "The newest version as well as the source code are available at: %s"
+msgstr "Шинэ хувилбар, бичлэгийн код нь энд байх магадлалтай..."
+
+#. Form2..Panel1..LinkLabel2..Caption
+#, fuzzy
+msgid "Email: %s"
+msgstr "Э-хаяг:"
+
+#. Form2..Panel1..LinkLabel3..Caption
+msgid "<Language> translation by <Translator>"
+msgstr "Орчуулсан Даваагийн Батнасан    "
+
+#. Form20..Caption
+msgid "Animation"
+msgstr "Хөдөлгөөнт дүрс"
+
+#. Form20..Panel2..ToolBar1..ToolButton1..Hint
+msgid "Play"
+msgstr "Тоглуул"
+
+#. Form20..Panel2..ToolBar1..ToolButton2..Hint
+msgid "Pause"
+msgstr "Түр зогсоо"
+
+#. Form20..Panel2..ToolBar1..ToolButton3..Hint
+msgid "Stop"
+msgstr "Зогс"
+
+#. Form20..Panel2..ToolBar1..ToolButton4..Hint
+msgid "Back"
+msgstr "Буцах"
+
+#. Form20..Panel2..ToolBar1..ToolButton5..Hint
+msgid "Step"
+msgstr "Алхамууд:"
+
+#. Form20..SaveDialog1..Filter
+msgid "Audio Video Interleave [*.avi]|*.avi"
+msgstr ""
+
+#. Form20..PopupMenu1..Speed1..Caption
+msgid "Speed"
+msgstr "Хурд"
+
+#. Form20..PopupMenu1..Speed1..N101..Hint
+#. Form20..PopupMenu1..Speed1..N501..Hint
+#. Form20..PopupMenu1..Speed1..N1001..Hint
+#. Form20..PopupMenu1..Speed1..N1501..Hint
+#. Form20..PopupMenu1..Speed1..N2001..Hint
+#. Form20..PopupMenu1..Speed1..N10001..Hint
+msgid "Change the speed used to play the animation."
+msgstr "Хөдөлгөөнт дүрсийн тоглуулах хурдыг өөрчилнө."
+
+#. Form20..PopupMenu1..Repeat1..Caption
+msgid "Repeat"
+msgstr "Давтах"
+
+#. Form20..PopupMenu1..Repeat1..Hint
+msgid "Repeat playing the animation until manually stopped."
+msgstr "Дүрсийн хөдөлгөөнийг зогсоотол давтан тоглуулна."
+
+#. Form20..PopupMenu1..Reverse1..Caption
+msgid "Auto reverse"
+msgstr ""
+
+#. Form20..PopupMenu1..Reverse1....Hint
+msgid "Play backwards when the end of the animation is reached. This is most useful in combination with the \"Repeat\" command."
+msgstr ""
+
+#. Form20..PopupMenu1..Save1..Hint
+msgid "Save the animation to a file."
+msgstr "Хөдөлгөөнт дүрсээ файлд хадгал."
+
+#. Form20..PopupMenu1..Saveimageas1..Caption
+#, fuzzy
+msgid "Save frame..."
+msgstr "Хадгалахдаа..."
+
+#. Form20..PopupMenu1..Saveimageas1..Hint
+#, fuzzy
+msgid "Save the shown frame to an image file."
+msgstr "Харагдаж байгаа координатын системийг зураг болгон хадгалах."
+
+#. Form20..PopupMenu1..Saveimagesequence1..Caption
+#, fuzzy
+msgid "Save all frames..."
+msgstr "Хадгалахдаа..."
+
+#. Form20..PopupMenu1..Saveimagesequence1....Hint
+msgid "Save all frames in the animation to image files. This will create as many files as there are frames in the animation."
+msgstr ""
+
+#. Form21..Label1..Caption
+#, fuzzy
+msgid "Corner:"
+msgstr "Өнгө:"
+
+#. Form21..ComboBox1..Hint
+#, fuzzy
+msgid "Choose which corner of the label should be locked."
+msgstr "Шугамын өнгийг сонго"
+
+#. Form21..ComboBox1....Items.Strings
+#, fuzzy
+msgid "Upper Left"
+msgstr "Зүүн дээд"
+
+#. Form21..ComboBox1....Items.Strings
+#, fuzzy
+msgid "Upper Right"
+msgstr "Баруун дээд"
+
+#. Form21..ComboBox1....Items.Strings
+#, fuzzy
+msgid "Lower Left"
+msgstr "Зүүн дээд"
+
+#. Form21..ComboBox1....Items.Strings
+#, fuzzy
+msgid "Lower Right"
+msgstr "Баруун дээд"
+
+#. Form21..Edit1..Hint
+#. Form21..Edit2..Hint
+#, fuzzy
+msgid "Enter a coordinate to lock label at."
+msgstr "Х-ккординат оруул эсвэл үндсэн цонхон дээр хулганаараа сонго."
+
+#. Form22..Caption
+msgid "Python interpreter"
+msgstr ""
+
+#. Form22..PopupMenu1..Clear1..Caption
+#, fuzzy
+msgid "Clear"
+msgstr "Тослог шаргал"
+
+#. Form3..Caption
+msgid "Edit axes"
+msgstr "Тэнхлэг засварлах"
+
+#. Form3..PageControl1..TabSheet1..Caption
+#. ParFuncFrame..ComboBox1....Items.Strings
+#. PolFuncFrame..ComboBox1....Items.Strings
+#. StdFuncFrame..ComboBox1....Items.Strings
+msgid "x-axis"
+msgstr "х-тэнхлэг"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Label1..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..Label5..Caption
+msgid "Minimum:"
+msgstr "Хамгийн бага утга:"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Edit1..Hint
+msgid "Minimum x-value."
+msgstr "х-ийн минимум утга."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Label2..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..Label6..Caption
+msgid "Maximum:"
+msgstr "Хамгийн их утга:"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Edit2..Hint
+msgid "Maximum x-value."
+msgstr "х-ийн максимум утга"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Label3..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..Label7..Caption
+msgid "Tick unit:"
+msgstr "Нэгж шугам:"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Edit3..Hint
+msgid "Units between ticks on the x-axis."
+msgstr "х тэнхлэгийн шугамын хоорондох нэгж"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Label14..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..Label9..Caption
+msgid "Grid unit:"
+msgstr "Торон нэгж:"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Edit4..Hint
+#, fuzzy
+msgid "Units between the grid lines perpendicular to the x-axis."
+msgstr "х тэнхлэгийн шугамын хоорондох нэгж"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox4..Hint
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox11..Hint
+msgid "Determine the tick unit automatically."
+msgstr ""
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox4..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox11..Caption
+msgid "Auto tick"
+msgstr "Автоматаар шугамд"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox6..Hint
+msgid "Show tick marks on the x-axis."
+msgstr "Өдрийн шинжийг үзүүл"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox6..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox13..Caption
+msgid "Show ticks"
+msgstr "Хэрэглүүрийн төрөл үзүүл"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox5..Hint
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox12..Hint
+msgid "Set the grid unit to the same as the tick unit."
+msgstr ""
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox5..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox12..Caption
+msgid "Auto grid"
+msgstr "Автоматаар дэвсгэр шугам үүсгэх."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox7..Hint
+msgid "Show vertical grid lines."
+msgstr "Босоо шугамуудыг харуулна."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox7..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox14..Caption
+msgid "Show grid"
+msgstr "Дэвсгэр шугам үзүүлэх"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Panel1..CheckBox3....Hint
+#, fuzzy
+msgid "Show the label at the right side of the graphing area, above the x-axis."
+msgstr "Координатын системийн цонхыг баруун тийш зөөх"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Panel1..CheckBox3..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..Panel3..CheckBox10..Caption
+msgid "Label:"
+msgstr "Бичлэг:"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Panel1..Edit5..Hint
+#. Form3..PageControl1..TabSheet2..GridPanel2..Panel3..Edit11..Hint
+msgid "Edit the label for the axis here."
+msgstr "Бичлэгийг энд засварла:"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Panel2..Label4..Caption
+msgid "The x-axis cross at y="
+msgstr "х - тэнхлэг нь у= тэй огтолцоно"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Panel2..Edit6..Hint
+msgid "The x-axis will intersect with the y-axis at this value."
+msgstr ""
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox1..Hint
+msgid "Use logarithmic scale on the x-axis."
+msgstr "х- тэнхлэгийн нарийвчлалыг логарфим утгаар илэрхийлнэ."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox1..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox8..Caption
+msgid "Logarithmic scale"
+msgstr "Логарифм "
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox2..Hint
+msgid "Show units on the x-axis."
+msgstr "х- тэнхлэгийн хэмжих нэгжийг үзүүл"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox2..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox9..Caption
+msgid "Show numbers"
+msgstr "Тоонуудыг харуул"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox17..Hint
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox18..Hint
+msgid "Show units on the selected axis as a fraction multiplied by pi."
+msgstr ""
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox17..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox18..Caption
+#, fuzzy
+msgid "Show as a multiple of π"
+msgstr "Пи тоогоор тэмдэглэ"
+
+#. Form3..PageControl1..TabSheet2..Caption
+#. ParFuncFrame..ComboBox1....Items.Strings
+#. PolFuncFrame..ComboBox1....Items.Strings
+msgid "y-axis"
+msgstr "у-тэнхлэг"
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Edit7..Hint
+msgid "Minimum y-value."
+msgstr "у-ийн минимум утга"
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Edit8..Hint
+msgid "Maximum y-value."
+msgstr "у-ийн махсимум утга."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Edit9..Hint
+msgid "Units between ticks on the y-axis."
+msgstr "у-тэнхлэгийн нэгж шугамуудын хоорондох нэгж"
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Edit10..Hint
+#, fuzzy
+msgid "Units between the grid lines perpendicular to the y-axis."
+msgstr "у-тэнхлэгийн нэгж шугамуудын хоорондох нэгж"
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox13..Hint
+msgid "Show tick marks on the y-axis."
+msgstr "Өдрийн шинжийг үзүүл"
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox14..Hint
+msgid "Show horizontal grid lines."
+msgstr "Хэвтээ зураасан шугам үзүүл"
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Panel3..CheckBox10....Hint
+#, fuzzy
+msgid "Show the label at the top of the graphing area, to the right of the y-axis."
+msgstr "Координатын системийн цонхыг баруун тийш зөөх"
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Panel4..Label8..Caption
+msgid "The y-axis cross at x="
+msgstr "у - тэнхлэг нь х= тэй огтолцоно."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Panel4..Edit12..Hint
+msgid "The y-axis will intersect with the x-axis at this value."
+msgstr ""
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox8..Hint
+msgid "Use logarithmic scale for the y-axis."
+msgstr "у- тэнхлэгт логарифм нарийвчлал ашигла."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox9..Hint
+msgid "Show units on the y-axis."
+msgstr "Өдрийн шинжийг үзүүл"
+
+#. Form3..PageControl1..TabSheet3..Caption
+msgid "Settings"
+msgstr "Тохиргоонууд"
+
+#. Form3..PageControl1..TabSheet3..Label16..Caption
+msgid "Title:"
+msgstr "Гарчиг:"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup1....Hint
+msgid "Choose if you want to show the axes, and if you want to show them crossed or at the left and bottom of the image."
+msgstr ""
+
+#. Form3..PageControl1..TabSheet3..RadioGroup1..Caption
+msgid "Axes style"
+msgstr "Шугамын хэлбэр:"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup1....Items.Strings
+msgid "None"
+msgstr "Юу ч үгүй"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup1....Items.Strings
+msgid "Crossed"
+msgstr "Кросслогдсон"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup1....Items.Strings
+msgid "Boxed"
+msgstr "Хайрцагласан"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup2....Hint
+msgid "Choose if trigonometric functions should calculate in radians or degrees."
+msgstr ""
+
+#. Form3..PageControl1..TabSheet3..RadioGroup2..Caption
+msgid "Trigonometry"
+msgstr "Тригонометр"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup2....Items.Strings
+msgid "Radian"
+msgstr "Радиан"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup2....Items.Strings
+msgid "Degree"
+msgstr "Өнцөг"
+
+#. Form3..PageControl1..TabSheet3..Edit13..Hint
+msgid "Enter a title to show above the coordinate system."
+msgstr "Тухайн координатын системийн нэршлийн самбар үзүүлэх"
+
+#. Form3..PageControl1..TabSheet3..BitBtn1..Hint
+msgid "Select the font for the title."
+msgstr "Функц болон шүргэгчийн тэгшитгэлийг сонго!"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup3..Hint
+msgid "Choose where the legend should be placed."
+msgstr ""
+
+#. Form3..PageControl1..TabSheet3..RadioGroup3..Caption
+#, fuzzy
+msgid "Legend placement"
+msgstr "Нэршил бичиглэл"
+
+#. Form3..PageControl1..TabSheet3..CheckBox19....Hint
+msgid "Check this to use complex numbers for calculations. Notice that this will slow graphing down."
+msgstr ""
+
+#. Form3..PageControl1..TabSheet3..CheckBox19..Caption
+#, fuzzy
+msgid "Calculate with complex numbers"
+msgstr "Харагдаж байгаа тоонуудыг комплекс тоон хэлбэрт оруулна."
+
+#. Form3..PageControl1..TabSheet4..Caption
+msgid "Font and color"
+msgstr "Фонт ба өнгө"
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..Caption
+msgid "Colors"
+msgstr "Өнгөнүүд"
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..Label17..Caption
+msgid "Grid color:"
+msgstr "Шугамын өнгө:"
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..Label18..Caption
+msgid "Axes color:"
+msgstr "Тэнхлэгийн өнгө:"
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..Label19..Caption
+#. Form6..Label4..Caption
+msgid "Background color:"
+msgstr "Дэвсгэр өнгө:"
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..ExtColorBox1..Hint
+#, fuzzy
+msgid "Select the color of the image background."
+msgstr "Тэнхлэгийн өнгө сонгоно."
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..ExtColorBox2..Hint
+msgid "Select the color of the axes."
+msgstr "Тэнхлэгийн өнгө сонгоно."
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..ExtColorBox3..Hint
+msgid "Select the color of the grid lines."
+msgstr "Торлосон шугамын өнгийг сонгоно."
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..Caption
+msgid "Fonts"
+msgstr "Фонтууд"
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..Label20..Caption
+msgid "Number font:"
+msgstr "Фонтын хэмжээ:"
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..Label21..Caption
+msgid "Label font:"
+msgstr "Бичлэгийн фонт:"
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..Label10..Caption
+msgid "Legend font:"
+msgstr "Бичлэгийн фонт:"
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..BitBtn2..Hint
+msgid "Select the font used to show the labels on the axes."
+msgstr "Тэнхлэг дээр харагдах бичлэгийн фонт сонгоно."
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..BitBtn3..Hint
+msgid "Select the font used to show the numbers on the axes."
+msgstr "Тэнхлэг дээрх тоонуудын фонтыг сонгоно."
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..BitBtn4..Hint
+msgid "Select the font used to show the legend text."
+msgstr "График дээрх бичлэгийн фонт сонгоно."
+
+#. Form4..GridPanelEx1..Label1..Caption
+msgid "Decimals:"
+msgstr "Аравтын:"
+
+#. Form4..GridPanelEx1..Panel1..Edit1..Hint
+#, fuzzy
+msgid "Number of decimals used when results are shown."
+msgstr "Харагдаж байгаа тоонуудыг комплекс тоон хэлбэрт оруулна."
+
+#. Form4..GridPanelEx1..RadioGroup1..Hint
+msgid "Format used when complex numbers are shown."
+msgstr "Харагдаж байгаа тоонуудыг комплекс тоон хэлбэрт оруулна."
+
+#. Form4..GridPanelEx1..RadioGroup1..Caption
+#, fuzzy
+msgid "Complex form"
+msgstr "Комплекс формат"
+
+#. Form4..GridPanelEx1..RadioGroup1....Items.Strings
+msgid "Real"
+msgstr "Бодит"
+
+#. Form4..GridPanelEx1..RadioGroup1....Items.Strings
+msgid "Rectangular"
+msgstr "Тэгш өнцөгт"
+
+#. Form4..GridPanelEx1..Label2..Caption
+msgid "Recent files:"
+msgstr "Саяхан нээсэн файлууд: %s"
+
+#. Form4..GridPanelEx1..Panel2..Edit2..Hint
+msgid "The number of most recent used files shown in the File menu."
+msgstr "Саяхан ашигласан файлуудыг Файл цэсэнд харагдуулах"
+
+#. Form4..GridPanelEx1..Label3..Caption
+msgid "Max undo steps:"
+msgstr "Буцах үйлдлийн дээд алхам:"
+
+#. Form4..GridPanelEx1..Panel3..Edit3....Hint
+msgid "Maximum number of undo steps saved. Set this to 0 to prevent undo."
+msgstr "Хийсэн үйлдээ буцаах үйлдлийн хамгийн дээд тоо. Хамгийн багадаа 0 байна."
+
+#. Form4..GridPanelEx1..Label5..Caption
+msgid "Font scale:"
+msgstr "Фонтын хэмжээ"
+
+#. Form4..GridPanelEx1..ComboBox1....Hint
+msgid "This is used to scale the user interface if you are having problems reading the text."
+msgstr ""
+
+#. Form4..GridPanelEx1..Label4..Caption
+msgid "Language:"
+msgstr "Хэл:"
+
+#. Form4..GridPanelEx1..ComboBox2..Hint
+msgid "Select the language to use for the user interface."
+msgstr "Курсорын доорх нэршил арилгах"
+
+#. Form4..GridPanelEx1..CheckBox2..Hint
+msgid "Show the tooltip when the cursor is over an item."
+msgstr "Ямар нэг зүйл дээр хулганаар заахад тайлбарыг харуулна."
+
+#. Form4..GridPanelEx1..CheckBox2..Caption
+msgid "Show tooltip"
+msgstr "Хэрэглүүрийн төрөл үзүүл"
+
+#. Form4..GridPanelEx1..CheckBox3....Hint
+#, fuzzy
+msgid "Save the size of the main window when the program exits. This is used the next time Graph is run."
+msgstr "Цонхны хэмжээг программ хаах үед хадгал. Энэ тохиргоо нь дараагийн удаа программыг нээхэд хэвээрээ байна. "
+
+#. Form4..GridPanelEx1..CheckBox3..Caption
+msgid "Save workspace on exit"
+msgstr "Программаас гарахад ажлын талбарыг хадгалах"
+
+#. Form4..GridPanelEx1..CheckBox4....Hint
+msgid "If checked the program will contact a web server when the program is started to see if a newer version is available."
+msgstr "Нүүр хуудсанд холбогдож шинэ хувилбар боломжтой эсэхийг шалга."
+
+#. Form4..GridPanelEx1..CheckBox4..Caption
+msgid "Check for new version of Graph at startup"
+msgstr "Graph программыг эхлэх бүрт шинэ хувилбарыг шалга"
+
+#. Form4..GridPanelEx1..CheckBox5....Hint
+msgid "Use a custom decimal separator instead of the default from the Windows Regional settings."
+msgstr ""
+
+#. Form4..GridPanelEx1..CheckBox5..Caption
+msgid "Custom decimal separator:"
+msgstr ""
+
+#. Form4..GridPanelEx1..Edit4..Hint
+msgid "Decimal separator used when exporting to other programs."
+msgstr ""
+
+#. Form5..Caption
+msgid "Insert function"
+msgstr "Функ оруул..."
+
+#. Form5..Label1..Caption
+msgid "Function type:"
+msgstr "Функцын төрөл:"
+
+#. Form5..ComboBox1..Hint
+msgid "Select the function type to graph."
+msgstr "Функц болон шүргэгчийн тэгшитгэлийг сонго!"
+
+#. Form5..ComboBox1....Items.Strings
+msgid "Standard function   y=f(x)"
+msgstr "Стандарт функц y=f(x)"
+
+#. Form5..ComboBox1....Items.Strings
+msgid "Parametric function x(t), y(t)"
+msgstr "Параметрт функц  x(t), y(t)"
+
+#. Form5..ComboBox1....Items.Strings
+msgid "Polar function         r=f(t)"
+msgstr "Туйлын функц  r=f(t)"
+
+#. Form5..GroupBox1..Caption
+msgid "Function equation"
+msgstr "Функцын төрөл:"
+
+#. Form5..GroupBox2..Label6..Caption
+msgid "Steps:"
+msgstr "Алхамууд:"
+
+#. Form5..GroupBox2..Edit5..Hint
+#, fuzzy
+msgid "Number of calculation steps used to draw the graph."
+msgstr "Графикыг ямар шугамаар зурахаа сонго."
+
+#. Form5..GroupBox4..GridPanelEx1..Label13..Caption
+msgid "Draw type:"
+msgstr "Зурах төрөл:"
+
+#. Form5..GroupBox4..GridPanelEx1..ComboBox4....Hint
+msgid "Choose Lines if you want the calculated points for the graph to be connected. Choose Dots if you only want to show a dot at each point."
+msgstr ""
+
+#. Form5..GroupBox4..GridPanelEx1..ComboBox4..Text
+#. Form5..GroupBox4..GridPanelEx1..ComboBox4....Items.Strings
+msgid "Automatic"
+msgstr "Автоматаар"
+
+#. Form5..GroupBox4..GridPanelEx1..ComboBox4....Items.Strings
+msgid "Dots"
+msgstr "Цэгүүдээр"
+
+#. Form5..GroupBox4..GridPanelEx1..ComboBox4....Items.Strings
+msgid "Lines"
+msgstr "Шулуунаар"
+
+#. Form6..Caption
+#, fuzzy
+msgid "Insert text label"
+msgstr "Нэршил оруулахдаа..."
+
+#. Form6..Label1..Caption
+msgid "Font name:"
+msgstr "Фонтны нэр:"
+
+#. Form6..Label2..Caption
+msgid "Font size:"
+msgstr "Фонтын хэмжээ"
+
+#. Form6..Label3..Caption
+msgid "Font color:"
+msgstr "Фонтны өнгө:"
+
+#. Form6..ComboBox1..Hint
+msgid "Text size."
+msgstr "Техтийн хэмжээ"
+
+#. Form6..GroupBox1..Caption
+msgid "Text string"
+msgstr "Техтийн хэмжээ"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton11..Hint
+msgid "Insert symbol (Ctrl+G)"
+msgstr "Тэмдэгт оруулах"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton13..Hint
+#, fuzzy
+msgid "Insert object."
+msgstr "Тэнцэнтгэл биш оруулах"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton1..Hint
+msgid "Bold (Ctrl+B)"
+msgstr "Тодруулах (Ctrl-B)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton2..Hint
+msgid "Italic (Ctrl+I)"
+msgstr "Налуулах (Ctrl-I)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton3..Hint
+msgid "Underline (Ctrl+U)"
+msgstr "Доогуур зурах  (Ctrl-U)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton4..Hint
+msgid "Strikethrough (Ctrl+S)"
+msgstr "Дундуур нь зурах  (Ctrl-S)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton9..Hint
+msgid "Superscript (Ctrl++)"
+msgstr "Зэрэг  (Ctrl++)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton10..Hint
+msgid "Subscript (Ctrl+=)"
+msgstr "Индекс  (Ctrl+=)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton5..Hint
+msgid "Align left (Ctrl+L)"
+msgstr "Зүүн зэрэгцүүлэх (Ctrl-L)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton6..Hint
+msgid "Center (Ctrl+E)"
+msgstr "Голлуулах  (Ctrl-E)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton7..Hint
+msgid "Align right (Ctrl+R)"
+msgstr "Зүүн зэрэгцүүлэх (Ctrl-L)"
+
+#. Form6..IFontBox1..Hint
+msgid "Text font."
+msgstr "Бичгийн фонт"
+
+#. Form6..ColorBox1..Hint
+msgid "Text color."
+msgstr "Бичгийн өнгө"
+
+#. Form6..ColorBox2..Hint
+#, fuzzy
+msgid "Select background color of the text label."
+msgstr "Тэнхлэгийн өнгө сонгоно."
+
+#. Form6..ColorBox2..DefaultName
+msgid "Transparent"
+msgstr "Нэвт гэрэлтэх"
+
+#. Form6..PopupMenu1..Popup_Undo..Hint
+msgid "Undo last action."
+msgstr "Сүүлчийн үйлдлийг хориглох"
+
+#. Form6..PopupMenu1..Popup_Redo..Hint
+msgid "Redo last undone action."
+msgstr "Сүүлчийн үйлдлийг хориглох"
+
+#. Form6..PopupMenu1..Popup_Paste..Hint
+msgid "Paste the contents of the clipboard."
+msgstr "Харагдаж байгаа координатын системийг зураг болгон  clipboard руу хувилах"
+
+#. Form6..PopupMenu1..Popup_PasteSpecial..Caption
+msgid "Paste special..."
+msgstr "Тусгайлан хувилах ..."
+
+#. Form6..PopupMenu1..Popup_PasteSpecial..Hint
+msgid "Select which clipboard representation you want to paste."
+msgstr ""
+
+#. Form6..PopupMenu1..Popup_InsertObject..Caption
+msgid "Insert object..."
+msgstr "Объект оруулахдаа..."
+
+#. Form6..PopupMenu1..Popup_InsertObject..Hint
+msgid "Create a new OLE object."
+msgstr "Шинэ координатын систем үүсгэ"
+
+#. Form6..PopupMenu1..Popup_EditObject..Caption
+msgid "Edit object"
+msgstr "Тэнхлэг засварлах"
+
+#. Form6..PopupMenu1..Popup_EditObject..Hint
+msgid "Edit selected OLE object."
+msgstr "Сонгогдсон OLE объектийг  засварлана."
+
+#. Form7..Caption
+msgid "Insert f'(x)"
+msgstr " f'(x) оруулах"
+
+#. Form8..Label1..Caption
+#. PrintFrm..GroupBox1..Label1..Caption
+msgid "Name:"
+msgstr "Нэр:"
+
+#. Form8..ValueListEditor1....TitleCaptions.Strings
+msgid "Constant"
+msgstr "Тогтмол"
+
+#. Form8..ValueListEditor1....TitleCaptions.Strings
+msgid "Value"
+msgstr "Утга"
+
+#. Form9..Label1..Caption
+msgid "Select a function or tangent to evaluate."
+msgstr "Функц болон шүргэгчийн тэгшитгэлийг сонго!"
+
+#. Form9..PolFuncFrame1....Hint
+#. ParFuncFrame..ComboBox1....Hint
+#. StdFuncFrame..ComboBox1....Hint
+msgid "Select where the cursor will be placed when you click on the image."
+msgstr "Байрлуулах зургаа сонгон хулганаар товш."
+
+#. AreaFrame..GridPanel1..Panel1..Edit1....Hint
+msgid "Enter the start coordinate or mark the range on the graph itself with the mouse."
+msgstr "Enter the start coordinate or mark the range on the graph itself with the mouse."
+
+#. AreaFrame..GridPanel1..Panel2..Edit2....Hint
+msgid "Enter the end coordinate or mark the range on the graph itself with the mouse."
+msgstr "Enter the end coordinate or mark the range on the graph itself with the mouse."
+
+#. ParFuncFrame..Label7..Caption
+#. PolFuncFrame..Label7..Caption
+#. StdFuncFrame..Label5..Caption
+msgid "Snap to:"
+msgstr "Юуг сонгох:"
+
+#. ParFuncFrame..Edit2..Hint
+msgid "The x-coordinate evaluated for the t-parameter."
+msgstr "х- координатыг t - параметрээр үнэлэх"
+
+#. ParFuncFrame..Edit3..Hint
+msgid "The y-coordinate evaluated for the t-parameter."
+msgstr "y- координатыг t - параметрээр үнэлэх"
+
+#. ParFuncFrame..Edit4..Hint
+msgid "The derivative of x(t) evaluated for the entered t-parameter."
+msgstr "x(t) функцын t параметрээр бодсон уламжлал"
+
+#. ParFuncFrame..Edit5..Hint
+msgid "The derivative of y(t) evaluated for the entered t-parameter."
+msgstr " y(t)  функцын t параметрээр бодсон уламжлал"
+
+#. ParFuncFrame..Edit6..Hint
+msgid "The slope of the function evaluated for the entered t-parameter."
+msgstr "t-параметрийн хувьд үнэлэгдсэн налуу"
+
+#. ParFuncFrame..Edit1....Hint
+#, fuzzy
+msgid "Enter the value for the parameter t for which you want to evaluate the function, or click on the graph in the graphing area."
+msgstr "Үнэлэх функцынхээ дугаарыг оруул эсвэл үндсэн цонхонд байгаа функцыг хулганаараа сонгон идвэхжүүл"
+
+#. ParFuncFrame..ComboBox1....Items.Strings
+#. PolFuncFrame..ComboBox1....Items.Strings
+#. StdFuncFrame..ComboBox1....Items.Strings
+msgid "Intersection"
+msgstr "Огтлолцол"
+
+#. ParFuncFrame..ComboBox1....Items.Strings
+#. PolFuncFrame..ComboBox1....Items.Strings
+msgid "Extreme x-value"
+msgstr "х-н эктремум  утга"
+
+#. ParFuncFrame..ComboBox1....Items.Strings
+#. PolFuncFrame..ComboBox1....Items.Strings
+#. StdFuncFrame..ComboBox1....Items.Strings
+msgid "Extreme y-value"
+msgstr "у-ийн эктремум утга"
+
+#. PolFuncFrame..Edit2..Hint
+msgid "The distance to the function evaluated for the given angle."
+msgstr "Өгсөн өнцгөөр тооцоолсон функцын зай."
+
+#. PolFuncFrame..Edit3..Hint
+msgid "The x-coordinate evaluated for the given angle."
+msgstr "х- координатыг өгсөн өнцгөөр тооцоолох"
+
+#. PolFuncFrame..Edit4..Hint
+msgid "The y-coordinate evaluated for the given angle."
+msgstr "y- координатыг өгсөн өнцгөөр тооцоолох"
+
+#. PolFuncFrame..Edit5..Hint
+msgid "The derivative of the function evaluated for the given angle."
+msgstr "Өгөгдсөн өнцгийн утгаар бодсон уламжлал"
+
+#. PolFuncFrame..Edit6..Hint
+msgid "The slope of the function evaluated for the given angle."
+msgstr "Өгөгдсөн өнцгөөр тооцоолсон функцын налуу"
+
+#. PolFuncFrame..Edit1....Hint
+#, fuzzy
+msgid "Enter the value of the polar angle for which you want to evaluate the function, or click on the graph in the graphing area."
+msgstr "Үнэлэхийг хүсэж байгаа функцын чөлөөт хувьсагчийг оруул. Эсвэл үндсэн цонхон дахь функцыг сонгон хулганааараа товш."
+
+#. StdFuncFrame..Edit1....Hint
+#, fuzzy
+msgid "Enter a value for which you want to evaluate the function, or click on the graph in the graphing area."
+msgstr "Үнэлэх функцынхээ дугаарыг оруул эсвэл үндсэн цонхонд байгаа функцыг хулганаараа сонгон идвэхжүүл"
+
+#. StdFuncFrame..Edit2..Hint
+msgid "This is the function evaluated for the entered x-value."
+msgstr "Энэ бол х-ийн өгсөн утгаар тооцоологдсон функц"
+
+#. StdFuncFrame..Edit3....Hint
+msgid "This is the first derivative of the function evaluated for the entered value."
+msgstr "Энэ бол тухайн функцын өгөгдсөн утганд бодсон нэгдүгээр эрэмбийн уламжлал."
+
+#. StdFuncFrame..Edit4....Hint
+#, fuzzy
+msgid "This is the second derivative of the function evaluated for the entered value."
+msgstr "Энэ бол тухайн функцын өгөгдсөн утганд бодсон нэгдүгээр эрэмбийн уламжлал."
+
+#. TanFrame..Edit2....Hint
+msgid "This is the y-coordinate corresponding to the entered x-coordinate."
+msgstr "Энэ бол х -н координатад харгалзах  у- координат"
+
+#. TanFrame..Edit1..Hint
+#, fuzzy
+msgid "Enter an x-coordinate or click in the graphing area."
+msgstr "Х-ккординат оруул эсвэл үндсэн цонхон дээр хулганаараа сонго."
+
+msgid "Error"
+msgstr "Алдаа"
+
+#, fuzzy
+msgid "Error %s"
+msgstr "Алдааны мөр"
+
+msgid "Length"
+msgstr "Зүүн"
+
+#, fuzzy
+msgid "Degrees"
+msgstr "Өнцөг"
+
+msgid "Label"
+msgstr "Бичлэг:"
+
+msgid "%s-error"
+msgstr "Алдаа"
+
+msgid "Axes"
+msgstr "Тэнхлэгүүд"
+
+msgid "Ctrl"
+msgstr ""
+
+msgid "Alt"
+msgstr ""
+
+#, fuzzy
+msgid "Shift"
+msgstr "Цагаан"
+
+#, fuzzy
+msgid "Del"
+msgstr "Устга"
+
+#, fuzzy
+msgid "Ins"
+msgstr "Дотогш"
+
+msgid "Home"
+msgstr ""
+
+#, fuzzy
+msgid "End"
+msgstr "Төгсөх:"
+
+msgid "PgUp"
+msgstr ""
+
+msgid "PgDn"
+msgstr ""
+
+msgid "Up"
+msgstr ""
+
+#, fuzzy
+msgid "Down"
+msgstr "Хандив"
+
+msgid "Esc"
+msgstr ""
+
+#, fuzzy
+msgid "Enter"
+msgstr "Хэвлэгч"
+
+msgid "Tab"
+msgstr ""
+
+msgid "BkSp"
+msgstr ""
+
+#, fuzzy
+msgid "Space"
+msgstr "Хадгалах"
+
+msgid "An error occurred while evaluating power function."
+msgstr ""
+
+#, fuzzy
+msgid "Tangent to pi/2+n*pi (90+n180 in degrees) is undefined."
+msgstr "Тангенс 90+p180 утгагүй."
+
+msgid "Fact can only be calculated for positive integers."
+msgstr ""
+
+msgid "Cannot take logarithm to number equal or less than zero."
+msgstr ""
+
+msgid "sqrt is undefined for negative numbers."
+msgstr "Sqrt нь сөрөг тоон утга авч болохгүй"
+
+msgid "A part of the evaluation gave a number with an imaginary part."
+msgstr ""
+
+msgid "Division by zero."
+msgstr "Тэг-д хувааж болохгүй"
+
+msgid "Inverse trigonometric function out of range [-1;1]"
+msgstr ""
+
+#, fuzzy
+msgid "The function is not defined for this value."
+msgstr "Энэ бол х-ийн өгсөн утгаар тооцоологдсон функц"
+
+msgid "atanh evaluated at undefined value."
+msgstr "atanh тодорхой утга гарахгүй. Утгагүй."
+
+msgid "acosh evaluated at undefined value."
+msgstr "acosh  утгагүй"
+
+msgid "arg(0) is undefined."
+msgstr "arg(0) утгагүй."
+
+msgid "Evaluation failed."
+msgstr "Утга..."
+
+msgid "Argument produced a function result with total loss of precision."
+msgstr ""
+
+msgid "The custom function/constant '%s' was not found or has the wrong number of arguments."
+msgstr ""
+
+msgid "Too many recursive calls."
+msgstr "Олон рекурсив дуудлага хийгдсэн байна."
+
+msgid "Overflow: A function returned a value too large to handle."
+msgstr ""
+
+msgid "A plugin function failed: %s"
+msgstr ""
+
+msgid "Unexpected operator. Operator '%s' cannot be placed here."
+msgstr ""
+
+msgid "The right bracket is missing."
+msgstr "Баруун хаалт мартагдсан байна. "
+
+msgid "Invalid number of arguments supplied for the function '%s'"
+msgstr ""
+
+msgid "Comparison operator misplaced."
+msgstr ""
+
+msgid "Invalid number found. Use the format: -5.475E-8"
+msgstr ""
+
+#, fuzzy
+msgid "String is empty. You need to enter a formula."
+msgstr "Мөр хоосон байна. Та функцээ оруулна уу!"
+
+msgid "Comma is not allowed here. Use dot as decimal separator."
+msgstr "Таслал энд ашиглаж болохгүй, цэг нь аравтын ялгах тэмдэг болно."
+
+msgid "Unexpected end of brackets."
+msgstr "Төгсгөлийн хаалт орхигдсон байна."
+
+msgid "Number, constant or function expected."
+msgstr "Тоо, эсвэл тогтмол,  функц орхигдсон байна."
+
+msgid "Parameter after constant or variable not allowed."
+msgstr "Тогтмолын дараа параметр авах боломжгүй."
+
+msgid "Expression expected."
+msgstr "Үйилдэл орхигдсон байна."
+
+msgid "Unknown variable, function or constant: \"%s\""
+msgstr "Үл таних хувьсагч, функц, эсвэл тогтмол: \"%s\""
+
+msgid "Unknown character: \"%s\""
+msgstr "Үл таних тэмдэгт: \"%s\""
+
+#, fuzzy
+msgid "The end of the expression was unexpected."
+msgstr "Үйилдэл орхигдсон байна."
+
+#, fuzzy
+msgid "Error parsing expression."
+msgstr "Интервал алдаатай"
+
+msgid "A calculation resulted in an overflow."
+msgstr ""
+
+msgid "An invalid value was used in the calculation."
+msgstr ""
+
+msgid "Not enough points for calculation."
+msgstr ""
+
+msgid "Illegal name \"%s\" for user defined function or constant."
+msgstr ""
+
+msgid "Cannot differentiate recursive function."
+msgstr ""
+
+msgid "Internal error."
+msgstr "Интернэт"
+
+msgid "Function \"%s\" cannot be differentiated."
+msgstr ""
+
+msgid "Not further specified error occurred under calculation."
+msgstr ""
+
+msgid "No solution found. Try another guess or another model."
+msgstr ""
+
+msgid "No result found."
+msgstr ""
+
+msgid "An accurate result cannot be found."
+msgstr ""
+
+msgid "Internal error. Please notify the programmer with as much information as possible."
+msgstr ""
+
+#, fuzzy
+msgid "You need to enter a name for the function/constant."
+msgstr "Сонгогдсон функцын массштаб."
+
+msgid ""
+"Invalid function/constant name '%s'.\n"
+"The name may only contain letters and decimal digits, and it must always start with a letter.\n"
+"In addition you are not allowed to redefine built-in names."
+msgstr ""
+
+#, fuzzy
+msgid "You need to enter a name for the argument."
+msgstr "Сонгогдсон функцын массштаб."
+
+msgid ""
+"Invalid argument name '%s'.\n"
+"The name may only contain letters and decimal digits, and it must always start with a letter.\n"
+" In addition you are not allowed to use built-in names as argument names."
+msgstr ""
+
+msgid "Character found after brackets."
+msgstr "Графикын талбайг тодорхойлох"
+
+msgid "Symbol \"%s\" defined more than once."
+msgstr ""
+
+msgid "Invalid equation or inequality."
+msgstr "Шинэ илэрхийлэл, тэнцэтгэл биш оруулах"
+
+msgid "Updating..."
+msgstr "Сайжруулалт..."
+
+msgid "Save changes?"
+msgstr "Өөрчлөлтийг хадгалах уу?"
+
+#, fuzzy
+msgid "Save changes in %s?"
+msgstr "Хийсэн өөрчлөлтүүдий%г хадгалах уу?"
+
+msgid "You have reached the maximum range of zoom."
+msgstr ""
+
+msgid "You have reached the minimum range of zoom."
+msgstr ""
+
+#, fuzzy
+msgid "'%s' must not be zero."
+msgstr "'%1%' нь  %2% ба %3% -уудын хооронд байх ёстой."
+
+msgid "Error in value"
+msgstr "Утганд алдаатай."
+
+msgid "'%s' has to be an integer value greater or equal to 0."
+msgstr ""
+
+#, fuzzy
+msgid "'%s' must be greater than zero."
+msgstr "'%1%' нь  %2% ба %3% -уудын хооронд байх ёстой."
+
+msgid "'%s' must be an integer greater than zero."
+msgstr ""
+
+msgid "Trying to break zoom limit."
+msgstr ""
+
+#, fuzzy
+msgid "'%s' must be greater than '%s'"
+msgstr "'%1%' нь  %2% ба %3% -уудын хооронд байх ёстой."
+
+msgid "The maximum value must be greater than the minimum value."
+msgstr ""
+
+#, fuzzy
+msgid "You need to enter a value."
+msgstr "Сонгогдсон функцын массштаб."
+
+msgid ""
+"This file was created with Graph %s.\n"
+"Only files from version %s and higher can be opened."
+msgstr ""
+
+msgid "'%s' is not a valid number."
+msgstr ""
+
+msgid "'%s' must be a positive number."
+msgstr ""
+
+#, fuzzy
+msgid "File not found: %s"
+msgstr "Файл олдсонгүй"
+
+msgid ""
+"Error reading file: %s\n"
+"The file is not a correct Graph file."
+msgstr ""
+
+#, fuzzy
+msgid "Unknown error while reading file: %s"
+msgstr "Файл уншихад алдаатай"
+
+msgid "Graph files [*.grf]|*.grf"
+msgstr "Графикын файлууд [*.grf]|*.grf|All files [*.*]|*.*"
+
+msgid ""
+"Cannot write to file: %s\n"
+"Access denied. Check that the file is not in use or write protected."
+msgstr ""
+
+msgid "The font \"%s\" doesn't exist. Standard font is used instead."
+msgstr ""
+
+#, fuzzy
+msgid "Graph system"
+msgstr "Системийг зөөх"
+
+#, fuzzy
+msgid "Open"
+msgstr "Нээх"
+
+msgid "Selection error"
+msgstr "Өнгө сонго"
+
+msgid "File error"
+msgstr "Файл алдаатай"
+
+msgid "Write access failed"
+msgstr "Бичих процесс боломжгүй"
+
+msgid "OLE error"
+msgstr "Алдаа"
+
+msgid "Error reading object"
+msgstr "Объект уншилт алдаатай."
+
+msgid "Not a valid Graph object."
+msgstr "Graph объект биш."
+
+msgid "Object error"
+msgstr "Объектын алдаа"
+
+msgid "Windows does not have enough resources to save an image that large."
+msgstr ""
+
+msgid "'%1%' must be between %2% and %3%."
+msgstr "'%1%' нь  %2% ба %3% -уудын хооронд байх ёстой."
+
+msgid "File not found"
+msgstr "Файл олдсонгүй"
+
+msgid "Error reading file"
+msgstr "Файл уншихад алдаатай"
+
+#, fuzzy
+msgid "Printer error"
+msgstr "Хэвлэгч"
+
+msgid "Invalid use of infinity. Infinity cannot be used here."
+msgstr ""
+
+msgid "Not enough memory to complete the operation."
+msgstr ""
+
+msgid "Confirm delete"
+msgstr "Устгахаа батлана уу"
+
+msgid "Are you sure you want to delete %s?"
+msgstr "Та %s -г устгахдаа итгэлтэй байна уу?"
+
+msgid "Graph files [*.grf]|*.grf|All files [*.*]|*.*"
+msgstr "Графикын файлууд [*.grf]|*.grf|All files [*.*]|*.*"
+
+msgid "CSV (semicolon delimited) [*.csv]|*.csv|CSV (comma delimited) [*.csv]|*.csv|Text (tab delimited) [*.txt]|*.txt|Text (space delimited) [*.txt]|*.txt|All files [*.*]|*.*"
+msgstr ""
+
+#, fuzzy
+msgid "Are you sure you want to delete the model: %s?"
+msgstr "Та %s -г устгахдаа итгэлтэй байна уу?"
+
+msgid "Maximum number on x-axis must be greater than the minimum value."
+msgstr ""
+
+msgid "Maximum number on y-axis must be greater than the minimum value."
+msgstr ""
+
+msgid "Server application not found."
+msgstr ""
+
+msgid "Maximum number for t must be greater than the minimum value."
+msgstr ""
+
+msgid "The step value for t must be a number greater than 0."
+msgstr ""
+
+msgid "The minimum value for the x-axis must be greater than 0, when the x-axis is logarithmic scaled."
+msgstr ""
+
+msgid "The cross point of the y-axis must be greater than 0, when the x-axis is logarithmic scaled."
+msgstr ""
+
+msgid "The minimum value for the y-axis must be greater than 0, when the y-axis is logarithmic scaled."
+msgstr ""
+
+msgid "The cross point of the x-axis must be greater than 0, when the y-axis is logarithmic scaled."
+msgstr ""
+
+msgid "'Recent files' must be between 0 and 9."
+msgstr "Саяхан нээсэн файлууд 0 ба 9 хооронд байна."
+
+msgid "The end of interval must be greater than the start of interval."
+msgstr ""
+
+msgid "Error in interval."
+msgstr "Интервал алдаатай"
+
+msgid "The width must be an integer greater than 0."
+msgstr ""
+
+msgid "Error in width"
+msgstr "Өргөний хэмжээ буруу байна"
+
+msgid "The end of interval must be greater than the start of interval and %s must be greater than 0."
+msgstr ""
+
+msgid "Invalid model name."
+msgstr ""
+
+msgid "A model of that name already exist."
+msgstr ""
+
+#, fuzzy
+msgid "The derivative of the function is not defined at %s=%s"
+msgstr "Өгөгдсөн өнцгийн утгаар бодсон уламжлал"
+
+#, fuzzy
+msgid "Coordinate not defined"
+msgstr "Координат тодорхойлогдоогүй байна."
+
+msgid "Checking for newer version..."
+msgstr "Шинэ хувилбарыг шалгаж байна."
+
+msgid "Abort printing?"
+msgstr "Хэвлэлтийг таслах уу?"
+
+msgid "Calculate area"
+msgstr "Тооцоолох муж"
+
+msgid "Calculate length of path"
+msgstr "Зайн уртыг тооцоолох"
+
+msgid "Edit function"
+msgstr "Функцыг засварлах"
+
+msgid "Edit tangent/normal"
+msgstr "Шүргэгч/ нормал оруулах."
+
+msgid "Error processing file '%s' at line %s."
+msgstr ""
+
+#, fuzzy
+msgid "Edit text label"
+msgstr "Техт "
+
+msgid "The model needs some constants (starting with a $) for Graph to find."
+msgstr ""
+
+msgid "'%s' has to be an integer value between 0 and 1000."
+msgstr ""
+
+msgid "Printing error"
+msgstr "Хэвлэгч"
+
+msgid "An unknown error occurred while printing."
+msgstr ""
+
+#, fuzzy
+msgid "Error while adding points"
+msgstr "Объект уншилт алдаатай."
+
+msgid "Each point needs both an x- and a y-coordinate."
+msgstr ""
+
+msgid "\"%s\" is not a valid number."
+msgstr ""
+
+msgid "You didn't add any points. You need to specify some x- and y-coordinates in the grid."
+msgstr ""
+
+msgid "Edit point series"
+msgstr "Цэгэн цуваа оруулах..."
+
+#, fuzzy
+msgid "Edit shading"
+msgstr "Тэнхлэг засварлах"
+
+msgid "You need to select a function."
+msgstr "Сонгогдсон функцын массштаб."
+
+#, fuzzy
+msgid "New version of Graph available"
+msgstr "Graph программыг эхлэх бүрт шинэ хувилбарыг шалга"
+
+#, fuzzy
+msgid ""
+"Graph %s is now available for download from www.padowan.dk\n"
+"\n"
+"Would you like to visit the download page?"
+msgstr ""
+"Graph %s-ийн шинэ хувилбарыг www.padowan.dk татан авах болмжтой\n"
+"Одоо таны ашиглаж байгаа нь хуучин хувилбар:\n"
+"\n"
+"%s\n"
+"\n"
+"Вэб хуудсаар аялахыг хүсэж байна уу?"
+
+msgid "No new version"
+msgstr "Шинэ хувилбар алга"
+
+#, fuzzy
+msgid "You are already using the most recent version of Graph."
+msgstr "Та хамгийн сүүлчийн шинэ хувилбарыг ашиглаж байна. Одоогоор шинэ хувилбар гараагүй байна."
+
+msgid ""
+"Cannot connect to server www.padowan.dk.\n"
+"Either the server is down or you do not have a connection to the Internet."
+msgstr ""
+
+#, fuzzy
+msgid "Socket error %s"
+msgstr "Алдааны мэдээллийг босоогоор харуулна."
+
+msgid "Definite integral, or signed area between function and x-axis, for the given domain range."
+msgstr ""
+
+#, fuzzy
+msgid "Length of path along the curve calculated for the given range."
+msgstr "Өгөгдсөн өнцгөөр тооцоолсон функцын налуу"
+
+msgid ""
+"The file cannot be opened by this version of the program.\n"
+"You need at least Graph %s to open this file."
+msgstr ""
+
+msgid ""
+"This file was saved by an outdated version of Graph,\n"
+"and it cannot be opened by the current version."
+msgstr ""
+
+msgid ""
+"\n"
+"\n"
+"If you don't want to be asked again, this feature may be disabled from the Edit|Options dialog."
+msgstr ""
+
+msgid "Edit relation"
+msgstr "Тэнцэнтгэл биш оруулах"
+
+msgid "Commands"
+msgstr "Тайлбар:"
+
+msgid "(All Commands)"
+msgstr "(Бүх үйлдэл)"
+
+#, fuzzy
+msgid "To add a command to the toolbar simply select a category and drag the command out of this dialog box to the toolbar."
+msgstr "Байнгын хэрэглэгддэг командын хэрэглүүрийн бүлэг болон зарим командын  хэрэглүүр  дээр даран хэрэглүүрийн мөрөн дээр зөөж байрлуул."
+
+msgid "Edit f'(x)"
+msgstr " f'(x) оруулах"
+
+msgid "Edit trendline"
+msgstr "Шүргэгч засварлах"
+
+msgid "Categories:"
+msgstr "Категорууд:"
+
+msgid ""
+"The program seems to be stuck in an infinite loop.\n"
+"If you cancel the operation the program will become unstable.\n"
+"You should therefore save your data under a new name and restart the application."
+msgstr ""
+
+msgid "Thread is not responding"
+msgstr ""
+
+msgid "This Tip of the day can give you a lot of information about the program that most users don't know."
+msgstr "Энэхүү цонх нь хэрэглэгч танд энэ программын талаарх зайлшгүй мэдэх шаардлагатай заавар зөвлөмжийн талаар бага зэрэг мэдээлэл өгөх болно. "
+
+msgid "You can get help using Graph, report bugs and suggest future improvements at the web forum: <a href=\"http://forum.padowan.dk\">http://forum.padowan.dk</a>"
+msgstr ""
+
+msgid "You can customize the toolbar by right clicking on it and select 'Customize toolbar'."
+msgstr "Та хэрэглүүрийн мөрөн дээр хулганы заагуурыг байрлуулан баруун товчлуураа дарж 'Хэрэглүүрийг өөриймсөглөх' сонгон хэрэглүүрийг өөртөө ойлгомжтойгоор өөрчилж болно. "
+
+#, fuzzy
+msgid "Instead of deleting a function, you can make it invisible by removing the check mark for the item in the function list."
+msgstr "Байгуулсан функцын графикыг устгахын оронд координатын системийн зүүн талд байрлах функцуудын нэрсийн жагсаалтаас функцээ сонгоод 'Харагдуул' сонголтыг өөрчлөөрөө."
+
+msgid "You can paste images into a text label."
+msgstr "Техт бичдэг хайрцаг дотроо зураг оруулан байрлуулж болно. "
+
+msgid "Text labels can contain any kind of OLE objects, for example Microsoft Equation. When editing a label right click in the editing area and select 'Insert object'."
+msgstr "Та функцыг нэр бичих цонхондлл янз бүрийн OLE объект ашиглаж болно. Жишээ та Microsoft Equation  ашиглаж болно. Үүний тулд хулганыхаа баруун товчлуураа дараад 'Нэршил засварлах' цэсийг ашиглаарай."
+
+msgid "You can export points from a point series to a file that can be read by other programs, for example Microsoft Excel. When editing the point series select the points, right click and choose 'Export to file'."
+msgstr "Та байгуулсан цэгэн цувааг энэ программаас бусад программ луу экспортлож болно. Жишээ нь Microsoft Excel. Үүний тулд цэгэн цувааны нэрэн дээр хулганы баруун товчлуураа дарж 'Файл болгон экспортло' гэсэн цэсийг сонгоно. "
+
+msgid "A vertical line at x=5 can be drawn as the parametric function x(t)=5, y(t)=t or as the relation x=5."
+msgstr "Хэрэв та х=5 гэсэн босоо шулууныг зурахын тулдn x(t)=5, y(t)=t  гэсэн параметрт функц эсвэл Функц|Тэнцэтгэл оруулах сонгож x=5 гэсэн харьцаа ашиглаж болно."
+
+msgid "You can use Zoom|Square to make the axes look equally scaled. This is especially useful when drawing circles and similar functions."
+msgstr "Та Харагдац|Квадрат сонгож тэнхлэгүүдийг ижилхэн нэгжээр хэмжсэн байдлаар харж болно. Энэхүү тохиргоог тойрог зурах, эсвэл түүнтэй ижил функцын график байгуулахдаа ашиглаж болно."
+
+msgid "You can find a list of all available functions in the help."
+msgstr "Та ашиглаж болох функцуудын жагсаалтыг Зөвлөмж цэснээс олох боломжтой. Мөн функц хэрхэн бичих талаар ч  мэдэж болно."
+
+msgid "You can combine two functions to one using 'if'. For example the function f(x)=x for x<1 and f(x)=x^2 for x>=1 can be written as f(x)=if(x<1, x, x^2)."
+msgstr "Хэрэв та хоёр функцыг нэгэн ижил нөхцөлтэйгээр график дүрсийг байгуулахаар бол If гэсэн үгийг ашиглана. Жишээ нь. f(x)=x үед x<1 ба  f(x)=x^2  үед x>=1 бол  f(x)=if(x<1, x, x^2) гэж бичнэ гэсэн үг."
+
+msgid "You can import the contents of another Graph file into the current coordinate system using 'File|Import|Graph file'."
+msgstr "Тухайн координатын системд график импортлохдоо Файл|Импорт|Graph файл сонгоно. "
+
+#, fuzzy
+msgid "If you check 'Save as default' in the Axes dialog the current settings will be used as default when creating new coordinate systems."
+msgstr "Хэрэв та тэнхлэгийн тохиргооны харилцах цонхонд 'Байнгын болгон хадгалах'    сонгосон бол шинэ цонх нээх бүрт таны хийсэн тэрхүү тохиргоо байнга нээгдэж байх болно."
+
+msgid "While you hold down the Ctrl key, you can use the arrow keys to move the system."
+msgstr "Ctrl товчлуурыг чиглэл бүхий сумтай товчлуурыг хамтатган дарж координатын системээ, тэнхлэгүүдээ зөөх боломжтой."
+
+msgid "While you hold down the Ctrl key, you can use the + and - keys to zoom in and out."
+msgstr "Ctrl товчлуурыг + болон - тэмдэгтэй хослуулан дарснаар массштабыг өөрчилж болно."
+
+msgid "You can use the scroll button on your mouse to zoom in and out at the position of the mouse cursor."
+msgstr "Та хулганы гүйлгэгч товчлуурыг ашиглан курсор байрлаж байгаа хэсгийн массштабыг өөрчилж болно. "
+
+msgid "If you don't want an item shown in the legend, you can right click on the item in the function list and deselect 'Show in legend'."
+msgstr "Нэршлийн самбарыг харагдуулахыг хүсэхгүй бол баруун товчлуураа дараад 'Нэршлийн самбар үзүүл' сонго."
+
+msgid "If you want the axes shown to the left and bottom of the image, you can choose Axes style as Boxed in the Settings tab of the Axes dialog."
+msgstr "Хэрэв та тэнхлэгүүдийг ажлын талбарынхаа зүүн болон доод талд байхаар харагдуулахыг хүсвэл 'Тэнхлэгүүд' -г сонгон 'Засварлах'  сонгоход гарч ирэх цонхны 'Тохиргоонууд' хуудасны 'Хайрцагласан' сонголтыг сонгоно."
+
+msgid "Graph can save the shown coordinate system in five different image formats: bmp, emf, png, jpg and pdf."
+msgstr "Graph программ байгуулсан графикаа яг харагдаж байгаа хэлбэрээр нь зургийн төрлүүд  bmp, emf, png, jpg болон pdf файл болгон хадгалж чадна.."
+
+#, fuzzy
+msgid "You can use 'Edit|Copy image' to copy the coordinate system and paste it into another program, for example, Microsoft Word. Later you can usually edit the image in Graph by double clicking on it in the other program."
+msgstr "Та Засвар|Зураг болгон хувилах сонгосоноор координатын системийг бүхэлд clipboard цонхонд хадгалан авч өөр бусад программд ашиглах боломжтой."
+
+msgid "You can open a saved grf-file in a new instance of the program by double clicking on it in Explorer."
+msgstr "Та программаа нээж график файл  нээхийн оронд Explorer программаасаа grf файлаа заан хулганы давхар товшилтоор нээж болно. "
+
+msgid "You can drag a grf-file from explorer into an open instance of Graph to open the file."
+msgstr "Та Explorer программаас grf файлыг чирэн нээгдсэн график цонхонд оруулснаар файл нээж болно. "
+
+#, fuzzy
+msgid "Graph will remember the size of the main window between executions. This can be disabled from the Options dialog."
+msgstr "Үндсэн цонхны хэмжээг Тохиргоонууд цэснээс сонгож болно."
+
+msgid "Calc|Table can be used to create a table with evaluation values for a function."
+msgstr "Тооцоол|Хүснэгт байгуулсан функцын утгын хүснэгтийг байгуулж болно."
+
+msgid "A part or the whole evaluation table can be exported to a file by right clicking and selecting 'Export to file'. It can afterwards be opened in other programs like Microsoft Excel."
+msgstr "Утгын хүснэгтийг Файл экспортло команд сонгон Microsoft Excel программ нээж болно."
+
+#, fuzzy
+msgid "Data from the evaluation table can be copied to another program like Microsoft Excel."
+msgstr "Утгын хүснэгтийг хуулан авч өөр программд хуулан ашиглаж болно. "
+
+#, fuzzy
+msgid "The data points in a point series can be copied to and from other programs like Microsoft Excel."
+msgstr "Цэгэн цувааны утгын хүснэгтийг бусад программаас хуулан авч ашиглаж болно. "
+
+#, fuzzy
+msgid "Elements as functions, point series, etc. can be copied from one instance of the program to another using Edit|Copy."
+msgstr "Функцуудыг давтан байгуулахгүйгээр Засвар|Хувилах команд сонгон хувилж болно. "
+
+msgid "You can always undo the last thing you did using Edit|Undo."
+msgstr "Та хамгийн сүүлд хийсэн үйлдлүүддээ Засвар|Хийснээ болих командыг сонгон хүрч чадна."
+
+msgid "If you used Edit|Undo by mistake, you can use Edit|Redo to redo what you have undone."
+msgstr "Хэрэв ямар нэг алдаа гаргасан бол Засвар|Хийснээ болих командыг сонгох ба харин тухайн үйлдлээ илүү буцаасан бол Засвар|Давтан хийх команд сонгох нь дээр."
+
+msgid "In the Axes dialog you can add a title to the coordinate system."
+msgstr "Координатын системийн цонхыг зүүн тийш зөөх"
+
+msgid "You can import point series from files saved by other programs, like Microsoft Excel."
+msgstr "Та цэгэн цувааг Microsoft Excel мэтийн программаар хадгалсан файлаас оруулж болно."
+
+#, fuzzy
+msgid "When inserting a point series, you can copy data from programs like Microsoft Excel, and paste the data into the grid in Graph."
+msgstr "Цэгэн цувааг оруулсан үед түүний утгын хүснэгтийг Microsoft Excel мэтийн программд хуулан ашиглаж болно."
+
+#, fuzzy
+msgid "You can use 'Zoom|Fit all' to change the coordinate system so all functions and point series are visible."
+msgstr "Та Харагдац|Бүх цэгүүд сонгосоноор координатын системд бүх цэгэн цуваа бүхэлдээ харагдах болно. "
+
+#, fuzzy
+msgid "You can use Zoom|Fit to change the coordinate system to show all parts of the selected function or point series."
+msgstr "Та Харагдац|Дүүргэ сонгосноор координатын системийг болон сонгогдсон функцыг харж болно. "
+
+msgid "When you hold down the Shift key you can drag the coordinate system around with the mouse."
+msgstr "Координатын системийг хулганы тусламжтайгаар зөөх"
+
+msgid "You can use Calc|Evaluate to find intersections between functions, crossings with the axes and extremum points."
+msgstr "Та Тооцоол|Үнэлэх сонгож функцуудын огтлолцол, эктремум болон тэнхлэгүүдтэй огтлолцох цэгүүдийг тогтооно."
+
+msgid "When a point series is selected you can add points to it by clicking on the image while you hold down the Ctrl key."
+msgstr "Цэгэн цувааг сонгосон тохиолдолд та CTRL товчлуурыг дарангаа координатын хавтгайд товшин ямар нэгэн дүрсийг зурж болно. Жишээ нь та (1,1),  (3,5), (-1,4) координат бүхий гурвалжинг зурахдаа эхлээд (1,1) цэг үүсгээд CTL товчлуурыг даран хулганы заагчаар  (3,5), (-1,4)  болон (1,1) цэгүүд дээр товшино."
+
+msgid "You can use a relation to plot any inequality, for example sin(x^2) < cos(y^2)"
+msgstr "Та янз бүрийн тэнцүү биш харьцааг ашиглаж болно. Жишээ нь Sin(x^2)<Cos(x^2)."
+
+msgid "You can use a relation to plot any equation, for example x*sin x = y*cos y"
+msgstr "Та янз бүрийн тэнцүү харьцааг ашиглаж болно. Жишээ нь x*Sin(x)=y*Cos(y)."
+
+msgid "Elements (functions, shadings, labels, relations, etc.) are drawn in the same order they appear in the function list to the left."
+msgstr "Зурагдсан  элементүүдийг (функцийн графикууд, сүүдрүүд, харьцаа, тэнцэтгэл биш гэх мэт) зүүн талд байрлах функцуудын жагсаалтыг ашиглан байрлах дарааллыг  нь  өөрчилж болно."
+
+msgid "You can move the selected element in the function list either by dragging it with the mouse or with the arrow up/down keys while ALT is held down."
+msgstr "Та сонгогдсон элементүүдийг хулганы чирэх даралтаар болон сум бүхий товчлуурыг ALT товчлууртай хослон дарж зөөж болно. "
+
+msgid "You can show functions and other elements behind the axes by moving the element above the axes in the function list to the left. To move shadings and tangents you will have to move the functions they are attached to."
+msgstr "Та функц болон бусад элементүүдийг харуулж чадна."
+
+msgid "Custom text labels may be attached to the axes by right clicking on the label and selecting a placement from the context menu."
+msgstr "Та өөрөө нэршлийн самбараа өөрчилөхийг хүсвэл баруун товчлуураа дарж гарч ирэх жагсаалтаас өөрт таалагдсан байршилыг сонгож болно."
+
+msgid "The legend may be moved freely with the mouse or attached to one of the corners by right clicking on the legend and choose a placement from the context menu."
+msgstr "Функцыг нэрлэсэн тэмдэглэгээг зөөхдөө хулганаараа тэмдэглэгээний хүрээ шугам дээр дарж дуртай газраа зөөж болно."
+
+#, fuzzy
+msgid "As an alternative to Transparent, you can choose a custom background color for labels. This is especially useful for labels drawn over shadings."
+msgstr "Функцыг нэрлэсэн тэмдэглэгээний дэвсгэр өнгийг та өөрөө өөрчлөн сонгож болно. "
+
+msgid "In most places like point series, axes settings, function ranges, etc., you can use expressions like pi/4 instead of numbers."
+msgstr "Та координатын тэнхлэгүүдийг тоогоор дүрслэхээс гадна пи тоогоор ч дүрсэлж болно. Жишээ пи/2 гэх мэт."
+
+msgid "You can create your own custom constants under Function|Custom functions for use in functions, point series, etc. For example g=9.80665, R=8.31"
+msgstr "Та өөрөө байнга ашигладаг тогтмолыг 'Функц|Өөрийн функц' цэсийг сонгон тодорхойлон өгч болно. Жишээ нь:  g=9.80665, R=8.31"
+
+msgid "You can create your own custom functions under Function|Custom functions for use in plotting functions, relations, etc. For example sinc(x)=if(x=0, 0, sin(x)/x)"
+msgstr "Та өөрөө байнга ашигладаг функцыг 'Функц|Өөрийн функц' цэсийг сонгон тодорхойлон өгч болно. Жишээ нь:  sinc(x)=if(x=0, 0, sin(x)/x)"
+
+msgid "In the Save as image dialog there is an Option button you can use to specify the image resolution. This is especially useful if you want a high resolution image."
+msgstr "Save  харилцах цонхонд зургийн чанарыг тодорхойлж болно. Гэхдээ  программын анхны тохиргоо нь хамгийн сайн чанартай зургийн хэмжээнд тавигдсан байгаа болно."
+
+msgid "Point series can have arrows as markers. A point series with arrows as markers and lines between the points can be used to show vectors."
+msgstr "Цэгэн цувааг сумаар тэмдэглэж болно. Мөн сумнуудын хооронд шугам татаж болно. Вектор байдлаар харуулахад энэ тохиромжтой."
+
+msgid "Insert symbol"
+msgstr "Тэмдэгт оруулах"
+
+msgid "Subset:"
+msgstr "Дэд олонлог:"
+
+msgid "Insert"
+msgstr "Оруулга"
+
+msgid "Select color"
+msgstr "Өнгө сонго"
+
+msgid "Customize"
+msgstr "Өөриймсөг"
+
+msgid "Description"
+msgstr "Бичлэг:"
+
+msgid "Cannot open clipboard: %s"
+msgstr ""
+
+msgid "There is no default printer currently selected."
+msgstr ""
+
+msgid "Install for all users"
+msgstr ""
+
+#, fuzzy
+msgid "Examples"
+msgstr "Жишээ"
+
+msgid "Local"
+msgstr "Дэд"
+
+msgid "Global"
+msgstr "Ерөнхий"
+
+#. PrintFrm..Caption
+msgid "Print"
+msgstr "Хэвлэ"
+
+#. PrintFrm..Label6..Caption
+msgid "Scale:"
+msgstr "Шах:"
+
+#. PrintFrm..GroupBox1..Caption
+msgid "Printer"
+msgstr "Хэвлэгч"
+
+#. PrintFrm..GroupBox1..Label7..Caption
+msgid "Type:"
+msgstr "Төрөл:"
+
+#. PrintFrm..GroupBox1..Label8..Caption
+msgid "Where:"
+msgstr "Хаана:"
+
+#. PrintFrm..GroupBox1..Label9..Caption
+msgid "Comment:"
+msgstr "Тайлбар:"
+
+#. PrintFrm..GroupBox1..ComboBox1....Hint
+msgid "Select the printer to use. The Properties button may be used to change more advanced settings for the printer."
+msgstr "Ашиглах принтерээ сонгоно. Шинж чанар товчлуур хэвлэгчийн байнгын тохиргоог өөрчлөхөд нь туслана."
+
+#. PrintFrm..RadioGroup2....Hint
+msgid "Select to print in color (or grayscale if your printer is not a color printer) or convert all colors to black."
+msgstr "Хэвлэх өнгийг сонгоно. Бүх өнгийг хар цагаан өнгөнд хөрвүүлнэ. "
+
+#. PrintFrm..RadioGroup2..Caption
+msgid "Print output"
+msgstr "Гадагш хэвлэх"
+
+#. PrintFrm..RadioGroup2....Items.Strings
+msgid "Color"
+msgstr "Өнгө"
+
+#. PrintFrm..RadioGroup2....Items.Strings
+msgid "Black && white"
+msgstr "Хар && Цагаан"
+
+#. PrintFrm..GroupBox2..Caption
+msgid "Position (millimeters)"
+msgstr "Байрлал (миллиметр)"
+
+#. PrintFrm..GroupBox2..Label3..Caption
+msgid "Left margin:"
+msgstr "Зүүн зах:"
+
+#. PrintFrm..GroupBox2..Label4..Caption
+msgid "Top margin:"
+msgstr "Дээд зах:"
+
+#. PrintFrm..GroupBox2..CheckBox1..Hint
+#, fuzzy
+msgid "Center the printing area on the page."
+msgstr "Хуудсанд зургийн байрлал оруулна."
+
+#. PrintFrm..GroupBox2..CheckBox1..Caption
+msgid "Center on page"
+msgstr "Хуудас голлуулах"
+
+#. PrintFrm..GroupBox2..Edit1....Hint
+#. PrintFrm..GroupBox2..Edit2....Hint
+msgid "Specify the printing area of the page. The printer will print only within these margins."
+msgstr ""
+
+#. PrintFrm..GroupBox3..Label5..Caption
+msgid "Number of copies:"
+msgstr "Хувийн тоо:"
+
+#. PrintFrm..GroupBox3..Edit3..Hint
+msgid "Choose number of copies to print."
+msgstr "Хувийн тоо:"
+
+#. PrintFrm..Edit4..Hint
+msgid "Enter percent of original size."
+msgstr "Бодит хэмжээний процент оруул"
+
+#~ msgid "Associate *.grf files with Graph."
+#~ msgstr "Graph-тай  *.grf файлуудыг холбох."
+
+#~ msgid "Associate .grf files"
+#~ msgstr ".grf файлууд"
+
+#, fuzzy
+#~ msgid "Integral"
+#~ msgstr "Интернэт"
+
+#, fuzzy
+#~ msgid "Calculate definite integral"
+#~ msgstr "Тооцоолох хүснэгт"
+
+#, fuzzy
+#~ msgid "Integrate"
+#~ msgstr "Интернэт"
+
+#~ msgid "Area or length of path calculated for the given range using Simpson's formula."
+#~ msgstr "Симфсоны томъёогоор өгөгдсөн мужийн тооцоологдсон муруйн урт ба мужын талбай."
+
+#~ msgid "Extremum"
+#~ msgstr "Эктремум"
+
+#~ msgid "This is the functions second derivative evaluated for the entered value."
+#~ msgstr "Энэ бол өгөгдсөн утгаар үнэлэгдсэн хоёрдугаар эрэмбийн уламжлал."
+
+#~ msgid "Zoom in."
+#~ msgstr "Дотогш агшаа"
+
+#~ msgid "Zoom out."
+#~ msgstr "Гадагш томсго."
+
+#~ msgid "Zoom to standard coordinates."
+#~ msgstr "Стандарт "
+
+#~ msgid "Calculates the area under the path of the selected function."
+#~ msgstr "Сонгогдсон функцын будагдсан хэсгийн талбайг тооцоолно."
+
+#~ msgid "Go to home page"
+#~ msgstr "Нүүр хуудас руу оч"
+
+#~ msgid "About Graph..."
+#~ msgstr "График программын тухай..."
+
+#~ msgid "All points"
+#~ msgstr "Бүх цэгүүд"
+
+#~ msgid "Zoom as much as all points are visible."
+#~ msgstr "Бүх цэгийг харагдуулахаар томсго"
+
+#~ msgid "Zoom in on the x-axis only."
+#~ msgstr "зөвхөн х-тэнхлэгийг жижигрүүлнэ."
+
+#~ msgid "Zoom out on the x-axis only."
+#~ msgstr "зөвхөн х-тэнхлэгийг томсгоно."
+
+#~ msgid "Zoom in on the y-axis only."
+#~ msgstr "зөвхөн у-тэнхлэгийг жижигрүүлэнэ."
+
+#~ msgid "Zoom out on the y-axis only."
+#~ msgstr "зөвхөн у-тэнхлэгийг томсгоно."
+
+#~ msgid "Custom functions..."
+#~ msgstr "Өөрийн функц..."
+
+#~ msgid "Mark end of range"
+#~ msgstr "Рангийн төгсгөлийн тэмдэглэгээ"
+
+#, fuzzy
+#~ msgid "Mark start of range"
+#~ msgstr "Рангийн төгсгөлийн тэмдэглэгээ"
+
+#~ msgid "Image information"
+#~ msgstr "Зургийн мэдээлэл."
+
+#~ msgid "Open the file %s."
+#~ msgstr "Зөвлөмжийг файл %s нээх"
+
+#~ msgid "Text [*.txt; *.csv]|*.txt;*.csv|All files [*.*]|*.*"
+#~ msgstr "Техт [*.txt; *.csv]|*.txt;*.csv|All files [*.*]|*.*"
+
+#~ msgid "You can send suggestions for future versions, bug reports and comments to graph@padowan.dk"
+#~ msgstr "Хэрвээ танд шинэ хувилбарын талаар ямар нэгэн асуулт, зөвлөлгөө, хүсэлт байвал  graph@padowan.dk эсвэл bat_nasan@mail.mn хаягаар хандан мэдээлэл ирүүлнэ үү."
+
+#~ msgid "Select to place the image on the middle of the page."
+#~ msgstr "Зургийг хуудасны голд байрлуулна."
+
+#~ msgid "Insert shade..."
+#~ msgstr "Сүүдэр оруулах..."
+
+#~ msgid "Shade"
+#~ msgstr "Сүүдэр"
+
+#~ msgid "Black"
+#~ msgstr "Хар"
+
+#~ msgid "Maroon"
+#~ msgstr "Улаан хүрэн"
+
+#~ msgid "Green"
+#~ msgstr "Ногоон"
+
+#~ msgid "Olive"
+#~ msgstr "Шар ногоог"
+
+#~ msgid "Navy"
+#~ msgstr "Хар хөх"
+
+#~ msgid "Purple"
+#~ msgstr "Ягаан"
+
+#~ msgid "Gray"
+#~ msgstr "Саарал"
+
+#~ msgid "Silver"
+#~ msgstr "Мөнгөлөг"
+
+#~ msgid "Red"
+#~ msgstr "Улаан"
+
+#~ msgid "Lime"
+#~ msgstr "Шар ногоон"
+
+#~ msgid "Yellow"
+#~ msgstr "Шар"
+
+#~ msgid "Blue"
+#~ msgstr "Цэнхэр"
+
+#~ msgid "Fuchsia"
+#~ msgstr "Цайвар ягаан"
+
+#~ msgid "Aqua"
+#~ msgstr "Ногоон цэнхэр"
+
+#~ msgid "Money Green"
+#~ msgstr "Ногоон"
+
+#~ msgid "Sky Blue"
+#~ msgstr "Хадган цэнхэр"
+
+#~ msgid "Med Gray"
+#~ msgstr "Бүдэг саарал"
+
+#~ msgid "Check to make the selected item visible in the coordinate system."
+#~ msgstr "Тухайн координатын системийн нэршлийн самбар үзүүлнэ."
+
+#~ msgid "Cut the selected text to the clipboard"
+#~ msgstr "Сонгосон техтийг clipboard руу таслан авах"
+
+#~ msgid "Open an animation file."
+#~ msgstr "Хөдөлгөөнт файл нээнэ."
+
+#~ msgid "Visible"
+#~ msgstr "Харагдуул"

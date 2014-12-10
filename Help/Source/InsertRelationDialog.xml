@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chapter SYSTEM "dtd/dblite.dtd" [
+<!ENTITY % Symbols SYSTEM "Symbols.ent">
+%Symbols;
+]>
+<section id="InsertRelationDialog">
+	<?dbhh topicname="IDH_DIALOG_RELATION" topicid="20"?>
+	<title>Insert relation</title>
+	<indexterm><primary>relation</primary></indexterm>
+	<indexterm><primary>equation</primary></indexterm>
+	<indexterm><primary>equality</primary></indexterm>
+	<indexterm><primary>inequality</primary></indexterm>
+	<indexterm><primary>constraints</primary></indexterm>
+	<indexterm><primary>implicit function</primary></indexterm>
+	<para>
+		This dialog is used to insert a relation in the coordinate system.
+		<quote>Relation</quote> is a common name for inequalities and equations, also known as implicit functions.
+		To insert a relation you use the menu item <menuchoice><guimenu>Function</guimenu><guimenuitem>Insert relation...</guimenuitem></menuchoice>.
+		To change an existing relation, you first select it in the <glossterm>function list</glossterm> and use <menuchoice><guimenu>Function</guimenu><guimenuitem>Edit...</guimenuitem></menuchoice>.
+	</para>
+
+  <graphic fileref="DialogRelation.png" align="center" scale="60"/>
+
+	<variablelist>
+		<varlistentry>
+			<term>Relation</term>
+			<listitem>
+				<para>
+					Here you enter the relation you want to graph.
+					This must either be an equation or an inequality.
+					<parameter>x</parameter> and <parameter>y</parameter> are used as the independent variables.
+					An equation is a statement that one quantity equals another and the quantities must be separated by the = operator.
+					For example the equation <literal>x^2 + y^2 = 25</literal> will plot a circle of radius 5.
+				</para>
+				<para>
+					An inequality is a statement that one quantity is greater or less than another, and the quantities must be separated by one of the four operators: &lt;, >, &lt;=, >=.
+					An inequality can for example be <literal>abs(x) + abs(y) &lt; 1</literal>.
+					Two operators can be used to specify a range, for example <literal>y &lt; sin(x) &lt; 0.5</literal>.
+				</para>
+				<para>
+					You can use the same operators and <link linkend="ListOfFunctions">built-in functions</link> as for plotting graphs of functions.
+					In addition you can also create <link linkend="CustomFunctionsDialog">custom functions</link>.
+				</para>
+			</listitem>
+		</varlistentry>
+
+		<varlistentry>
+			<term>Constraints</term>
+			<listitem>
+				<para>
+					Here you can enter optional constraints, which can be any <glossterm>numeric expression</glossterm>.
+					The relation will only be valid and plotted where the constraints are fulfilled, i.e. evaluates to a non-zero value.
+					The constraints usually consist of a series of inequalities separated with the logical operators
+					(<simplelist type="inline">
+					  <member><function>and</function></member>
+						<member><function>or</function></member>
+						<member><function>xor</function></member>
+					</simplelist>).
+					As for the relation, <parameter>x</parameter> and <parameter>y</parameter> are used as the independent variables.
+				</para>
+				<para>
+					For example if you have the relation <literal>x^2 + y^2 &lt; 25</literal>, which is a shaded circle,
+					the constraints <literal>x > 0 and y &lt; 0</literal> will only show the part of the circle in the 4<superscript>th</superscript> quadrant.
+				</para>
+			</listitem>
+		</varlistentry>
+
+		<varlistentry>
+			<term>Description</term>
+			<listitem>
+				<para>
+					Here you may enter a descriptive text to show in the <glossterm>legend</glossterm>.
+					If this field is left empty, the relation and constraints will be shown in the legend.
+				</para>
+			</listitem>
+		</varlistentry>
+
+		<varlistentry>
+			<term>Properties</term>
+			<listitem>
+				<para>
+					Here you may select a shading style for inequalities, color and width for equations.
+					The shading <guilabel>Style</guilabel> is only used for inequalities and is ignored for equations.
+					To see overlapping inequalities they must use different styles.
+					The <guilabel>Width</guilabel> indicates the size of the line drawn for equations and the width of the border line for inequalities.
+					For inequalities the width can be set to 0 to avoid drawing the border line.
+				</para>
+			</listitem>
+		</varlistentry>
+	</variablelist>
+</section>

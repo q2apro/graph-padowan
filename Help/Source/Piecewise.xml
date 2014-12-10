@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chapter SYSTEM "dtd/dblite.dtd" [
+<!ENTITY % Symbols SYSTEM "Symbols.ent">
+%Symbols;
+]>
+<section id="Piecewise">
+	<title>Piecewise</title>
+	<section id="sign" xreflabel="sign">
+		<title><markup>sign</markup> function</title>
+		<indexterm><primary><function>sign</function> function</primary></indexterm>
+		<indexterm><primary>signum</primary></indexterm>
+		<para>
+			Returns the sign of the argument.
+		</para>
+		<simplesect>
+			<title>Syntax</title>
+			<para><mathphrase>sign(z)</mathphrase></para>
+		</simplesect>
+		<simplesect>
+			<title>Description</title>
+			<para>
+				The <function>sign</function> function, which is also called signum, returns the sign of <parameter>z</parameter>.
+				<parameter>z</parameter> may be any <glossterm>numeric expression</glossterm> that evaluates to a <glossterm>real number</glossterm> or a <glossterm>complex number</glossterm>.
+				When <parameter>z</parameter> is a real number, <mathphrase>sign(z)</mathphrase> returns 1 for <parameter>z</parameter>>0 and -1 for <parameter>z</parameter>&lt;0.
+				<mathphrase>sign(z)</mathphrase> returns 0 for <parameter>z</parameter>=0.
+				When <parameter>z</parameter> evaluates to a complex number, <mathphrase>sign(z)</mathphrase> returns <mathphrase>z/abs(z)</mathphrase>.
+			</para>
+		</simplesect>
+		<simplesect>
+			<title>See also</title>
+			<para>
+				<simplelist>
+					<member><ulink url="http://en.wikipedia.org/wiki/Sign_function"><orgname>Wikipedia</orgname></ulink></member>
+					<member><ulink url="http://mathworld.wolfram.com/Sign.html"><orgname>MathWorld</orgname></ulink></member>
+				</simplelist>
+			</para>
+		</simplesect>
+	</section>
+
+
+	<section id="u" xreflabel="u">
+		<title><markup>u</markup> function</title>
+		<indexterm><primary><function>u</function> function</primary></indexterm>
+		<para>
+			The unit step function.
+		</para>
+		<simplesect>
+			<title>Syntax</title>
+			<para><mathphrase>u(z)</mathphrase></para>
+		</simplesect>
+		<simplesect>
+			<title>Description</title>
+			<para>
+				<mathphrase>u(z)</mathphrase> is commonly known as the unit step function.
+				<parameter>z</parameter> may be any <glossterm>numeric expression</glossterm> that evaluates to a <glossterm>real number</glossterm>.
+				The function is undefined when <parameter>z</parameter> has an imaginary part.
+				<mathphrase>u(z)</mathphrase> returns 1 for <parameter>z</parameter>&ge;0 and 0 for <parameter>z</parameter>&lt;0.
+			</para>
+		</simplesect>
+		<simplesect>
+			<title>See also</title>
+			<para>
+				<simplelist>
+					<member><ulink url="http://en.wikipedia.org/wiki/Unit_step#Discrete_form"><orgname>Wikipedia</orgname></ulink></member>
+					<member><ulink url="http://mathworld.wolfram.com/HeavisideStepFunction.html"><orgname>MathWorld</orgname></ulink></member>
+				</simplelist>
+			</para>
+		</simplesect>
+	</section>
+
+
+<section id="min" xreflabel="min">
+		<title><markup>min</markup> function</title>
+		<indexterm><primary><function>min</function> function</primary></indexterm>
+		<indexterm><primary>minimum</primary></indexterm>
+		<para>
+			Finds and returns the minimum of the values passed as arguments.
+		</para>
+		<simplesect>
+			<title>Syntax</title>
+			<para><mathphrase>min(A,B,...)</mathphrase></para>
+		</simplesect>
+		<simplesect>
+			<title>Description</title>
+			<para>
+				The <function>min</function> function returns the minimum value of its arguments.
+				<function>min</function> can take any number of arguments not less than 2.
+				The arguments may be any <glossterm linkend="NumericExpression">numeric expressions</glossterm>
+				that evaluate to <glossterm linkend="RealNumber">real numbers</glossterm> or <glossterm linkend="ComplexNumber">complex numbers</glossterm>.
+				If the arguments are complex numbers, the function returns <mathphrase>min(re(A), re(B), ...) + min(im(A), im(B), ...)&imag;</mathphrase>.
+			</para>
+		</simplesect>
+	</section>
+
+
+	<section id="max" xreflabel="max">
+		<title><markup>max</markup> function</title>
+		<indexterm><primary><function>max</function> function</primary></indexterm>
+		<indexterm><primary>maximum</primary></indexterm>
+		<para>
+			Finds and returns the maximum of the values passed as arguments.
+		</para>
+		<simplesect>
+			<title>Syntax</title>
+			<para><mathphrase>max(A,B,...)</mathphrase></para>
+		</simplesect>
+		<simplesect>
+			<title>Description</title>
+			<para>
+				The <function>max</function> function returns the maximum value of its arguments.
+				<function>max</function> can take any number of arguments not less than 2.
+				The arguments may be any <glossterm linkend="NumericExpression">numeric expressions</glossterm>
+				that evaluate to <glossterm linkend="RealNumber">real numbers</glossterm> or <glossterm linkend="ComplexNumber">complex numbers</glossterm>.
+				If the arguments are complex numbers, the function returns <mathphrase>max(re(A), re(B), ...) + max(im(A), im(B), ...)&imag;</mathphrase>.
+			</para>
+		</simplesect>
+	</section>
+
+
+	<section id="range" xreflabel="range">
+		<title><markup>range</markup> function</title>
+		<indexterm><primary><function>range</function> function</primary></indexterm>
+		<para>
+			Returns the second argument if it is in the range between the first argument and the third argument.
+		</para>
+		<simplesect>
+			<title>Syntax</title>
+			<para><mathphrase>range(A,z,B)</mathphrase></para>
+		</simplesect>
+		<simplesect>
+			<title>Description</title>
+			<para>
+				The <function>range</function> function returns <parameter>z</parameter>,
+				if <parameter>z</parameter> is greater than <parameter>A</parameter> and less than <parameter>B</parameter>.
+				If <parameter>z</parameter> &lt; <parameter>A</parameter> then <parameter>A</parameter> is returned.
+				If <parameter>z</parameter> > <parameter>B</parameter> then <parameter>B</parameter> is returned.
+				The arguments may be any <glossterm linkend="NumericExpression">numeric expressions</glossterm>
+				that evaluate to <glossterm linkend="RealNumber">real numbers</glossterm> or <glossterm linkend="ComplexNumber">complex numbers</glossterm>.
+				The function has the same effect as <mathphrase>max(A, min(z, B))</mathphrase>.
+			</para>
+		</simplesect>
+	</section>
+
+
+	<section id="if" xreflabel="if">
+		<title><markup>if</markup> function</title>
+		<indexterm><primary><function>if</function> function</primary></indexterm>
+		<para>
+			Evaluates one or more conditions and returns a different result based on them.
+		</para>
+		<simplesect>
+			<title>Syntax</title>
+			<para><mathphrase>if(cond1, f1, cond2, f2, ... , condn, fn [,fz])</mathphrase></para>
+		</simplesect>
+		<simplesect>
+			<title>Description</title>
+			<para>
+				The <function>if</function> function evaluates <parameter>cond1</parameter> and if it is different from 0 then <parameter>f1</parameter> is evaluated and returned.
+				Else <parameter>cond2</parameter> is evaluated and if it is different from 0 then <parameter>f2</parameter> is returned and so forth.
+				If none of the conditions are true <parameter>fz</parameter> is returned.
+				<parameter>fz</parameter> is optional and if not specified <function>if</function> returns an error if none of the conditions are true.
+				The arguments may be any <glossterm linkend="NumericExpression">numeric expressions</glossterm>
+				that evaluate to <glossterm linkend="RealNumber">real numbers</glossterm> or <glossterm linkend="ComplexNumber">complex numbers</glossterm>.
+			</para>
+		</simplesect>
+	</section>
+</section>

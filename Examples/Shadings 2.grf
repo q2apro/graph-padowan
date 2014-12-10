@@ -1,0 +1,78 @@
+;This file was created by Graph (http://www.padowan.dk)
+;Do not change this file from other programs.
+[Graph]
+Version = 4.3.0.380
+MinVersion = 2.5
+OS = Windows XP 5.1 Service Pack 2
+
+[Func1]
+FuncType = 0
+y = 2x-1
+Color = clRed
+Size = 2
+
+[Shade1]
+LegendText = Shading 1
+ShadeStyle = 4
+BrushStyle = 4
+Color = 0x00000066
+FuncNo = 1
+Func2No = 2
+sMax = -1
+sMax2 = -1
+
+[Shade2]
+ShowInLegend = 0
+LegendText = Shading 2
+ShadeStyle = 0
+BrushStyle = 5
+Color = clGreen
+FuncNo = 1
+sMin = -1
+sMin2 = -1
+MarkStart = 0
+
+[Func2]
+FuncType = 0
+y = -x-4
+Color = clRed
+Size = 2
+
+[Shade3]
+LegendText = Shading 3
+ShadeStyle = 0
+BrushStyle = 5
+Color = clGreen
+FuncNo = 2
+sMax = -1
+sMax2 = -1
+MarkEnd = 0
+
+[Axes]
+xMin = -10
+xMax = 10
+xTickUnit = 2
+xGridUnit = 1
+xShowGrid = 1
+xAutoGrid = 0
+yMin = -10
+yMax = 10
+yTickUnit = 2
+yGridUnit = 1
+yShowGrid = 1
+yAutoGrid = 0
+yLabel = f(x)
+AxesColor = clBlue
+GridColor = 0x00FF9999
+NumberFont = Times New Roman,10,clBlack,B
+ShowLegend = 1
+Radian = 1
+
+[Data]
+TextLabelCount = 0
+FuncCount = 2
+PointSeriesCount = 0
+ShadeCount = 3
+RelationCount = 0
+OleObjectCount = 0
+

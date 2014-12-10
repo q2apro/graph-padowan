@@ -1,0 +1,45 @@
+;This file was created by Graph (http://www.padowan.dk)
+;Do not change this file from other programs.
+[Graph]
+Version = 4.3.0.380
+MinVersion = 2.5
+OS = Windows XP 5.1 Service Pack 2
+
+[Axes]
+xMin = -5
+xMax = 5
+xTickUnit = 1
+xGridUnit = 1
+yMin = -5
+yMax = 5
+yTickUnit = 2
+yGridUnit = 2
+AxesColor = clBlue
+GridColor = 0x00FF9999
+ShowLegend = 0
+Radian = 1
+
+[Func1]
+FuncType = 2
+r = (100/(100+(t-Pi/2)^8)) * (2-sin(7*t)-cos(30*t)/2)
+From = -10
+To = 10
+Steps = 1000
+Color = clRed
+Size = 2
+
+[Shade1]
+LegendText = Shading 1
+ShadeStyle = 5
+BrushStyle = 0
+Color = clGreen
+FuncNo = 1
+
+[Data]
+TextLabelCount = 0
+FuncCount = 1
+PointSeriesCount = 0
+ShadeCount = 1
+RelationCount = 0
+OleObjectCount = 0
+

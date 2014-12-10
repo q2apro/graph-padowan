@@ -1,0 +1,260 @@
+msgid "x(t)="
+msgstr ""
+
+msgid "y(t)="
+msgstr ""
+
+msgid "dx/dt="
+msgstr ""
+
+msgid "t="
+msgstr ""
+
+msgid "dy/dt="
+msgstr ""
+
+msgid "dy/dx="
+msgstr ""
+
+msgid "dr/dt="
+msgstr ""
+
+msgid "r(t)="
+msgstr ""
+
+msgid "f(x)="
+msgstr ""
+
+msgid "f'(x)="
+msgstr ""
+
+msgid "f''(x)="
+msgstr ""
+
+msgid "x="
+msgstr ""
+
+msgid "y="
+msgstr ""
+
+msgid "MS Sans Serif"
+msgstr ""
+
+msgid "0,0"
+msgstr ""
+
+msgid "50,0"
+msgstr ""
+
+msgid "50,50"
+msgstr ""
+
+msgid "0,50"
+msgstr ""
+
+msgid "-"
+msgstr ""
+
+msgid "csv"
+msgstr ""
+
+msgid "+A5Q-x="
+msgstr ""
+
+msgid "x=["
+msgstr ""
+
+msgid ";"
+msgstr ""
+
+msgid "]"
+msgstr ""
+
+msgid "0.1"
+msgstr ""
+
+msgid "grf"
+msgstr ""
+
+msgid "Copyright note"
+msgstr ""
+
+msgid "Home page"
+msgstr ""
+
+msgid "E-mail address"
+msgstr ""
+
+msgid "Times New Roman"
+msgstr ""
+
+msgid "abc ABC"
+msgstr ""
+
+msgid "graph.ico"
+msgstr ""
+
+msgid "icon.ico"
+msgstr ""
+
+msgid "hand1.cur"
+msgstr ""
+
+msgid "hand2.cur"
+msgstr ""
+
+msgid "Graph"
+msgstr ""
+
+msgid "%"
+msgstr ""
+
+msgid "Label11"
+msgstr ""
+
+msgid "Label12"
+msgstr ""
+
+msgid "Label13"
+msgstr ""
+
+msgid "JPEG"
+msgstr ""
+
+msgid "PDF"
+msgstr ""
+
+msgid "Symbol"
+msgstr ""
+
+msgid "A2"
+msgstr ""
+
+msgid "A3"
+msgstr ""
+
+msgid "A4"
+msgstr ""
+
+msgid "A5"
+msgstr ""
+
+msgid "A6"
+msgstr ""
+
+msgid "10%"
+msgstr ""
+
+msgid "50%"
+msgstr ""
+
+msgid "75%"
+msgstr ""
+
+msgid "100%"
+msgstr ""
+
+msgid "125%"
+msgstr ""
+
+msgid "150%"
+msgstr ""
+
+msgid "200%"
+msgstr ""
+
+msgid "1000%"
+msgstr ""
+
+msgid "Lucida Sans Unicode"
+msgstr ""
+
+msgid "Microsoft Sans Serif"
+msgstr ""
+
+msgid "avi"
+msgstr ""
+
+msgid "Video for Windows [*.avi]|*.avi"
+msgstr ""
+
+msgid "Video for Windows [*.avi]|*.avi|All files [*.*]|*.*"
+msgstr ""
+
+msgid "x:"
+msgstr ""
+
+msgid "y:"
+msgstr ""
+
+msgid "Default"
+msgstr ""
+
+msgid "dx="
+msgstr ""
+
+msgid "LabeledEdit1"
+msgstr ""
+
+msgid "ini"
+msgstr ""
+
+msgid "png"
+msgstr ""
+
+msgid "Courier New"
+msgstr ""
+
+msgid "Tahoma"
+msgstr ""
+
+msgid "Windows Bitmap [*.bmp]|*.bmp|Portable Network Graphics "
+"[*.png]|*.png|Joint Photographic Experts Group [*.jpg, "
+"*.jpeg]|*.jpg;*.jpeg"
+msgstr ""
+
+msgid "Platform Default"
+msgstr ""
+
+msgid "Ctrl+Shift+Up"
+msgstr ""
+
+msgid "Ctrl+Shift+Down"
+msgstr ""
+
+msgid "Ctrl+Shift+Left"
+msgstr ""
+
+msgid "Ctrl+Shift+Right"
+msgstr ""
+
+msgid "Ctrl+Shift+Home"
+msgstr ""
+
+msgid "Ctrl+Shift+End"
+msgstr ""
+
+msgid "Ctrl+Shift+PgUp"
+msgstr ""
+
+msgid "Ctrl+Shift+PgDn"
+msgstr ""
+
+msgid "0°"
+msgstr ""
+
+msgid "90°"
+msgstr ""
+
+msgid "180°"
+msgstr ""
+
+msgid "270°"
+msgstr ""
+
+msgid "."
+msgstr ""
+
+msgid "Arial"
+msgstr ""
+

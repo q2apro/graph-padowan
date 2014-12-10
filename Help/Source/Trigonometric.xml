@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chapter SYSTEM "dtd/dblite.dtd" [
+<!ENTITY % Symbols SYSTEM "Symbols.ent">
+%Symbols;
+]>
+<section id="Trigonmetric">
+	<title>Trigonometric</title>
+	<section id="sin" xreflabel="sin">
+		<title><markup>sin</markup> function</title>
+		<indexterm><primary><function>sin</function> function</primary></indexterm>
+		<indexterm><primary>trigonometry</primary></indexterm>
+		<indexterm><primary>sine</primary></indexterm>
+		<para>
+			Returns the sine of the argument.
+		</para>
+		<simplesect>
+			<title>Syntax</title>
+			<para><mathphrase>sin(z)</mathphrase></para>
+		</simplesect>
+		<simplesect>
+			<title>Description</title>
+			<para>
+				The <function>sin</function> function calculates the sine of an angle <parameter>z</parameter>,
+				which may be in <glossterm>radians</glossterm> or degrees depending on the current settings.
+				<parameter>z</parameter> may be any <glossterm>numeric expression</glossterm> that evaluates
+				to a <glossterm>real number</glossterm> or a <glossterm>complex number</glossterm>.
+				If <parameter>z</parameter> is a real number, the result will be in the range -1 to 1.
+			</para>
+		</simplesect>
+		<simplesect>
+			<title>Remarks</title>
+			<para>
+				For arguments with a large magnitude, the function will begin to lose precision.
+			</para>
+		</simplesect>
+		<simplesect>
+			<title>See also</title>
+			<para>
+				<simplelist>
+					<member><ulink url="http://en.wikipedia.org/wiki/Trigonometric_functions#Sine"><orgname>Wikipedia</orgname></ulink></member>
+					<member><ulink url="http://mathworld.wolfram.com/Sine.html"><orgname>MathWorld</orgname></ulink></member>
+				</simplelist>
+			</para>
+		</simplesect>
+	</section>
+
+
+	<section id="cos" xreflabel="cos">
+		<title><markup>cos</markup> function</title>
+		<indexterm><primary><function>cos</function> function</primary></indexterm>
+		<indexterm><primary>trigonometry</primary></indexterm>
+		<indexterm><primary>cosine</primary></indexterm>
+		<para>
+			Returns the cosine of the argument.
+		</para>
+		<simplesect>
+			<title>Syntax</title>
+			<para><mathphrase>cos(z)</mathphrase></para>
+		</simplesect>
+		<simplesect>
+			<title>Description</title>
+			<para>
+				The <function>cos</function> function calculates the cosine of an angle <parameter>z</parameter>,
+				which may be in <glossterm>radians</glossterm> or degrees depending on the current settings.
+				<parameter>z</parameter> may be any <glossterm>numeric expression</glossterm> that evaluates
+				to a <glossterm>real number</glossterm> or a <glossterm>complex number</glossterm>.
+				If <parameter>z</parameter> is a real number, the result will be in the range -1 to 1.
+			</para>
+		</simplesect>
+		<simplesect>
+			<title>Remarks</title>
+			<para>
+				For arguments with a large magnitude, the function will begin to lose precision.
+			</para>
+		</simplesect>
+		<simplesect>
+			<title>See also</title>
+			<para>
+				<simplelist>
+					<member><ulink url="http://en.wikipedia.org/wiki/Trigonometric_functions#Cosine"><orgname>Wikipedia</orgname></ulink></member>
+					<member><ulink url="http://mathworld.wolfram.com/Cosine.html"><orgname>MathWorld</orgname></ulink></member>
+				</simplelist>
+			</para>
+		</simplesect>
+	</section>
+
+
+	<section id="tan" xreflabel="tan">
+		<title><markup>tan</markup> function</title>
+		<indexterm><primary><function>tan</function> function</primary></indexterm>
+		<indexterm><primary>trigonometry</primary></indexterm>
+		<indexterm><primary>tangent</primary></indexterm>
+		<para>
+			Returns the tangent of the argument.
+		</para>
+		<simplesect>
+			<title>Syntax</title>
+			<para><mathphrase>tan(z)</mathphrase></para>
+		</simplesect>
+		<simplesect>
+			<title>Description</title>
+			<para>
+				The <function>tan</function> function calculates the tangent of an angle <parameter>z</parameter>,
+				which may be in <glossterm>radians</glossterm> or degrees depending on the current settings.
+				<parameter>z</parameter> may be any <glossterm>numeric expression</glossterm> that evaluates
+				to a <glossterm>real number</glossterm> or a <glossterm>complex number</glossterm>.
+			</para>
+		</simplesect>
+		<simplesect>
+			<title>Remarks</title>
+			<para>
+				For arguments with a large magnitude, the function will begin to lose precision.
+				<function>tan</function> is undefined at <mathphrase>z = p*&pi;/2</mathphrase>,
+				where <varname>p</varname> is an <glossterm>integer</glossterm>,
+				but the function returns a very large number if <parameter>z</parameter> is near the undefined value.
+			</para>
+		</simplesect>
+		<simplesect>
+			<title>See also</title>
+			<para>
+				<simplelist>
+					<member><ulink url="http://en.wikipedia.org/wiki/Trigonometric_functions#Tangent"><orgname>Wikipedia</orgname></ulink></member>
+					<member><ulink url="http://mathworld.wolfram.com/Tangent.html"><orgname>MathWorld</orgname></ulink></member>
+				</simplelist>
+			</para>
+		</simplesect>
+	</section>
+
+
+	<section id="asin" xreflabel="asin">
+		<title><markup>asin</markup> function</title>
+		<indexterm><primary><function>asin</function> function</primary></indexterm>
+		<indexterm><primary>trigonometry</primary></indexterm>
+		<indexterm><primary>sine</primary></indexterm>
+		<indexterm><primary>inverse sine</primary></indexterm>
+		<para>
+			Returns the inverse sine of the argument.
+		</para>
+		<simplesect>
+			<title>Syntax</title>
+			<para><mathphrase>asin(z)</mathphrase></para>
+		</simplesect>
+		<simplesect>
+			<title>Description</title>
+			<para>
+				The <function>asin</function> function calculates the inverse sine of <parameter>z</parameter>.
+				The result may be in <glossterm>radians</glossterm> or degrees depending on the current settings.
+				<parameter>z</parameter> may be any numeric expression that evaluates to a <glossterm>real number</glossterm>.
+				This is the reverse of the <function linkend="sin">sin</function> function.
+			</para>
+		</simplesect>
+		<simplesect>
+			<title>See also</title>
+			<para>
+				<simplelist>
+					<member><ulink url="http://en.wikipedia.org/wiki/Inverse_trigonometric_functions"><orgname>Wikipedia</orgname></ulink></member>
+					<member><ulink url="http://mathworld.wolfram.com/InverseSine.html"><orgname>MathWorld</orgname></ulink></member>
+				</simplelist>
+			</para>
+		</simplesect>
+	</section>
+
+
+	<section id="acos" xreflabel="acos">
+		<title><markup>acos</markup> function</title>
+		<indexterm><primary><function>acos</function> function</primary></indexterm>
+		<indexterm><primary>trigonometry</primary></indexterm>
+		<indexterm><primary>cosine</primary></indexterm>
+		<indexterm><primary>inverse cosine</primary></indexterm>
+		<para>
+			Returns the inverse cosine of the argument.
+		</para>
+		<simplesect>
+			<title>Syntax</title>
+			<para><mathphrase>acos(z)</mathphrase></para>
+		</simplesect>
+		<simplesect>
+			<title>Description</title>
+			<para>
+				The <function>acos</function> function calculates the inverse cosine of <parameter>z</parameter>.
+				The result may be in <glossterm>radians</glossterm> or degrees depending on the current settings.
+				<parameter>z</parameter> may be any <glossterm>numeric expression</glossterm> that evaluates to a <glossterm>real number</glossterm>.
+				This is the reverse of the <function linkend="cos">cos</function> function.
+			</para>
+		</simplesect>
+		<simplesect>
+			<title>See also</title>
+			<para>
+				<simplelist>
+					<member><ulink url="http://en.wikipedia.org/wiki/Inverse_trigonometric_functions"><orgname>Wikipedia</orgname></ulink></member>
+					<member><ulink url="http://mathworld.wolfram.com/InverseCosine.html"><orgname>MathWorld</orgname></ulink></member>
+				</simplelist>
+			</para>
+		</simplesect>
+	</section>
+
+
+	<section id="atan" xreflabel="atan">
+		<title><markup>atan</markup> function</title>
+		<indexterm><primary><function>atan</function> function</primary></indexterm>
+		<indexterm><primary>trigonometry</primary></indexterm>
+		<indexterm><primary>tangent</primary></indexterm>
+		<indexterm><primary>inverse tangent</primary></indexterm>
+		<para>
+			Returns the inverse tangent of the argument.
+		</para>
+		<simplesect>
+			<title>Syntax</title>
+			<para><mathphrase>atan(z)</mathphrase></para>
+		</simplesect>
+		<simplesect>
+			<title>Description</title>
+			<para>
+				The <function>atan</function> function calculates the inverse tangent of <parameter>z</parameter>.
+				The result may be in <glossterm>radians</glossterm> or degrees depending on the current settings.
+				<parameter>z</parameter> may be any <glossterm>numeric expression</glossterm> that evaluates to a <glossterm>real number</glossterm>.
+				This is the reverse of the <function linkend="tan">tan</function> function.
+			</para>
+		</simplesect>
+		<simplesect>
+			<title>See also</title>
+			<para>
+				<simplelist>
+					<member><ulink url="http://en.wikipedia.org/wiki/Inverse_trigonometric_functions"><orgname>Wikipedia</orgname></ulink></member>
+					<member><ulink url="http://mathworld.wolfram.com/InverseTangent.html"><orgname>MathWorld</orgname></ulink></member>
+				</simplelist>
+			</para>
+		</simplesect>
+	</section>
+
+
+	<section id="sec" xreflabel="sec">
+		<title><markup>sec</markup> function</title>
+		<indexterm><primary><function>sec</function> function</primary></indexterm>
+		<indexterm><primary>trigonometry</primary></indexterm>
+		<indexterm><primary>secant</primary></indexterm>
+		<para>
+			Returns the secant of the argument.
+		</para>
+		<simplesect>
+			<title>Syntax</title>
+			<para><mathphrase>sec(z)</mathphrase></para>
+		</simplesect>
+		<simplesect>
+			<title>Description</title>
+			<para>
+				The <function>sec</function> function calculates the secant of an angle <parameter>z</parameter>,
+				which may be in <glossterm>radians</glossterm> or degrees depending on the current settings.
+				<mathphrase>sec(z)</mathphrase> is the same as <mathphrase>1/cos(z)</mathphrase>.
+				<parameter>z</parameter> may be any <glossterm>numeric expression</glossterm> that evaluates to a <glossterm>real number</glossterm> or a <glossterm>complex number</glossterm>.
+			</para>
+		</simplesect>
+		<simplesect>
+			<title>Remarks</title>
+			<para>
+				For arguments with a large magnitude, the function will begin to lose precision.
+			</para>
+		</simplesect>
+		<simplesect>
+			<title>See also</title>
+			<para>
+				<simplelist>
+					<member><ulink url="http://en.wikipedia.org/wiki/Trigonometric_functions#Reciprocal_functions"><orgname>Wikipedia</orgname></ulink></member>
+					<member><ulink url="http://mathworld.wolfram.com/Secant.html"><orgname>MathWorld</orgname></ulink></member>
+				</simplelist>
+			</para>
+		</simplesect>
+	</section>
+
+
+	<section id="csc" xreflabel="csc">
+		<title><markup>csc</markup> function</title>
+		<indexterm><primary><function>csc</function> function</primary></indexterm>
+		<indexterm><primary>trigonometry</primary></indexterm>
+		<indexterm><primary>cosecant</primary></indexterm>
+		<para>
+			Returns the cosecant of the argument.
+		</para>
+		<simplesect>
+			<title>Syntax</title>
+			<para><mathphrase>csc(z)</mathphrase></para>
+		</simplesect>
+		<simplesect>
+			<title>Description</title>
+			<para>
+				The <function>csc</function> function calculates the cosecant of an angle <parameter>z</parameter>,
+				which may be in <glossterm>radians</glossterm> or degrees depending on the current settings.
+				<mathphrase>csc(z)</mathphrase> is the same as <mathphrase>1/sin(z)</mathphrase>.
+				<parameter>z</parameter> may be any <glossterm>numeric expression</glossterm> that evaluates to a <glossterm>real number</glossterm> or a <glossterm>complex number</glossterm>.
+			</para>
+		</simplesect>
+		<simplesect>
+			<title>Remarks</title>
+			<para>
+				For arguments with a large magnitude, the function will begin to lose precision.
+			</para>
+		</simplesect>
+		<simplesect>
+			<title>See also</title>
+			<para>
+				<simplelist>
+					<member><ulink url="http://en.wikipedia.org/wiki/Trigonometric_functions#Reciprocal_functions"><orgname>Wikipedia</orgname></ulink></member>
+					<member><ulink url="http://mathworld.wolfram.com/Cosecant.html"><orgname>MathWorld</orgname></ulink></member>
+				</simplelist>
+			</para>
+		</simplesect>
+	</section>
+
+
+	<section id="cot" xreflabel="cot">
+		<title><markup>cot</markup> function</title>
+		<indexterm><primary><markup>cot</markup> function</primary></indexterm>
+		<indexterm><primary>trigonometry</primary></indexterm>
+		<indexterm><primary>cotangent</primary></indexterm>
+		<para>
+			Returns the cotangent of the argument.
+		</para>
+		<simplesect>
+			<title>Syntax</title>
+			<para><mathphrase>cot(z)</mathphrase></para>
+		</simplesect>
+		<simplesect>
+			<title>Description</title>
+			<para>
+				The <function>cot</function> function calculates the cotangent of an angle <parameter>z</parameter>,
+				which may be in <glossterm>radians</glossterm> or degrees depending on the current settings.
+				<mathphrase>cot(z)</mathphrase> is the same as <mathphrase>1/tan(z)</mathphrase>.
+				<parameter>z</parameter> may be any numeric expression that evaluates to a <glossterm>real number</glossterm> or a <glossterm>complex number</glossterm>.
+			</para>
+		</simplesect>
+		<simplesect>
+			<title>Remarks</title>
+			<para>
+				For arguments with a large magnitude, the function will begin to lose precision.
+			</para>
+		</simplesect>
+		<simplesect>
+			<title>See also</title>
+			<para>
+				<simplelist>
+					<member><ulink url="http://en.wikipedia.org/wiki/Trigonometric_functions#Reciprocal_functions"><orgname>Wikipedia</orgname></ulink></member>
+					<member><ulink url="http://mathworld.wolfram.com/Cotangent.html"><orgname>MathWorld</orgname></ulink></member>
+				</simplelist>
+			</para>
+		</simplesect>
+	</section>
+
+
+	<section id="asec" xreflabel="asec">
+		<title><markup>asec</markup> function</title>
+		<indexterm><primary><function>asec</function> function</primary></indexterm>
+		<indexterm><primary>trigonometry</primary></indexterm>
+		<indexterm><primary>secant</primary></indexterm>
+		<indexterm><primary>inverse secant</primary></indexterm>
+		<para>
+			Returns the inverse secant of the argument.
+		</para>
+		<simplesect>
+			<title>Syntax</title>
+			<para><mathphrase>asec(z)</mathphrase></para>
+		</simplesect>
+		<simplesect>
+			<title>Description</title>
+			<para>
+				The <function>asec</function> function calculates the inverse secant of <parameter>z</parameter>.
+				The result may be in <glossterm>radians</glossterm> or degrees depending on the current settings.
+				<mathphrase>asec(z)</mathphrase> is the same as <mathphrase>acos(1/z)</mathphrase>.
+				<parameter>z</parameter> may be any <glossterm>numeric expression</glossterm> that evaluates to a <glossterm>real number</glossterm>.
+				This is the reverse of the <function linkend="sec">sec</function> function.
+			</para>
+		</simplesect>
+		<simplesect>
+			<title>See also</title>
+			<para>
+				<simplelist>
+					<member><ulink url="http://en.wikipedia.org/wiki/Inverse_trigonometric_functions"><orgname>Wikipedia</orgname></ulink></member>
+					<member><ulink url="http://mathworld.wolfram.com/InverseSecant.html"><orgname>MathWorld</orgname></ulink></member>
+				</simplelist>
+			</para>
+		</simplesect>
+	</section>
+
+
+	<section id="acsc" xreflabel="acsc">
+		<title><markup>acsc</markup> function</title>
+		<indexterm><primary><function>acsc</function> function</primary></indexterm>
+		<indexterm><primary>trigonometry</primary></indexterm>
+		<indexterm><primary>cosecant</primary></indexterm>
+		<indexterm><primary>inverse cosecant</primary></indexterm>
+		<para>
+			Returns the inverse cosecant of the argument.
+		</para>
+		<simplesect>
+			<title>Syntax</title>
+			<para><mathphrase>acsc(z)</mathphrase></para>
+		</simplesect>
+		<simplesect>
+			<title>Description</title>
+			<para>
+				The <function>acsc</function> function calculates the inverse cosecant of <parameter>z</parameter>.
+				The result may be in <glossterm>radians</glossterm> or degrees depending on the current settings.
+				<mathphrase>acsc(z)</mathphrase> is the same as <mathphrase>asin(1/z)</mathphrase>.
+				<parameter>z</parameter> may be any <glossterm>numeric expression</glossterm> that evaluates to a <glossterm>real number</glossterm>.
+				This is the reverse of the <function linkend="csc">csc</function> function.
+			</para>
+		</simplesect>
+		<simplesect>
+			<title>See also</title>
+			<para>
+				<simplelist>
+					<member><ulink url="http://en.wikipedia.org/wiki/Inverse_trigonometric_functions"><orgname>Wikipedia</orgname></ulink></member>
+					<member><ulink url="http://mathworld.wolfram.com/InverseCosecant.html"><orgname>MathWorld</orgname></ulink></member>
+				</simplelist>
+			</para>
+		</simplesect>
+	</section>
+
+
+	<section id="acot" xreflabel="acot">
+		<title><markup>acot</markup> function</title>
+		<indexterm><primary><function>acot</function> function</primary></indexterm>
+		<indexterm><primary>trigonometry</primary></indexterm>
+		<indexterm><primary>cotangent</primary></indexterm>
+		<indexterm><primary>inverse cotangent</primary></indexterm>
+		<para>
+			Returns the inverse cotangent of the argument.
+		</para>
+		<simplesect>
+			<title>Syntax</title>
+			<para><mathphrase>acot(z)</mathphrase></para>
+		</simplesect>
+		<simplesect>
+			<title>Description</title>
+			<para>
+				The <function>acot</function> function calculates the inverse cotangent of <parameter>z</parameter>.
+				The result may be in <glossterm>radians</glossterm> or degrees depending on the current settings.
+				<mathphrase>acot(z)</mathphrase> is the same as <mathphrase>atan(1/z)</mathphrase>.
+				<parameter>z</parameter> may be any <glossterm>numeric expression</glossterm> that evaluates to a <glossterm>real number</glossterm>.
+				This is the reverse of the <function linkend="cot">cot</function> function.
+			</para>
+		</simplesect>
+		<simplesect>
+			<title>Remarks</title>
+			<para>
+				The <function>acot</function> function returns a value in the range ]-&pi;/2;&pi;/2] (]-90;90] when calculating in degrees),
+				which is the most common definition, though some may define it to be in the range ]0;&pi;[.
+			</para>
+		</simplesect>
+		<simplesect>
+			<title>See also</title>
+			<para>
+				<simplelist>
+					<member><ulink url="http://en.wikipedia.org/wiki/Inverse_trigonometric_functions"><orgname>Wikipedia</orgname></ulink></member>
+					<member><ulink url="http://mathworld.wolfram.com/InverseCotangent.html"><orgname>MathWorld</orgname></ulink></member>
+				</simplelist>
+			</para>
+		</simplesect>
+	</section>
+</section>

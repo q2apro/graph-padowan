@@ -1,0 +1,4480 @@
+# Portuguese translation for Graph.
+# Copyright (C) 2004 Ivan Johansen
+# This file is distributed under the same license as the Graph package.
+# Ivan Johansen <graph@padowan.dk>, 2004.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2012-11-12 22:11\n"
+"PO-Revision-Date: 2012-11-12 17:42+0100\n"
+"Last-Translator: Michael Bach Ipsen <rosenthall@hotmail.com>\n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Bookmarks: 153,425,630,724,783,834,-1,-1,-1,-1\n"
+
+#. Form1..Recent1..Hint
+msgid "Open file: %s"
+msgstr "Abrir o arquivo: %s."
+
+#. Form1..PopupMenu1..Tree_ShowInLegend..Caption
+msgid "Show in legend"
+msgstr "Mostrar na legenda"
+
+#. Form1..PopupMenu1..Tree_ShowInLegend..Hint
+msgid "Check to show the selected item in the legend."
+msgstr "Se marcado, o item selecionado torna-se visível na legenda."
+
+#. Form1..PopupMenu1..Tree_Placement..Caption
+#. Form1..PopupMenu3..Label_Placement..Caption
+#. Form1..PopupMenu4..Legend_Placement..Caption
+#. Form21..Caption
+msgid "Placement"
+msgstr "Posição"
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Above..Caption
+#. Form1..PopupMenu3..Label_Placement..Label_Above..Caption
+msgid "Above x-axis"
+msgstr "Acima do eixo-x"
+
+# Comentários:
+# "directly" significa aqui "imediatamente", ou seja, o rótulo fica o mais próximo possível do eixo x
+#. Form1..PopupMenu1..Tree_Placement..Tree_Above....Hint
+#. Form1..PopupMenu3..Label_Placement..Label_Above....Hint
+msgid "Place the label directly above the x-axis on the right side of the image."
+msgstr "Posiciona o rótulo imediatamente acima do eixo-x à direita da imagem."
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Below..Caption
+#. Form1..PopupMenu3..Label_Placement..Label_Below..Caption
+msgid "Below x-axis"
+msgstr "Abaixo do eixo-x"
+
+# vide comentário acima
+#. Form1..PopupMenu1..Tree_Placement..Tree_Below....Hint
+#. Form1..PopupMenu3..Label_Placement..Label_Below....Hint
+msgid "Place the label directly below the x-axis on the right side of the image."
+msgstr "Posiciona o rótulo imediatamente abaixo do eixo-x à direita da imagem."
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Left..Caption
+#. Form1..PopupMenu3..Label_Placement..Label_Left..Caption
+msgid "Left of y-axis"
+msgstr "À esquerda do eixo-y"
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Left....Hint
+#. Form1..PopupMenu3..Label_Placement..Label_Left....Hint
+msgid "Place the label to the left of the y-axis at the top of the image."
+msgstr "Posiciona o rótulo à esquerda do eixo-y e no topo da imagem."
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Right..Caption
+#. Form1..PopupMenu3..Label_Placement..Label_Right..Caption
+msgid "Right of y-axis"
+msgstr "À direita do eixo-y"
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Right....Hint
+#. Form1..PopupMenu3..Label_Placement..Label_Right....Hint
+msgid "Place the label to the right of the y-axis at the top of the image."
+msgstr "Posiciona o rótulo à direita do eixo-y e no topo da imagem."
+
+# "custom" aqui tem o mesmo significado que abaixo: personalizado(a).
+# "to customize" é que seria personalizar
+#. Form1..PopupMenu1..Tree_Placement..Tree_Placement_Custom..Caption
+#. Form1..PopupMenu1..Tree_Rotation..Tree_Rotation_Custom..Caption
+#. Form1..PopupMenu3..Label_Placement..Label_Placement_Custom..Caption
+#. Form1..PopupMenu3..Label_Rotation..Label_Rotation_Custom..Caption
+#. Form11..GroupBox2..ExtColorBox1..CustomName
+#. Form12..GroupBox2..ExtColorBox1..CustomName
+#. Form13..GroupBox1..ExtColorBox1..CustomName
+#. Form14..PageControl1..TabSheet1..GroupBox1..ExtColorBox1..CustomName
+#. Form14..PageControl1..TabSheet1..GroupBox2..ExtColorBox2..CustomName
+#. Form16..PageControl1..TabSheet2..GroupBox3..ExtColorBox1..CustomName
+#. Form3..PageControl1..TabSheet4..GroupBox3..ExtColorBox1..CustomName
+#. Form3..PageControl1..TabSheet4..GroupBox3..ExtColorBox2..CustomName
+#. Form3..PageControl1..TabSheet4..GroupBox3..ExtColorBox3..CustomName
+#. Form5..GroupBox4..GridPanelEx1..ExtColorBox1..CustomName
+#. Form6..ColorBox1..CustomName
+#. Form6..ColorBox2..CustomName
+#. Form7..GroupBox4..ExtColorBox1..CustomName
+msgid "Custom..."
+msgstr "Personalizado..."
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Placement_Custom..Hint
+#. Form1..PopupMenu3..Label_Placement..Label_Placement_Custom..Hint
+msgid "Place the label at a custom position."
+msgstr "Posiciona o rótulo em uma posição personalizada."
+
+#. Form1..PopupMenu1..Tree_Rotation..Caption
+#. Form1..PopupMenu3..Label_Rotation..Caption
+msgid "Rotation"
+msgstr "Rotação"
+
+#. Form1..PopupMenu1..Tree_Rotation..Tree_Rotation_0..Hint
+#. Form1..PopupMenu3..Label_Rotation..Rotation_0..Hint
+msgid "Show the label with no rotation."
+msgstr "Mostra o rótulo sem rotação."
+
+#. Form1..PopupMenu1..Tree_Rotation..Tree_Rotation_90..Hint
+#. Form1..PopupMenu3..Label_Rotation..Rotation_90..Hint
+msgid "Show the label rotated 90° counter clockwise."
+msgstr "Mostra o rótulo girado em 90º no sentido anti-horário."
+
+#. Form1..PopupMenu1..Tree_Rotation..Tree_Rotation_180..Hint
+#. Form1..PopupMenu3..Label_Rotation..Rotation_180..Hint
+msgid "Show the label rotated 180°."
+msgstr "Mostra o rótulo girado em 180º."
+
+#. Form1..PopupMenu1..Tree_Rotation..Tree_Rotation_270..Hint
+#. Form1..PopupMenu3..Label_Rotation..Rotation_270..Hint
+msgid "Show the label rotated 270° counter clockwise."
+msgstr "Mostra o rótulo girado em 270º no sentido anti-horário."
+
+#. Form1..PopupMenu1..Tree_Rotation..Tree_Rotation_Custom..Hint
+#. Form1..PopupMenu3..Label_Rotation..Label_Rotation_Custom..Hint
+msgid "Specify the angle of rotation for the label."
+msgstr "Especifica o ângulo de rotação para o rótulo."
+
+#. Form1..PopupMenu1..Tree_Export..Caption
+#. Form14..PopupMenu1..Popup_Export..Caption
+#. Form15..PopupMenu1..Popup1_Export..Caption
+#. Form17..PopupMenu1..Popup_Export..Caption
+msgid "Export to file..."
+msgstr "Exportar para arquivo..."
+
+#. Form1..PopupMenu1..Tree_Export..Hint
+msgid "Export the selected point series to a file."
+msgstr "Exporta a série de pontos selecionada para um arquivo."
+
+#. Form1..ActionManager..............Caption
+msgid "Import"
+msgstr "Importar"
+
+#. Form1..ActionManager..........Caption
+#. Form1..ActionManager..NewAction..Category
+#. Form1..ActionManager..OpenAction..Category
+#. Form1..ActionManager..SaveAction..Category
+#. Form1..ActionManager..SaveAsAction..Category
+#. Form1..ActionManager..SaveCopyAsAction..Category
+#. Form1..ActionManager..SaveAsImageAction..Category
+#. Form1..ActionManager..PrintAction..Category
+#. Form1..ActionManager..ExitAction..Category
+#. Form1..ActionManager..ImportGraphFileAction..Category
+#. Form1..ActionManager..ImportPointSeriesAction..Category
+msgid "File"
+msgstr "Arquivo"
+
+#. Form1..ActionManager..........Caption
+#. Form1..ActionManager..UndoAction..Category
+#. Form1..ActionManager..RedoAction..Category
+#. Form1..ActionManager..CutAction..Category
+#. Form1..ActionManager..CopyAction..Category
+#. Form1..ActionManager..PasteAction..Category
+#. Form1..ActionManager..CopyImageAction..Category
+#. Form1..ActionManager..AxesAction..Category
+#. Form1..ActionManager..OptionsAction..Category
+msgid "Edit"
+msgstr "Editar"
+
+#. Form1..ActionManager..........Caption
+#. Form1..ActionManager..InsertFunctionAction..Category
+#. Form1..ActionManager..InsertTangentAction..Category
+#. Form1..ActionManager..InsertShadeAction..Category
+#. Form1..ActionManager..InsertPointsAction..Category
+#. Form1..ActionManager..InsertTrendlineAction..Category
+#. Form1..ActionManager..EditAction..Category
+#. Form1..ActionManager..DeleteAction..Category
+#. Form1..ActionManager..InsertDifAction..Category
+#. Form1..ActionManager..InsertLabelAction..Category
+#. Form1..ActionManager..InsertRelationAction..Category
+#. Form1..ActionManager..CustomFunctionsAction..Category
+#. ParFuncFrame..ComboBox1..Text
+#. ParFuncFrame..ComboBox1....Items.Strings
+#. PolFuncFrame..ComboBox1..Text
+#. PolFuncFrame..ComboBox1....Items.Strings
+#. StdFuncFrame..ComboBox1..Text
+#. StdFuncFrame..ComboBox1....Items.Strings
+msgid "Function"
+msgstr "Função"
+
+#. Form1..ActionManager..........Caption
+#. Form1..ActionManager..ZoomInAction..Category
+#. Form1..ActionManager..ZoomOutAction..Category
+#. Form1..ActionManager..ZoomWindowAction..Category
+#. Form1..ActionManager..ZoomSquareAction..Category
+#. Form1..ActionManager..ZoomStandardAction..Category
+#. Form1..ActionManager..ZoomFitAction..Category
+#. Form1..ActionManager..ZoomFitAllAction..Category
+#. Form1..ActionManager..ZoomXInAction..Category
+#. Form1..ActionManager..ZoomXOutAction..Category
+#. Form1..ActionManager..ZoomYInAction..Category
+#. Form1..ActionManager..ZoomYOutAction..Category
+msgid "Zoom"
+msgstr "Zoom"
+
+#. Form1..ActionManager..........Caption
+#. Form1..ActionManager..PathAction..Category
+#. Form1..ActionManager..AreaAction..Category
+#. Form1..ActionManager..EvalAction..Category
+#. Form1..ActionManager..TableAction..Category
+#. Form1..ActionManager..AnimateAction..Category
+#. Form15..Button2..Caption
+msgid "Calc"
+msgstr "Calc"
+
+#. Form1..ActionManager..........Caption
+msgid "Plugins"
+msgstr "Plugins"
+
+#. Form1..ActionManager..............Caption
+msgid "Internet"
+msgstr "Internet"
+
+#. Form1..ActionManager..........Caption
+#. Form1..ActionManager..ContentsAction..Category
+#. Form1..ActionManager..ListAction..Category
+#. Form1..ActionManager..HomePageAction..Category
+#. Form1..ActionManager..UpdateAction..Category
+#. Form1..ActionManager..AboutAction..Category
+#. Form1..ActionManager..FaqAction..Category
+#. Form1..ActionManager..DonateAction..Category
+#. Form1..ActionManager..TipAction..Category
+#. Form1..ActionManager..SupportAction..Category
+#. Form1..ActionManager..ScriptDocAction..Category
+#. Form11..Button3..Caption
+#. Form12..Button3..Caption
+#. Form13..Button3..Caption
+#. Form14..Button3..Caption
+#. Form15..Button3..Caption
+#. Form16..Button3..Caption
+#. Form17..Button4..Caption
+#. Form19..Button3..Caption
+#. Form3..Button3..Caption
+#. Form4..Button3..Caption
+#. Form5..Button3..Caption
+#. Form6..Button3..Caption
+#. Form7..Button3..Caption
+msgid "Help"
+msgstr "Ajuda"
+
+#. Form1..ActionManager..NewAction..Caption
+msgid "New"
+msgstr "Novo"
+
+#. Form1..ActionManager..NewAction..Hint
+msgid "Create a new coordinate system."
+msgstr "Cria um novo sistema de coordenadas."
+
+#. Form1..ActionManager..OpenAction..Caption
+msgid "Open..."
+msgstr "Abrir..."
+
+#. Form1..ActionManager..OpenAction..Hint
+msgid "Read a coordinate system from a file."
+msgstr "Lê um sistema de coordenadas a partir de um arquivo."
+
+#. Form1..ActionManager..SaveAction..Caption
+msgid "Save"
+msgstr "Salvar"
+
+#. Form1..ActionManager..SaveAction..Hint
+msgid "Write the current coordinate system to a file."
+msgstr "Grava o sistema de coordenadas atual em um arquivo."
+
+#. Form1..ActionManager..SaveAsAction..Caption
+#. Form20..PopupMenu1..Save1..Caption
+msgid "Save as..."
+msgstr "Salvar como..."
+
+# "new name "é "nome novo" (inverte a posição do adjetivo e substantivo, por padrão)
+#. Form1..ActionManager..SaveAsAction..Hint
+msgid "Write the current coordinate system to a file with a new name."
+msgstr "Grava o sistema de coordenadas atual em um arquivo com um nome novo."
+
+#. Form1..ActionManager..SaveCopyAsAction..Caption
+msgid "Save copy as..."
+msgstr "Salvar cópia como..."
+
+#. Form1..ActionManager..SaveCopyAsAction..Hint
+msgid "Save a copy of the current coordinate system to a file."
+msgstr "Salva uma cópia do sistema de coordenadas atual em um arquivo."
+
+#. Form1..ActionManager..SaveAsImageAction..Caption
+msgid "Save as image..."
+msgstr "Salvar como imagem..."
+
+#. Form1..ActionManager..SaveAsImageAction..Hint
+msgid "Save the shown coordinate system as an image."
+msgstr "Salva o sistema de coordenadas mostrado como uma imagem."
+
+#. Form1..ActionManager..PrintAction..Caption
+msgid "Print..."
+msgstr "Imprimir..."
+
+#. Form1..ActionManager..PrintAction..Hint
+msgid "Print shown coordinate system."
+msgstr "Imprime o sistema de coordenadas mostrado."
+
+#. Form1..ActionManager..ExitAction..Caption
+msgid "Exit"
+msgstr "Sair"
+
+#. Form1..ActionManager..ExitAction..Hint
+msgid "Quit the program."
+msgstr "Sai do programa."
+
+#. Form1..ActionManager..UndoAction..Caption
+#. Form6..PopupMenu1..Popup_Undo..Caption
+msgid "Undo"
+msgstr "Desfazer"
+
+#. Form1..ActionManager..UndoAction..Hint
+msgid "Undo the last action."
+msgstr "Desfaz a última ação."
+
+#. Form1..ActionManager..RedoAction..Caption
+#. Form6..PopupMenu1..Popup_Redo..Caption
+msgid "Redo"
+msgstr "Refazer"
+
+#. Form1..ActionManager..RedoAction..Hint
+msgid "Redo the last action undone."
+msgstr "Refaz a última ação desfeita."
+
+#. Form1..ActionManager..CutAction..Caption
+#. Form14..PopupMenu1..Popup_Cut..Caption
+#. Form17..PopupMenu1..Popup_Cut..Caption
+#. Form6..PopupMenu1..Popup_Cut..Caption
+msgid "Cut"
+msgstr "Recortar"
+
+# fiz uma alteração na ordem das palavras, para ficar mais claro (o texto original do Ivan não é bom; selecionada pode ser tanto a função como a série de pontos ou qualquer outra coisa (rótulos, etc.)
+#. Form1..ActionManager..CutAction..Hint
+msgid "Cut the selected function or point series to the clipboard."
+msgstr "Recorta a função ou série de pontos selecionada para a área de transferência."
+
+#. Form1..ActionManager..CopyAction..Caption
+#. Form14..PopupMenu1..Popup_Copy..Caption
+#. Form15..PopupMenu1..Popup1_Copy..Caption
+#. Form17..PopupMenu1..Popup_Copy..Caption
+#. Form6..PopupMenu1..Popup_Copy..Caption
+msgid "Copy"
+msgstr "Copiar"
+
+# fiz uma alteração na ordem das palavras, para ficar mais claro (o texto original do Ivan não é bom; selecionada pode ser tanto a função como a série de pontos ou qualquer outra coisa (rótulos, etc.)
+#. Form1..ActionManager..CopyAction..Hint
+msgid "Copy the selected function or point series to the clipboard."
+msgstr "Copia a função ou série de pontos selecionada para a área de transferência."
+
+#. Form1..ActionManager..PasteAction..Caption
+#. Form14..PopupMenu1..Popup_Paste..Caption
+#. Form17..PopupMenu1..Popup_Paste..Caption
+#. Form6..PopupMenu1..Popup_Paste..Caption
+msgid "Paste"
+msgstr "Colar"
+
+# O artigo "uma "é dispensável aqui. Também com vistas à padronizar com as dicas anteriores (copiar e colar)
+#. Form1..ActionManager..PasteAction....Hint
+msgid "Paste a function or point series from the clipboard into the coordinate system."
+msgstr "Cola uma função ou série de pontos da área de transferência para o sistema de coordenadas."
+
+# "image" aqui não tem o mesmo sentido de "picture", como a pricípio se poderia pensar. Na realidade, o que temos aqui é um jargão de informática, onde imagem significa "RÉPLICA" (vide American Heritage Dictionary). Este comando, em verdade, é o comando usado no Graph para se copiar um objeto OLE (vide Help do Graph e Explicações adicionais).
+# A tradução para o português simplesmente como "imagem", levaria a todo tipo de engano. O idela é que o nome deste comando fosse "Copy OLE object".
+# Para não tornar a tradução muito diferente do diferente sem, entretanto, induzir o usuário do Graph a erros, sugiro que se acrescente a sigla OLE aqui (Obs: devo relatar este problema ao Ivan, sugerindo uma mudança na documentação)
+#. Form1..ActionManager..CopyImageAction..Caption
+msgid "Copy image"
+msgstr "Copiar imagem OLE"
+
+# O texto do Ivan está incompleto e não diferencia este comando (Copy Image) do outro (Copy). Pior: passa a impressão de que os gráficos são copiados na forma de um arquivo de imagem.
+# Na realidade, o arquivo é copiado na forma de um objeto OLE. Se, após a cópia, for feita uma colagem dentro do Word, essa "imagem" que aparece ali no Word é na realidade um objeto do Graph: dando-se dois cliques ali em cima, o Graph abre e permite você editar o arquivo (veja um exemplo na pasta explicações adicionais).
+# Veja também o Help do Graph, onde o mesmo confirma que o comando "Copy image" é um comando para copiar objetos OLE.
+#. Form1..ActionManager..CopyImageAction..Hint
+msgid "Copy the shown coordinate system to the clipboard."
+msgstr "Copia o sistema de coordenadas exibido para a área de transferência, na forma de um objeto OLE."
+
+#. Form1..ActionManager..AxesAction..Caption
+msgid "Axes..."
+msgstr "Eixos..."
+
+#. Form1..ActionManager..AxesAction..Hint
+msgid "Edit axes settings."
+msgstr "Edita as configurações dos eixos."
+
+#. Form1..ActionManager..OptionsAction..Caption
+#. Form1..SaveDialogEx1..HelpCaption
+#. Form19..Button4..Caption
+msgid "Options..."
+msgstr "Opções..."
+
+#. Form1..ActionManager..OptionsAction..Hint
+msgid "Edit various options for the interface and program features."
+msgstr "Edita várias opções para a interface e características do programa"
+
+#. Form1..ActionManager..InsertFunctionAction..Caption
+msgid "Insert function..."
+msgstr "Inserir função..."
+
+#. Form1..ActionManager..InsertFunctionAction..Hint
+msgid "Insert a new function."
+msgstr "Insere uma nova função."
+
+#. Form1..ActionManager..InsertTangentAction..Caption
+msgid "Insert tangent/normal..."
+msgstr "Inserir tangente/normal..."
+
+#. Form1..ActionManager..InsertTangentAction..Hint
+msgid "Insert a tangent or normal for the selected function."
+msgstr "Insere uma tangente ou normal para a função selecionada."
+
+#. Form1..ActionManager..InsertShadeAction..Caption
+msgid "Insert shading..."
+msgstr "Inserir sombreamento..."
+
+# "à função selecionada" me parece mais elegante que "para a função selecionada"
+#. Form1..ActionManager..InsertShadeAction..Hint
+msgid "Add shading to the selected function."
+msgstr "Adiciona sombreamento à função selecionada."
+
+#. Form1..ActionManager..InsertPointsAction..Caption
+msgid "Insert point series..."
+msgstr "Inserir série de pontos..."
+
+#. Form1..ActionManager..InsertPointsAction..Hint
+msgid "Insert a point series."
+msgstr "Insere uma série de pontos."
+
+# Tradução literal: Inserir linha de tendência.
+# *   *   *
+# Cometários: esta linha é chamada de "linha de tendência", em razão dos pontos obtidos através de uma pesquisa estatística, ou através de medições em uma experiência cientìfica, tenderem a se aproximar da mesma (a linha indica os valores mais prováveis, relativos àquela série de pontos).
+# O termo técnico (jargão) utilizado nos livros de estatística e/ou cálculo I, em língua portuguesa, é: "curva de "regressão" (Howard Anton, Cálculo I , pág. 77 - 8ª edição). Isso porque este método de se ajustar uma função matemática a uma determinada série de pontos, é conhecido como análise de regressão.
+# No entanto, como a tradução literal já é bastante difundida (graças ao Excel), então o ideal é a utilizarmos, ao invés do jargão.
+#. Form1..ActionManager..InsertTrendlineAction..Caption
+msgid "Insert trendline..."
+msgstr "Inserir linha de tendência..."
+
+# "best fit" significa aqui melhor ajuste.
+#. Form1..ActionManager..InsertTrendlineAction..Hint
+msgid "Insert a curve of best fit for the selected point series."
+msgstr "Insere a curva que melhor se ajusta à série de pontos selecionada."
+
+#. Form1..ActionManager..EditAction..Caption
+msgid "Edit..."
+msgstr "Editar..."
+
+#. Form1..ActionManager..EditAction..Hint
+msgid "Edit the selected element: Function, tangent, point series, etc."
+msgstr "Edita o elemento selecionado: função, tangente, série de pontos, etc."
+
+#. Form1..ActionManager..DeleteAction..Caption
+#. Form14..PopupMenu1..Popup_Delete..Caption
+#. Form17..PopupMenu1..Popup_Delete..Caption
+msgid "Delete"
+msgstr "Apagar"
+
+# fiz uma padronização com o texto da função Edit (incluí a palavra elemento).
+# Ivan deveria ter feito isso, mas parece que esqueceu.
+#. Form1..ActionManager..DeleteAction..Hint
+msgid "Delete the selected function, tangent or point series."
+msgstr "Apaga o elemento selecionado: função, tangente ou série de pontos."
+
+#. Form1..ActionManager..InsertDifAction..Caption
+msgid "Insert f'(x)..."
+msgstr "Inserir f'(x)..."
+
+#. Form1..ActionManager..InsertDifAction..Hint
+msgid "Insert the first derivative of the selected function."
+msgstr "Insere a derivada primeira da função selecionada."
+
+#. Form1..ActionManager..ZoomInAction..Caption
+msgid "In"
+msgstr "Ampliar"
+
+# Tradução literal: (...) Mantenha pressionada a tecla Shift para ampliar com passos mais largos.
+# *   *   *
+# Comentário:
+# "step" significa passo, mas tem vários outro significados adicionais. Poderia significar aqui passada, andar, ritmo , graus ou mesmo incrementos , pois ampliar a passos mais largos (larger steps) significa fazer essa ampliação de forma mais rápida.
+# De qualquer forma, embora exista em português a expressão "a passos largos", é incomum a utilização da mesma em termos técnicos, significando a um ritmo/velocidade maior. Acho que é mais comum  a expressão "a um passo mais rápido", a um ritmo mais rápido", ou mesmo "com um passo maior", esta última semlhante à expressão utilizada por vocês mais à frente: "em passos maiores".
+# O que está incoreto aqui, porém, é o uso da palavra "etapas". Não apenas não se trata de uma questão temporal, mas ficou diferente do padrão utilizado mais à frente, por vocês, em outras traduções idênticas!
+# Verifiquei também que, mais à frente, vocês traduziram step como incremento (que aqui seria também uma tradução muito boa)
+#. Form1..ActionManager..ZoomInAction..Hint
+msgid "Zoom in. Hold down Shift to zoom with larger steps."
+msgstr "Amplia (zoom In). Mantenha pressionada a tecla Shift para ampliar em passos maiores."
+
+#. Form1..ActionManager..ZoomOutAction..Caption
+msgid "Out"
+msgstr "Reduzir"
+
+# vide comentário anterior
+#. Form1..ActionManager..ZoomOutAction..Hint
+msgid "Zoom out. Hold down Shift to zoom with larger steps."
+msgstr "Reduz (zoom out). Mantenha pressionada a tecla Shift para reduzir em passos maiores."
+
+# me parece que o ideal é usarmos o termo "janela" aqui: não somente esta é uma palavra já conhecido das pessoas, como também evitamos uma repetição de termos: a expressão "área selecionada" já se encontra na dica da ferramenta
+#. Form1..ActionManager..ZoomWindowAction..Caption
+msgid "Window"
+msgstr "Janela"
+
+# incluído o termo janela aqui
+#. Form1..ActionManager..ZoomWindowAction..Hint
+msgid "Zoom to user selected window."
+msgstr "Ajusta o zoom à janela de seleção definida pelo usuário."
+
+#. Form1..ActionManager..ZoomSquareAction..Caption
+msgid "Square"
+msgstr "Quadrado"
+
+# Foi deixado o termo zoom como palavra intraduzível (pode significar tanto ampliar como reduzir)
+#    *  *   *
+# Comentários: o verbo "scale" não possue um correspondente exato na língua portuguesa, sendo necessário o uso de uma expressão A palavra "relação", expressando a razão entre a largura e altura da figura é pouco usual (ainda que tecnicamente correta); o ideal é substituí-la por "dimensões" ou "proporções"
+#. Form1..ActionManager..ZoomSquareAction....Hint
+msgid "Zoom to scale the axes equally. This will show a plotted circle in its correct relation instead of an ellipse."
+msgstr "Ajusta o zoom de forma a igualar as escalas dos eixos. Isso irá mostrar um círculo traçado em suas dimensões corretas , ao invés de uma elipse."
+
+#. Form1..ActionManager..ZoomStandardAction..Caption
+msgid "Standard"
+msgstr "Padrão"
+
+#. Form1..ActionManager..ZoomStandardAction..Hint
+msgid "Reset the axes to their default settings."
+msgstr "Restaura os eixos à configuração padrão."
+
+#. Form1..ActionManager..MoveUpAction..Category
+#. Form1..ActionManager..MoveDownAction..Category
+#. Form1..ActionManager..MoveLeftAction..Category
+#. Form1..ActionManager..MoveRightAction..Category
+#. Form1..ActionManager..MoveAction..Category
+msgid "Move"
+msgstr "Mover"
+
+#. Form1..ActionManager..MoveUpAction..Caption
+msgid "Move up"
+msgstr "Mover para cima"
+
+# vocês esqueceram de colocar aqui a palavra "pressionada".
+# àrea de plotagem passou a ser usado aqui, com vistas à padronização (vocês usaram este termo, mais à frente)
+#. Form1..ActionManager..MoveUpAction....Hint
+msgid "Move the graphing area up along the coordinate system. Hold down Shift to move in larger steps."
+msgstr "Move a área de plotagem para cima ao longo do sistema de coordenadas. Mantenha pressionada a tecla Shift para mover em passos maiores."
+
+#. Form1..ActionManager..MoveDownAction..Caption
+msgid "Move down"
+msgstr "Mover para baixo"
+
+# vide comentário anterior
+#. Form1..ActionManager..MoveDownAction....Hint
+msgid "Move the graphing area down along the coordinate system. Hold down Shift to move in larger steps."
+msgstr "Move a área de plotagem para baixo ao longo do sistema de coordenadas. Mantenha pressionada a tecla Shift para mover em passos maiores."
+
+#. Form1..ActionManager..MoveLeftAction..Caption
+msgid "Move left"
+msgstr "Mover para esquerda"
+
+# idem
+#. Form1..ActionManager..MoveLeftAction....Hint
+msgid "Move the graphing area to the left along the coordinate system. Hold down Shift to move in larger steps."
+msgstr "Move a área de plotagem para a esquerda ao longo do sistema de coordenadas. Mantenha pressionada a tecla Shift para mover em passos maiores."
+
+#. Form1..ActionManager..MoveRightAction..Caption
+msgid "Move right"
+msgstr "Mover para direita"
+
+# idem
+#. Form1..ActionManager..MoveRightAction....Hint
+msgid "Move the graphing area to the right along the coordinate system. Hold down Shift to move in larger steps."
+msgstr "Move a área de plotagem para a direita ao longo do sistema de coordenadas. Mantenha pressionada a tecla Shift para mover em passos maiores."
+
+#. Form1..ActionManager..MoveAction..Caption
+msgid "Move system"
+msgstr "Mover sistema"
+
+#. Form1..ActionManager..MoveAction..Hint
+msgid "Move the coordinate system with the mouse."
+msgstr "Move o sistema de coordenadas com o mouse."
+
+# "path" significa caminho,trajetória, curso.
+# Porém, o termo técnico (jargão) utilizado nos livros de cálculo é "arco"
+# (Howard Anton, Cálculo I, pág 465 - 8ª edição). A tradução literal (comprimento do trajeto, etc.) é praticamente inexistente.
+# A tradução "comprimento da curva" não é tecnicamente correta, visto que dois pontos da curva delimitam um arco (parte da curva), e não a curva completa, assim como dois pontos em uma reta delimitam um segmento, e não a reta completa.
+#. Form1..ActionManager..PathAction..Caption
+msgid "Length of path"
+msgstr "Comprimento de arco"
+
+# vide comentário anterior.
+# Obs: acho que fica melhor, mais parecido com os textos de livro de cálculo, colocarmos a expressão "entre dois pontos dados" que, inclusive, é a tradução literal
+#. Form1..ActionManager..PathAction....Hint
+msgid "Calculate the length of path between two given points on the curve."
+msgstr "Calcula o comprimento de arco entre dois pontos dados na curva."
+
+#. Form1..ActionManager..AreaAction..Caption
+#. AreaFrame..GridPanel1..Label3..Caption
+msgid "Area"
+msgstr "Área"
+
+# "over" significa: do princípio ao fim, de ponta a ponta, de um lado a outro, através de, sobre   -   sempre se referindo aos  extremos do intervalo demarcado no eixo "x", quando se calcula a integral.
+# No entanto, me parece que é mais comum em livros de matemática o uso da expressão "em um dado intervalo" (Howard Anton, Cálculo I, pág. 355 - 8ª edição), ao invés de "sobre o intervalo dado" ou "através do intervalo dado", que seria a tradução literal.
+#. Form1..ActionManager..AreaAction..Hint
+msgid "Calculate the definite integral over a given interval."
+msgstr "Calcula a integral definida em um dado intervalo."
+
+# aqui é um verbo no infinitivo
+#. Form1..ActionManager..EvalAction..Caption
+#. Form9..Caption
+msgid "Evaluate"
+msgstr "Calcular"
+
+# "trace" aqui tem o sentido de rastrear, localizar.
+# Quando se utiliza esta função no Graph, é gerado um ponto resultante do cruzamento de duas linha (como se fosse uma mira de arma), que rastreia a curva em busca de determinado pontos específicos escolhidos pelo usuário, como interseções, etc.)
+#. Form1..ActionManager..EvalAction..Hint
+msgid "Evaluate or trace the selected function."
+msgstr "Calcula ou rastreia a função selecionada."
+
+#. Form1..ActionManager..TableAction..Caption
+msgid "Table"
+msgstr "Tabela"
+
+# "show" parece significar aqui "apresentar", pois a tabela não é algo que já está pronta, necessitando apenas ser mostrada; ela é em verdade CALCULADA após o usuário definir certos parâmetros, depois do comando ser acionado. Tanto assim que, o título que aparece na janela do comando é "calcular tabela"
+#. Form1..ActionManager..TableAction..Hint
+msgid "Show an evaluation table."
+msgstr "Apresenta uma tabela de cálculo."
+
+#. Form1..ActionManager..ContentsAction..Caption
+msgid "Contents and index"
+msgstr "Conteúdo e índice"
+
+#. Form1..ActionManager..ContentsAction..Hint
+msgid "Open help file."
+msgstr "Abre o arquivo de ajuda."
+
+#. Form1..ActionManager..ListAction..Caption
+msgid "List of functions"
+msgstr "Lista de funções"
+
+# "built-in" significa embutidas, incorporadas, integradas. Embora o termo nativas não esteja incorreto, acho que seria mais adequado utilizarmos "incorporadas" ou "integradas"
+#. Form1..ActionManager..ListAction..Hint
+msgid "Show a list of built-in functions that can be used for graphing."
+msgstr "Mostra uma lista de funções integradas ao programa que podem ser usadas para traçar gráficos."
+
+#. Form1..ActionManager..HomePageAction..Caption
+msgid "Graph web site"
+msgstr "Site do Graph"
+
+#. Form1..ActionManager..HomePageAction..Hint
+msgid "Open the default browser and show the Graph web site."
+msgstr "Abre o navegador de Internet padrão e mostra o site do Graph."
+
+#. Form1..ActionManager..UpdateAction..Caption
+msgid "Check for update"
+msgstr "Checar por atualizações"
+
+# A tradução estava muito diferente, em termos de estilo, então resolvi sugerir esta aqui
+#. Form1..ActionManager..UpdateAction..Hint
+msgid "Contact the home page to see if a newer version is available."
+msgstr "Contata a home page do Graph para verificar se uma versão mais nova se encontra disponível."
+
+#. Form1..ActionManager..AboutAction..Caption
+#. Form2..Caption
+msgid "About Graph"
+msgstr "Sobre o Graph"
+
+#. Form1..ActionManager..AboutAction..Hint
+msgid "Show copyright information."
+msgstr "Mostra informações de copyright."
+
+#. Form1..ActionManager..SeparatorAction..Category
+#. Form1..ActionManager..SeparatorAction..Caption
+msgid "Separator"
+msgstr "Separador"
+
+# "fit" aqui tem o sentido de enquadrar. Neste comando, o elemento selecionado é enquadrado (ou pelo menos deveria ser) no maior tamanho possível,  na área de plotagem
+#. Form1..ActionManager..ZoomFitAction..Caption
+msgid "Fit"
+msgstr "Enquadrar"
+
+# Aqui os substantivos estão no singular.
+# Obs: a dica original escrita pelo Ivan está incompleta: é necessário diferenciar aqui o elemento selecionado na lista de funções (zoom fit), dos elementos selecionados na área de plotagem (zoom window)
+#. Form1..ActionManager..ZoomFitAction..Hint
+msgid "Zoom to show the selected element."
+msgstr "Ajusta o zoom para exibir o elemento selecionado na lista de funções."
+
+# idem
+# não existe um ponto final aqui (isto não é uma dica de ferramenta; é um comando do menu, e comando não tem ponto (alguns, apenas, tem três pontos no final)
+#. Form1..ActionManager..ZoomFitAllAction..Caption
+msgid "Fit all"
+msgstr "Enquadrar todos"
+
+#. Form1..ActionManager..ZoomFitAllAction..Hint
+msgid "Zoom to show all elements."
+msgstr "Ajusta o zoom para exibir todos os elementos."
+
+# Tradução literal: Questões mais frequentemente perguntadas.
+# * * *
+# Tradução mais comum: Perguntas Mais Frequentes
+# * * *
+# Comentários: Embora a tradução mais comum seja uma tradução incorreta, do ponto de vista literal, o termo FAQ é de uma maneira geral traduzido desta forma para o português do Brasil (como "Perguntas Mais Frequentes").
+# Assim, como esta tradução já se popularizou bastante em nossa língua, talvez fosse mais adequado utilizarmos esta expressão bastante conhecida.
+# Sugiro pesquisar no Google, a onipresença desta tradução mais comum, para confirmar o que estou dizendo.
+#. Form1..ActionManager..FaqAction..Caption
+msgid "Frequently Asked Questions"
+msgstr "Perguntas mais frequentes"
+
+# vide comentário anterior
+#. Form1..ActionManager..FaqAction..Hint
+msgid "Show a list of frequently asked questions and their answers."
+msgstr "Mostra uma lista de perguntas mais frequentes e suas repostas."
+
+#. Form1..ActionManager..InsertLabelAction..Caption
+msgid "Insert label..."
+msgstr "Inserir rótulo..."
+
+# traduzido "a" como "um", com vistas à padronização
+#. Form1..ActionManager..InsertLabelAction..Hint
+msgid "Insert a text label."
+msgstr "Insere um rótulo de texto."
+
+#. Form1..ActionManager..DonateAction..Caption
+msgid "Donate"
+msgstr "Doar"
+
+# verbo colocado no infinitivo
+#. Form1..ActionManager..DonateAction..Hint
+msgid "Donate money to the project."
+msgstr "Dôe dinheiro ao projeto."
+
+#. Form1..ActionManager..TipAction..Caption
+#. Form10..Caption
+#. Form10..Panel1..LinkLabel1..Caption
+msgid "Tip of the day"
+msgstr "Dica do dia"
+
+#. Form1..ActionManager..TipAction..Hint
+msgid "Show tip of the day"
+msgstr "Mostra a dica do dia."
+
+# "suporte " é comumente traduzido, em todos os sits ligados a área de informática, como "suporte". Basta dar uma olhada nos sites onde se baixam drivers, versões novas de aplicativos, etc, e em todos eles SEM EXCEÇÃO, a palavra que aparece lá é "suporte". Então, me parece imprescindível se trocar o termo aqui.
+#. Form1..ActionManager..SupportAction..Caption
+msgid "Support"
+msgstr "Suporte"
+
+# vide comentário anterior
+#. Form1..ActionManager..SupportAction..Hint
+msgid "Open browser with the support page for the program."
+msgstr "Abre o navegador de Internet padrão e exibe a página de suporte do programa."
+
+#. Form1..ActionManager..ZoomXInAction..Caption
+msgid "Zoom x-axis in"
+msgstr "Ampliar no eixo-x."
+
+# acho que fica mais claro invertermos a ordem das palvras, e colocarmos "somente" depois, semelhante à tradução literal
+#. Form1..ActionManager..ZoomXInAction....Hint
+msgid "Zoom in on the x-axis only. Hold down Shift to zoom with larger steps."
+msgstr "Amplia no eixo-x somente. Mantenha a tecla Shift pressionada para ampliar em passos maiores."
+
+#. Form1..ActionManager..ZoomXOutAction..Caption
+msgid "Zoom x-axis out"
+msgstr "Reduzir no eixo-x."
+
+# idem
+#. Form1..ActionManager..ZoomXOutAction....Hint
+msgid "Zoom out on the x-axis only. Hold down Shift to zoom with larger steps."
+msgstr "Reduz no eixo-x somente. Mantenha a tecla Shift pressionada para reduzir em passos maiores."
+
+#. Form1..ActionManager..ZoomYInAction..Caption
+msgid "Zoom y-axis in"
+msgstr "Ampliar no eixo-y."
+
+# idem
+#. Form1..ActionManager..ZoomYInAction....Hint
+msgid "Zoom in on the y-axis only. Hold down Shift to zoom with larger steps."
+msgstr "Amplia no eixo-y somente. Mantenha a tecla Shift pressionada para ampliar em passos maiores."
+
+#. Form1..ActionManager..ZoomYOutAction..Caption
+msgid "Zoom y-axis out"
+msgstr "Reduzir no eixo-y."
+
+# idem
+#. Form1..ActionManager..ZoomYOutAction....Hint
+msgid "Zoom out on the y-axis only. Hold down Shift to zoom with larger steps."
+msgstr "Reduz no eixo-y somente. Mantenha a tecla Shift pressionada para reduzir em passos maiores."
+
+#. Form1..ActionManager..InsertRelationAction..Caption
+msgid "Insert relation..."
+msgstr "Inserir relação..."
+
+#. Form1..ActionManager..InsertRelationAction..Hint
+msgid "Insert a new equation or inequality."
+msgstr "Insere uma nova equação ou inequação."
+
+# Custom aqui é adjetivo (e não verbo).
+# "Personalizar funções/constantes", dá a impressão de as funções já existem naquela tabela (o que não é verdade, pois é uma tabela vazia), e que a nós cabe apenas personalizá-las.
+# Na realidade, estas funções ou constantes são criadas pelo usuário, ou seja, são "funções/constantes personalizadas"
+#. Form1..ActionManager..CustomFunctionsAction..Caption
+msgid "Custom functions/constants..."
+msgstr "Funções/constantes personalizadas..."
+
+#. Form1..ActionManager..CustomFunctionsAction..Hint
+msgid "Create custom functions and constants for use in graphs."
+msgstr "Cria funções ou constantes personalizadas para serem utilizadas nos gráficos."
+
+# Animate é verbo.
+# Animação seria uma tradução mais apropriada para "animation"
+#. Form1..ActionManager..AnimateAction..Caption
+msgid "Animate..."
+msgstr "Animar..."
+
+# a expressão "através da" é bem mais comum que "pela; então achei que ficaria melhor assim.
+#. Form1..ActionManager..AnimateAction..Hint
+msgid "Create an animation by variating a constant."
+msgstr "Cria uma animação através da variação de uma constante."
+
+# é mais comum a utilização da preposição "do", nesses casos. Aliás, foi utilizada esta preposição logo abaixo, então, acho melhor padronizarmos.
+#. Form1..ActionManager..ImportGraphFileAction..Caption
+msgid "Graph file..."
+msgstr "Arquivo do Graph..."
+
+# "para dentro do" fica mais claro do que para o (na realidade, os arquivos são misturados)
+#. Form1..ActionManager..ImportGraphFileAction..Hint
+msgid "Import a Graph file into the current coordinate system."
+msgstr "Importa um arquivo do Graph para dentro do sistema de coordenadas atual."
+
+#. Form1..ActionManager..ImportPointSeriesAction..Caption
+msgid "Point series..."
+msgstr "Série de Pontos..."
+
+# Ivan deveria ter escrito este texto, da mesma forma que o anterior (Arquivo do Graph...), pois o comando de importação é idêntico (mistura o arquivo atual com o importado).
+# Por questões de padronização e com vistas a aumentar a clareza, foi adicionado o texto "para dentro do sistema de coordenadas atual", como no outro comando de importação.
+#. Form1..ActionManager..ImportPointSeriesAction..Hint
+msgid "Import point series from a data file."
+msgstr "Importa uma série de pontos proveniente de um arquivo de dados para dentro do sistema de coordenadas atual."
+
+# Comentários: só repeti aqui a tradução de vocês, abaixo.
+#. Form1..ActionManager..ScriptDocAction..Caption
+msgid "Scripting engine documentation"
+msgstr "Documentação do mecanismo de script"
+
+# Comentários: me parece correta a tradução aqui, preservando "script" e "plugin" como jargões intraduzíveis, significando no caso um programa simples em linguagem de alto nível e extensões às capacidade originais de algum aplicativo.
+#. Form1..ActionManager..ScriptDocAction..Hint
+msgid "Show documentation for scripting engine and plugin system."
+msgstr "Mostra a documentação para o mecanismo de script e o sistema de plugin"
+
+# "set" pode significar estabelecer.
+# "'reset" poderia ser traduzido, então, como restabelecer
+#. Form1..PopupMenu2..ToolBar_Reset..Caption
+msgid "Reset to default"
+msgstr "Restabelecer padrões"
+
+# vide anterior
+#. Form1..PopupMenu2..ToolBar_Reset..Hint
+msgid "Reset the toolbar icons to the installation default."
+msgstr "Restabelece os ícones da barra de ferramentas para o padrão de instalação."
+
+# "Customize" é personalizar. De fato., é isto que se faz na barra, retirando os botões que não se quer e adicionando outros que originalmente não se encontravam ali.
+#. Form1..PopupMenu2..ToolBar_Customize..Caption
+msgid "Customize toolbar..."
+msgstr "Personalizar barra de ferramentas..."
+
+#. Form1..PopupMenu2..ToolBar_Customize..Hint
+msgid "Customize the icons shown on the toolbar."
+msgstr "Personaliza os ícones mostrados na barra de ferramentas."
+
+#. Form1..PopupMenu3..Label_Edit..Caption
+msgid "Edit label..."
+msgstr "Editar rótulo..."
+
+#. Form1..PopupMenu3..Label_Edit..Hint
+msgid "Edit the label under the cursor."
+msgstr "Edita o rótulo sob o cursor."
+
+#. Form1..PopupMenu3..Label_Delete..Caption
+msgid "Delete label"
+msgstr "Apagar rótulo"
+
+#. Form1..PopupMenu3..Label_Delete..Hint
+msgid "Delete the label under the cursor."
+msgstr "Apaga o rótulo sob o cursor."
+
+#. Form1..PopupMenu4..Legend_Show..Caption
+#. Form3..PageControl1..TabSheet3..CheckBox15..Caption
+msgid "Show legend"
+msgstr "Mostrar legenda"
+
+# aqui vocês colocaram "um legenda", ao invés de "uma legenda"
+#. Form1..PopupMenu4..Legend_Show..Hint
+#. Form3..PageControl1..TabSheet3..CheckBox15..Hint
+msgid "Select to show a legend in the coordinate system."
+msgstr "Selecione para mostrar uma legenda no sistema de coordenadas."
+
+#. Form1..PopupMenu4..Legend_Font..Caption
+msgid "Font..."
+msgstr "Fonte..."
+
+# "change" significa alterar, mudar
+# "of " aqui significa simplesmente "de"
+#. Form1..PopupMenu4..Legend_Font..Hint
+msgid "Change the font of the legend."
+msgstr "Altera a fonte da legenda."
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_TopRight..Caption
+#. Form3..PageControl1..TabSheet3..RadioGroup3....Items.Strings
+msgid "Top Right"
+msgstr "No alto à direita"
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_TopRight..Hint
+msgid "Show the legend in the upper right corner."
+msgstr "Mostra a legenda no canto superior direito."
+
+# Embaixo é tudo junto, não separado
+#. Form1..PopupMenu4..Legend_Placement..Legend_BottomRight..Caption
+#. Form3..PageControl1..TabSheet3..RadioGroup3....Items.Strings
+msgid "Bottom Right"
+msgstr "Embaixo à direita"
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_BottomRight..Hint
+msgid "Show the legend in the bottom right corner."
+msgstr "Mostra a legenda no canto inferior direito."
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_TopLeft..Caption
+#. Form3..PageControl1..TabSheet3..RadioGroup3....Items.Strings
+msgid "Top Left"
+msgstr "No alto à esquerda"
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_TopLeft..Hint
+msgid "Show the legend in the upper left corner."
+msgstr "Mostra a legenda no canto superior esquerdo."
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_BottomLeft..Caption
+#. Form3..PageControl1..TabSheet3..RadioGroup3....Items.Strings
+msgid "Bottom Left"
+msgstr "Em baixo à esquerda"
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_BottomLeft..Hint
+msgid "Show the legend in the bottom left corner."
+msgstr "Mostra a legenda no canto inferior esquerdo."
+
+#. Form10..Button1..Caption
+#. Form15..Button1..Caption
+#. Form19..Button2..Caption
+msgid "Close"
+msgstr "Fechar"
+
+#. Form10..Button2..Caption
+msgid "Next tip"
+msgstr "Próxima dica"
+
+#. Form10..Button3..Caption
+msgid "Previous tip"
+msgstr "Dica anterior"
+
+#. Form10..CheckBox1..Caption
+msgid "Show tips at startup"
+msgstr "Mostrar dicas ao iniciar"
+
+#. Form10..Panel1..Label1..Caption
+msgid "Did you know..."
+msgstr "Você sabia que..."
+
+#. Form11..Caption
+msgid "Insert relation"
+msgstr "Inserir relação"
+
+#. Form11..Label1..Caption
+msgid "Relation:"
+msgstr "Relação:"
+
+# "constraint" significa: constrangimento,  restrição e, no caso aqui se refere à restrições em particular que são aplicadas a uma fórmula mais geral.
+# Exemplo: a relação x^2+y^2<=16 irá traçar na tela um círculo com raio 4. Se restringirmos o conjunto de pontos original, àqueles cujas coordenadas sejam valores positivos, através da restrição  x>0 AND y>0, teremos a fígura de um quarto de círculo, desenhado no primeiro quadrante.
+#. Form11..Label2..Caption
+msgid "Constraints:"
+msgstr "Restrições:"
+
+#. Form11..Button1..Caption
+#. Form12..Button1..Caption
+#. Form13..Button1..Caption
+#. Form14..Button1..Caption
+#. Form16..Button1..Caption
+#. Form17..Button1..Caption
+#. Form18..Button1..Caption
+#. Form2..Button1..Caption
+#. Form21..TntButton1..Caption
+#. Form3..Button1..Caption
+#. Form4..Button1..Caption
+#. Form5..Button1..Caption
+#. Form6..Button1..Caption
+#. Form7..Button1..Caption
+#. Form8..Button1..Caption
+#. PrintFrm..Button1..Caption
+msgid "OK"
+msgstr "OK"
+
+#. Form11..Button2..Caption
+#. Form12..Button2..Caption
+#. Form13..Button2..Caption
+#. Form14..Button2..Caption
+#. Form15..ProgressForm1..ButtonCaption
+#. Form16..Button2..Caption
+#. Form17..Button2..Caption
+#. Form18..Button2..Caption
+#. Form19..ProgressForm1..ButtonCaption
+#. Form21..TntButton2..Caption
+#. Form3..Button2..Caption
+#. Form4..Button2..Caption
+#. Form5..Button2..Caption
+#. Form6..Button2..Caption
+#. Form7..Button2..Caption
+#. Form8..Button2..Caption
+#. PrintFrm..Button2..Caption
+msgid "Cancel"
+msgstr "Cancelar"
+
+#. Form11..GroupBox1..Caption
+#. Form12..GroupBox1..Caption
+#. Form5..GroupBox3..Caption
+#. Form7..GroupBox3..Caption
+msgid "Legend text"
+msgstr "Texto da legenda"
+
+#. Form11..GroupBox1..Label10..Caption
+#. Form12..GroupBox1..Label10..Caption
+#. Form14..Label3..Caption
+#. Form16..PageControl1..TabSheet2..Label12..Caption
+#. Form5..GroupBox3..Label10..Caption
+#. Form7..GroupBox3..Label10..Caption
+msgid "Description:"
+msgstr "Descrição:"
+
+# use = utilizada
+#. Form11..GroupBox1..Edit3....Hint
+#. Form5..GroupBox3..Edit7....Hint
+msgid "Write a descriptive text to show in the legend and function list. If empty the formula will be used."
+msgstr "Escreva um texto descritivo a ser mostrado na legenda e na lista de funções. Se deixado em branco, a fórmula será utilizada."
+
+#. Form11..GroupBox2..Caption
+#. Form16..PageControl1..TabSheet2..GroupBox3..Caption
+#. PrintFrm..GroupBox1..Button3..Caption
+msgid "Properties"
+msgstr "Propriedades"
+
+#. Form11..GroupBox2..Label7..Caption
+#. Form13..GroupBox1..Label7..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox1..Label1..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox2..Label5..Caption
+#. Form16..PageControl1..TabSheet2..GroupBox3..Label4..Caption
+msgid "Style:"
+msgstr "Estilo:"
+
+#. Form11..GroupBox2..Label9..Caption
+#. Form12..GroupBox2..Label9..Caption
+#. Form13..GroupBox1..Label6..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox1..Label2..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox2..Label6..Caption
+#. Form16..PageControl1..TabSheet2..GroupBox3..Label5..Caption
+#. Form5..GroupBox4..GridPanelEx1..Label9..Caption
+#. Form7..GroupBox4..Label9..Caption
+msgid "Color:"
+msgstr "Cor:"
+
+# Espessura é o termo usado no Microsoft Word, para esta função, e seria o termo preferido nesta tradução.
+# Porém, verifiquei que existem janelas do programa (exemplo: inserir relação) que não comportam uma palavra tão grande assim.
+# Tive então de mudar a tradução novamente para "largura".
+#. Form11..GroupBox2..Label3..Caption
+#. Form12..GroupBox2..Label8..Caption
+#. Form13..GroupBox1..Label5..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox2..Label7..Caption
+#. Form5..GroupBox4..GridPanelEx1..Label8..Caption
+#. Form7..GroupBox4..Label8..Caption
+msgid "Width:"
+msgstr "Largura:"
+
+# acho que aqui fica melhor não usar o imperativo(selecione), mas sim, o tempo verbal que vocês comumente tem usado,no presente (seleciona).
+# * * *
+# Embora a tradução de "for" seja para, a frase em questão é mais comumente escrita como "em equações".
+# Ex: não utilizar este medicamente EM CASO DE DENGUE". Então, sugeri uma modificação de estilo aqui. No entanto, nada impede de usarmos "para equações"
+# * * *
+# "to draw" foi traduzido aqui como traçar, pois o termo é mais comum em matemática do que desenhar. Como o verbo está no gerúndio, significando o ato de traçar uma curva, utilizei a expressão "no traçado"
+#. Form11..GroupBox2..ShadeSelect1....Hint
+msgid "Select the style used for drawing the inequality. Not used for equations."
+msgstr "Seleciona o estilo usado no traçado da inequação. Não utilizado em equações."
+
+# vide anterior
+#. Form11..GroupBox2..ExtColorBox1..Hint
+msgid "Select the color for drawing the relation."
+msgstr "Seleciona a cor para o traçado da relação."
+
+# "do", e não "o contorno"
+#  as vírgulas não são necessárias
+#. Form11..GroupBox2..Panel1..Edit4....Hint
+msgid "Width in pixels of the equation line or the borderline of the inequality."
+msgstr "Largura em pixels da linha da equação ou do contorno da inequação."
+
+# "enter" me parece que seria mais apropriadamente traduzido como "inserir", "introduzir" .
+# o uso de "the", por parte do Ivan, não me parece adequado (melhor traduzir como uma relação"
+#. Form11..Edit1..Hint
+msgid "Enter the relation, for example \"x^2+y^2 = 25\" or \"y < sin(x)\""
+msgstr "Insira uma relação, por exemplo, \"x^2+y^2 = 25\" or \"y < sin(x)\""
+
+# "constraint", como já foi dito, significa restrição.
+# "Enter", como já comentei, pode ser traduzido como "inserir/insere", mas me parece que o termo mais adequado aqui, em uma tradução livre, seria "definir". De qualquer forma, mantive "inserir", com vistas a padronizar a tradução
+# "como por exemplo" foi alterado para "por exemplo", com fins de padronização
+#. Form11..Edit2....Hint
+msgid "Enter constraints for the relation, for example \"x > 0 and y < 5\""
+msgstr "Insira restrições à relação, por exemplo, \"x > 0 and y < 5\""
+
+#. Form12..Caption
+msgid "Insert tangent/normal"
+msgstr "Inserir tangente/normal"
+
+# vocês deixaram a barra sem espaço em cima, e com espaço embaixo. Então, tirei os espaços de baixo
+#. Form12..Edit1..Hint
+msgid "Value where the tangent/normal will interact with the function."
+msgstr "Valor onde a tangente ou normal irá interagir com a função."
+
+#. Form12..RadioGroup1..Hint
+msgid "Choose if you want a tangent or a normal."
+msgstr "Escolhe se é desejada uma tangente ou uma normal."
+
+#. Form12..RadioGroup1..Caption
+msgid "Type"
+msgstr "Tipo"
+
+#. Form12..RadioGroup1....Items.Strings
+msgid "Tangent"
+msgstr "Tangente"
+
+#. Form12..RadioGroup1....Items.Strings
+msgid "Normal"
+msgstr "Normal"
+
+# foi utilizado "mostrado", ao invés de "mostrada", no feminino.
+# Também me parece interessante deixar o texto na ordem original das palavras.
+# "a função será mostrada" (conforme traduzido por vocês)  é mais correto que ´"a equação será amostrada"  (embora esta última seja utilizada no texto original)
+#. Form12..GroupBox1..Edit2....Hint
+#. Form7..GroupBox3..Edit3....Hint
+msgid "Write a descriptive text to show in the legend. If empty the equation will be used."
+msgstr "Escreva um texto descritivo a ser mostrado na legenda. Se deixado em branco, a equação será mostrada."
+
+#. Form12..GroupBox2..Caption
+#. Form5..GroupBox4..Caption
+#. Form7..GroupBox4..Caption
+msgid "Graph properties"
+msgstr "Propriedades do gráfico"
+
+#. Form12..GroupBox2..Label7..Caption
+#. Form5..GroupBox4..GridPanelEx1..Label7..Caption
+#. Form7..GroupBox4..Label7..Caption
+msgid "Line style:"
+msgstr "Estilo da linha:"
+
+# espessura ao invés de largura
+#. Form12..GroupBox2..Edit3..Hint
+#. Form13..GroupBox1..Edit2..Hint
+#. Form5..GroupBox4..GridPanelEx1..Panel1..Edit6..Hint
+#. Form7..GroupBox4..Edit4..Hint
+msgid "Width of graph in pixels."
+msgstr "Largura da linha do gráfico em pixels."
+
+# A tradução me pareceu um pouco genérica demais (linha pode ser os eixos, as linhas do grid, etc.). Acho melhor não alteramos o original, e traduzirmos "draw" como "traçar"
+#. Form12..GroupBox2..LineSelect1..Hint
+#. Form13..GroupBox1..LineSelect1..Hint
+#. Form5..GroupBox4..GridPanelEx1..LineSelect1..Hint
+#. Form7..GroupBox4..LineSelect1..Hint
+msgid "Choose which line style to use for drawing the graph."
+msgstr "Escolhe o estilo de linha a ser usado para traçar o gráfico."
+
+#. Form12..GroupBox2..ExtColorBox1..Hint
+#. Form13..GroupBox1..ExtColorBox1..Hint
+#. Form5..GroupBox4..GridPanelEx1..ExtColorBox1..Hint
+#. Form7..GroupBox4..ExtColorBox1..Hint
+msgid "Select the color of the graph."
+msgstr "Seleciona a cor do gráfico."
+
+# "argument" pode ser traduzido sem problemas como "argumento", pois isto é um jargão existente em análise matemática.
+# "range" pode ser traduzido como faixa, gama, variação, extensão, etc.
+#. Form12..GroupBox3..Caption
+#. Form5..GroupBox2..Caption
+#. Form7..GroupBox2..Caption
+msgid "Argument range"
+msgstr "Variação do argumento"
+
+#. Form12..GroupBox3..Label4..Caption
+#. Form15..Label1..Caption
+#. Form16..PageControl1..TabSheet2..GroupBox1..Label6..Caption
+#. Form16..PageControl1..TabSheet3..GroupBox2..Label8..Caption
+#. Form19..TntGroupBox1..Label2..Caption
+#. Form5..GroupBox2..Label4..Caption
+#. Form7..GroupBox2..Label4..Caption
+#. AreaFrame..GridPanel1..Label1..Caption
+msgid "From:"
+msgstr "De:"
+
+#. Form12..GroupBox3..Label5..Caption
+#. Form15..Label2..Caption
+#. Form16..PageControl1..TabSheet2..GroupBox1..Label7..Caption
+#. Form16..PageControl1..TabSheet3..GroupBox2..Label9..Caption
+#. Form19..TntGroupBox1..Label3..Caption
+#. Form5..GroupBox2..Label5..Caption
+#. Form7..GroupBox2..Label5..Caption
+#. AreaFrame..GridPanel1..Label2..Caption
+msgid "To:"
+msgstr "A:"
+
+# vide anterior.
+# * * *
+# Tradução literal: Início do intervalo de variação para a variável utilizada.
+# * *  *
+# Comentários: este é um dos raros casos, onde uma tradução livre seria o mais indicado. Há bastante tempo que utilizo o Graph e, lembro que demorei bastante tempo pra entender esta questão do intervalo, particularmente no caso das funções parmétricas. Isso porque uma função possui sempre duas varíaveis: a dependente e a independente. No caso, o texto original do Ivan, em inglês não define exatamente a que variável ele está se referindo.
+# No tocante a esta questão, nossos amigos espanhóis ousaram fazer uma tradução livre mais esclarecedora, explicando que se trata da variável independente.
+# Acho que aqui, EXCEPCIONALMENTE, deveríamos fazer uma tradução livre conforme sugeri, trocando o termo "used" por "independent"
+# a expressão "used variable" é um tanto infeliz, pois não esclarece muita coisa.
+#. Form12..GroupBox3..Edit4..Hint
+#. Form5..GroupBox2..Edit3..Hint
+#. Form7..GroupBox2..Edit1..Hint
+msgid "Start of range interval for the used variable."
+msgstr "Início do intervalo de variação da variável independente."
+
+# vide anterior
+#. Form12..GroupBox3..Edit5..Hint
+#. Form5..GroupBox2..Edit4..Hint
+#. Form7..GroupBox2..Edit2..Hint
+msgid "End of range interval for the used variable."
+msgstr "Fim do intervalo de variação da variável independente."
+
+#. Form12..GroupBox5..Caption
+#. Form5..GroupBox5..Caption
+msgid "Endpoints"
+msgstr "Extremos"
+
+#. Form12..GroupBox5..Label11..Caption
+#. Form5..GroupBox5..Label11..Caption
+msgid "Start:"
+msgstr "Início:"
+
+#. Form12..GroupBox5..Label12..Caption
+#. Form5..GroupBox5..Label12..Caption
+msgid "End:"
+msgstr "Fim:"
+
+# tirei o verbo do imperativo!
+# "marker" significa "marcador"
+# Traduzi aqui "range" como intervalo de variação (e não como variação sozinho), pois quando não se define uma faixa/intervalo de variação, ainda assim o argumento varia de menos infinito a mais infinito (uma sutileza, no que se refere ao significado matemático de certas palavras)
+#. Form12..GroupBox5..ComboBox1....Hint
+#. Form5..GroupBox5..ComboBox2....Hint
+msgid "Select marker to show at the start of the interval. Only used if an argument range is specified."
+msgstr "Seleciona o marcador a ser mostrado no início do intervalo. Utilizado somente se um intervalo de variação para o argumento for especificado."
+
+# vide anterior
+#. Form12..GroupBox5..ComboBox2....Hint
+#. Form5..GroupBox5..ComboBox3....Hint
+msgid "Select marker to show at the end of the interval. Only used if an argument range is specified."
+msgstr "Seleciona o marcador a ser mostrado no fim do intervalo. Somente será utilizado se um intervalo de variação para o argumento for especificado."
+
+# Tradução literal: Inserir linha de tendência.
+# *   *   *
+# Cometários: esta linha é chamada de "linha de tendência", em razão dos pontos obtidos através de uma pesquisa estatística, ou através de medições em uma experiência cientìfica, tenderem a se aproximar da mesma (a linha indica os valores mais prováveis, realtivos àquela série de pontos).
+# O termo técnico (jargão) utilizado nos livros de estatística e/ou cálculo I, em língua portuguesa, é: "curva de "regressão" (Howard Anton, Cálculo I , pág. 77 - 8ª edição). Isso porque este método de se ajustar uma função matemática a uma determinada série de pontos, é conhecido como análise de regressão.
+# No entanto, como a tradução literal já é bastante difundida (graças ao Excel), então o ideal é a utilizarmos, ao invés do jargão.
+#. Form13..Caption
+msgid "Insert trendline"
+msgstr "Inserir linha de tendência"
+
+#. Form13..GroupBox1..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox2..Caption
+msgid "Line"
+msgstr "Linha"
+
+#. Form13..PageControl1..TabSheet1..Caption
+msgid "Built-in"
+msgstr "Pré-definidas"
+
+#. Form13..PageControl1..TabSheet1..Panel1..Image1..Hint
+msgid "Create a linear function: f(x)=ax+b"
+msgstr "Gera uma função linear: f(x)=ax+b"
+
+# aqui faltou o acento na palavra
+# o t é mudo (sem i depois)
+#. Form13..PageControl1..TabSheet1..Panel2..Image2..Hint
+msgid "Create a logarithmic function: f(x)=a*ln(x)+b"
+msgstr "Gera uma função logarítmica: f(x)=a*ln(x)+b"
+
+#. Form13..PageControl1..TabSheet1..Panel3..Image3..Hint
+msgid "Create a polynomial function: f(x)=ax^3+bx^2+cx+d"
+msgstr "Gera uma função polinomial: f(x)=ax^3+bx^2+cx+d"
+
+#. Form13..PageControl1..TabSheet1..Panel4..Image4..Hint
+msgid "Create a power function: f(x)=ax^b"
+msgstr "Gera uma função potência: f(x)=ax^b"
+
+#. Form13..PageControl1..TabSheet1..Panel5..Image5..Hint
+msgid "Create a exponential function: f(x)=a*b^x"
+msgstr "Gera uma função exponencial: f(x)=a*b^x"
+
+#. Form13..PageControl1..TabSheet1..StaticText1..Caption
+msgid "Order:"
+msgstr "Ordem:"
+
+#. Form13..PageControl1..TabSheet1..RadioButton3..Caption
+msgid "Polynomial"
+msgstr "Polinomial"
+
+# idem
+#. Form13..PageControl1..TabSheet1..RadioButton2..Caption
+msgid "Logarithmic"
+msgstr "Logarítmica"
+
+#. Form13..PageControl1..TabSheet1..RadioButton1..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox2..ComboBox2....Items.Strings
+msgid "Linear"
+msgstr "Linear"
+
+#. Form13..PageControl1..TabSheet1..RadioButton4..Caption
+msgid "Power"
+msgstr "Potência"
+
+#. Form13..PageControl1..TabSheet1..RadioButton5..Caption
+msgid "Exponential"
+msgstr "Exponencial"
+
+# "straight line" significa linha reta.
+# Este tipo de curva, chamada de "média móvel", gera um gráfico que interliga os pontos de uma série, não através de uma curva de verdade, mas através de uma linha formada por vários segmentos de reta (vide figura enviada)
+#. Form13..PageControl1..TabSheet1..Panel6..Image6..Hint
+msgid "Create a moving average as a series of straight lines."
+msgstr "Cria uma média móvel, na forma de uma série de linhas retas."
+
+# vide anterior
+#. Form13..PageControl1..TabSheet1..RadioButton6..Caption
+msgid "Moving average"
+msgstr "Média móvel"
+
+#. Form13..PageControl1..TabSheet1..StaticText2..Caption
+msgid "Period:"
+msgstr "Período:"
+
+# O texto do Ivan está incompleto. Todas as opções de curva mostradas, são opções de cálculo da média (cada uma usando um tipo de fórmula mais apropriada ao caso), No entanto as opções relativas a esta dica são válidas apenas para a média móvel (daí a necessidade de incluir o termo móvel, na dica)
+#. Form13..PageControl1..TabSheet1..Edit4..Hint
+msgid "Determines how many points are used for the average."
+msgstr "Determina quantos pontos são usados para a média móvel."
+
+# os termos estavam no plural, indevidamente
+#. Form13..PageControl1..TabSheet1..Edit1..Hint
+msgid "The order of the polynomium. For example 2 means a parable."
+msgstr "A ordem do polinômio. Por exemplo, 2 significa uma parábola."
+
+# o termo aqui é no plural, pois existe mais de uma definida pelo usuário (ver aplicativo)
+#. Form13..PageControl1..TabSheet2..Caption
+msgid "User defined"
+msgstr "Definidas pelo usuário"
+
+#. Form13..PageControl1..TabSheet2..Label1..Caption
+msgid "Model:"
+msgstr "Modelo:"
+
+# faltou aqui a tradução de model (modelo).
+#. Form13..PageControl1..TabSheet2..Button4..Caption
+#. Form8..Caption
+msgid "Add model"
+msgstr "Adicionar"
+
+# vide anterior
+#. Form13..PageControl1..TabSheet2..Button5..Caption
+msgid "Remove model"
+msgstr "Remover"
+
+# vide anterior
+#. Form13..PageControl1..TabSheet2..Button6..Caption
+msgid "Edit model"
+msgstr "Editar"
+
+# "to base sth on sth" significa basear alguma coisa em outra.
+# Digite não é apropriado aqui, pois o usuário pode simplesmente usar uma "built-in function", clicando em cima do nome dela, sem a necessidade de digitar nada.
+# Só há necessidade de digitar, quando ocorre a criação de uma função nova, no caso do comnado ADD.
+#. Form13..PageControl1..TabSheet2..Edit3..Hint
+msgid "Enter a function model to base the trendline on."
+msgstr "Entre com uma \"função modelo\" na qual a linha de tendência deverá se basear."
+
+# vide comentário abaixo.
+# A descrição aqui se refere ao ponto onde a linha de tendência deverá interceptar o eixo y, então, resolvi melhorar um pouco o texto, que estava um tanto confuso.
+# Isso é dispensável na tradução (me parece que This, aqui, tem o significado de este (recurso).
+#. Form13..CheckBox1....Hint
+#. Form13..Edit5....Hint
+msgid "Type a value in the Intercept box to specify the point where you want the trendline to meet the y-axis. This is only available for linear, polynomial and exponential trendlines."
+msgstr "Digite um valor na caixa \"Interceptar\" para especificar o ponto onde se deseja que a linha de tendência encontre com o eixo-y. Disponível apenas para linhas de tendência lineares, polinominais e exponenciais."
+
+# "intercept" pode ser traduzido sem problemas como "interceptar" (verbo, não adjetivo), pois o termo é comum no ensino de matemática, assim como interseção.
+#. Form13..CheckBox1..Caption
+msgid "Intercept ="
+msgstr "Interceptar ="
+
+#. Form13..TntPopupMenu1..Popup_Import..Caption
+#. Form14..PopupMenu1..Popup_Import..Caption
+#. Form17..PopupMenu1..Popup_Import..Caption
+msgid "Import from file..."
+msgstr "Importar do arquivo..."
+
+# o texto original está no plural, e a tradução estava no singular
+#. Form13..TntPopupMenu1..Popup_Import..Hint
+msgid "Import user models from a file."
+msgstr "Importa modelos do usuário de um arquivo."
+
+# aqui faltou a tradução de "all" (todos)
+#. Form13..TntPopupMenu1..Popup_Export..Caption
+msgid "Export all to file..."
+msgstr "Exportar todos para arquivo..."
+
+# vide anterior
+#. Form13..TntPopupMenu1..Popup_Export..Hint
+msgid "Export user models to a file."
+msgstr "Exporta os modelos do usuário para um arquivo."
+
+# Aqui se confundiu "user" (usuário) com "use" (verbo usar)
+#. Form13..SaveDialog1..Filter
+#. Form13..OpenDialog1..Filter
+msgid "User models [*.ini]|*.ini"
+msgstr "Modelos do usuário [*.ini] *.ini"
+
+#. Form14..Caption
+msgid "Insert point series"
+msgstr "Inserir série de pontos"
+
+# o tempo do verbo está errado, e "left" foi traduzido como direito. também não foi traduzido "list"
+#. Form14..Edit1....Hint
+msgid "The name of the point series, which is shown in the list to the left of the coordinate system."
+msgstr "O nome da série de pontos, o qual é exibido na lista à esquerda do sistema de coordenadas."
+
+# "series" é série, no singular
+#. Form14..Edit1..Text
+msgid "Series"
+msgstr "Série"
+
+# aqui "this" pode ser omitido na tradução.
+# "show" pode ser traduzido como "exibir".
+# * * *
+# Ivan utiliza no texto em inglês o termo "linhas", pois o que se tem aqui não é uma curva de regressão (um alinha contínua), mas sim, segmentos aleatórios interligando os pontos. A estes segmentos, Ivan chama de "linhas", no plural. Se formos comparar com o texto das funções, veremos que ali está o termo linha, no singular.
+#. Form14..GroupBox4....Hint
+msgid "This shows a sample of the markers and the lines between the markers."
+msgstr "Exibe uma amostra dos marcadores e das linhas entre os marcadores. "
+
+# "sample" é amostra
+#. Form14..GroupBox4..Caption
+msgid "Sample"
+msgstr "Amostra"
+
+# "marker" é marcador
+#. Form14..PageControl1..TabSheet1..Caption
+msgid "Markers"
+msgstr "Marcadores"
+
+#. Form14..PageControl1..TabSheet1..GroupBox1..Caption
+msgid "Marker"
+msgstr "Marcador"
+
+# tamanho estava abreviado
+#. Form14..PageControl1..TabSheet1..GroupBox1..Label4..Caption
+msgid "Size:"
+msgstr "Tamanho:"
+
+# o texto original está no plural
+#. Form14..PageControl1..TabSheet1..GroupBox1..Edit2..Hint
+msgid "Choose the size of the markers."
+msgstr "Escolhe o tamanho do marcador."
+
+# idem.
+# "at each" significa "em cada"
+#. Form14..PageControl1..TabSheet1..GroupBox1..PointSelect1..Hint
+msgid "Choose the type of markers to be shown at each point."
+msgstr "Escolhe o tipo de marcador a ser mostrado em cada um dos pontos."
+
+# texto original no plural
+#. Form14..PageControl1..TabSheet1..GroupBox1..ExtColorBox1..Hint
+msgid "Choose the color of the markers."
+msgstr "Escolhe a cor do marcador."
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..Label11..Caption
+msgid "Interpolation:"
+msgstr "Interpolação:"
+
+# tradução estava incompleta.
+# Obs: "any line" pode ser traduzido tanto como "linha alguma" como "quaisquer linhas"
+# between aqui significa "de um a outro"
+# Esta linha é diferente da linha de tendência, é uma linha "artifical" de interligação entre os pontos medidos, (a linha de tendência, em geral, segue o trajeto da média, e não interliga necessariamente os pontos uns aos outros.
+# Daí a necessidade de usarmos "interligando de um a outro" como tradução para "drawn between" (vide pasta com explicações adicionais)
+#. Form14..PageControl1..TabSheet1..GroupBox2..LineSelect1....Hint
+msgid "Choose the style of lines to be drawn between the points. You may also choose not to draw any lines."
+msgstr "Escolhe o estilo das linhas a serem traçadas interligando um ponto a outro. Você pode também escolher não traçar linha alguma."
+
+# imperativo trocado pelo presente.
+# espessuar trocado por largura (a palavra não cabe em algumas janelas)
+#. Form14..PageControl1..TabSheet1..GroupBox2..Edit3..Hint
+msgid "Choose the width of the lines in pixels."
+msgstr "Escolhe a largura das linhas em pixels."
+
+# tradução com problemas
+#. Form14..PageControl1..TabSheet1..GroupBox2..ComboBox2..Hint
+msgid "Select which kind of line to draw between the markers."
+msgstr "Seleciona que tipo de linha traçar entre os marcadores."
+
+# "Spline", se não me engano, é um tipo de algoritmo matemático e, nesse caso, seria intraduzível. Dequalquer forma, acho que a palavra deve ser inserida (e não omitida) na tradução
+#. Form14..PageControl1..TabSheet1..GroupBox2..ComboBox2....Items.Strings
+msgid "1D cubic spline"
+msgstr "Cúbico 1D spline"
+
+# idem
+#. Form14..PageControl1..TabSheet1..GroupBox2..ComboBox2....Items.Strings
+msgid "2D cubic spline"
+msgstr "Cúbico 2D spline"
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..ComboBox2....Items.Strings
+msgid "Half cosine"
+msgstr "Meio coseno"
+
+# imperativo substituído pelo presente
+#. Form14..PageControl1..TabSheet1..GroupBox2..ExtColorBox2..Hint
+msgid "Choose the color of the lines."
+msgstr "Escolhe a cor das linhas."
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..Caption
+msgid "Labels"
+msgstr "Rótulos"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..Label8..Caption
+msgid "Position:"
+msgstr "Posição:"
+
+# substitui a tradução livre original, pela tradução mais semelhante à literal (me parece que esta a linha que vocês estão seguindo, não?
+# "check" aqui tem o sentido de "marcar o quadrado" (e não de conferir, que é o sentido original). Então, me parece melhor utilizarmso aqui "marcar" ou "selecionar"
+#. Form14..PageControl1..TabSheet1..GroupBox3..CheckBox2..Hint
+msgid "Check to show the coordinate at each point."
+msgstr "Marque para mostrar a coordenada em cada ponto."
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..CheckBox2..Caption
+msgid "Show coordinates"
+msgstr "Mostrar coordenadas"
+
+# imperativo trocado pelo presente
+#. Form14..PageControl1..TabSheet1..GroupBox3..BitBtn1..Hint
+msgid "Select the font for the coordinates."
+msgstr "Seleciona a fonte para as coordenadas."
+
+# trocado imperativo pelo presente.
+# "should" é melhor traduzido como "deve ser"
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1..Hint
+msgid "Select where the coordinates should be shown."
+msgstr "Seleciona onde as coordenadas devem ser mostradas."
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+msgid "Above"
+msgstr "Acima"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+msgid "Below"
+msgstr "Abaixo"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+msgid "Left"
+msgstr "Esquerda"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+msgid "Right"
+msgstr "Direita"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+msgid "Above Left"
+msgstr "Acima e à esquerda"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+msgid "Above Right"
+msgstr "Acima e à direita"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+msgid "Below Left"
+msgstr "Abaixo e à esquerda"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+msgid "Below Right"
+msgstr "Abaixo e à direita"
+
+# polar estava no singular
+# coloquei o verbo no presente
+#. Form14..PageControl1..TabSheet1..RadioGroup1....Hint
+msgid "Choose between cartesian (x,y) coordinates and polar (θ,r) coordinates."
+msgstr "Escolhe entre coordenadas cartesianas (x,y) e coordenadas polares (θ,r)."
+
+#. Form14..PageControl1..TabSheet1..RadioGroup1..Caption
+msgid "Coordinate type"
+msgstr "Tipo de coordenada"
+
+#. Form14..PageControl1..TabSheet1..RadioGroup1....Items.Strings
+msgid "Cartesian"
+msgstr "Cartesiano"
+
+#. Form14..PageControl1..TabSheet1..RadioGroup1....Items.Strings
+#. Form4..GridPanelEx1..RadioGroup1....Items.Strings
+msgid "Polar"
+msgstr "Polar"
+
+#. Form14..PageControl1..TabSheet2..Caption
+msgid "Error bars"
+msgstr "Barras de erro"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..Caption
+msgid "X error amount"
+msgstr "Valor do erro X"
+
+# o adjetivo "horizontal" qualifica "bars", então tem de ficar no plural, na tradução
+#. Form14..PageControl1..TabSheet2..GroupBox5..CheckBox3..Hint
+msgid "Show horizontal error bars."
+msgstr "Mostra as barras de erro horizontais."
+
+# "x" em "x-bars" é adjetivo.
+# Então, seguindo a regra, a tradução adequada aqui é "barras-x"
+# O artigo, adicionei por achar ser pouco comum a construção sem ele
+#. Form14..PageControl1..TabSheet2..GroupBox5..CheckBox3..Caption
+msgid "Show x-bars"
+msgstr "Mostra as barras-x"
+
+# "do mesmo " me parece melhor
+#. Form14..PageControl1..TabSheet2..GroupBox5..RadioButton1..Hint
+#. Form14..PageControl1..TabSheet2..GroupBox6..RadioButton4..Hint
+msgid "All error bars are the same size."
+msgstr "Todas as barras de erro possuem o mesmo tamanho."
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..RadioButton1..Caption
+#. Form14..PageControl1..TabSheet2..GroupBox6..RadioButton4..Caption
+msgid "Fixed:"
+msgstr "Fixo:"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..Edit4..Hint
+#. Form14..PageControl1..TabSheet2..GroupBox6..Edit6..Hint
+msgid "Enter fixed value."
+msgstr "Entre com um valor fixo."
+
+# O texto original está bastante truncado.
+# Me parece que, "the same" aqui significa "igual", então, fiz uma tradução a mais parecida possível com o original, sem truncamento.
+#. Form14..PageControl1..TabSheet2..GroupBox5..RadioButton2..Hint
+msgid "All error bars are the same percentage of the x-coordinate."
+msgstr "Todas as barras de erro são iguais a um percentual de suas respectivas coordenadas-x"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..RadioButton2..Caption
+#. Form14..PageControl1..TabSheet2..GroupBox6..RadioButton5..Caption
+msgid "Relative:"
+msgstr "Relativa:"
+
+# substitui pel atradução literal
+#. Form14..PageControl1..TabSheet2..GroupBox5..RadioButton3..Hint
+#. Form14..PageControl1..TabSheet2..GroupBox6..RadioButton6..Hint
+msgid "Each error bar is given a custom value."
+msgstr "A cada barra de erro é atribuído um valor personalizado."
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..RadioButton3..Caption
+#. Form14..PageControl1..TabSheet2..GroupBox6..RadioButton6..Caption
+msgid "Custom"
+msgstr "Personalizado"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..Edit5..Hint
+#. Form14..PageControl1..TabSheet2..GroupBox6..Edit7..Hint
+msgid "Enter relative value in percent."
+msgstr "Entre com um valor relativo em percentual."
+
+#. Form14..PageControl1..TabSheet2..GroupBox6..Caption
+msgid "Y error amount"
+msgstr "Valor do erro Y"
+
+# idem
+#. Form14..PageControl1..TabSheet2..GroupBox6..CheckBox4..Hint
+msgid "Show vertical error bars."
+msgstr "Mostra as barras de erro verticais."
+
+# "y" em "y-bars" é adjetivo.
+# Então, seguindo a regra, a tradução adequada aqui é "barras-y"
+#. Form14..PageControl1..TabSheet2..GroupBox6..CheckBox4..Caption
+msgid "Show y-bars"
+msgstr "Mostra as barras-y"
+
+# idem
+#. Form14..PageControl1..TabSheet2..GroupBox6..RadioButton5..Hint
+msgid "All error bars are the same percentage of the y-coordinate."
+msgstr "Todas as barras de erro são iguais a um percentual de suas respectivas coordenadas-y"
+
+# fiz a tradução literal
+#. Form14..PopupMenu1..Popup_Cut..Hint
+#. Form17..PopupMenu1..Popup_Cut..Hint
+#. Form6..PopupMenu1..Popup_Cut..Hint
+msgid "Cut the selected text to the clipboard."
+msgstr "Recorta o texto selecionado para a área de transferência."
+
+# idem
+#. Form14..PopupMenu1..Popup_Copy..Hint
+#. Form17..PopupMenu1..Popup_Copy..Hint
+#. Form6..PopupMenu1..Popup_Copy..Hint
+msgid "Copy the selected text to the clipboard."
+msgstr "Copia o texto selecionado para a área de transferência."
+
+# idem (a palavra conteúdo foi utilizada, ao invés de texto, que é o correto)
+#. Form14..PopupMenu1..Popup_Paste....Hint
+#. Form17..PopupMenu1..Popup_Paste....Hint
+msgid "Paste text from the clipboard into the grid. Other cells may be overwritten by the text from the clipboard."
+msgstr "Cola o texto da área de transferência para dentro da grade. Outras células podem ser sobreescritas pelo texto da área de transferência."
+
+#. Form14..PopupMenu1..Popup_Delete..Hint
+#. Form17..PopupMenu1..Popup_Delete..Hint
+msgid "Erase selected cells."
+msgstr "Apaga as células selecionadas."
+
+#. Form14..PopupMenu1..Popup_Insert..Caption
+#. Form17..PopupMenu1..Popup_Insert..Caption
+msgid "Insert row"
+msgstr "Inserir linha"
+
+# "below" aqui é advérbio, e significa "debaixo", "inferiores".
+# linha está no singular
+#. Form14..PopupMenu1..Popup_Insert..Hint
+#. Form17..PopupMenu1..Popup_Insert..Hint
+msgid "Inserts a row in the grid moving rows below one down."
+msgstr "Insere uma linha na grade movendo as linhas inferiores uma linha p/ baixo. "
+
+# acho melhor traduzir "remove" como remover, ou então "excluir" (como se diz no Excel) pois aqui não estamos apagando dados, mas sim, removendo um campo de dados
+#. Form14..PopupMenu1..Popup_Remove..Caption
+#. Form17..PopupMenu1..Popup_Remove..Caption
+msgid "Remove row"
+msgstr "Remover linha"
+
+# idem
+# linha aqui está no plural (rows)
+#. Form14..PopupMenu1..Popup_Remove..Hint
+#. Form17..PopupMenu1..Popup_Remove..Hint
+msgid "Removes the selected rows."
+msgstr "Remove as linhas selecionadas."
+
+#. Form14..PopupMenu1..Popup_Select..Caption
+#. Form15..PopupMenu1..Popup1_Select..Caption
+#. Form17..PopupMenu1..Popup_Select..Caption
+msgid "Select all"
+msgstr "Selecionar tudo"
+
+#. Form14..PopupMenu1..Popup_Select..Hint
+#. Form15..PopupMenu1..Popup1_Select..Hint
+#. Form17..PopupMenu1..Popup_Select..Hint
+msgid "Select all cells."
+msgstr "Seleciona todas as células."
+
+# o pronome aqui, se não me engano, vem ao início (os coloca).
+# Embora o texto original esteja no singular (cell, ao invés de cells), isso certamente é um erro do texto do Ivan Johansen.
+# Aplicar ou inserir me parece uma construção mais comum comum do que colocar (dados nas células)
+#. Form14..PopupMenu1..Popup_Import..Hint
+#. Form17..PopupMenu1..Popup_Import..Hint
+msgid "Import data from a file and place it at the selected cell."
+msgstr "Importa dados de um arquivo e os aplica às células selecionadas."
+
+# problemas de digitação
+#. Form14..PopupMenu1..Popup_Export..Hint
+#. Form17..PopupMenu1..Popup_Export..Hint
+msgid "Export selected data to a file."
+msgstr "Exporta os dados selecionados para um arquivo."
+
+#. Form15..Caption
+msgid "Calculate table"
+msgstr "Calcular tabela"
+
+# Melhor retirar o termo (dx) da tradução.
+# dx, em matemática, se refere a um intervalo infinitesimal, enquanto que delta x (triângulo x) se refere a intervalos maiores.
+# Na janela que se abre quando se vai gera uma tabela, está ali presente delta x, e não dx.
+# Quanto ao termo incremento, verifiquei que o mesmo foi utilizado, mais à frente por vocês, e achei o mesmo bastante adequado, como tradução de passo, em certos casos, de forma que resolvi utilizá-lo aqui.
+#. Form15..Edit3....Hint
+msgid "The step value. This is the difference between two adjoining values in the defined interval."
+msgstr "O valor do incremento. Essa é a diferença entre dois valores adjacentes no intervalo definido."
+
+#. Form15..Edit1..Hint
+msgid "The first x-value in the interval."
+msgstr "O primeiro valor-x do intervalo."
+
+#. Form15..Edit2..Hint
+msgid "The last x-value in the interval."
+msgstr "O último valor-x do intervalo."
+
+#. Form15..PopupMenu1..Popup1_Show1..Caption
+#. Form15..PopupMenu1..Popup1_Show2..Caption
+#. Form15..PopupMenu1..Popup1_Show3..Caption
+#. Form15..PopupMenu1..Popup1_Show4..Caption
+#. Form15..PopupMenu1..Popup1_Show5..Caption
+msgid "Show %s"
+msgstr "Mostra %s"
+
+# o artigo aqui deve ser feminino
+#. Form15..PopupMenu1..Popup1_Show1..Hint
+#. Form15..PopupMenu1..Popup1_Show2..Hint
+#. Form15..PopupMenu1..Popup1_Show3..Hint
+#. Form15..PopupMenu1..Popup1_Show4..Hint
+#. Form15..PopupMenu1..Popup1_Show5..Hint
+msgid "Show the %s column in the table."
+msgstr "Mostra o %s coluna na tabela."
+
+#. Form15..PopupMenu1..Popup1_Copy..Hint
+msgid "Copy selected cells to the clipboard."
+msgstr "Copia as células selecionadas para a área de transferência."
+
+#. Form15..PopupMenu1..Popup1_Export..Hint
+msgid "Saves the selected data to a file."
+msgstr "Salva os dados selecionados para um arquivo."
+
+#. Form15..ProgressForm1..Caption
+msgid "Calculating"
+msgstr "Calculando"
+
+#. Form15..SaveDialog1..Filter
+msgid "CSV (Comma delimited) [*.csv]|*.csv|Text [*.txt]|*.txt"
+msgstr "CSV (Comma delimited) [*.csv]|*.csv|Text [*.txt]|*.txt"
+
+# "shading", conforme já traduzido anteriormente por vocês, é sombreamento.
+#. Form16..Caption
+msgid "Insert shading"
+msgstr "Inserir sombreamento"
+
+# idem
+#. Form16..PageControl1..TabSheet1..Caption
+msgid "Shading"
+msgstr "Sombreamento"
+
+#. Form16..PageControl1..TabSheet1..Panel1..Image1..Hint
+#. Form16..PageControl1..TabSheet1..RadioButton1..Hint
+msgid "Shades the area between the function and the x-axis."
+msgstr "Sombreia a área entre a função e o eixo-x."
+
+#. Form16..PageControl1..TabSheet1..Panel2..Image2..Hint
+#. Form16..PageControl1..TabSheet1..RadioButton2..Hint
+msgid "Shades the area below the function."
+msgstr "Sombreia a área abaixo da função"
+
+#. Form16..PageControl1..TabSheet1..Panel3..Image3..Hint
+#. Form16..PageControl1..TabSheet1..RadioButton3..Hint
+msgid "Shades the area above the function."
+msgstr "Sombreia a área acima da função."
+
+#. Form16..PageControl1..TabSheet1..Panel4..Image4..Hint
+#. Form16..PageControl1..TabSheet1..RadioButton4..Hint
+msgid "Shades the area between the function and the y-axis."
+msgstr "Sombreia a área entre a função e o eixo-y."
+
+#. Form16..PageControl1..TabSheet1..Panel5..Image5..Hint
+#. Form16..PageControl1..TabSheet1..RadioButton5..Hint
+msgid "Shades the area inside the function."
+msgstr "Sombreia a área dentro da função."
+
+# a tradução "em uma", me parece que serra a mais adequada no caso do original estar escrito "in a". Como o original é "in the", então  a tradução literal é "em a" que, contraido, é no nosso conhecido "na"
+#. Form16..PageControl1..TabSheet1..Panel6..Image6....Hint
+#. Form16..PageControl1..TabSheet1..RadioButton6....Hint
+msgid "Shades the area between the main function and the function selected in the list to the right."
+msgstr "Sombreia a área entre a função principal e a função selecionada na lista à direita."
+
+#. Form16..PageControl1..TabSheet1..RadioButton3..Caption
+msgid "Above function"
+msgstr "Acima da função"
+
+#. Form16..PageControl1..TabSheet1..RadioButton1..Caption
+msgid "Between function and x-axis"
+msgstr "Entre a função e o eixo-x"
+
+#. Form16..PageControl1..TabSheet1..RadioButton6..Caption
+msgid "Between functions"
+msgstr "Entre funções"
+
+#. Form16..PageControl1..TabSheet1..RadioButton4..Caption
+msgid "Between function and y-axis"
+msgstr "Entre a função e o eixo-y"
+
+#. Form16..PageControl1..TabSheet1..RadioButton5..Caption
+msgid "Inside function"
+msgstr "Dentro da função"
+
+#. Form16..PageControl1..TabSheet1..RadioButton2..Caption
+msgid "Below function"
+msgstr "Abaixo da função"
+
+#. Form16..PageControl1..TabSheet2..Caption
+#. Form20..Panel2..ToolBar1..ToolButton6..Hint
+#. Form4..Caption
+msgid "Options"
+msgstr "Opções"
+
+# em se tratando da variação da constante, na animação, me parece que o termo "faixa de variação" é mais adequado (a constante aqui varia em passo/incrementos discretos, e não de forma contínua como no caso das funções (onde o termo intervalo é mais adequado)
+#. Form16..PageControl1..TabSheet2..GroupBox1..Caption
+#. Form19..TntGroupBox1..Caption
+msgid "Range"
+msgstr "Faixa de variação"
+
+# o termo coordenda está aqui no singular
+#. Form16..PageControl1..TabSheet2..GroupBox1..Edit1..Hint
+#. Form16..PageControl1..TabSheet3..GroupBox2..Edit3..Hint
+msgid "Coordinate where the shading starts."
+msgstr "Coordenada onde o sombreamento começa."
+
+# idem
+#. Form16..PageControl1..TabSheet2..GroupBox1..Edit2..Hint
+#. Form16..PageControl1..TabSheet3..GroupBox2..Edit4..Hint
+msgid "Coordinate where the shading ends."
+msgstr "Coordenada onde o sombreamento termina."
+
+# "end coordinate" é coordenada final
+#. Form16..PageControl1..TabSheet2..GroupBox1..CheckBox2..Hint
+#. Form16..PageControl1..TabSheet3..GroupBox2..CheckBox4..Hint
+msgid "Check to increase the end coordinate until intersection."
+msgstr "Marque para aumentar o valor da coordenada final até a interseção. "
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..CheckBox2..Caption
+#. Form16..PageControl1..TabSheet3..GroupBox2..CheckBox4..Caption
+msgid "Increase to intersection"
+msgstr "Aumentar até interseção."
+
+# "start coordinate" é coordenada inicial
+#. Form16..PageControl1..TabSheet2..GroupBox1..CheckBox1..Hint
+#. Form16..PageControl1..TabSheet3..GroupBox2..CheckBox3..Hint
+msgid "Check to decrease the start coordinate until intersection."
+msgstr "Marque para diminuir a coordenada inicial até a interseção. "
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..CheckBox1..Caption
+#. Form16..PageControl1..TabSheet3..GroupBox2..CheckBox3..Caption
+msgid "Decrease to intersection"
+msgstr "Diminuir até a interseção."
+
+# faltou a tradução de "used"
+#. Form16..PageControl1..TabSheet2..GroupBox3..ShadeSelect1..Hint
+msgid "Select the style used for the shading."
+msgstr "Seleciona o estilo usado no sombreamento."
+
+# idem
+#. Form16..PageControl1..TabSheet2..GroupBox3..ExtColorBox1..Hint
+msgid "Select color used for shading."
+msgstr "Seleciona a cor usada no sombreamento."
+
+# "em torno" é separado.
+# Destacar é um verbo que pode tanto significar "dar destaque", como "soltar", "separar" (destacado do grupo, destacar as etiquetas, etc.).
+# Então, talvez fosse melhor traduzir "mark" como marcar, realçar, ou assinalar
+#. Form16..PageControl1..TabSheet2..GroupBox3..CheckBox5..Hint
+msgid "Mark the border around the shading."
+msgstr "Realça a borda em torno do sombreamento."
+
+# idem
+#. Form16..PageControl1..TabSheet2..GroupBox3..CheckBox5..Caption
+msgid "Mark border"
+msgstr "Realçar borda"
+
+# mudança de estilo
+#. Form16..PageControl1..TabSheet2..Edit5..Hint
+msgid "Enter a description to show in the legend."
+msgstr "Entre com uma descrição a ser mostrada na legenda."
+
+# 2nd é abreviatura de "second", então, podemos usar aqui 2ª
+#. Form16..PageControl1..TabSheet3..Caption
+msgid "2nd function"
+msgstr "2ª função"
+
+# inserir
+#. Form16..PageControl1..TabSheet3..Label11..Caption
+msgid "2nd function:"
+msgstr "2ª função:"
+
+# acho que aqui não há vírgula, (não tenho certeza)
+# O uso do arquivo "the", por parte do Ivan, está errado: existem várias funções que podem ser selecionadas como UMA segunda função, então é melhor se dizer "selecione uma segunda"
+#. Form16..PageControl1..TabSheet3..ListBox1....Hint
+msgid "Select the second function when you want a shading between two functions."
+msgstr "Selecione uma segunda função quando for desejado um sombreamento entre duas funções."
+
+# vide anterior
+#. Form16..PageControl1..TabSheet3..GroupBox2..Caption
+msgid "Shading range for 2nd function"
+msgstr "Intervalo de sombreamento da 2ª função"
+
+#. Form17..Caption
+msgid "Custom functions/constants"
+msgstr "Funções/constantes personalizadas"
+
+#. Form17..Button3..Caption
+msgid "Apply"
+msgstr "Aplicar"
+
+# O texto do Ivan está com uma ligeira falha: ou se coloca "Nome" e "Definição" (ambos no singular), ou então "'Nomes" e "Definições" (ambos no plural")
+#. Form17..Grid1....TitleCaptions.Strings
+msgid "Names"
+msgstr "Nomes"
+
+# O texto do Ivan está com uma ligeira falha: ou se coloca "Nome" e "Definição" (ambos no singular), ou então "'Nomes" e "Definições" (ambos no plural"
+#. Form17..Grid1....TitleCaptions.Strings
+msgid "Definition"
+msgstr "Definições"
+
+#. Form18..Caption
+msgid "Image options"
+msgstr "Opções da imagem"
+
+#. Form18..PageControl1..TabSheet1..Caption
+msgid "Size"
+msgstr "Tamanho"
+
+#. Form18..PageControl1..TabSheet1..Label1..Caption
+msgid "Image width:"
+msgstr "Largura da imagem:"
+
+#. Form18..PageControl1..TabSheet1..Label2..Caption
+msgid "Image height:"
+msgstr "Altura da imagem:"
+
+# acho que fica melhor inverter a ordem das palavras
+#. Form18..PageControl1..TabSheet1..Edit1..Hint
+msgid "Set a custom image width in pixels."
+msgstr "Define uma largura personalizada para a imagem em pixels ."
+
+# idem
+#. Form18..PageControl1..TabSheet1..Edit2..Hint
+msgid "Set a custom image height in pixels."
+msgstr "Define uma altura personalizada para a imagem em pixels."
+
+# Este balun de ajuda, se não me engano, se refere a dois botões de rádio (redondos), relacionados a duas diferentes opções, quando se salva o arquivo como imagem.
+# A tradução da forma como estava , me pareceu um tanto truncada (já usei este comando, e sei que não é o que estava descrito ali.
+# "to" e "as" podem ser omitidos na tradução
+#. Form18..PageControl1..TabSheet1..RadioGroup3....Hint
+msgid "Choose to use the same size as shown on the screen or a custom image size."
+msgstr "Escolhe usar o mesmo tamanho mostrado na tela ou um tamanho de imagem personalizado."
+
+#. Form18..PageControl1..TabSheet1..RadioGroup3..Caption
+msgid "Image size"
+msgstr "Tamanho da imagem"
+
+# "tamanho da tela" pode passar a falsa idéia de que a imagem será gerada no tamanho máximo do monitor (tela). "tamanho na tela" me pareceu melhor
+#. Form18..PageControl1..TabSheet1..RadioGroup3....Items.Strings
+msgid "Screen size"
+msgstr "Tamanho na tela"
+
+#. Form18..PageControl1..TabSheet1..RadioGroup3....Items.Strings
+msgid "Custom size"
+msgstr "Tamanho personalizado"
+
+# "to encode" significa codificar
+# "rough" significa rude, tosca, grosseira e, por extensão de sentido, aproximada.
+# "viewer" é espectador, mas a utilização deste termo não é comum em nossa língua, nesse caso.
+#. Form18..PageControl1..TabSheet2..RadioGroup1....Hint
+msgid "Progressive encoding allows viewers to see a rough copy of the image while it is downloaded."
+msgstr "A Codificação progressiva permite se visualizar uma cópia grosseira da imagem, enquanto a mesma está sendo baixada."
+
+#. Form18..PageControl1..TabSheet2..RadioGroup1..Caption
+msgid "Encoding"
+msgstr "Codificando"
+
+# aqui a palavra oxítona não tem acento
+#. Form18..PageControl1..TabSheet2..RadioGroup1....Items.Strings
+msgid "Sequential"
+msgstr "Sequencial"
+
+#. Form18..PageControl1..TabSheet2..RadioGroup1....Items.Strings
+msgid "Progressive"
+msgstr "Progressivo"
+
+#. Form18..PageControl1..TabSheet2..GroupBox1..Hint
+msgid "Select a compression quality."
+msgstr "Selecione uma qualidade de compressão."
+
+#. Form18..PageControl1..TabSheet2..GroupBox1..Caption
+msgid "Quality"
+msgstr "Qualidade"
+
+#. Form18..PageControl1..TabSheet3..Label3..Caption
+msgid "Paper size:"
+msgstr "Tamanho do papel:"
+
+# verbo colocado no presente
+#. Form18..PageControl1..TabSheet3..RadioGroup2..Hint
+#. PrintFrm..RadioGroup1..Hint
+msgid "Choose paper orientation."
+msgstr "Escolhe a orientação do papel."
+
+#. Form18..PageControl1..TabSheet3..RadioGroup2..Caption
+#. PrintFrm..RadioGroup1..Caption
+msgid "Orientation"
+msgstr "Orientação"
+
+#. Form18..PageControl1..TabSheet3..RadioGroup2....Items.Strings
+#. PrintFrm..RadioGroup1....Items.Strings
+msgid "Portrait"
+msgstr "Retrato"
+
+#. Form18..PageControl1..TabSheet3..RadioGroup2....Items.Strings
+#. PrintFrm..RadioGroup1....Items.Strings
+msgid "Landscape"
+msgstr "Paisagem"
+
+# faltou a tradução do "use"
+#. Form18..PageControl1..TabSheet3..ComboBox1..Hint
+msgid "Choose paper size to use."
+msgstr "Escolha o tamanho do papel a ser utilizado."
+
+#. Form18..PageControl1..TabSheet3..ComboBox1....Items.Strings
+msgid "Letter"
+msgstr "Carta"
+
+#. Form18..PageControl1..TabSheet3..ComboBox1....Items.Strings
+msgid "Ledger"
+msgstr "Ledger"
+
+#. Form18..PageControl1..TabSheet3..ComboBox1....Items.Strings
+msgid "Legal"
+msgstr "Legal"
+
+# estava escrito estaa (com dois as)
+# Traduzi "select" como selecionar, com vistas à padronização
+#. Form18..CheckBox1..Hint
+#. Form3..CheckBox16..Hint
+msgid "Select this to use these settings as defaults in the future."
+msgstr "Selecione esta opção para usar estas configurações como padrão no futuro."
+
+#. Form18..CheckBox1..Caption
+#. Form3..CheckBox16..Caption
+msgid "Save as default"
+msgstr "Salvar como padrão"
+
+# "animate" é animar
+# "animation" é que é animação.
+#. Form19..Caption
+#. Form19..Button1..Caption
+msgid "Animate"
+msgstr "Animar"
+
+# faltaram os dois pontos aqui
+#. Form19..Label1..Caption
+msgid "Constant:"
+msgstr "Constante:"
+
+# a tradução, embora literal, estava confusa.
+# Aliás, o própriotexto do Ivan não está muito claro (o uso de between, por exemplo). Mudei então o estilo, e fiz uma tradução mais ou menos livre aqui
+#. Form19..ComboBox1..Hint
+msgid "Choose a constant to change between each frame."
+msgstr "Escolha uma constante cujo valor deverá variar a cada quadro."
+
+# "step" aqui está no singular. Resolvi altera para incremento, poiso termo é perfeito aqui, além de ter sido usado mais à frente por vocês para esta mesma palavra (step)
+#. Form19..TntGroupBox1..Label4..Caption
+msgid "Step:"
+msgstr "Incremento:"
+
+# faltou a tradução de "value"
+#. Form19..TntGroupBox1..Edit1..Hint
+msgid "The first value of the constant."
+msgstr "O primeiro valor da constante."
+
+#. Form19..TntGroupBox1..Edit2..Hint
+msgid "The last value of the constant."
+msgstr "O último valor da constante."
+
+# Aqui, novamente uma tradução livre é o mais indicado, com vistas à clareza das explicações.
+# Tradução literal: A constante escolhida é alterada por este valor entre cada quadro.
+# Ser alterada não é muito claro: a constante, por exemplo, é subtraída, dividida, multiplicada ou somada por/ este valor?
+#. Form19..TntGroupBox1..Edit3..Hint
+msgid "The chosen constant is changed by this value between each frame."
+msgstr "A constante escolhida será incrementada deste valor a cada quadro."
+
+# frame = quadro
+#. Form19..TntGroupBox2..Caption
+msgid "Frame options"
+msgstr "Opções de quadro"
+
+# "frame" significa moldura de quadro.
+# No jargão da área de vídeo, esta palavra é traduzida como quadro (fps = frames por segundo = quadros por segundo). Então, podemos traduzí-la aqui sem problemas
+#. Form19..TntGroupBox2..Label5..Caption
+msgid "Frame width:"
+msgstr "Largura do quadro:"
+
+# vide anterior
+#. Form19..TntGroupBox2..Label6..Caption
+msgid "Frame height:"
+msgstr "Altura do quadro:"
+
+# vide anterior
+#. Form19..TntGroupBox2..Label7..Caption
+msgid "Frames/second:"
+msgstr "Quadros/Segundo:"
+
+# vide anterior
+#. Form19..TntGroupBox2..Edit4..Hint
+msgid "Width of each frame, in pixels."
+msgstr "Largura de cada quadro em pixels."
+
+# vide anterior
+#. Form19..TntGroupBox2..Edit5..Hint
+msgid "Height of each frame, in pixels."
+msgstr "Altura de cada quadro em pixels."
+
+# vide anterior
+#. Form19..TntGroupBox2..Edit6..Hint
+msgid "Number of frames per second used when the animation is played."
+msgstr "Número de quadros por segundo utilizado quando a animação é exibida."
+
+#. Form19..ProgressForm1..Caption
+msgid "Working"
+msgstr "Trabalhando"
+
+#. Form2..Panel1..Version..Caption
+msgid "Version %s"
+msgstr "Versão %s"
+
+#. Form2..Panel1..Label3..Caption
+msgid "Build %s"
+msgstr "Build %s"
+
+#. Form2..Panel1..Comments....Caption
+msgid "This is free software, and you are welcome to redistribute it under the terms in the <a href=\"%s\">GNU General Public License</a> version 2. Please send bug reports and suggestions to the programmer."
+msgstr "Este é um software livre, e você está convidado a distribuí-lo sob os termos  da <a href=\"%s\">GNU General Public License</a> versão 2. Por favor, envie sugestões e notifique eventuais erros ao programador."
+
+# "newest" significa "mais nova" ou "mais recente", esta última expressão sendo bastante comum em traduções.
+# acho que "assim como" é uma construção mais comum do que bem como, neste tipo de texto
+#. Form2..Panel1..LinkLabel1....Caption
+msgid "The newest version as well as the source code are available at: %s"
+msgstr "A versão mais recente, assim como o código fonte se encontram disponíveis em: %s"
+
+#. Form2..Panel1..LinkLabel2..Caption
+msgid "Email: %s"
+msgstr "Email: %s"
+
+# Incluí meu nome aqui, e depois você precisa incluir o do André!
+#. Form2..Panel1..LinkLabel3..Caption
+msgid "<Language> translation by <Translator>"
+msgstr "Tradução para o português (Brasil) pela equipe de professores e alunos da Faculdade de Filosofia de Passos (Passos-MG): Prof. Jorge Luís Costa, Profa. Mara Corea Senna, Deivid Rodrigues, Fernanda Fernandes Lyra Gomes e Monalisa H. Vaz.\vRevisão: Aldemar Calazans Filho (menus/dicas)"
+
+# o termo "animation" está aqui no singular
+#. Form20..Caption
+msgid "Animation"
+msgstr "Animação"
+
+# acho que reproduzir é uma tradução melhor para "play", aqui, pois não estamos tratando aqui de áudio (o filme é mudo!).
+# Mesmo em players de áudio conhecidos, como por exemplo o Winamp, este foi o termo escolhido para o botão de "play"
+#. Form20..Panel2..ToolBar1..ToolButton1..Hint
+msgid "Play"
+msgstr "Reproduzir"
+
+#. Form20..Panel2..ToolBar1..ToolButton2..Hint
+msgid "Pause"
+msgstr "Pausar"
+
+#. Form20..Panel2..ToolBar1..ToolButton3..Hint
+msgid "Stop"
+msgstr "Parar"
+
+# verifiquei que o tocador de filmes do Graph usa este botão para voltar um frame para TRÁS mas o efeito não é contínuo (o botão mantido pressionado não faz o filme retornar indefinidamente).
+# Então, ao invés de usar a tradução "Voltar", acho que seria melhor utilizar a palavra "Anterior", semelhante ao utilizado no Windows Media Player
+#. Form20..Panel2..ToolBar1..ToolButton4..Hint
+msgid "Back"
+msgstr "Anterior"
+
+# verifiquei que o tocador de filmes do Graph usa este botão para avançar um frame para FRENTE mas o efeito não é contínuo (o botão mantido pressionado não faz o filme avançar indefinidamente).
+# Então, ao invés de usar a tradução "Avançar", acho que seria melhor utilizar a palavra "Próximo", semelhante ao utilizado no Windows Media Player.
+#. Form20..Panel2..ToolBar1..ToolButton5..Hint
+msgid "Step"
+msgstr "Próximo"
+
+#. Form20..SaveDialog1..Filter
+msgid "Audio Video Interleave [*.avi]|*.avi"
+msgstr "Audio Video Interleave [*.avi]|*.avi"
+
+#. Form20..PopupMenu1..Speed1..Caption
+msgid "Speed"
+msgstr "Velocidade"
+
+# "to change" é alterar
+# "to play" foi traduzido por mim aqui como "reproduzir"
+#. Form20..PopupMenu1..Speed1..N101..Hint
+#. Form20..PopupMenu1..Speed1..N501..Hint
+#. Form20..PopupMenu1..Speed1..N1001..Hint
+#. Form20..PopupMenu1..Speed1..N1501..Hint
+#. Form20..PopupMenu1..Speed1..N2001..Hint
+#. Form20..PopupMenu1..Speed1..N10001..Hint
+msgid "Change the speed used to play the animation."
+msgstr "Altere a velocidade usada para reproduzir a animação."
+
+#. Form20..PopupMenu1..Repeat1..Caption
+msgid "Repeat"
+msgstr "Repetir"
+
+# coloquei o verbo no presente, e alterei o estilo (mais semelhante à literal)
+#. Form20..PopupMenu1..Repeat1..Hint
+msgid "Repeat playing the animation until manually stopped."
+msgstr "Repete a exibição da animação até a mesma ser parada manualmente."
+
+#. Form20..PopupMenu1..Reverse1..Caption
+msgid "Auto reverse"
+msgstr "Auto reverso"
+
+# tradução estava truncada.
+# "most", estando aqui antes de um adjetivo, é advérbio, então o seu significado é semelhante a "mostly" (muitíssimo, sobretudo, principalmente, a maior parte das vezes).
+# O termo mais comum em nossa língua, em expressões detes tipo, me parece ser "particularmente" ou "especialmente"
+#. Form20..PopupMenu1..Reverse1....Hint
+msgid "Play backwards when the end of the animation is reached. This is most useful in combination with the \"Repeat\" command."
+msgstr "Reproduz de trás para frente quando o fim da animação é alcançado. Isso é particularmente útil quando combinado com o comando \"Repetir\"."
+
+#. Form20..PopupMenu1..Save1..Hint
+msgid "Save the animation to a file."
+msgstr "Salva a animação em um arquivo."
+
+# vide anteriores
+#. Form20..PopupMenu1..Saveimageas1..Caption
+msgid "Save frame..."
+msgstr "Salvar quadro..."
+
+# idem
+#. Form20..PopupMenu1..Saveimageas1..Hint
+msgid "Save the shown frame to an image file."
+msgstr "Salvar o quadro mostrado num arquivo de imagem."
+
+# idem
+#. Form20..PopupMenu1..Saveimagesequence1..Caption
+msgid "Save all frames..."
+msgstr "Salvar todos os quadros..."
+
+# se eu não me engano, cabe aqui na tradução a próclise (pronome átono antes do verbo, e não depois).
+# Ex; irá criar, ao invés de criará
+# Também isso, ao invés de isto (preciosismo, concordo)
+# "Salvar como" me parece mais amigável que a tradução "salvar para"
+#. Form20..PopupMenu1..Saveimagesequence1....Hint
+msgid "Save all frames in the animation to image files. This will create as many files as there are frames in the animation."
+msgstr "Salvar todos os quadros da animação como arquivos de imagens. Isso irá criar tantos arquivos quantos forem os quadros da animação."
+
+#. Form21..Label1..Caption
+msgid "Corner:"
+msgstr "Canto:"
+
+# "lock" significa travar
+#. Form21..ComboBox1..Hint
+msgid "Choose which corner of the label should be locked."
+msgstr "Escolha qual canto do rótulo deve ser travado."
+
+# "upper" aqui é adjetivo (superior), e não advérbio (No alto)
+#. Form21..ComboBox1....Items.Strings
+msgid "Upper Left"
+msgstr "Superior esquerdo"
+
+# idem
+#. Form21..ComboBox1....Items.Strings
+msgid "Upper Right"
+msgstr "Superior Direito"
+
+# idem
+# Obs: tradução errada (lower traduzido como alto)
+#. Form21..ComboBox1....Items.Strings
+msgid "Lower Left"
+msgstr "Inferior esquerdo"
+
+# idem
+#. Form21..ComboBox1....Items.Strings
+msgid "Lower Right"
+msgstr "Inferior direito"
+
+# tradução incorreta.
+# Tradução literal: Entre com uma coordenada para travar o rótulo em (ela)
+#. Form21..Edit1..Hint
+#. Form21..Edit2..Hint
+msgid "Enter a coordinate to lock label at."
+msgstr "Entre com a coordenada onde o rótulo deve ser travado."
+
+#. Form22..Caption
+msgid "Python interpreter"
+msgstr "Interpretador Python"
+
+#. Form22..PopupMenu1..Clear1..Caption
+msgid "Clear"
+msgstr "Limpar"
+
+# "Edit" tem sido traduzido até aqui como "editar". Manteve-se este termo, com fins de padronização.
+#. Form3..Caption
+msgid "Edit axes"
+msgstr "Editar eixos"
+
+#. Form3..PageControl1..TabSheet1..Caption
+#. ParFuncFrame..ComboBox1....Items.Strings
+#. PolFuncFrame..ComboBox1....Items.Strings
+#. StdFuncFrame..ComboBox1....Items.Strings
+msgid "x-axis"
+msgstr "eixo-x"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Label1..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..Label5..Caption
+msgid "Minimum:"
+msgstr "Mínimo:"
+
+# estava máximo, ao invés de mínimo
+# A tradução literal é "valor-x", mas o texto da tradução, como feito por vocês, ficou mais claro/menos truncado
+#. Form3..PageControl1..TabSheet1..GridPanel1..Edit1..Hint
+msgid "Minimum x-value."
+msgstr "Valor mínimo para o eixo-x."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Label2..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..Label6..Caption
+msgid "Maximum:"
+msgstr "Máximo:"
+
+# padronizada com a tradução anterior
+#. Form3..PageControl1..TabSheet1..GridPanel1..Edit2..Hint
+msgid "Maximum x-value."
+msgstr "Valor máximo para o eixo-x."
+
+# colocado um espaço entre as palavras
+#. Form3..PageControl1..TabSheet1..GridPanel1..Label3..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..Label7..Caption
+msgid "Tick unit:"
+msgstr "Unid. Marca:"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Edit3..Hint
+msgid "Units between ticks on the x-axis."
+msgstr "Unidades entre as marcas no eixo-x."
+
+# vide anterior
+#. Form3..PageControl1..TabSheet1..GridPanel1..Label14..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..Label9..Caption
+msgid "Grid unit:"
+msgstr "Unid. Grade:"
+
+# removido um espaço a mais colocado antes da palavra eixo-x
+#. Form3..PageControl1..TabSheet1..GridPanel1..Edit4..Hint
+msgid "Units between the grid lines perpendicular to the x-axis."
+msgstr "Unidades entre as linhas de grade perpendiculares ao eixo-x."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox4..Hint
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox11..Hint
+msgid "Determine the tick unit automatically."
+msgstr "Determina a unidade das marcas automaticamente."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox4..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox11..Caption
+msgid "Auto tick"
+msgstr "Auto marcas"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox6..Hint
+msgid "Show tick marks on the x-axis."
+msgstr "Mostra as marcas no eixo-x"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox6..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox13..Caption
+msgid "Show ticks"
+msgstr "Mostrar marcas"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox5..Hint
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox12..Hint
+msgid "Set the grid unit to the same as the tick unit."
+msgstr "Ajusta a unidade da grade ultilizando a mesma unidade das marcas."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox5..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox12..Caption
+msgid "Auto grid"
+msgstr "Auto grade"
+
+# linhas deve estar no plural
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox7..Hint
+msgid "Show vertical grid lines."
+msgstr "Mostra as linhas de grade vertical."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox7..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox14..Caption
+msgid "Show grid"
+msgstr "Mostrar grade"
+
+# faltou artigo "o" ao início
+# "graphing area " foi traduzido por vocês mais à frente como "área de plotagem", de forma que resolvi utilizar o termo aqui também
+# "above" é acima, e não abaixo
+#. Form3..PageControl1..TabSheet1..GridPanel1..Panel1..CheckBox3....Hint
+msgid "Show the label at the right side of the graphing area, above the x-axis."
+msgstr "Mostra o rótulo no lado direito da área de plotagem, acima do eixo-x."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Panel1..CheckBox3..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..Panel3..CheckBox10..Caption
+msgid "Label:"
+msgstr "Rótulo:"
+
+# palavra aqui colocada ao final (fica melhor e mais sparecido com o texto original)
+# "edit', por uma questão de padronização, traduzido como editar
+# eixo está no sigular (axis, e não axes)
+# Parece que Ivan usou a preposição errada (for, ao invés de of) no texto original
+#. Form3..PageControl1..TabSheet1..GridPanel1..Panel1..Edit5..Hint
+#. Form3..PageControl1..TabSheet2..GridPanel2..Panel3..Edit11..Hint
+msgid "Edit the label for the axis here."
+msgstr "Edite o rótulo do eixo aqui."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Panel2..Label4..Caption
+msgid "The x-axis cross at y="
+msgstr "O eixo-x cruza em y="
+
+# traduzi "intercept" como interceptará.
+# É melhor traduzir "value" como valor, pois ponto implica dois valores (um x e outro y), enquanto que valor implica que x=0 e y = o valor em questão
+#. Form3..PageControl1..TabSheet1..GridPanel1..Panel2..Edit6..Hint
+msgid "The x-axis will intersect with the y-axis at this value."
+msgstr "O eixo-x interceptará o eixo-y neste valor."
+
+# tempo verbal alterado
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox1..Hint
+msgid "Use logarithmic scale on the x-axis."
+msgstr "Utiliza escala logaritimica no eixo-x."
+
+# acento no i e t mudo
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox1..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox8..Caption
+msgid "Logarithmic scale"
+msgstr "Escala Logarítmica"
+
+# units = unidades
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox2..Hint
+msgid "Show units on the x-axis."
+msgstr "Mostra unidades no eixo-x."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox2..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox9..Caption
+msgid "Show numbers"
+msgstr "Mostrar números"
+
+# "multiplied" é multiplicada.
+# "multiple" é que significa múltiplo.
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox17..Hint
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox18..Hint
+msgid "Show units on the selected axis as a fraction multiplied by pi."
+msgstr "Mostra as unidades no eixo selecionado como frações multiplicadas por pi."
+
+# faltou o acento de múltiplos
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox17..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox18..Caption
+msgid "Show as a multiple of π"
+msgstr "Mostrar como múltiplos de π"
+
+#. Form3..PageControl1..TabSheet2..Caption
+#. ParFuncFrame..ComboBox1....Items.Strings
+#. PolFuncFrame..ComboBox1....Items.Strings
+msgid "y-axis"
+msgstr "eixo-y"
+
+# padronizado com a tradução anterior, do eixo-x
+#. Form3..PageControl1..TabSheet2..GridPanel2..Edit7..Hint
+msgid "Minimum y-value."
+msgstr "Valor mínimo para o eixo-y."
+
+# idem
+#. Form3..PageControl1..TabSheet2..GridPanel2..Edit8..Hint
+msgid "Maximum y-value."
+msgstr "Valor máximo para o eixo-y."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Edit9..Hint
+msgid "Units between ticks on the y-axis."
+msgstr "Unidades entre as marcas no eixo-y."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Edit10..Hint
+msgid "Units between the grid lines perpendicular to the y-axis."
+msgstr "Unidades entre as linhas de grade perpendiculares ao eixo-y."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox13..Hint
+msgid "Show tick marks on the y-axis."
+msgstr "Mostra marcas no eixo-y"
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox14..Hint
+msgid "Show horizontal grid lines."
+msgstr "Mostra as linhas de grade horizontal."
+
+# padronização com tradução anterior
+#. Form3..PageControl1..TabSheet2..GridPanel2..Panel3..CheckBox10....Hint
+msgid "Show the label at the top of the graphing area, to the right of the y-axis."
+msgstr "Mostra o rótulo no topo da área de plotagem, à direita do eixo-y."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Panel4..Label8..Caption
+msgid "The y-axis cross at x="
+msgstr "O eixo-y cruza em x="
+
+# padronizar com tradução anterior
+#. Form3..PageControl1..TabSheet2..GridPanel2..Panel4..Edit12..Hint
+msgid "The y-axis will intersect with the x-axis at this value."
+msgstr "O eixo-y interceptará o eixo-x neste valor."
+
+# acento em logarítmica
+# o t é mudo
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox8..Hint
+msgid "Use logarithmic scale for the y-axis."
+msgstr "Utiliza escala logarítmica no eixo-y."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox9..Hint
+msgid "Show units on the y-axis."
+msgstr "Mostra unidades no eixo-y."
+
+#. Form3..PageControl1..TabSheet3..Caption
+msgid "Settings"
+msgstr "Configurações"
+
+#. Form3..PageControl1..TabSheet3..Label16..Caption
+msgid "Title:"
+msgstr "Título:"
+
+# tradução estava incorreta
+# Foi feita uma tradução livre aqui, omitindo-se algumas palavras, para fins de clareza
+#. Form3..PageControl1..TabSheet3..RadioGroup1....Hint
+msgid "Choose if you want to show the axes, and if you want to show them crossed or at the left and bottom of the image."
+msgstr "Escolhe se os eixos serão mostrados, e se os mesmos deverão ser cruzados ou mostrados à esquerda e embaixo na imagem."
+
+# faltou a palavra "dos"
+#. Form3..PageControl1..TabSheet3..RadioGroup1..Caption
+msgid "Axes style"
+msgstr "Estilo dos eixos"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup1....Items.Strings
+msgid "None"
+msgstr "Nenhum"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup1....Items.Strings
+msgid "Crossed"
+msgstr "Cruzado"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup1....Items.Strings
+msgid "Boxed"
+msgstr "Caixa"
+
+# o tempo do verbo aqui (should calcute) está no presente
+#. Form3..PageControl1..TabSheet3..RadioGroup2....Hint
+msgid "Choose if trigonometric functions should calculate in radians or degrees."
+msgstr "Escolhe se as funções trigonométricas irão fazer o cálculo em radianos ou em graus."
+
+#. Form3..PageControl1..TabSheet3..RadioGroup2..Caption
+msgid "Trigonometry"
+msgstr "Trigonometria"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup2....Items.Strings
+msgid "Radian"
+msgstr "Radianos"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup2....Items.Strings
+msgid "Degree"
+msgstr "Graus"
+
+# "coordinate system" traduzido literalmente
+#. Form3..PageControl1..TabSheet3..Edit13..Hint
+msgid "Enter a title to show above the coordinate system."
+msgstr "Entre com um título a ser mostrado acima do sistema de coordenadas"
+
+#. Form3..PageControl1..TabSheet3..BitBtn1..Hint
+msgid "Select the font for the title."
+msgstr "Seleciona a fonte para o título."
+
+# "escolha" alterado para escolhe
+#. Form3..PageControl1..TabSheet3..RadioGroup3..Hint
+msgid "Choose where the legend should be placed."
+msgstr "Escolhe onde a legenda será posicionada."
+
+#. Form3..PageControl1..TabSheet3..RadioGroup3..Caption
+msgid "Legend placement"
+msgstr "Posição da legenda"
+
+# correções nos tempos, etc.
+# complexo estava no singular
+#. Form3..PageControl1..TabSheet3..CheckBox19....Hint
+msgid "Check this to use complex numbers for calculations. Notice that this will slow graphing down."
+msgstr "Marque esta opção para usar números complexos nos cálculos. Observe que isso irá diminuir a velocidade da representação gráfica."
+
+# "numbers" ficou sem ser traduzido
+#. Form3..PageControl1..TabSheet3..CheckBox19..Caption
+msgid "Calculate with complex numbers"
+msgstr "Calcular com números complexos "
+
+#. Form3..PageControl1..TabSheet4..Caption
+msgid "Font and color"
+msgstr "Fonte e cor"
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..Caption
+msgid "Colors"
+msgstr "Cor"
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..Label17..Caption
+msgid "Grid color:"
+msgstr "Cor da grade:"
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..Label18..Caption
+msgid "Axes color:"
+msgstr "Cor dos eixos:"
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..Label19..Caption
+#. Form6..Label4..Caption
+msgid "Background color:"
+msgstr "Cor do fundo:"
+
+# acho que não há necessidade de complementação do texto aqui, com planos cartesiano (o comando é bem óbvio)
+#. Form3..PageControl1..TabSheet4..GroupBox3..ExtColorBox1..Hint
+msgid "Select the color of the image background."
+msgstr "Escolhe a cor de fundo do gráfico."
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..ExtColorBox2..Hint
+msgid "Select the color of the axes."
+msgstr "Seleciona a cor dos eixos."
+
+# o texto está no plural.
+# Traduzi "select" aqui como selecionar
+#. Form3..PageControl1..TabSheet4..GroupBox3..ExtColorBox3..Hint
+msgid "Select the color of the grid lines."
+msgstr "Seleciona a cor das linhas de grade."
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..Caption
+msgid "Fonts"
+msgstr "Fontes"
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..Label20..Caption
+msgid "Number font:"
+msgstr "Fonte dos Números"
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..Label21..Caption
+msgid "Label font:"
+msgstr "Fonte do rótulo:"
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..Label10..Caption
+msgid "Legend font:"
+msgstr "Fonte da legenda:"
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..BitBtn2..Hint
+msgid "Select the font used to show the labels on the axes."
+msgstr "Seleciona a fonte a ser usada nos rótulos dos eixos."
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..BitBtn3..Hint
+msgid "Select the font used to show the numbers on the axes."
+msgstr "Seleciona a fonte a ser usada nos números dos eixos."
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..BitBtn4..Hint
+msgid "Select the font used to show the legend text."
+msgstr "Seleciona a fonte a ser usada nos textos da legenda."
+
+#. Form4..GridPanelEx1..Label1..Caption
+msgid "Decimals:"
+msgstr "Decimais:"
+
+# tradução estava um pouco estranha.
+# Alterei, porém, mantive a palavra máximo (embora seja um atradução livre), pois é isso realmente que acontece: quando o número é inteiro, o Graph não mostra casa decimal alguma. O nímero escolhido, portanto, é um número máximo (e não fixo) de cas que PODEM ser mostradas.
+#. Form4..GridPanelEx1..Panel1..Edit1..Hint
+msgid "Number of decimals used when results are shown."
+msgstr "Número máximo de casas decimais empregadas quando os resultados são mostrados."
+
+# o "os" é dispensável"
+#. Form4..GridPanelEx1..RadioGroup1..Hint
+msgid "Format used when complex numbers are shown."
+msgstr "Formato usado quando números complexos são exibidos."
+
+#. Form4..GridPanelEx1..RadioGroup1..Caption
+msgid "Complex form"
+msgstr "Formato complexo"
+
+#. Form4..GridPanelEx1..RadioGroup1....Items.Strings
+msgid "Real"
+msgstr "Real"
+
+# retangular estava incorretamente com acento circunflexo
+#. Form4..GridPanelEx1..RadioGroup1....Items.Strings
+msgid "Rectangular"
+msgstr "Retangular"
+
+#. Form4..GridPanelEx1..Label2..Caption
+msgid "Recent files:"
+msgstr "Arquivos recentes:"
+
+# "recent used" significa "recentemente usados" (no Windows, o equivalente a esta lista, no menu iniciar, usa a expressão "recentemente acessados"
+# O tetxo do Ivan não está muito bom, é melhor eliminar "mais" (most") da tradução, e aklterar um pouco o tempo verbal
+#. Form4..GridPanelEx1..Panel2..Edit2..Hint
+msgid "The number of most recent used files shown in the File menu."
+msgstr "Número de arquivos recentemente usados a serem mostrados no menu Arquivo. "
+
+#. Form4..GridPanelEx1..Label3..Caption
+msgid "Max undo steps:"
+msgstr "Máx. desfazer:"
+
+# "step" significa aqui "ação praticada"
+# Achei melhor colocar "este recurso", para p texto não ficar redundante.
+# Ajustar para 0 fica meio estranho, troquei para selecionar 0
+#. Form4..GridPanelEx1..Panel3..Edit3....Hint
+msgid "Maximum number of undo steps saved. Set this to 0 to prevent undo."
+msgstr "Número máximo de ações de desfazer salvas. Selecionar 0 desabilita esse recurso."
+
+#. Form4..GridPanelEx1..Label5..Caption
+msgid "Font scale:"
+msgstr "Escala da fonte:"
+
+# "this" pode ser omitido na tradução
+# "to scale" não possui um correspondente adequado em português (escalar não possui este mesmo sentido, em nosa língua).
+# "If" aqui tem o sentido de "caso", "supondo que"
+#. Form4..GridPanelEx1..ComboBox1....Hint
+msgid "This is used to scale the user interface if you are having problems reading the text."
+msgstr "Utilizado para ajustar a escala da interface do usuário, caso você tenha problemas com a leitura dos textos."
+
+#. Form4..GridPanelEx1..Label4..Caption
+msgid "Language:"
+msgstr "Idioma:"
+
+#. Form4..GridPanelEx1..ComboBox2..Hint
+msgid "Select the language to use for the user interface."
+msgstr "Seleciona o idioma a ser usado na interface do usuário."
+
+# "tool" significa ferramenta
+# "tooltip" me parece que seria melhor traduzido como "dica da ferramenta"
+# No microsoft Word, isto é chamado de "dicas de tela" (nome um tanto vago)
+# posicionado é uma liberdade que tomei nesa tradução
+#. Form4..GridPanelEx1..CheckBox2..Hint
+msgid "Show the tooltip when the cursor is over an item."
+msgstr "Mostra a dica da ferramenta quando o cursor está posicionado sobre um item."
+
+# dicas é um nome genérico. Por exemplo, o Graph tem as chamadas "dicas do dia", que não tem nada a ver com estas dicas na forma de baluns.
+# Então, achei melhor traduzir tooltip(s) como "dicas de ferramentas"
+#. Form4..GridPanelEx1..CheckBox2..Caption
+msgid "Show tooltip"
+msgstr "Mostrar dicas de ferramentas"
+
+# A construção verbal aqui é um presente com sentido de futuro (next time...).
+# Então, pode ser feita a tradução com os verbos no futuro.
+# "run" pode significar "fazer funcionar", que é equivalente a "acionar", etc.
+#. Form4..GridPanelEx1..CheckBox3....Hint
+msgid "Save the size of the main window when the program exits. This is used the next time Graph is run."
+msgstr "Salva o tamanho da janela principal quando o programa é encerrado. Esse valor será usado na próxima vez que o Graph for iniciado."
+
+#. Form4..GridPanelEx1..CheckBox3..Caption
+msgid "Save workspace on exit"
+msgstr "Salva área de trabalho ao sair"
+
+# o texto estava um pouco estranho
+#. Form4..GridPanelEx1..CheckBox4....Hint
+msgid "If checked the program will contact a web server when the program is started to see if a newer version is available."
+msgstr "Se marcado, o programa irá contatar um servidor de web quando for iniciado para verificar se uma versão mais nova se encontra disponível. "
+
+#. Form4..GridPanelEx1..CheckBox4..Caption
+msgid "Check for new version of Graph at startup"
+msgstr "Procura por nova versão do Graph ao iniciar"
+
+# separador de decimais é mais exato
+# Obs: me parece que o texto foi trocado: há um outro texto duas linhas abaixo (não utilizado) que explica que se trata apenas da exportação de dados. Esta informação não utilizada é, em verdade, a mais relevante de todas, de forma resolvi adicioná-la nesta ajuda
+#. Form4..GridPanelEx1..CheckBox5....Hint
+msgid "Use a custom decimal separator instead of the default from the Windows Regional settings."
+msgstr "Usa um separador de decimais personalizado, em vez do padrão das configurações regionais do Windows, na exportação de dados para outros programas."
+
+# separador de decimais é mais exato
+#. Form4..GridPanelEx1..CheckBox5..Caption
+msgid "Custom decimal separator:"
+msgstr "Separador de decimais personalizado:"
+
+#. Form4..GridPanelEx1..Edit4..Hint
+msgid "Decimal separator used when exporting to other programs."
+msgstr "Separador decimal usado quando for exportar para outros programas."
+
+#. Form5..Caption
+msgid "Insert function"
+msgstr "Inserir função"
+
+#. Form5..Label1..Caption
+msgid "Function type:"
+msgstr "Tipo de função:"
+
+# "to graph" significa "representar graficamente"
+#. Form5..ComboBox1..Hint
+msgid "Select the function type to graph."
+msgstr "Seleciona o tipo de função a ser representada graficamente."
+
+#. Form5..ComboBox1....Items.Strings
+msgid "Standard function   y=f(x)"
+msgstr "Função padrão  y=f(x)"
+
+#. Form5..ComboBox1....Items.Strings
+msgid "Parametric function x(t), y(t)"
+msgstr "Função paramétrica      x(t), y(t)"
+
+#. Form5..ComboBox1....Items.Strings
+msgid "Polar function         r=f(t)"
+msgstr "Função polar        r=f(t)"
+
+# tradução incompleta
+#. Form5..GroupBox1..Caption
+msgid "Function equation"
+msgstr "Equação da função"
+
+#. Form5..GroupBox2..Label6..Caption
+msgid "Steps:"
+msgstr "Passos:"
+
+# "passos de cálculo éa expressão ais correta"
+# Traçar acho que fica melhor que desenhar (é um termo mais específico)
+#. Form5..GroupBox2..Edit5..Hint
+msgid "Number of calculation steps used to draw the graph."
+msgstr "Número de passos de cálculo utilizados para traçar o gráfico."
+
+# "to draw" como verbo significa traçar; como substativo "traçado", significando o ato de traçar (por isso o de, e não do)
+#. Form5..GroupBox4..GridPanelEx1..Label13..Caption
+msgid "Draw type:"
+msgstr "Tipo de traçado:"
+
+# linhas está no plural
+# "pontos calculados" é uma forma mais correta de exprimir o que acontece: se o Graph calculasse uma infinidade de pontos, não haveria necessidade de se definir o tipo de traçado. No entanto, este número de pontos calculados é limitado, então, é necessário se fazer uma interligação entre eles, para simular a continuidade da curva
+# Como em português não é comum se diferenciar "dot" (pinta, mancha) de "point" (ponto significando uma coordenada), fiz a tradução livre usando "valor calculado"
+# Me parece também que Ivan esqueceu das aspas aqui
+#. Form5..GroupBox4..GridPanelEx1..ComboBox4....Hint
+msgid "Choose Lines if you want the calculated points for the graph to be connected. Choose Dots if you only want to show a dot at each point."
+msgstr "Escolha \"Linhas\" se você quiser que os pontos calculados para o gráfico sejam interligados. Escolha \"Pontos\" se você quiser apenas mostrar um ponto para cada valor calculado. "
+
+#. Form5..GroupBox4..GridPanelEx1..ComboBox4..Text
+#. Form5..GroupBox4..GridPanelEx1..ComboBox4....Items.Strings
+msgid "Automatic"
+msgstr "Automático"
+
+#. Form5..GroupBox4..GridPanelEx1..ComboBox4....Items.Strings
+msgid "Dots"
+msgstr "Pontos"
+
+#. Form5..GroupBox4..GridPanelEx1..ComboBox4....Items.Strings
+msgid "Lines"
+msgstr "Linhas"
+
+# tradução incompleta
+#. Form6..Caption
+msgid "Insert text label"
+msgstr "Inserir rótulo de texto"
+
+# tradução incompleta
+#. Form6..Label1..Caption
+msgid "Font name:"
+msgstr "Nome da fonte:"
+
+#. Form6..Label2..Caption
+msgid "Font size:"
+msgstr "Tam. fonte:"
+
+# idem
+#. Form6..Label3..Caption
+msgid "Font color:"
+msgstr "Cor da fonte:"
+
+#. Form6..ComboBox1..Hint
+msgid "Text size."
+msgstr "Tamanho do texto."
+
+#. Form6..GroupBox1..Caption
+msgid "Text string"
+msgstr "Texto"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton11..Hint
+msgid "Insert symbol (Ctrl+G)"
+msgstr "Inserir símbolo (Ctrl+G)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton13..Hint
+msgid "Insert object."
+msgstr "Inserir objeto."
+
+#. Form6..GroupBox1..ToolBar1..ToolButton1..Hint
+msgid "Bold (Ctrl+B)"
+msgstr "Negrito (Ctrl-B)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton2..Hint
+msgid "Italic (Ctrl+I)"
+msgstr "Itálico (Ctrl-I)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton3..Hint
+msgid "Underline (Ctrl+U)"
+msgstr "Sublinhado (Ctrl-U)"
+
+# A princípio, achei melhor usar aqui a mesma terminologoa usda no Microsoft Word, a saber, "tachado" (acho que as pessoas que digitam textos estão mais acostuamdas com esta terminologia).
+# No entanto, existe uma biblioteca do Windows que é usada quando do ajuste de fonte, e lá aparece escrito "Riscado", de forma que fui obrigado a retornar a usar este termo.
+#. Form6..GroupBox1..ToolBar1..ToolButton4..Hint
+msgid "Strikethrough (Ctrl+S)"
+msgstr "Riscado (Ctrl-S)"
+
+# idem
+#. Form6..GroupBox1..ToolBar1..ToolButton9..Hint
+msgid "Superscript (Ctrl++)"
+msgstr "Sobrescrito (Ctrl++)"
+
+# idem
+#. Form6..GroupBox1..ToolBar1..ToolButton10..Hint
+msgid "Subscript (Ctrl+=)"
+msgstr "Subscrito (Ctrl+=)"
+
+# "align" aqui é verbo
+# vide também padrão do Word
+#. Form6..GroupBox1..ToolBar1..ToolButton5..Hint
+msgid "Align left (Ctrl+L)"
+msgstr "Alinhar à esquerda (Ctrl-L)"
+
+# idem
+#. Form6..GroupBox1..ToolBar1..ToolButton6..Hint
+msgid "Center (Ctrl+E)"
+msgstr "Centralizar (Ctrl-E)"
+
+# idem
+#. Form6..GroupBox1..ToolBar1..ToolButton7..Hint
+msgid "Align right (Ctrl+R)"
+msgstr "Alinhar à direita (Ctrl-R)"
+
+#. Form6..IFontBox1..Hint
+msgid "Text font."
+msgstr "Fonte do texto."
+
+#. Form6..ColorBox1..Hint
+msgid "Text color."
+msgstr "Cor do texto."
+
+# tradução incorreta (título)
+# select foi omitido da tradução, com fins de padronização com os outros menus
+#. Form6..ColorBox2..Hint
+msgid "Select background color of the text label."
+msgstr "Cor de fundo do rótulo de texto."
+
+#. Form6..ColorBox2..DefaultName
+msgid "Transparent"
+msgstr "Transparente"
+
+#. Form6..PopupMenu1..Popup_Undo..Hint
+msgid "Undo last action."
+msgstr "Desfazer a última ação."
+
+#. Form6..PopupMenu1..Popup_Redo..Hint
+msgid "Redo last undone action."
+msgstr "Refazer a última ação desfeita."
+
+#. Form6..PopupMenu1..Popup_Paste..Hint
+msgid "Paste the contents of the clipboard."
+msgstr "Cola o conteúdo da área de transferência."
+
+#. Form6..PopupMenu1..Popup_PasteSpecial..Caption
+msgid "Paste special..."
+msgstr "Colar especial..."
+
+# tradução incorreta
+#. Form6..PopupMenu1..Popup_PasteSpecial..Hint
+msgid "Select which clipboard representation you want to paste."
+msgstr "Seleciona qual representação da área de transferência se deseja colar."
+
+#. Form6..PopupMenu1..Popup_InsertObject..Caption
+msgid "Insert object..."
+msgstr "Inserir objeto..."
+
+# coloquei no infinitivo
+#. Form6..PopupMenu1..Popup_InsertObject..Hint
+msgid "Create a new OLE object."
+msgstr "Criar um novo objeto OLE."
+
+#. Form6..PopupMenu1..Popup_EditObject..Caption
+msgid "Edit object"
+msgstr "Alterar objeto"
+
+# padronização da tradução
+#. Form6..PopupMenu1..Popup_EditObject..Hint
+msgid "Edit selected OLE object."
+msgstr "Editar o objeto OLE selecionado."
+
+#. Form7..Caption
+msgid "Insert f'(x)"
+msgstr "Inserir f'(x)"
+
+#. Form8..Label1..Caption
+#. PrintFrm..GroupBox1..Label1..Caption
+msgid "Name:"
+msgstr "Nome:"
+
+#. Form8..ValueListEditor1....TitleCaptions.Strings
+msgid "Constant"
+msgstr "Constante"
+
+#. Form8..ValueListEditor1....TitleCaptions.Strings
+msgid "Value"
+msgstr "Valor"
+
+# calcular, e não cálculo
+#. Form9..Label1..Caption
+msgid "Select a function or tangent to evaluate."
+msgstr "Selecione uma função ou tangente para calcular."
+
+# "posicionado" é mais comum, em se tratando deste tipo de informação
+#. Form9..PolFuncFrame1....Hint
+#. ParFuncFrame..ComboBox1....Hint
+#. StdFuncFrame..ComboBox1....Hint
+msgid "Select where the cursor will be placed when you click on the image."
+msgstr "Selecione onde o cursor será posicionado quando você clicar sobre a imagem."
+
+# "the graph itself" é o próprio gráfico
+#. AreaFrame..GridPanel1..Panel1..Edit1....Hint
+msgid "Enter the start coordinate or mark the range on the graph itself with the mouse."
+msgstr "Entre com a coordenada inicial ou marque o intervalo no próprio gráfico com o mouse."
+
+# idem
+#. AreaFrame..GridPanel1..Panel2..Edit2....Hint
+msgid "Enter the end coordinate or mark the range on the graph itself with the mouse."
+msgstr "Entre com a coordenada final ou marque o intervalo no próprio gráfico com o mouse."
+
+# "snap" significa se mover de forma rápida e inteligente, em direção a alguma coisa (vide definições de dicionário). No caso, a coisa aqui são pontos especiais dentro da curva,  ou um percurso por toda ela).
+# Me parece que não temos um termo equivalente a este (os espanhóis usaram a a expressão "ver em").
+# A palavra mais próxima, condizente com a função, seria "mover" ou "mover-se"
+#. ParFuncFrame..Label7..Caption
+#. PolFuncFrame..Label7..Caption
+#. StdFuncFrame..Label5..Caption
+msgid "Snap to:"
+msgstr "Mover p/:"
+
+#. ParFuncFrame..Edit2..Hint
+msgid "The x-coordinate evaluated for the t-parameter."
+msgstr "A coordenada-x calculada para o parâmetro-t."
+
+#. ParFuncFrame..Edit3..Hint
+msgid "The y-coordinate evaluated for the t-parameter."
+msgstr "A coordenada-y calculada para o parâmetro-t."
+
+# faltou a tradução de "entered"
+#. ParFuncFrame..Edit4..Hint
+msgid "The derivative of x(t) evaluated for the entered t-parameter."
+msgstr "A derivada de x(t) calculada para o parâmetro-t informado."
+
+# idem
+#. ParFuncFrame..Edit5..Hint
+msgid "The derivative of y(t) evaluated for the entered t-parameter."
+msgstr "A derivada de y(t) calculada para o parâmetro-t informado."
+
+# idem
+#. ParFuncFrame..Edit6..Hint
+msgid "The slope of the function evaluated for the entered t-parameter."
+msgstr "A inclinação da função calculada para o parâmetro-t informado."
+
+# estava truncado
+#. ParFuncFrame..Edit1....Hint
+msgid "Enter the value for the parameter t for which you want to evaluate the function, or click on the graph in the graphing area."
+msgstr "Entre com o valor do parâmetro t para o qual você deseja calcular a função, ou clique no gráfico na área de plotagem."
+
+#. ParFuncFrame..ComboBox1....Items.Strings
+#. PolFuncFrame..ComboBox1....Items.Strings
+#. StdFuncFrame..ComboBox1....Items.Strings
+msgid "Intersection"
+msgstr "Interseção"
+
+# o x estava no lugar errado
+#. ParFuncFrame..ComboBox1....Items.Strings
+#. PolFuncFrame..ComboBox1....Items.Strings
+msgid "Extreme x-value"
+msgstr "Valor-x extremo"
+
+# idem
+#. ParFuncFrame..ComboBox1....Items.Strings
+#. PolFuncFrame..ComboBox1....Items.Strings
+#. StdFuncFrame..ComboBox1....Items.Strings
+msgid "Extreme y-value"
+msgstr "Valor-y extremo"
+
+# "to" aqui significa "de" (pertencimento), e não "para", que é a tradução mais comum (vide definições de dicionário)
+#. PolFuncFrame..Edit2..Hint
+msgid "The distance to the function evaluated for the given angle."
+msgstr "A distância da função calculada para o ângulo dado."
+
+#. PolFuncFrame..Edit3..Hint
+msgid "The x-coordinate evaluated for the given angle."
+msgstr "A coordenada-x calculada para o ângulo dado."
+
+#. PolFuncFrame..Edit4..Hint
+msgid "The y-coordinate evaluated for the given angle."
+msgstr "A coordenada-y calculada para o ângulo dado."
+
+#. PolFuncFrame..Edit5..Hint
+msgid "The derivative of the function evaluated for the given angle."
+msgstr "A derivada da função calculada para o ângulo dado."
+
+#. PolFuncFrame..Edit6..Hint
+msgid "The slope of the function evaluated for the given angle."
+msgstr "A inclinação da função calculada para o ângulo dado."
+
+#. PolFuncFrame..Edit1....Hint
+msgid "Enter the value of the polar angle for which you want to evaluate the function, or click on the graph in the graphing area."
+msgstr "Entre com o valor do ângulo polar para o qual você deseja calcular a função, ou clique no gráfico na área de plotagem."
+
+# "um" valor, e não "o"
+#. StdFuncFrame..Edit1....Hint
+msgid "Enter a value for which you want to evaluate the function, or click on the graph in the graphing area."
+msgstr "Entre com o valor para o qual você deseja calcular a função, ou clique no gráfico na área de plotagem."
+
+# correção de gêneros
+#. StdFuncFrame..Edit2..Hint
+msgid "This is the function evaluated for the entered x-value."
+msgstr "Esta é a função calculada para o valor-x informado."
+
+# sem vírgula, conforma linha de cima (padronização)
+#. StdFuncFrame..Edit3....Hint
+msgid "This is the first derivative of the function evaluated for the entered value."
+msgstr "Esta é a derivada primeira da função calculada para o valor informado."
+
+# idem
+#. StdFuncFrame..Edit4....Hint
+msgid "This is the second derivative of the function evaluated for the entered value."
+msgstr "Esta é a derivada segunda da função calculada para o valor informado."
+
+# esta
+#. TanFrame..Edit2....Hint
+msgid "This is the y-coordinate corresponding to the entered x-coordinate."
+msgstr "Esta é a coordenada-y correspondente à coordenada-x informada."
+
+# erro de digitação em plotagem
+#. TanFrame..Edit1..Hint
+msgid "Enter an x-coordinate or click in the graphing area."
+msgstr "Entre com uma coordenada-x ou clique na área de plotagem."
+
+msgid "Error"
+msgstr "Erro"
+
+msgid "Error %s"
+msgstr "Erro %s"
+
+msgid "Length"
+msgstr "Comprimento"
+
+msgid "Degrees"
+msgstr "Graus"
+
+msgid "Label"
+msgstr "Rótulo"
+
+msgid "%s-error"
+msgstr "%s-erro"
+
+msgid "Axes"
+msgstr "Eixos"
+
+msgid "Ctrl"
+msgstr "Ctrl"
+
+msgid "Alt"
+msgstr "Alt"
+
+msgid "Shift"
+msgstr "Shift"
+
+msgid "Del"
+msgstr "Del"
+
+msgid "Ins"
+msgstr "Ins"
+
+msgid "Home"
+msgstr "Home"
+
+msgid "End"
+msgstr "End"
+
+msgid "PgUp"
+msgstr "PgUp"
+
+msgid "PgDn"
+msgstr "PgDn"
+
+msgid "Up"
+msgstr "Up"
+
+msgid "Down"
+msgstr "Down"
+
+msgid "Esc"
+msgstr "Esc"
+
+msgid "Enter"
+msgstr "Enter"
+
+msgid "Tab"
+msgstr "Tab"
+
+msgid "BkSp"
+msgstr "BkSp"
+
+msgid "Space"
+msgstr "Espaço"
+
+# power = potência
+msgid "An error occurred while evaluating power function."
+msgstr "Um erro ocorreu ao calcular a função potência."
+
+msgid "Tangent to pi/2+n*pi (90+n180 in degrees) is undefined."
+msgstr "A tangente de pi/2+n*pi (90+n180 em graus) é indefinida."
+
+# o artigo aqui é dispensável (está se falando do nome de um comando em inglês, e não de um termo conhecido, como (o seno, a tangente, etc.)
+# Não é necessa´rio traduzir o nome do comando; o memso já se encontra explicado na lista de funções
+msgid "Fact can only be calculated for positive integers."
+msgstr "Fact só pode ser calculado para inteiros positivos."
+
+# "take " aqui tem o sentido de "tomar", "pegar" e, por extensão, "obter".
+#  a frase foi deixada no singular, como no original
+msgid "Cannot take logarithm to number equal or less than zero."
+msgstr "Não se pode obter o logaritmo de um número igual ou menor que zero."
+
+# O artigo "A" é dispensável.
+# srqt é feminino (square root = razi quadrada)
+msgid "sqrt is undefined for negative numbers."
+msgstr "sqrt é indefinida para números negativos."
+
+# "do cáculo", e não "da cálculo"
+msgid "A part of the evaluation gave a number with an imaginary part."
+msgstr "Uma parte do cálculo resultou em um número com uma parte imaginária (complexo)."
+
+msgid "Division by zero."
+msgstr "Divisão por zero."
+
+# "range" tem sido traduzida o tempo todo nesse trabalho como variação (exceto no sombreamento, onde o termo intervalo é mais adequado). Aqui, me parece que uma combinação dos dosi termos cairia bem.
+# Já o termo escala me parece mais comumente usado se referindo a instrumentos de medidas.
+# [-1,1] estava com excesso de espaços
+msgid "Inverse trigonometric function out of range [-1;1]"
+msgstr "Função trigonométrica inversa fora do intervalo de variação [-1;1 ]"
+
+msgid "The function is not defined for this value."
+msgstr "A função não é definida para este valor."
+
+# artigo dispensável, substantivo (arco-tangente é UMA função)
+# o restante dos termos se encontra no singular
+msgid "atanh evaluated at undefined value."
+msgstr "atanh calculada em valor indefinido."
+
+# idem
+msgid "acosh evaluated at undefined value."
+msgstr "acosh calculada em valor indefinido."
+
+# idem
+msgid "arg(0) is undefined."
+msgstr "arg(0) é indefinida."
+
+msgid "Evaluation failed."
+msgstr "Falha no cálculo."
+
+# faltou a tradução de "function"
+# Tradução literal: "com total perda de precisão"
+msgid "Argument produced a function result with total loss of precision."
+msgstr "O argumento produziu um resultado para a função totalmente impreciso."
+
+# "custom" incorretamente traduzido
+msgid "The custom function/constant '%s' was not found or has the wrong number of arguments."
+msgstr "A funçao/constante personalizada '%s' não foi encontrada ou tem um número incorreto de argumentos."
+
+msgid "Too many recursive calls."
+msgstr "Muitas chamadas de recursividade."
+
+# "to handle" foi omisso na tradução
+# "Overflow" é às vezes traduzido em alguns tetxos técnicos como "transbordo" mas, acho que este não é um termo muito conhecido de todos
+msgid "Overflow: A function returned a value too large to handle."
+msgstr "Overflow: A função retornou um valor grande demais para ser manipulado."
+
+# Não estava traduzido
+msgid "A plugin function failed: %s"
+msgstr "Um plugin da função falhou: %s"
+
+# espaço a mais em '%s'
+msgid "Unexpected operator. Operator '%s' cannot be placed here."
+msgstr "Operador inesperado. O operador '%s' não pode ser colocado aqui."
+
+# aproximação ao original
+msgid "The right bracket is missing."
+msgstr "Faltando o parêntese direito."
+
+# "número de argumentos inválidos" ficou meio estranho: o adjetivo que era de uma palavra foi atribuída a outra!
+msgid "Invalid number of arguments supplied for the function '%s'"
+msgstr "Número inválido de argumentos para a função '%s'"
+
+# comparison = comparação
+# misplaced = mal colocado/posicionado
+msgid "Comparison operator misplaced."
+msgstr "Operador de comparação posicionado incorretamente."
+
+# inválido estava sem acento
+msgid "Invalid number found. Use the format: -5.475E-8"
+msgstr "Número inválido encontrado. Use o formato: -5.475E-8"
+
+# "string" significa "´serie, "sequência", "cadeia".
+# Em ciência da computação, o termo se refere a "um conjunto de caracteres (letra e números) consecutivos"
+# Como esta mensagem aparece sempre que o campo da função é deixado em branco me pareceu mais adequado se fazer uma tradução livre aqui, que não se afastasse muito do original
+msgid "String is empty. You need to enter a formula."
+msgstr "Campo em branco. É necessário inserir uma fórmula."
+
+# acho que fica mais clara a inversão na ordem das palavras
+msgid "Comma is not allowed here. Use dot as decimal separator."
+msgstr "O uso de vírgula não é permitido aqui. Use o ponto como separador decimal."
+
+# dos, e não do
+msgid "Unexpected end of brackets."
+msgstr "Fim inesperado dos parênteses."
+
+msgid "Number, constant or function expected."
+msgstr "Número, constante ou função esperados."
+
+# erro de gênero: é o parâmetro (masculino) que não é permitido.
+msgid "Parameter after constant or variable not allowed."
+msgstr "Parâmetro após constante ou variável não permitido."
+
+msgid "Expression expected."
+msgstr "Expressão esperada."
+
+msgid "Unknown variable, function or constant: \"%s\""
+msgstr "Variável, função ou constante desconhecida: \"%s \" "
+
+# caractere é a grafia correta dicionarizada
+msgid "Unknown character: \"%s\""
+msgstr "Caractere desconhecido: \"%s\""
+
+msgid "The end of the expression was unexpected."
+msgstr "Fim inesperado da expressão."
+
+# erro de análise é "parsing error"; a expressão "Error parsing" me parece que seria melhor traduzida como "erro ao analisar"
+msgid "Error parsing expression."
+msgstr "Erro ao analisar a expressão."
+
+msgid "A calculation resulted in an overflow."
+msgstr "Um cálculo resultou em um overflow."
+
+# inválido não tem exatamente o mesmo sentido de incorreto: no primeiro caso, existe muito de convenção (por exemplo, digitar o CPF num site na internete, colocando os traços que separam os números, pode ser inválido para aquela página, mas não em essêncai uma digitação incorreta (o site é que não é preparado para lidar com a informação correta/completa).
+# Então, melhor usar o termo "inválido" aqui
+msgid "An invalid value was used in the calculation."
+msgstr "Um valor inválido foi usado no cálculo."
+
+# "enough" significa suficiente, e pode significar, por exemplo, apenas dois (quando se tem de definir um intervalo, por exemplo). Bastante dá idéia de muita coisa. Por exemplo, na solução de um sistema de equaçãoes com 10 variáveis, pode se ter bastante elementos de cálculo (8 deles) em um problema, mas esse bastante ser insuficiente para resolver o problema (o mínimo aqui seriam 9). Como se vê, estas palavras não são sinônimas
+msgid "Not enough points for calculation."
+msgstr "Não há pontos suficientes para o cálculo."
+
+msgid "Illegal name \"%s\" for user defined function or constant."
+msgstr "Nome ilegal \"%s\" para função ou constante definida pelo usuário."
+
+# "cannot" pode ter o sentido impessoal de "não é possível"
+# "differentiate " é diferenciar
+msgid "Cannot differentiate recursive function."
+msgstr "Não é possível diferenciar uma função recursiva."
+
+msgid "Internal error."
+msgstr "Erro interno."
+
+msgid "Function \"%s\" cannot be differentiated."
+msgstr "A função \"%s\" não pode ser diferenciada."
+
+# "further" aqui é advérbio, significando "além disso", "mais que isso".
+# De acordo com o Help do Graph (Erro 86), se trata de um erro do tipo desconhecido. O sentido de "not further" aqui é, possivelmente: "NENHUMA (explicação) ADICIONAL" ou NÃO (é possível explicar) "MAIS DO QUE ISSO".
+# Em português, basta traduzir como "não especificado", omitindo further  na tradução
+msgid "Not further specified error occurred under calculation."
+msgstr "Um erro não especificado ocorreu durante o cálculo."
+
+msgid "No solution found. Try another guess or another model."
+msgstr "Nenhuma solução encontrada. Tente uma outra suposição ou um outro modelo."
+
+msgid "No result found."
+msgstr "Nenhum resultado encontrado."
+
+# Deixei na ordem original das palavras.
+# Me parece também que "preciso" (significando com baixa margem de erro), cujo antônimo é impreciso (com alta margem de erro) é mais adequado que "exato" (significando o valor sem aproximações de casas decimais) em contraposição a "aproximado" (casas decimais omitidas).
+# Concordo que a diferença aqui é sutil, mas é que estou mais acostumado com a expressão "precisaõ de um experimento", em Física.
+msgid "An accurate result cannot be found."
+msgstr "Um resultado preciso não pode ser encontrado."
+
+msgid "Internal error. Please notify the programmer with as much information as possible."
+msgstr "Erro interno. Por favor, notifique o programador com o maxímo de informação possível."
+
+msgid "You need to enter a name for the function/constant."
+msgstr "Você precisa informar um nome para a função/constante"
+
+# Preservei a tradução literal no segundo parágrafo.
+# No primeiro, embora a tradução literal seja" dígitos decimais'", tal expressão é menos comum no dia-a-dia do lidar com programs de computador, internet, etc. (aqui é um caso parecido com o das FAQs, onde a tradução livre é melhor que a literal)
+msgid ""
+"Invalid function/constant name '%s'.\n"
+"The name may only contain letters and decimal digits, and it must always start with a letter.\n"
+"In addition you are not allowed to redefine built-in names."
+msgstr ""
+"Nome de função/constante inválido: '%s'.\n"
+"O nome deve conter apenas letras e números, e deve sempre iniciar com uma letra.\n"
+"Além disso, não é permitido redefinir nomes pré-definidas."
+
+# name = nome (e não valor)
+msgid "You need to enter a name for the argument."
+msgstr "Você precisa informar um nome para o argumento."
+
+# Aqui, faltou a tradução de "built-in" que, neste caso, pode ser perfeitamente traduzido como pré-definido (em outra situação, foi traduzido como integradas)
+msgid ""
+"Invalid argument name '%s'.\n"
+"The name may only contain letters and decimal digits, and it must always start with a letter.\n"
+" In addition you are not allowed to use built-in names as argument names."
+msgstr ""
+"Nome de argumento inválido: '%s'.\n"
+"O nome deve conter apenas letras e números, e deve sempre iniciar com uma letra \n"
+"Além disso, não é permitido usar nomes pré-definidos como nomes de argumentos."
+
+# caractere (com e no final) e parêntese (com acento)
+msgid "Character found after brackets."
+msgstr "Caractere encontrado após o parêntese."
+
+# tradução literal
+msgid "Symbol \"%s\" defined more than once."
+msgstr "Simbolo \"%s\" definido mais de uma vez."
+
+msgid "Invalid equation or inequality."
+msgstr "Equação ou inequação inválida."
+
+msgid "Updating..."
+msgstr "Atualizando..."
+
+msgid "Save changes?"
+msgstr "Salvar alterações?"
+
+msgid "Save changes in %s?"
+msgstr "Salvar alterações em %s?"
+
+msgid "You have reached the maximum range of zoom."
+msgstr "Você alcançou a escala máxima do zoom."
+
+msgid "You have reached the minimum range of zoom."
+msgstr "Você alcançou a escala mínima do zoom"
+
+# Não poder ser zero, não é a mesma coisa que ter de ser maior que zero. Por exemplo, -3 não é igual a zero mas, nem por isso é maior que zero
+msgid "'%s' must not be zero."
+msgstr "'%s' não pode ser zero."
+
+msgid "Error in value"
+msgstr "Erro no valor"
+
+# não cabe a preposição "do" aqui
+msgid "'%s' has to be an integer value greater or equal to 0."
+msgstr "' %s' tem que ser um valor inteiro maior ou igual a 0"
+
+msgid "'%s' must be greater than zero."
+msgstr "'%s' deve ser maior que zero."
+
+msgid "'%s' must be an integer greater than zero."
+msgstr "'%s' deve ser um inteiro maior que zero."
+
+msgid "Trying to break zoom limit."
+msgstr "Tentando quebrar o limite do zoom"
+
+# Foi inserido um espaço indevido em '%s'
+msgid "'%s' must be greater than '%s'"
+msgstr "'%s' deve ser maior que '%s'."
+
+# faltou o ponto no final
+msgid "The maximum value must be greater than the minimum value."
+msgstr "O valor máximo deve ser maior que o valor mínimo."
+
+msgid "You need to enter a value."
+msgstr "Você precisa informar um valor."
+
+# espaço indevido removido
+msgid ""
+"This file was created with Graph %s.\n"
+"Only files from version %s and higher can be opened."
+msgstr ""
+"Este arquivo foi criado com o Grafh %s.\n"
+"Somente arquivos da versão %s ou superior podem ser abertos."
+
+msgid "'%s' is not a valid number."
+msgstr "'%s' não é um número válido."
+
+msgid "'%s' must be a positive number."
+msgstr "'%s' deve ser um número positivo."
+
+msgid "File not found: %s"
+msgstr "Arquivo não encontrado: %s"
+
+# "uma arquivo", palavras fora de ordem.
+# Melhor deixar a palavra "correct" traduzida como correta pois, um arquivo válido do Graph (extensão. grf) pode não abrir por estar corrompido (incorreto).
+msgid ""
+"Error reading file: %s\n"
+"The file is not a correct Graph file."
+msgstr ""
+"Erro na leitura do arquivo: %s\n"
+"O arquivo não é um arquivo correto do Graph."
+
+msgid "Unknown error while reading file: %s"
+msgstr "Erro desconhecido ao ler o arquivo: %s"
+
+msgid "Graph files [*.grf]|*.grf"
+msgstr "Arquivo do Grafh [*.grf]|*.grf"
+
+# "cannot" pode ser traduzido de forma impessoal
+# O tempo coreto do verbo, se não me engano, é está
+msgid ""
+"Cannot write to file: %s\n"
+"Access denied. Check that the file is not in use or write protected."
+msgstr ""
+"Não é possível escrever no arquivo: %s\n"
+"Acesso negado. Certifique-se de que o arquivo não está em uso ou protegido contra gravação."
+
+# inserido espaço indevido em \"%s\"
+# aqui o tempo verbal é o presente com sentido de futuro, então, podemos colocarserá usada
+msgid "The font \"%s\" doesn't exist. Standard font is used instead."
+msgstr "A fonte \"%s\" não existe. Uma fonte padrão será utilizada no lugar da mesma."
+
+# faltou a tradução
+msgid "Graph system"
+msgstr "Sistema do Graph"
+
+msgid "Open"
+msgstr "Abrir"
+
+msgid "Selection error"
+msgstr "Erro de seleção"
+
+# "de", e não "do"
+msgid "File error"
+msgstr "Erro de arquivo"
+
+msgid "Write access failed"
+msgstr "Falha no acesso de escrita"
+
+msgid "OLE error"
+msgstr "Erro OLE"
+
+msgid "Error reading object"
+msgstr "Erro na leitura objeto"
+
+# tradução literal e correção de erros de digitação (graph com "f")
+msgid "Not a valid Graph object."
+msgstr "Não é um objeto válido do Graph."
+
+msgid "Object error"
+msgstr "Erro do objeto."
+
+# faltou a tradução de "enough"
+msgid "Windows does not have enough resources to save an image that large."
+msgstr "O Windows não tem recursos suficientes para salvar uma imagem tão grande."
+
+# a tradução mais adequada do verbo "to be", aqui, é "estar".
+# Não há aspas nos dois outros parâmetros
+# espaço a mais
+msgid "'%1%' must be between %2% and %3%."
+msgstr "'%1%' deve estar entre %2% e %3%."
+
+msgid "File not found"
+msgstr "Arquivo não encontrado."
+
+msgid "Error reading file"
+msgstr "Erro na leitura do arquivo"
+
+msgid "Printer error"
+msgstr "Erro de impressão"
+
+# "do", e não "para" como preposição
+msgid "Invalid use of infinity. Infinity cannot be used here."
+msgstr "Uso inválido do infinito. Infinito não pode ser usado aqui."
+
+msgid "Not enough memory to complete the operation."
+msgstr ""
+
+# "você está certo DISSO" (o verbo pede a preposição "de".
+msgid "Confirm delete"
+msgstr "Confirma exclusão"
+
+# "você está certo DISSO" (o verbo pede a preposição "de".
+msgid "Are you sure you want to delete %s?"
+msgstr "Você está certo de que quer apagar %s ?"
+
+msgid "Graph files [*.grf]|*.grf|All files [*.*]|*.*"
+msgstr "Arquivos do Graph [*.grf]|*.grf|Todos os arquivos [*.*]|*.*"
+
+# "tab" pode ser traduzido como "tabulação", conforme é feito no Microsoft Word (vide figura)
+msgid "CSV (semicolon delimited) [*.csv]|*.csv|CSV (comma delimited) [*.csv]|*.csv|Text (tab delimited) [*.txt]|*.txt|Text (space delimited) [*.txt]|*.txt|All files [*.*]|*.*"
+msgstr "CSV (separado por ponto e vírgula) [*.csv]|*.csv|CSV (separado por vírgula) [*.csv]|*.csv|Text (separado por tabulação) [*.txt]|*.txt|Text (separado por espaço) [*.txt]|*.txt|All files [*.*]|*.*"
+
+# inserido "de"
+msgid "Are you sure you want to delete the model: %s?"
+msgstr "Você está certo de que quer apagar o modelo: %s ?"
+
+# padronização (maior que, sem o do)
+msgid "Maximum number on x-axis must be greater than the minimum value."
+msgstr "O número máximo no eixo-x deve ser maior que o valor mínimo."
+
+# idem
+msgid "Maximum number on y-axis must be greater than the minimum value."
+msgstr "O número máximo no eixo-y deve ser maior que o valor mínimo."
+
+msgid "Server application not found."
+msgstr "Servidor de aplicação não encontrado."
+
+msgid "Maximum number for t must be greater than the minimum value."
+msgstr "O número máximo para t deve ser maior que o valor mínimo."
+
+msgid "The step value for t must be a number greater than 0."
+msgstr "O valor de incremento para t deve ser um número maior que 0."
+
+msgid "The minimum value for the x-axis must be greater than 0, when the x-axis is logarithmic scaled."
+msgstr "O valor mínimo para o eixo-x deve ser maior que 0, quando o eixo estiver em escala logarítmica."
+
+msgid "The cross point of the y-axis must be greater than 0, when the x-axis is logarithmic scaled."
+msgstr "O ponto de cruzamento do eixo-y deve ser maior que 0, quando o eixo-x está em escala logarítmica."
+
+msgid "The minimum value for the y-axis must be greater than 0, when the y-axis is logarithmic scaled."
+msgstr "O valor mínimo para o eixo-y deve ser maior que 0, quando o eixo-y estiver em escala logarítmica."
+
+# "do eixo x", como na tradução anterior
+msgid "The cross point of the x-axis must be greater than 0, when the y-axis is logarithmic scaled."
+msgstr "O ponto de cruzamento do o eixo-x deve ser maior que 0, quando o eixo-y estiver em escala logarítmica."
+
+# havia um ponto a mais aqui
+msgid "'Recent files' must be between 0 and 9."
+msgstr "'Arquivos recentes' deve estar entre 0 e 9."
+
+# início, como feito em uma tradução anterior
+msgid "The end of interval must be greater than the start of interval."
+msgstr "O fim do intervalo deve ser maior do que o início do intervalo."
+
+msgid "Error in interval."
+msgstr "Erro no intervalo."
+
+# "maior que"
+# mantida a palavra largura aqui, em substituição a espessura
+msgid "The width must be an integer greater than 0."
+msgstr "A largura deve ser um inteiro maior que 0"
+
+# idem
+msgid "Error in width"
+msgstr "Erro na largura"
+
+# padronização
+# retirado "do"
+msgid "The end of interval must be greater than the start of interval and %s must be greater than 0."
+msgstr "O fim do intervalo deve ser maior que o início do intervalo e %s deve ser maior que 0."
+
+# faltou o ponto aqui
+msgid "Invalid model name."
+msgstr "Nome de modelo inválido."
+
+# inversão da palavras, com vistas a parecer com a tradução literal
+msgid "A model of that name already exist."
+msgstr "Um modelo com este nome já existe."
+
+# devinida (com v), era o que estava aqui
+msgid "The derivative of the function is not defined at %s=%s"
+msgstr "A derivada da função não é definida em %s=%s"
+
+msgid "Coordinate not defined"
+msgstr "Coordenada não definida"
+
+# faltaram as reticências (...)
+msgid "Checking for newer version..."
+msgstr "Procurando por nova versão..."
+
+msgid "Abort printing?"
+msgstr "Cancelar impressão?"
+
+msgid "Calculate area"
+msgstr "Calcule a área"
+
+# padronização
+msgid "Calculate length of path"
+msgstr "Calcular comprimento de arco"
+
+# padronização
+msgid "Edit function"
+msgstr "Editar função"
+
+# padronização
+msgid "Edit tangent/normal"
+msgstr "Editar tangente/normal"
+
+msgid "Error processing file '%s' at line %s."
+msgstr "Erro no processamento do arquivo '%s' na linha %s."
+
+# faltou traduzir "text"
+msgid "Edit text label"
+msgstr "Editar rótulo de texto"
+
+# "constants" no plural
+# "localizar" não é um termo adequado (vide explicação abaixo).
+# Esta mensagem de erro aparece quando é fornecida uma possível fórmula (palpite/dica/suposição) para a linha de TENDÊNCIA, sem a existência de quaisquer constantes. Essa fórmula DEVE possuir certas constantes ($a, $b, $c), cujo valor numérico o Graph tentará DESCOBRIR O VALOR, através de métodos de cálculo envolvendo tentativa e erro.
+msgid "The model needs some constants (starting with a $) for Graph to find."
+msgstr "O modelo necessita de algumas constantes (iniciando com um $), às quais o Graph irá descobrir o valor."
+
+# inserido espaço indevido em '%s'
+# a palavra 'maior" está aqui gratuitamente
+msgid "'%s' has to be an integer value between 0 and 1000."
+msgstr "'%s' tem que ser um valor inteiro entre 0 e 1000. "
+
+msgid "Printing error"
+msgstr "Erro de impressão"
+
+msgid "An unknown error occurred while printing."
+msgstr "Ocorreu um erro desconhecido durante a impressão."
+
+# "os" gratuito
+msgid "Error while adding points"
+msgstr "Erro ao adicionar pontos"
+
+# tradução incompleta
+msgid "Each point needs both an x- and a y-coordinate."
+msgstr "Cada ponto necessita de uma coordenada x e uma y."
+
+# faltou traduzir o artigo "a"
+msgid "\"%s\" is not a valid number."
+msgstr "\"%s\" não é um número válido."
+
+# any = quaisquer
+# "need", aqui, tem o sentido de dever, de ser obrigatório se fazer algo, caso contrário, as coisas não irão funcionar. Pode então ser traduzido como "ter de" (vide figura)
+# Preferi, no entanto fazer a tradução de "you need" na forma impessoal de "é necessário", pois a mesma tem a conotação de uma "obrigação light" , em nossa língua
+msgid "You didn't add any points. You need to specify some x- and y-coordinates in the grid."
+msgstr "Você não adicionou quaisquer pontos. É necessário especificar algumas coordenadas x e y na grade."
+
+# padronização
+msgid "Edit point series"
+msgstr "Editar a série de pontos"
+
+# padronização
+msgid "Edit shading"
+msgstr "Alterar sombreamento"
+
+# padronização (you need = é necessário)
+msgid "You need to select a function."
+msgstr "É necessário selecionar uma função."
+
+# pequenas alterações de estilo, com vistas à aproximar da tradução literal
+msgid "New version of Graph available"
+msgstr "Nova versão do Graph disponível"
+
+msgid ""
+"Graph %s is now available for download from www.padowan.dk\n"
+"\n"
+"Would you like to visit the download page?"
+msgstr ""
+"Graph %s já está disponível para download em www.padowan.dk\n"
+"\n"
+"Você gostaria de visitar a página de download?"
+
+# "no" aqui pode ser traduzido como "nenhuma"
+msgid "No new version"
+msgstr "Nenhuma versão nova."
+
+# faltou traduzir "already"
+# espaço a mais
+msgid "You are already using the most recent version of Graph."
+msgstr "Você já está usando a versão mais recente do Graph."
+
+# cannot traduzido de forma impessoal
+# server = servidor (de arquivo, via protocolo http ou ftp)
+msgid ""
+"Cannot connect to server www.padowan.dk.\n"
+"Either the server is down or you do not have a connection to the Internet."
+msgstr ""
+"Não é possível conectar com o servidor www.padowan.dk.\n"
+"O servidor está fora do ar ou você não tem uma conexão com a Internet."
+
+msgid "Socket error %s"
+msgstr "Erro de socket %s"
+
+# "definite" é definida
+# "signed" não estava traduzido (sign = assinalar)
+# a vírgula depois de "ou", no texto traduzido, é desnecessária
+msgid "Definite integral, or signed area between function and x-axis, for the given domain range."
+msgstr "Integral definida ou área assinalada entre a função e o eixo x, para a faixa de domínio dada."
+
+# o jargão correto aqui é comprimento de arco
+msgid "Length of path along the curve calculated for the given range."
+msgstr "Comprimento de arco ao longo da curva calculado para o intervalo dado."
+
+# aproximação à tradução literal
+msgid ""
+"The file cannot be opened by this version of the program.\n"
+"You need at least Graph %s to open this file."
+msgstr ""
+"O arquivo não pode ser aberto por esta versão do programa.\n"
+"Você precisa no mínimo do Graph %s para abrir este arquivo."
+
+# outdated = desatualizada
+msgid ""
+"This file was saved by an outdated version of Graph,\n"
+"and it cannot be opened by the current version."
+msgstr ""
+"Este arquivo foi salvo por uma versão desatualizada do Graph,\n"
+"e não pode ser aberto pela versão atual."
+
+# dialog aqui significa "caixa de diálogo"
+msgid ""
+"\n"
+"\n"
+"If you don't want to be asked again, this feature may be disabled from the Edit|Options dialog."
+msgstr ""
+"\n"
+"\n"
+"Se não quiser ver esta mensagem novamente, desative esta função na caixa de diálogo do menu Editar|Opções."
+
+# padronização
+msgid "Edit relation"
+msgstr "Editar relação"
+
+msgid "Commands"
+msgstr "Comandos"
+
+msgid "(All Commands)"
+msgstr "(Todos os comandos)"
+
+# padronização
+msgid "To add a command to the toolbar simply select a category and drag the command out of this dialog box to the toolbar."
+msgstr "Para adicionar um comando à barra de ferramentas, simplesmente selecione uma categoria e arraste o comando para fora da caixa de diálogo até a barra de ferramentas."
+
+# padronização
+msgid "Edit f'(x)"
+msgstr "Edita f'(x)"
+
+# padronização
+msgid "Edit trendline"
+msgstr "Edita a linha de tendência"
+
+msgid "Categories:"
+msgstr "Categorias:"
+
+msgid ""
+"The program seems to be stuck in an infinite loop.\n"
+"If you cancel the operation the program will become unstable.\n"
+"You should therefore save your data under a new name and restart the application."
+msgstr ""
+"O programa parece estar travado em um loop infinito.\n"
+"Se você cancelar a operação, o programa vai se tornar instável.\n"
+"Você deve, portanto, salvar os seus dados com um novo nome e reiniciar o aplicativo."
+
+# me parece que no jargão de informática, diz-se "a thread"
+# termos em lígua estrangeria devem ser apresentados sob aspas
+msgid "Thread is not responding"
+msgstr "A \"thread\" não está respondendo"
+
+# a próclise aqui (lhe dar) é indicada
+# "a lot of" é muitas
+# "most" é a maioria
+# Embora o texto original não tenha nenhuma aspa, foram colocadas aqui aspas simples, pois é o padrão utilizado na maioria dos textos das dicas
+msgid "This Tip of the day can give you a lot of information about the program that most users don't know."
+msgstr "Esta 'Dica do dia' pode lhe dar muitas informações sobre o programa, que a maioria dos usuários desconhece."
+
+# "using graph" = no uso do Graph
+#, fuzzy
+msgid "You can get help using Graph, report bugs and suggest future improvements at the web forum: <a href=\"http://forum.padowan.dk\">http://forum.padowan.dk</a>"
+msgstr "Você pode obter ajuda no uso do Graph, reportar bugs e sugerir melhorias futuras no forum da web: <a href=\"http://www.padowan.dk/forum\">http://www.padowan.dk/forum</a>"
+
+# customize = personalizar
+# "on it" = sobre ela = sobre a mesma
+# o tempo verbal do Ivan está errado (deveria ter usado selecting")
+msgid "You can customize the toolbar by right clicking on it and select 'Customize toolbar'."
+msgstr "Você pode personalizar a barra de ferramentas clicando com o botão direito do mouse sobre a mesma e selecionando 'Personalizar barra de ferramentas'."
+
+# "check mark" não tem uma tradução muito comum em nossa língua (marca de conferência?). Então, "removing the check mark" é mais comumente traduzido como "desmarcando"
+# "Ao invés" me parece uma construção mais comum que "em vez de "
+msgid "Instead of deleting a function, you can make it invisible by removing the check mark for the item in the function list."
+msgstr "Ao invés de excluir uma função, você pode torná-la invisível desmarcando-a na lista de funções."
+
+# faltou traduzir text
+msgid "You can paste images into a text label."
+msgstr "Você pode colar imagens num rótulo de texto."
+
+# faltou traduzir muitos termos
+msgid "Text labels can contain any kind of OLE objects, for example Microsoft Equation. When editing a label right click in the editing area and select 'Insert object'."
+msgstr "Rótulos de texto podem conter quaisquer tipos de objetos OLE, como por exemplo, o Microsoft Equation. Ao editar um rótulo, dê um clique com o botão direito do mouse na área de edição e selecione 'Inserir objeto'."
+
+# "Ao editar " é mais comum que "quando estiver editando", em traduções
+# Fui obrigado a fazer uma tradução livre, pois o texto estava absurdamente redundante, além de tecnicamente estranho (exportar pontos de uma série de pontos?)
+msgid "You can export points from a point series to a file that can be read by other programs, for example Microsoft Excel. When editing the point series select the points, right click and choose 'Export to file'."
+msgstr "Você pode exportar os dados de uma série de pontos para um arquivo que pode ser lido por outros programas, como por exemplo, o Microsoft Excel. Ao editar a série, selecione os pontos desejados, clique com o botão direito e escolha 'Exportar para arquivo'."
+
+# as the = "como a"
+msgid "A vertical line at x=5 can be drawn as the parametric function x(t)=5, y(t)=t or as the relation x=5."
+msgstr "Uma linha vertical em x=5 pode ser obtida a partir da função paramétrica x(t)=5, y(t)=t ou através da relação x=5."
+
+# Ivan esqueceu de colocar suas aspas simples aqui masn, por questão de padronização,as adicionei
+# isso, zoom
+msgid "You can use Zoom|Square to make the axes look equally scaled. This is especially useful when drawing circles and similar functions."
+msgstr "Você pode usar 'Zoom|Quadrado' para fazer os eixos ficarem com a mesma escala. Isso é particularmente útil quando se desenham círculos e funções similares."
+
+# "in the help" = na ajuda (do programa)
+msgid "You can find a list of all available functions in the help."
+msgstr "Você pode encontrar uma lista de todas as funções disponíveis na ajuda do programa"
+
+# haviam espaços a mais aqui
+msgid "You can combine two functions to one using 'if'. For example the function f(x)=x for x<1 and f(x)=x^2 for x>=1 can be written as f(x)=if(x<1, x, x^2)."
+msgstr "Você pode combinar duas funções em uma única, utilizando 'if'. Por exemplo, a função f(x)=x para x<1 e f(x)=x^2 for x>=1 pode ser escrita como f(x)=if(x<1, x, x^2)."
+
+# into = para dentro de
+# coordenadas estava no masculino
+# havia espaços demais aqui
+msgid "You can import the contents of another Graph file into the current coordinate system using 'File|Import|Graph file'."
+msgstr "Você pode importar o conteúdo de um arquivo qualquer do Graph para dentro do sistema de coordenadas, usando 'Arquivo|Importar|Arquivo do Graph'"
+
+# "dialog" ou "dialog box" é traduzido nos textos de informática como "caixa de diálogo"
+# tradução impessoal (sem usar "você")
+msgid "If you check 'Save as default' in the Axes dialog the current settings will be used as default when creating new coordinate systems."
+msgstr "Se 'Salvar como padrão' estiver selecionado na caixa de diálogo dos eixos, as configurações atualmente em uso serão utilizadas como padrão na criação de novos sistemas de coordenadas."
+
+# "hold down" significa manter pressionada
+# while = enquanto
+msgid "While you hold down the Ctrl key, you can use the arrow keys to move the system."
+msgstr "Mantendo a tecla Ctrl pressionada, você pode utilizar as teclas de seta para mover o plano cartesiano."
+
+# idem
+msgid "While you hold down the Ctrl key, you can use the + and - keys to zoom in and out."
+msgstr "Mantendo a tecla Ctrl pressionada, você pode utilizar as teclas + e - para aumentar ou diminuir o zoom."
+
+# manter scroll aqui é dispensável
+msgid "You can use the scroll button on your mouse to zoom in and out at the position of the mouse cursor."
+msgstr "Você pode usar o botão de rolagem do seu mouse para aumentar ou diminuir o zoom na posição do cursor do mouse."
+
+# pequenas correções
+# imperativo usado aqui, com vistas à padronização com outras traduções
+msgid "If you don't want an item shown in the legend, you can right click on the item in the function list and deselect 'Show in legend'."
+msgstr "Se você não quiser que um item seja mostrado na legenda, clique com o botão direito sobre o mesmo na lista de funções e desmarque a opção 'Mostrar na legenda'."
+
+# "tab" é traduzida no Firefox como "aba", e no Internet Explore como "guia" (vide imagens do Windows)
+msgid "If you want the axes shown to the left and bottom of the image, you can choose Axes style as Boxed in the Settings tab of the Axes dialog."
+msgstr "Se você quiser que os eixos sejam mostrados à esquerda e embaixo da imagem, escolha o estilo \"Caixa\" na guia \"Configurações\" da caixa de diálogo dos Eixos."
+
+# "sistema de coordenadas", e não "de eixos coordenados"
+msgid "Graph can save the shown coordinate system in five different image formats: bmp, emf, png, jpg and pdf."
+msgstr "O Graph pode salvar o sistema de coordenadas mostrado em cinco formatos de imagem diferentes : bmp, emf, png, jpg e pdf."
+
+# vide comentários anteriores sobre o comando "Copy image"
+# "usually" aqui significa "da forma habitual"
+msgid "You can use 'Edit|Copy image' to copy the coordinate system and paste it into another program, for example, Microsoft Word. Later you can usually edit the image in Graph by double clicking on it in the other program."
+msgstr "Você pode usar 'Editar|Copiar imagem OLE' para copiar o sistema de coordenadas e colá-lo em um outro programa, como por exemplo, o Microsoft Word. Mais tarde, você pode editar essa imagem de maneira habitual no Graph, dando um clique duplo sobre a mesma dentro do outro programa."
+
+# me parece que a inclusão da palavra "disco", aqui, torna a compreensão do texto um pouco mais fácil
+# "instance" significa "instância" mas, como isso é um jargão pouco conhecido, me parece que a utilização aqui de "janela" (como feito por vocês mais à frente) é uma escolha mais adequada
+msgid "You can open a saved grf-file in a new instance of the program by double clicking on it in Explorer."
+msgstr "Você pode abrir um arquivo do tipo .grf em uma nova janela do programa, dando um duplo-clique no mesmo a partir do Explorer."
+
+# mudei um pouco a forma do texto
+msgid "You can drag a grf-file from explorer into an open instance of Graph to open the file."
+msgstr "Você pode arrastar um arquivo .grf a partir do Explorer para dentro de uma janela aberta do Graph, de maneira a abrí-lo. "
+
+# coloquei o texto aqui "caixa de diálogo"
+msgid "Graph will remember the size of the main window between executions. This can be disabled from the Options dialog."
+msgstr "O Graph irá lembrar o tamanho da janela principal, a cada execução. Esse recurso pode ser desabilitado na caixa de diálogo de 'Opções'."
+
+# faltou um para aqui
+# "evaluation values" é valores de cálculo (valores calculados seria evaluated values)
+# "for" aqui é "em relação a"
+msgid "Calc|Table can be used to create a table with evaluation values for a function."
+msgstr "'Calc|Tabela' pode ser usado para criar uma tabela com valores de cálculo relativos à uma função."
+
+# "evaluation table" é tabela de cálculo.
+# "evaluated table" é que seria tabela calculada
+msgid "A part or the whole evaluation table can be exported to a file by right clicking and selecting 'Export to file'. It can afterwards be opened in other programs like Microsoft Excel."
+msgstr "Uma tabela de cálculo completa ou apenas parte dessa pode ser exportada para um arquivo, clicando-se com o botão direito do mouse e selecionando a opção 'Exportar para arquivo'. Esse arquivo pode mais tarde ser aberto em outros programas, como o Microsoft Excel."
+
+# "like" aqui é tal como
+msgid "Data from the evaluation table can be copied to another program like Microsoft Excel."
+msgstr "Dados de uma tabela de cálculo podem ser copiados para outro programa, tal como Microsoft Excel."
+
+# o texto original está redundante, de forma que "points" (o primeiro) pode ser omitido na tradução
+# A inversão dos termos "de" e "para" gera uma construção de texto mais agradável
+msgid "The data points in a point series can be copied to and from other programs like Microsoft Excel."
+msgstr "Dados de uma série de pontos podem ser copiados \"de\" e \"para\" outros programas, tais como Microsoft Excel."
+
+# aqui não me pareceu tão problemático usar instância
+msgid "Elements as functions, point series, etc. can be copied from one instance of the program to another using Edit|Copy."
+msgstr "Elementos como funções, séries de ponto, etc., podem ser copiados de uma instância do programa para outra usando 'Editar|Copiar'."
+
+# tradução impessoal, no final (sem "você")
+msgid "You can always undo the last thing you did using Edit|Undo."
+msgstr "Você pode sempre desfazer a última ação efetuada, usando 'Editar|Desfazer'."
+
+# used = usou
+# tradução impessoal no meio
+msgid "If you used Edit|Undo by mistake, you can use Edit|Redo to redo what you have undone."
+msgstr "Se você usou 'Editar|Desfazer' por engano, é possível usar 'Editar|Refazer' e refazer o que foi desfeito."
+
+# "sistemas de coordenadas", além de ser a tradução literal, é a tradução que tem sido utilizada até aqui. Além disso, esta expresão é cerca de 100 vezes mai comum que "sistema de eixos coordenados"
+msgid "In the Axes dialog you can add a title to the coordinate system."
+msgstr "Na caixa de diálogo dos Eixos, você pode adicionar um título para o sistema de coordenadas."
+
+# pequenas alterações
+msgid "You can import point series from files saved by other programs, like Microsoft Excel."
+msgstr "Você pode importar séries de pontos de arquivos salvos por outros programas, tais como Microsoft Excel."
+
+msgid "When inserting a point series, you can copy data from programs like Microsoft Excel, and paste the data into the grid in Graph."
+msgstr "Ao inserir uma série de pontos, você pode copiar os dados de programas como Microsoft Excel, e colá-los dentro da grade do Graph."
+
+# tradução mais semelhante ao original
+msgid "You can use 'Zoom|Fit all' to change the coordinate system so all functions and point series are visible."
+msgstr "Você pode usar 'Zoom|Enquadrar todos' para alterar o sistema de coordenadas, de forma que todas as funções e séries de ponto se tornem visíveis."
+
+# padronização
+# "all parts" não pode ser traduzido aqui como "todas as partes", em se tratando de funções, pois elas em geral são infinitas (o que não acontece com as séries de pontos, que são sempre finitas).
+msgid "You can use Zoom|Fit to change the coordinate system to show all parts of the selected function or point series."
+msgstr "Você pode usar 'Zoom|Enquadrar' para alterar o sistema de coordenadas, de forma que uma boa parte de uma função ou todos os pontos de uma série de pontos selecionada sejam exibidos."
+
+# pressionada estava com" c"
+# a tradução de around aqui seria "pra lá e para cá", "ao redor", mas me parece melhor, por ma questão de estilo, usar "em todas as direções"
+msgid "When you hold down the Shift key you can drag the coordinate system around with the mouse."
+msgstr "Mantendo pressionada tecla Shift você pode arrastar o sistema de coordenadas com o mouse em todas as direções."
+
+# padronização.
+# crossings = cruzamentos
+msgid "You can use Calc|Evaluate to find intersections between functions, crossings with the axes and extremum points."
+msgstr "Você pode usar 'Calc|Calcular' para encontrar interseções entre funções, cruzamentos com os eixos e pontos extremos."
+
+# Obs: foi necessa´rio se fazer uma tradução um tanto diferente, em termos de estilo, para que a dica ficasse compreensível (os pontos aparecem imediatamente na tela a cada clique, sem ser necessária a introdução de valores em uma tabela
+msgid "When a point series is selected you can add points to it by clicking on the image while you hold down the Ctrl key."
+msgstr "Quando uma série de pontos é selecionada, é possível adicionar pontos à mesma clicando-se em cima da imagem, com a tecla Ctrl pressionada."
+
+# necessário separar a sílaba aqui, por razões práticas na apresentação das dicas
+# (o "y" correu para a 3ª linha, quando a palavra não estava separada)
+msgid "You can use a relation to plot any inequality, for example sin(x^2) < cos(y^2)"
+msgstr "Você pode usar uma relação para plotar qualquer inequação, por exemplo, sin(x^2) < cos(y^2)"
+
+# padronização
+msgid "You can use a relation to plot any equation, for example x*sin x = y*cos y"
+msgstr "Você pode usar uma relação para plotar qual-  quer equação, por exemplo, x*sin x = y*cos y."
+
+# padronização
+msgid "Elements (functions, shadings, labels, relations, etc.) are drawn in the same order they appear in the function list to the left."
+msgstr "Elementos (funções, sombreamentos, rótulos, relações, etc.) são plotados na mesma ordem em que aparecem na lista de funções à esquerda."
+
+# o uso do artigo definido "the", por parte do Ivan, não me aprece muito adequado
+msgid "You can move the selected element in the function list either by dragging it with the mouse or with the arrow up/down keys while ALT is held down."
+msgstr "Você pode mover um elemento selecionado na lista de funções, arrastando o mesmo com o mouse ou utilizando as teclas seta-para-cima/ seta-para-baixo, com a tecla ALT pressionada."
+
+# o texto original do Ivan está mal escrito, de forma que tive que inverter a ordem de algumas palavras aqui, omitir termos (left), etc., com vistas a torná-lo mais claro
+msgid "You can show functions and other elements behind the axes by moving the element above the axes in the function list to the left. To move shadings and tangents you will have to move the functions they are attached to."
+msgstr "Você pode exibir funções e outros elementos atrás dos eixos, movendo os mesmos na lista de funções para cima de 'Eixos'. Para mover sombreamentos e tangentes, você deverá mover as funções às quais eles estejam ligados."
+
+# faltou personalizados
+# "fixado" aqui me pareceu melhor que anexado, pois a intenção neste caso é fazer com que o rótulo fique imóvel, independente da escala de zoom que for aplicada ou da modificação ba configuração dos eixos. Também com vistas a padronizar com o próximo texto (legenda fixada em um dos cantos)
+msgid "Custom text labels may be attached to the axes by right clicking on the label and selecting a placement from the context menu."
+msgstr "Rótulos de texto personalizados podem ser fixados junto aos eixos, clicando-se no rótulo com o botão direito e selecionando uma posição no menu contextual."
+
+# idem.
+# padronização.
+msgid "The legend may be moved freely with the mouse or attached to one of the corners by right clicking on the legend and choose a placement from the context menu."
+msgstr "A legenda pode ser movida livremente com o mouse ou fixada a um dos cantos, clicando-se na mesma com o botão direito e selecionando uma posição no menu contextual."
+
+# "draw" aqui não me parece signiciar denehado ou traçado (estamos falando de um rótulo), mas sim, "mover em uma direção particular" e, por extensão, "posicionar" (vide definições de dicionário"
+msgid "As an alternative to Transparent, you can choose a custom background color for labels. This is especially useful for labels drawn over shadings."
+msgstr "Como alternativa à 'Transparente', você pode escolher uma cor de fundo personalizada para os rótulos. Isso é particulamente útil no caso de rótulos posicionados em cima de sombreamentos."
+
+# "place" aqui é circunstância
+# "in most places" significa, literalmente, "na maioria das circunstância" que, equivale ao nosso conhecido "na maioria dos casos"
+# "like" aqui significa "típicos de" (vide definições de dicionários) e, por extensão, "relacionados à"
+msgid "In most places like point series, axes settings, function ranges, etc., you can use expressions like pi/4 instead of numbers."
+msgstr "Na maioria dos casos relacionados à série de pontos, configurações dos eixos, intervalos de funções, etc., você pode utilizar expressões, tipo \"pi/4\", ao invés de números."
+
+# padronização/pequenas correções
+# "under" aqui é simplesmente "em"
+msgid "You can create your own custom constants under Function|Custom functions for use in functions, point series, etc. For example g=9.80665, R=8.31"
+msgstr "Você pode criar suas próprias constantes personalizadas em 'Função|Funções/constantes personalizadas' para usar em funções, série de pontos, etc.  Por exemplo, g=9.80665, R=8.31."
+
+# idem
+msgid "You can create your own custom functions under Function|Custom functions for use in plotting functions, relations, etc. For example sinc(x)=if(x=0, 0, sin(x)/x)"
+msgstr "Você pode criar suas próprias funções personalizadas em 'Função|Funções/constantes personalizadas', para plotar funções, relações, etc. Por exemplo, sinc(x)=if(x=0, 0, sin(x)/x)."
+
+# padronização
+msgid "In the Save as image dialog there is an Option button you can use to specify the image resolution. This is especially useful if you want a high resolution image."
+msgstr "Na caixa de diálogo de 'Salvar como imagem' existe um botão de 'Opção' que pode ser usado para especificar a resolução da imagem. Isso é particularmente útil quando se deseja uma imagem de alta resolução."
+
+# O texto original está redundante, fiz umas simplificações de estilo e correções básicas
+# "show" aqui significa "indicar" e, por extensão, "representar"
+msgid "Point series can have arrows as markers. A point series with arrows as markers and lines between the points can be used to show vectors."
+msgstr "Séries de pontos podem ter setas como marcadores. Uma série de pontos desse tipo, com linhas interligando os pontos, pode ser utilizada para representar um vetor."
+
+msgid "Insert symbol"
+msgstr "Inserir símbolo"
+
+msgid "Subset:"
+msgstr "Subconjunto:"
+
+msgid "Insert"
+msgstr "Inserir"
+
+# "a" é dispensável aqui
+msgid "Select color"
+msgstr "Selecionar cor"
+
+# verbo no tempo errado
+msgid "Customize"
+msgstr "Personalizar"
+
+msgid "Description"
+msgstr "Descrição"
+
+# tradução na forma impessoal
+msgid "Cannot open clipboard: %s"
+msgstr "Não é possível abrir a área de transferência: %s"
+
+msgid "There is no default printer currently selected."
+msgstr "Não há impressora padrão definida."
+
+msgid "Install for all users"
+msgstr "Instalar para todos os usuários"
+
+msgid "Examples"
+msgstr "Exemplos"
+
+msgid "Local"
+msgstr "Local"
+
+# naõ consegui achar este menu mas, acredito que "global" aqui esteja emcontraposição a "local'. Nesse caso, a melhor tradução é "GLOBAL" mesmo (e não geral).
+msgid "Global"
+msgstr "Global"
+
+#. PrintFrm..Caption
+msgid "Print"
+msgstr "Imprimir"
+
+#. PrintFrm..Label6..Caption
+msgid "Scale:"
+msgstr "Escala:"
+
+#. PrintFrm..GroupBox1..Caption
+msgid "Printer"
+msgstr "Impressora"
+
+#. PrintFrm..GroupBox1..Label7..Caption
+msgid "Type:"
+msgstr "Tipo:"
+
+#. PrintFrm..GroupBox1..Label8..Caption
+msgid "Where:"
+msgstr "Onde:"
+
+#. PrintFrm..GroupBox1..Label9..Caption
+msgid "Comment:"
+msgstr "Comentário:"
+
+#. PrintFrm..GroupBox1..ComboBox1....Hint
+msgid "Select the printer to use. The Properties button may be used to change more advanced settings for the printer."
+msgstr "Selecione a impressora a ser usada. O botão Propriedades pode ser usado para mudar configurações mais avançadas da impressora."
+
+# "to print in color" = para imprimir em cores
+#. PrintFrm..RadioGroup2....Hint
+msgid "Select to print in color (or grayscale if your printer is not a color printer) or convert all colors to black."
+msgstr "Seleciona imprimir em cores (ou escala de cinza, se sua impressora não for colorida) ou converter todas as cores para preto."
+
+# output = saída
+#. PrintFrm..RadioGroup2..Caption
+msgid "Print output"
+msgstr "Saída de impressão"
+
+#. PrintFrm..RadioGroup2....Items.Strings
+msgid "Color"
+msgstr "Cor"
+
+#. PrintFrm..RadioGroup2....Items.Strings
+msgid "Black && white"
+msgstr "Preto e Branco"
+
+#. PrintFrm..GroupBox2..Caption
+msgid "Position (millimeters)"
+msgstr "Posição (milímetros)"
+
+#. PrintFrm..GroupBox2..Label3..Caption
+msgid "Left margin:"
+msgstr "Margem esquerda:"
+
+#. PrintFrm..GroupBox2..Label4..Caption
+msgid "Top margin:"
+msgstr "Margem superior:"
+
+#. PrintFrm..GroupBox2..CheckBox1..Hint
+msgid "Center the printing area on the page."
+msgstr "Centraliza a área de impressão na página."
+
+# "center" aqui é verbo
+#. PrintFrm..GroupBox2..CheckBox1..Caption
+msgid "Center on page"
+msgstr "Centralizar na página"
+
+# tempo do verbo estava errado
+#. PrintFrm..GroupBox2..Edit1....Hint
+#. PrintFrm..GroupBox2..Edit2....Hint
+msgid "Specify the printing area of the page. The printer will print only within these margins."
+msgstr "Especifica a área de impressão da página. A impressora irá imprimir apenas dentro dessas margens."
+
+#. PrintFrm..GroupBox3..Label5..Caption
+msgid "Number of copies:"
+msgstr "Número de cópias:"
+
+# tradução incompleta
+#. PrintFrm..GroupBox3..Edit3..Hint
+msgid "Choose number of copies to print."
+msgstr "Seleciona o número de cópias a serem impressas."
+
+# Aqui me pareceu mais adequado se fazer uma tradução livre, pois o que é necessário aqui é se explicar ao usuário o que significa a palavra "escala" (e não a sugerí-lo a entrar com dados ali)
+#. PrintFrm..Edit4..Hint
+msgid "Enter percent of original size."
+msgstr "Ajusta para um percentual do tamanho original."
+
+# "com o Graph" é mais correto
+#~ msgid "Associate *.grf files with Graph."
+#~ msgstr "Associa arquivos *.grf com o Graph."
+
+#~ msgid "Associate .grf files"
+#~ msgstr "Associa arquivos .grf"
+
+#~ msgid "Integral"
+#~ msgstr "Integral"
+
+#~ msgid "Calculate definite integral"
+#~ msgstr "Calcular integral definida"
+
+# "integrate" aqui é um verbo (calcular a integral de , integrar).
+# "integral" é que corresponde à integral
+#~ msgid "Integrate"
+#~ msgstr "Integrar"
+
+#~ msgid "Area or length of path calculated for the given range using Simpson's formula."
+#~ msgstr "Área ou comprimento da curva calculada para o intervalo dado usando a fórmula de Simpson."
+
+#~ msgid "Extremum"
+#~ msgstr "Extremidade"
+
+#~ msgid "This is the functions second derivative evaluated for the entered value."
+#~ msgstr "Esta é a derivada segunda da função, calculada para o valor-x informado."
+
+#~ msgid "Zoom in."
+#~ msgstr "Amplia."
+
+#~ msgid "Zoom out."
+#~ msgstr "Reduz."
+
+#~ msgid "Zoom to standard coordinates."
+#~ msgstr "Retornar a forma padrão."
+
+#~ msgid "Calculates the area under the path of the selected function."
+#~ msgstr "Calcula a área sobre o intervalo da função selecionada."
+
+#~ msgid "Go to home page"
+#~ msgstr "Vai para Home Page"
+
+#~ msgid "About Graph..."
+#~ msgstr "Sobre o Graph..."
+
+#~ msgid "All points"
+#~ msgstr "Todos os pontos"
+
+#~ msgid "Zoom as much as all points are visible."
+#~ msgstr "Ajusta o Zoom para mostrar todos os pontos que são visíveis."
+
+#~ msgid "Zoom in on the x-axis only."
+#~ msgstr "Amplia somente no eixo-x."
+
+#~ msgid "Zoom out on the x-axis only."
+#~ msgstr "Reduz somente no eixo-x."
+
+#~ msgid "Zoom in on the y-axis only."
+#~ msgstr "Amplia somento no eixo-y."
+
+#~ msgid "Zoom out on the y-axis only."
+#~ msgstr "Reduz somente no eixo-y."
+
+#~ msgid "Custom functions..."
+#~ msgstr "Funções otimizadas..."
+
+#~ msgid "Mark end of range"
+#~ msgstr "Delimita o fim do intervalo"
+
+#~ msgid "Mark the start of the shading with a line."
+#~ msgstr "Delimita o início do sombreamento com uma linha."
+
+#~ msgid "Mark start of range"
+#~ msgstr "Delimita o inicio do intervalo"
+
+#~ msgid "Image information"
+#~ msgstr "Informações da imagem"
+
+#~ msgid "Open the file %s."
+#~ msgstr "Abrir o arquivo %s."
+
+#~ msgid "Text [*.txt; *.csv]|*.txt;*.csv|All files [*.*]|*.*"
+#~ msgstr "Texto [*.txt; *.csv]|*.txt;*.csv|Todos os arquivos [*.*]|*.*"
+
+#~ msgid "The server responded with the message '%s'"
+#~ msgstr "O servidor respondeu com a mensagem ' %s'"
+
+#~ msgid "Protocol reply error %s"
+#~ msgstr "Retorno de erro do protocolo %s"
+
+#~ msgid "You can send suggestions for future versions, bug reports and comments to graph@padowan.dk"
+#~ msgstr "Você pode dar sugestões para as versões futuras, relatar erros e comentarios enviando um email para: graph@padowan.dk"
+
+#~ msgid "Select to place the image on the middle of the page."
+#~ msgstr "Selecione o lugar da imagem no meio da página."
+
+#~ msgid "Insert shade..."
+#~ msgstr "Inserir sombra..."
+
+#~ msgid "Shade"
+#~ msgstr "Sombra"
+
+#~ msgid "Black"
+#~ msgstr "Preto"
+
+#~ msgid "Maroon"
+#~ msgstr "Castanho"
+
+#~ msgid "Green"
+#~ msgstr "Verde"
+
+#~ msgid "Olive"
+#~ msgstr "Verde oliva"
+
+#~ msgid "Navy"
+#~ msgstr "Azul marinho"
+
+#~ msgid "Purple"
+#~ msgstr "Violeta"
+
+#~ msgid "Gray"
+#~ msgstr "Cinza"
+
+#~ msgid "Silver"
+#~ msgstr "Prata"
+
+#~ msgid "Red"
+#~ msgstr "Vermelho"
+
+#~ msgid "Lime"
+#~ msgstr "Verde limão"
+
+#~ msgid "Yellow"
+#~ msgstr "Amarelo"
+
+#~ msgid "Blue"
+#~ msgstr "Azul"
+
+#~ msgid "Fuchsia"
+#~ msgstr "Cor-de-rosa"
+
+#~ msgid "Aqua"
+#~ msgstr "Azul claro"
+
+#~ msgid "Money Green"
+#~ msgstr "Verde moeda"
+
+#~ msgid "Sky Blue"
+#~ msgstr "Azul céu"
+
+#~ msgid "Med Gray"
+#~ msgstr "Cinza médio"
+
+#~ msgid "Insert a text label (select and click in the main window where you want the label)."
+#~ msgstr "Insere um rótulo de texto (selecione e clique na janela principal onde você deseja o rótulo)"
+
+#~ msgid "Cut the selected text to the clipboard"
+#~ msgstr "Recorta e envia o texto selecionado para a área de transferência."
+
+#~ msgid "Open an animation file."
+#~ msgstr "Abrir um arquivo de animação."
+
+#, fuzzy
+#~ msgid "Version -%s"
+#~ msgstr "Versão "
+
+#~ msgid "Visible"
+#~ msgstr "Visivel"
+
+#~ msgid "Check to make the selected item visible in the coordinate system."
+#~ msgstr "Se marcado, o item selecionado torna-se visível no sistema de coordenadas."
+
+#~ msgid "Functions"
+#~ msgstr "Funções"
+
+#~ msgid "Tangents"
+#~ msgstr "Tangentes"
+
+#~ msgid "Point series"
+#~ msgstr "Série de Pontos"
+
+#~ msgid "Shades"
+#~ msgstr "Sombras"
+
+#~ msgid "No error occurred. You should not see this message."
+#~ msgstr "Não ocorreu nenhum erro. Você não deve ver esta mensagem."
+
+#~ msgid "Conversion error"
+#~ msgstr "Erro de conversão"
+
+#~ msgid ""
+#~ "Unknown error code.\n"
+#~ "Could not find error message for this error."
+#~ msgstr ""
+#~ "Código de erro desconhecido. \n"
+#~ "Não podia encontrar a mensagem para este erro."
+
+#~ msgid "This error should not occur. Please report this to the programmer."
+#~ msgstr "Este erro não deve ocorrer. Relate, por favor, isto ao programador."
+
+#~ msgid "The maximum length of text has been reached."
+#~ msgstr "O tamanho máximo do texto foi alcançado."
+
+#~ msgid "Dialog error: %sh"
+#~ msgstr "Erro de dialogo: %sh"
+
+#~ msgid "Unknown Graph data found while pasting clipboard data."
+#~ msgstr "O Graph encontrou dados desconhecidos ao colar dados da área de transferência."

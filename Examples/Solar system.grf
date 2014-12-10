@@ -1,0 +1,190 @@
+;This file was created by Graph (http://www.padowan.dk)
+;Do not change this file from other programs.
+[Graph]
+Version = 4.4.0.420
+MinVersion = 2.5
+OS = Windows XP 5.1 Service Pack 3
+
+[Axes]
+xMin = -5.53947368
+xMax = 5.46052632
+xTickUnit = 1
+xGridUnit = 1
+xShowTicks = 0
+xShowNumbers = 0
+yMin = -4.31573311
+yMax = 6.68426689
+yTickUnit = 2
+yGridUnit = 2
+yShowTicks = 0
+yShowNumbers = 0
+AxesColor = clBlack
+GridColor = clBlack
+NumberFont = Times New Roman,14,clBlack
+LabelFont = Times New Roman,24,clBlack,B
+LegendFont = Times New Roman,14,clBlack
+ShowLegend = 0
+Radian = 1
+Title = Planet orbiting the Sun
+TitleFont = Times New Roman,24,clBlack
+AxesStyle = 0
+
+[Func1]
+FuncType = 1
+x = 5cos t
+y = 4sin t
+From = 0
+To = 2pi
+Steps = 1000
+Color = clBlack
+
+[Func2]
+FuncType = 0
+y = if((x<-3),(-1.696*x+(-5.088)),(9.71429*x+29.1429))
+From = -4.25
+To = -2.66
+Style = 2
+Color = clBlack
+
+[Shade1]
+LegendText = Area 1
+ShadeStyle = 4
+BrushStyle = 5
+Color = clSilver
+FuncNo = 2
+Func2No = 1
+sMin = -4.25
+sMax = -2.65
+sMin2 = 2.1237
+sMax2 = 2.5887
+MarkStart = 0
+MarkEnd = 0
+
+[Func3]
+FuncType = 0
+y = 0.186441*x+0.559322
+From = -3
+To = 4.67
+Style = 2
+Color = clBlack
+
+[Func4]
+FuncType = 0
+y = 0.256757*x+0.77027
+From = -3
+To = 4.4
+Style = 2
+Color = clBlack
+
+[Shade2]
+LegendText = Area 2
+ShadeStyle = 4
+BrushStyle = 5
+Color = 0x0066CC66
+FuncNo = 4
+Func2No = 3
+sMin = -3
+sMax = 4.4
+sMin2 = -3
+sMax2 = 4.67
+MarkStart = 0
+MarkEnd = 0
+
+[PointSeries1]
+FillColor = clBlack
+LineColor = clBlack
+Size = 5
+Style = 6
+LineSize = 5
+Font = Times New Roman,14,clBlack
+LabelPosition = 1
+Points = 0,0;
+ShowInLegend = 0
+LegendText = Centrum
+
+[PointSeries2]
+FillColor = clYellow
+LineColor = clBlack
+Size = 15
+Style = 0
+LineSize = 5
+Font = Times New Roman,14,clBlack
+LabelPosition = 1
+Points = -3,0;
+LegendText = Sun
+
+[PointSeries3]
+FillColor = clBlack
+LineColor = clBlack
+Size = 4
+Style = 0
+LineSize = 5
+Font = Times New Roman,14,clBlack
+LabelPosition = 1
+Points = -4.25,2.1;-2.65,3.39;4.67,1.43;4.4,1.9;
+LegendText = Planet
+
+[Label1]
+Placement = 0
+Pos = -3.27631578526316;-0.335255350527183
+Text = {\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang1030{\\fonttbl{\\f0\\fdecor\\fprq15\\fcharset0 Times New Roman;}}\n{\\colortbl ;\\red0\\green0\\blue0;}\n\\viewkind4\\uc1\\pard\\cf1\\f0\\fs48 Sun\\i\\fs28\\par\n}\n
+BackgroundColor = clNone
+ShowInLegend = 0
+
+[Label2]
+Placement = 0
+Pos = -5.34816933217391;6.62575625170213
+Text = {\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang3082{\\fonttbl{\\f0\\fnil\\fcharset0 Times New Roman;}}\n{\\colortbl ;\\red0\\green0\\blue0;}\n\\viewkind4\\uc1\\pard\\cf1\\ul\\b\\f0\\fs24 Kepler's Second Law\\ulnone\\b0\\par\nA line joining a planet and the sun (radius vector) sweeps \\par\nout equal areas in equal times, i.e. A1=A2. \\par\nNote: The eccentricity of the orbit has been exaggerated for illustrative purposes.\\fs28\\par\n}\n
+BackgroundColor = 0x00FFCC99
+ShowInLegend = 0
+
+[Label3]
+Placement = 0
+Pos = -3.44736842105263;1.94810543657331
+Text = {\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang3082{\\fonttbl{\\f0\\fnil\\fcharset0 Times New Roman;}{\\f1\\fnil Times New Roman;}}\n{\\colortbl ;\\red0\\green0\\blue0;}\n\\viewkind4\\uc1\\pard\\cf1\\f0\\fs28 A1\\f1\\fs24\\par\n}\n
+BackgroundColor = clNone
+ShowInLegend = 0
+
+[Label4]
+Placement = 0
+Pos = 3.33704805913044;1.68160731553192
+Text = {\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang3082{\\fonttbl{\\f0\\fnil\\fcharset0 Times New Roman;}}\n{\\colortbl ;\\red0\\green0\\blue0;}\n\\viewkind4\\uc1\\pard\\cf1\\f0\\fs28 A2\\b\\par\n}\n
+BackgroundColor = clNone
+ShowInLegend = 0
+
+[Label5]
+Placement = 7
+Pos = -2.62191095598566;3.2904684403876
+Text = {\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang3082{\\fonttbl{\\f0\\fnil\\fcharset0 Times New Roman;}}\n{\\colortbl ;\\red0\\green0\\blue0;}\n\\viewkind4\\uc1\\pard\\cf1\\f0\\fs24 1\\par\n}\n
+BackgroundColor = clNone
+ShowInLegend = 0
+
+[Label6]
+Placement = 7
+Pos = -4.18911525706093;2.04550720007752
+Text = {\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang3082{\\fonttbl{\\f0\\fnil\\fcharset0 Times New Roman;}}\n{\\colortbl ;\\red0\\green0\\blue0;}\n\\viewkind4\\uc1\\pard\\cf1\\f0\\fs24 2\\par\n}\n
+BackgroundColor = clNone
+ShowInLegend = 0
+
+[Label7]
+Placement = 6
+Pos = 4.73356979826087;1.21352220914894
+Text = {\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang3082{\\fonttbl{\\f0\\fnil\\fcharset0 Times New Roman;}}\n{\\colortbl ;\\red0\\green0\\blue0;}\n\\viewkind4\\uc1\\pard\\cf1\\f0\\fs24 3\\par\n}\n
+BackgroundColor = clNone
+ShowInLegend = 0
+
+[Label8]
+Placement = 6
+Pos = 4.50400458086957;1.76937327297872
+Text = {\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang3082{\\fonttbl{\\f0\\fnil\\fcharset0 Times New Roman;}}\n{\\colortbl ;\\red0\\green0\\blue0;}\n\\viewkind4\\uc1\\pard\\cf1\\f0\\fs24 4\\par\n}\n
+BackgroundColor = clNone
+ShowInLegend = 0
+
+[Data]
+TextLabelCount = 8
+FuncCount = 4
+PointSeriesCount = 3
+ShadeCount = 2
+RelationCount = 0
+OleObjectCount = 0
+

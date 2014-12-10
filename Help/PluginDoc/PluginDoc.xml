@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book SYSTEM "dtd/dblite.dtd" [
+<!ENTITY theta  "<markup role='symbolfont'>&#x003B8;</markup>"> <!-- GREEK SMALL LETTER THETA -->
+]>
+<book id="Plugin" lang="en" xmlns:xi="http://www.w3.org/2001/XInclude">
+	<title>Scripting Engine Documentation for Graph</title>
+	<subtitle>
+		<mediaobject>
+	  	<imageobject role="fo"><imagedata fileref="Graph_Icon.svg" scale="200"/></imageobject>
+  		<imageobject role="htmlhelp"><imagedata fileref="GraphIcon.png"/></imageobject>
+  		<imageobject role="html"><imagedata fileref="GraphIcon.png"/></imageobject>
+		</mediaobject>
+	</subtitle>
+	<xi:include href="../Source/version.xml"/>
+	<bookinfo>
+		<authorgroup>
+		</authorgroup>
+		<copyright>
+			<year>2012</year>
+			<holder>Ivan Johansen</holder>
+		</copyright>
+	</bookinfo>
+	<!-- include external files -->
+	<xi:include href="Overview.xml"/>
+	<xi:include href="GraphModule.xml"/>
+	<xi:include href="VclModule.xml"/>
+</book>

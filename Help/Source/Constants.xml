@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE chapter SYSTEM "dtd/dblite.dtd" [
+<!ENTITY % Symbols SYSTEM "Symbols.ent">
+%Symbols;
+] >
+<section id="Constants">
+	<title>Constants</title>
+	<section id="rand" xreflabel="rand">
+		<title>rand constant</title>
+		<indexterm><primary><constant>rand</constant></primary></indexterm>
+		<indexterm><primary>random</primary></indexterm>
+		<para>
+			Returns a random number in the range 0 to 1.
+		</para>
+		<simplesect>
+			<title>Syntax</title>
+			<para><mathphrase>rand</mathphrase></para>
+		</simplesect>
+		<simplesect>
+			<title>Description</title>
+			<para>
+				<function>rand</function> is used as a constant but returns a new pseudo-random number each time it is evaluated. The value is a real number in the range [0;1].
+			</para>
+		</simplesect>
+		<simplesect>
+			<title>Remarks</title>
+			<para>
+				Because <function>rand</function> returns a new value each time it is evaluated, a graph using <function>rand</function> will not look the same each time it is drawn.
+				A graph using <function>rand</function> will also change when the program is forced to redraw, e.g. because the coordinate system is moved, resized or zoomed.
+			</para>
+		</simplesect>
+		<simplesect>
+			<title>Implementation</title>
+			<para>
+				<function>rand</function> uses a multiplicative congruential random number generator with period 2 to the 32<superscript>nd</superscript> power to return successive pseudo-random numbers in the range from 0 to 1.
+			</para>
+		</simplesect>
+		<simplesect>
+			<title>See also</title>
+			<para>
+				<simplelist>
+					<member><ulink url="http://en.wikipedia.org/wiki/Random_number_generator#Computational_methods"><orgname>Wikipedia</orgname></ulink></member>
+					<member><ulink url="http://mathworld.wolfram.com/RandomNumber.html"><orgname>MathWorld</orgname></ulink></member>
+				</simplelist>
+			</para>
+		</simplesect>
+	</section>
+</section>

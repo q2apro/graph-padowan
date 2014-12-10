@@ -1,0 +1,3791 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Graph 3.2\n"
+"POT-Creation-Date: 2012-11-12 22:11\n"
+"PO-Revision-Date: 2012-11-07 21:05+0100\n"
+"Last-Translator: Michael Bach Ipsen <rosenthall@hotmail.com>\n"
+"Language-Team: Frank Hüttemeister & Michael Bach Ipsen <deutsch@padowan.dk>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Form1..Recent1..Hint
+msgid "Open file: %s"
+msgstr "Öffne die Datei %s"
+
+#. Form1..PopupMenu1..Tree_ShowInLegend..Caption
+msgid "Show in legend"
+msgstr "In der Legende anzeigen"
+
+#. Form1..PopupMenu1..Tree_ShowInLegend..Hint
+msgid "Check to show the selected item in the legend."
+msgstr "Aktivieren, um das gewählte Element in der Legende anzuzeigen."
+
+#. Form1..PopupMenu1..Tree_Placement..Caption
+#. Form1..PopupMenu3..Label_Placement..Caption
+#. Form1..PopupMenu4..Legend_Placement..Caption
+#. Form21..Caption
+msgid "Placement"
+msgstr "Platzierung"
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Above..Caption
+#. Form1..PopupMenu3..Label_Placement..Label_Above..Caption
+msgid "Above x-axis"
+msgstr "Über der X-Achse"
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Above....Hint
+#. Form1..PopupMenu3..Label_Placement..Label_Above....Hint
+msgid "Place the label directly above the x-axis on the right side of the image."
+msgstr "Platziert den Textfeld rechts im Bild, direkt über der X-Achse."
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Below..Caption
+#. Form1..PopupMenu3..Label_Placement..Label_Below..Caption
+msgid "Below x-axis"
+msgstr "Unter der X-Achse"
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Below....Hint
+#. Form1..PopupMenu3..Label_Placement..Label_Below....Hint
+msgid "Place the label directly below the x-axis on the right side of the image."
+msgstr "Platziert den Textfeld rechts im Bild, direkt unter der X-Achse."
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Left..Caption
+#. Form1..PopupMenu3..Label_Placement..Label_Left..Caption
+msgid "Left of y-axis"
+msgstr "Links der Y-Achse"
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Left....Hint
+#. Form1..PopupMenu3..Label_Placement..Label_Left....Hint
+msgid "Place the label to the left of the y-axis at the top of the image."
+msgstr "Platziert den Textfeld oben im Bild, direkt links der Y-Achse."
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Right..Caption
+#. Form1..PopupMenu3..Label_Placement..Label_Right..Caption
+msgid "Right of y-axis"
+msgstr "Rechts der Y-Achse"
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Right....Hint
+#. Form1..PopupMenu3..Label_Placement..Label_Right....Hint
+msgid "Place the label to the right of the y-axis at the top of the image."
+msgstr "Platziert den Textfeld oben im Bild, direkt rechts der Y-Achse."
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Placement_Custom..Caption
+#. Form1..PopupMenu1..Tree_Rotation..Tree_Rotation_Custom..Caption
+#. Form1..PopupMenu3..Label_Placement..Label_Placement_Custom..Caption
+#. Form1..PopupMenu3..Label_Rotation..Label_Rotation_Custom..Caption
+#. Form11..GroupBox2..ExtColorBox1..CustomName
+#. Form12..GroupBox2..ExtColorBox1..CustomName
+#. Form13..GroupBox1..ExtColorBox1..CustomName
+#. Form14..PageControl1..TabSheet1..GroupBox1..ExtColorBox1..CustomName
+#. Form14..PageControl1..TabSheet1..GroupBox2..ExtColorBox2..CustomName
+#. Form16..PageControl1..TabSheet2..GroupBox3..ExtColorBox1..CustomName
+#. Form3..PageControl1..TabSheet4..GroupBox3..ExtColorBox1..CustomName
+#. Form3..PageControl1..TabSheet4..GroupBox3..ExtColorBox2..CustomName
+#. Form3..PageControl1..TabSheet4..GroupBox3..ExtColorBox3..CustomName
+#. Form5..GroupBox4..GridPanelEx1..ExtColorBox1..CustomName
+#. Form6..ColorBox1..CustomName
+#. Form6..ColorBox2..CustomName
+#. Form7..GroupBox4..ExtColorBox1..CustomName
+msgid "Custom..."
+msgstr "Benutzerdefiniert..."
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Placement_Custom..Hint
+#. Form1..PopupMenu3..Label_Placement..Label_Placement_Custom..Hint
+msgid "Place the label at a custom position."
+msgstr "Textfeld an einer beliebigen Stelle platzieren."
+
+#. Form1..PopupMenu1..Tree_Rotation..Caption
+#. Form1..PopupMenu3..Label_Rotation..Caption
+msgid "Rotation"
+msgstr "Rotation"
+
+#. Form1..PopupMenu1..Tree_Rotation..Tree_Rotation_0..Hint
+#. Form1..PopupMenu3..Label_Rotation..Rotation_0..Hint
+msgid "Show the label with no rotation."
+msgstr "Textfeld in der Anzeige nicht drehen."
+
+#. Form1..PopupMenu1..Tree_Rotation..Tree_Rotation_90..Hint
+#. Form1..PopupMenu3..Label_Rotation..Rotation_90..Hint
+msgid "Show the label rotated 90° counter clockwise."
+msgstr "Textfeld 90° im Uhrzeigersinn drehen."
+
+#. Form1..PopupMenu1..Tree_Rotation..Tree_Rotation_180..Hint
+#. Form1..PopupMenu3..Label_Rotation..Rotation_180..Hint
+msgid "Show the label rotated 180°."
+msgstr "Textfeld um 180° drehen."
+
+#. Form1..PopupMenu1..Tree_Rotation..Tree_Rotation_270..Hint
+#. Form1..PopupMenu3..Label_Rotation..Rotation_270..Hint
+msgid "Show the label rotated 270° counter clockwise."
+msgstr "Textfeld um 90° gegen den Uhrzeigersinn drehen."
+
+#. Form1..PopupMenu1..Tree_Rotation..Tree_Rotation_Custom..Hint
+#. Form1..PopupMenu3..Label_Rotation..Label_Rotation_Custom..Hint
+msgid "Specify the angle of rotation for the label."
+msgstr "Geben Sie den Drehwinkel für das Textfeld an."
+
+#. Form1..PopupMenu1..Tree_Export..Caption
+#. Form14..PopupMenu1..Popup_Export..Caption
+#. Form15..PopupMenu1..Popup1_Export..Caption
+#. Form17..PopupMenu1..Popup_Export..Caption
+msgid "Export to file..."
+msgstr "In Datei exportieren..."
+
+#. Form1..PopupMenu1..Tree_Export..Hint
+msgid "Export the selected point series to a file."
+msgstr "Ausgewählte Punktserie in eine Datei exportieren."
+
+#. Form1..ActionManager..............Caption
+msgid "Import"
+msgstr "Importieren"
+
+#. Form1..ActionManager..........Caption
+#. Form1..ActionManager..NewAction..Category
+#. Form1..ActionManager..OpenAction..Category
+#. Form1..ActionManager..SaveAction..Category
+#. Form1..ActionManager..SaveAsAction..Category
+#. Form1..ActionManager..SaveCopyAsAction..Category
+#. Form1..ActionManager..SaveAsImageAction..Category
+#. Form1..ActionManager..PrintAction..Category
+#. Form1..ActionManager..ExitAction..Category
+#. Form1..ActionManager..ImportGraphFileAction..Category
+#. Form1..ActionManager..ImportPointSeriesAction..Category
+msgid "File"
+msgstr "Datei"
+
+#. Form1..ActionManager..........Caption
+#. Form1..ActionManager..UndoAction..Category
+#. Form1..ActionManager..RedoAction..Category
+#. Form1..ActionManager..CutAction..Category
+#. Form1..ActionManager..CopyAction..Category
+#. Form1..ActionManager..PasteAction..Category
+#. Form1..ActionManager..CopyImageAction..Category
+#. Form1..ActionManager..AxesAction..Category
+#. Form1..ActionManager..OptionsAction..Category
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#. Form1..ActionManager..........Caption
+#. Form1..ActionManager..InsertFunctionAction..Category
+#. Form1..ActionManager..InsertTangentAction..Category
+#. Form1..ActionManager..InsertShadeAction..Category
+#. Form1..ActionManager..InsertPointsAction..Category
+#. Form1..ActionManager..InsertTrendlineAction..Category
+#. Form1..ActionManager..EditAction..Category
+#. Form1..ActionManager..DeleteAction..Category
+#. Form1..ActionManager..InsertDifAction..Category
+#. Form1..ActionManager..InsertLabelAction..Category
+#. Form1..ActionManager..InsertRelationAction..Category
+#. Form1..ActionManager..CustomFunctionsAction..Category
+#. ParFuncFrame..ComboBox1..Text
+#. ParFuncFrame..ComboBox1....Items.Strings
+#. PolFuncFrame..ComboBox1..Text
+#. PolFuncFrame..ComboBox1....Items.Strings
+#. StdFuncFrame..ComboBox1..Text
+#. StdFuncFrame..ComboBox1....Items.Strings
+msgid "Function"
+msgstr "Funktion"
+
+#. Form1..ActionManager..........Caption
+#. Form1..ActionManager..ZoomInAction..Category
+#. Form1..ActionManager..ZoomOutAction..Category
+#. Form1..ActionManager..ZoomWindowAction..Category
+#. Form1..ActionManager..ZoomSquareAction..Category
+#. Form1..ActionManager..ZoomStandardAction..Category
+#. Form1..ActionManager..ZoomFitAction..Category
+#. Form1..ActionManager..ZoomFitAllAction..Category
+#. Form1..ActionManager..ZoomXInAction..Category
+#. Form1..ActionManager..ZoomXOutAction..Category
+#. Form1..ActionManager..ZoomYInAction..Category
+#. Form1..ActionManager..ZoomYOutAction..Category
+msgid "Zoom"
+msgstr "Zoomen"
+
+#. Form1..ActionManager..........Caption
+#. Form1..ActionManager..PathAction..Category
+#. Form1..ActionManager..AreaAction..Category
+#. Form1..ActionManager..EvalAction..Category
+#. Form1..ActionManager..TableAction..Category
+#. Form1..ActionManager..AnimateAction..Category
+#. Form15..Button2..Caption
+msgid "Calc"
+msgstr "Berechnen"
+
+#. Form1..ActionManager..........Caption
+msgid "Plugins"
+msgstr "Plugins"
+
+#. Form1..ActionManager..............Caption
+msgid "Internet"
+msgstr "Internet"
+
+#. Form1..ActionManager..........Caption
+#. Form1..ActionManager..ContentsAction..Category
+#. Form1..ActionManager..ListAction..Category
+#. Form1..ActionManager..HomePageAction..Category
+#. Form1..ActionManager..UpdateAction..Category
+#. Form1..ActionManager..AboutAction..Category
+#. Form1..ActionManager..FaqAction..Category
+#. Form1..ActionManager..DonateAction..Category
+#. Form1..ActionManager..TipAction..Category
+#. Form1..ActionManager..SupportAction..Category
+#. Form1..ActionManager..ScriptDocAction..Category
+#. Form11..Button3..Caption
+#. Form12..Button3..Caption
+#. Form13..Button3..Caption
+#. Form14..Button3..Caption
+#. Form15..Button3..Caption
+#. Form16..Button3..Caption
+#. Form17..Button4..Caption
+#. Form19..Button3..Caption
+#. Form3..Button3..Caption
+#. Form4..Button3..Caption
+#. Form5..Button3..Caption
+#. Form6..Button3..Caption
+#. Form7..Button3..Caption
+msgid "Help"
+msgstr "?"
+
+#. Form1..ActionManager..NewAction..Caption
+msgid "New"
+msgstr "Neu"
+
+#. Form1..ActionManager..NewAction..Hint
+msgid "Create a new coordinate system."
+msgstr "Erstellt ein neues Koordinatensystem."
+
+#. Form1..ActionManager..OpenAction..Caption
+msgid "Open..."
+msgstr "Öffnen..."
+
+#. Form1..ActionManager..OpenAction..Hint
+msgid "Read a coordinate system from a file."
+msgstr "Gespeicherte Koordinatensysteme und Funktionen aus einer Datei laden."
+
+#. Form1..ActionManager..SaveAction..Caption
+msgid "Save"
+msgstr "Speichern"
+
+#. Form1..ActionManager..SaveAction..Hint
+msgid "Write the current coordinate system to a file."
+msgstr "Koordinatensystem und Funktionen in einer Datei abspeichern."
+
+#. Form1..ActionManager..SaveAsAction..Caption
+#. Form20..PopupMenu1..Save1..Caption
+msgid "Save as..."
+msgstr "Speichern unter..."
+
+#. Form1..ActionManager..SaveAsAction..Hint
+msgid "Write the current coordinate system to a file with a new name."
+msgstr "Speichert das Koordinatensystems unter einem neuen Namen."
+
+#. Form1..ActionManager..SaveCopyAsAction..Caption
+msgid "Save copy as..."
+msgstr "Kopie speichern unter"
+
+#. Form1..ActionManager..SaveCopyAsAction..Hint
+msgid "Save a copy of the current coordinate system to a file."
+msgstr "Eine Kopie des aktuellen Koordinatensystems abspeichern."
+
+#. Form1..ActionManager..SaveAsImageAction..Caption
+msgid "Save as image..."
+msgstr "Als Bilddatei abspeichern..."
+
+#. Form1..ActionManager..SaveAsImageAction..Hint
+msgid "Save the shown coordinate system as an image."
+msgstr "Das Koordinatensystem als Bilddatei (*.emf, *.bmp oder *.png) abspeichern."
+
+#. Form1..ActionManager..PrintAction..Caption
+msgid "Print..."
+msgstr "Drucken..."
+
+#. Form1..ActionManager..PrintAction..Hint
+msgid "Print shown coordinate system."
+msgstr "Druckt das angezeigte Koordinatensysteme aus."
+
+#. Form1..ActionManager..ExitAction..Caption
+msgid "Exit"
+msgstr "Beenden"
+
+#. Form1..ActionManager..ExitAction..Hint
+msgid "Quit the program."
+msgstr "Beendet das Programm."
+
+#. Form1..ActionManager..UndoAction..Caption
+#. Form6..PopupMenu1..Popup_Undo..Caption
+msgid "Undo"
+msgstr "Rückgängig"
+
+#. Form1..ActionManager..UndoAction..Hint
+msgid "Undo the last action."
+msgstr "Die letzte Aktion rückgängig machen."
+
+#. Form1..ActionManager..RedoAction..Caption
+#. Form6..PopupMenu1..Popup_Redo..Caption
+msgid "Redo"
+msgstr "Wiederherstellen"
+
+#. Form1..ActionManager..RedoAction..Hint
+msgid "Redo the last action undone."
+msgstr "Die letzte rückgängig gemachte Aktion wiederherstellen."
+
+#. Form1..ActionManager..CutAction..Caption
+#. Form14..PopupMenu1..Popup_Cut..Caption
+#. Form17..PopupMenu1..Popup_Cut..Caption
+#. Form6..PopupMenu1..Popup_Cut..Caption
+msgid "Cut"
+msgstr "Ausschneiden"
+
+#. Form1..ActionManager..CutAction..Hint
+msgid "Cut the selected function or point series to the clipboard."
+msgstr "Die gewählte Funktion oder Punktserie ausschneiden und  in der Zwischenablage ablegen."
+
+#. Form1..ActionManager..CopyAction..Caption
+#. Form14..PopupMenu1..Popup_Copy..Caption
+#. Form15..PopupMenu1..Popup1_Copy..Caption
+#. Form17..PopupMenu1..Popup_Copy..Caption
+#. Form6..PopupMenu1..Popup_Copy..Caption
+msgid "Copy"
+msgstr "Kopieren"
+
+#. Form1..ActionManager..CopyAction..Hint
+msgid "Copy the selected function or point series to the clipboard."
+msgstr "Funktion oder Punktserie in die Zwischenablage kopieren."
+
+#. Form1..ActionManager..PasteAction..Caption
+#. Form14..PopupMenu1..Popup_Paste..Caption
+#. Form17..PopupMenu1..Popup_Paste..Caption
+#. Form6..PopupMenu1..Popup_Paste..Caption
+msgid "Paste"
+msgstr "Einfügen"
+
+#. Form1..ActionManager..PasteAction....Hint
+msgid "Paste a function or point series from the clipboard into the coordinate system."
+msgstr "Funktion oder Punktserie aus der Zwischenablage ins Koordinatensystem einfügen."
+
+#. Form1..ActionManager..CopyImageAction..Caption
+msgid "Copy image"
+msgstr "Koordinatensystem kopieren"
+
+#. Form1..ActionManager..CopyImageAction..Hint
+msgid "Copy the shown coordinate system to the clipboard."
+msgstr " Koordinatensystem in die Zwischenablage kopieren."
+
+#. Form1..ActionManager..AxesAction..Caption
+msgid "Axes..."
+msgstr "Achsen..."
+
+#. Form1..ActionManager..AxesAction..Hint
+msgid "Edit axes settings."
+msgstr "Achseneinstellungen bearbeiten"
+
+#. Form1..ActionManager..OptionsAction..Caption
+#. Form1..SaveDialogEx1..HelpCaption
+#. Form19..Button4..Caption
+msgid "Options..."
+msgstr "Einstellungen..."
+
+#. Form1..ActionManager..OptionsAction..Hint
+msgid "Edit various options for the interface and program features."
+msgstr "Optionen für Bildschirm- und Programm-Einstellungen bearbeiten."
+
+#. Form1..ActionManager..InsertFunctionAction..Caption
+msgid "Insert function..."
+msgstr "Funktion einfügen..."
+
+#. Form1..ActionManager..InsertFunctionAction..Hint
+msgid "Insert a new function."
+msgstr "Eine neue Funktion einfügen."
+
+#. Form1..ActionManager..InsertTangentAction..Caption
+msgid "Insert tangent/normal..."
+msgstr "Tangente/Normale einfügen..."
+
+#. Form1..ActionManager..InsertTangentAction..Hint
+msgid "Insert a tangent or normal for the selected function."
+msgstr "Eine neue Tangente oder Normale für die ausgewählte Funktion einfügen."
+
+#. Form1..ActionManager..InsertShadeAction..Caption
+msgid "Insert shading..."
+msgstr "Schraffur einfügen..."
+
+#. Form1..ActionManager..InsertShadeAction..Hint
+msgid "Add shading to the selected function."
+msgstr "Fügt der markierten Funktion eine Schraffur hinzu."
+
+#. Form1..ActionManager..InsertPointsAction..Caption
+msgid "Insert point series..."
+msgstr "Punktserie einfügen..."
+
+#. Form1..ActionManager..InsertPointsAction..Hint
+msgid "Insert a point series."
+msgstr "Punktserie einfügen."
+
+#. Form1..ActionManager..InsertTrendlineAction..Caption
+msgid "Insert trendline..."
+msgstr "Trendlinie einfügen..."
+
+#. Form1..ActionManager..InsertTrendlineAction..Hint
+msgid "Insert a curve of best fit for the selected point series."
+msgstr "Eine Kurve durch die markierte Punktserie einfügen."
+
+#. Form1..ActionManager..EditAction..Caption
+msgid "Edit..."
+msgstr "Bearbeiten..."
+
+#. Form1..ActionManager..EditAction..Hint
+msgid "Edit the selected element: Function, tangent, point series, etc."
+msgstr "Die gewählte Funktion, Tangente oder Punktserie usw. bearbeiten."
+
+#. Form1..ActionManager..DeleteAction..Caption
+#. Form14..PopupMenu1..Popup_Delete..Caption
+#. Form17..PopupMenu1..Popup_Delete..Caption
+msgid "Delete"
+msgstr "Löschen"
+
+#. Form1..ActionManager..DeleteAction..Hint
+msgid "Delete the selected function, tangent or point series."
+msgstr "Die gewählte Funktion, Tangente oder Punktserie löschen."
+
+#. Form1..ActionManager..InsertDifAction..Caption
+msgid "Insert f'(x)..."
+msgstr "Ableitungsfunktion f'(x) einfügen..."
+
+#. Form1..ActionManager..InsertDifAction..Hint
+msgid "Insert the first derivative of the selected function."
+msgstr "Die erste Ableitung der Funktion einfügen."
+
+#. Form1..ActionManager..ZoomInAction..Caption
+msgid "In"
+msgstr "Vergrößern"
+
+#. Form1..ActionManager..ZoomInAction..Hint
+msgid "Zoom in. Hold down Shift to zoom with larger steps."
+msgstr "Vergrößern. Umschalt-Taste sorgt für schnelleren Zoom."
+
+#. Form1..ActionManager..ZoomOutAction..Caption
+msgid "Out"
+msgstr "Verkleinern"
+
+#. Form1..ActionManager..ZoomOutAction..Hint
+msgid "Zoom out. Hold down Shift to zoom with larger steps."
+msgstr "Verkleinern. Umschalt-Taste sorgt für schnelleren Zoom."
+
+#. Form1..ActionManager..ZoomWindowAction..Caption
+msgid "Window"
+msgstr "Fenster"
+
+#. Form1..ActionManager..ZoomWindowAction..Hint
+msgid "Zoom to user selected window."
+msgstr "Bereich vergrößern."
+
+#. Form1..ActionManager..ZoomSquareAction..Caption
+msgid "Square"
+msgstr "Quadrat"
+
+#. Form1..ActionManager..ZoomSquareAction....Hint
+msgid "Zoom to scale the axes equally. This will show a plotted circle in its correct relation instead of an ellipse."
+msgstr "Zoomen, um die Achsen einheitlich zu skalieren. Dies stellt einen Kreis mit korrekten Seitenverhältnisse dar (statt einer Ellipse)."
+
+#. Form1..ActionManager..ZoomStandardAction..Caption
+msgid "Standard"
+msgstr "Standard"
+
+#. Form1..ActionManager..ZoomStandardAction..Hint
+msgid "Reset the axes to their default settings."
+msgstr "Koordinatenachsen auf Voreinstellungen zurücksetzen."
+
+#. Form1..ActionManager..MoveUpAction..Category
+#. Form1..ActionManager..MoveDownAction..Category
+#. Form1..ActionManager..MoveLeftAction..Category
+#. Form1..ActionManager..MoveRightAction..Category
+#. Form1..ActionManager..MoveAction..Category
+msgid "Move"
+msgstr "verschieben"
+
+#. Form1..ActionManager..MoveUpAction..Caption
+msgid "Move up"
+msgstr "Nach oben verschieben"
+
+#. Form1..ActionManager..MoveUpAction....Hint
+msgid "Move the graphing area up along the coordinate system. Hold down Shift to move in larger steps."
+msgstr "Das Fenster nach oben entlang des Koordinatensystems verschieben."
+
+#. Form1..ActionManager..MoveDownAction..Caption
+msgid "Move down"
+msgstr "Nach unten verschieben"
+
+#. Form1..ActionManager..MoveDownAction....Hint
+msgid "Move the graphing area down along the coordinate system. Hold down Shift to move in larger steps."
+msgstr "Das Fenster nach unten entlang des Koordinatensystems verschieben."
+
+#. Form1..ActionManager..MoveLeftAction..Caption
+msgid "Move left"
+msgstr "Nach links verschieben"
+
+#. Form1..ActionManager..MoveLeftAction....Hint
+msgid "Move the graphing area to the left along the coordinate system. Hold down Shift to move in larger steps."
+msgstr "Das Fenster nach oben links des Koordinatensystems verschieben."
+
+#. Form1..ActionManager..MoveRightAction..Caption
+msgid "Move right"
+msgstr "Rechts verschieben"
+
+#. Form1..ActionManager..MoveRightAction....Hint
+msgid "Move the graphing area to the right along the coordinate system. Hold down Shift to move in larger steps."
+msgstr "Das Fenster nach rechts entlang des Koordinatensystems verschieben."
+
+#. Form1..ActionManager..MoveAction..Caption
+msgid "Move system"
+msgstr "Koordinatensystem verschieben"
+
+#. Form1..ActionManager..MoveAction..Hint
+msgid "Move the coordinate system with the mouse."
+msgstr "Koordinatensystem mit der Maus verschieben"
+
+#. Form1..ActionManager..PathAction..Caption
+msgid "Length of path"
+msgstr "Länge eines Kurvenstücks"
+
+#. Form1..ActionManager..PathAction....Hint
+msgid "Calculate the length of path between two given points on the curve."
+msgstr "Die Länge eines Kurvenstücks zwischen zwei Punkten berechnen."
+
+#. Form1..ActionManager..AreaAction..Caption
+#. AreaFrame..GridPanel1..Label3..Caption
+msgid "Area"
+msgstr "Fläche"
+
+#. Form1..ActionManager..AreaAction..Hint
+msgid "Calculate the definite integral over a given interval."
+msgstr "Berechnung des bestimmten Integrals über einen Definitionsbereich."
+
+#. Form1..ActionManager..EvalAction..Caption
+#. Form9..Caption
+msgid "Evaluate"
+msgstr "Evaluieren"
+
+#. Form1..ActionManager..EvalAction..Hint
+msgid "Evaluate or trace the selected function."
+msgstr "Funktionswerte der gewählten Funktion berechnen oder deren Graph verfolgen."
+
+#. Form1..ActionManager..TableAction..Caption
+msgid "Table"
+msgstr "Tabelle"
+
+#. Form1..ActionManager..TableAction..Hint
+msgid "Show an evaluation table."
+msgstr "Zeigt eine Wertetabelle."
+
+#. Form1..ActionManager..ContentsAction..Caption
+msgid "Contents and index"
+msgstr "Inhalt und Index"
+
+#. Form1..ActionManager..ContentsAction..Hint
+msgid "Open help file."
+msgstr "Hilfedatei öffnen"
+
+#. Form1..ActionManager..ListAction..Caption
+msgid "List of functions"
+msgstr "Funktionsliste"
+
+#. Form1..ActionManager..ListAction..Hint
+msgid "Show a list of built-in functions that can be used for graphing."
+msgstr "Liste verwendbarer mathematischer Funktionen (sin, cos, log usw.) anzeigen."
+
+#. Form1..ActionManager..HomePageAction..Caption
+msgid "Graph web site"
+msgstr "Graph-Homepage"
+
+#. Form1..ActionManager..HomePageAction..Hint
+msgid "Open the default browser and show the Graph web site."
+msgstr "Öffnet die Graph-Homepage im Standardbrowser."
+
+#. Form1..ActionManager..UpdateAction..Caption
+msgid "Check for update"
+msgstr "Nach Aktualisierung suchen"
+
+#. Form1..ActionManager..UpdateAction..Hint
+msgid "Contact the home page to see if a newer version is available."
+msgstr "Auf der Graph-Homepage nach einer neuen Version suchen."
+
+#. Form1..ActionManager..AboutAction..Caption
+#. Form2..Caption
+msgid "About Graph"
+msgstr "Über Graph"
+
+#. Form1..ActionManager..AboutAction..Hint
+msgid "Show copyright information."
+msgstr "Copyrightinformation zeigen."
+
+#. Form1..ActionManager..SeparatorAction..Category
+#. Form1..ActionManager..SeparatorAction..Caption
+msgid "Separator"
+msgstr "Trenner"
+
+#. Form1..ActionManager..ZoomFitAction..Caption
+msgid "Fit"
+msgstr "Passend"
+
+#. Form1..ActionManager..ZoomFitAction..Hint
+msgid "Zoom to show the selected element."
+msgstr "Zoomen, um aktuelle Auswahl vergrößert darstellen."
+
+#. Form1..ActionManager..ZoomFitAllAction..Caption
+msgid "Fit all"
+msgstr "Passend"
+
+#. Form1..ActionManager..ZoomFitAllAction..Hint
+msgid "Zoom to show all elements."
+msgstr "Zoomen, um Koordinatensystem komplett darzustellen."
+
+#. Form1..ActionManager..FaqAction..Caption
+msgid "Frequently Asked Questions"
+msgstr "Häufig gestellte Fragen"
+
+#. Form1..ActionManager..FaqAction..Hint
+msgid "Show a list of frequently asked questions and their answers."
+msgstr "Eine Liste mit häufig gestellten Fragen und Antworten anzeigen."
+
+#. Form1..ActionManager..InsertLabelAction..Caption
+msgid "Insert label..."
+msgstr "Textfeld einfügen..."
+
+#. Form1..ActionManager..InsertLabelAction..Hint
+msgid "Insert a text label."
+msgstr "Textfeld einfügen."
+
+#. Form1..ActionManager..DonateAction..Caption
+msgid "Donate"
+msgstr "Spenden"
+
+#. Form1..ActionManager..DonateAction..Hint
+msgid "Donate money to the project."
+msgstr "Für dieses Projekt spenden."
+
+#. Form1..ActionManager..TipAction..Caption
+#. Form10..Caption
+#. Form10..Panel1..LinkLabel1..Caption
+msgid "Tip of the day"
+msgstr "Tipp des Tages"
+
+#. Form1..ActionManager..TipAction..Hint
+msgid "Show tip of the day"
+msgstr "Tipp des Tages zeigen"
+
+#. Form1..ActionManager..SupportAction..Caption
+msgid "Support"
+msgstr "Unterstützung"
+
+#. Form1..ActionManager..SupportAction..Hint
+msgid "Open browser with the support page for the program."
+msgstr "Öffnet den Browser und zeigt die Graph-Homepage."
+
+#. Form1..ActionManager..ZoomXInAction..Caption
+msgid "Zoom x-axis in"
+msgstr "X-Achse vergrößern"
+
+#. Form1..ActionManager..ZoomXInAction....Hint
+msgid "Zoom in on the x-axis only. Hold down Shift to zoom with larger steps."
+msgstr "Vergrößern der X-Achse. Umschalt-Taste sorgt für schnelleren Zoom."
+
+#. Form1..ActionManager..ZoomXOutAction..Caption
+msgid "Zoom x-axis out"
+msgstr "X-Achse verkleinern"
+
+#. Form1..ActionManager..ZoomXOutAction....Hint
+msgid "Zoom out on the x-axis only. Hold down Shift to zoom with larger steps."
+msgstr "Verkleinern der X-Achse. Umschalt-Taste sorgt für schnelleren Zoom."
+
+#. Form1..ActionManager..ZoomYInAction..Caption
+msgid "Zoom y-axis in"
+msgstr "Y-Achse vergrößern"
+
+#. Form1..ActionManager..ZoomYInAction....Hint
+msgid "Zoom in on the y-axis only. Hold down Shift to zoom with larger steps."
+msgstr "Vergrößern der Y-Achse. Umschalt-Taste sorgt für schnelleren Zoom."
+
+#. Form1..ActionManager..ZoomYOutAction..Caption
+msgid "Zoom y-axis out"
+msgstr "Y-Achse verkleinern"
+
+#. Form1..ActionManager..ZoomYOutAction....Hint
+msgid "Zoom out on the y-axis only. Hold down Shift to zoom with larger steps."
+msgstr "Verkleinern der Y-Achse. Umschalt-Taste sorgt für schnelleren Zoom."
+
+#. Form1..ActionManager..InsertRelationAction..Caption
+msgid "Insert relation..."
+msgstr "Relation einfügen..."
+
+#. Form1..ActionManager..InsertRelationAction..Hint
+msgid "Insert a new equation or inequality."
+msgstr "Eine neue Gleichung oder Ungleichung einfügen."
+
+#. Form1..ActionManager..CustomFunctionsAction..Caption
+msgid "Custom functions/constants..."
+msgstr "Benutzerdefinierte Funktionen/Konstanten..."
+
+#. Form1..ActionManager..CustomFunctionsAction..Hint
+msgid "Create custom functions and constants for use in graphs."
+msgstr "Erstellen Sie benutzerdefinierte Funktionen und Konstanten für Graphen."
+
+#. Form1..ActionManager..AnimateAction..Caption
+msgid "Animate..."
+msgstr "Animieren"
+
+#. Form1..ActionManager..AnimateAction..Hint
+msgid "Create an animation by variating a constant."
+msgstr "Erzeugen Sie duch Variation einer Konstanten eine Animation."
+
+#. Form1..ActionManager..ImportGraphFileAction..Caption
+msgid "Graph file..."
+msgstr "Graph-Datei..."
+
+#. Form1..ActionManager..ImportGraphFileAction..Hint
+msgid "Import a Graph file into the current coordinate system."
+msgstr "Eine Graph-Datei ins aktuelle Koordinatensystem importieren"
+
+#. Form1..ActionManager..ImportPointSeriesAction..Caption
+msgid "Point series..."
+msgstr "Punktserie(n)..."
+
+#. Form1..ActionManager..ImportPointSeriesAction..Hint
+msgid "Import point series from a data file."
+msgstr "Punktserie(n) aus einer Datei einfügen."
+
+#. Form1..ActionManager..ScriptDocAction..Caption
+msgid "Scripting engine documentation"
+msgstr "Dokumentation der Skript-Engine"
+
+#. Form1..ActionManager..ScriptDocAction..Hint
+msgid "Show documentation for scripting engine and plugin system."
+msgstr "Dokumentation der Skript-Engine und der Plugin-Schnittstelle anzeigen."
+
+#. Form1..PopupMenu2..ToolBar_Reset..Caption
+msgid "Reset to default"
+msgstr "Auf Standardwerte zurücksetzen"
+
+#. Form1..PopupMenu2..ToolBar_Reset..Hint
+msgid "Reset the toolbar icons to the installation default."
+msgstr "Symbolleiste auf Voreinstellungen zurücksetzen."
+
+#. Form1..PopupMenu2..ToolBar_Customize..Caption
+msgid "Customize toolbar..."
+msgstr "Symbolleiste anpassen..."
+
+#. Form1..PopupMenu2..ToolBar_Customize..Hint
+msgid "Customize the icons shown on the toolbar."
+msgstr "Passt die Icons in der Symbolleiste an."
+
+#. Form1..PopupMenu3..Label_Edit..Caption
+msgid "Edit label..."
+msgstr "Textfeld bearbeiten..."
+
+#. Form1..PopupMenu3..Label_Edit..Hint
+msgid "Edit the label under the cursor."
+msgstr "Textfeld unter dem Cursor bearbeiten."
+
+#. Form1..PopupMenu3..Label_Delete..Caption
+msgid "Delete label"
+msgstr "Textfeld löschen"
+
+#. Form1..PopupMenu3..Label_Delete..Hint
+msgid "Delete the label under the cursor."
+msgstr "Textfeld unter dem Cursor löschen"
+
+#. Form1..PopupMenu4..Legend_Show..Caption
+#. Form3..PageControl1..TabSheet3..CheckBox15..Caption
+msgid "Show legend"
+msgstr "Legende anzeigen"
+
+#. Form1..PopupMenu4..Legend_Show..Hint
+#. Form3..PageControl1..TabSheet3..CheckBox15..Hint
+msgid "Select to show a legend in the coordinate system."
+msgstr "Zeigt die Legende im Koordinatensystem an."
+
+#. Form1..PopupMenu4..Legend_Font..Caption
+msgid "Font..."
+msgstr "Schriftart..."
+
+#. Form1..PopupMenu4..Legend_Font..Hint
+msgid "Change the font of the legend."
+msgstr "Wählen Sie die Schriftart für die Legende."
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_TopRight..Caption
+#. Form3..PageControl1..TabSheet3..RadioGroup3....Items.Strings
+msgid "Top Right"
+msgstr "Oben rechts"
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_TopRight..Hint
+msgid "Show the legend in the upper right corner."
+msgstr "Legende oben rechts zeigen."
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_BottomRight..Caption
+#. Form3..PageControl1..TabSheet3..RadioGroup3....Items.Strings
+msgid "Bottom Right"
+msgstr "Unten rechts"
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_BottomRight..Hint
+msgid "Show the legend in the bottom right corner."
+msgstr "Legende unten rechts zeigen."
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_TopLeft..Caption
+#. Form3..PageControl1..TabSheet3..RadioGroup3....Items.Strings
+msgid "Top Left"
+msgstr "Oben links"
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_TopLeft..Hint
+msgid "Show the legend in the upper left corner."
+msgstr "Legende oben links zeigen."
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_BottomLeft..Caption
+#. Form3..PageControl1..TabSheet3..RadioGroup3....Items.Strings
+msgid "Bottom Left"
+msgstr "Unten links"
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_BottomLeft..Hint
+msgid "Show the legend in the bottom left corner."
+msgstr "Legende unten links zeigen."
+
+#. Form10..Button1..Caption
+#. Form15..Button1..Caption
+#. Form19..Button2..Caption
+msgid "Close"
+msgstr "Schließen"
+
+#. Form10..Button2..Caption
+msgid "Next tip"
+msgstr "Nächster Tipp"
+
+#. Form10..Button3..Caption
+msgid "Previous tip"
+msgstr "Voriger Tipp"
+
+#. Form10..CheckBox1..Caption
+msgid "Show tips at startup"
+msgstr "Tipp beim Start zeigen"
+
+#. Form10..Panel1..Label1..Caption
+msgid "Did you know..."
+msgstr "Wussten Sie, dass..."
+
+#. Form11..Caption
+msgid "Insert relation"
+msgstr "Relation einfügen"
+
+#. Form11..Label1..Caption
+msgid "Relation:"
+msgstr "Relation:"
+
+#. Form11..Label2..Caption
+msgid "Constraints:"
+msgstr "Restriktionen:"
+
+#. Form11..Button1..Caption
+#. Form12..Button1..Caption
+#. Form13..Button1..Caption
+#. Form14..Button1..Caption
+#. Form16..Button1..Caption
+#. Form17..Button1..Caption
+#. Form18..Button1..Caption
+#. Form2..Button1..Caption
+#. Form21..TntButton1..Caption
+#. Form3..Button1..Caption
+#. Form4..Button1..Caption
+#. Form5..Button1..Caption
+#. Form6..Button1..Caption
+#. Form7..Button1..Caption
+#. Form8..Button1..Caption
+#. PrintFrm..Button1..Caption
+msgid "OK"
+msgstr "OK"
+
+#. Form11..Button2..Caption
+#. Form12..Button2..Caption
+#. Form13..Button2..Caption
+#. Form14..Button2..Caption
+#. Form15..ProgressForm1..ButtonCaption
+#. Form16..Button2..Caption
+#. Form17..Button2..Caption
+#. Form18..Button2..Caption
+#. Form19..ProgressForm1..ButtonCaption
+#. Form21..TntButton2..Caption
+#. Form3..Button2..Caption
+#. Form4..Button2..Caption
+#. Form5..Button2..Caption
+#. Form6..Button2..Caption
+#. Form7..Button2..Caption
+#. Form8..Button2..Caption
+#. PrintFrm..Button2..Caption
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#. Form11..GroupBox1..Caption
+#. Form12..GroupBox1..Caption
+#. Form5..GroupBox3..Caption
+#. Form7..GroupBox3..Caption
+msgid "Legend text"
+msgstr "Legende"
+
+#. Form11..GroupBox1..Label10..Caption
+#. Form12..GroupBox1..Label10..Caption
+#. Form14..Label3..Caption
+#. Form16..PageControl1..TabSheet2..Label12..Caption
+#. Form5..GroupBox3..Label10..Caption
+#. Form7..GroupBox3..Label10..Caption
+msgid "Description:"
+msgstr "Beschreibung:"
+
+#. Form11..GroupBox1..Edit3....Hint
+#. Form5..GroupBox3..Edit7....Hint
+msgid "Write a descriptive text to show in the legend and function list. If empty the formula will be used."
+msgstr "Erklärenden Text für die Legende eingeben. Andernfalls wird die Funktionsgleichung angezeigt."
+
+#. Form11..GroupBox2..Caption
+#. Form16..PageControl1..TabSheet2..GroupBox3..Caption
+#. PrintFrm..GroupBox1..Button3..Caption
+msgid "Properties"
+msgstr "Eigenschaften"
+
+#. Form11..GroupBox2..Label7..Caption
+#. Form13..GroupBox1..Label7..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox1..Label1..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox2..Label5..Caption
+#. Form16..PageControl1..TabSheet2..GroupBox3..Label4..Caption
+msgid "Style:"
+msgstr "Stil:"
+
+#. Form11..GroupBox2..Label9..Caption
+#. Form12..GroupBox2..Label9..Caption
+#. Form13..GroupBox1..Label6..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox1..Label2..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox2..Label6..Caption
+#. Form16..PageControl1..TabSheet2..GroupBox3..Label5..Caption
+#. Form5..GroupBox4..GridPanelEx1..Label9..Caption
+#. Form7..GroupBox4..Label9..Caption
+msgid "Color:"
+msgstr "Farbe:"
+
+#. Form11..GroupBox2..Label3..Caption
+#. Form12..GroupBox2..Label8..Caption
+#. Form13..GroupBox1..Label5..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox2..Label7..Caption
+#. Form5..GroupBox4..GridPanelEx1..Label8..Caption
+#. Form7..GroupBox4..Label8..Caption
+msgid "Width:"
+msgstr "Breite:"
+
+#. Form11..GroupBox2..ShadeSelect1....Hint
+msgid "Select the style used for drawing the inequality. Not used for equations."
+msgstr "Wählen Sie den Zeichen-Stil für die Ungleichung. Wird für Gleichungen nicht benötigt."
+
+#. Form11..GroupBox2..ExtColorBox1..Hint
+msgid "Select the color for drawing the relation."
+msgstr "Wählen Sie die Farbe für die Relation."
+
+#. Form11..GroupBox2..Panel1..Edit4....Hint
+msgid "Width in pixels of the equation line or the borderline of the inequality."
+msgstr "Breite des Graphs einer Gleichung oder der Grenzlinie einer Ungleichung, in Pixel."
+
+#. Form11..Edit1..Hint
+msgid "Enter the relation, for example \"x^2+y^2 = 25\" or \"y < sin(x)\""
+msgstr "Geben Sie die Relation ein, beispielsweise \"x^2+y^2 = 25\" oder \"y < sin(x)\""
+
+#. Form11..Edit2....Hint
+msgid "Enter constraints for the relation, for example \"x > 0 and y < 5\""
+msgstr "Geben Sie die Restriktionen der Relation ein, beispielsweise \"x > 0 and y < 5\""
+
+#. Form12..Caption
+msgid "Insert tangent/normal"
+msgstr "Tangente/Normale einfügen"
+
+#. Form12..Edit1..Hint
+msgid "Value where the tangent/normal will interact with the function."
+msgstr "Koordinate, an der die Tangente/Normale die Funktion schneidet."
+
+#. Form12..RadioGroup1..Hint
+msgid "Choose if you want a tangent or a normal."
+msgstr "Wählen Sie, ob sie eine Tangente oder eine Normale wünschen!"
+
+#. Form12..RadioGroup1..Caption
+msgid "Type"
+msgstr "Typ"
+
+#. Form12..RadioGroup1....Items.Strings
+msgid "Tangent"
+msgstr "Tangente"
+
+#. Form12..RadioGroup1....Items.Strings
+msgid "Normal"
+msgstr "Normal"
+
+#. Form12..GroupBox1..Edit2....Hint
+#. Form7..GroupBox3..Edit3....Hint
+msgid "Write a descriptive text to show in the legend. If empty the equation will be used."
+msgstr "Schreiben Sie einen erklärenden Text für die Legende, andernfalls wird die Gleichung der Funktion angezeigt."
+
+#. Form12..GroupBox2..Caption
+#. Form5..GroupBox4..Caption
+#. Form7..GroupBox4..Caption
+msgid "Graph properties"
+msgstr "Eigenschaften des Graphen"
+
+#. Form12..GroupBox2..Label7..Caption
+#. Form5..GroupBox4..GridPanelEx1..Label7..Caption
+#. Form7..GroupBox4..Label7..Caption
+msgid "Line style:"
+msgstr "Linientyp:"
+
+#. Form12..GroupBox2..Edit3..Hint
+#. Form13..GroupBox1..Edit2..Hint
+#. Form5..GroupBox4..GridPanelEx1..Panel1..Edit6..Hint
+#. Form7..GroupBox4..Edit4..Hint
+msgid "Width of graph in pixels."
+msgstr "Bildbreite in Pixel."
+
+#. Form12..GroupBox2..LineSelect1..Hint
+#. Form13..GroupBox1..LineSelect1..Hint
+#. Form5..GroupBox4..GridPanelEx1..LineSelect1..Hint
+#. Form7..GroupBox4..LineSelect1..Hint
+msgid "Choose which line style to use for drawing the graph."
+msgstr "Wählen Sie den Linientyp, mit dem der Graph geplottet werden soll."
+
+#. Form12..GroupBox2..ExtColorBox1..Hint
+#. Form13..GroupBox1..ExtColorBox1..Hint
+#. Form5..GroupBox4..GridPanelEx1..ExtColorBox1..Hint
+#. Form7..GroupBox4..ExtColorBox1..Hint
+msgid "Select the color of the graph."
+msgstr "Wählen Sie die Farbe des Graphen."
+
+#. Form12..GroupBox3..Caption
+#. Form5..GroupBox2..Caption
+#. Form7..GroupBox2..Caption
+msgid "Argument range"
+msgstr "Definitionsmenge"
+
+#. Form12..GroupBox3..Label4..Caption
+#. Form15..Label1..Caption
+#. Form16..PageControl1..TabSheet2..GroupBox1..Label6..Caption
+#. Form16..PageControl1..TabSheet3..GroupBox2..Label8..Caption
+#. Form19..TntGroupBox1..Label2..Caption
+#. Form5..GroupBox2..Label4..Caption
+#. Form7..GroupBox2..Label4..Caption
+#. AreaFrame..GridPanel1..Label1..Caption
+msgid "From:"
+msgstr "Von:"
+
+#. Form12..GroupBox3..Label5..Caption
+#. Form15..Label2..Caption
+#. Form16..PageControl1..TabSheet2..GroupBox1..Label7..Caption
+#. Form16..PageControl1..TabSheet3..GroupBox2..Label9..Caption
+#. Form19..TntGroupBox1..Label3..Caption
+#. Form5..GroupBox2..Label5..Caption
+#. Form7..GroupBox2..Label5..Caption
+#. AreaFrame..GridPanel1..Label2..Caption
+msgid "To:"
+msgstr "Bis:"
+
+#. Form12..GroupBox3..Edit4..Hint
+#. Form5..GroupBox2..Edit3..Hint
+#. Form7..GroupBox2..Edit1..Hint
+msgid "Start of range interval for the used variable."
+msgstr "Intervallbeginn für der Definitionsmenge der verwendeten Variable."
+
+#. Form12..GroupBox3..Edit5..Hint
+#. Form5..GroupBox2..Edit4..Hint
+#. Form7..GroupBox2..Edit2..Hint
+msgid "End of range interval for the used variable."
+msgstr "Ende der Definitionsmenge für die verwendete Variable."
+
+#. Form12..GroupBox5..Caption
+#. Form5..GroupBox5..Caption
+msgid "Endpoints"
+msgstr "Endpunkte"
+
+#. Form12..GroupBox5..Label11..Caption
+#. Form5..GroupBox5..Label11..Caption
+msgid "Start:"
+msgstr "Anfang:"
+
+#. Form12..GroupBox5..Label12..Caption
+#. Form5..GroupBox5..Label12..Caption
+msgid "End:"
+msgstr "Ende:"
+
+#. Form12..GroupBox5..ComboBox1....Hint
+#. Form5..GroupBox5..ComboBox2....Hint
+msgid "Select marker to show at the start of the interval. Only used if an argument range is specified."
+msgstr "Wählen Sie, wie der Intervallanfang markiert werden soll (nur wenn ein Intervall eingegeben ist)."
+
+#. Form12..GroupBox5..ComboBox2....Hint
+#. Form5..GroupBox5..ComboBox3....Hint
+msgid "Select marker to show at the end of the interval. Only used if an argument range is specified."
+msgstr "Wählen Sie, wie das Intervallende markiert werden soll (nur wenn ein Intervall eingegeben ist)."
+
+#. Form13..Caption
+msgid "Insert trendline"
+msgstr "Trendlinie einfügen"
+
+#. Form13..GroupBox1..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox2..Caption
+msgid "Line"
+msgstr "Linie"
+
+#. Form13..PageControl1..TabSheet1..Caption
+msgid "Built-in"
+msgstr "Eingebaut"
+
+#. Form13..PageControl1..TabSheet1..Panel1..Image1..Hint
+msgid "Create a linear function: f(x)=ax+b"
+msgstr "Lineare Funktion erzeugen: f(x)=ax+b"
+
+#. Form13..PageControl1..TabSheet1..Panel2..Image2..Hint
+msgid "Create a logarithmic function: f(x)=a*ln(x)+b"
+msgstr "Logarithmusfunktion erzeugen: f(x)=a*ln(x)+b"
+
+#. Form13..PageControl1..TabSheet1..Panel3..Image3..Hint
+msgid "Create a polynomial function: f(x)=ax^3+bx^2+cx+d"
+msgstr "Ganzrationale Funktion erzeugen: f(x)=ax^3+bx^2+cx+d"
+
+#. Form13..PageControl1..TabSheet1..Panel4..Image4..Hint
+msgid "Create a power function: f(x)=ax^b"
+msgstr "Potenzfunktion erzeugen: f(x)=ax^b"
+
+#. Form13..PageControl1..TabSheet1..Panel5..Image5..Hint
+msgid "Create a exponential function: f(x)=a*b^x"
+msgstr "Exponentialfunktion erzeugen: f(x)=a*b^x"
+
+#. Form13..PageControl1..TabSheet1..StaticText1..Caption
+msgid "Order:"
+msgstr "Ordnung:"
+
+#. Form13..PageControl1..TabSheet1..RadioButton3..Caption
+msgid "Polynomial"
+msgstr "Ganzrational"
+
+#. Form13..PageControl1..TabSheet1..RadioButton2..Caption
+msgid "Logarithmic"
+msgstr "Logarithmisch"
+
+#. Form13..PageControl1..TabSheet1..RadioButton1..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox2..ComboBox2....Items.Strings
+msgid "Linear"
+msgstr "Linear"
+
+#. Form13..PageControl1..TabSheet1..RadioButton4..Caption
+msgid "Power"
+msgstr "Potenz"
+
+#. Form13..PageControl1..TabSheet1..RadioButton5..Caption
+msgid "Exponential"
+msgstr "Exponentiell"
+
+#. Form13..PageControl1..TabSheet1..Panel6..Image6..Hint
+msgid "Create a moving average as a series of straight lines."
+msgstr "Erstellt einen gleitenden Mittelwert in Form einer Folge aneinander gereihter Strecken."
+
+#. Form13..PageControl1..TabSheet1..RadioButton6..Caption
+msgid "Moving average"
+msgstr "Gleitender Durchschnitt"
+
+#. Form13..PageControl1..TabSheet1..StaticText2..Caption
+msgid "Period:"
+msgstr "Periode:"
+
+#. Form13..PageControl1..TabSheet1..Edit4..Hint
+msgid "Determines how many points are used for the average."
+msgstr "Bestimmt die Anzahl der Punkte für den Mittelwert."
+
+#. Form13..PageControl1..TabSheet1..Edit1..Hint
+msgid "The order of the polynomium. For example 2 means a parable."
+msgstr "Die Ordnung des Polynoms; 2 steht z. B. für eine Parabel."
+
+#. Form13..PageControl1..TabSheet2..Caption
+msgid "User defined"
+msgstr "Benutzerdefiniert"
+
+#. Form13..PageControl1..TabSheet2..Label1..Caption
+msgid "Model:"
+msgstr "Modell:"
+
+#. Form13..PageControl1..TabSheet2..Button4..Caption
+#. Form8..Caption
+msgid "Add model"
+msgstr "Hinzufügen"
+
+#. Form13..PageControl1..TabSheet2..Button5..Caption
+msgid "Remove model"
+msgstr "Löschen"
+
+#. Form13..PageControl1..TabSheet2..Button6..Caption
+msgid "Edit model"
+msgstr "Ändern"
+
+#. Form13..PageControl1..TabSheet2..Edit3..Hint
+msgid "Enter a function model to base the trendline on."
+msgstr "Geben Sie ein Funktionsmodell als Basis für die Trendlinie ein."
+
+#. Form13..CheckBox1....Hint
+#. Form13..Edit5....Hint
+msgid "Type a value in the Intercept box to specify the point where you want the trendline to meet the y-axis. This is only available for linear, polynomial and exponential trendlines."
+msgstr "Geben Sie einen Wert in die Schnittpunkt-Box ein, um den Punkt zu bestimmen, in dem die Trendlinie die Y-Achse schneiden soll. Dies ist nur für lineare, ganzrationale und exponentielle Trendlinien möglich."
+
+#. Form13..CheckBox1..Caption
+msgid "Intercept ="
+msgstr "Schnittpunkt ="
+
+#. Form13..TntPopupMenu1..Popup_Import..Caption
+#. Form14..PopupMenu1..Popup_Import..Caption
+#. Form17..PopupMenu1..Popup_Import..Caption
+msgid "Import from file..."
+msgstr "Aus Datei importieren..."
+
+#. Form13..TntPopupMenu1..Popup_Import..Hint
+msgid "Import user models from a file."
+msgstr "Punktserie(n) aus einer Datei einfügen."
+
+#. Form13..TntPopupMenu1..Popup_Export..Caption
+msgid "Export all to file..."
+msgstr "In Datei exportieren..."
+
+#. Form13..TntPopupMenu1..Popup_Export..Hint
+msgid "Export user models to a file."
+msgstr "Ausgewählte Daten in eine Datei exportieren."
+
+#. Form13..SaveDialog1..Filter
+#. Form13..OpenDialog1..Filter
+msgid "User models [*.ini]|*.ini"
+msgstr "Benutzerdefiniert [*.ini]|*.ini"
+
+#. Form14..Caption
+msgid "Insert point series"
+msgstr "Punktserie einfügen"
+
+#. Form14..Edit1....Hint
+msgid "The name of the point series, which is shown in the list to the left of the coordinate system."
+msgstr "Der Name der Punktserie, der in der Liste links vom Koordinatensystem angezeigt wird."
+
+#. Form14..Edit1..Text
+msgid "Series"
+msgstr "Serie"
+
+#. Form14..GroupBox4....Hint
+msgid "This shows a sample of the markers and the lines between the markers."
+msgstr "Dies zeigt ein Beispiel für die Markierungen und den Linien zwischen den Markierungen."
+
+#. Form14..GroupBox4..Caption
+msgid "Sample"
+msgstr "Beispiel"
+
+#. Form14..PageControl1..TabSheet1..Caption
+msgid "Markers"
+msgstr "Markierungen"
+
+#. Form14..PageControl1..TabSheet1..GroupBox1..Caption
+msgid "Marker"
+msgstr "Markierung"
+
+#. Form14..PageControl1..TabSheet1..GroupBox1..Label4..Caption
+msgid "Size:"
+msgstr "Größe:"
+
+#. Form14..PageControl1..TabSheet1..GroupBox1..Edit2..Hint
+msgid "Choose the size of the markers."
+msgstr "Wählen Sie die Größe der Markierungen."
+
+#. Form14..PageControl1..TabSheet1..GroupBox1..PointSelect1..Hint
+msgid "Choose the type of markers to be shown at each point."
+msgstr "Wählen Sie eine Art von Markierungen für die Punkte!"
+
+#. Form14..PageControl1..TabSheet1..GroupBox1..ExtColorBox1..Hint
+msgid "Choose the color of the markers."
+msgstr "Wählen Sie die Farbe der Markierungen."
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..Label11..Caption
+msgid "Interpolation:"
+msgstr "Interpolation:"
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..LineSelect1....Hint
+msgid "Choose the style of lines to be drawn between the points. You may also choose not to draw any lines."
+msgstr "Wählen Sie, ob die Punkte verbunden werden sollen, und wenn ja, mit welcher Linienart!"
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..Edit3..Hint
+msgid "Choose the width of the lines in pixels."
+msgstr "Wählen Sie die Linienbreite in Pixel."
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..ComboBox2..Hint
+msgid "Select which kind of line to draw between the markers."
+msgstr "Legen Sie den Stil für die zwischen den Markierungen verlaufenden Linien fest."
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..ComboBox2....Items.Strings
+msgid "1D cubic spline"
+msgstr "Kubische Spline 1D"
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..ComboBox2....Items.Strings
+msgid "2D cubic spline"
+msgstr "Kubische Spline 2D"
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..ComboBox2....Items.Strings
+msgid "Half cosine"
+msgstr "Trigonometrisch"
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..ExtColorBox2..Hint
+msgid "Choose the color of the lines."
+msgstr "Wählen Sie die Farbe der Linien."
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..Caption
+msgid "Labels"
+msgstr "Textfelder"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..Label8..Caption
+msgid "Position:"
+msgstr "Position:"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..CheckBox2..Hint
+msgid "Check to show the coordinate at each point."
+msgstr "Aktivieren, um die Koordinaten jedes Punktes anzuzeigen."
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..CheckBox2..Caption
+msgid "Show coordinates"
+msgstr "Koordinaten anzeigen"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..BitBtn1..Hint
+msgid "Select the font for the coordinates."
+msgstr "Wählen Sie die Schriftart für die Koordinaten."
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1..Hint
+msgid "Select where the coordinates should be shown."
+msgstr "Wählen Sie, wo die Koordinaten angezeigt werden sollen."
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+msgid "Above"
+msgstr "Über"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+msgid "Below"
+msgstr "Unter"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+msgid "Left"
+msgstr "Links"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+msgid "Right"
+msgstr "Rechts"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+msgid "Above Left"
+msgstr "Links oben"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+msgid "Above Right"
+msgstr "Rechts oben"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+msgid "Below Left"
+msgstr "Links unten"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+msgid "Below Right"
+msgstr "Rechts unten"
+
+#. Form14..PageControl1..TabSheet1..RadioGroup1....Hint
+msgid "Choose between cartesian (x,y) coordinates and polar (θ,r) coordinates."
+msgstr "Zwischen  kartesischen Koordinaten (x,y) und Polar Koordinaten (θ,r) wählen."
+
+#. Form14..PageControl1..TabSheet1..RadioGroup1..Caption
+msgid "Coordinate type"
+msgstr "Koordinatentyp"
+
+#. Form14..PageControl1..TabSheet1..RadioGroup1....Items.Strings
+msgid "Cartesian"
+msgstr "Kartesisch"
+
+#. Form14..PageControl1..TabSheet1..RadioGroup1....Items.Strings
+#. Form4..GridPanelEx1..RadioGroup1....Items.Strings
+msgid "Polar"
+msgstr "Polarform"
+
+#. Form14..PageControl1..TabSheet2..Caption
+msgid "Error bars"
+msgstr "Fehlerbalken"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..Caption
+msgid "X error amount"
+msgstr "X-Fehler"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..CheckBox3..Hint
+msgid "Show horizontal error bars."
+msgstr "Waagerechte Fehlerbalken anzeigen."
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..CheckBox3..Caption
+msgid "Show x-bars"
+msgstr "X-Balken anzeigen."
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..RadioButton1..Hint
+#. Form14..PageControl1..TabSheet2..GroupBox6..RadioButton4..Hint
+msgid "All error bars are the same size."
+msgstr "Alle Fehlerbalken sind gleich groß."
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..RadioButton1..Caption
+#. Form14..PageControl1..TabSheet2..GroupBox6..RadioButton4..Caption
+msgid "Fixed:"
+msgstr "Fest:"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..Edit4..Hint
+#. Form14..PageControl1..TabSheet2..GroupBox6..Edit6..Hint
+msgid "Enter fixed value."
+msgstr "Festen Wert eigeben."
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..RadioButton2..Hint
+msgid "All error bars are the same percentage of the x-coordinate."
+msgstr "Alle Fehlerbalken haben denselben Prozentsatz der X-Koordinate."
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..RadioButton2..Caption
+#. Form14..PageControl1..TabSheet2..GroupBox6..RadioButton5..Caption
+msgid "Relative:"
+msgstr "Relativ:"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..RadioButton3..Hint
+#. Form14..PageControl1..TabSheet2..GroupBox6..RadioButton6..Hint
+msgid "Each error bar is given a custom value."
+msgstr "Jedem Fehlerbalken wird ein individueller Wert gegeben."
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..RadioButton3..Caption
+#. Form14..PageControl1..TabSheet2..GroupBox6..RadioButton6..Caption
+msgid "Custom"
+msgstr "Benutzerdefiniert"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..Edit5..Hint
+#. Form14..PageControl1..TabSheet2..GroupBox6..Edit7..Hint
+msgid "Enter relative value in percent."
+msgstr "Geben Sie den relativen Wert in Prozent ein."
+
+#. Form14..PageControl1..TabSheet2..GroupBox6..Caption
+msgid "Y error amount"
+msgstr "Y-Fehler"
+
+#. Form14..PageControl1..TabSheet2..GroupBox6..CheckBox4..Hint
+msgid "Show vertical error bars."
+msgstr "Senkrechte Fehlerbalken anzeigen."
+
+#. Form14..PageControl1..TabSheet2..GroupBox6..CheckBox4..Caption
+msgid "Show y-bars"
+msgstr "Y-Balken anzeigen."
+
+#. Form14..PageControl1..TabSheet2..GroupBox6..RadioButton5..Hint
+msgid "All error bars are the same percentage of the y-coordinate."
+msgstr "Alle Fehlerbalken haben denselben Prozentsatz der X-Koordinate."
+
+#. Form14..PopupMenu1..Popup_Cut..Hint
+#. Form17..PopupMenu1..Popup_Cut..Hint
+#. Form6..PopupMenu1..Popup_Cut..Hint
+msgid "Cut the selected text to the clipboard."
+msgstr "Den ausgewählten Text ausschneiden und in der Zwischenablage ablegen."
+
+#. Form14..PopupMenu1..Popup_Copy..Hint
+#. Form17..PopupMenu1..Popup_Copy..Hint
+#. Form6..PopupMenu1..Popup_Copy..Hint
+msgid "Copy the selected text to the clipboard."
+msgstr "Kopiert den ausgewählten Text in die Zwischenablage."
+
+#. Form14..PopupMenu1..Popup_Paste....Hint
+#. Form17..PopupMenu1..Popup_Paste....Hint
+msgid "Paste text from the clipboard into the grid. Other cells may be overwritten by the text from the clipboard."
+msgstr "Fügt Text aus der Zwischenablage in die Tabelle ein. Andere Felder könnten mit dem Text überschrieben werden."
+
+#. Form14..PopupMenu1..Popup_Delete..Hint
+#. Form17..PopupMenu1..Popup_Delete..Hint
+msgid "Erase selected cells."
+msgstr "Markierte Zellen löschen."
+
+#. Form14..PopupMenu1..Popup_Insert..Caption
+#. Form17..PopupMenu1..Popup_Insert..Caption
+msgid "Insert row"
+msgstr "Zeile einfügen."
+
+#. Form14..PopupMenu1..Popup_Insert..Hint
+#. Form17..PopupMenu1..Popup_Insert..Hint
+msgid "Inserts a row in the grid moving rows below one down."
+msgstr "Fügt eine Zeile in die Tabelle ein und schiebt die unteren Zeilen nach unten."
+
+#. Form14..PopupMenu1..Popup_Remove..Caption
+#. Form17..PopupMenu1..Popup_Remove..Caption
+msgid "Remove row"
+msgstr "Zeile löschen"
+
+#. Form14..PopupMenu1..Popup_Remove..Hint
+#. Form17..PopupMenu1..Popup_Remove..Hint
+msgid "Removes the selected rows."
+msgstr "Löscht die ausgewählten Zeilen."
+
+#. Form14..PopupMenu1..Popup_Select..Caption
+#. Form15..PopupMenu1..Popup1_Select..Caption
+#. Form17..PopupMenu1..Popup_Select..Caption
+msgid "Select all"
+msgstr "Alle wählen"
+
+#. Form14..PopupMenu1..Popup_Select..Hint
+#. Form15..PopupMenu1..Popup1_Select..Hint
+#. Form17..PopupMenu1..Popup_Select..Hint
+msgid "Select all cells."
+msgstr "Alle Zellen auswählen."
+
+#. Form14..PopupMenu1..Popup_Import..Hint
+#. Form17..PopupMenu1..Popup_Import..Hint
+msgid "Import data from a file and place it at the selected cell."
+msgstr "Daten aus einer Datei importieren und ins gewählte Feld einfügen."
+
+#. Form14..PopupMenu1..Popup_Export..Hint
+#. Form17..PopupMenu1..Popup_Export..Hint
+msgid "Export selected data to a file."
+msgstr "Ausgewählte Daten in eine Datei exportieren"
+
+#. Form15..Caption
+msgid "Calculate table"
+msgstr "Wertetabelle"
+
+#. Form15..Edit3....Hint
+msgid "The step value. This is the difference between two adjoining values in the defined interval."
+msgstr "Die Schrittweite, der Abstand zwischen den X-Werten im Intervall."
+
+#. Form15..Edit1..Hint
+msgid "The first x-value in the interval."
+msgstr "Der erste X-Wert im Intervall."
+
+#. Form15..Edit2..Hint
+msgid "The last x-value in the interval."
+msgstr "Der letzte X-Wert im Intervall."
+
+#. Form15..PopupMenu1..Popup1_Show1..Caption
+#. Form15..PopupMenu1..Popup1_Show2..Caption
+#. Form15..PopupMenu1..Popup1_Show3..Caption
+#. Form15..PopupMenu1..Popup1_Show4..Caption
+#. Form15..PopupMenu1..Popup1_Show5..Caption
+msgid "Show %s"
+msgstr "%s zeigen"
+
+#. Form15..PopupMenu1..Popup1_Show1..Hint
+#. Form15..PopupMenu1..Popup1_Show2..Hint
+#. Form15..PopupMenu1..Popup1_Show3..Hint
+#. Form15..PopupMenu1..Popup1_Show4..Hint
+#. Form15..PopupMenu1..Popup1_Show5..Hint
+msgid "Show the %s column in the table."
+msgstr "Spalte %s in der Tabelle anzeigen."
+
+#. Form15..PopupMenu1..Popup1_Copy..Hint
+msgid "Copy selected cells to the clipboard."
+msgstr "Kopiert die ausgewählten Zellen in die Zwischenablage."
+
+#. Form15..PopupMenu1..Popup1_Export..Hint
+msgid "Saves the selected data to a file."
+msgstr "Die gewählten Felder in eine Datei speichern."
+
+#. Form15..ProgressForm1..Caption
+msgid "Calculating"
+msgstr "Berechnen"
+
+#. Form15..SaveDialog1..Filter
+msgid "CSV (Comma delimited) [*.csv]|*.csv|Text [*.txt]|*.txt"
+msgstr "CSV (Kommagetrennt) [*.csv]|*.csv|Text [*.txt]|*.txt"
+
+#. Form16..Caption
+msgid "Insert shading"
+msgstr "Schraffur einfügen..."
+
+#. Form16..PageControl1..TabSheet1..Caption
+msgid "Shading"
+msgstr "Schraffur"
+
+#. Form16..PageControl1..TabSheet1..Panel1..Image1..Hint
+#. Form16..PageControl1..TabSheet1..RadioButton1..Hint
+msgid "Shades the area between the function and the x-axis."
+msgstr "Schraffiert die Fläche zwischen der Funktion und der X-Achse."
+
+#. Form16..PageControl1..TabSheet1..Panel2..Image2..Hint
+#. Form16..PageControl1..TabSheet1..RadioButton2..Hint
+msgid "Shades the area below the function."
+msgstr "Schraffiert die Fläche unterhalb der Funktion."
+
+#. Form16..PageControl1..TabSheet1..Panel3..Image3..Hint
+#. Form16..PageControl1..TabSheet1..RadioButton3..Hint
+msgid "Shades the area above the function."
+msgstr "Schraffiert die Fläche oberhalb der Funktion."
+
+#. Form16..PageControl1..TabSheet1..Panel4..Image4..Hint
+#. Form16..PageControl1..TabSheet1..RadioButton4..Hint
+msgid "Shades the area between the function and the y-axis."
+msgstr "Schraffiert die Fläche zwischen der Funktion und der Y-Achse."
+
+#. Form16..PageControl1..TabSheet1..Panel5..Image5..Hint
+#. Form16..PageControl1..TabSheet1..RadioButton5..Hint
+msgid "Shades the area inside the function."
+msgstr "Schraffiert die Fläche innerhalb der Funktion."
+
+#. Form16..PageControl1..TabSheet1..Panel6..Image6....Hint
+#. Form16..PageControl1..TabSheet1..RadioButton6....Hint
+msgid "Shades the area between the main function and the function selected in the list to the right."
+msgstr "Schraffiert die Fläche zwischen der Hauptfunktion und der Funktion, die in der Liste rechts gewählt ist."
+
+#. Form16..PageControl1..TabSheet1..RadioButton3..Caption
+msgid "Above function"
+msgstr "Oberhalb der Funktion"
+
+#. Form16..PageControl1..TabSheet1..RadioButton1..Caption
+msgid "Between function and x-axis"
+msgstr "Zwischen Funktion und X-Achse"
+
+#. Form16..PageControl1..TabSheet1..RadioButton6..Caption
+msgid "Between functions"
+msgstr "Zwischen Funktionen"
+
+#. Form16..PageControl1..TabSheet1..RadioButton4..Caption
+msgid "Between function and y-axis"
+msgstr "Zwischen Funktion und Y-Achse"
+
+#. Form16..PageControl1..TabSheet1..RadioButton5..Caption
+msgid "Inside function"
+msgstr "Innerhalb der Funktion"
+
+#. Form16..PageControl1..TabSheet1..RadioButton2..Caption
+msgid "Below function"
+msgstr "Unterhalb der Funktion"
+
+#. Form16..PageControl1..TabSheet2..Caption
+#. Form20..Panel2..ToolBar1..ToolButton6..Hint
+#. Form4..Caption
+msgid "Options"
+msgstr "Einstellungen"
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..Caption
+#. Form19..TntGroupBox1..Caption
+msgid "Range"
+msgstr "Intervall"
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..Edit1..Hint
+#. Form16..PageControl1..TabSheet3..GroupBox2..Edit3..Hint
+msgid "Coordinate where the shading starts."
+msgstr "Die Koordinate, bei der die Schraffur beginnt."
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..Edit2..Hint
+#. Form16..PageControl1..TabSheet3..GroupBox2..Edit4..Hint
+msgid "Coordinate where the shading ends."
+msgstr "Die Koordinate, bei der die Schraffur endet."
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..CheckBox2..Hint
+#. Form16..PageControl1..TabSheet3..GroupBox2..CheckBox4..Hint
+msgid "Check to increase the end coordinate until intersection."
+msgstr "Aktivieren, um die Schraffur bis zu dem Schnittpunkt zu zeichnen, der rechts von der angegebenen X-Koordinate liegt."
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..CheckBox2..Caption
+#. Form16..PageControl1..TabSheet3..GroupBox2..CheckBox4..Caption
+msgid "Increase to intersection"
+msgstr "Erhöhen zum Schnittpunkt"
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..CheckBox1..Hint
+#. Form16..PageControl1..TabSheet3..GroupBox2..CheckBox3..Hint
+msgid "Check to decrease the start coordinate until intersection."
+msgstr "Aktivieren, um die Anfangskoordinate bis zum Schnittpunkt zu verkleinern.."
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..CheckBox1..Caption
+#. Form16..PageControl1..TabSheet3..GroupBox2..CheckBox3..Caption
+msgid "Decrease to intersection"
+msgstr "Verringern bis Schnittpunkt"
+
+#. Form16..PageControl1..TabSheet2..GroupBox3..ShadeSelect1..Hint
+msgid "Select the style used for the shading."
+msgstr "Wählen Sie den Stil für die Schraffur."
+
+#. Form16..PageControl1..TabSheet2..GroupBox3..ExtColorBox1..Hint
+msgid "Select color used for shading."
+msgstr "Farbe für die Schraffur wählen."
+
+#. Form16..PageControl1..TabSheet2..GroupBox3..CheckBox5..Hint
+msgid "Mark the border around the shading."
+msgstr "Rande der Schraffur mit einer Linie umranden."
+
+#. Form16..PageControl1..TabSheet2..GroupBox3..CheckBox5..Caption
+msgid "Mark border"
+msgstr "Umranden"
+
+#. Form16..PageControl1..TabSheet2..Edit5..Hint
+msgid "Enter a description to show in the legend."
+msgstr "Geben Sie einen Beschreibungstext für die Legende an!"
+
+#. Form16..PageControl1..TabSheet3..Caption
+msgid "2nd function"
+msgstr "Zweite Funktion"
+
+#. Form16..PageControl1..TabSheet3..Label11..Caption
+msgid "2nd function:"
+msgstr "Zweite Funktion:"
+
+#. Form16..PageControl1..TabSheet3..ListBox1....Hint
+msgid "Select the second function when you want a shading between two functions."
+msgstr "Für eine Schraffur zwischen zwei Funktionen wählen Sie die zweite Funktion."
+
+#. Form16..PageControl1..TabSheet3..GroupBox2..Caption
+msgid "Shading range for 2nd function"
+msgstr "Schraffierungsintervall für die zweite Funktion"
+
+#. Form17..Caption
+msgid "Custom functions/constants"
+msgstr "Benutzerdefinierte Funktionen/Konstanten"
+
+#. Form17..Button3..Caption
+msgid "Apply"
+msgstr "Anwenden"
+
+#. Form17..Grid1....TitleCaptions.Strings
+msgid "Names"
+msgstr "Namen"
+
+#. Form17..Grid1....TitleCaptions.Strings
+msgid "Definition"
+msgstr "Definition"
+
+#. Form18..Caption
+msgid "Image options"
+msgstr "Bild-Einstellungen"
+
+#. Form18..PageControl1..TabSheet1..Caption
+msgid "Size"
+msgstr "Größe"
+
+#. Form18..PageControl1..TabSheet1..Label1..Caption
+msgid "Image width:"
+msgstr "Bildbreite:"
+
+#. Form18..PageControl1..TabSheet1..Label2..Caption
+msgid "Image height:"
+msgstr "Bildhöhe:"
+
+#. Form18..PageControl1..TabSheet1..Edit1..Hint
+msgid "Set a custom image width in pixels."
+msgstr "Benutzerdefinierte Bildbreite (angegeben in Pixeln) festlegen."
+
+#. Form18..PageControl1..TabSheet1..Edit2..Hint
+msgid "Set a custom image height in pixels."
+msgstr "Benutzerdefinierte Bildhöhe (angegeben in Pixeln) festlegen."
+
+#. Form18..PageControl1..TabSheet1..RadioGroup3....Hint
+msgid "Choose to use the same size as shown on the screen or a custom image size."
+msgstr "Wählen Sie, ob Sie dieselbe Größe, wie auf dem Bildschirm gezeigt, benutzen oder eine benutzerdefinierte Bildgröße."
+
+#. Form18..PageControl1..TabSheet1..RadioGroup3..Caption
+msgid "Image size"
+msgstr "Bildgröße"
+
+#. Form18..PageControl1..TabSheet1..RadioGroup3....Items.Strings
+msgid "Screen size"
+msgstr "Bildschirmgröße"
+
+#. Form18..PageControl1..TabSheet1..RadioGroup3....Items.Strings
+msgid "Custom size"
+msgstr "Benutzerdefinierte Größe"
+
+#. Form18..PageControl1..TabSheet2..RadioGroup1....Hint
+msgid "Progressive encoding allows viewers to see a rough copy of the image while it is downloaded."
+msgstr "Mit Progressivem Encoding kann man während des Downloads eine grobe Kopie des Bildes sehen. "
+
+#. Form18..PageControl1..TabSheet2..RadioGroup1..Caption
+msgid "Encoding"
+msgstr "Encoding"
+
+#. Form18..PageControl1..TabSheet2..RadioGroup1....Items.Strings
+msgid "Sequential"
+msgstr "Standard"
+
+#. Form18..PageControl1..TabSheet2..RadioGroup1....Items.Strings
+msgid "Progressive"
+msgstr "Progressiv"
+
+#. Form18..PageControl1..TabSheet2..GroupBox1..Hint
+msgid "Select a compression quality."
+msgstr "Wählen Sie eine Kompressionsgüte."
+
+#. Form18..PageControl1..TabSheet2..GroupBox1..Caption
+msgid "Quality"
+msgstr "Qualität"
+
+#. Form18..PageControl1..TabSheet3..Label3..Caption
+msgid "Paper size:"
+msgstr "Papiergröße:"
+
+#. Form18..PageControl1..TabSheet3..RadioGroup2..Hint
+#. PrintFrm..RadioGroup1..Hint
+msgid "Choose paper orientation."
+msgstr "Wählen Sie die Ausrichtung des Papiers"
+
+#. Form18..PageControl1..TabSheet3..RadioGroup2..Caption
+#. PrintFrm..RadioGroup1..Caption
+msgid "Orientation"
+msgstr "Ausrichtung"
+
+#. Form18..PageControl1..TabSheet3..RadioGroup2....Items.Strings
+#. PrintFrm..RadioGroup1....Items.Strings
+msgid "Portrait"
+msgstr "Hochformat"
+
+#. Form18..PageControl1..TabSheet3..RadioGroup2....Items.Strings
+#. PrintFrm..RadioGroup1....Items.Strings
+msgid "Landscape"
+msgstr "Querformat"
+
+#. Form18..PageControl1..TabSheet3..ComboBox1..Hint
+msgid "Choose paper size to use."
+msgstr "Wählen Sie die zu benutzende Papiergröße."
+
+#. Form18..PageControl1..TabSheet3..ComboBox1....Items.Strings
+msgid "Letter"
+msgstr "Letter"
+
+#. Form18..PageControl1..TabSheet3..ComboBox1....Items.Strings
+msgid "Ledger"
+msgstr "Ledger"
+
+#. Form18..PageControl1..TabSheet3..ComboBox1....Items.Strings
+msgid "Legal"
+msgstr "Legal"
+
+#. Form18..CheckBox1..Hint
+#. Form3..CheckBox16..Hint
+msgid "Select this to use these settings as defaults in the future."
+msgstr "Hier markieren, um diese Einstellungen in Zukunft als Voreinstellungen zu benutzen."
+
+#. Form18..CheckBox1..Caption
+#. Form3..CheckBox16..Caption
+msgid "Save as default"
+msgstr "Als Standard abspeichern"
+
+#. Form19..Caption
+#. Form19..Button1..Caption
+msgid "Animate"
+msgstr "Animieren"
+
+#. Form19..Label1..Caption
+msgid "Constant:"
+msgstr "Konstant:"
+
+#. Form19..ComboBox1..Hint
+msgid "Choose a constant to change between each frame."
+msgstr "Wählen Sie eine Konstante, die zwischen den Frames wechseln soll."
+
+#. Form19..TntGroupBox1..Label4..Caption
+msgid "Step:"
+msgstr "Schritt:"
+
+#. Form19..TntGroupBox1..Edit1..Hint
+msgid "The first value of the constant."
+msgstr "Erster Wert der Konstanten."
+
+#. Form19..TntGroupBox1..Edit2..Hint
+msgid "The last value of the constant."
+msgstr "Letzter Wert der Konstanten."
+
+#. Form19..TntGroupBox1..Edit3..Hint
+msgid "The chosen constant is changed by this value between each frame."
+msgstr "Die gewählte Konstante wird zwischen jedem Frame um diesen Wert geändert."
+
+#. Form19..TntGroupBox2..Caption
+msgid "Frame options"
+msgstr "Bild-Einstellungen"
+
+#. Form19..TntGroupBox2..Label5..Caption
+msgid "Frame width:"
+msgstr "Bildbreite:"
+
+#. Form19..TntGroupBox2..Label6..Caption
+msgid "Frame height:"
+msgstr "Bildhöhe:"
+
+#. Form19..TntGroupBox2..Label7..Caption
+msgid "Frames/second:"
+msgstr "Frames/Sekunde:"
+
+#. Form19..TntGroupBox2..Edit4..Hint
+msgid "Width of each frame, in pixels."
+msgstr "Bildbreite, angegeben in Pixeln."
+
+#. Form19..TntGroupBox2..Edit5..Hint
+msgid "Height of each frame, in pixels."
+msgstr "Bildbreite, angegeben in Pixeln."
+
+#. Form19..TntGroupBox2..Edit6..Hint
+msgid "Number of frames per second used when the animation is played."
+msgstr "Anzahl der Frames pro Sekunde während der Animation."
+
+#. Form19..ProgressForm1..Caption
+msgid "Working"
+msgstr "Moment..."
+
+#. Form2..Panel1..Version..Caption
+msgid "Version %s"
+msgstr "Version %s"
+
+#. Form2..Panel1..Label3..Caption
+msgid "Build %s"
+msgstr "Unterversion %s"
+
+#. Form2..Panel1..Comments....Caption
+msgid "This is free software, and you are welcome to redistribute it under the terms in the <a href=\"%s\">GNU General Public License</a> version 2. Please send bug reports and suggestions to the programmer."
+msgstr "Dieses Programm ist freie Software. Sie dürfen es gern unter den Bedingungen der  <a href=\"%s\">GNU General Public License</a> (Version 2) kostenlos weitergeben. Fehlermeldungen und Verbesserungsvorschläge schicken Sie bitte an den Programm-Autor."
+
+#. Form2..Panel1..LinkLabel1....Caption
+msgid "The newest version as well as the source code are available at: %s"
+msgstr "Sowohl die neueste Version als auch den Quellcode finden Sie auf: %s"
+
+#. Form2..Panel1..LinkLabel2..Caption
+msgid "Email: %s"
+msgstr "E-Mail: %s"
+
+#. Form2..Panel1..LinkLabel3..Caption
+msgid "<Language> translation by <Translator>"
+msgstr ""
+"Deutsche Übersetzung von\n"
+"Michael Bach Ipsen, Sebastian Stütz\n"
+"und Frank Hüttemeister."
+
+#. Form20..Caption
+msgid "Animation"
+msgstr "Animation"
+
+#. Form20..Panel2..ToolBar1..ToolButton1..Hint
+msgid "Play"
+msgstr "Abspielen"
+
+#. Form20..Panel2..ToolBar1..ToolButton2..Hint
+msgid "Pause"
+msgstr "Pause"
+
+#. Form20..Panel2..ToolBar1..ToolButton3..Hint
+msgid "Stop"
+msgstr "Stop"
+
+#. Form20..Panel2..ToolBar1..ToolButton4..Hint
+msgid "Back"
+msgstr "Zurück"
+
+#. Form20..Panel2..ToolBar1..ToolButton5..Hint
+msgid "Step"
+msgstr "Schritt"
+
+#. Form20..SaveDialog1..Filter
+msgid "Audio Video Interleave [*.avi]|*.avi"
+msgstr "Audio Video Interleave [*.avi]|*.avi"
+
+#. Form20..PopupMenu1..Speed1..Caption
+msgid "Speed"
+msgstr "Geschwindigkeit"
+
+#. Form20..PopupMenu1..Speed1..N101..Hint
+#. Form20..PopupMenu1..Speed1..N501..Hint
+#. Form20..PopupMenu1..Speed1..N1001..Hint
+#. Form20..PopupMenu1..Speed1..N1501..Hint
+#. Form20..PopupMenu1..Speed1..N2001..Hint
+#. Form20..PopupMenu1..Speed1..N10001..Hint
+msgid "Change the speed used to play the animation."
+msgstr "Geschwindigkeit der Animation festlegen."
+
+#. Form20..PopupMenu1..Repeat1..Caption
+msgid "Repeat"
+msgstr "Wiederholen"
+
+#. Form20..PopupMenu1..Repeat1..Hint
+msgid "Repeat playing the animation until manually stopped."
+msgstr "Wiederholung der Animation, bis sie vom Benutzer angehalten wird."
+
+#. Form20..PopupMenu1..Reverse1..Caption
+msgid "Auto reverse"
+msgstr "Auto reverse"
+
+#. Form20..PopupMenu1..Reverse1....Hint
+msgid "Play backwards when the end of the animation is reached. This is most useful in combination with the \"Repeat\" command."
+msgstr "Animation erst vorwärts, dann rückwärts abspielen. Es bietet sich in den meisten Fällen an, in diesem Fall auch die Option \"Wiederholen\" auszuwählen."
+
+#. Form20..PopupMenu1..Save1..Hint
+msgid "Save the animation to a file."
+msgstr "Animation speichern."
+
+#. Form20..PopupMenu1..Saveimageas1..Caption
+msgid "Save frame..."
+msgstr "Bild speichern unter..."
+
+#. Form20..PopupMenu1..Saveimageas1..Hint
+msgid "Save the shown frame to an image file."
+msgstr "Aktuelles Bild als Bilddatei (*.emf, *.bmp oder *.png) abspeichern."
+
+#. Form20..PopupMenu1..Saveimagesequence1..Caption
+msgid "Save all frames..."
+msgstr "Alle Bilder speichern..."
+
+#. Form20..PopupMenu1..Saveimagesequence1....Hint
+msgid "Save all frames in the animation to image files. This will create as many files as there are frames in the animation."
+msgstr "Alle Einzelbilder der Animation in separate Bilddateien speichern. Hierbei entstehen genauso viele Dateien wie Zahl der  Einzelbilder, aus der gesamte Animation besteht."
+
+#. Form21..Label1..Caption
+msgid "Corner:"
+msgstr "Ecke:"
+
+#. Form21..ComboBox1..Hint
+msgid "Choose which corner of the label should be locked."
+msgstr "Wählen Sie die Ecke, in der das Textfeld verankert werden soll."
+
+#. Form21..ComboBox1....Items.Strings
+msgid "Upper Left"
+msgstr "Oben links"
+
+#. Form21..ComboBox1....Items.Strings
+msgid "Upper Right"
+msgstr "Oben rechts"
+
+#. Form21..ComboBox1....Items.Strings
+msgid "Lower Left"
+msgstr "Oben links"
+
+#. Form21..ComboBox1....Items.Strings
+msgid "Lower Right"
+msgstr "Oben rechts"
+
+#. Form21..Edit1..Hint
+#. Form21..Edit2..Hint
+msgid "Enter a coordinate to lock label at."
+msgstr "Geben Sie Koordinaten ein, an der das Textfeld verankert werden soll."
+
+#. Form22..Caption
+msgid "Python interpreter"
+msgstr "Python Interpreter"
+
+#. Form22..PopupMenu1..Clear1..Caption
+msgid "Clear"
+msgstr "Löschen"
+
+#. Form3..Caption
+msgid "Edit axes"
+msgstr "Achsen bearbeiten"
+
+#. Form3..PageControl1..TabSheet1..Caption
+#. ParFuncFrame..ComboBox1....Items.Strings
+#. PolFuncFrame..ComboBox1....Items.Strings
+#. StdFuncFrame..ComboBox1....Items.Strings
+msgid "x-axis"
+msgstr "X-Achse"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Label1..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..Label5..Caption
+msgid "Minimum:"
+msgstr "Minimum:"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Edit1..Hint
+msgid "Minimum x-value."
+msgstr "Kleinster angezeigter X-Wert."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Label2..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..Label6..Caption
+msgid "Maximum:"
+msgstr "Maximum:"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Edit2..Hint
+msgid "Maximum x-value."
+msgstr "Höchster angezeigter X-Wert."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Label3..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..Label7..Caption
+msgid "Tick unit:"
+msgstr "Skalenteilung:"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Edit3..Hint
+msgid "Units between ticks on the x-axis."
+msgstr "Skalenteilung der X-Achse."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Label14..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..Label9..Caption
+msgid "Grid unit:"
+msgstr "Rastereinheit:"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Edit4..Hint
+msgid "Units between the grid lines perpendicular to the x-axis."
+msgstr "Zahlen zwischen den Rasterlinien senkrecht zur X-Achse."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox4..Hint
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox11..Hint
+msgid "Determine the tick unit automatically."
+msgstr "Skalenteilung automatisch bestimmen."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox4..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox11..Caption
+msgid "Auto tick"
+msgstr "Auto"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox6..Hint
+msgid "Show tick marks on the x-axis."
+msgstr "Skalenteilung auf der X-Achse zeigen."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox6..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox13..Caption
+msgid "Show ticks"
+msgstr "Skalenteilung anzeigen"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox5..Hint
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox12..Hint
+msgid "Set the grid unit to the same as the tick unit."
+msgstr "Die Rastereinheit als die Skalenteilung setzen."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox5..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox12..Caption
+msgid "Auto grid"
+msgstr "Auto"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox7..Hint
+msgid "Show vertical grid lines."
+msgstr "Senkrechte Rasterlinien anzeigen"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox7..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox14..Caption
+msgid "Show grid"
+msgstr "Raster anzeigen"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Panel1..CheckBox3....Hint
+msgid "Show the label at the right side of the graphing area, above the x-axis."
+msgstr "Textfeld rechts auf der rechten Seite des Hauptfensters oberhalb der X-Achse anzeigen."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Panel1..CheckBox3..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..Panel3..CheckBox10..Caption
+msgid "Label:"
+msgstr "Achsenbeschriftung:"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Panel1..Edit5..Hint
+#. Form3..PageControl1..TabSheet2..GridPanel2..Panel3..Edit11..Hint
+msgid "Edit the label for the axis here."
+msgstr "Achsenbeschriftung bearbeiten."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Panel2..Label4..Caption
+msgid "The x-axis cross at y="
+msgstr "Die X-Achse kreuzt bei y="
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Panel2..Edit6..Hint
+msgid "The x-axis will intersect with the y-axis at this value."
+msgstr "Die X-Achse schneidet die Y-Achse bei diesem Wert."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox1..Hint
+msgid "Use logarithmic scale on the x-axis."
+msgstr "X-Achse logarithmisch."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox1..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox8..Caption
+msgid "Logarithmic scale"
+msgstr "Logarithmische Skala"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox2..Hint
+msgid "Show units on the x-axis."
+msgstr "Skalenteilung auf der X-Achse anzeigen."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox2..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox9..Caption
+msgid "Show numbers"
+msgstr "Zahlen anzeigen"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox17..Hint
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox18..Hint
+msgid "Show units on the selected axis as a fraction multiplied by pi."
+msgstr "Skalenteilung als Bruchteile bzw. Vielfaches von Pi anzeigen."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox17..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox18..Caption
+msgid "Show as a multiple of π"
+msgstr "Als Vielfaches von π anzeigen"
+
+#. Form3..PageControl1..TabSheet2..Caption
+#. ParFuncFrame..ComboBox1....Items.Strings
+#. PolFuncFrame..ComboBox1....Items.Strings
+msgid "y-axis"
+msgstr "Y-Achse"
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Edit7..Hint
+msgid "Minimum y-value."
+msgstr "Kleinster angezeigter Y-Wert."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Edit8..Hint
+msgid "Maximum y-value."
+msgstr "Höchster angezeigter Y-Wert."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Edit9..Hint
+msgid "Units between ticks on the y-axis."
+msgstr "Skalenteilung der Y-Achse."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Edit10..Hint
+msgid "Units between the grid lines perpendicular to the y-axis."
+msgstr "Zahlen zwischen den Rasterlinien senkrecht zur Y-Achse."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox13..Hint
+msgid "Show tick marks on the y-axis."
+msgstr "Skalenteilung auf der Y-Achse zeigen."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox14..Hint
+msgid "Show horizontal grid lines."
+msgstr "Waagerechte Rasterlinien zeigen."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Panel3..CheckBox10....Hint
+msgid "Show the label at the top of the graphing area, to the right of the y-axis."
+msgstr "Textfeld oben im Hauptfenster rechts der Y-Achse anzeigen."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Panel4..Label8..Caption
+msgid "The y-axis cross at x="
+msgstr "Die Y-Achse kreuzt bei x="
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Panel4..Edit12..Hint
+msgid "The y-axis will intersect with the x-axis at this value."
+msgstr "Die Y-Achse schneidet die X-Achse bei diesem Wert."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox8..Hint
+msgid "Use logarithmic scale for the y-axis."
+msgstr "Y-Achse logarithmisch."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox9..Hint
+msgid "Show units on the y-axis."
+msgstr "Skalenteilung an der Y-Achse anzeigen."
+
+#. Form3..PageControl1..TabSheet3..Caption
+msgid "Settings"
+msgstr "Einstellungen"
+
+#. Form3..PageControl1..TabSheet3..Label16..Caption
+msgid "Title:"
+msgstr "Titel:"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup1....Hint
+msgid "Choose if you want to show the axes, and if you want to show them crossed or at the left and bottom of the image."
+msgstr "Wählen Sie, ob die Achsen unsichtbar, alle vier oder nur der erste Quadrant sichtbar sein sollen!"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup1..Caption
+msgid "Axes style"
+msgstr "Achsenstil"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup1....Items.Strings
+msgid "None"
+msgstr "Keinen"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup1....Items.Strings
+msgid "Crossed"
+msgstr "Gekreuzt"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup1....Items.Strings
+msgid "Boxed"
+msgstr "Als Kasten"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup2....Hint
+msgid "Choose if trigonometric functions should calculate in radians or degrees."
+msgstr "Wählen Sie, ob trigonometrische Funktionen in Bogenmaß oder Grad rechnen sollen."
+
+#. Form3..PageControl1..TabSheet3..RadioGroup2..Caption
+msgid "Trigonometry"
+msgstr "Trigonometrie"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup2....Items.Strings
+msgid "Radian"
+msgstr "Radian"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup2....Items.Strings
+msgid "Degree"
+msgstr "Grad"
+
+#. Form3..PageControl1..TabSheet3..Edit13..Hint
+msgid "Enter a title to show above the coordinate system."
+msgstr "Geben Sie den Titel ein, der über dem Koordinatensystem angezeigt werden soll."
+
+#. Form3..PageControl1..TabSheet3..BitBtn1..Hint
+msgid "Select the font for the title."
+msgstr "Wählen Sie die Schriftart für den Titel."
+
+#. Form3..PageControl1..TabSheet3..RadioGroup3..Hint
+msgid "Choose where the legend should be placed."
+msgstr "Wählen Sie, wohin die Legende platziert werden soll."
+
+#. Form3..PageControl1..TabSheet3..RadioGroup3..Caption
+msgid "Legend placement"
+msgstr "Platzierung der Legende"
+
+#. Form3..PageControl1..TabSheet3..CheckBox19....Hint
+msgid "Check this to use complex numbers for calculations. Notice that this will slow graphing down."
+msgstr "Aktivieren, um mit komplexen Zahlen zu rechnen. Beachten Sie, dass hierdurch die grafische Darstellung langsamer wird."
+
+#. Form3..PageControl1..TabSheet3..CheckBox19..Caption
+msgid "Calculate with complex numbers"
+msgstr "Komplex berechnen"
+
+#. Form3..PageControl1..TabSheet4..Caption
+msgid "Font and color"
+msgstr "Schriftart und -farbe"
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..Caption
+msgid "Colors"
+msgstr "Farben"
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..Label17..Caption
+msgid "Grid color:"
+msgstr "Rasterfarbe:"
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..Label18..Caption
+msgid "Axes color:"
+msgstr "Achsenfarbe:"
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..Label19..Caption
+#. Form6..Label4..Caption
+msgid "Background color:"
+msgstr "Hintergrundfarbe:"
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..ExtColorBox1..Hint
+msgid "Select the color of the image background."
+msgstr "Wählen sie die Hintergrundfarbe des Bildes."
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..ExtColorBox2..Hint
+msgid "Select the color of the axes."
+msgstr "Wählen Sie die Achsen-Farbe"
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..ExtColorBox3..Hint
+msgid "Select the color of the grid lines."
+msgstr "Wählen Sie die Frabe der Gitterlinien."
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..Caption
+msgid "Fonts"
+msgstr "Schriftarten"
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..Label20..Caption
+msgid "Number font:"
+msgstr "Zahlenschriftart:"
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..Label21..Caption
+msgid "Label font:"
+msgstr "Textfeld-Schriftart:"
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..Label10..Caption
+msgid "Legend font:"
+msgstr "Legenden-Schriftart:"
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..BitBtn2..Hint
+msgid "Select the font used to show the labels on the axes."
+msgstr "Wählen Sie die Schriftart für die Achsenbeschriftungen."
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..BitBtn3..Hint
+msgid "Select the font used to show the numbers on the axes."
+msgstr "Wählen Sie die Schriftart für die Achsenskalierungen."
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..BitBtn4..Hint
+msgid "Select the font used to show the legend text."
+msgstr "Wählen Sie die Schriftart für die Legende."
+
+#. Form4..GridPanelEx1..Label1..Caption
+msgid "Decimals:"
+msgstr "Dezimalstellen"
+
+#. Form4..GridPanelEx1..Panel1..Edit1..Hint
+msgid "Number of decimals used when results are shown."
+msgstr "Anzahl Dezimalstellen bei der Ergebnisanzeige"
+
+#. Form4..GridPanelEx1..RadioGroup1..Hint
+msgid "Format used when complex numbers are shown."
+msgstr "Format für die Anzeige komplexer Zahlen"
+
+#. Form4..GridPanelEx1..RadioGroup1..Caption
+msgid "Complex form"
+msgstr "Komplexzahlen-Format"
+
+#. Form4..GridPanelEx1..RadioGroup1....Items.Strings
+msgid "Real"
+msgstr "Reell"
+
+#. Form4..GridPanelEx1..RadioGroup1....Items.Strings
+msgid "Rectangular"
+msgstr "Normalform"
+
+#. Form4..GridPanelEx1..Label2..Caption
+msgid "Recent files:"
+msgstr "Letzte Dateien:"
+
+#. Form4..GridPanelEx1..Panel2..Edit2..Hint
+msgid "The number of most recent used files shown in the File menu."
+msgstr "Anzahl der zuletzt geöffneten Dateien im Dateimenü."
+
+#. Form4..GridPanelEx1..Label3..Caption
+msgid "Max undo steps:"
+msgstr "Max. rückgängig:"
+
+#. Form4..GridPanelEx1..Panel3..Edit3....Hint
+msgid "Maximum number of undo steps saved. Set this to 0 to prevent undo."
+msgstr "Maximale Anzahl von Rückgängig-Schritten. Auf 0 setzen, um das Rückgängigmachen zu sperren."
+
+#. Form4..GridPanelEx1..Label5..Caption
+msgid "Font scale:"
+msgstr "Schriftgröße:"
+
+#. Form4..GridPanelEx1..ComboBox1....Hint
+msgid "This is used to scale the user interface if you are having problems reading the text."
+msgstr "Hiermit läßt sich die Bildschirmauflösung einstellen, falls Sie Probleme beim Lesen des Textes haben."
+
+#. Form4..GridPanelEx1..Label4..Caption
+msgid "Language:"
+msgstr "Sprache:"
+
+#. Form4..GridPanelEx1..ComboBox2..Hint
+msgid "Select the language to use for the user interface."
+msgstr "Wählen Sie die Sprache für die Benutzeroberfläche."
+
+#. Form4..GridPanelEx1..CheckBox2..Hint
+msgid "Show the tooltip when the cursor is over an item."
+msgstr "Quickinfo zeigen, wenn der Mauszeiger sich über einem Feld befindet."
+
+#. Form4..GridPanelEx1..CheckBox2..Caption
+msgid "Show tooltip"
+msgstr "Quickinfo zeigen"
+
+#. Form4..GridPanelEx1..CheckBox3....Hint
+msgid "Save the size of the main window when the program exits. This is used the next time Graph is run."
+msgstr "Fensterstellung am Programmende speichern. Diese Einstellung wird beim nächsten Programmstart verwendet."
+
+#. Form4..GridPanelEx1..CheckBox3..Caption
+msgid "Save workspace on exit"
+msgstr "Fenstereinstellungen beim Beenden speichern"
+
+#. Form4..GridPanelEx1..CheckBox4....Hint
+msgid "If checked the program will contact a web server when the program is started to see if a newer version is available."
+msgstr "Wenn aktiviert, wird bei jedem Programmstart im Internet nach einer neuen Version von Graph gesucht."
+
+#. Form4..GridPanelEx1..CheckBox4..Caption
+msgid "Check for new version of Graph at startup"
+msgstr "Beim Programmstart eine neue Version von Graph suchen"
+
+#. Form4..GridPanelEx1..CheckBox5....Hint
+msgid "Use a custom decimal separator instead of the default from the Windows Regional settings."
+msgstr "Ein benutzerdefiniertes, von den Windows Standardeinstellungen abweichendes, Dezimaltrennzeichen festlegen."
+
+#. Form4..GridPanelEx1..CheckBox5..Caption
+msgid "Custom decimal separator:"
+msgstr "Benutzerdefiniertes Dezimaltrennzeichen:"
+
+#. Form4..GridPanelEx1..Edit4..Hint
+msgid "Decimal separator used when exporting to other programs."
+msgstr "Dezimaltrennzeichen beim Datenexport in andere Programme."
+
+#. Form5..Caption
+msgid "Insert function"
+msgstr "Funktion einfügen"
+
+#. Form5..Label1..Caption
+msgid "Function type:"
+msgstr "Funktionstyp:"
+
+#. Form5..ComboBox1..Hint
+msgid "Select the function type to graph."
+msgstr "Wählen Sie den Funktionstyp, der geplottet werd."
+
+#. Form5..ComboBox1....Items.Strings
+msgid "Standard function   y=f(x)"
+msgstr "Standardfunktion    y=f(x)"
+
+#. Form5..ComboBox1....Items.Strings
+msgid "Parametric function x(t), y(t)"
+msgstr "Parameterfunktion x(t), y(t)"
+
+#. Form5..ComboBox1....Items.Strings
+msgid "Polar function         r=f(t)"
+msgstr "Polarfunktion          r=f(t)"
+
+#. Form5..GroupBox1..Caption
+msgid "Function equation"
+msgstr "Funktionsgleichung"
+
+#. Form5..GroupBox2..Label6..Caption
+msgid "Steps:"
+msgstr "Schritte:"
+
+#. Form5..GroupBox2..Edit5..Hint
+msgid "Number of calculation steps used to draw the graph."
+msgstr "Anzahl der verwendeten Rechnenschritte, um den Funktionsgraphen zu zeichnen."
+
+#. Form5..GroupBox4..GridPanelEx1..Label13..Caption
+msgid "Draw type:"
+msgstr "Darstellungsart:"
+
+#. Form5..GroupBox4..GridPanelEx1..ComboBox4....Hint
+msgid "Choose Lines if you want the calculated points for the graph to be connected. Choose Dots if you only want to show a dot at each point."
+msgstr "Wählen Sie Verlauf, wenn die berechneten Punkte miteinander verbunden werden sollen. Wenn nur die Punkte angezeigt werden sollen, wählen Sie nur Punkte."
+
+#. Form5..GroupBox4..GridPanelEx1..ComboBox4..Text
+#. Form5..GroupBox4..GridPanelEx1..ComboBox4....Items.Strings
+msgid "Automatic"
+msgstr "Automatisch"
+
+#. Form5..GroupBox4..GridPanelEx1..ComboBox4....Items.Strings
+msgid "Dots"
+msgstr "Punkte"
+
+#. Form5..GroupBox4..GridPanelEx1..ComboBox4....Items.Strings
+msgid "Lines"
+msgstr "Verlauf"
+
+#. Form6..Caption
+msgid "Insert text label"
+msgstr "Textfeld einfügen"
+
+#. Form6..Label1..Caption
+msgid "Font name:"
+msgstr "Schriftart:"
+
+#. Form6..Label2..Caption
+msgid "Font size:"
+msgstr "Schriftgröße:"
+
+#. Form6..Label3..Caption
+msgid "Font color:"
+msgstr "Schriftfarbe:"
+
+#. Form6..ComboBox1..Hint
+msgid "Text size."
+msgstr "Textgröße."
+
+#. Form6..GroupBox1..Caption
+msgid "Text string"
+msgstr "Zeichenfolge"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton11..Hint
+msgid "Insert symbol (Ctrl+G)"
+msgstr "Zeichen einfügen (Strg+G)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton13..Hint
+msgid "Insert object."
+msgstr "Objekt einfügen."
+
+#. Form6..GroupBox1..ToolBar1..ToolButton1..Hint
+msgid "Bold (Ctrl+B)"
+msgstr "Fett (Strg+B)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton2..Hint
+msgid "Italic (Ctrl+I)"
+msgstr "Kursiv (Strg+I)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton3..Hint
+msgid "Underline (Ctrl+U)"
+msgstr "Unterstreichen (Strg+U)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton4..Hint
+msgid "Strikethrough (Ctrl+S)"
+msgstr "Durchstreichen (Strg+S)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton9..Hint
+msgid "Superscript (Ctrl++)"
+msgstr "Hochstellen (Strg++)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton10..Hint
+msgid "Subscript (Ctrl+=)"
+msgstr "Tiefstellen (Strg+=)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton5..Hint
+msgid "Align left (Ctrl+L)"
+msgstr "Linksbündig (Strg+L)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton6..Hint
+msgid "Center (Ctrl+E)"
+msgstr "Zentriert (Strg+E)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton7..Hint
+msgid "Align right (Ctrl+R)"
+msgstr "Rechtsbündig (Strg+R)"
+
+#. Form6..IFontBox1..Hint
+msgid "Text font."
+msgstr "Schriftart."
+
+#. Form6..ColorBox1..Hint
+msgid "Text color."
+msgstr "Textfarbe."
+
+#. Form6..ColorBox2..Hint
+msgid "Select background color of the text label."
+msgstr "Wählen Sie die Hintergrundfarbe des Textfeldes."
+
+#. Form6..ColorBox2..DefaultName
+msgid "Transparent"
+msgstr "Transparent"
+
+#. Form6..PopupMenu1..Popup_Undo..Hint
+msgid "Undo last action."
+msgstr "Letzte Aktion rückgängig machen."
+
+#. Form6..PopupMenu1..Popup_Redo..Hint
+msgid "Redo last undone action."
+msgstr "Die letzte rückgängig gemachte Aktion wiederherstellen."
+
+#. Form6..PopupMenu1..Popup_Paste..Hint
+msgid "Paste the contents of the clipboard."
+msgstr "Fügt den Inhalt der Zwischenablage ein."
+
+#. Form6..PopupMenu1..Popup_PasteSpecial..Caption
+msgid "Paste special..."
+msgstr "Inhalte einfügen..."
+
+#. Form6..PopupMenu1..Popup_PasteSpecial..Hint
+msgid "Select which clipboard representation you want to paste."
+msgstr "Wählen Sie, welche Daten Sie aus der Zwischenablage einfügen wollen."
+
+#. Form6..PopupMenu1..Popup_InsertObject..Caption
+msgid "Insert object..."
+msgstr "Objekt einfügen..."
+
+#. Form6..PopupMenu1..Popup_InsertObject..Hint
+msgid "Create a new OLE object."
+msgstr "Neues OLE-Objekt erzeugen."
+
+#. Form6..PopupMenu1..Popup_EditObject..Caption
+msgid "Edit object"
+msgstr "Objekt bearbeiten"
+
+#. Form6..PopupMenu1..Popup_EditObject..Hint
+msgid "Edit selected OLE object."
+msgstr "Ausgewähltes OLE-Objekt bearbeiten"
+
+#. Form7..Caption
+msgid "Insert f'(x)"
+msgstr "Ableitungsfunktion f'(x) einfügen"
+
+#. Form8..Label1..Caption
+#. PrintFrm..GroupBox1..Label1..Caption
+msgid "Name:"
+msgstr "Name:"
+
+#. Form8..ValueListEditor1....TitleCaptions.Strings
+msgid "Constant"
+msgstr "Konstante"
+
+#. Form8..ValueListEditor1....TitleCaptions.Strings
+msgid "Value"
+msgstr "Wert"
+
+#. Form9..Label1..Caption
+msgid "Select a function or tangent to evaluate."
+msgstr "Funktion oder Tangente auswählen, die berechnet werden soll."
+
+#. Form9..PolFuncFrame1....Hint
+#. ParFuncFrame..ComboBox1....Hint
+#. StdFuncFrame..ComboBox1....Hint
+msgid "Select where the cursor will be placed when you click on the image."
+msgstr "Durch Klicken können Sie den Cursor im Koordinatensystem platzieren."
+
+#. AreaFrame..GridPanel1..Panel1..Edit1....Hint
+msgid "Enter the start coordinate or mark the range on the graph itself with the mouse."
+msgstr "Eine Anfangskoordinate eingeben oder den Bereich direkt auf dem Graphen mit der Maus markieren."
+
+#. AreaFrame..GridPanel1..Panel2..Edit2....Hint
+msgid "Enter the end coordinate or mark the range on the graph itself with the mouse."
+msgstr "Eine Endkoordinate eingeben oder den Bereich direkt auf dem Graphen mit der Maus markieren."
+
+#. ParFuncFrame..Label7..Caption
+#. PolFuncFrame..Label7..Caption
+#. StdFuncFrame..Label5..Caption
+msgid "Snap to:"
+msgstr "Fangen:"
+
+#. ParFuncFrame..Edit2..Hint
+msgid "The x-coordinate evaluated for the t-parameter."
+msgstr "Die X-Koordinate berechnet für den Parameter t."
+
+#. ParFuncFrame..Edit3..Hint
+msgid "The y-coordinate evaluated for the t-parameter."
+msgstr "Die Y-Koordinate berechnet für den Parameter t."
+
+#. ParFuncFrame..Edit4..Hint
+msgid "The derivative of x(t) evaluated for the entered t-parameter."
+msgstr "Wert der Ableitung von x(t) für den eingegebenen Parameter t."
+
+#. ParFuncFrame..Edit5..Hint
+msgid "The derivative of y(t) evaluated for the entered t-parameter."
+msgstr "Ableitung von y(t) für den eingegebenen Parameter t."
+
+#. ParFuncFrame..Edit6..Hint
+msgid "The slope of the function evaluated for the entered t-parameter."
+msgstr "Die Steigung der Funktion für den eingegebenen Parameter t."
+
+#. ParFuncFrame..Edit1....Hint
+msgid "Enter the value for the parameter t for which you want to evaluate the function, or click on the graph in the graphing area."
+msgstr "Geben Sie einen Wert für den Parameter t ein, oder klicken Sie auf die Funktion im Hauptfenster, um den Funktionswert zu berechnen!"
+
+#. ParFuncFrame..ComboBox1....Items.Strings
+#. PolFuncFrame..ComboBox1....Items.Strings
+#. StdFuncFrame..ComboBox1....Items.Strings
+msgid "Intersection"
+msgstr "Schnittpunkt"
+
+#. ParFuncFrame..ComboBox1....Items.Strings
+#. PolFuncFrame..ComboBox1....Items.Strings
+msgid "Extreme x-value"
+msgstr "X-Extremwert"
+
+#. ParFuncFrame..ComboBox1....Items.Strings
+#. PolFuncFrame..ComboBox1....Items.Strings
+#. StdFuncFrame..ComboBox1....Items.Strings
+msgid "Extreme y-value"
+msgstr "Y-Extremwert"
+
+#. PolFuncFrame..Edit2..Hint
+msgid "The distance to the function evaluated for the given angle."
+msgstr "Der Abstand zur Funktion für den eingegebenen Winkel."
+
+#. PolFuncFrame..Edit3..Hint
+msgid "The x-coordinate evaluated for the given angle."
+msgstr "Die X-Koordinate berechnet für den eingegebenen Winkel."
+
+#. PolFuncFrame..Edit4..Hint
+msgid "The y-coordinate evaluated for the given angle."
+msgstr "Die Y-Koordinate berechnet für den angegebenen Winkel."
+
+#. PolFuncFrame..Edit5..Hint
+msgid "The derivative of the function evaluated for the given angle."
+msgstr "Wert der Ableitungsfunktion für den eingegebenen Winkel."
+
+#. PolFuncFrame..Edit6..Hint
+msgid "The slope of the function evaluated for the given angle."
+msgstr "Die Steigung der Funktion berechnet für den eingegebenen Winkel."
+
+#. PolFuncFrame..Edit1....Hint
+msgid "Enter the value of the polar angle for which you want to evaluate the function, or click on the graph in the graphing area."
+msgstr "Geben Sie einen Wert für den Polarwinkel ein, oder klicken Sie auf die Funktion im Hauptfenster, um den Funktionswert zu berechnen!"
+
+#. StdFuncFrame..Edit1....Hint
+msgid "Enter a value for which you want to evaluate the function, or click on the graph in the graphing area."
+msgstr "Geben Sie einen Wert ein, oder klicken Sie auf die Funktion im Hauptfenster, um den Funktionswert zu berechnen!"
+
+#. StdFuncFrame..Edit2..Hint
+msgid "This is the function evaluated for the entered x-value."
+msgstr "Dies ist der Funktionswert berechnet für den eingegebenen X-Wert."
+
+#. StdFuncFrame..Edit3....Hint
+msgid "This is the first derivative of the function evaluated for the entered value."
+msgstr "Dies ist die erste Ableitung der Funktion für den eingegebenen Wert."
+
+#. StdFuncFrame..Edit4....Hint
+msgid "This is the second derivative of the function evaluated for the entered value."
+msgstr "Das Ergebnis der zweiten Ableitung der Funktion für den eingegebenen Wert."
+
+#. TanFrame..Edit2....Hint
+msgid "This is the y-coordinate corresponding to the entered x-coordinate."
+msgstr "Dies ist die zur eingegebenen X-Koordinate passende Y-Koordinate."
+
+#. TanFrame..Edit1..Hint
+msgid "Enter an x-coordinate or click in the graphing area."
+msgstr "Geben Sie eine X-Koordinate ein, oder klicken Sie im Hauptfenster!"
+
+msgid "Error"
+msgstr "Fehler"
+
+msgid "Error %s"
+msgstr "Fehler %s"
+
+msgid "Length"
+msgstr "Länge"
+
+msgid "Degrees"
+msgstr "Grad"
+
+msgid "Label"
+msgstr "Textfeld"
+
+msgid "%s-error"
+msgstr "Fehler %s"
+
+msgid "Axes"
+msgstr "Achsen"
+
+msgid "Ctrl"
+msgstr "Strg"
+
+msgid "Alt"
+msgstr "Alt"
+
+msgid "Shift"
+msgstr "Umschalt"
+
+msgid "Del"
+msgstr "Entf"
+
+msgid "Ins"
+msgstr "Einfg"
+
+msgid "Home"
+msgstr "Pos 1"
+
+msgid "End"
+msgstr "Ende"
+
+msgid "PgUp"
+msgstr "Bild-Auf"
+
+msgid "PgDn"
+msgstr "Bild-Ab"
+
+msgid "Up"
+msgstr "Pfeil-Nach-Oben"
+
+msgid "Down"
+msgstr "Pfeil-Nach-Unten"
+
+msgid "Esc"
+msgstr "Esc"
+
+msgid "Enter"
+msgstr "Eingabe"
+
+msgid "Tab"
+msgstr "Tab"
+
+msgid "BkSp"
+msgstr "BSp"
+
+msgid "Space"
+msgstr "Leertaste"
+
+msgid "An error occurred while evaluating power function."
+msgstr "Bei der Berechnung der Potenzfunktion trat ein Fehler auf."
+
+msgid "Tangent to pi/2+n*pi (90+n180 in degrees) is undefined."
+msgstr "Tangente zu pi/2+n*pi (in Grad: 90°+n*180°) ist nicht definiert."
+
+msgid "Fact can only be calculated for positive integers."
+msgstr "Die Fakultät kann nur für positive Zahlen berechnet werden."
+
+msgid "Cannot take logarithm to number equal or less than zero."
+msgstr "Logarithmus ist für Zahlen kleiner gleich 0 nicht definiert."
+
+msgid "sqrt is undefined for negative numbers."
+msgstr "Quadratwurzel ist für negative Zahlen nicht definiert."
+
+msgid "A part of the evaluation gave a number with an imaginary part."
+msgstr "Ein Teil der Berechnung ergab eine Zahl mit Imaginärteil."
+
+msgid "Division by zero."
+msgstr "Division durch 0 ist unmöglich."
+
+msgid "Inverse trigonometric function out of range [-1;1]"
+msgstr "Inverse trigonometrische Funktion außerhalb des Intervalls [-1;1]"
+
+msgid "The function is not defined for this value."
+msgstr "Die Funktion ist für diesen Wert nicht definiert."
+
+msgid "atanh evaluated at undefined value."
+msgstr "atanh wurde für einen undefinierten Wert berechnet."
+
+msgid "acosh evaluated at undefined value."
+msgstr "acosh wurde für einen undefinierten Wert berechnet."
+
+msgid "arg(0) is undefined."
+msgstr "arg(0) ist nicht definiert."
+
+msgid "Evaluation failed."
+msgstr "Fehler bei der Evaluierung aufgetreten."
+
+msgid "Argument produced a function result with total loss of precision."
+msgstr "Argument erzeugte ein Funktionsergebnis ohne Genauigkeit."
+
+msgid "The custom function/constant '%s' was not found or has the wrong number of arguments."
+msgstr "Das Zeichen '%s' konnte nicht gefunden werden oder hat nicht die erforderliche Anzahl an Argumenten."
+
+msgid "Too many recursive calls."
+msgstr "Die maximale Rekursionstiefe wurde überschritten."
+
+msgid "Overflow: A function returned a value too large to handle."
+msgstr "Überlauf: Der Rückgabewert einer Funktion war zu groß."
+
+msgid "A plugin function failed: %s"
+msgstr "Plugin-Funktion fehlgeschlagen : %s"
+
+msgid "Unexpected operator. Operator '%s' cannot be placed here."
+msgstr "Unerwartet Operator. Der Operator '%s' kann hier nicht eingesetzt werden."
+
+msgid "The right bracket is missing."
+msgstr "Die rechte Klammer fehlt."
+
+msgid "Invalid number of arguments supplied for the function '%s'"
+msgstr "Funktion '%s' wurde eine unzulässige Zahl an Parametern übergeben."
+
+msgid "Comparison operator misplaced."
+msgstr "Vergleichsoperator an der falschen Stelle."
+
+msgid "Invalid number found. Use the format: -5.475E-8"
+msgstr "Ungültiger Zahlenwert. Benutzen Sie das Format -5.475E-8!"
+
+msgid "String is empty. You need to enter a formula."
+msgstr "Die Zeichenfolge ist leer. Sie müssen eine Funktion eingeben."
+
+msgid "Comma is not allowed here. Use dot as decimal separator."
+msgstr "Ein Komma ist hier nicht erlaubt; benutzen Sie den Punkt als Dezimaltrenner."
+
+msgid "Unexpected end of brackets."
+msgstr "Unerwartetes Ende der Klammern."
+
+msgid "Number, constant or function expected."
+msgstr "Zahl, Konstante oder Funktion erwartet."
+
+msgid "Parameter after constant or variable not allowed."
+msgstr "Parameter nach Konstante oder Variable nicht erlaubt."
+
+msgid "Expression expected."
+msgstr "Ausdruck erwartet."
+
+msgid "Unknown variable, function or constant: \"%s\""
+msgstr "Unbekannte Variable, Funktion oder Konstante: \"%s\""
+
+msgid "Unknown character: \"%s\""
+msgstr "Unbekanntes Zeichen: \"%s\""
+
+msgid "The end of the expression was unexpected."
+msgstr "Unerwartetes Ende des Ausdrucks."
+
+msgid "Error parsing expression."
+msgstr "Fehler bei der Analyse des Funktionstextes."
+
+msgid "A calculation resulted in an overflow."
+msgstr "Eine Berechnung hat einen Überlauf verursacht."
+
+msgid "An invalid value was used in the calculation."
+msgstr "In der Berechnung wurde ein ungültiger Wert verwendet."
+
+msgid "Not enough points for calculation."
+msgstr "Nicht genug Punkte für die Berechnung."
+
+msgid "Illegal name \"%s\" for user defined function or constant."
+msgstr "Der Name \"%s\" ist für benutzerdefinierte Funktionen oder Konstanten nicht zulässig."
+
+msgid "Cannot differentiate recursive function."
+msgstr "Eine rekursive Funktion kann nicht differenziert werden."
+
+msgid "Internal error."
+msgstr "Interner Fehler."
+
+msgid "Function \"%s\" cannot be differentiated."
+msgstr "Die Funktion \"%s\" kann nicht differenziert werden."
+
+msgid "Not further specified error occurred under calculation."
+msgstr "Unbekannter Fehler in der Berechnung."
+
+msgid "No solution found. Try another guess or another model."
+msgstr "Keine Lösung gefunden. Versuchen Sie es mit einer anderen Schätzung oder einem anderen Modell."
+
+msgid "No result found."
+msgstr "Nichts gefunden."
+
+msgid "An accurate result cannot be found."
+msgstr "Eine exaktes Ergebnis kann nicht ermittelt werden."
+
+msgid "Internal error. Please notify the programmer with as much information as possible."
+msgstr "Interner Fehler. Teilen Sie dies bitte möglichst detailliert dem Programmierer mit, z.B. wie dieser Fehler auftrat oder wie er sich provozieren lässt."
+
+msgid "You need to enter a name for the function/constant."
+msgstr "Für die Funktion/Konstante muss ein Name vergeben werden."
+
+msgid ""
+"Invalid function/constant name '%s'.\n"
+"The name may only contain letters and decimal digits, and it must always start with a letter.\n"
+"In addition you are not allowed to redefine built-in names."
+msgstr ""
+"Unzulässiger Funktions-/Konstantenname '%s'.\n"
+"Ein Name kann nur aus Buchstaben und Zahlen zusammengesetzt werden und muss stets mit einem Buchstaben beginnen.\n"
+"Es ist ferner nicht erlaubt, festdefinierte Namen eigenen Konstanten/Funktionen zuzuweisen."
+
+msgid "You need to enter a name for the argument."
+msgstr "Für das Argument muss ein Name vergeben werden."
+
+msgid ""
+"Invalid argument name '%s'.\n"
+"The name may only contain letters and decimal digits, and it must always start with a letter.\n"
+" In addition you are not allowed to use built-in names as argument names."
+msgstr ""
+"Unzulässiger Argumentname '%s'.\n"
+"Ein Name kann nur aus Buchstaben und Zahlen zusammengesetzt werden und muss stets mit einem Buchstaben beginnen.\n"
+"Es ist weiterhin nicht erlaubt, festdefinierte Namen als Argumentnamen in Ausdrücken zu benutzen"
+
+msgid "Character found after brackets."
+msgstr "Ein Zeichen folgt direkt auf eine Klammer."
+
+msgid "Symbol \"%s\" defined more than once."
+msgstr "Symbol \"%s\" wurde mehrfach definiert."
+
+msgid "Invalid equation or inequality."
+msgstr "Gleichung/Ungleichung unzulässig."
+
+msgid "Updating..."
+msgstr "Aktualisieren..."
+
+msgid "Save changes?"
+msgstr "Änderungen speichern?"
+
+msgid "Save changes in %s?"
+msgstr "Änderungen in %s speichern?"
+
+msgid "You have reached the maximum range of zoom."
+msgstr "Eine weitere Vergrößerung ist nicht möglich."
+
+msgid "You have reached the minimum range of zoom."
+msgstr "Eine weitere Verkleinerung ist nicht möglich."
+
+msgid "'%s' must not be zero."
+msgstr "'%s' darf nicht Null sein."
+
+msgid "Error in value"
+msgstr "Wertfehler"
+
+msgid "'%s' has to be an integer value greater or equal to 0."
+msgstr "'%s' muss eine natürliche Zahl oder 0 sein."
+
+msgid "'%s' must be greater than zero."
+msgstr "'%s' muss größer als 0 sein."
+
+msgid "'%s' must be an integer greater than zero."
+msgstr "'%s' muss eine natürliche Zahl sein."
+
+msgid "Trying to break zoom limit."
+msgstr "Versucht die Zoomgrenze zu überschreiten."
+
+msgid "'%s' must be greater than '%s'"
+msgstr "'%s' muss größer als '%s' sein."
+
+msgid "The maximum value must be greater than the minimum value."
+msgstr "Die Obergrenze muss größer als die Untergrenze sein."
+
+msgid "You need to enter a value."
+msgstr "Sie müssen einen Wert eingeben."
+
+msgid ""
+"This file was created with Graph %s.\n"
+"Only files from version %s and higher can be opened."
+msgstr ""
+"Diese Datei wurde von Graph %s erzeugt.\n"
+"Es lassen sich nur Dateien der Version %s und höher öffnen."
+
+msgid "'%s' is not a valid number."
+msgstr "'%s' ist kein gültiger Wert."
+
+msgid "'%s' must be a positive number."
+msgstr "'%s' muss größer als 0 sein."
+
+msgid "File not found: %s"
+msgstr ""
+"Die Datei %s\n"
+"wurde nicht gefunden."
+
+msgid ""
+"Error reading file: %s\n"
+"The file is not a correct Graph file."
+msgstr ""
+"Die Datei %s konnte nicht geladen werden.\n"
+"Die Datei ist keine gültige Graph-Datei."
+
+msgid "Unknown error while reading file: %s"
+msgstr "Beim Lesen der Datei trat ein unbekannter Fehler auf: %s"
+
+msgid "Graph files [*.grf]|*.grf"
+msgstr "Graph-Dateien [*.grf]|*.grf"
+
+msgid ""
+"Cannot write to file: %s\n"
+"Access denied. Check that the file is not in use or write protected."
+msgstr ""
+"In die Datei %sn kann nicht gespeichert werden. \n"
+"Der Zugriff wurde verweigert. Stellen Sie sicher, dass die Datei nicht von einem anderen Programm verwendet wird oder schreibgeschützt ist."
+
+msgid "The font \"%s\" doesn't exist. Standard font is used instead."
+msgstr "Die Schriftart \"%s\" existiert nicht. Stattdessen wird die Standard-Schriftart benutzt."
+
+msgid "Graph system"
+msgstr "Graph-Koordinatensystem"
+
+msgid "Open"
+msgstr "Öffnen..."
+
+msgid "Selection error"
+msgstr "Fehler bei der Auswahl."
+
+msgid "File error"
+msgstr "Dateifehler"
+
+msgid "Write access failed"
+msgstr "Schreibzugriffsfehler"
+
+msgid "OLE error"
+msgstr "OLE Fehler"
+
+msgid "Error reading object"
+msgstr "Fehler beim Lesen"
+
+msgid "Not a valid Graph object."
+msgstr "Kein gültiges Graph-Objekt"
+
+msgid "Object error"
+msgstr "Objekt-Fehler"
+
+msgid "Windows does not have enough resources to save an image that large."
+msgstr "Es steht nicht genügend Arbeitsspeicher zur Verfügung, um ein Bild dieser Größe zu speichern."
+
+msgid "'%1%' must be between %2% and %3%."
+msgstr "'%1%' muß zwischen %2% und %3% liegen."
+
+msgid "File not found"
+msgstr "Datei nicht gefunden"
+
+msgid "Error reading file"
+msgstr "Fehler beim Lesen der Datei"
+
+msgid "Printer error"
+msgstr "Fehler bei Drucken."
+
+msgid "Invalid use of infinity. Infinity cannot be used here."
+msgstr "Verwendung von \"unendlich\" hier nicht möglich."
+
+msgid "Not enough memory to complete the operation."
+msgstr ""
+
+msgid "Confirm delete"
+msgstr "Möchten Sie wirklich löschen?"
+
+msgid "Are you sure you want to delete %s?"
+msgstr "Möchten Sie wirklich %s löschen?"
+
+msgid "Graph files [*.grf]|*.grf|All files [*.*]|*.*"
+msgstr "Graph-Dateien [*.grf]|*.grf|Alle Dateien [*.*]|*.*"
+
+msgid "CSV (semicolon delimited) [*.csv]|*.csv|CSV (comma delimited) [*.csv]|*.csv|Text (tab delimited) [*.txt]|*.txt|Text (space delimited) [*.txt]|*.txt|All files [*.*]|*.*"
+msgstr "CSV (Semikolon-getrennt) [*.csv]|*.csv|CSV (Komma-getrennt) [*.csv]|*.csv|Text (Tabulator-getrennt) [*.txt]|*.txt|Text (Leerzeichen-getrennt) [*.txt]|*.txt|All files [*.*]|*.*"
+
+msgid "Are you sure you want to delete the model: %s?"
+msgstr "Möchten Sie wirklich das Modell %s löschen?"
+
+msgid "Maximum number on x-axis must be greater than the minimum value."
+msgstr "Der Maximalwert auf der X-Achse muss größer als der Minimalwert sein."
+
+msgid "Maximum number on y-axis must be greater than the minimum value."
+msgstr "Der Maximalwert auf der Y-Achse muss größer als der Minimalwert sein."
+
+msgid "Server application not found."
+msgstr "Quell-Anwendung nicht gefunden."
+
+msgid "Maximum number for t must be greater than the minimum value."
+msgstr "Der Maximalwert für t muss größer als der Minimalwert sein."
+
+msgid "The step value for t must be a number greater than 0."
+msgstr "Die Schrittweite für t muss positiv sein."
+
+msgid "The minimum value for the x-axis must be greater than 0, when the x-axis is logarithmic scaled."
+msgstr "Der Minimalwert für die X-Achse muss positiv sein, wenn die X-Achse logarithmisch ist."
+
+msgid "The cross point of the y-axis must be greater than 0, when the x-axis is logarithmic scaled."
+msgstr "Der Kreuzungspunkt der Y-Achse muss positiv sein, wenn die X-Achse logarithmisch ist."
+
+msgid "The minimum value for the y-axis must be greater than 0, when the y-axis is logarithmic scaled."
+msgstr "Der Minimalwert für die Y-Achse muss positiv sein, wenn die Y-Achse logarithmisch ist."
+
+msgid "The cross point of the x-axis must be greater than 0, when the y-axis is logarithmic scaled."
+msgstr "Der Kreuzungspunkt der X-Achse muss positiv sein, wenn die Y-Achse logarithmisch ist."
+
+msgid "'Recent files' must be between 0 and 9."
+msgstr "'Letzte Dateien' muss zwischen 0 und 9 liegen."
+
+msgid "The end of interval must be greater than the start of interval."
+msgstr "Die rechte Intervallgrenze muss größer als die linke Intervallgrenze sein."
+
+msgid "Error in interval."
+msgstr "Intervallfehler."
+
+msgid "The width must be an integer greater than 0."
+msgstr "Die Breite muss eine größer als 0 sein."
+
+msgid "Error in width"
+msgstr "Breite fehlerhaft."
+
+msgid "The end of interval must be greater than the start of interval and %s must be greater than 0."
+msgstr "Die rechte Intervallgrenze muss größer als die linke Intervallgrenze sein, und %s muss positiv sein."
+
+msgid "Invalid model name."
+msgstr "Ungültiger Modellname."
+
+msgid "A model of that name already exist."
+msgstr "Ein Modell dieses Namens existiert schon."
+
+msgid "The derivative of the function is not defined at %s=%s"
+msgstr "Die Funktion f(x) ist nicht für %s=%s definiert."
+
+msgid "Coordinate not defined"
+msgstr "Koordinate nicht definiert."
+
+msgid "Checking for newer version..."
+msgstr "Suche nach neuer Version..."
+
+msgid "Abort printing?"
+msgstr "Drucken absagen?"
+
+msgid "Calculate area"
+msgstr "Fläche berechnen"
+
+msgid "Calculate length of path"
+msgstr "Länge des Kurvenstücks berechnen"
+
+msgid "Edit function"
+msgstr "Funktion bearbeiten"
+
+msgid "Edit tangent/normal"
+msgstr "Tangente/Normale bearbeiten."
+
+msgid "Error processing file '%s' at line %s."
+msgstr "Fehler in Datei '%s' in der Zeile %s."
+
+msgid "Edit text label"
+msgstr "Textfeld bearbeiten"
+
+msgid "The model needs some constants (starting with a $) for Graph to find."
+msgstr "Graph fehlen für das Modell einige Konstanten (Diese beginnen mit einem Dollarzeichen  $)."
+
+msgid "'%s' has to be an integer value between 0 and 1000."
+msgstr "'%s' muss 0 oder eine natürliche Zahl kleiner gleich 1000 sein."
+
+msgid "Printing error"
+msgstr "Fehler bei Drucken."
+
+msgid "An unknown error occurred while printing."
+msgstr "Unbekannter Fehler beim Drucken aufgetreten."
+
+msgid "Error while adding points"
+msgstr "Fehler beim Hinzufügen von Punkten."
+
+msgid "Each point needs both an x- and a y-coordinate."
+msgstr "Jeder Punkt benötigt eine X- und eine Y-Koordinate."
+
+msgid "\"%s\" is not a valid number."
+msgstr "\"%s\" ist keine gültige Zahl."
+
+msgid "You didn't add any points. You need to specify some x- and y-coordinates in the grid."
+msgstr "Sie haben keine Punkte hinzufügt. Sie müssen einige X- und Y-Koordinaten im Raster spezifizieren."
+
+msgid "Edit point series"
+msgstr "Punktserie bearbeiten"
+
+msgid "Edit shading"
+msgstr "Schraffur bearbeiten."
+
+msgid "You need to select a function."
+msgstr "Sie müssen eine Funktion auswählen."
+
+msgid "New version of Graph available"
+msgstr "Es ist eine neue Version von Graph verfügbar."
+
+msgid ""
+"Graph %s is now available for download from www.padowan.dk\n"
+"\n"
+"Would you like to visit the download page?"
+msgstr ""
+"Auf  www.padowan.dk ist Graph %s jetzt verfügbar.\n"
+"Die folgenden neuen Features sind hinzugekommen:\n"
+"\n"
+"Möchten Sie jetzt die Webseite besuchen?"
+
+msgid "No new version"
+msgstr "Keine neue Version verfügbar."
+
+msgid "You are already using the most recent version of Graph."
+msgstr "Sie verwenden schon die neueste Version von Graph."
+
+msgid ""
+"Cannot connect to server www.padowan.dk.\n"
+"Either the server is down or you do not have a connection to the Internet."
+msgstr ""
+"Der Server www.padowan.dk ist nicht erreichbar.\n"
+"Entweder ist er heruntergefahren, oder Sie haben keine Internetverbindung."
+
+msgid "Socket error %s"
+msgstr "Verbindungsfehler %s"
+
+msgid "Definite integral, or signed area between function and x-axis, for the given domain range."
+msgstr "Bestimmtes Integral oder Fläche zwischen Funktionsgraph und X-Achse (mit Vorzeichen) über einem bestimmten Intervall."
+
+msgid "Length of path along the curve calculated for the given range."
+msgstr "Berechnung der Länge eines Kurventeilstücks."
+
+msgid ""
+"The file cannot be opened by this version of the program.\n"
+"You need at least Graph %s to open this file."
+msgstr ""
+"Die Datei lässt sich mit dieser Programmversion nicht öffnen.\n"
+"Sie brauchen dafür mindestens Graph %s."
+
+msgid ""
+"This file was saved by an outdated version of Graph,\n"
+"and it cannot be opened by the current version."
+msgstr ""
+"Diese Datei wurde mit einer veralteten Graph-Version gespeichert\n"
+"und lässt sich nicht mit der aktuellen Version öffnen."
+
+msgid ""
+"\n"
+"\n"
+"If you don't want to be asked again, this feature may be disabled from the Edit|Options dialog."
+msgstr ""
+"\n"
+"\n"
+"Diese Abfrage können Sie unter Bearbeiten|Einstellungen abschalten."
+
+msgid "Edit relation"
+msgstr "Relation bearbeiten"
+
+msgid "Commands"
+msgstr "Befehle:"
+
+msgid "(All Commands)"
+msgstr "(Alle Befehle)"
+
+msgid "To add a command to the toolbar simply select a category and drag the command out of this dialog box to the toolbar."
+msgstr "Um einen Befehl zur Symbolleiste hinzuzufügen, wählen Sie einfach eine Kategorie und ziehen Sie den Befehl aus diesem Dialogfeld in die Symbolleiste."
+
+msgid "Edit f'(x)"
+msgstr "f'(x) bearbeiten."
+
+msgid "Edit trendline"
+msgstr "Trendlinie bearbeiten"
+
+msgid "Categories:"
+msgstr "&Kategorien:"
+
+msgid ""
+"The program seems to be stuck in an infinite loop.\n"
+"If you cancel the operation the program will become unstable.\n"
+"You should therefore save your data under a new name and restart the application."
+msgstr ""
+"Graph scheint in einer Endlosschleife hängengeblieben zu sein.\n"
+"Wenn Sie die Ausführung abbrechen, kann das Programm instabil werden.\n"
+"Sie sollten daher besser ihre Daten in einer neuen Datei abspeichern und Graph neu starten."
+
+msgid "Thread is not responding"
+msgstr "Der Thread reagiert nicht."
+
+# This Tip of the day ....
+# oder
+# The Tip of the day ...
+# anders gefragt: Gilt dieser Satz für einen ganz bestimmten "Tipp des Tages" (dann wäre This richtig) oder gilt er allgemein?
+msgid "This Tip of the day can give you a lot of information about the program that most users don't know."
+msgstr "Der Tipp des Tages kann Ihnen viele Informationen über das Programm geben, die die meisten Anwender nicht kennen."
+
+#, fuzzy
+msgid "You can get help using Graph, report bugs and suggest future improvements at the web forum: <a href=\"http://forum.padowan.dk\">http://forum.padowan.dk</a>"
+msgstr "Im Graph-Forum unter <a href=\"http://www.padowan.dk/forum\">http://www.padowan.dk/forum</a> erhalten Sie Unterstützung bei der Bedienung von Graph, können Sie von Programmfehlern berichten oder Verbesserungsvorschläge machen."
+
+msgid "You can customize the toolbar by right clicking on it and select 'Customize toolbar'."
+msgstr "Sie können die Symbolleiste durch Rechtsklick darauf anpassen. Wählen Sie dann 'Symbolleiste anpassen'!"
+
+msgid "Instead of deleting a function, you can make it invisible by removing the check mark for the item in the function list."
+msgstr "Anstatt eine Funktion zu löschen, können Sie sie unsichtbar machen. Rechtsklick auf die Funktion und dann 'Sichtbar' wählen."
+
+msgid "You can paste images into a text label."
+msgstr "Sie können auch Bilder in ein Textfeld einfügen."
+
+msgid "Text labels can contain any kind of OLE objects, for example Microsoft Equation. When editing a label right click in the editing area and select 'Insert object'."
+msgstr "Textfelder können jede Art von OLE-Objekten enthalten, zum Beispiel ein Microsoft Gleichungsobjekt. Um ein Textfeld zu bearbeiten, klicken Sie in den Bearbeitungsbereich und wählen Sie 'Objekt einfügen'."
+
+msgid "You can export points from a point series to a file that can be read by other programs, for example Microsoft Excel. When editing the point series select the points, right click and choose 'Export to file'."
+msgstr "Sie können Punkte aus einer Punktserie in eine Datei exportieren, die von anderen Programmen geöffnet werden kann, zum Beispiel von Microsoft Excel. Beim Bearbeiten klicken Sie rechts und wählen 'In Datei exportieren'."
+
+msgid "A vertical line at x=5 can be drawn as the parametric function x(t)=5, y(t)=t or as the relation x=5."
+msgstr "Eine Senkrechte in x=5 kann mit der Parameterfunktion x(t)=5, y(t)=t gezeichnet werden oder mit der Relation x=5."
+
+msgid "You can use Zoom|Square to make the axes look equally scaled. This is especially useful when drawing circles and similar functions."
+msgstr "Sie können Zoomen|Quadrat benutzen, um die Achsen zu einheitlich zu skalieren. Besonders praktisch beim Zeichnen von Kreisen und ähnlichen Funktionen."
+
+msgid "You can find a list of all available functions in the help."
+msgstr "In der Hilfe finden Sie eine Liste aller verfügbaren Funktionen."
+
+msgid "You can combine two functions to one using 'if'. For example the function f(x)=x for x<1 and f(x)=x^2 for x>=1 can be written as f(x)=if(x<1, x, x^2)."
+msgstr "Mit 'if' können Sie zwei Funktionen in einer zusammenführen. Beispiel: Die Funktion f(x)=x für x<1 und f(x)=x^2 für x>=2 kann als f(x)=if(x<1, x, x^2) geschrieben werden."
+
+msgid "You can import the contents of another Graph file into the current coordinate system using 'File|Import|Graph file'."
+msgstr "Sie können den Inhalt einer anderen Graph-Datei in das aktuelle Koordinatensystem einfügen mit 'Datei|Einfügen|Graph-Datei'."
+
+msgid "If you check 'Save as default' in the Axes dialog the current settings will be used as default when creating new coordinate systems."
+msgstr "Wenn Sie 'Als Standard abspeichern' im Achsendialog wählen, werden die aktuellen Einstellungen für neue Dateien als Standard benutzt."
+
+msgid "While you hold down the Ctrl key, you can use the arrow keys to move the system."
+msgstr "Mit der Strg-Taste und den Pfeil-Tasten können Sie das Koordinatensystem verschieben."
+
+msgid "While you hold down the Ctrl key, you can use the + and - keys to zoom in and out."
+msgstr "Mit der Strg-Taste und den + und - Tasten können Sie hinein- und hinauszoomen."
+
+msgid "You can use the scroll button on your mouse to zoom in and out at the position of the mouse cursor."
+msgstr "Sie können mit dem Scroll-Rad Ihrer Maus an der Cursorposition hinein- und hinauszoomen."
+
+msgid "If you don't want an item shown in the legend, you can right click on the item in the function list and deselect 'Show in legend'."
+msgstr "Möchten Sie etwas in der Legende verbergen, klicken mit rechts auf den Eintrag in der Funktionsliste und wählen Sie 'In der Legende zeigen' ab."
+
+msgid "If you want the axes shown to the left and bottom of the image, you can choose Axes style as Boxed in the Settings tab of the Axes dialog."
+msgstr "Sollen sich die Achsen links und unten befinden, so wählen Sie im Achsendialog Einstellungen|Achsenstil 'Als Kasten'."
+
+msgid "Graph can save the shown coordinate system in five different image formats: bmp, emf, png, jpg and pdf."
+msgstr "Graph kann das gezeigte Koordinatensystem in fünf verschiedenen Formaten abspeichern: bmp, emf, png, jpg und pdf."
+
+msgid "You can use 'Edit|Copy image' to copy the coordinate system and paste it into another program, for example, Microsoft Word. Later you can usually edit the image in Graph by double clicking on it in the other program."
+msgstr "Mit 'Bearbeiten|Bild kopieren' können Sie das gezeigte Koordinatensystem in die Zwischenablage zu kopieren, um es in ein anderes Programm einzufügen. Sie können das Bild später nachbearbeiten, wenn Sie darauf in diesem Programm doppelklicken."
+
+msgid "You can open a saved grf-file in a new instance of the program by double clicking on it in Explorer."
+msgstr "Wenn Sie im Explorer auf eine gespeicherte Datei doppelklicken, wird sie in einem neuen Fenster geöffnet."
+
+msgid "You can drag a grf-file from explorer into an open instance of Graph to open the file."
+msgstr "Ziehen Sie eine Graph-Datei vom Explorer in ein Graph-Fenster, wird die Datei geöffnet."
+
+msgid "Graph will remember the size of the main window between executions. This can be disabled from the Options dialog."
+msgstr "Graph speichert die Stellung und Größe des Fensters. Das kann unter Einstellungen abgeschaltet werden."
+
+msgid "Calc|Table can be used to create a table with evaluation values for a function."
+msgstr "Mit Berechnen|Tabelle lässt sich eine Tabelle mit Stützpunkten für eine Funktion erstellen."
+
+msgid "A part or the whole evaluation table can be exported to a file by right clicking and selecting 'Export to file'. It can afterwards be opened in other programs like Microsoft Excel."
+msgstr "Durch Rechtsklick und 'In Datei exportieren' lässt sich die ganze Tabelle oder ein Teil davon in eine Datei exportieren. Diese kann später mit anderen Programmen wie Microsoft Excel geöffnet werden."
+
+msgid "Data from the evaluation table can be copied to another program like Microsoft Excel."
+msgstr "Daten aus der Wertetabelle können mit Hilfe der Zwischenablage in andere Programme wie Microsoft Excel kopiert werden."
+
+msgid "The data points in a point series can be copied to and from other programs like Microsoft Excel."
+msgstr "Die Daten einer Punktserie können mit Hilfe der Zwischenablage von anderen Programmen wie Microsoft Excel importiert werden."
+
+msgid "Elements as functions, point series, etc. can be copied from one instance of the program to another using Edit|Copy."
+msgstr "Mit Hilfe der Zwischenablage lassen sich Funktionen, Punktserien usw. von einem Programmfenster des Programms in ein anderes kopieren (mit Bearbeiten|Kopieren)."
+
+msgid "You can always undo the last thing you did using Edit|Undo."
+msgstr "Mit Bearbeiten|Rückgängig Wiederherstellen können Sie jederzeit den letzten Schritt rückgängig machen."
+
+msgid "If you used Edit|Undo by mistake, you can use Edit|Redo to redo what you have undone."
+msgstr "Falls Sie Bearbeiten|Rückgängig versehentlich benutzt haben, können sie es mit Bearbeiten|Wiederherstellen wiederherstellen."
+
+msgid "In the Axes dialog you can add a title to the coordinate system."
+msgstr "Im Achsendialog können Sie dem Koordinatensystem einen Titel hinzufügen."
+
+msgid "You can import point series from files saved by other programs, like Microsoft Excel."
+msgstr "Sie können Punktserien aus Dateien einfügen, die von anderen Programm wie Microsoft Excel abgespeichert wurden."
+
+msgid "When inserting a point series, you can copy data from programs like Microsoft Excel, and paste the data into the grid in Graph."
+msgstr "Wenn Sie eine Punktserie einfügen, können Sie Daten von anderen Programmen wie Microsoft Excel kopieren und ins Raster von Graph einfügen."
+
+msgid "You can use 'Zoom|Fit all' to change the coordinate system so all functions and point series are visible."
+msgstr "Mit Zoomen|Alle Punkte wird das Programmfenster so angepasst, dass alle Punktserien sichtbar sind."
+
+msgid "You can use Zoom|Fit to change the coordinate system to show all parts of the selected function or point series."
+msgstr "Zoomen|Passend passt die Ansicht so an, dass die gewählte Funktion oder Punktserie komplett sichtbar ist."
+
+msgid "When you hold down the Shift key you can drag the coordinate system around with the mouse."
+msgstr "Bei gedrückter Shift-Taste können Sie das Koordinatensystem frei verschieben."
+
+msgid "You can use Calc|Evaluate to find intersections between functions, crossings with the axes and extremum points."
+msgstr "Benutzen Sie Berechen|Funktionswerte, um Schnittpunkte zwischen den Funktionen, Schnittpunkte mit den Achsen sowie Extremwerte zu ermitteln."
+
+msgid "When a point series is selected you can add points to it by clicking on the image while you hold down the Ctrl key."
+msgstr "Sie können bei einer ausgewählten Punktserie Punkte hinzufügen, indem sie bei gedrückter Strg-Taste auf das Koordinatensystem klicken."
+
+msgid "You can use a relation to plot any inequality, for example sin(x^2) < cos(y^2)"
+msgstr "Relationen können dazu verwendet werden, um Ungleichungen grafisch darstellen zu lassen, z.B. sin(x^2) < cos(y^2)"
+
+msgid "You can use a relation to plot any equation, for example x*sin x = y*cos y"
+msgstr "Relationen können auch dazu verwendet werden, um beliebige Gleichungen grafisch darstellen zu können, z.B. x*sin x = y*cos y"
+
+msgid "Elements (functions, shadings, labels, relations, etc.) are drawn in the same order they appear in the function list to the left."
+msgstr "Die einzelnen Teile des Koordinatensystems (Funktionen, Schraffuren, Beschriftungen, Relationen, usw.) werden in derselben Reihenfolge gezeichnet wie sie in der Funktionenliste links angeordnet sind."
+
+msgid "You can move the selected element in the function list either by dragging it with the mouse or with the arrow up/down keys while ALT is held down."
+msgstr "Die Reihenfolge der Elemente in der Funktionsliste kann entweder per Drag & Drop oder mit Hilfe von ALT und den Cursor-Tasten verändert werden."
+
+msgid "You can show functions and other elements behind the axes by moving the element above the axes in the function list to the left. To move shadings and tangents you will have to move the functions they are attached to."
+msgstr "Funktionen und andere von den Achsen verdeckte Zeichnungselemente können vor die Koordinatenachsen geschoben werden, indem man in der Funktionsliste ihren Eintrag nach oben über den der Koordinatenachsen schiebt. Um Schraffuren und Tangenten zu verschieben, müssen die mit ihnen verbundenen Funktionen verschoben werden."
+
+msgid "Custom text labels may be attached to the axes by right clicking on the label and selecting a placement from the context menu."
+msgstr "Selbstdefinierte Beschriftungen können auch als Achsenbeschriftung verwendet werden. Per Kontextmenü (Rechtsklick auf der Beschriftung) kann diese Art der Platzierung ausgewählt werden."
+
+msgid "The legend may be moved freely with the mouse or attached to one of the corners by right clicking on the legend and choose a placement from the context menu."
+msgstr "Die Legende kann mit der Maus frei oder in einer der vier Bildschirmecken fest platziert werden. Die Platzierung in einer Ecke kann per Kontextmenü festgelegt werden."
+
+msgid "As an alternative to Transparent, you can choose a custom background color for labels. This is especially useful for labels drawn over shadings."
+msgstr "Beschriftungen können (anstelle durchsichtig zu sein) auch mit einer Hintergrundfarbe belegt werden. Dies empfiehlt sich, falls eine Beschriftung über einer Schraffur liegen soll."
+
+msgid "In most places like point series, axes settings, function ranges, etc., you can use expressions like pi/4 instead of numbers."
+msgstr "Für diverse numerische Angaben (wie z.B. bei Punktserien, Skalenteilung der Achsen, Definitionsbereiche von Funktionen, usw.) können anstelle von konkreten Zahlen auch Ausdrücke wie z.B. pi/4 benutzt werden."
+
+msgid "You can create your own custom constants under Function|Custom functions for use in functions, point series, etc. For example g=9.80665, R=8.31"
+msgstr "Eigene Konstanten (zur Verwendung in Funktionsdefinitionen, Punktserien, usw.) können unter Funktion|Benutzerdefiniert definiert werden. Beispiel: g=9.80665 R=8.31"
+
+msgid "You can create your own custom functions under Function|Custom functions for use in plotting functions, relations, etc. For example sinc(x)=if(x=0, 0, sin(x)/x)"
+msgstr "Eigene Funktionen (zur Verwendung in anderen Funktionsdefinitionen, Relationen, usw.) können unter Funktion|Benutzerdefiniert erstellt werden. Beispiel: sinc(x)=if(x=0, 0, sin(x)/x)"
+
+msgid "In the Save as image dialog there is an Option button you can use to specify the image resolution. This is especially useful if you want a high resolution image."
+msgstr "Der Menüpunkt \"Als Bilddatei abspeichern\" (?)  besitzt eine Funktion zur Festlegung der Auflösung der Bilddatei, die insbesondere dann nützlich ist, wenn ein hochaufgelöstes Bild gewünscht ist."
+
+msgid "Point series can have arrows as markers. A point series with arrows as markers and lines between the points can be used to show vectors."
+msgstr "Punktserien können mit Pfeilen als Endpunkt versehen werden. Eine Punktserie mit einem solchen Endpunkt und einer Geraden zwischen den Punkten kann beispielsweise so einen Vektor darstellen."
+
+msgid "Insert symbol"
+msgstr "Zeichen einfügen"
+
+msgid "Subset:"
+msgstr "Subset:"
+
+msgid "Insert"
+msgstr "Einfügen"
+
+msgid "Select color"
+msgstr "Farbe wählen"
+
+msgid "Customize"
+msgstr "Anpassen"
+
+msgid "Description"
+msgstr "Beschreibung:"
+
+msgid "Cannot open clipboard: %s"
+msgstr "Die Zwischenablage konnte nicht geöffnet werden: %s"
+
+msgid "There is no default printer currently selected."
+msgstr "Kein Standarddrucker ausgewählt."
+
+msgid "Install for all users"
+msgstr "Für alle Benutzer installieren."
+
+msgid "Examples"
+msgstr "Beispiele"
+
+msgid "Local"
+msgstr "Lokal"
+
+msgid "Global"
+msgstr "Global"
+
+#. PrintFrm..Caption
+msgid "Print"
+msgstr "Drucken"
+
+#. PrintFrm..Label6..Caption
+msgid "Scale:"
+msgstr "Maßstab:"
+
+#. PrintFrm..GroupBox1..Caption
+msgid "Printer"
+msgstr "Drucker"
+
+#. PrintFrm..GroupBox1..Label7..Caption
+msgid "Type:"
+msgstr "Typ:"
+
+#. PrintFrm..GroupBox1..Label8..Caption
+msgid "Where:"
+msgstr "Ziel:"
+
+#. PrintFrm..GroupBox1..Label9..Caption
+msgid "Comment:"
+msgstr "Bemerkung:"
+
+#. PrintFrm..GroupBox1..ComboBox1....Hint
+msgid "Select the printer to use. The Properties button may be used to change more advanced settings for the printer."
+msgstr "Wählen Sie einen Drucker aus. Mit der Schaltfläche \"Eigenschaften\" lassen sich mehrere erweiterte Drucker-Einstellungen ändern."
+
+#. PrintFrm..RadioGroup2....Hint
+msgid "Select to print in color (or grayscale if your printer is not a color printer) or convert all colors to black."
+msgstr "Wählen Sie Farbdruck (oder Graustufendruck, falls es kein Farbdrucker ist) oder konvertieren Sie alle Farben nach schwarz."
+
+#. PrintFrm..RadioGroup2..Caption
+msgid "Print output"
+msgstr "Ausdruck"
+
+#. PrintFrm..RadioGroup2....Items.Strings
+msgid "Color"
+msgstr "Farbe"
+
+#. PrintFrm..RadioGroup2....Items.Strings
+msgid "Black && white"
+msgstr "Schwarzweiß"
+
+#. PrintFrm..GroupBox2..Caption
+msgid "Position (millimeters)"
+msgstr "Position (Millimeter)"
+
+#. PrintFrm..GroupBox2..Label3..Caption
+msgid "Left margin:"
+msgstr "Linker Rand:"
+
+#. PrintFrm..GroupBox2..Label4..Caption
+msgid "Top margin:"
+msgstr "Oberer Rand:"
+
+#. PrintFrm..GroupBox2..CheckBox1..Hint
+msgid "Center the printing area on the page."
+msgstr "Druckbereich auf der Seite zentrieren."
+
+#. PrintFrm..GroupBox2..CheckBox1..Caption
+msgid "Center on page"
+msgstr "Zentrieren"
+
+#. PrintFrm..GroupBox2..Edit1....Hint
+#. PrintFrm..GroupBox2..Edit2....Hint
+msgid "Specify the printing area of the page. The printer will print only within these margins."
+msgstr "Den druckbaren Bereich festlegen. Ausdrucke erfolgen nur innerhalb dieser Begrenzungen."
+
+#. PrintFrm..GroupBox3..Label5..Caption
+msgid "Number of copies:"
+msgstr "Anzahl:"
+
+#. PrintFrm..GroupBox3..Edit3..Hint
+msgid "Choose number of copies to print."
+msgstr "Geben Sie die Anzahl der zu druckenden Kopien ein."
+
+#. PrintFrm..Edit4..Hint
+msgid "Enter percent of original size."
+msgstr "Geben die den Prozentssatz zur Originalgröße ein."
+
+#~ msgid "Associate *.grf files with Graph."
+#~ msgstr "*.grf-Dateien mit Graph verknüpfen."
+
+#~ msgid "Associate .grf files"
+#~ msgstr ".grf-Dateien verknüpfen"
+
+#~ msgid "Integral"
+#~ msgstr "Integral"
+
+#~ msgid "Calculate definite integral"
+#~ msgstr "Bestimmtes Integral berechnen."
+
+#~ msgid "Integrate"
+#~ msgstr "Integrieren"
+
+#~ msgid "Area or length of path calculated for the given range using Simpson's formula."
+#~ msgstr "Fläche oder Kurvenlänge des gegebenen Intervalls, bestimmt mit der Simpson'schen Regel (Keplersche Fassregel)"
+
+#~ msgid "Extremum"
+#~ msgstr "Extremwert"
+
+#~ msgid "This is the functions second derivative evaluated for the entered value."
+#~ msgstr "Dies ist die zweite Ableitung der Funktion für den eingegebenen Wert."
+
+#~ msgid "Zoom in."
+#~ msgstr "Vergrößern"
+
+#~ msgid "Zoom out."
+#~ msgstr "Verkleinern"
+
+#~ msgid "Zoom to standard coordinates."
+#~ msgstr "Auf Standardkoordinaten zoomen."
+
+#~ msgid "Calculates the area under the path of the selected function."
+#~ msgstr "Den Bereich unter dem Kurvenstück der gewählten Funktion berechnen."
+
+#~ msgid "Go to home page"
+#~ msgstr "Die Graph-Homepage besuchen"
+
+#~ msgid "About Graph..."
+#~ msgstr "Über Graph..."
+
+#~ msgid "All points"
+#~ msgstr "Alle Punkte"
+
+#~ msgid "Zoom as much as all points are visible."
+#~ msgstr "Zoomen, so dass alle Punkte sichtbar sind."
+
+#~ msgid "Zoom in on the x-axis only."
+#~ msgstr "Nur die X-Achse vergrößern."
+
+#~ msgid "Zoom out on the x-axis only."
+#~ msgstr "Nur die X-Achse verkleinern."
+
+#~ msgid "Zoom in on the y-axis only."
+#~ msgstr "Nur die Y-Achse vergrößern."
+
+#~ msgid "Zoom out on the y-axis only."
+#~ msgstr "Nur die Y-Achse verkleinern."
+
+#~ msgid "Custom functions..."
+#~ msgstr "Benutzerdefinierte Funktionen..."
+
+#~ msgid "Mark end of range"
+#~ msgstr "Bereichsende markieren"
+
+#~ msgid "Mark the start of the shading with a line."
+#~ msgstr "Markieren Sie den Anfang der Schraffur mit einer Linie."
+
+#~ msgid "Mark start of range"
+#~ msgstr "Bereichsanfang markieren"
+
+#~ msgid "Image information"
+#~ msgstr "Bildinformationen"
+
+#~ msgid "Open the file %s."
+#~ msgstr "Öffne die Datei %s."
+
+#~ msgid "Text [*.txt; *.csv]|*.txt;*.csv|All files [*.*]|*.*"
+#~ msgstr "Textdateien [*.txt; *.csv]|*.txt;*.csv|Alle Dateien [*.*]|*.*"
+
+#~ msgid "The server responded with the message '%s'"
+#~ msgstr "Der Server hat mit der Meldung '%s' geantwortet."
+
+#~ msgid "Protocol reply error %s"
+#~ msgstr "Protokollantwortfehler %s"
+
+#~ msgid "You can send suggestions for future versions, bug reports and comments to graph@padowan.dk"
+#~ msgstr "Vorschläge für zukünftige Versionen, Fehlermeldungen und Kommentare senden Sie bitte an deutsch@padowan.dk."
+
+#~ msgid "Select to place the image on the middle of the page."
+#~ msgstr "Hiermit plazieren Sie das Bild in der Seitenmitte."
+
+#~ msgid "Insert shade..."
+#~ msgstr "Schraffur einfügen..."
+
+#~ msgid "Shade"
+#~ msgstr "Schraffur"
+
+#~ msgid "Black"
+#~ msgstr "Schwarz"
+
+#~ msgid "Maroon"
+#~ msgstr "Marone"
+
+#~ msgid "Green"
+#~ msgstr "Hellgrün"
+
+#~ msgid "Olive"
+#~ msgstr "Chamois"
+
+#~ msgid "Navy"
+#~ msgstr "Marine"
+
+#~ msgid "Purple"
+#~ msgstr "Lila"
+
+#~ msgid "Gray"
+#~ msgstr "Grau"
+
+#~ msgid "Silver"
+#~ msgstr "Silber"
+
+#~ msgid "Red"
+#~ msgstr "Rot"
+
+#~ msgid "Lime"
+#~ msgstr "Limette"
+
+#~ msgid "Yellow"
+#~ msgstr "Gelb"
+
+#~ msgid "Blue"
+#~ msgstr "Blau"
+
+#~ msgid "Fuchsia"
+#~ msgstr "Pink"
+
+#~ msgid "Aqua"
+#~ msgstr "Zyan"
+
+#~ msgid "White"
+#~ msgstr "Weiß"
+
+#~ msgid "Money Green"
+#~ msgstr "Dollargrün"
+
+#~ msgid "Sky Blue"
+#~ msgstr "Azur"
+
+#~ msgid "Med Gray"
+#~ msgstr "Hellgrau"

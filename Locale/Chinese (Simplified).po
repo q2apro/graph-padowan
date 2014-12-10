@@ -1,0 +1,3848 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Graph\n"
+"POT-Creation-Date: 2012-11-12 22:11\n"
+"PO-Revision-Date: 2012-11-07 21:20+0100\n"
+"Last-Translator: Michael Bach Ipsen <rosenthall@hotmail.com>\n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: dxgettext 1.2.1\n"
+
+#. Form1..Recent1..Hint
+msgid "Open file: %s"
+msgstr "打开Graph文件: %s"
+
+#. Form1..PopupMenu1..Tree_ShowInLegend..Caption
+msgid "Show in legend"
+msgstr "在图例上显示"
+
+#. Form1..PopupMenu1..Tree_ShowInLegend..Hint
+msgid "Check to show the selected item in the legend."
+msgstr "勾选要显示在图例上的项目"
+
+#. Form1..PopupMenu1..Tree_Placement..Caption
+#. Form1..PopupMenu3..Label_Placement..Caption
+#. Form1..PopupMenu4..Legend_Placement..Caption
+#. Form21..Caption
+msgid "Placement"
+msgstr "放置"
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Above..Caption
+#. Form1..PopupMenu3..Label_Placement..Label_Above..Caption
+msgid "Above x-axis"
+msgstr "x 轴之上"
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Above....Hint
+#. Form1..PopupMenu3..Label_Placement..Label_Above....Hint
+msgid "Place the label directly above the x-axis on the right side of the image."
+msgstr "把标签放在x轴上方及图形右侧"
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Below..Caption
+#. Form1..PopupMenu3..Label_Placement..Label_Below..Caption
+msgid "Below x-axis"
+msgstr "x 轴边下"
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Below....Hint
+#. Form1..PopupMenu3..Label_Placement..Label_Below....Hint
+msgid "Place the label directly below the x-axis on the right side of the image."
+msgstr "把标签放在x轴下方及图形右侧"
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Left..Caption
+#. Form1..PopupMenu3..Label_Placement..Label_Left..Caption
+msgid "Left of y-axis"
+msgstr "y 轴左侧"
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Left....Hint
+#. Form1..PopupMenu3..Label_Placement..Label_Left....Hint
+msgid "Place the label to the left of the y-axis at the top of the image."
+msgstr "把标签放在y轴左侧及图形上方"
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Right..Caption
+#. Form1..PopupMenu3..Label_Placement..Label_Right..Caption
+msgid "Right of y-axis"
+msgstr "y 轴右侧"
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Right....Hint
+#. Form1..PopupMenu3..Label_Placement..Label_Right....Hint
+msgid "Place the label to the right of the y-axis at the top of the image."
+msgstr "把标签放在y轴右侧及图形上方"
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Placement_Custom..Caption
+#. Form1..PopupMenu1..Tree_Rotation..Tree_Rotation_Custom..Caption
+#. Form1..PopupMenu3..Label_Placement..Label_Placement_Custom..Caption
+#. Form1..PopupMenu3..Label_Rotation..Label_Rotation_Custom..Caption
+#. Form11..GroupBox2..ExtColorBox1..CustomName
+#. Form12..GroupBox2..ExtColorBox1..CustomName
+#. Form13..GroupBox1..ExtColorBox1..CustomName
+#. Form14..PageControl1..TabSheet1..GroupBox1..ExtColorBox1..CustomName
+#. Form14..PageControl1..TabSheet1..GroupBox2..ExtColorBox2..CustomName
+#. Form16..PageControl1..TabSheet2..GroupBox3..ExtColorBox1..CustomName
+#. Form3..PageControl1..TabSheet4..GroupBox3..ExtColorBox1..CustomName
+#. Form3..PageControl1..TabSheet4..GroupBox3..ExtColorBox2..CustomName
+#. Form3..PageControl1..TabSheet4..GroupBox3..ExtColorBox3..CustomName
+#. Form5..GroupBox4..GridPanelEx1..ExtColorBox1..CustomName
+#. Form6..ColorBox1..CustomName
+#. Form6..ColorBox2..CustomName
+#. Form7..GroupBox4..ExtColorBox1..CustomName
+msgid "Custom..."
+msgstr "自定"
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Placement_Custom..Hint
+#. Form1..PopupMenu3..Label_Placement..Label_Placement_Custom..Hint
+msgid "Place the label at a custom position."
+msgstr ""
+
+#. Form1..PopupMenu1..Tree_Rotation..Caption
+#. Form1..PopupMenu3..Label_Rotation..Caption
+msgid "Rotation"
+msgstr "旋转"
+
+#. Form1..PopupMenu1..Tree_Rotation..Tree_Rotation_0..Hint
+#. Form1..PopupMenu3..Label_Rotation..Rotation_0..Hint
+#, fuzzy
+msgid "Show the label with no rotation."
+msgstr "函数下面范围阴影"
+
+#. Form1..PopupMenu1..Tree_Rotation..Tree_Rotation_90..Hint
+#. Form1..PopupMenu3..Label_Rotation..Rotation_90..Hint
+msgid "Show the label rotated 90° counter clockwise."
+msgstr ""
+
+#. Form1..PopupMenu1..Tree_Rotation..Tree_Rotation_180..Hint
+#. Form1..PopupMenu3..Label_Rotation..Rotation_180..Hint
+msgid "Show the label rotated 180°."
+msgstr ""
+
+#. Form1..PopupMenu1..Tree_Rotation..Tree_Rotation_270..Hint
+#. Form1..PopupMenu3..Label_Rotation..Rotation_270..Hint
+msgid "Show the label rotated 270° counter clockwise."
+msgstr ""
+
+#. Form1..PopupMenu1..Tree_Rotation..Tree_Rotation_Custom..Hint
+#. Form1..PopupMenu3..Label_Rotation..Label_Rotation_Custom..Hint
+#, fuzzy
+msgid "Specify the angle of rotation for the label."
+msgstr "选择标题的字体"
+
+#. Form1..PopupMenu1..Tree_Export..Caption
+#. Form14..PopupMenu1..Popup_Export..Caption
+#. Form15..PopupMenu1..Popup1_Export..Caption
+#. Form17..PopupMenu1..Popup_Export..Caption
+msgid "Export to file..."
+msgstr "输出到文件"
+
+#. Form1..PopupMenu1..Tree_Export..Hint
+msgid "Export the selected point series to a file."
+msgstr "输出选取的坐标点到一个文件"
+
+#. Form1..ActionManager..............Caption
+msgid "Import"
+msgstr "导入"
+
+#. Form1..ActionManager..........Caption
+#. Form1..ActionManager..NewAction..Category
+#. Form1..ActionManager..OpenAction..Category
+#. Form1..ActionManager..SaveAction..Category
+#. Form1..ActionManager..SaveAsAction..Category
+#. Form1..ActionManager..SaveCopyAsAction..Category
+#. Form1..ActionManager..SaveAsImageAction..Category
+#. Form1..ActionManager..PrintAction..Category
+#. Form1..ActionManager..ExitAction..Category
+#. Form1..ActionManager..ImportGraphFileAction..Category
+#. Form1..ActionManager..ImportPointSeriesAction..Category
+msgid "File"
+msgstr "文件"
+
+#. Form1..ActionManager..........Caption
+#. Form1..ActionManager..UndoAction..Category
+#. Form1..ActionManager..RedoAction..Category
+#. Form1..ActionManager..CutAction..Category
+#. Form1..ActionManager..CopyAction..Category
+#. Form1..ActionManager..PasteAction..Category
+#. Form1..ActionManager..CopyImageAction..Category
+#. Form1..ActionManager..AxesAction..Category
+#. Form1..ActionManager..OptionsAction..Category
+msgid "Edit"
+msgstr "编辑"
+
+#. Form1..ActionManager..........Caption
+#. Form1..ActionManager..InsertFunctionAction..Category
+#. Form1..ActionManager..InsertTangentAction..Category
+#. Form1..ActionManager..InsertShadeAction..Category
+#. Form1..ActionManager..InsertPointsAction..Category
+#. Form1..ActionManager..InsertTrendlineAction..Category
+#. Form1..ActionManager..EditAction..Category
+#. Form1..ActionManager..DeleteAction..Category
+#. Form1..ActionManager..InsertDifAction..Category
+#. Form1..ActionManager..InsertLabelAction..Category
+#. Form1..ActionManager..InsertRelationAction..Category
+#. Form1..ActionManager..CustomFunctionsAction..Category
+#. ParFuncFrame..ComboBox1..Text
+#. ParFuncFrame..ComboBox1....Items.Strings
+#. PolFuncFrame..ComboBox1..Text
+#. PolFuncFrame..ComboBox1....Items.Strings
+#. StdFuncFrame..ComboBox1..Text
+#. StdFuncFrame..ComboBox1....Items.Strings
+msgid "Function"
+msgstr "函数"
+
+#. Form1..ActionManager..........Caption
+#. Form1..ActionManager..ZoomInAction..Category
+#. Form1..ActionManager..ZoomOutAction..Category
+#. Form1..ActionManager..ZoomWindowAction..Category
+#. Form1..ActionManager..ZoomSquareAction..Category
+#. Form1..ActionManager..ZoomStandardAction..Category
+#. Form1..ActionManager..ZoomFitAction..Category
+#. Form1..ActionManager..ZoomFitAllAction..Category
+#. Form1..ActionManager..ZoomXInAction..Category
+#. Form1..ActionManager..ZoomXOutAction..Category
+#. Form1..ActionManager..ZoomYInAction..Category
+#. Form1..ActionManager..ZoomYOutAction..Category
+msgid "Zoom"
+msgstr "缩放"
+
+#. Form1..ActionManager..........Caption
+#. Form1..ActionManager..PathAction..Category
+#. Form1..ActionManager..AreaAction..Category
+#. Form1..ActionManager..EvalAction..Category
+#. Form1..ActionManager..TableAction..Category
+#. Form1..ActionManager..AnimateAction..Category
+#. Form15..Button2..Caption
+msgid "Calc"
+msgstr "计算"
+
+#. Form1..ActionManager..........Caption
+msgid "Plugins"
+msgstr ""
+
+#. Form1..ActionManager..............Caption
+msgid "Internet"
+msgstr "网络"
+
+#. Form1..ActionManager..........Caption
+#. Form1..ActionManager..ContentsAction..Category
+#. Form1..ActionManager..ListAction..Category
+#. Form1..ActionManager..HomePageAction..Category
+#. Form1..ActionManager..UpdateAction..Category
+#. Form1..ActionManager..AboutAction..Category
+#. Form1..ActionManager..FaqAction..Category
+#. Form1..ActionManager..DonateAction..Category
+#. Form1..ActionManager..TipAction..Category
+#. Form1..ActionManager..SupportAction..Category
+#. Form1..ActionManager..ScriptDocAction..Category
+#. Form11..Button3..Caption
+#. Form12..Button3..Caption
+#. Form13..Button3..Caption
+#. Form14..Button3..Caption
+#. Form15..Button3..Caption
+#. Form16..Button3..Caption
+#. Form17..Button4..Caption
+#. Form19..Button3..Caption
+#. Form3..Button3..Caption
+#. Form4..Button3..Caption
+#. Form5..Button3..Caption
+#. Form6..Button3..Caption
+#. Form7..Button3..Caption
+msgid "Help"
+msgstr "说明"
+
+#. Form1..ActionManager..NewAction..Caption
+msgid "New"
+msgstr "新建"
+
+#. Form1..ActionManager..NewAction..Hint
+#, fuzzy
+msgid "Create a new coordinate system."
+msgstr "新建一个坐标系"
+
+#. Form1..ActionManager..OpenAction..Caption
+msgid "Open..."
+msgstr "打开..."
+
+#. Form1..ActionManager..OpenAction..Hint
+#, fuzzy
+msgid "Read a coordinate system from a file."
+msgstr "从文件读取坐标系及函数"
+
+#. Form1..ActionManager..SaveAction..Caption
+msgid "Save"
+msgstr "保存Graph图像"
+
+#. Form1..ActionManager..SaveAction..Hint
+#, fuzzy
+msgid "Write the current coordinate system to a file."
+msgstr "将坐标系和函数写入一个文件"
+
+#. Form1..ActionManager..SaveAsAction..Caption
+#. Form20..PopupMenu1..Save1..Caption
+msgid "Save as..."
+msgstr "另存为Graph图像..."
+
+#. Form1..ActionManager..SaveAsAction..Hint
+#, fuzzy
+msgid "Write the current coordinate system to a file with a new name."
+msgstr "保存坐标系及函数为另一个新Graph图像文件"
+
+#. Form1..ActionManager..SaveCopyAsAction..Caption
+msgid "Save copy as..."
+msgstr "保存副本为"
+
+#. Form1..ActionManager..SaveCopyAsAction..Hint
+#, fuzzy
+msgid "Save a copy of the current coordinate system to a file."
+msgstr "保存一个此坐标系及函数的副本"
+
+#. Form1..ActionManager..SaveAsImageAction..Caption
+msgid "Save as image..."
+msgstr "保存为其它图片格式..."
+
+#. Form1..ActionManager..SaveAsImageAction..Hint
+#, fuzzy
+msgid "Save the shown coordinate system as an image."
+msgstr "保存坐标系及函数图像为图片"
+
+#. Form1..ActionManager..PrintAction..Caption
+msgid "Print..."
+msgstr "打印..."
+
+#. Form1..ActionManager..PrintAction..Hint
+msgid "Print shown coordinate system."
+msgstr "打印坐标系及函数中所显示的部分"
+
+#. Form1..ActionManager..ExitAction..Caption
+msgid "Exit"
+msgstr "退出"
+
+#. Form1..ActionManager..ExitAction..Hint
+msgid "Quit the program."
+msgstr "退出此程序"
+
+#. Form1..ActionManager..UndoAction..Caption
+#. Form6..PopupMenu1..Popup_Undo..Caption
+msgid "Undo"
+msgstr "撤消"
+
+#. Form1..ActionManager..UndoAction..Hint
+msgid "Undo the last action."
+msgstr "撤消上一个操作"
+
+#. Form1..ActionManager..RedoAction..Caption
+#. Form6..PopupMenu1..Popup_Redo..Caption
+msgid "Redo"
+msgstr "重复"
+
+#. Form1..ActionManager..RedoAction..Hint
+msgid "Redo the last action undone."
+msgstr "重复上一个已撤消的操作"
+
+#. Form1..ActionManager..CutAction..Caption
+#. Form14..PopupMenu1..Popup_Cut..Caption
+#. Form17..PopupMenu1..Popup_Cut..Caption
+#. Form6..PopupMenu1..Popup_Cut..Caption
+msgid "Cut"
+msgstr "剪切"
+
+#. Form1..ActionManager..CutAction..Hint
+#, fuzzy
+msgid "Cut the selected function or point series to the clipboard."
+msgstr "剪切选择的函数或者坐标点数列到剪贴板上"
+
+#. Form1..ActionManager..CopyAction..Caption
+#. Form14..PopupMenu1..Popup_Copy..Caption
+#. Form15..PopupMenu1..Popup1_Copy..Caption
+#. Form17..PopupMenu1..Popup_Copy..Caption
+#. Form6..PopupMenu1..Popup_Copy..Caption
+msgid "Copy"
+msgstr "复制"
+
+#. Form1..ActionManager..CopyAction..Hint
+#, fuzzy
+msgid "Copy the selected function or point series to the clipboard."
+msgstr "复制选择的函数或者坐标点数列到剪贴板上。"
+
+#. Form1..ActionManager..PasteAction..Caption
+#. Form14..PopupMenu1..Popup_Paste..Caption
+#. Form17..PopupMenu1..Popup_Paste..Caption
+#. Form6..PopupMenu1..Popup_Paste..Caption
+msgid "Paste"
+msgstr "粘贴"
+
+#. Form1..ActionManager..PasteAction....Hint
+#, fuzzy
+msgid "Paste a function or point series from the clipboard into the coordinate system."
+msgstr "将剪贴板上的函数或者坐标点数列粘贴到这个坐标系上。"
+
+#. Form1..ActionManager..CopyImageAction..Caption
+msgid "Copy image"
+msgstr "复制图形"
+
+#. Form1..ActionManager..CopyImageAction..Hint
+#, fuzzy
+msgid "Copy the shown coordinate system to the clipboard."
+msgstr "复制坐标系及函数所显示的部分到剪贴板上"
+
+#. Form1..ActionManager..AxesAction..Caption
+msgid "Axes..."
+msgstr "坐标轴"
+
+#. Form1..ActionManager..AxesAction..Hint
+msgid "Edit axes settings."
+msgstr "编辑坐标轴设定"
+
+#. Form1..ActionManager..OptionsAction..Caption
+#. Form1..SaveDialogEx1..HelpCaption
+#. Form19..Button4..Caption
+msgid "Options..."
+msgstr "选项..."
+
+#. Form1..ActionManager..OptionsAction..Hint
+msgid "Edit various options for the interface and program features."
+msgstr "编辑介面与程序特性选项"
+
+#. Form1..ActionManager..InsertFunctionAction..Caption
+msgid "Insert function..."
+msgstr "插入函数"
+
+#. Form1..ActionManager..InsertFunctionAction..Hint
+msgid "Insert a new function."
+msgstr "插入新函数"
+
+#. Form1..ActionManager..InsertTangentAction..Caption
+msgid "Insert tangent/normal..."
+msgstr "插入切线/法线"
+
+#. Form1..ActionManager..InsertTangentAction..Hint
+msgid "Insert a tangent or normal for the selected function."
+msgstr "插入选定函数的切线或法线"
+
+#. Form1..ActionManager..InsertShadeAction..Caption
+msgid "Insert shading..."
+msgstr "插入阴影"
+
+#. Form1..ActionManager..InsertShadeAction..Hint
+msgid "Add shading to the selected function."
+msgstr "为此函数增加阴影"
+
+#. Form1..ActionManager..InsertPointsAction..Caption
+msgid "Insert point series..."
+msgstr "插入坐标点数列"
+
+#. Form1..ActionManager..InsertPointsAction..Hint
+msgid "Insert a point series."
+msgstr "插入坐标点数列"
+
+#. Form1..ActionManager..InsertTrendlineAction..Caption
+msgid "Insert trendline..."
+msgstr "插入趋势线"
+
+#. Form1..ActionManager..InsertTrendlineAction..Hint
+msgid "Insert a curve of best fit for the selected point series."
+msgstr "插入一个最适合曲线到选定的坐标数列"
+
+#. Form1..ActionManager..EditAction..Caption
+msgid "Edit..."
+msgstr "编辑..."
+
+#. Form1..ActionManager..EditAction..Hint
+msgid "Edit the selected element: Function, tangent, point series, etc."
+msgstr "编辑选取的函数, 切线或坐标点"
+
+#. Form1..ActionManager..DeleteAction..Caption
+#. Form14..PopupMenu1..Popup_Delete..Caption
+#. Form17..PopupMenu1..Popup_Delete..Caption
+msgid "Delete"
+msgstr "删除"
+
+#. Form1..ActionManager..DeleteAction..Hint
+msgid "Delete the selected function, tangent or point series."
+msgstr "删除选取的函数, 切线或坐标点"
+
+#. Form1..ActionManager..InsertDifAction..Caption
+msgid "Insert f'(x)..."
+msgstr "插入 f'(x)..."
+
+#. Form1..ActionManager..InsertDifAction..Hint
+msgid "Insert the first derivative of the selected function."
+msgstr "插入选定函数的第一导函数"
+
+#. Form1..ActionManager..ZoomInAction..Caption
+msgid "In"
+msgstr "放大"
+
+#. Form1..ActionManager..ZoomInAction..Hint
+msgid "Zoom in. Hold down Shift to zoom with larger steps."
+msgstr ""
+
+#. Form1..ActionManager..ZoomOutAction..Caption
+msgid "Out"
+msgstr "缩小"
+
+#. Form1..ActionManager..ZoomOutAction..Hint
+msgid "Zoom out. Hold down Shift to zoom with larger steps."
+msgstr ""
+
+#. Form1..ActionManager..ZoomWindowAction..Caption
+msgid "Window"
+msgstr "窗口"
+
+#. Form1..ActionManager..ZoomWindowAction..Hint
+msgid "Zoom to user selected window."
+msgstr "缩放到你所选择的窗口"
+
+#. Form1..ActionManager..ZoomSquareAction..Caption
+msgid "Square"
+msgstr "正方形"
+
+#. Form1..ActionManager..ZoomSquareAction....Hint
+msgid "Zoom to scale the axes equally. This will show a plotted circle in its correct relation instead of an ellipse."
+msgstr "缩放到坐标轴相同，这会显示圆形的关系而非椭圆"
+
+#. Form1..ActionManager..ZoomStandardAction..Caption
+msgid "Standard"
+msgstr "标准"
+
+#. Form1..ActionManager..ZoomStandardAction..Hint
+#, fuzzy
+msgid "Reset the axes to their default settings."
+msgstr "重设工具列图示到安装预始值"
+
+#. Form1..ActionManager..MoveUpAction..Category
+#. Form1..ActionManager..MoveDownAction..Category
+#. Form1..ActionManager..MoveLeftAction..Category
+#. Form1..ActionManager..MoveRightAction..Category
+#. Form1..ActionManager..MoveAction..Category
+msgid "Move"
+msgstr "移动"
+
+#. Form1..ActionManager..MoveUpAction..Caption
+msgid "Move up"
+msgstr "上移"
+
+#. Form1..ActionManager..MoveUpAction....Hint
+#, fuzzy
+msgid "Move the graphing area up along the coordinate system. Hold down Shift to move in larger steps."
+msgstr "移动窗口到坐标系上面"
+
+#. Form1..ActionManager..MoveDownAction..Caption
+msgid "Move down"
+msgstr "下移"
+
+#. Form1..ActionManager..MoveDownAction....Hint
+#, fuzzy
+msgid "Move the graphing area down along the coordinate system. Hold down Shift to move in larger steps."
+msgstr "移动窗口到坐标系下面"
+
+#. Form1..ActionManager..MoveLeftAction..Caption
+msgid "Move left"
+msgstr "左移"
+
+#. Form1..ActionManager..MoveLeftAction....Hint
+#, fuzzy
+msgid "Move the graphing area to the left along the coordinate system. Hold down Shift to move in larger steps."
+msgstr "移动窗口到坐标系左侧"
+
+#. Form1..ActionManager..MoveRightAction..Caption
+msgid "Move right"
+msgstr "右移"
+
+#. Form1..ActionManager..MoveRightAction....Hint
+#, fuzzy
+msgid "Move the graphing area to the right along the coordinate system. Hold down Shift to move in larger steps."
+msgstr "移动窗口到坐标系右侧"
+
+#. Form1..ActionManager..MoveAction..Caption
+msgid "Move system"
+msgstr "移动坐标系"
+
+#. Form1..ActionManager..MoveAction..Hint
+msgid "Move the coordinate system with the mouse."
+msgstr "用鼠标移动坐标系"
+
+#. Form1..ActionManager..PathAction..Caption
+msgid "Length of path"
+msgstr "路径长度"
+
+#. Form1..ActionManager..PathAction....Hint
+#, fuzzy
+msgid "Calculate the length of path between two given points on the curve."
+msgstr "计算曲线上两点之间的路径长度"
+
+#. Form1..ActionManager..AreaAction..Caption
+#. AreaFrame..GridPanel1..Label3..Caption
+msgid "Area"
+msgstr "面积"
+
+#. Form1..ActionManager..AreaAction..Hint
+#, fuzzy
+msgid "Calculate the definite integral over a given interval."
+msgstr "计算表格"
+
+#. Form1..ActionManager..EvalAction..Caption
+#. Form9..Caption
+msgid "Evaluate"
+msgstr "求解"
+
+#. Form1..ActionManager..EvalAction..Hint
+msgid "Evaluate or trace the selected function."
+msgstr "求解或推算选定的函数"
+
+#. Form1..ActionManager..TableAction..Caption
+#, fuzzy
+msgid "Table"
+msgstr "表格..."
+
+#. Form1..ActionManager..TableAction..Hint
+#, fuzzy
+msgid "Show an evaluation table."
+msgstr "显示一个求解表格"
+
+#. Form1..ActionManager..ContentsAction..Caption
+msgid "Contents and index"
+msgstr "内容和索引"
+
+#. Form1..ActionManager..ContentsAction..Hint
+msgid "Open help file."
+msgstr "打开帮助文件"
+
+#. Form1..ActionManager..ListAction..Caption
+msgid "List of functions"
+msgstr "函数清单"
+
+#. Form1..ActionManager..ListAction..Hint
+#, fuzzy
+msgid "Show a list of built-in functions that can be used for graphing."
+msgstr "显示可以用来绘图的函数清单"
+
+#. Form1..ActionManager..HomePageAction..Caption
+#, fuzzy
+msgid "Graph web site"
+msgstr "图片属性"
+
+#. Form1..ActionManager..HomePageAction..Hint
+#, fuzzy
+msgid "Open the default browser and show the Graph web site."
+msgstr "访问主页"
+
+#. Form1..ActionManager..UpdateAction..Caption
+msgid "Check for update"
+msgstr "确认更新"
+
+#. Form1..ActionManager..UpdateAction..Hint
+msgid "Contact the home page to see if a newer version is available."
+msgstr "检查更新"
+
+#. Form1..ActionManager..AboutAction..Caption
+#. Form2..Caption
+msgid "About Graph"
+msgstr "关于 Graph"
+
+#. Form1..ActionManager..AboutAction..Hint
+msgid "Show copyright information."
+msgstr "显示版权信息"
+
+#. Form1..ActionManager..SeparatorAction..Category
+#. Form1..ActionManager..SeparatorAction..Caption
+msgid "Separator"
+msgstr "分隔线"
+
+#. Form1..ActionManager..ZoomFitAction..Caption
+msgid "Fit"
+msgstr "适合"
+
+#. Form1..ActionManager..ZoomFitAction..Hint
+#, fuzzy
+msgid "Zoom to show the selected element."
+msgstr "缩放显示选择的函数"
+
+#. Form1..ActionManager..ZoomFitAllAction..Caption
+#, fuzzy
+msgid "Fit all"
+msgstr "适合"
+
+#. Form1..ActionManager..ZoomFitAllAction..Hint
+#, fuzzy
+msgid "Zoom to show all elements."
+msgstr "缩放显示选择的函数"
+
+#. Form1..ActionManager..FaqAction..Caption
+msgid "Frequently Asked Questions"
+msgstr "常见问题"
+
+#. Form1..ActionManager..FaqAction..Hint
+#, fuzzy
+msgid "Show a list of frequently asked questions and their answers."
+msgstr "显示常见问题与解答清单"
+
+#. Form1..ActionManager..InsertLabelAction..Caption
+msgid "Insert label..."
+msgstr "插入标签"
+
+#. Form1..ActionManager..InsertLabelAction..Hint
+#, fuzzy
+msgid "Insert a text label."
+msgstr "插入标签"
+
+#. Form1..ActionManager..DonateAction..Caption
+msgid "Donate"
+msgstr "捐助"
+
+#. Form1..ActionManager..DonateAction..Hint
+msgid "Donate money to the project."
+msgstr "捐款帮助这个项目"
+
+#. Form1..ActionManager..TipAction..Caption
+#. Form10..Caption
+#. Form10..Panel1..LinkLabel1..Caption
+msgid "Tip of the day"
+msgstr "今天的提示"
+
+#. Form1..ActionManager..TipAction..Hint
+msgid "Show tip of the day"
+msgstr "显示今天提示"
+
+#. Form1..ActionManager..SupportAction..Caption
+msgid "Support"
+msgstr "支持"
+
+#. Form1..ActionManager..SupportAction..Hint
+msgid "Open browser with the support page for the program."
+msgstr "打开这个项目的主页"
+
+#. Form1..ActionManager..ZoomXInAction..Caption
+msgid "Zoom x-axis in"
+msgstr "放大 x 轴"
+
+#. Form1..ActionManager..ZoomXInAction....Hint
+msgid "Zoom in on the x-axis only. Hold down Shift to zoom with larger steps."
+msgstr ""
+
+#. Form1..ActionManager..ZoomXOutAction..Caption
+msgid "Zoom x-axis out"
+msgstr "缩小 x 轴"
+
+#. Form1..ActionManager..ZoomXOutAction....Hint
+msgid "Zoom out on the x-axis only. Hold down Shift to zoom with larger steps."
+msgstr ""
+
+#. Form1..ActionManager..ZoomYInAction..Caption
+msgid "Zoom y-axis in"
+msgstr "放大 y 轴"
+
+#. Form1..ActionManager..ZoomYInAction....Hint
+msgid "Zoom in on the y-axis only. Hold down Shift to zoom with larger steps."
+msgstr ""
+
+#. Form1..ActionManager..ZoomYOutAction..Caption
+msgid "Zoom y-axis out"
+msgstr "缩小 y 轴"
+
+#. Form1..ActionManager..ZoomYOutAction....Hint
+msgid "Zoom out on the y-axis only. Hold down Shift to zoom with larger steps."
+msgstr ""
+
+#. Form1..ActionManager..InsertRelationAction..Caption
+msgid "Insert relation..."
+msgstr "插入关系式"
+
+#. Form1..ActionManager..InsertRelationAction..Hint
+msgid "Insert a new equation or inequality."
+msgstr "插入一个等式或不等式"
+
+#. Form1..ActionManager..CustomFunctionsAction..Caption
+#, fuzzy
+msgid "Custom functions/constants..."
+msgstr "自定义函数/常数"
+
+#. Form1..ActionManager..CustomFunctionsAction..Hint
+msgid "Create custom functions and constants for use in graphs."
+msgstr "新建绘图用的自定义函数及常数"
+
+#. Form1..ActionManager..AnimateAction..Caption
+msgid "Animate..."
+msgstr "绘制动画"
+
+#. Form1..ActionManager..AnimateAction..Hint
+msgid "Create an animation by variating a constant."
+msgstr "用改变常数来新增动画"
+
+#. Form1..ActionManager..ImportGraphFileAction..Caption
+msgid "Graph file..."
+msgstr "Graph 图像..."
+
+#. Form1..ActionManager..ImportGraphFileAction..Hint
+msgid "Import a Graph file into the current coordinate system."
+msgstr "导入一个Graph图像到当前坐标系"
+
+#. Form1..ActionManager..ImportPointSeriesAction..Caption
+msgid "Point series..."
+msgstr "坐标点数列"
+
+#. Form1..ActionManager..ImportPointSeriesAction..Hint
+msgid "Import point series from a data file."
+msgstr "由资料文件导入坐标点"
+
+#. Form1..ActionManager..ScriptDocAction..Caption
+msgid "Scripting engine documentation"
+msgstr ""
+
+#. Form1..ActionManager..ScriptDocAction..Hint
+msgid "Show documentation for scripting engine and plugin system."
+msgstr ""
+
+#. Form1..PopupMenu2..ToolBar_Reset..Caption
+msgid "Reset to default"
+msgstr "重设到预始值"
+
+#. Form1..PopupMenu2..ToolBar_Reset..Hint
+msgid "Reset the toolbar icons to the installation default."
+msgstr "重设工具列图示到安装预始值"
+
+#. Form1..PopupMenu2..ToolBar_Customize..Caption
+msgid "Customize toolbar..."
+msgstr "自定义工具列"
+
+#. Form1..PopupMenu2..ToolBar_Customize..Hint
+msgid "Customize the icons shown on the toolbar."
+msgstr "自定义工具列图示"
+
+#. Form1..PopupMenu3..Label_Edit..Caption
+msgid "Edit label..."
+msgstr "编辑标签"
+
+#. Form1..PopupMenu3..Label_Edit..Hint
+msgid "Edit the label under the cursor."
+msgstr "编辑游标下的标签"
+
+#. Form1..PopupMenu3..Label_Delete..Caption
+msgid "Delete label"
+msgstr "删除标签"
+
+#. Form1..PopupMenu3..Label_Delete..Hint
+msgid "Delete the label under the cursor."
+msgstr "删除在游标下面的标签"
+
+#. Form1..PopupMenu4..Legend_Show..Caption
+#. Form3..PageControl1..TabSheet3..CheckBox15..Caption
+msgid "Show legend"
+msgstr "显示图例说明"
+
+#. Form1..PopupMenu4..Legend_Show..Hint
+#. Form3..PageControl1..TabSheet3..CheckBox15..Hint
+msgid "Select to show a legend in the coordinate system."
+msgstr "选择显示此坐标系的图例说明"
+
+#. Form1..PopupMenu4..Legend_Font..Caption
+msgid "Font..."
+msgstr "字体"
+
+#. Form1..PopupMenu4..Legend_Font..Hint
+msgid "Change the font of the legend."
+msgstr "选择标题的字体"
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_TopRight..Caption
+#. Form3..PageControl1..TabSheet3..RadioGroup3....Items.Strings
+msgid "Top Right"
+msgstr "右上"
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_TopRight..Hint
+msgid "Show the legend in the upper right corner."
+msgstr "显示图例说明在右上角"
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_BottomRight..Caption
+#. Form3..PageControl1..TabSheet3..RadioGroup3....Items.Strings
+msgid "Bottom Right"
+msgstr "右下"
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_BottomRight..Hint
+msgid "Show the legend in the bottom right corner."
+msgstr "显示图例说明在右下角"
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_TopLeft..Caption
+#. Form3..PageControl1..TabSheet3..RadioGroup3....Items.Strings
+msgid "Top Left"
+msgstr "左上"
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_TopLeft..Hint
+msgid "Show the legend in the upper left corner."
+msgstr "显示图例说明在左上角"
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_BottomLeft..Caption
+#. Form3..PageControl1..TabSheet3..RadioGroup3....Items.Strings
+msgid "Bottom Left"
+msgstr "左下"
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_BottomLeft..Hint
+msgid "Show the legend in the bottom left corner."
+msgstr "显示图例说明在左下角"
+
+#. Form10..Button1..Caption
+#. Form15..Button1..Caption
+#. Form19..Button2..Caption
+msgid "Close"
+msgstr "关闭"
+
+#. Form10..Button2..Caption
+msgid "Next tip"
+msgstr "下一个提示"
+
+#. Form10..Button3..Caption
+msgid "Previous tip"
+msgstr "上一个提示"
+
+#. Form10..CheckBox1..Caption
+msgid "Show tips at startup"
+msgstr "在开始显示提示"
+
+#. Form10..Panel1..Label1..Caption
+msgid "Did you know..."
+msgstr "你知道吗..."
+
+#. Form11..Caption
+msgid "Insert relation"
+msgstr "插入关系式"
+
+#. Form11..Label1..Caption
+msgid "Relation:"
+msgstr "关系式:"
+
+#. Form11..Label2..Caption
+msgid "Constraints:"
+msgstr " 限制条件:"
+
+#. Form11..Button1..Caption
+#. Form12..Button1..Caption
+#. Form13..Button1..Caption
+#. Form14..Button1..Caption
+#. Form16..Button1..Caption
+#. Form17..Button1..Caption
+#. Form18..Button1..Caption
+#. Form2..Button1..Caption
+#. Form21..TntButton1..Caption
+#. Form3..Button1..Caption
+#. Form4..Button1..Caption
+#. Form5..Button1..Caption
+#. Form6..Button1..Caption
+#. Form7..Button1..Caption
+#. Form8..Button1..Caption
+#. PrintFrm..Button1..Caption
+msgid "OK"
+msgstr "确定"
+
+#. Form11..Button2..Caption
+#. Form12..Button2..Caption
+#. Form13..Button2..Caption
+#. Form14..Button2..Caption
+#. Form15..ProgressForm1..ButtonCaption
+#. Form16..Button2..Caption
+#. Form17..Button2..Caption
+#. Form18..Button2..Caption
+#. Form19..ProgressForm1..ButtonCaption
+#. Form21..TntButton2..Caption
+#. Form3..Button2..Caption
+#. Form4..Button2..Caption
+#. Form5..Button2..Caption
+#. Form6..Button2..Caption
+#. Form7..Button2..Caption
+#. Form8..Button2..Caption
+#. PrintFrm..Button2..Caption
+msgid "Cancel"
+msgstr "取消"
+
+#. Form11..GroupBox1..Caption
+#. Form12..GroupBox1..Caption
+#. Form5..GroupBox3..Caption
+#. Form7..GroupBox3..Caption
+msgid "Legend text"
+msgstr "图例说明文字"
+
+#. Form11..GroupBox1..Label10..Caption
+#. Form12..GroupBox1..Label10..Caption
+#. Form14..Label3..Caption
+#. Form16..PageControl1..TabSheet2..Label12..Caption
+#. Form5..GroupBox3..Label10..Caption
+#. Form7..GroupBox3..Label10..Caption
+msgid "Description:"
+msgstr "描述:"
+
+#. Form11..GroupBox1..Edit3....Hint
+#. Form5..GroupBox3..Edit7....Hint
+#, fuzzy
+msgid "Write a descriptive text to show in the legend and function list. If empty the formula will be used."
+msgstr "用于图例说明当中的描述。"
+
+#. Form11..GroupBox2..Caption
+#. Form16..PageControl1..TabSheet2..GroupBox3..Caption
+#. PrintFrm..GroupBox1..Button3..Caption
+msgid "Properties"
+msgstr "属性:"
+
+#. Form11..GroupBox2..Label7..Caption
+#. Form13..GroupBox1..Label7..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox1..Label1..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox2..Label5..Caption
+#. Form16..PageControl1..TabSheet2..GroupBox3..Label4..Caption
+msgid "Style:"
+msgstr "样式:"
+
+#. Form11..GroupBox2..Label9..Caption
+#. Form12..GroupBox2..Label9..Caption
+#. Form13..GroupBox1..Label6..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox1..Label2..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox2..Label6..Caption
+#. Form16..PageControl1..TabSheet2..GroupBox3..Label5..Caption
+#. Form5..GroupBox4..GridPanelEx1..Label9..Caption
+#. Form7..GroupBox4..Label9..Caption
+msgid "Color:"
+msgstr "颜色:"
+
+#. Form11..GroupBox2..Label3..Caption
+#. Form12..GroupBox2..Label8..Caption
+#. Form13..GroupBox1..Label5..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox2..Label7..Caption
+#. Form5..GroupBox4..GridPanelEx1..Label8..Caption
+#. Form7..GroupBox4..Label8..Caption
+msgid "Width:"
+msgstr "宽度:"
+
+#. Form11..GroupBox2..ShadeSelect1....Hint
+msgid "Select the style used for drawing the inequality. Not used for equations."
+msgstr "选择不等式的形式。不能应用到等式当中。"
+
+#. Form11..GroupBox2..ExtColorBox1..Hint
+msgid "Select the color for drawing the relation."
+msgstr "选择画等式的的颜色"
+
+#. Form11..GroupBox2..Panel1..Edit4....Hint
+msgid "Width in pixels of the equation line or the borderline of the inequality."
+msgstr "等式或不等式的线宽度。"
+
+#. Form11..Edit1..Hint
+msgid "Enter the relation, for example \"x^2+y^2 = 25\" or \"y < sin(x)\""
+msgstr "输入关系式，例如 \"x^2+y^2 = 25\" 或 \"y < sin(x)\""
+
+#. Form11..Edit2....Hint
+msgid "Enter constraints for the relation, for example \"x > 0 and y < 5\""
+msgstr "输入关系式的限制条件，例如\"x > 0 and y < 5\""
+
+#. Form12..Caption
+msgid "Insert tangent/normal"
+msgstr "插入 切线/法线"
+
+#. Form12..Edit1..Hint
+#, fuzzy
+msgid "Value where the tangent/normal will interact with the function."
+msgstr "函数切线/ 法线交叉的坐标"
+
+#. Form12..RadioGroup1..Hint
+msgid "Choose if you want a tangent or a normal."
+msgstr "选择是否要切线或法线"
+
+#. Form12..RadioGroup1..Caption
+msgid "Type"
+msgstr "方式"
+
+#. Form12..RadioGroup1....Items.Strings
+msgid "Tangent"
+msgstr "切线"
+
+#. Form12..RadioGroup1....Items.Strings
+msgid "Normal"
+msgstr "法线"
+
+#. Form12..GroupBox1..Edit2....Hint
+#. Form7..GroupBox3..Edit3....Hint
+msgid "Write a descriptive text to show in the legend. If empty the equation will be used."
+msgstr "用于图例说明当中的描述。"
+
+#. Form12..GroupBox2..Caption
+#. Form5..GroupBox4..Caption
+#. Form7..GroupBox4..Caption
+msgid "Graph properties"
+msgstr "图片属性"
+
+#. Form12..GroupBox2..Label7..Caption
+#. Form5..GroupBox4..GridPanelEx1..Label7..Caption
+#. Form7..GroupBox4..Label7..Caption
+msgid "Line style:"
+msgstr "线条样式"
+
+#. Form12..GroupBox2..Edit3..Hint
+#. Form13..GroupBox1..Edit2..Hint
+#. Form5..GroupBox4..GridPanelEx1..Panel1..Edit6..Hint
+#. Form7..GroupBox4..Edit4..Hint
+msgid "Width of graph in pixels."
+msgstr "图形宽度(点数)"
+
+#. Form12..GroupBox2..LineSelect1..Hint
+#. Form13..GroupBox1..LineSelect1..Hint
+#. Form5..GroupBox4..GridPanelEx1..LineSelect1..Hint
+#. Form7..GroupBox4..LineSelect1..Hint
+msgid "Choose which line style to use for drawing the graph."
+msgstr "选择用来绘图的线条样式"
+
+#. Form12..GroupBox2..ExtColorBox1..Hint
+#. Form13..GroupBox1..ExtColorBox1..Hint
+#. Form5..GroupBox4..GridPanelEx1..ExtColorBox1..Hint
+#. Form7..GroupBox4..ExtColorBox1..Hint
+msgid "Select the color of the graph."
+msgstr "选择路径颜色"
+
+#. Form12..GroupBox3..Caption
+#. Form5..GroupBox2..Caption
+#. Form7..GroupBox2..Caption
+msgid "Argument range"
+msgstr "参数范围"
+
+#. Form12..GroupBox3..Label4..Caption
+#. Form15..Label1..Caption
+#. Form16..PageControl1..TabSheet2..GroupBox1..Label6..Caption
+#. Form16..PageControl1..TabSheet3..GroupBox2..Label8..Caption
+#. Form19..TntGroupBox1..Label2..Caption
+#. Form5..GroupBox2..Label4..Caption
+#. Form7..GroupBox2..Label4..Caption
+#. AreaFrame..GridPanel1..Label1..Caption
+msgid "From:"
+msgstr "从:"
+
+#. Form12..GroupBox3..Label5..Caption
+#. Form15..Label2..Caption
+#. Form16..PageControl1..TabSheet2..GroupBox1..Label7..Caption
+#. Form16..PageControl1..TabSheet3..GroupBox2..Label9..Caption
+#. Form19..TntGroupBox1..Label3..Caption
+#. Form5..GroupBox2..Label5..Caption
+#. Form7..GroupBox2..Label5..Caption
+#. AreaFrame..GridPanel1..Label2..Caption
+msgid "To:"
+msgstr "到:"
+
+#. Form12..GroupBox3..Edit4..Hint
+#. Form5..GroupBox2..Edit3..Hint
+#. Form7..GroupBox2..Edit1..Hint
+msgid "Start of range interval for the used variable."
+msgstr "间隔范围的变数的起始点"
+
+#. Form12..GroupBox3..Edit5..Hint
+#. Form5..GroupBox2..Edit4..Hint
+#. Form7..GroupBox2..Edit2..Hint
+msgid "End of range interval for the used variable."
+msgstr "间隔范围的变数终点"
+
+#. Form12..GroupBox5..Caption
+#. Form5..GroupBox5..Caption
+msgid "Endpoints"
+msgstr "端点图样:"
+
+#. Form12..GroupBox5..Label11..Caption
+#. Form5..GroupBox5..Label11..Caption
+msgid "Start:"
+msgstr "开始:"
+
+#. Form12..GroupBox5..Label12..Caption
+#. Form5..GroupBox5..Label12..Caption
+msgid "End:"
+msgstr "结束:"
+
+#. Form12..GroupBox5..ComboBox1....Hint
+#. Form5..GroupBox5..ComboBox2....Hint
+msgid "Select marker to show at the start of the interval. Only used if an argument range is specified."
+msgstr "选择间隔的起始点标示"
+
+#. Form12..GroupBox5..ComboBox2....Hint
+#. Form5..GroupBox5..ComboBox3....Hint
+msgid "Select marker to show at the end of the interval. Only used if an argument range is specified."
+msgstr "选择间隔的终点标示"
+
+#. Form13..Caption
+msgid "Insert trendline"
+msgstr "插入 趋势线"
+
+#. Form13..GroupBox1..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox2..Caption
+msgid "Line"
+msgstr "连接线"
+
+#. Form13..PageControl1..TabSheet1..Caption
+msgid "Built-in"
+msgstr ""
+
+#. Form13..PageControl1..TabSheet1..Panel1..Image1..Hint
+msgid "Create a linear function: f(x)=ax+b"
+msgstr "建立线性函数 :  f(x)=ax+b"
+
+#. Form13..PageControl1..TabSheet1..Panel2..Image2..Hint
+msgid "Create a logarithmic function: f(x)=a*ln(x)+b"
+msgstr "建立对数函数: f(x)=a*ln(x)+b"
+
+#. Form13..PageControl1..TabSheet1..Panel3..Image3..Hint
+msgid "Create a polynomial function: f(x)=ax^3+bx^2+cx+d"
+msgstr "建立多项式函数: f(x)=ax^3+bx^2+cx+d"
+
+#. Form13..PageControl1..TabSheet1..Panel4..Image4..Hint
+msgid "Create a power function: f(x)=ax^b"
+msgstr "建立幂函数: f(x)=ax^b"
+
+#. Form13..PageControl1..TabSheet1..Panel5..Image5..Hint
+msgid "Create a exponential function: f(x)=a*b^x"
+msgstr "建立指数函数: f(x)=a*b^x"
+
+#. Form13..PageControl1..TabSheet1..StaticText1..Caption
+msgid "Order:"
+msgstr "阶数:"
+
+#. Form13..PageControl1..TabSheet1..RadioButton3..Caption
+msgid "Polynomial"
+msgstr "多项式"
+
+#. Form13..PageControl1..TabSheet1..RadioButton2..Caption
+msgid "Logarithmic"
+msgstr "对数"
+
+#. Form13..PageControl1..TabSheet1..RadioButton1..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox2..ComboBox2....Items.Strings
+msgid "Linear"
+msgstr "直线"
+
+#. Form13..PageControl1..TabSheet1..RadioButton4..Caption
+msgid "Power"
+msgstr "幂"
+
+#. Form13..PageControl1..TabSheet1..RadioButton5..Caption
+msgid "Exponential"
+msgstr "指数"
+
+#. Form13..PageControl1..TabSheet1..Panel6..Image6..Hint
+msgid "Create a moving average as a series of straight lines."
+msgstr "新建一条走向平均值的直线"
+
+#. Form13..PageControl1..TabSheet1..RadioButton6..Caption
+msgid "Moving average"
+msgstr "拟合曲线"
+
+#. Form13..PageControl1..TabSheet1..StaticText2..Caption
+msgid "Period:"
+msgstr "周期:"
+
+#. Form13..PageControl1..TabSheet1..Edit4..Hint
+msgid "Determines how many points are used for the average."
+msgstr "决定多少坐标点用来作为平均值"
+
+#. Form13..PageControl1..TabSheet1..Edit1..Hint
+msgid "The order of the polynomium. For example 2 means a parable."
+msgstr "多项式的阶数"
+
+#. Form13..PageControl1..TabSheet2..Caption
+msgid "User defined"
+msgstr "使用者定义"
+
+#. Form13..PageControl1..TabSheet2..Label1..Caption
+msgid "Model:"
+msgstr "模式:"
+
+#. Form13..PageControl1..TabSheet2..Button4..Caption
+#. Form8..Caption
+msgid "Add model"
+msgstr "增加模式"
+
+#. Form13..PageControl1..TabSheet2..Button5..Caption
+msgid "Remove model"
+msgstr "移除模式"
+
+#. Form13..PageControl1..TabSheet2..Button6..Caption
+msgid "Edit model"
+msgstr "编辑模型"
+
+#. Form13..PageControl1..TabSheet2..Edit3..Hint
+msgid "Enter a function model to base the trendline on."
+msgstr "使用一个函数模式来作为趋势线的基准"
+
+#. Form13..CheckBox1....Hint
+#. Form13..Edit5....Hint
+msgid "Type a value in the Intercept box to specify the point where you want the trendline to meet the y-axis. This is only available for linear, polynomial and exponential trendlines."
+msgstr "在截距对话框输入一个值,用来定义一个趋势线与y轴相交的点。而这个只适用于线性、多项式与指数趋势线。"
+
+#. Form13..CheckBox1..Caption
+msgid "Intercept ="
+msgstr "截距="
+
+#. Form13..TntPopupMenu1..Popup_Import..Caption
+#. Form14..PopupMenu1..Popup_Import..Caption
+#. Form17..PopupMenu1..Popup_Import..Caption
+msgid "Import from file..."
+msgstr "从文件导入"
+
+#. Form13..TntPopupMenu1..Popup_Import..Hint
+#, fuzzy
+msgid "Import user models from a file."
+msgstr "由资料文件导入坐标点"
+
+#. Form13..TntPopupMenu1..Popup_Export..Caption
+#, fuzzy
+msgid "Export all to file..."
+msgstr "输出到文件"
+
+#. Form13..TntPopupMenu1..Popup_Export..Hint
+#, fuzzy
+msgid "Export user models to a file."
+msgstr "输出选择的资料到文件"
+
+#. Form13..SaveDialog1..Filter
+#. Form13..OpenDialog1..Filter
+msgid "User models [*.ini]|*.ini"
+msgstr ""
+
+#. Form14..Caption
+msgid "Insert point series"
+msgstr "插入坐标点数列"
+
+#. Form14..Edit1....Hint
+msgid "The name of the point series, which is shown in the list to the left of the coordinate system."
+msgstr "坐标点数列的名称，此名称会显示在坐标系的左边列。"
+
+#. Form14..Edit1..Text
+msgid "Series"
+msgstr "数列"
+
+#. Form14..GroupBox4....Hint
+msgid "This shows a sample of the markers and the lines between the markers."
+msgstr "这是一个标示的范例和标是中间的线条。"
+
+#. Form14..GroupBox4..Caption
+msgid "Sample"
+msgstr "范例"
+
+#. Form14..PageControl1..TabSheet1..Caption
+msgid "Markers"
+msgstr "标示"
+
+#. Form14..PageControl1..TabSheet1..GroupBox1..Caption
+msgid "Marker"
+msgstr "标示"
+
+#. Form14..PageControl1..TabSheet1..GroupBox1..Label4..Caption
+msgid "Size:"
+msgstr "大小:"
+
+#. Form14..PageControl1..TabSheet1..GroupBox1..Edit2..Hint
+msgid "Choose the size of the markers."
+msgstr "选择标示的大小"
+
+#. Form14..PageControl1..TabSheet1..GroupBox1..PointSelect1..Hint
+msgid "Choose the type of markers to be shown at each point."
+msgstr "选择坐标点使用的标示类型"
+
+#. Form14..PageControl1..TabSheet1..GroupBox1..ExtColorBox1..Hint
+msgid "Choose the color of the markers."
+msgstr "选择标示的颜色"
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..Label11..Caption
+msgid "Interpolation:"
+msgstr "中间插值："
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..LineSelect1....Hint
+msgid "Choose the style of lines to be drawn between the points. You may also choose not to draw any lines."
+msgstr "选择坐标点之间的线条形式，你也可以不要画任何线条。"
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..Edit3..Hint
+msgid "Choose the width of the lines in pixels."
+msgstr "选择线条宽度"
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..ComboBox2..Hint
+msgid "Select which kind of line to draw between the markers."
+msgstr "选择标示之间的线条样式"
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..ComboBox2....Items.Strings
+#, fuzzy
+msgid "1D cubic spline"
+msgstr "三次曲线"
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..ComboBox2....Items.Strings
+#, fuzzy
+msgid "2D cubic spline"
+msgstr "三次曲线"
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..ComboBox2....Items.Strings
+msgid "Half cosine"
+msgstr "半余弦"
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..ExtColorBox2..Hint
+msgid "Choose the color of the lines."
+msgstr "选择线条的颜色"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..Caption
+msgid "Labels"
+msgstr "标签"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..Label8..Caption
+msgid "Position:"
+msgstr "位置："
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..CheckBox2..Hint
+msgid "Check to show the coordinate at each point."
+msgstr "勾选显示每一个坐标点的坐标值"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..CheckBox2..Caption
+msgid "Show coordinates"
+msgstr "显示坐标"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..BitBtn1..Hint
+msgid "Select the font for the coordinates."
+msgstr "选择此坐标系的字体"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1..Hint
+msgid "Select where the coordinates should be shown."
+msgstr "选择要显示的坐标"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+msgid "Above"
+msgstr "上面"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+msgid "Below"
+msgstr "下面"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+msgid "Left"
+msgstr "左边"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+msgid "Right"
+msgstr "右"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+#, fuzzy
+msgid "Above Left"
+msgstr "左移"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+#, fuzzy
+msgid "Above Right"
+msgstr "右移"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+#, fuzzy
+msgid "Below Left"
+msgstr "左上"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+#, fuzzy
+msgid "Below Right"
+msgstr "右上"
+
+#. Form14..PageControl1..TabSheet1..RadioGroup1....Hint
+msgid "Choose between cartesian (x,y) coordinates and polar (θ,r) coordinates."
+msgstr ""
+
+#. Form14..PageControl1..TabSheet1..RadioGroup1..Caption
+#, fuzzy
+msgid "Coordinate type"
+msgstr "坐标未定义"
+
+#. Form14..PageControl1..TabSheet1..RadioGroup1....Items.Strings
+msgid "Cartesian"
+msgstr ""
+
+#. Form14..PageControl1..TabSheet1..RadioGroup1....Items.Strings
+#. Form4..GridPanelEx1..RadioGroup1....Items.Strings
+msgid "Polar"
+msgstr "模及复角"
+
+#. Form14..PageControl1..TabSheet2..Caption
+msgid "Error bars"
+msgstr "误差杠"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..Caption
+#, fuzzy
+msgid "X error amount"
+msgstr "X 误差杠"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..CheckBox3..Hint
+msgid "Show horizontal error bars."
+msgstr "显示水平误差杠"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..CheckBox3..Caption
+msgid "Show x-bars"
+msgstr "显示x误差杠"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..RadioButton1..Hint
+#. Form14..PageControl1..TabSheet2..GroupBox6..RadioButton4..Hint
+msgid "All error bars are the same size."
+msgstr "所有的误差杠同样的尺寸"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..RadioButton1..Caption
+#. Form14..PageControl1..TabSheet2..GroupBox6..RadioButton4..Caption
+msgid "Fixed:"
+msgstr "固定长度:"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..Edit4..Hint
+#. Form14..PageControl1..TabSheet2..GroupBox6..Edit6..Hint
+msgid "Enter fixed value."
+msgstr "输入固定值"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..RadioButton2..Hint
+msgid "All error bars are the same percentage of the x-coordinate."
+msgstr "所有的误差杠用x轴同样比例的显示"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..RadioButton2..Caption
+#. Form14..PageControl1..TabSheet2..GroupBox6..RadioButton5..Caption
+msgid "Relative:"
+msgstr "相对比例:"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..RadioButton3..Hint
+#. Form14..PageControl1..TabSheet2..GroupBox6..RadioButton6..Hint
+msgid "Each error bar is given a custom value."
+msgstr "任一误差杠采用自定义值"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..RadioButton3..Caption
+#. Form14..PageControl1..TabSheet2..GroupBox6..RadioButton6..Caption
+msgid "Custom"
+msgstr "自定义"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..Edit5..Hint
+#. Form14..PageControl1..TabSheet2..GroupBox6..Edit7..Hint
+msgid "Enter relative value in percent."
+msgstr "输入一个百分比的相对值"
+
+#. Form14..PageControl1..TabSheet2..GroupBox6..Caption
+#, fuzzy
+msgid "Y error amount"
+msgstr "Y 误差杠"
+
+#. Form14..PageControl1..TabSheet2..GroupBox6..CheckBox4..Hint
+msgid "Show vertical error bars."
+msgstr "显示垂直误差杠"
+
+#. Form14..PageControl1..TabSheet2..GroupBox6..CheckBox4..Caption
+msgid "Show y-bars"
+msgstr "显示y误差杠"
+
+#. Form14..PageControl1..TabSheet2..GroupBox6..RadioButton5..Hint
+msgid "All error bars are the same percentage of the y-coordinate."
+msgstr "所有的误差杠都以y轴同样比例显示"
+
+#. Form14..PopupMenu1..Popup_Cut..Hint
+#. Form17..PopupMenu1..Popup_Cut..Hint
+#. Form6..PopupMenu1..Popup_Cut..Hint
+msgid "Cut the selected text to the clipboard."
+msgstr "剪切选择的文字到剪贴板上"
+
+#. Form14..PopupMenu1..Popup_Copy..Hint
+#. Form17..PopupMenu1..Popup_Copy..Hint
+#. Form6..PopupMenu1..Popup_Copy..Hint
+msgid "Copy the selected text to the clipboard."
+msgstr "复制选择的文字到剪贴板上"
+
+#. Form14..PopupMenu1..Popup_Paste....Hint
+#. Form17..PopupMenu1..Popup_Paste....Hint
+msgid "Paste text from the clipboard into the grid. Other cells may be overwritten by the text from the clipboard."
+msgstr "把文字贴到表格上，而且所有的文字都会被覆盖"
+
+#. Form14..PopupMenu1..Popup_Delete..Hint
+#. Form17..PopupMenu1..Popup_Delete..Hint
+msgid "Erase selected cells."
+msgstr "擦掉选择的栏位"
+
+#. Form14..PopupMenu1..Popup_Insert..Caption
+#. Form17..PopupMenu1..Popup_Insert..Caption
+msgid "Insert row"
+msgstr "插入列"
+
+#. Form14..PopupMenu1..Popup_Insert..Hint
+#. Form17..PopupMenu1..Popup_Insert..Hint
+msgid "Inserts a row in the grid moving rows below one down."
+msgstr "插入一列到表格当中，并且把以下的列往下移。"
+
+#. Form14..PopupMenu1..Popup_Remove..Caption
+#. Form17..PopupMenu1..Popup_Remove..Caption
+msgid "Remove row"
+msgstr "移除列"
+
+#. Form14..PopupMenu1..Popup_Remove..Hint
+#. Form17..PopupMenu1..Popup_Remove..Hint
+msgid "Removes the selected rows."
+msgstr "移除选择的列"
+
+#. Form14..PopupMenu1..Popup_Select..Caption
+#. Form15..PopupMenu1..Popup1_Select..Caption
+#. Form17..PopupMenu1..Popup_Select..Caption
+msgid "Select all"
+msgstr "选择全部"
+
+#. Form14..PopupMenu1..Popup_Select..Hint
+#. Form15..PopupMenu1..Popup1_Select..Hint
+#. Form17..PopupMenu1..Popup_Select..Hint
+msgid "Select all cells."
+msgstr "选择所有栏位"
+
+#. Form14..PopupMenu1..Popup_Import..Hint
+#. Form17..PopupMenu1..Popup_Import..Hint
+msgid "Import data from a file and place it at the selected cell."
+msgstr "从文件导入资料，并且放到选择的栏位。"
+
+#. Form14..PopupMenu1..Popup_Export..Hint
+#. Form17..PopupMenu1..Popup_Export..Hint
+msgid "Export selected data to a file."
+msgstr "输出选择的资料到文件"
+
+#. Form15..Caption
+msgid "Calculate table"
+msgstr "计算表格"
+
+#. Form15..Edit3....Hint
+#, fuzzy
+msgid "The step value. This is the difference between two adjoining values in the defined interval."
+msgstr "间隔值，用来设定 x 值的间隔数"
+
+#. Form15..Edit1..Hint
+msgid "The first x-value in the interval."
+msgstr "间隔的第一个x值"
+
+#. Form15..Edit2..Hint
+msgid "The last x-value in the interval."
+msgstr "间隔的最后x值"
+
+#. Form15..PopupMenu1..Popup1_Show1..Caption
+#. Form15..PopupMenu1..Popup1_Show2..Caption
+#. Form15..PopupMenu1..Popup1_Show3..Caption
+#. Form15..PopupMenu1..Popup1_Show4..Caption
+#. Form15..PopupMenu1..Popup1_Show5..Caption
+msgid "Show %s"
+msgstr "显示 %s"
+
+#. Form15..PopupMenu1..Popup1_Show1..Hint
+#. Form15..PopupMenu1..Popup1_Show2..Hint
+#. Form15..PopupMenu1..Popup1_Show3..Hint
+#. Form15..PopupMenu1..Popup1_Show4..Hint
+#. Form15..PopupMenu1..Popup1_Show5..Hint
+#, fuzzy
+msgid "Show the %s column in the table."
+msgstr "显示图例说明在左下角"
+
+#. Form15..PopupMenu1..Popup1_Copy..Hint
+msgid "Copy selected cells to the clipboard."
+msgstr "复制选择的栏位到剪贴板上"
+
+#. Form15..PopupMenu1..Popup1_Export..Hint
+msgid "Saves the selected data to a file."
+msgstr "保存选择的资料到文件"
+
+#. Form15..ProgressForm1..Caption
+msgid "Calculating"
+msgstr "计算"
+
+#. Form15..SaveDialog1..Filter
+msgid "CSV (Comma delimited) [*.csv]|*.csv|Text [*.txt]|*.txt"
+msgstr "CSV (Comma delimited) [*.csv]|*.csv|Text [*.txt]|*.txt"
+
+#. Form16..Caption
+msgid "Insert shading"
+msgstr "插入阴影"
+
+#. Form16..PageControl1..TabSheet1..Caption
+msgid "Shading"
+msgstr "阴影"
+
+#. Form16..PageControl1..TabSheet1..Panel1..Image1..Hint
+#. Form16..PageControl1..TabSheet1..RadioButton1..Hint
+msgid "Shades the area between the function and the x-axis."
+msgstr "函数与x轴之间范围阴影"
+
+#. Form16..PageControl1..TabSheet1..Panel2..Image2..Hint
+#. Form16..PageControl1..TabSheet1..RadioButton2..Hint
+msgid "Shades the area below the function."
+msgstr "函数下面范围阴影"
+
+#. Form16..PageControl1..TabSheet1..Panel3..Image3..Hint
+#. Form16..PageControl1..TabSheet1..RadioButton3..Hint
+msgid "Shades the area above the function."
+msgstr "函数上面范围阴影"
+
+#. Form16..PageControl1..TabSheet1..Panel4..Image4..Hint
+#. Form16..PageControl1..TabSheet1..RadioButton4..Hint
+msgid "Shades the area between the function and the y-axis."
+msgstr "函数与y轴间范围阴影"
+
+#. Form16..PageControl1..TabSheet1..Panel5..Image5..Hint
+#. Form16..PageControl1..TabSheet1..RadioButton5..Hint
+msgid "Shades the area inside the function."
+msgstr "函数内部范围阴影"
+
+#. Form16..PageControl1..TabSheet1..Panel6..Image6....Hint
+#. Form16..PageControl1..TabSheet1..RadioButton6....Hint
+msgid "Shades the area between the main function and the function selected in the list to the right."
+msgstr "增加主要函数和选定的左边函数列之间区块阴影。"
+
+#. Form16..PageControl1..TabSheet1..RadioButton3..Caption
+msgid "Above function"
+msgstr "函数上端"
+
+#. Form16..PageControl1..TabSheet1..RadioButton1..Caption
+msgid "Between function and x-axis"
+msgstr "在函数和x轴之间"
+
+#. Form16..PageControl1..TabSheet1..RadioButton6..Caption
+msgid "Between functions"
+msgstr "在两函数间"
+
+#. Form16..PageControl1..TabSheet1..RadioButton4..Caption
+msgid "Between function and y-axis"
+msgstr "在函数和y轴之间"
+
+#. Form16..PageControl1..TabSheet1..RadioButton5..Caption
+msgid "Inside function"
+msgstr "在函数内"
+
+#. Form16..PageControl1..TabSheet1..RadioButton2..Caption
+msgid "Below function"
+msgstr "在函数下面"
+
+#. Form16..PageControl1..TabSheet2..Caption
+#. Form20..Panel2..ToolBar1..ToolButton6..Hint
+#. Form4..Caption
+msgid "Options"
+msgstr "选项"
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..Caption
+#. Form19..TntGroupBox1..Caption
+msgid "Range"
+msgstr "范围"
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..Edit1..Hint
+#. Form16..PageControl1..TabSheet3..GroupBox2..Edit3..Hint
+msgid "Coordinate where the shading starts."
+msgstr "阴影开始的坐标"
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..Edit2..Hint
+#. Form16..PageControl1..TabSheet3..GroupBox2..Edit4..Hint
+msgid "Coordinate where the shading ends."
+msgstr "阴影结束的坐标"
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..CheckBox2..Hint
+#. Form16..PageControl1..TabSheet3..GroupBox2..CheckBox4..Hint
+msgid "Check to increase the end coordinate until intersection."
+msgstr "确认增加终点坐标直到交叉"
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..CheckBox2..Caption
+#. Form16..PageControl1..TabSheet3..GroupBox2..CheckBox4..Caption
+msgid "Increase to intersection"
+msgstr "增加直到交叉"
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..CheckBox1..Hint
+#. Form16..PageControl1..TabSheet3..GroupBox2..CheckBox3..Hint
+msgid "Check to decrease the start coordinate until intersection."
+msgstr "确认减少起始坐标直到交叉"
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..CheckBox1..Caption
+#. Form16..PageControl1..TabSheet3..GroupBox2..CheckBox3..Caption
+msgid "Decrease to intersection"
+msgstr "减少直到交叉"
+
+#. Form16..PageControl1..TabSheet2..GroupBox3..ShadeSelect1..Hint
+msgid "Select the style used for the shading."
+msgstr "选择阴影的样式"
+
+#. Form16..PageControl1..TabSheet2..GroupBox3..ExtColorBox1..Hint
+msgid "Select color used for shading."
+msgstr "选择阴影的颜色"
+
+#. Form16..PageControl1..TabSheet2..GroupBox3..CheckBox5..Hint
+#, fuzzy
+msgid "Mark the border around the shading."
+msgstr "用线条标示阴影的终点"
+
+#. Form16..PageControl1..TabSheet2..GroupBox3..CheckBox5..Caption
+#, fuzzy
+msgid "Mark border"
+msgstr "标示"
+
+#. Form16..PageControl1..TabSheet2..Edit5..Hint
+msgid "Enter a description to show in the legend."
+msgstr "输入一个显示在图例说明中的描述"
+
+#. Form16..PageControl1..TabSheet3..Caption
+msgid "2nd function"
+msgstr "第2个函数"
+
+#. Form16..PageControl1..TabSheet3..Label11..Caption
+msgid "2nd function:"
+msgstr "第2个函数："
+
+#. Form16..PageControl1..TabSheet3..ListBox1....Hint
+msgid "Select the second function when you want a shading between two functions."
+msgstr "若你想要绘制阴影在两个函数之间，请选择第二个函数。"
+
+#. Form16..PageControl1..TabSheet3..GroupBox2..Caption
+msgid "Shading range for 2nd function"
+msgstr "第二个函数的阴影范围"
+
+#. Form17..Caption
+msgid "Custom functions/constants"
+msgstr "自定义函数/常数"
+
+#. Form17..Button3..Caption
+msgid "Apply"
+msgstr "应用"
+
+#. Form17..Grid1....TitleCaptions.Strings
+msgid "Names"
+msgstr "名称"
+
+#. Form17..Grid1....TitleCaptions.Strings
+msgid "Definition"
+msgstr "定义"
+
+#. Form18..Caption
+msgid "Image options"
+msgstr "图像选项"
+
+#. Form18..PageControl1..TabSheet1..Caption
+msgid "Size"
+msgstr "尺寸"
+
+#. Form18..PageControl1..TabSheet1..Label1..Caption
+msgid "Image width:"
+msgstr "图像宽度："
+
+#. Form18..PageControl1..TabSheet1..Label2..Caption
+msgid "Image height:"
+msgstr "图像高度："
+
+#. Form18..PageControl1..TabSheet1..Edit1..Hint
+#, fuzzy
+msgid "Set a custom image width in pixels."
+msgstr "设定自定义图像宽度"
+
+#. Form18..PageControl1..TabSheet1..Edit2..Hint
+#, fuzzy
+msgid "Set a custom image height in pixels."
+msgstr "设定自定义图像高度"
+
+#. Form18..PageControl1..TabSheet1..RadioGroup3....Hint
+msgid "Choose to use the same size as shown on the screen or a custom image size."
+msgstr "选用与显示在银幕或自定义图像相同的尺寸"
+
+#. Form18..PageControl1..TabSheet1..RadioGroup3..Caption
+msgid "Image size"
+msgstr "图像宽度"
+
+#. Form18..PageControl1..TabSheet1..RadioGroup3....Items.Strings
+msgid "Screen size"
+msgstr "文字大小"
+
+#. Form18..PageControl1..TabSheet1..RadioGroup3....Items.Strings
+msgid "Custom size"
+msgstr "自定义大小"
+
+#. Form18..PageControl1..TabSheet2..RadioGroup1....Hint
+msgid "Progressive encoding allows viewers to see a rough copy of the image while it is downloaded."
+msgstr "渐进式的编码可以让下载图像时观看粗略的图像"
+
+#. Form18..PageControl1..TabSheet2..RadioGroup1..Caption
+msgid "Encoding"
+msgstr "编码中"
+
+#. Form18..PageControl1..TabSheet2..RadioGroup1....Items.Strings
+#, fuzzy
+msgid "Sequential"
+msgstr "选择全部"
+
+#. Form18..PageControl1..TabSheet2..RadioGroup1....Items.Strings
+msgid "Progressive"
+msgstr "渐进式"
+
+#. Form18..PageControl1..TabSheet2..GroupBox1..Hint
+msgid "Select a compression quality."
+msgstr "选择压缩品质"
+
+#. Form18..PageControl1..TabSheet2..GroupBox1..Caption
+msgid "Quality"
+msgstr "品质"
+
+#. Form18..PageControl1..TabSheet3..Label3..Caption
+msgid "Paper size:"
+msgstr "纸张尺寸:"
+
+#. Form18..PageControl1..TabSheet3..RadioGroup2..Hint
+#. PrintFrm..RadioGroup1..Hint
+msgid "Choose paper orientation."
+msgstr "选择纸张方向"
+
+#. Form18..PageControl1..TabSheet3..RadioGroup2..Caption
+#. PrintFrm..RadioGroup1..Caption
+msgid "Orientation"
+msgstr "方向"
+
+#. Form18..PageControl1..TabSheet3..RadioGroup2....Items.Strings
+#. PrintFrm..RadioGroup1....Items.Strings
+msgid "Portrait"
+msgstr "纵向"
+
+#. Form18..PageControl1..TabSheet3..RadioGroup2....Items.Strings
+#. PrintFrm..RadioGroup1....Items.Strings
+msgid "Landscape"
+msgstr "横向"
+
+#. Form18..PageControl1..TabSheet3..ComboBox1..Hint
+msgid "Choose paper size to use."
+msgstr "选择欲使用的纸张尺寸"
+
+#. Form18..PageControl1..TabSheet3..ComboBox1....Items.Strings
+#, fuzzy
+msgid "Letter"
+msgstr "左边"
+
+#. Form18..PageControl1..TabSheet3..ComboBox1....Items.Strings
+msgid "Ledger"
+msgstr ""
+
+#. Form18..PageControl1..TabSheet3..ComboBox1....Items.Strings
+#, fuzzy
+msgid "Legal"
+msgstr "仅实部"
+
+#. Form18..CheckBox1..Hint
+#. Form3..CheckBox16..Hint
+msgid "Select this to use these settings as defaults in the future."
+msgstr "选择此使用轴线设定作为以后的预设值"
+
+#. Form18..CheckBox1..Caption
+#. Form3..CheckBox16..Caption
+msgid "Save as default"
+msgstr "保存作为预设值"
+
+#. Form19..Caption
+#. Form19..Button1..Caption
+msgid "Animate"
+msgstr "绘制动画"
+
+#. Form19..Label1..Caption
+msgid "Constant:"
+msgstr "常数"
+
+#. Form19..ComboBox1..Hint
+msgid "Choose a constant to change between each frame."
+msgstr "选择用来改变画面间的常数"
+
+#. Form19..TntGroupBox1..Label4..Caption
+msgid "Step:"
+msgstr "间隔数:"
+
+#. Form19..TntGroupBox1..Edit1..Hint
+msgid "The first value of the constant."
+msgstr "间隔的第一个常数"
+
+#. Form19..TntGroupBox1..Edit2..Hint
+msgid "The last value of the constant."
+msgstr "间隔的最后常数"
+
+#. Form19..TntGroupBox1..Edit3..Hint
+msgid "The chosen constant is changed by this value between each frame."
+msgstr "这个选择的常数已经被画面间的值改变"
+
+#. Form19..TntGroupBox2..Caption
+#, fuzzy
+msgid "Frame options"
+msgstr "图像选项"
+
+#. Form19..TntGroupBox2..Label5..Caption
+#, fuzzy
+msgid "Frame width:"
+msgstr "图像宽度："
+
+#. Form19..TntGroupBox2..Label6..Caption
+#, fuzzy
+msgid "Frame height:"
+msgstr "图像高度："
+
+#. Form19..TntGroupBox2..Label7..Caption
+msgid "Frames/second:"
+msgstr "画面/秒:"
+
+#. Form19..TntGroupBox2..Edit4..Hint
+#, fuzzy
+msgid "Width of each frame, in pixels."
+msgstr "图形宽度(点数)"
+
+#. Form19..TntGroupBox2..Edit5..Hint
+#, fuzzy
+msgid "Height of each frame, in pixels."
+msgstr "图形宽度(点数)"
+
+#. Form19..TntGroupBox2..Edit6..Hint
+msgid "Number of frames per second used when the animation is played."
+msgstr "动画播放时每秒使用的画面数"
+
+#. Form19..ProgressForm1..Caption
+msgid "Working"
+msgstr "请等待，制作中……"
+
+#. Form2..Panel1..Version..Caption
+msgid "Version %s"
+msgstr "版本 %s"
+
+#. Form2..Panel1..Label3..Caption
+msgid "Build %s"
+msgstr "Build %s"
+
+#. Form2..Panel1..Comments....Caption
+#, fuzzy
+msgid "This is free software, and you are welcome to redistribute it under the terms in the <a href=\"%s\">GNU General Public License</a> version 2. Please send bug reports and suggestions to the programmer."
+msgstr "Graph 是一款免费软件, 您可以遵照 GNU 通用公共许可协议条款来修改和重新发布这一程序. 请将 BUG 报告和意见建议反馈给我们."
+
+#. Form2..Panel1..LinkLabel1....Caption
+#, fuzzy
+msgid "The newest version as well as the source code are available at: %s"
+msgstr "最新的版本及源代码在："
+
+#. Form2..Panel1..LinkLabel2..Caption
+#, fuzzy
+msgid "Email: %s"
+msgstr "Email:"
+
+#. Form2..Panel1..LinkLabel3..Caption
+msgid "<Language> translation by <Translator>"
+msgstr ""
+"简体中文由 [ 黄易 ] 翻译 \n"
+" \t\t\t<a href=\"mailto:shalalahoo@yahoo.com.cn\">shalalahoo@yahoo.com.cn</a>"
+
+#. Form20..Caption
+msgid "Animation"
+msgstr "动画绘制"
+
+#. Form20..Panel2..ToolBar1..ToolButton1..Hint
+msgid "Play"
+msgstr "播放"
+
+#. Form20..Panel2..ToolBar1..ToolButton2..Hint
+msgid "Pause"
+msgstr "停止"
+
+#. Form20..Panel2..ToolBar1..ToolButton3..Hint
+msgid "Stop"
+msgstr "停止"
+
+#. Form20..Panel2..ToolBar1..ToolButton4..Hint
+msgid "Back"
+msgstr "返回"
+
+#. Form20..Panel2..ToolBar1..ToolButton5..Hint
+msgid "Step"
+msgstr "间隔数:"
+
+#. Form20..SaveDialog1..Filter
+msgid "Audio Video Interleave [*.avi]|*.avi"
+msgstr ""
+
+#. Form20..PopupMenu1..Speed1..Caption
+msgid "Speed"
+msgstr "速度"
+
+#. Form20..PopupMenu1..Speed1..N101..Hint
+#. Form20..PopupMenu1..Speed1..N501..Hint
+#. Form20..PopupMenu1..Speed1..N1001..Hint
+#. Form20..PopupMenu1..Speed1..N1501..Hint
+#. Form20..PopupMenu1..Speed1..N2001..Hint
+#. Form20..PopupMenu1..Speed1..N10001..Hint
+msgid "Change the speed used to play the animation."
+msgstr "改变动画播放的速度"
+
+#. Form20..PopupMenu1..Repeat1..Caption
+msgid "Repeat"
+msgstr "重复"
+
+#. Form20..PopupMenu1..Repeat1..Hint
+msgid "Repeat playing the animation until manually stopped."
+msgstr "重复播放动画直到手动停止"
+
+#. Form20..PopupMenu1..Reverse1..Caption
+msgid "Auto reverse"
+msgstr "自动倒带"
+
+#. Form20..PopupMenu1..Reverse1....Hint
+msgid "Play backwards when the end of the animation is reached. This is most useful in combination with the \"Repeat\" command."
+msgstr "当动画播放结束返回，这与\"重复\"指令一起最有用。"
+
+#. Form20..PopupMenu1..Save1..Hint
+msgid "Save the animation to a file."
+msgstr "保存动画到文件"
+
+#. Form20..PopupMenu1..Saveimageas1..Caption
+#, fuzzy
+msgid "Save frame..."
+msgstr "另存为Graph图像..."
+
+#. Form20..PopupMenu1..Saveimageas1..Hint
+#, fuzzy
+msgid "Save the shown frame to an image file."
+msgstr "保存坐标系及函数图像为图片"
+
+#. Form20..PopupMenu1..Saveimagesequence1..Caption
+#, fuzzy
+msgid "Save all frames..."
+msgstr "另存为Graph图像..."
+
+#. Form20..PopupMenu1..Saveimagesequence1....Hint
+msgid "Save all frames in the animation to image files. This will create as many files as there are frames in the animation."
+msgstr ""
+
+#. Form21..Label1..Caption
+#, fuzzy
+msgid "Corner:"
+msgstr "颜色:"
+
+#. Form21..ComboBox1..Hint
+#, fuzzy
+msgid "Choose which corner of the label should be locked."
+msgstr "选择图例说明放置的位置"
+
+#. Form21..ComboBox1....Items.Strings
+#, fuzzy
+msgid "Upper Left"
+msgstr "左上"
+
+#. Form21..ComboBox1....Items.Strings
+#, fuzzy
+msgid "Upper Right"
+msgstr "右上"
+
+#. Form21..ComboBox1....Items.Strings
+#, fuzzy
+msgid "Lower Left"
+msgstr "左上"
+
+#. Form21..ComboBox1....Items.Strings
+#, fuzzy
+msgid "Lower Right"
+msgstr "右上"
+
+#. Form21..Edit1..Hint
+#. Form21..Edit2..Hint
+#, fuzzy
+msgid "Enter a coordinate to lock label at."
+msgstr "输入 x 坐标或者点主窗口上的 切线"
+
+#. Form22..Caption
+msgid "Python interpreter"
+msgstr ""
+
+#. Form22..PopupMenu1..Clear1..Caption
+#, fuzzy
+msgid "Clear"
+msgstr "模及复角"
+
+#. Form3..Caption
+msgid "Edit axes"
+msgstr "编辑坐标轴"
+
+#. Form3..PageControl1..TabSheet1..Caption
+#. ParFuncFrame..ComboBox1....Items.Strings
+#. PolFuncFrame..ComboBox1....Items.Strings
+#. StdFuncFrame..ComboBox1....Items.Strings
+msgid "x-axis"
+msgstr "x 轴"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Label1..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..Label5..Caption
+msgid "Minimum:"
+msgstr "最小："
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Edit1..Hint
+msgid "Minimum x-value."
+msgstr "最小x值"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Label2..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..Label6..Caption
+msgid "Maximum:"
+msgstr "最大："
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Edit2..Hint
+msgid "Maximum x-value."
+msgstr "最小y值"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Label3..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..Label7..Caption
+msgid "Tick unit:"
+msgstr "记号单位："
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Edit3..Hint
+msgid "Units between ticks on the x-axis."
+msgstr "x轴上标记之间的单位"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Label14..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..Label9..Caption
+msgid "Grid unit:"
+msgstr "表格单位："
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Edit4..Hint
+msgid "Units between the grid lines perpendicular to the x-axis."
+msgstr "垂直于x轴的格线之间单位"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox4..Hint
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox11..Hint
+msgid "Determine the tick unit automatically."
+msgstr "自动决定记号单位"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox4..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox11..Caption
+msgid "Auto tick"
+msgstr "自动记号"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox6..Hint
+msgid "Show tick marks on the x-axis."
+msgstr "显示x轴上的记号标示"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox6..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox13..Caption
+msgid "Show ticks"
+msgstr "显示记号"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox5..Hint
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox12..Hint
+msgid "Set the grid unit to the same as the tick unit."
+msgstr "设定格线单位与记号单位相同"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox5..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox12..Caption
+msgid "Auto grid"
+msgstr "自动格线"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox7..Hint
+msgid "Show vertical grid lines."
+msgstr "显示垂直格线"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox7..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox14..Caption
+msgid "Show grid"
+msgstr "显示格线"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Panel1..CheckBox3....Hint
+#, fuzzy
+msgid "Show the label at the right side of the graphing area, above the x-axis."
+msgstr "在x轴的右上显示标签"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Panel1..CheckBox3..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..Panel3..CheckBox10..Caption
+msgid "Label:"
+msgstr "标签:"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Panel1..Edit5..Hint
+#. Form3..PageControl1..TabSheet2..GridPanel2..Panel3..Edit11..Hint
+msgid "Edit the label for the axis here."
+msgstr "编辑此轴线的标签"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Panel2..Label4..Caption
+msgid "The x-axis cross at y="
+msgstr "x 轴与y轴交叉在 y= "
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Panel2..Edit6..Hint
+msgid "The x-axis will intersect with the y-axis at this value."
+msgstr "x 轴和y轴会在此数值相交"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox1..Hint
+msgid "Use logarithmic scale on the x-axis."
+msgstr "使用对数尺度在x轴上"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox1..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox8..Caption
+msgid "Logarithmic scale"
+msgstr "对数尺度"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox2..Hint
+msgid "Show units on the x-axis."
+msgstr "显示x轴单位"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox2..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox9..Caption
+msgid "Show numbers"
+msgstr "显示数字"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox17..Hint
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox18..Hint
+msgid "Show units on the selected axis as a fraction multiplied by pi."
+msgstr "在轴上显示pi 的分数单位"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox17..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox18..Caption
+#, fuzzy
+msgid "Show as a multiple of π"
+msgstr "显示为 pi 的倍数"
+
+#. Form3..PageControl1..TabSheet2..Caption
+#. ParFuncFrame..ComboBox1....Items.Strings
+#. PolFuncFrame..ComboBox1....Items.Strings
+msgid "y-axis"
+msgstr "y 轴"
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Edit7..Hint
+msgid "Minimum y-value."
+msgstr "最小 y 值"
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Edit8..Hint
+msgid "Maximum y-value."
+msgstr "最大 y 值"
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Edit9..Hint
+msgid "Units between ticks on the y-axis."
+msgstr "y轴上的记号尺度"
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Edit10..Hint
+msgid "Units between the grid lines perpendicular to the y-axis."
+msgstr "垂直于y轴的格线之间的单位"
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox13..Hint
+msgid "Show tick marks on the y-axis."
+msgstr "显示y轴上的记号标记"
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox14..Hint
+msgid "Show horizontal grid lines."
+msgstr "显示水平格线"
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Panel3..CheckBox10....Hint
+#, fuzzy
+msgid "Show the label at the top of the graphing area, to the right of the y-axis."
+msgstr "在窗口的上端靠近y轴的地方显示标签"
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Panel4..Label8..Caption
+msgid "The y-axis cross at x="
+msgstr "y 轴与x轴交叉在 x="
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Panel4..Edit12..Hint
+msgid "The y-axis will intersect with the x-axis at this value."
+msgstr "y轴和x轴会在此数值交叉"
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox8..Hint
+msgid "Use logarithmic scale for the y-axis."
+msgstr "在y轴上使用对数尺度"
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox9..Hint
+msgid "Show units on the y-axis."
+msgstr "显示y轴上的单位"
+
+#. Form3..PageControl1..TabSheet3..Caption
+msgid "Settings"
+msgstr "设定"
+
+#. Form3..PageControl1..TabSheet3..Label16..Caption
+msgid "Title:"
+msgstr "标题："
+
+#. Form3..PageControl1..TabSheet3..RadioGroup1....Hint
+msgid "Choose if you want to show the axes, and if you want to show them crossed or at the left and bottom of the image."
+msgstr "选择是否要显示轴线，以及是否要显示为交叉或者放置于左边或底端。"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup1..Caption
+msgid "Axes style"
+msgstr "轴线样式"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup1....Items.Strings
+msgid "None"
+msgstr "无"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup1....Items.Strings
+msgid "Crossed"
+msgstr "交叉的"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup1....Items.Strings
+msgid "Boxed"
+msgstr "盒状"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup2....Hint
+msgid "Choose if trigonometric functions should calculate in radians or degrees."
+msgstr "选择三角函数的计算使用弧度或者角度"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup2..Caption
+msgid "Trigonometry"
+msgstr "三角"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup2....Items.Strings
+msgid "Radian"
+msgstr "弧度"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup2....Items.Strings
+msgid "Degree"
+msgstr "角度"
+
+#. Form3..PageControl1..TabSheet3..Edit13..Hint
+msgid "Enter a title to show above the coordinate system."
+msgstr "输入一个显示于坐标系上的标题"
+
+#. Form3..PageControl1..TabSheet3..BitBtn1..Hint
+msgid "Select the font for the title."
+msgstr "选择标题的字体"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup3..Hint
+msgid "Choose where the legend should be placed."
+msgstr "选择图例说明放置的位置"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup3..Caption
+msgid "Legend placement"
+msgstr "图例说明放置"
+
+#. Form3..PageControl1..TabSheet3..CheckBox19....Hint
+msgid "Check this to use complex numbers for calculations. Notice that this will slow graphing down."
+msgstr "确认使用复数计算，而这会让绘图速度变慢。"
+
+#. Form3..PageControl1..TabSheet3..CheckBox19..Caption
+msgid "Calculate with complex numbers"
+msgstr "用复数计算"
+
+#. Form3..PageControl1..TabSheet4..Caption
+msgid "Font and color"
+msgstr "字体和颜色"
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..Caption
+msgid "Colors"
+msgstr "颜色"
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..Label17..Caption
+msgid "Grid color:"
+msgstr "格线颜色"
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..Label18..Caption
+msgid "Axes color:"
+msgstr "轴线颜色"
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..Label19..Caption
+#. Form6..Label4..Caption
+msgid "Background color:"
+msgstr "背景颜色"
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..ExtColorBox1..Hint
+msgid "Select the color of the image background."
+msgstr "选择图像背景的颜色"
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..ExtColorBox2..Hint
+msgid "Select the color of the axes."
+msgstr "选择轴线的颜色"
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..ExtColorBox3..Hint
+msgid "Select the color of the grid lines."
+msgstr "选择格线的颜色"
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..Caption
+msgid "Fonts"
+msgstr "字体"
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..Label20..Caption
+msgid "Number font:"
+msgstr "数字字体："
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..Label21..Caption
+msgid "Label font:"
+msgstr "标签字体："
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..Label10..Caption
+msgid "Legend font:"
+msgstr "图例说明字体"
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..BitBtn2..Hint
+msgid "Select the font used to show the labels on the axes."
+msgstr "选择轴线上的标签字体"
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..BitBtn3..Hint
+msgid "Select the font used to show the numbers on the axes."
+msgstr "选择轴线上的数字字体"
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..BitBtn4..Hint
+msgid "Select the font used to show the legend text."
+msgstr "选择图例说明文字的字体"
+
+#. Form4..GridPanelEx1..Label1..Caption
+msgid "Decimals:"
+msgstr "小数位数"
+
+#. Form4..GridPanelEx1..Panel1..Edit1..Hint
+msgid "Number of decimals used when results are shown."
+msgstr "用来显现十进制数小数的位数"
+
+#. Form4..GridPanelEx1..RadioGroup1..Hint
+msgid "Format used when complex numbers are shown."
+msgstr "当显示复数时候所使用的格式"
+
+#. Form4..GridPanelEx1..RadioGroup1..Caption
+msgid "Complex form"
+msgstr "复数格式"
+
+#. Form4..GridPanelEx1..RadioGroup1....Items.Strings
+msgid "Real"
+msgstr "仅实部"
+
+#. Form4..GridPanelEx1..RadioGroup1....Items.Strings
+msgid "Rectangular"
+msgstr "实部＋虚部"
+
+#. Form4..GridPanelEx1..Label2..Caption
+msgid "Recent files:"
+msgstr "最近使用过的文件："
+
+#. Form4..GridPanelEx1..Panel2..Edit2..Hint
+msgid "The number of most recent used files shown in the File menu."
+msgstr "文件目录中最近使用文件数目"
+
+#. Form4..GridPanelEx1..Label3..Caption
+msgid "Max undo steps:"
+msgstr "最大撤消步骤："
+
+#. Form4..GridPanelEx1..Panel3..Edit3....Hint
+msgid "Maximum number of undo steps saved. Set this to 0 to prevent undo."
+msgstr "最大的撤消步骤次数，如果设定为0的话就是无法撤消。"
+
+#. Form4..GridPanelEx1..Label5..Caption
+msgid "Font scale:"
+msgstr "字体大小"
+
+#. Form4..GridPanelEx1..ComboBox1....Hint
+msgid "This is used to scale the user interface if you are having problems reading the text."
+msgstr "当你观看文字有困难的时候可以用来缩放使用者介面"
+
+#. Form4..GridPanelEx1..Label4..Caption
+msgid "Language:"
+msgstr "语言:"
+
+#. Form4..GridPanelEx1..ComboBox2..Hint
+msgid "Select the language to use for the user interface."
+msgstr ""
+"选择你所使用的语言。\n"
+"Select the language to use for the user interface."
+
+#. Form4..GridPanelEx1..CheckBox2..Hint
+msgid "Show the tooltip when the cursor is over an item."
+msgstr "当游标在某对象上时显示工具提示"
+
+#. Form4..GridPanelEx1..CheckBox2..Caption
+msgid "Show tooltip"
+msgstr "显示工具提示"
+
+#. Form4..GridPanelEx1..CheckBox3....Hint
+#, fuzzy
+msgid "Save the size of the main window when the program exits. This is used the next time Graph is run."
+msgstr "在关闭程序时候保存窗口位置。这个设定可以让下次打开程序时候在当前集位置显示窗口。|退出时保存窗口状态"
+
+#. Form4..GridPanelEx1..CheckBox3..Caption
+msgid "Save workspace on exit"
+msgstr "退出时保存工作空间"
+
+#. Form4..GridPanelEx1..CheckBox4....Hint
+msgid "If checked the program will contact a web server when the program is started to see if a newer version is available."
+msgstr "如果选择此项，程序启动时将自动连网检查更新。"
+
+#. Form4..GridPanelEx1..CheckBox4..Caption
+msgid "Check for new version of Graph at startup"
+msgstr "在启动  Graph 时就检查新版本"
+
+#. Form4..GridPanelEx1..CheckBox5....Hint
+msgid "Use a custom decimal separator instead of the default from the Windows Regional settings."
+msgstr ""
+
+#. Form4..GridPanelEx1..CheckBox5..Caption
+msgid "Custom decimal separator:"
+msgstr ""
+
+#. Form4..GridPanelEx1..Edit4..Hint
+msgid "Decimal separator used when exporting to other programs."
+msgstr ""
+
+#. Form5..Caption
+msgid "Insert function"
+msgstr "插入函数"
+
+#. Form5..Label1..Caption
+msgid "Function type:"
+msgstr "函数类型:"
+
+#. Form5..ComboBox1..Hint
+msgid "Select the function type to graph."
+msgstr "选择要绘图之函数类型"
+
+#. Form5..ComboBox1....Items.Strings
+msgid "Standard function   y=f(x)"
+msgstr "标准函数 y=f(x)"
+
+#. Form5..ComboBox1....Items.Strings
+msgid "Parametric function x(t), y(t)"
+msgstr "参量函数 x(t),y(t)"
+
+#. Form5..ComboBox1....Items.Strings
+msgid "Polar function         r=f(t)"
+msgstr "极函数  r=f(t)"
+
+#. Form5..GroupBox1..Caption
+msgid "Function equation"
+msgstr "函数方程式"
+
+#. Form5..GroupBox2..Label6..Caption
+msgid "Steps:"
+msgstr "间隔数:"
+
+#. Form5..GroupBox2..Edit5..Hint
+msgid "Number of calculation steps used to draw the graph."
+msgstr "绘图的计算步骤数目"
+
+#. Form5..GroupBox4..GridPanelEx1..Label13..Caption
+msgid "Draw type:"
+msgstr "绘图方式:"
+
+#. Form5..GroupBox4..GridPanelEx1..ComboBox4....Hint
+msgid "Choose Lines if you want the calculated points for the graph to be connected. Choose Dots if you only want to show a dot at each point."
+msgstr "如果想要计算坐标点被连起来，请选择线条。如果想只想要显示圆点而已，请选择点。"
+
+#. Form5..GroupBox4..GridPanelEx1..ComboBox4..Text
+#. Form5..GroupBox4..GridPanelEx1..ComboBox4....Items.Strings
+msgid "Automatic"
+msgstr "自动"
+
+#. Form5..GroupBox4..GridPanelEx1..ComboBox4....Items.Strings
+msgid "Dots"
+msgstr "点"
+
+#. Form5..GroupBox4..GridPanelEx1..ComboBox4....Items.Strings
+msgid "Lines"
+msgstr "线条"
+
+#. Form6..Caption
+#, fuzzy
+msgid "Insert text label"
+msgstr "插入标签"
+
+#. Form6..Label1..Caption
+msgid "Font name:"
+msgstr "字体名称:"
+
+#. Form6..Label2..Caption
+msgid "Font size:"
+msgstr "字体大小"
+
+#. Form6..Label3..Caption
+msgid "Font color:"
+msgstr "字体颜色"
+
+#. Form6..ComboBox1..Hint
+msgid "Text size."
+msgstr "文字大小"
+
+#. Form6..GroupBox1..Caption
+msgid "Text string"
+msgstr "文字字串"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton11..Hint
+msgid "Insert symbol (Ctrl+G)"
+msgstr "插入符号 (Ctrl+G)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton13..Hint
+#, fuzzy
+msgid "Insert object."
+msgstr "插入对象"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton1..Hint
+msgid "Bold (Ctrl+B)"
+msgstr "粗体 (Ctrl-B)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton2..Hint
+msgid "Italic (Ctrl+I)"
+msgstr "斜体(Ctrl-I)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton3..Hint
+msgid "Underline (Ctrl+U)"
+msgstr "下划线(Ctrl-U)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton4..Hint
+msgid "Strikethrough (Ctrl+S)"
+msgstr "删除线 (Ctrl-S)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton9..Hint
+msgid "Superscript (Ctrl++)"
+msgstr "上标 (Ctrl++)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton10..Hint
+msgid "Subscript (Ctrl+=)"
+msgstr "下标 (Ctrl+=)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton5..Hint
+msgid "Align left (Ctrl+L)"
+msgstr "置左(Ctrl+L)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton6..Hint
+msgid "Center (Ctrl+E)"
+msgstr "居中(Ctrl+E)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton7..Hint
+msgid "Align right (Ctrl+R)"
+msgstr "置右(Ctrl+R)"
+
+#. Form6..IFontBox1..Hint
+msgid "Text font."
+msgstr "字体"
+
+#. Form6..ColorBox1..Hint
+msgid "Text color."
+msgstr "文字颜色"
+
+#. Form6..ColorBox2..Hint
+msgid "Select background color of the text label."
+msgstr "选择标题的字的背景色"
+
+#. Form6..ColorBox2..DefaultName
+msgid "Transparent"
+msgstr "透明"
+
+#. Form6..PopupMenu1..Popup_Undo..Hint
+msgid "Undo last action."
+msgstr "撤消上一个操作"
+
+#. Form6..PopupMenu1..Popup_Redo..Hint
+msgid "Redo last undone action."
+msgstr "重复上一个已撤消的操作"
+
+#. Form6..PopupMenu1..Popup_Paste..Hint
+msgid "Paste the contents of the clipboard."
+msgstr "粘贴剪贴板上的内容"
+
+#. Form6..PopupMenu1..Popup_PasteSpecial..Caption
+msgid "Paste special..."
+msgstr "粘贴特别..."
+
+#. Form6..PopupMenu1..Popup_PasteSpecial..Hint
+msgid "Select which clipboard representation you want to paste."
+msgstr "选择用何种方式粘贴剪贴板上的内容"
+
+#. Form6..PopupMenu1..Popup_InsertObject..Caption
+msgid "Insert object..."
+msgstr "插入对象"
+
+#. Form6..PopupMenu1..Popup_InsertObject..Hint
+msgid "Create a new OLE object."
+msgstr "建立新 OLE 对象"
+
+#. Form6..PopupMenu1..Popup_EditObject..Caption
+msgid "Edit object"
+msgstr "编辑对象"
+
+#. Form6..PopupMenu1..Popup_EditObject..Hint
+msgid "Edit selected OLE object."
+msgstr "编辑选取的 OLE 对象"
+
+#. Form7..Caption
+msgid "Insert f'(x)"
+msgstr "插入 f'(x)"
+
+#. Form8..Label1..Caption
+#. PrintFrm..GroupBox1..Label1..Caption
+msgid "Name:"
+msgstr "名称："
+
+#. Form8..ValueListEditor1....TitleCaptions.Strings
+msgid "Constant"
+msgstr "常数"
+
+#. Form8..ValueListEditor1....TitleCaptions.Strings
+msgid "Value"
+msgstr "数值"
+
+#. Form9..Label1..Caption
+msgid "Select a function or tangent to evaluate."
+msgstr "选择函数或切线进行求解"
+
+#. Form9..PolFuncFrame1....Hint
+#. ParFuncFrame..ComboBox1....Hint
+#. StdFuncFrame..ComboBox1....Hint
+msgid "Select where the cursor will be placed when you click on the image."
+msgstr "选择点选图像后的游标放置位置。"
+
+#. AreaFrame..GridPanel1..Panel1..Edit1....Hint
+msgid "Enter the start coordinate or mark the range on the graph itself with the mouse."
+msgstr "输入起始坐标或用鼠标标示图像范围"
+
+#. AreaFrame..GridPanel1..Panel2..Edit2....Hint
+msgid "Enter the end coordinate or mark the range on the graph itself with the mouse."
+msgstr "输入终点坐标或用鼠标标示图像范围"
+
+#. ParFuncFrame..Label7..Caption
+#. PolFuncFrame..Label7..Caption
+#. StdFuncFrame..Label5..Caption
+msgid "Snap to:"
+msgstr "应用到"
+
+#. ParFuncFrame..Edit2..Hint
+msgid "The x-coordinate evaluated for the t-parameter."
+msgstr "求 t 参数的 x 坐标解"
+
+#. ParFuncFrame..Edit3..Hint
+msgid "The y-coordinate evaluated for the t-parameter."
+msgstr "求t 参数的 y 坐标解"
+
+#. ParFuncFrame..Edit4..Hint
+msgid "The derivative of x(t) evaluated for the entered t-parameter."
+msgstr "在输入t参数时，x(t)导函数"
+
+#. ParFuncFrame..Edit5..Hint
+msgid "The derivative of y(t) evaluated for the entered t-parameter."
+msgstr "在输入t参数时，y(t)导函数"
+
+#. ParFuncFrame..Edit6..Hint
+msgid "The slope of the function evaluated for the entered t-parameter."
+msgstr "在t参数输入之后所求得的函数斜率。"
+
+#. ParFuncFrame..Edit1....Hint
+#, fuzzy
+msgid "Enter the value for the parameter t for which you want to evaluate the function, or click on the graph in the graphing area."
+msgstr "输入一个你想要用来求解方程序使用的数字，或者点选在主窗口的函数"
+
+#. ParFuncFrame..ComboBox1....Items.Strings
+#. PolFuncFrame..ComboBox1....Items.Strings
+#. StdFuncFrame..ComboBox1....Items.Strings
+msgid "Intersection"
+msgstr "交集"
+
+#. ParFuncFrame..ComboBox1....Items.Strings
+#. PolFuncFrame..ComboBox1....Items.Strings
+msgid "Extreme x-value"
+msgstr "最大 x 值"
+
+#. ParFuncFrame..ComboBox1....Items.Strings
+#. PolFuncFrame..ComboBox1....Items.Strings
+#. StdFuncFrame..ComboBox1....Items.Strings
+msgid "Extreme y-value"
+msgstr "最大 y 值"
+
+#. PolFuncFrame..Edit2..Hint
+msgid "The distance to the function evaluated for the given angle."
+msgstr "在给定的角度下，此函数的距离。"
+
+#. PolFuncFrame..Edit3..Hint
+msgid "The x-coordinate evaluated for the given angle."
+msgstr "此 x 坐标用以求给定角度之解"
+
+#. PolFuncFrame..Edit4..Hint
+msgid "The y-coordinate evaluated for the given angle."
+msgstr "此 y 坐标用以求给定角度之解"
+
+#. PolFuncFrame..Edit5..Hint
+msgid "The derivative of the function evaluated for the given angle."
+msgstr "在输入特定角度时，此函数之导函数"
+
+#. PolFuncFrame..Edit6..Hint
+msgid "The slope of the function evaluated for the given angle."
+msgstr "此为给定角度的函数之斜率"
+
+#. PolFuncFrame..Edit1....Hint
+#, fuzzy
+msgid "Enter the value of the polar angle for which you want to evaluate the function, or click on the graph in the graphing area."
+msgstr "输入一个独立变数用来求函数解，或者点选在主画面当中的函数。"
+
+#. StdFuncFrame..Edit1....Hint
+#, fuzzy
+msgid "Enter a value for which you want to evaluate the function, or click on the graph in the graphing area."
+msgstr "输入一个你想要用来求解方程序使用的数字，或者点选在主窗口的函数"
+
+#. StdFuncFrame..Edit2..Hint
+msgid "This is the function evaluated for the entered x-value."
+msgstr "此为带入x值求解所用的函数"
+
+#. StdFuncFrame..Edit3....Hint
+msgid "This is the first derivative of the function evaluated for the entered value."
+msgstr "这是函数的一阶导数函数"
+
+#. StdFuncFrame..Edit4....Hint
+#, fuzzy
+msgid "This is the second derivative of the function evaluated for the entered value."
+msgstr "这是函数的一阶导数函数"
+
+#. TanFrame..Edit2....Hint
+msgid "This is the y-coordinate corresponding to the entered x-coordinate."
+msgstr "这是输入x坐标后相对应 y 坐标上的切线"
+
+#. TanFrame..Edit1..Hint
+#, fuzzy
+msgid "Enter an x-coordinate or click in the graphing area."
+msgstr "输入 x 坐标或者点主窗口上的 切线"
+
+msgid "Error"
+msgstr "错误"
+
+#, fuzzy
+msgid "Error %s"
+msgstr "误差杠"
+
+msgid "Length"
+msgstr "长度"
+
+#, fuzzy
+msgid "Degrees"
+msgstr "角度"
+
+msgid "Label"
+msgstr "标签"
+
+msgid "%s-error"
+msgstr "%s-错误"
+
+msgid "Axes"
+msgstr "坐标轴"
+
+msgid "Ctrl"
+msgstr ""
+
+msgid "Alt"
+msgstr ""
+
+msgid "Shift"
+msgstr ""
+
+#, fuzzy
+msgid "Del"
+msgstr "删除"
+
+#, fuzzy
+msgid "Ins"
+msgstr "放大"
+
+msgid "Home"
+msgstr ""
+
+#, fuzzy
+msgid "End"
+msgstr "结束:"
+
+msgid "PgUp"
+msgstr ""
+
+msgid "PgDn"
+msgstr ""
+
+msgid "Up"
+msgstr ""
+
+#, fuzzy
+msgid "Down"
+msgstr "捐助"
+
+msgid "Esc"
+msgstr ""
+
+#, fuzzy
+msgid "Enter"
+msgstr "打印机:"
+
+msgid "Tab"
+msgstr ""
+
+msgid "BkSp"
+msgstr ""
+
+#, fuzzy
+msgid "Space"
+msgstr "保存Graph图像"
+
+msgid "An error occurred while evaluating power function."
+msgstr "在求幂方程序解的过程发生错误"
+
+#, fuzzy
+msgid "Tangent to pi/2+n*pi (90+n180 in degrees) is undefined."
+msgstr "切线到 90+p180 未被定义"
+
+msgid "Fact can only be calculated for positive integers."
+msgstr "只能计算正整数的阶乘。"
+
+msgid "Cannot take logarithm to number equal or less than zero."
+msgstr "不可以用等于或小于0的数字来作对数"
+
+msgid "sqrt is undefined for negative numbers."
+msgstr "负数不可以开平方。"
+
+msgid "A part of the evaluation gave a number with an imaginary part."
+msgstr "部分的求解给定一个具有虚部的值"
+
+msgid "Division by zero."
+msgstr "除以 0"
+
+msgid "Inverse trigonometric function out of range [-1;1]"
+msgstr "反三角函数超出范围[-1;1]"
+
+msgid "The function is not defined for this value."
+msgstr "对此数值而言,这个函数尚未被定义"
+
+msgid "atanh evaluated at undefined value."
+msgstr "atanh 使用未被定义的值来求解。"
+
+msgid "acosh evaluated at undefined value."
+msgstr "acosh 使用未被定义的值来求解。"
+
+msgid "arg(0) is undefined."
+msgstr "arg(0) 未被定义"
+
+msgid "Evaluation failed."
+msgstr "求解失败"
+
+msgid "Argument produced a function result with total loss of precision."
+msgstr "参数产生了一个遗失所有精确度的函数结果"
+
+msgid "The custom function/constant '%s' was not found or has the wrong number of arguments."
+msgstr "自定义的函数/常数 '%s'没有发现或者错误的参数"
+
+msgid "Too many recursive calls."
+msgstr "太多递回呼叫"
+
+msgid "Overflow: A function returned a value too large to handle."
+msgstr ""
+
+msgid "A plugin function failed: %s"
+msgstr ""
+
+msgid "Unexpected operator. Operator '%s' cannot be placed here."
+msgstr "运算子 '%s' 不可以被放在这里"
+
+msgid "The right bracket is missing."
+msgstr "右括号遗漏了"
+
+#, fuzzy
+msgid "Invalid number of arguments supplied for the function '%s'"
+msgstr "对此函数'%s'提供了无效的参数值"
+
+msgid "Comparison operator misplaced."
+msgstr "比较运算子放置错误"
+
+msgid "Invalid number found. Use the format: -5.475E-8"
+msgstr "发现无效数字,使用此格式: -5.475E-8"
+
+#, fuzzy
+msgid "String is empty. You need to enter a formula."
+msgstr "字串是空的,你需要输入一个函数"
+
+msgid "Comma is not allowed here. Use dot as decimal separator."
+msgstr "符号(,)是不被允许的; 请用(.)作为十进位的分隔符号"
+
+msgid "Unexpected end of brackets."
+msgstr "无预期的结束括号"
+
+msgid "Number, constant or function expected."
+msgstr "预期为数字,常数或函数"
+
+msgid "Parameter after constant or variable not allowed."
+msgstr "在常数或变数后增加参数是不允许的"
+
+msgid "Expression expected."
+msgstr "预期为式子"
+
+msgid "Unknown variable, function or constant: \"%s\""
+msgstr "未知变数, 函数或常数: \"%s\""
+
+msgid "Unknown character: \"%s\""
+msgstr "未知字符: \"%s\""
+
+msgid "The end of the expression was unexpected."
+msgstr "意外的式子结尾"
+
+#, fuzzy
+msgid "Error parsing expression."
+msgstr "解译函数文字出现错误"
+
+msgid "A calculation resulted in an overflow."
+msgstr "计算结果溢出"
+
+msgid "An invalid value was used in the calculation."
+msgstr "一个无效的数值被用于计算"
+
+msgid "Not enough points for calculation."
+msgstr "没有足够的坐标点用以计算"
+
+msgid "Illegal name \"%s\" for user defined function or constant."
+msgstr "不合规定的名称 \"%s\" 用于使用者定义的函数或者常数"
+
+msgid "Cannot differentiate recursive function."
+msgstr "无法区别递归函数"
+
+msgid "Internal error."
+msgstr "内部错误"
+
+#, fuzzy
+msgid "Function \"%s\" cannot be differentiated."
+msgstr "无法识别的函数"
+
+msgid "Not further specified error occurred under calculation."
+msgstr "没有进一步特定的错误出现在计算过程。"
+
+msgid "No solution found. Try another guess or another model."
+msgstr "无解,请试用其他的假设或者模式"
+
+msgid "No result found."
+msgstr ""
+
+#, fuzzy
+msgid "An accurate result cannot be found."
+msgstr "计算结果溢出"
+
+msgid "Internal error. Please notify the programmer with as much information as possible."
+msgstr "内部错误,请告知程序人员获得更多的资讯"
+
+msgid "You need to enter a name for the function/constant."
+msgstr "你需要输入一个函数或者常数的名称"
+
+msgid ""
+"Invalid function/constant name '%s'.\n"
+"The name may only contain letters and decimal digits, and it must always start with a letter.\n"
+"In addition you are not allowed to redefine built-in names."
+msgstr ""
+"无效的 函数/常数名称 '%s'。\n"
+"名称只能够包含英文字或者整数字，而且必须要用英文字开头。\n"
+"此外，你也不可以用程序保留字。"
+
+msgid "You need to enter a name for the argument."
+msgstr "你需要输入一个参数的名称"
+
+msgid ""
+"Invalid argument name '%s'.\n"
+"The name may only contain letters and decimal digits, and it must always start with a letter.\n"
+" In addition you are not allowed to use built-in names as argument names."
+msgstr ""
+"无效的参数名称 '%s' \n"
+"名称只能够包含字母和十进位数字，而且必须要以字母为开头。\n"
+"此外，你不可以用保留字作为参数名称。"
+
+msgid "Character found after brackets."
+msgstr "括号后出现字符"
+
+msgid "Symbol \"%s\" defined more than once."
+msgstr "符号 \"%s\" 已经被建立超过一次"
+
+msgid "Invalid equation or inequality."
+msgstr "无效的等式或不等式"
+
+msgid "Updating..."
+msgstr "更新..."
+
+msgid "Save changes?"
+msgstr "保存修改吗?"
+
+msgid "Save changes in %s?"
+msgstr "保存修改在 %s?"
+
+msgid "You have reached the maximum range of zoom."
+msgstr "你已经放到最大的限度了"
+
+msgid "You have reached the minimum range of zoom."
+msgstr "你已经缩小到最小限度了"
+
+#, fuzzy
+msgid "'%s' must not be zero."
+msgstr "'%s' 必须要大于0。"
+
+msgid "Error in value"
+msgstr "错误的数值"
+
+msgid "'%s' has to be an integer value greater or equal to 0."
+msgstr "'%s'  必须为一个大于或等于0的整数"
+
+msgid "'%s' must be greater than zero."
+msgstr "'%s' 必须要大于0。"
+
+msgid "'%s' must be an integer greater than zero."
+msgstr "'%s' 必须为一个大于0的整数。"
+
+msgid "Trying to break zoom limit."
+msgstr "尝试打破缩放限制。"
+
+msgid "'%s' must be greater than '%s'"
+msgstr "'%s' 必须大于 '%s'"
+
+msgid "The maximum value must be greater than the minimum value."
+msgstr "最大值必须要大于最小值。"
+
+msgid "You need to enter a value."
+msgstr "你需要输入一个数值"
+
+msgid ""
+"This file was created with Graph %s.\n"
+"Only files from version %s and higher can be opened."
+msgstr ""
+"这个文件是由Graph %s 所建立的。\n"
+"只有版本 %s 或者更新的版本才可以被打开。"
+
+msgid "'%s' is not a valid number."
+msgstr "'%s' 是一个无效的数字"
+
+msgid "'%s' must be a positive number."
+msgstr "'%s' 必须为一个正数"
+
+msgid "File not found: %s"
+msgstr "找不到 '%s' 这个文件"
+
+msgid ""
+"Error reading file: %s\n"
+"The file is not a correct Graph file."
+msgstr ""
+"文件读取错误: %s\n"
+"文件不是一个正确的Graph图像文件"
+
+msgid "Unknown error while reading file: %s"
+msgstr "未明的读取错误: %s"
+
+msgid "Graph files [*.grf]|*.grf"
+msgstr "Graph 图像 [*.grf]|*.grf"
+
+msgid ""
+"Cannot write to file: %s\n"
+"Access denied. Check that the file is not in use or write protected."
+msgstr ""
+"无法写到文件: %s\n"
+"存取拒绝,请确定此档没有被编写或被保护"
+
+msgid "The font \"%s\" doesn't exist. Standard font is used instead."
+msgstr "字体 \"%s\"不存在，使用标准的字体替代。"
+
+#, fuzzy
+msgid "Graph system"
+msgstr "移动坐标系"
+
+#, fuzzy
+msgid "Open"
+msgstr "打开..."
+
+msgid "Selection error"
+msgstr "选取错误"
+
+msgid "File error"
+msgstr "文件错误"
+
+msgid "Write access failed"
+msgstr "写入存取失败"
+
+msgid "OLE error"
+msgstr "OLE对象 错误"
+
+msgid "Error reading object"
+msgstr "对象读取错误"
+
+msgid "Not a valid Graph object."
+msgstr "不是一个有效的图形对象"
+
+msgid "Object error"
+msgstr "对象错误"
+
+msgid "Windows does not have enough resources to save an image that large."
+msgstr "系统的资源不足以保存此大图像"
+
+msgid "'%1%' must be between %2% and %3%."
+msgstr "'%1%' 必须介于 %2% 和 %3%之间"
+
+#, fuzzy
+msgid "File not found"
+msgstr "找不到 '%s' 这个文件"
+
+#, fuzzy
+msgid "Error reading file"
+msgstr "对象读取错误"
+
+#, fuzzy
+msgid "Printer error"
+msgstr "打印错误"
+
+msgid "Invalid use of infinity. Infinity cannot be used here."
+msgstr ""
+
+msgid "Not enough memory to complete the operation."
+msgstr ""
+
+msgid "Confirm delete"
+msgstr "确定删除"
+
+msgid "Are you sure you want to delete %s?"
+msgstr "你确定想要删除  %s ?"
+
+msgid "Graph files [*.grf]|*.grf|All files [*.*]|*.*"
+msgstr "Graph 图像 [*.grf]|*.grf|All files [*.*]|*.*"
+
+msgid "CSV (semicolon delimited) [*.csv]|*.csv|CSV (comma delimited) [*.csv]|*.csv|Text (tab delimited) [*.txt]|*.txt|Text (space delimited) [*.txt]|*.txt|All files [*.*]|*.*"
+msgstr ""
+
+msgid "Are you sure you want to delete the model: %s?"
+msgstr "你确定想要删除此模型 %s 吗?"
+
+msgid "Maximum number on x-axis must be greater than the minimum value."
+msgstr "x 轴上最大的数值必须大于最小数值"
+
+msgid "Maximum number on y-axis must be greater than the minimum value."
+msgstr "y 轴上最大的数值必须大于最小数值"
+
+msgid "Server application not found."
+msgstr "找不到主机上的应用"
+
+msgid "Maximum number for t must be greater than the minimum value."
+msgstr "t 的最大数值需要大于最小数值"
+
+msgid "The step value for t must be a number greater than 0."
+msgstr "间隔数值 t 必须要大于0"
+
+msgid "The minimum value for the x-axis must be greater than 0, when the x-axis is logarithmic scaled."
+msgstr "当x轴是对数尺度时，x 轴的最小数值需要大于0"
+
+msgid "The cross point of the y-axis must be greater than 0, when the x-axis is logarithmic scaled."
+msgstr "当x轴是对数刻度时，y 轴的交叉点值比需要大于0。"
+
+msgid "The minimum value for the y-axis must be greater than 0, when the y-axis is logarithmic scaled."
+msgstr "当y轴是对数刻度时，y轴的最小值必须要大于0。"
+
+msgid "The cross point of the x-axis must be greater than 0, when the y-axis is logarithmic scaled."
+msgstr "当y轴是对数刻度时，x轴的交叉点必须要大于0。"
+
+msgid "'Recent files' must be between 0 and 9."
+msgstr "'最近文件'必须介于0和9之间。"
+
+msgid "The end of interval must be greater than the start of interval."
+msgstr "间隔终点必须要大于起始点"
+
+msgid "Error in interval."
+msgstr "间隔错误"
+
+msgid "The width must be an integer greater than 0."
+msgstr "宽度必须要为大于0的整数"
+
+msgid "Error in width"
+msgstr "宽度错误"
+
+msgid "The end of interval must be greater than the start of interval and %s must be greater than 0."
+msgstr "间隔终点必须大于间隔起始点而且 %s 必须大于0。"
+
+msgid "Invalid model name."
+msgstr ""
+
+msgid "A model of that name already exist."
+msgstr ""
+
+msgid "The derivative of the function is not defined at %s=%s"
+msgstr "此函数的导数并没有被定义在%s=%s。"
+
+#, fuzzy
+msgid "Coordinate not defined"
+msgstr "坐标未定义"
+
+msgid "Checking for newer version..."
+msgstr "检查新版本"
+
+msgid "Abort printing?"
+msgstr "取消打印吗?"
+
+msgid "Calculate area"
+msgstr "计算面积"
+
+msgid "Calculate length of path"
+msgstr "计算路径长度"
+
+msgid "Edit function"
+msgstr "编辑函数"
+
+msgid "Edit tangent/normal"
+msgstr "编辑 切线/ 法线"
+
+msgid "Error processing file '%s' at line %s."
+msgstr "错误执行文件'%s'在第'%s' 行。"
+
+#, fuzzy
+msgid "Edit text label"
+msgstr "文字标签:"
+
+msgid "The model needs some constants (starting with a $) for Graph to find."
+msgstr ""
+
+msgid "'%s' has to be an integer value between 0 and 1000."
+msgstr "'%s' 必须要为一个介于0和1000之间的整数。"
+
+msgid "Printing error"
+msgstr "打印错误"
+
+msgid "An unknown error occurred while printing."
+msgstr "一个未明的打印错误发生"
+
+msgid "Error while adding points"
+msgstr "增加坐标点的错误"
+
+msgid "Each point needs both an x- and a y-coordinate."
+msgstr "每一个坐标点需要有x 和 y 坐标"
+
+msgid "\"%s\" is not a valid number."
+msgstr "\"%s\"  不是一个有效的数字"
+
+msgid "You didn't add any points. You need to specify some x- and y-coordinates in the grid."
+msgstr "你没有增加任何坐标点，你需要在格线上指明 x和y坐标"
+
+msgid "Edit point series"
+msgstr "编辑坐标点数列"
+
+msgid "Edit shading"
+msgstr "编辑阴影"
+
+msgid "You need to select a function."
+msgstr "你应选一个函数"
+
+msgid "New version of Graph available"
+msgstr "新版本的 Graph 已经可以取得"
+
+#, fuzzy
+msgid ""
+"Graph %s is now available for download from www.padowan.dk\n"
+"\n"
+"Would you like to visit the download page?"
+msgstr ""
+"Graph %s 现在已经可以在 http://www.padowan.dk 下载\n"
+"并且从之前的版本后有新的功能：\n"
+"\n"
+"%s\n"
+"\n"
+"你想要浏览本网站吗? "
+
+msgid "No new version"
+msgstr "没有新版本"
+
+#, fuzzy
+msgid "You are already using the most recent version of Graph."
+msgstr "你已经使用最新的版本了"
+
+msgid ""
+"Cannot connect to server www.padowan.dk.\n"
+"Either the server is down or you do not have a connection to the Internet."
+msgstr ""
+"无法连接到主机 www.padowan.dk.\n"
+"或许是主机关闭或者你没有连上英特网"
+
+msgid "Socket error %s"
+msgstr "Socket error %s"
+
+msgid "Definite integral, or signed area between function and x-axis, for the given domain range."
+msgstr ""
+
+#, fuzzy
+msgid "Length of path along the curve calculated for the given range."
+msgstr "此为给定角度的函数之斜率"
+
+msgid ""
+"The file cannot be opened by this version of the program.\n"
+"You need at least Graph %s to open this file."
+msgstr ""
+"这个文件不能用此版本的程序打开，\n"
+"你必须要最新的 Graph %s 来打开此文件。"
+
+msgid ""
+"This file was saved by an outdated version of Graph,\n"
+"and it cannot be opened by the current version."
+msgstr ""
+"这个文件是用过期版本的Graph保存，\n"
+"它无法用现在版本的程序打开。"
+
+msgid ""
+"\n"
+"\n"
+"If you don't want to be asked again, this feature may be disabled from the Edit|Options dialog."
+msgstr ""
+"\n"
+"\n"
+"如果你不想要再一次被提醒，这个功能可以在 [编辑]-->[选项]中取消。"
+
+msgid "Edit relation"
+msgstr "编辑关系式"
+
+msgid "Commands"
+msgstr "命令"
+
+msgid "(All Commands)"
+msgstr "(所有命令)"
+
+#, fuzzy
+msgid "To add a command to the toolbar simply select a category and drag the command out of this dialog box to the toolbar."
+msgstr "要增加一个命令到工具栏上只要选择类别并且拖曳此命令到工具栏上"
+
+msgid "Edit f'(x)"
+msgstr "编辑 f'(x)"
+
+msgid "Edit trendline"
+msgstr "编辑趋势线"
+
+msgid "Categories:"
+msgstr "类 别:"
+
+msgid ""
+"The program seems to be stuck in an infinite loop.\n"
+"If you cancel the operation the program will become unstable.\n"
+"You should therefore save your data under a new name and restart the application."
+msgstr ""
+
+msgid "Thread is not responding"
+msgstr ""
+
+msgid "This Tip of the day can give you a lot of information about the program that most users don't know."
+msgstr "今天的提示给你大部分使用者通常不知道的讯息"
+
+msgid "You can get help using Graph, report bugs and suggest future improvements at the web forum: <a href=\"http://forum.padowan.dk\">http://forum.padowan.dk</a>"
+msgstr ""
+
+msgid "You can customize the toolbar by right clicking on it and select 'Customize toolbar'."
+msgstr "你可以自定义工具列，方法为在上面按鼠标右键，然后选择[自定义工具列]。"
+
+#, fuzzy
+msgid "Instead of deleting a function, you can make it invisible by removing the check mark for the item in the function list."
+msgstr "你可以在函数列那里对某函数按鼠标右键，然后移除勾选'显示'来让此函数隐藏。"
+
+msgid "You can paste images into a text label."
+msgstr "你可以贴图到文字标签"
+
+msgid "Text labels can contain any kind of OLE objects, for example Microsoft Equation. When editing a label right click in the editing area and select 'Insert object'."
+msgstr "文字标签可以包含任何  OLE 对象，例如 Microsoft 数学方程序编辑器。 当编辑一个标签，点选鼠标右键然后选择\"插入对象\"。"
+
+msgid "You can export points from a point series to a file that can be read by other programs, for example Microsoft Excel. When editing the point series select the points, right click and choose 'Export to file'."
+msgstr "你可以输出坐标点数列到一个文件让其他程序运用，例如 Microsoft Excel 。方式为在编辑坐标点数列的窗口，按鼠标右键然后选择'输出到文件'。"
+
+msgid "A vertical line at x=5 can be drawn as the parametric function x(t)=5, y(t)=t or as the relation x=5."
+msgstr "在x=5的地方画垂直线，可以使用 x(t)=5，y(t)=t 或者关系式 x=5 来表示。"
+
+msgid "You can use Zoom|Square to make the axes look equally scaled. This is especially useful when drawing circles and similar functions."
+msgstr "你可以使用[缩放]-->[正方形] 让轴线看起来相等，这对于画圆形或者相似的函数特别有用。"
+
+msgid "You can find a list of all available functions in the help."
+msgstr "你可以在[说明]找到很多可用的函数"
+
+msgid "You can combine two functions to one using 'if'. For example the function f(x)=x for x<1 and f(x)=x^2 for x>=1 can be written as f(x)=if(x<1, x, x^2)."
+msgstr "你可以利用 'if' 来结合两个函数。例如， 函数 f(x)=x , x<1 和函数 f(x) =x^2 ,x>=1两者可以写成  f(x)=if(x<1,x,x^2)。"
+
+msgid "You can import the contents of another Graph file into the current coordinate system using 'File|Import|Graph file'."
+msgstr "你可以利用 [文件]-->[导入]-->[Graph 文件]来导入另外的 Graph文件到当前编辑的座标系上。"
+
+#, fuzzy
+msgid "If you check 'Save as default' in the Axes dialog the current settings will be used as default when creating new coordinate systems."
+msgstr "如果你在[坐标轴]对话框勾选\"保存为预设值\"，则现在的设定将会成为以后新增文件的预设值。"
+
+msgid "While you hold down the Ctrl key, you can use the arrow keys to move the system."
+msgstr "如果你按住 Ctrl 键，你可以利用方向键移动坐标系。"
+
+msgid "While you hold down the Ctrl key, you can use the + and - keys to zoom in and out."
+msgstr "当你按住 Ctrl键，你可以利用 + 和 - 两个按键来缩放窗口。"
+
+msgid "You can use the scroll button on your mouse to zoom in and out at the position of the mouse cursor."
+msgstr "你可以用鼠标滚轮来缩放窗口。"
+
+msgid "If you don't want an item shown in the legend, you can right click on the item in the function list and deselect 'Show in legend'."
+msgstr "如果你不想要让某一个项目出现在图例说明，你可以在函数列上按鼠标右键，然后取消'显示在图例说明'的选项。"
+
+msgid "If you want the axes shown to the left and bottom of the image, you can choose Axes style as Boxed in the Settings tab of the Axes dialog."
+msgstr "如果你想要轴线显示在画面的左下方，你可以在轴线对话框，选择轴线样式为 '盒状'。"
+
+msgid "Graph can save the shown coordinate system in five different image formats: bmp, emf, png, jpg and pdf."
+msgstr "Graph 可以保存坐标系及函数所显示的部分为五种不同的图片格式: bmp, emf, png, jpg和 pdf。"
+
+#, fuzzy
+msgid "You can use 'Edit|Copy image' to copy the coordinate system and paste it into another program, for example, Microsoft Word. Later you can usually edit the image in Graph by double clicking on it in the other program."
+msgstr "你可以使用 [编辑]-->[复制图形] 把坐标系复制到剪贴板并且用来贴到其他的程序。"
+
+msgid "You can open a saved grf-file in a new instance of the program by double clicking on it in Explorer."
+msgstr "你可以用鼠标双击 grf 文件，程序将在一个新窗口中打开它。"
+
+msgid "You can drag a grf-file from explorer into an open instance of Graph to open the file."
+msgstr "你可以用鼠标拖曳的方式把一个 grf 文件放到一个图例当中来打开。"
+
+#, fuzzy
+msgid "Graph will remember the size of the main window between executions. This can be disabled from the Options dialog."
+msgstr "Graph 可以纪录执行时窗口的大小和放置，如果想要取消的话可以在选项对话框那设定。"
+
+msgid "Calc|Table can be used to create a table with evaluation values for a function."
+msgstr "[计算]-->[表格]可以用来新建一个函数求值的表格。"
+
+msgid "A part or the whole evaluation table can be exported to a file by right clicking and selecting 'Export to file'. It can afterwards be opened in other programs like Microsoft Excel."
+msgstr "利用鼠标右键，然后选择'输出到文件'的方式，部分或者全部的求解表格资料可以被输出到文件。然后可以被其他的程序如 Microsoft Excel 打开。"
+
+#, fuzzy
+msgid "Data from the evaluation table can be copied to another program like Microsoft Excel."
+msgstr "求解的表格资料可以透过拷贝到剪贴板的方式然后放到其他程序，例如 Microsoft Excel。"
+
+#, fuzzy
+msgid "The data points in a point series can be copied to and from other programs like Microsoft Excel."
+msgstr "坐标点数列的资料可以透过剪贴板被拷贝到Microsoft Excel或从那输入。"
+
+#, fuzzy
+msgid "Elements as functions, point series, etc. can be copied from one instance of the program to another using Edit|Copy."
+msgstr "函数可以利用[编辑]-->[复制]的方式来拷贝到另一个图例当中。"
+
+msgid "You can always undo the last thing you did using Edit|Undo."
+msgstr "你可以使用[编辑]-->[撤消]来撤消上一个操作。"
+
+msgid "If you used Edit|Undo by mistake, you can use Edit|Redo to redo what you have undone."
+msgstr "你当操作错误时可以使用 [编辑]-->[撤消]撤消上一个操作，你也可以使用[编辑]-->[重复]来重复上一个已撤消的操作。 "
+
+msgid "In the Axes dialog you can add a title to the coordinate system."
+msgstr "在轴线的对话框当中，你可以增加标题到坐标系"
+
+msgid "You can import point series from files saved by other programs, like Microsoft Excel."
+msgstr "你可以由别的程序所编辑的文件输入坐标点数列，例如 Microsoft Excel。"
+
+#, fuzzy
+msgid "When inserting a point series, you can copy data from programs like Microsoft Excel, and paste the data into the grid in Graph."
+msgstr "你可以复制例如像 Microsoft Excel的资料来插入坐标点数列，然后贴到本程序的格线。"
+
+#, fuzzy
+msgid "You can use 'Zoom|Fit all' to change the coordinate system so all functions and point series are visible."
+msgstr "你可以使用[缩放]-->[全部坐标点] 来改变坐标系的大小到所有的坐标点数列都可见。"
+
+#, fuzzy
+msgid "You can use Zoom|Fit to change the coordinate system to show all parts of the selected function or point series."
+msgstr "你可以使用 [缩放]-->[符合] 来改变坐标系大小来显示选定的函数或者坐标点。"
+
+msgid "When you hold down the Shift key you can drag the coordinate system around with the mouse."
+msgstr "当你按住  shift 键的时候，你可以用鼠标拖曳坐标轴。"
+
+msgid "You can use Calc|Evaluate to find intersections between functions, crossings with the axes and extremum points."
+msgstr "你可以利用 [计算]-->[求解] 来找出函数、轴线间的交叉或者求出极点。"
+
+msgid "When a point series is selected you can add points to it by clicking on the image while you hold down the Ctrl key."
+msgstr "当坐标点数列被选取的时候，你可以按住  Ctrl 键同时在图像上点鼠标来增加坐标点。"
+
+msgid "You can use a relation to plot any inequality, for example sin(x^2) < cos(y^2)"
+msgstr "你可以利用一个关系式来描绘任何的不等式，例如 sin(x^2) < cos(y^2)"
+
+msgid "You can use a relation to plot any equation, for example x*sin x = y*cos y"
+msgstr "你可以利用一个关系式来描绘任何的等式，例如 x*sin x = y*cos y"
+
+msgid "Elements (functions, shadings, labels, relations, etc.) are drawn in the same order they appear in the function list to the left."
+msgstr "所有的元件包含函数、阴影、标签和关系式等，都是依据一定的顺序出现在左边的函数列上。"
+
+msgid "You can move the selected element in the function list either by dragging it with the mouse or with the arrow up/down keys while ALT is held down."
+msgstr "你可以利用鼠标拖曳的功能，或者键盘上下键+Alt键移动函数列中选择的元件。"
+
+msgid "You can show functions and other elements behind the axes by moving the element above the axes in the function list to the left. To move shadings and tangents you will have to move the functions they are attached to."
+msgstr "你可以通过移动左边函数列上的元件到坐标轴之上，来显示阴影或者其他在坐标轴后方的元件。"
+
+msgid "Custom text labels may be attached to the axes by right clicking on the label and selecting a placement from the context menu."
+msgstr "自定义的文字标签可以被附着在坐标轴上，使用的方式为在标签上按鼠标右键，然后选择一个放置的选项。"
+
+msgid "The legend may be moved freely with the mouse or attached to one of the corners by right clicking on the legend and choose a placement from the context menu."
+msgstr "图例说明可以随意的用鼠标来移动或者吸附到任何一个角落，使用方式为在图例说明上点鼠标右键，然后选择一个适当的放置选项。"
+
+msgid "As an alternative to Transparent, you can choose a custom background color for labels. This is especially useful for labels drawn over shadings."
+msgstr "除了可以改变透明度之外，你也可以选择一个适合的标签背景颜色，尤其是标签画在阴影之上的时候非常有用。"
+
+msgid "In most places like point series, axes settings, function ranges, etc., you can use expressions like pi/4 instead of numbers."
+msgstr " 在大部分的场合，像是坐标点数列、坐标轴设定或者函数范围等，你可以用类似 pi/4 这样的表示法来代替数字。"
+
+msgid "You can create your own custom constants under Function|Custom functions for use in functions, point series, etc. For example g=9.80665, R=8.31"
+msgstr "你可以在 [函数]-->[自定义函数] 设定部份自定义常数，可以用在像是函数、坐标点数列等地方。例如 g=9.80665, R=8.31"
+
+msgid "You can create your own custom functions under Function|Custom functions for use in plotting functions, relations, etc. For example sinc(x)=if(x=0, 0, sin(x)/x)"
+msgstr "你可以创造自定义的函数在 [函数]-->[自定义函数]当中，可以用来作为绘制函数、关系式等图表。例如，sinc(x)=if(x=0, 0, sin(x)/x)。"
+
+msgid "In the Save as image dialog there is an Option button you can use to specify the image resolution. This is especially useful if you want a high resolution image."
+msgstr "在[保存为Graph图像]的对话框当中，右下角有一个[选项]按钮，你可以用来定义图像解析度。如果你想要一个高解析度的图像，这个功能特别有用。"
+
+msgid "Point series can have arrows as markers. A point series with arrows as markers and lines between the points can be used to show vectors."
+msgstr "坐标点数列可有箭头当成标示 一个坐标数列。一个有箭头标示的坐标数列，和坐标点之间的线条连结可以用来做向量显示。"
+
+msgid "Insert symbol"
+msgstr "插入符号"
+
+msgid "Subset:"
+msgstr "子集："
+
+msgid "Insert"
+msgstr "插入"
+
+msgid "Select color"
+msgstr "选择颜色"
+
+msgid "Customize"
+msgstr "自定义:"
+
+msgid "Description"
+msgstr "描述"
+
+msgid "Cannot open clipboard: %s"
+msgstr ""
+
+msgid "There is no default printer currently selected."
+msgstr ""
+
+msgid "Install for all users"
+msgstr ""
+
+#, fuzzy
+msgid "Examples"
+msgstr "范例"
+
+msgid "Local"
+msgstr "区域"
+
+msgid "Global"
+msgstr "总体的"
+
+#. PrintFrm..Caption
+msgid "Print"
+msgstr "打印"
+
+#. PrintFrm..Label6..Caption
+msgid "Scale:"
+msgstr "缩放:"
+
+#. PrintFrm..GroupBox1..Caption
+msgid "Printer"
+msgstr "打印机:"
+
+#. PrintFrm..GroupBox1..Label7..Caption
+msgid "Type:"
+msgstr "方式:"
+
+#. PrintFrm..GroupBox1..Label8..Caption
+msgid "Where:"
+msgstr "位置:"
+
+#. PrintFrm..GroupBox1..Label9..Caption
+msgid "Comment:"
+msgstr "评论:"
+
+#. PrintFrm..GroupBox1..ComboBox1....Hint
+msgid "Select the printer to use. The Properties button may be used to change more advanced settings for the printer."
+msgstr "选择要使用的打印机，还可以单击“属性”按钮改变打印机的高级设置。"
+
+#. PrintFrm..RadioGroup2....Hint
+msgid "Select to print in color (or grayscale if your printer is not a color printer) or convert all colors to black."
+msgstr "选择打印成彩色、灰阶或者黑白"
+
+#. PrintFrm..RadioGroup2..Caption
+msgid "Print output"
+msgstr "打印输出"
+
+#. PrintFrm..RadioGroup2....Items.Strings
+msgid "Color"
+msgstr "彩色"
+
+#. PrintFrm..RadioGroup2....Items.Strings
+msgid "Black && white"
+msgstr "黑白"
+
+#. PrintFrm..GroupBox2..Caption
+msgid "Position (millimeters)"
+msgstr "位置（毫米）"
+
+#. PrintFrm..GroupBox2..Label3..Caption
+msgid "Left margin:"
+msgstr "左边空白:"
+
+#. PrintFrm..GroupBox2..Label4..Caption
+msgid "Top margin:"
+msgstr "上边空白:"
+
+#. PrintFrm..GroupBox2..CheckBox1..Hint
+#, fuzzy
+msgid "Center the printing area on the page."
+msgstr "输入图像在页面中的位置"
+
+#. PrintFrm..GroupBox2..CheckBox1..Caption
+msgid "Center on page"
+msgstr "自动居中"
+
+#. PrintFrm..GroupBox2..Edit1....Hint
+#. PrintFrm..GroupBox2..Edit2....Hint
+msgid "Specify the printing area of the page. The printer will print only within these margins."
+msgstr ""
+
+#. PrintFrm..GroupBox3..Label5..Caption
+msgid "Number of copies:"
+msgstr "打印的份数:"
+
+#. PrintFrm..GroupBox3..Edit3..Hint
+msgid "Choose number of copies to print."
+msgstr "选择打印份数:"
+
+#. PrintFrm..Edit4..Hint
+msgid "Enter percent of original size."
+msgstr "输入原尺寸百分比例"
+
+#~ msgid "Associate *.grf files with Graph."
+#~ msgstr "用Graph关联 *.grf 文件类型"
+
+#~ msgid "Associate .grf files"
+#~ msgstr "关联 .grf 文件"
+
+#, fuzzy
+#~ msgid "Integral"
+#~ msgstr "网络"
+
+#, fuzzy
+#~ msgid "Calculate definite integral"
+#~ msgstr "计算表格"
+
+#, fuzzy
+#~ msgid "Integrate"
+#~ msgstr "网络"
+
+#~ msgid "About Graph..."
+#~ msgstr "关于 Graph..."
+
+#~ msgid "All points"
+#~ msgstr "所有坐标点"
+
+#~ msgid "Area or length of path calculated for the given range using Simpson's formula."
+#~ msgstr "利用 Simpson's 公式计算给定范围的面积或者路径长度。"
+
+#~ msgid "Calculates the area under the path of the selected function."
+#~ msgstr "计算所选择函数路径下方的面积"
+
+#~ msgid "Custom functions..."
+#~ msgstr "自定义函数"
+
+#~ msgid "Extremum"
+#~ msgstr "极限"
+
+#~ msgid "Go to home page"
+#~ msgstr "主页"
+
+#~ msgid "Image information"
+#~ msgstr "图像资讯"
+
+#~ msgid "Mark end of range"
+#~ msgstr "标示范围终点"
+
+#~ msgid "Mark start of range"
+#~ msgstr "标示范围的起始点"
+
+#~ msgid "Mark the start of the shading with a line."
+#~ msgstr "用线条标示阴影的起始点"
+
+#~ msgid "Open the file %s."
+#~ msgstr "打开Graph文件: %s"
+
+#~ msgid "Protocol reply error %s"
+#~ msgstr "Protocol 返回错误 %s"
+
+#~ msgid "Select to place the image on the middle of the page."
+#~ msgstr "选择让图像置于页面正中"
+
+#~ msgid "Text [*.txt; *.csv]|*.txt;*.csv|All files [*.*]|*.*"
+#~ msgstr "文字 [*.txt; *.csv]|*.txt;*.csv|All files [*.*]|*.*"
+
+#~ msgid "The server responded with the message '%s'"
+#~ msgstr "主机回应的讯息为 '%s'"
+
+#~ msgid "This is the functions second derivative evaluated for the entered value."
+#~ msgstr "这是函数的二阶导数函数"
+
+#~ msgid "You can send suggestions for future versions, bug reports and comments to graph@padowan.dk"
+#~ msgstr "你可以把建议和错误寄信到 graph@padowan.dk"
+
+#~ msgid "Zoom as much as all points are visible."
+#~ msgstr "缩放到所有的坐标点都可见"
+
+#~ msgid "Zoom in on the x-axis only."
+#~ msgstr "只有放大 x 轴"
+
+#~ msgid "Zoom in on the y-axis only."
+#~ msgstr "只有放大 y 轴 "
+
+#~ msgid "Zoom in."
+#~ msgstr "放大"
+
+#~ msgid "Zoom out on the x-axis only."
+#~ msgstr "只有缩小 x 轴"
+
+#~ msgid "Zoom out on the y-axis only."
+#~ msgstr "只有缩小 y 轴"
+
+#~ msgid "Zoom out."
+#~ msgstr "缩小"
+
+#~ msgid "Zoom to standard coordinates."
+#~ msgstr "缩放到标准坐标"

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chapter SYSTEM "dtd/dblite.dtd">
+<chapter xmlns:xi="http://www.w3.org/2001/XInclude" id="vcl">
+	<title><classname>vcl</classname> module</title>
+	<indexterm><primary><classname>vcl</classname> (module)</primary></indexterm>
+	<para>
+		The <classname>vcl</classname> module is an interface to the Embarcadero Visual Component Library (VCL) used by Delphi and C++ Builder.
+		Documentation for the VCL can be found online at
+		<ulink url="http://docwiki.embarcadero.com/VCL/en/Main_Page">http://docwiki.embarcadero.com/VCL/en/Main_Page</ulink>.
+	</para>
+
+	<para>
+		Python is case sensitive, but as the VCL is written in Delphi, which is not case sensitive, much of the <classname>vcl</classname>
+		module is not case sensitive. This means it doesn't care if you write <classname>TForm</classname> or <classname>tform</classname>.
+		However it is recommended to use the same case as shown in the documentation as the case sensitivity may change in the future.
+	</para>
+
+	<simplesect>
+		<title>Classes</title>
+		<para>
+			VCL classes as <classname>TForm</classname> and <classname>TButton</classname> are found in the <classname>vcl</classname> module.
+			You create a new VCL object by instantiating a VCL class in the same way you always create Python objects.
+			All positional arguments are passed on to the constructor for the VCL class.
+			VCL classes can have several constructors.
+			The first constructor that matches the passed arguments will be used,
+			e.g. <literal>vcl.TForm(None)</literal>  will use the constructor that takes an owner component as argument.
+			Keyword arguments will be assigned to the properties of the object after the object has been constructed,
+			e.g. <literal>Form = vcl.TForm(None, Caption="Test dialog")</literal> is the same as
+			<literal>Form = vcl.TForm(None); Form.Caption = "Test dialog"</literal>
+		</para>
+	</simplesect>
+
+	<simplesect>
+		<title>Functions</title>
+		<para>
+			Global functions as <function>TextToShortCut</function> can be found in the <classname>vcl</classname> module and are called like
+			<literal>vcl.TextToShortCut("Ctrl+A")</literal>.
+		</para>
+	</simplesect>
+
+	<simplesect>
+		<title>Objects</title>
+		<para>
+			The <classname>vcl</classname> module contains some global objects as
+			<varname>Application</varname>, <varname>Mouse</varname>, <varname>Clipboard</varname> and <varname>Screen</varname>.
+			Other objects can be directly constructed or returned from a function.
+			<varname>None</varname> in Python can be used to pass a NULL pointer to a VCL function instead of an object.
+		</para>
+		<para>
+			The Python object is a proxy object to the actual VCL object.
+			Per default VCL objects created directly in Python are owned by the proxy object.
+			The VCL object will therefore be destroyed when the proxy object in Python is destroyed.
+			Objects returned from a function or accessed through properties are not owned and will continue to exist after the proxy object has been destroyed.
+			The proxy object has an <property>_owned</property> property that specify if the proxy object owns the underlying VCL object.
+		</para>
+		<para>
+			Object methods and properties are accessed as you normally would in Python so you can use <literal>Form.Show()</literal> and <literal>Form.Caption = "Test"</literal>.
+			If a method is overloaded, the first one that matches the parameters will be called.
+		</para>
+	</simplesect>
+
+	<simplesect>
+		<title>Events</title>
+		<para>
+			Events can either be global functions or methods in an object, which can be assigned like properties.
+			The event handler must be able to take the expected arguments which will be passed.
+		</para>
+
+		<para>
+			Sometimes an event takes a reference as argument.
+			In that case the actual argument is an object with a property called <property>Value</property> that can be used to access the actual referenced value.
+		</para>
+	</simplesect>
+
+	<simplesect>
+		<title>Types</title>
+		<para>
+			Most types can be used directly, e.g. strings, numbers and booleans.
+			VCL sets are converted to Python strings, e.g. <literal>Form.Font.Style = "fsBold,fsItalic"</literal> will make the font bold and italic.
+			Enumerations are always returned as strings but can be assigned as strings or integers, e.g. <literal>Form.WindowState = "wsMaximized"</literal> and
+			<literal>Form.WindowState = 2</literal> will both maximize the window.
+			Records are converted to tuples with one element for every item in the record.
+			Similarly a function that expects a record must be passed a tuple, e.g. <literal>Form1.ClientToScreen((100,50))</literal>.
+		</para>
+	</simplesect>
+
+	<simplesect>
+		<title>VCL example</title>
+		<programlisting>
+# This script will show a dialog where you can enter a value.
+# The event will check that only digits are entered.
+# If the OK button is pressed, the entered value will be printed to the console.
+import vcl
+import string
+
+def HandleKeyPress(Sender, Key):
+  if not Key.Value in string.digits:
+    Key.Value = '\0'
+
+Form = vcl.TForm(None, Caption="Value dialog", Width=190, Height=110)
+Label = vcl.TLabel(None, Parent=Form, Caption="Value:", Top=12, Left=8)
+Edit = vcl.TEdit(None, Parent=Form, OnKeyPress=HandleKeyPress, Text="0", Top=8, Left=50)
+OkButton = vcl.TButton(None, Parent=Form, Caption="OK", Default=True, ModalResult=1, Top=50, Left=8)
+CancelButton = vcl.TButton(None, Parent=Form, Caption="Cancel", Cancel=True, ModalResult=2, Top=50, Left=100)
+if Form.ShowModal() == 1:
+  print("Result:", Edit.Text)
+		</programlisting>
+	</simplesect>
+</chapter>

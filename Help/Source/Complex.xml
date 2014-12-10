@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chapter SYSTEM "dtd/dblite.dtd" [
+<!ENTITY % Symbols SYSTEM "Symbols.ent">
+%Symbols;
+]>
+<section id="Complex">
+	<title>Complex</title>
+	<section id="abs" xreflabel="abs">
+		<title><markup>abs</markup> function</title>
+		<indexterm><primary><function>abs</function> function</primary></indexterm>
+		<indexterm><primary>absolute value</primary></indexterm>
+		<indexterm><primary>numeric value</primary></indexterm>
+		<para>
+			Returns the absolute value of the argument.
+		</para>
+		<simplesect>
+			<title>Syntax</title>
+			<para><mathphrase>abs(z)</mathphrase></para>
+		</simplesect>
+		<simplesect>
+			<title>Description</title>
+			<para>
+				The <function>abs</function> function returns the absolute or numeric value of <parameter>z</parameter>, commonly written as |z|.
+				<parameter>z</parameter> may be any <glossterm>numeric expression</glossterm> that evaluates to a <glossterm>real number</glossterm> or a <glossterm>complex number</glossterm>.
+				<mathphrase>abs(z)</mathphrase> always returns a positive real value.
+			</para>
+		</simplesect>
+		<simplesect>
+			<title>See also</title>
+			<para>
+				<simplelist>
+					<member><ulink url="http://en.wikipedia.org/wiki/Absolute_value"><orgname>Wikipedia</orgname></ulink></member>
+					<member><ulink url="http://mathworld.wolfram.com/AbsoluteValue.html"><orgname>MathWorld</orgname></ulink></member>
+				</simplelist>
+			</para>
+		</simplesect>
+	</section>
+
+
+	<section id="arg" xreflabel="arg">
+		<title><markup>arg</markup> function</title>
+		<indexterm><primary><function>arg</function> function</primary></indexterm>
+		<indexterm><primary>argument</primary></indexterm>
+		<indexterm><primary>angle</primary></indexterm>
+		<para>
+			Returns the argument of the parameter.
+		</para>
+		<simplesect>
+			<title>Syntax</title>
+			<para><mathphrase>arg(z)</mathphrase></para>
+		</simplesect>
+		<simplesect>
+			<title>Description</title>
+			<para>
+			  The <function>arg</function> function returns the argument or angle of <parameter>z</parameter>.
+				<parameter>z</parameter> may be any <glossterm>numeric expression</glossterm> that evaluates to a <glossterm>real number</glossterm> or a <glossterm>complex number</glossterm>.
+				<mathphrase>arg(z)</mathphrase> always returns a real number.
+				The result may be in <glossterm>radians</glossterm> or degrees depending on the current settings.
+				The angle is always between -&pi; and &pi;.
+				If <parameter>z</parameter> is a real number, <mathphrase>arg(z)</mathphrase> is 0 for positive numbers and &pi; for negative numbers.
+				<mathphrase>arg(0)</mathphrase> is undefined.
+			</para>
+		</simplesect>
+		<simplesect>
+			<title>See also</title>
+			<para>
+				<simplelist>
+					<member><ulink url="http://en.wikipedia.org/wiki/Arg_(mathematics)"><orgname>Wikipedia</orgname></ulink></member>
+					<member><ulink url="http://mathworld.wolfram.com/ComplexArgument.html"><orgname>MathWorld</orgname></ulink></member>
+				</simplelist>
+			</para>
+		</simplesect>
+	</section>
+
+
+	<section id="conj" xreflabel="conj">
+		<title><markup>conj</markup> function</title>
+		<indexterm><primary><function>conj</function> function</primary></indexterm>
+		<indexterm><primary>conjugate</primary></indexterm>
+		<para>
+			Returns the conjugate of the argument.
+		</para>
+		<simplesect>
+			<title>Syntax</title>
+			<para><mathphrase>conj(z)</mathphrase></para>
+		</simplesect>
+		<simplesect>
+			<title>Description</title>
+			<para>
+			  The <function>conj</function> function returns the conjugate of <parameter>z</parameter>.
+				<parameter>z</parameter> may be any <glossterm>numeric expression</glossterm> that evaluates to a <glossterm>real number</glossterm> or a <glossterm>complex number</glossterm>.
+				The function is defined as: <mathphrase>conj(z) = re(z) - &imag;*im(z)</mathphrase>.
+			</para>
+		</simplesect>
+		<simplesect>
+			<title>See also</title>
+			<para>
+				<simplelist>
+					<member><ulink url="http://en.wikipedia.org/wiki/Complex_conjugation"><orgname>Wikipedia</orgname></ulink></member>
+					<member><ulink url="http://mathworld.wolfram.com/ComplexConjugate.html"><orgname>MathWorld</orgname></ulink></member>
+				</simplelist>
+			</para>
+		</simplesect>
+	</section>
+
+
+	<section id="re" xreflabel="re">
+		<title><markup>re</markup> function</title>
+		<indexterm><primary><function>re</function> function</primary></indexterm>
+		<indexterm><primary>real value</primary></indexterm>
+		<para>
+			Returns the real part of the argument.
+		</para>
+		<simplesect>
+			<title>Syntax</title>
+			<para><mathphrase>re(z)</mathphrase></para>
+		</simplesect>
+		<simplesect>
+			<title>Description</title>
+			<para>
+			  The <function>re</function> function returns the real part of <parameter>z</parameter>.
+				<parameter>z</parameter> may be any <glossterm>numeric expression</glossterm> that evaluates to a <glossterm>real number</glossterm> or a <glossterm>complex number</glossterm>.
+			</para>
+		</simplesect>
+		<simplesect>
+			<title>See also</title>
+			<para>
+				<simplelist>
+					<member><ulink url="http://en.wikipedia.org/wiki/Real_part"><orgname>Wikipedia</orgname></ulink></member>
+					<member><ulink url="http://mathworld.wolfram.com/RealPart.html"><orgname>MathWorld</orgname></ulink></member>
+				</simplelist>
+			</para>
+		</simplesect>
+	</section>
+
+
+	<section id="im" xreflabel="im">
+		<title><markup>im</markup> function</title>
+		<indexterm><primary><function>im</function> function</primary></indexterm>
+		<indexterm><primary>imaginary value</primary></indexterm>
+		<para>
+			Returns the imaginary part of the argument.
+		</para>
+		<simplesect>
+			<title>Syntax</title>
+			<para><mathphrase>im(z)</mathphrase></para>
+		</simplesect>
+		<simplesect>
+			<title>Description</title>
+			<para>
+			  The <function>im</function> function returns the imaginary part of <parameter>z</parameter>.
+				<parameter>z</parameter> may be any <glossterm>numeric expression</glossterm> that evaluates to a <glossterm>real number</glossterm> or a <glossterm>complex number</glossterm>.
+			</para>
+		</simplesect>
+		<simplesect>
+			<title>See also</title>
+			<para>
+				<simplelist>
+					<member><ulink url="http://en.wikipedia.org/wiki/Imaginary_part"><orgname>Wikipedia</orgname></ulink></member>
+					<member><ulink url="http://mathworld.wolfram.com/ImaginaryPart.html"><orgname>MathWorld</orgname></ulink></member>
+				</simplelist>
+			</para>
+		</simplesect>
+	</section>
+</section>

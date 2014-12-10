@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chapter SYSTEM "dtd/dblite.dtd" [
+<!ENTITY % Symbols SYSTEM "Symbols.ent">
+%Symbols;
+]>
+<chapter id="Introduction">
+	<title>What is Graph?</title>
+	<indexterm><primary><application>Graph</application></primary></indexterm>
+	<indexterm><primary>license</primary></indexterm>
+	<indexterm><primary><application>Windows</application></primary></indexterm>
+	<indexterm><primary>open source</primary></indexterm>
+	<indexterm><primary>payment</primary></indexterm>
+	<indexterm><primary>web site</primary></indexterm>
+	<indexterm><primary>email</primary></indexterm>
+	<indexterm><primary>bug report</primary></indexterm>
+	<indexterm><primary><markup>Windows</markup></primary></indexterm>
+	<simplesect>
+		<para>
+			Graph is a program designed to draw graphs of mathematical functions in a coordinate system and similar things.
+			The program is a standard Windows program with menus and dialogs.
+			The program is capable of drawing standard functions, parametric functions, polar functions, tangents, point series, shadings and relations.
+			It is also possible to evaluate a function for a given point, trace a graph with the mouse and much more.
+			For more information on using the program see <xref linkend="HowToUse"/>.
+		</para>
+		<para>
+			Graph is free software; you can redistribute it and/or modify it under the terms of the
+			<ulink url="http://www.gnu.org/licenses/gpl.html"><citetitle>GNU General Public License</citetitle></ulink>.
+			Newest version of the program as well as the source code may be downloaded from <ulink url="http://www.padowan.dk"/>.
+		</para>
+		<para>
+			Graph has been tested under
+			<markup><simplelist type="inline">
+			  <?dbchoice choice="and"?>
+				<member><application>Windows 2000</application></member>
+				<member><application>Windows XP</application></member>
+				<member><application>Windows Vista</application></member>
+				<member><application>Windows 7</application></member>
+			</simplelist></markup>,
+			but there may still be bugs left.
+			If you need help using Graph or have suggestions for future improvements, please use the <ulink url="http://www.padowan.dk/forum">Graph support forum</ulink>.
+		</para>
+		<para>
+			When you send a bug report, please write the following:
+		</para>
+
+		<itemizedlist>
+			<listitem>
+				<para>
+					Which version are you using?
+					This is shown in the <menuchoice><guimenu>Help</guimenu><guimenuitem>About Graph...</guimenuitem></menuchoice> dialog box.
+					You should check that you are using the newest version as the bug may have been fixed already.
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					Explain what happens and what you expected to happen.
+				</para>
+			</listitem>
+			<listitem>
+				<para>
+					Explain carefully how I can reproduce the bug.
+					If I can't see what you see, it is very difficult for me to solve the problem.
+				</para>
+			</listitem>
+		</itemizedlist>
+	</simplesect>
+</chapter>

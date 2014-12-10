@@ -1,0 +1,3919 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Graph\n"
+"POT-Creation-Date: 2012-11-12 22:11\n"
+"PO-Revision-Date: 2012-11-07 21:22+0100\n"
+"Last-Translator: Michael Bach Ipsen <rosenthall@hotmail.com>\n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: dxgettext 1.2.1\n"
+
+#. Form1..Recent1..Hint
+msgid "Open file: %s"
+msgstr "Mở tập tin: %s"
+
+#. Form1..PopupMenu1..Tree_ShowInLegend..Caption
+msgid "Show in legend"
+msgstr "Đưa vào lời chú thích"
+
+#. Form1..PopupMenu1..Tree_ShowInLegend..Hint
+msgid "Check to show the selected item in the legend."
+msgstr "Kiểm tra các mục được lựa chọn để hiển thị trong lời chú thích."
+
+#. Form1..PopupMenu1..Tree_Placement..Caption
+#. Form1..PopupMenu3..Label_Placement..Caption
+#. Form1..PopupMenu4..Legend_Placement..Caption
+#. Form21..Caption
+msgid "Placement"
+msgstr "Vị trí"
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Above..Caption
+#. Form1..PopupMenu3..Label_Placement..Label_Above..Caption
+msgid "Above x-axis"
+msgstr "Bên trên trục x"
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Above....Hint
+#. Form1..PopupMenu3..Label_Placement..Label_Above....Hint
+msgid "Place the label directly above the x-axis on the right side of the image."
+msgstr "Vị trí tên sẽ nằm bên góc phải và ngay bên trên trục x."
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Below..Caption
+#. Form1..PopupMenu3..Label_Placement..Label_Below..Caption
+msgid "Below x-axis"
+msgstr "Bên dưới trục x"
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Below....Hint
+#. Form1..PopupMenu3..Label_Placement..Label_Below....Hint
+msgid "Place the label directly below the x-axis on the right side of the image."
+msgstr "Vị trí tên sẽ nằm bên góc phải và ngay bên dưới trục x."
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Left..Caption
+#. Form1..PopupMenu3..Label_Placement..Label_Left..Caption
+msgid "Left of y-axis"
+msgstr "Bên trái trục y"
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Left....Hint
+#. Form1..PopupMenu3..Label_Placement..Label_Left....Hint
+msgid "Place the label to the left of the y-axis at the top of the image."
+msgstr "Vị trí tên sẽ nằm bên trên và ngay bên trái trục y."
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Right..Caption
+#. Form1..PopupMenu3..Label_Placement..Label_Right..Caption
+msgid "Right of y-axis"
+msgstr "Bên phải trục y"
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Right....Hint
+#. Form1..PopupMenu3..Label_Placement..Label_Right....Hint
+msgid "Place the label to the right of the y-axis at the top of the image."
+msgstr "Vị trí tên sẽ nằm bên trên và ngay bên phải trục y."
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Placement_Custom..Caption
+#. Form1..PopupMenu1..Tree_Rotation..Tree_Rotation_Custom..Caption
+#. Form1..PopupMenu3..Label_Placement..Label_Placement_Custom..Caption
+#. Form1..PopupMenu3..Label_Rotation..Label_Rotation_Custom..Caption
+#. Form11..GroupBox2..ExtColorBox1..CustomName
+#. Form12..GroupBox2..ExtColorBox1..CustomName
+#. Form13..GroupBox1..ExtColorBox1..CustomName
+#. Form14..PageControl1..TabSheet1..GroupBox1..ExtColorBox1..CustomName
+#. Form14..PageControl1..TabSheet1..GroupBox2..ExtColorBox2..CustomName
+#. Form16..PageControl1..TabSheet2..GroupBox3..ExtColorBox1..CustomName
+#. Form3..PageControl1..TabSheet4..GroupBox3..ExtColorBox1..CustomName
+#. Form3..PageControl1..TabSheet4..GroupBox3..ExtColorBox2..CustomName
+#. Form3..PageControl1..TabSheet4..GroupBox3..ExtColorBox3..CustomName
+#. Form5..GroupBox4..GridPanelEx1..ExtColorBox1..CustomName
+#. Form6..ColorBox1..CustomName
+#. Form6..ColorBox2..CustomName
+#. Form7..GroupBox4..ExtColorBox1..CustomName
+msgid "Custom..."
+msgstr "Tùy chọn..."
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Placement_Custom..Hint
+#. Form1..PopupMenu3..Label_Placement..Label_Placement_Custom..Hint
+msgid "Place the label at a custom position."
+msgstr ""
+
+#. Form1..PopupMenu1..Tree_Rotation..Caption
+#. Form1..PopupMenu3..Label_Rotation..Caption
+msgid "Rotation"
+msgstr "Xoay"
+
+#. Form1..PopupMenu1..Tree_Rotation..Tree_Rotation_0..Hint
+#. Form1..PopupMenu3..Label_Rotation..Rotation_0..Hint
+#, fuzzy
+msgid "Show the label with no rotation."
+msgstr "Đổ bóng vùng phía dưới đồ thị hàm số."
+
+#. Form1..PopupMenu1..Tree_Rotation..Tree_Rotation_90..Hint
+#. Form1..PopupMenu3..Label_Rotation..Rotation_90..Hint
+msgid "Show the label rotated 90° counter clockwise."
+msgstr ""
+
+#. Form1..PopupMenu1..Tree_Rotation..Tree_Rotation_180..Hint
+#. Form1..PopupMenu3..Label_Rotation..Rotation_180..Hint
+msgid "Show the label rotated 180°."
+msgstr ""
+
+#. Form1..PopupMenu1..Tree_Rotation..Tree_Rotation_270..Hint
+#. Form1..PopupMenu3..Label_Rotation..Rotation_270..Hint
+msgid "Show the label rotated 270° counter clockwise."
+msgstr ""
+
+#. Form1..PopupMenu1..Tree_Rotation..Tree_Rotation_Custom..Hint
+#. Form1..PopupMenu3..Label_Rotation..Label_Rotation_Custom..Hint
+#, fuzzy
+msgid "Specify the angle of rotation for the label."
+msgstr "Chọn font chữ cho tiêu đề."
+
+#. Form1..PopupMenu1..Tree_Export..Caption
+#. Form14..PopupMenu1..Popup_Export..Caption
+#. Form15..PopupMenu1..Popup1_Export..Caption
+#. Form17..PopupMenu1..Popup_Export..Caption
+msgid "Export to file..."
+msgstr "Xuất thành tập tin..."
+
+#. Form1..PopupMenu1..Tree_Export..Hint
+msgid "Export the selected point series to a file."
+msgstr "Xuất tập hợp điểm đã chọn thành một tập tin."
+
+#. Form1..ActionManager..............Caption
+msgid "Import"
+msgstr "Nhập"
+
+#. Form1..ActionManager..........Caption
+#. Form1..ActionManager..NewAction..Category
+#. Form1..ActionManager..OpenAction..Category
+#. Form1..ActionManager..SaveAction..Category
+#. Form1..ActionManager..SaveAsAction..Category
+#. Form1..ActionManager..SaveCopyAsAction..Category
+#. Form1..ActionManager..SaveAsImageAction..Category
+#. Form1..ActionManager..PrintAction..Category
+#. Form1..ActionManager..ExitAction..Category
+#. Form1..ActionManager..ImportGraphFileAction..Category
+#. Form1..ActionManager..ImportPointSeriesAction..Category
+msgid "File"
+msgstr "Tập tin"
+
+#. Form1..ActionManager..........Caption
+#. Form1..ActionManager..UndoAction..Category
+#. Form1..ActionManager..RedoAction..Category
+#. Form1..ActionManager..CutAction..Category
+#. Form1..ActionManager..CopyAction..Category
+#. Form1..ActionManager..PasteAction..Category
+#. Form1..ActionManager..CopyImageAction..Category
+#. Form1..ActionManager..AxesAction..Category
+#. Form1..ActionManager..OptionsAction..Category
+msgid "Edit"
+msgstr "Chỉnh sửa"
+
+#. Form1..ActionManager..........Caption
+#. Form1..ActionManager..InsertFunctionAction..Category
+#. Form1..ActionManager..InsertTangentAction..Category
+#. Form1..ActionManager..InsertShadeAction..Category
+#. Form1..ActionManager..InsertPointsAction..Category
+#. Form1..ActionManager..InsertTrendlineAction..Category
+#. Form1..ActionManager..EditAction..Category
+#. Form1..ActionManager..DeleteAction..Category
+#. Form1..ActionManager..InsertDifAction..Category
+#. Form1..ActionManager..InsertLabelAction..Category
+#. Form1..ActionManager..InsertRelationAction..Category
+#. Form1..ActionManager..CustomFunctionsAction..Category
+#. ParFuncFrame..ComboBox1..Text
+#. ParFuncFrame..ComboBox1....Items.Strings
+#. PolFuncFrame..ComboBox1..Text
+#. PolFuncFrame..ComboBox1....Items.Strings
+#. StdFuncFrame..ComboBox1..Text
+#. StdFuncFrame..ComboBox1....Items.Strings
+msgid "Function"
+msgstr "Hàm số"
+
+#. Form1..ActionManager..........Caption
+#. Form1..ActionManager..ZoomInAction..Category
+#. Form1..ActionManager..ZoomOutAction..Category
+#. Form1..ActionManager..ZoomWindowAction..Category
+#. Form1..ActionManager..ZoomSquareAction..Category
+#. Form1..ActionManager..ZoomStandardAction..Category
+#. Form1..ActionManager..ZoomFitAction..Category
+#. Form1..ActionManager..ZoomFitAllAction..Category
+#. Form1..ActionManager..ZoomXInAction..Category
+#. Form1..ActionManager..ZoomXOutAction..Category
+#. Form1..ActionManager..ZoomYInAction..Category
+#. Form1..ActionManager..ZoomYOutAction..Category
+msgid "Zoom"
+msgstr "Phóng to / Thu nhỏ"
+
+#. Form1..ActionManager..........Caption
+#. Form1..ActionManager..PathAction..Category
+#. Form1..ActionManager..AreaAction..Category
+#. Form1..ActionManager..EvalAction..Category
+#. Form1..ActionManager..TableAction..Category
+#. Form1..ActionManager..AnimateAction..Category
+#. Form15..Button2..Caption
+msgid "Calc"
+msgstr "Tính"
+
+#. Form1..ActionManager..........Caption
+msgid "Plugins"
+msgstr ""
+
+#. Form1..ActionManager..............Caption
+msgid "Internet"
+msgstr "Internet"
+
+#. Form1..ActionManager..........Caption
+#. Form1..ActionManager..ContentsAction..Category
+#. Form1..ActionManager..ListAction..Category
+#. Form1..ActionManager..HomePageAction..Category
+#. Form1..ActionManager..UpdateAction..Category
+#. Form1..ActionManager..AboutAction..Category
+#. Form1..ActionManager..FaqAction..Category
+#. Form1..ActionManager..DonateAction..Category
+#. Form1..ActionManager..TipAction..Category
+#. Form1..ActionManager..SupportAction..Category
+#. Form1..ActionManager..ScriptDocAction..Category
+#. Form11..Button3..Caption
+#. Form12..Button3..Caption
+#. Form13..Button3..Caption
+#. Form14..Button3..Caption
+#. Form15..Button3..Caption
+#. Form16..Button3..Caption
+#. Form17..Button4..Caption
+#. Form19..Button3..Caption
+#. Form3..Button3..Caption
+#. Form4..Button3..Caption
+#. Form5..Button3..Caption
+#. Form6..Button3..Caption
+#. Form7..Button3..Caption
+msgid "Help"
+msgstr "Trợ giúp"
+
+#. Form1..ActionManager..NewAction..Caption
+msgid "New"
+msgstr "Tạo mới"
+
+#. Form1..ActionManager..NewAction..Hint
+#, fuzzy
+msgid "Create a new coordinate system."
+msgstr "Tạo một hệ tọa độ mới."
+
+#. Form1..ActionManager..OpenAction..Caption
+msgid "Open..."
+msgstr "Mở..."
+
+#. Form1..ActionManager..OpenAction..Hint
+#, fuzzy
+msgid "Read a coordinate system from a file."
+msgstr "Đọc hệ trục và các hàm từ một tập tin."
+
+#. Form1..ActionManager..SaveAction..Caption
+msgid "Save"
+msgstr "Lưu"
+
+#. Form1..ActionManager..SaveAction..Hint
+#, fuzzy
+msgid "Write the current coordinate system to a file."
+msgstr "Ghi hệ trục và các hàm vào một tập tin."
+
+#. Form1..ActionManager..SaveAsAction..Caption
+#. Form20..PopupMenu1..Save1..Caption
+msgid "Save as..."
+msgstr "Lưu lại với tên khác..."
+
+#. Form1..ActionManager..SaveAsAction..Hint
+#, fuzzy
+msgid "Write the current coordinate system to a file with a new name."
+msgstr "Lưu hệ trục với một tên mới."
+
+#. Form1..ActionManager..SaveCopyAsAction..Caption
+msgid "Save copy as..."
+msgstr "Lưu thạng..."
+
+#. Form1..ActionManager..SaveCopyAsAction..Hint
+#, fuzzy
+msgid "Save a copy of the current coordinate system to a file."
+msgstr "Lưu một sao chép của phương trình tọa độ."
+
+#. Form1..ActionManager..SaveAsImageAction..Caption
+msgid "Save as image..."
+msgstr "Lưu thành dạng ảnh"
+
+#. Form1..ActionManager..SaveAsImageAction..Hint
+#, fuzzy
+msgid "Save the shown coordinate system as an image."
+msgstr "Lưu phương trình tọa độ thành dạng ảnh."
+
+#. Form1..ActionManager..PrintAction..Caption
+msgid "Print..."
+msgstr "In..."
+
+#. Form1..ActionManager..PrintAction..Hint
+msgid "Print shown coordinate system."
+msgstr "In."
+
+#. Form1..ActionManager..ExitAction..Caption
+msgid "Exit"
+msgstr "Thoát"
+
+#. Form1..ActionManager..ExitAction..Hint
+msgid "Quit the program."
+msgstr "Thoát khỏi chương trình."
+
+#. Form1..ActionManager..UndoAction..Caption
+#. Form6..PopupMenu1..Popup_Undo..Caption
+msgid "Undo"
+msgstr "Hủy bỏ thao tác"
+
+#. Form1..ActionManager..UndoAction..Hint
+msgid "Undo the last action."
+msgstr "Huỷ bỏ thao tác cuối."
+
+#. Form1..ActionManager..RedoAction..Caption
+#. Form6..PopupMenu1..Popup_Redo..Caption
+msgid "Redo"
+msgstr "Làm lại thao tác"
+
+#. Form1..ActionManager..RedoAction..Hint
+msgid "Redo the last action undone."
+msgstr "Làm lại thao tác cuối cùng bị hủy."
+
+#. Form1..ActionManager..CutAction..Caption
+#. Form14..PopupMenu1..Popup_Cut..Caption
+#. Form17..PopupMenu1..Popup_Cut..Caption
+#. Form6..PopupMenu1..Popup_Cut..Caption
+msgid "Cut"
+msgstr "Cắt"
+
+#. Form1..ActionManager..CutAction..Hint
+#, fuzzy
+msgid "Cut the selected function or point series to the clipboard."
+msgstr "Cắt hàm chọn hoặc tập hợp điểm được chọn vào bộ nhớ."
+
+#. Form1..ActionManager..CopyAction..Caption
+#. Form14..PopupMenu1..Popup_Copy..Caption
+#. Form15..PopupMenu1..Popup1_Copy..Caption
+#. Form17..PopupMenu1..Popup_Copy..Caption
+#. Form6..PopupMenu1..Popup_Copy..Caption
+msgid "Copy"
+msgstr "Sao chép"
+
+#. Form1..ActionManager..CopyAction..Hint
+#, fuzzy
+msgid "Copy the selected function or point series to the clipboard."
+msgstr "Sao chép hàm hoặc tập hợp điểm được chọn vào bộ nhớ."
+
+#. Form1..ActionManager..PasteAction..Caption
+#. Form14..PopupMenu1..Popup_Paste..Caption
+#. Form17..PopupMenu1..Popup_Paste..Caption
+#. Form6..PopupMenu1..Popup_Paste..Caption
+msgid "Paste"
+msgstr "Dán"
+
+#. Form1..ActionManager..PasteAction....Hint
+#, fuzzy
+msgid "Paste a function or point series from the clipboard into the coordinate system."
+msgstr "Dán một hàm hoặc tập hợp điểm từ bộ nhớ tạm vào hệ trục."
+
+#. Form1..ActionManager..CopyImageAction..Caption
+msgid "Copy image"
+msgstr "Sao chép hệ trục"
+
+#. Form1..ActionManager..CopyImageAction..Hint
+#, fuzzy
+msgid "Copy the shown coordinate system to the clipboard."
+msgstr "Sap chép hệ trục đang hiển thị vào bộ nhớ."
+
+#. Form1..ActionManager..AxesAction..Caption
+msgid "Axes..."
+msgstr "Hệ trục"
+
+#. Form1..ActionManager..AxesAction..Hint
+msgid "Edit axes settings."
+msgstr "Chỉnh sửa thông số hệ trục."
+
+#. Form1..ActionManager..OptionsAction..Caption
+#. Form1..SaveDialogEx1..HelpCaption
+#. Form19..Button4..Caption
+msgid "Options..."
+msgstr "Tuỳ chọn..."
+
+#. Form1..ActionManager..OptionsAction..Hint
+msgid "Edit various options for the interface and program features."
+msgstr "Hiệu chỉnh những tùy chọn cho giao diện và các tính năng của chương trình."
+
+#. Form1..ActionManager..InsertFunctionAction..Caption
+msgid "Insert function..."
+msgstr "Chèn Hàm..."
+
+#. Form1..ActionManager..InsertFunctionAction..Hint
+msgid "Insert a new function."
+msgstr "Chèn một hàm mới."
+
+#. Form1..ActionManager..InsertTangentAction..Caption
+msgid "Insert tangent/normal..."
+msgstr "Chèn tiếp tuyến/đường thẳng..."
+
+#. Form1..ActionManager..InsertTangentAction..Hint
+msgid "Insert a tangent or normal for the selected function."
+msgstr "Chèn một tiếp tuyến hoặc một đường thẳng vào hàm được chọn."
+
+#. Form1..ActionManager..InsertShadeAction..Caption
+#, fuzzy
+msgid "Insert shading..."
+msgstr "Chèn bóng..."
+
+#. Form1..ActionManager..InsertShadeAction..Hint
+msgid "Add shading to the selected function."
+msgstr "Chèn bóng vào hàm được chọn."
+
+#. Form1..ActionManager..InsertPointsAction..Caption
+msgid "Insert point series..."
+msgstr "Chèn tập hợp điểm..."
+
+#. Form1..ActionManager..InsertPointsAction..Hint
+msgid "Insert a point series."
+msgstr "Chèn một tập hợp điểm."
+
+#. Form1..ActionManager..InsertTrendlineAction..Caption
+msgid "Insert trendline..."
+msgstr "Chèn đường thích hợp..."
+
+#. Form1..ActionManager..InsertTrendlineAction..Hint
+msgid "Insert a curve of best fit for the selected point series."
+msgstr "Chèn một đường thích hợp nhất cho một tập hợp điểm được chọn."
+
+#. Form1..ActionManager..EditAction..Caption
+msgid "Edit..."
+msgstr "Chỉnh sửa hệ trục..."
+
+#. Form1..ActionManager..EditAction..Hint
+msgid "Edit the selected element: Function, tangent, point series, etc."
+msgstr "Chỉnh sửa: hàm, tiếp tuyến, tập hợp điểm, v.v..."
+
+#. Form1..ActionManager..DeleteAction..Caption
+#. Form14..PopupMenu1..Popup_Delete..Caption
+#. Form17..PopupMenu1..Popup_Delete..Caption
+msgid "Delete"
+msgstr "Xóa"
+
+#. Form1..ActionManager..DeleteAction..Hint
+msgid "Delete the selected function, tangent or point series."
+msgstr "Xóa hàm, tiếp tuyến hoặc tập hợp điểm đang được chọn"
+
+#. Form1..ActionManager..InsertDifAction..Caption
+msgid "Insert f'(x)..."
+msgstr "Chèn f'(x)"
+
+#. Form1..ActionManager..InsertDifAction..Hint
+msgid "Insert the first derivative of the selected function."
+msgstr "Chèn đạo hàm cấp 1 vào hàm số được chọn."
+
+#. Form1..ActionManager..ZoomInAction..Caption
+msgid "In"
+msgstr "Phóng to"
+
+#. Form1..ActionManager..ZoomInAction..Hint
+msgid "Zoom in. Hold down Shift to zoom with larger steps."
+msgstr ""
+
+#. Form1..ActionManager..ZoomOutAction..Caption
+msgid "Out"
+msgstr "Thu nhỏ"
+
+#. Form1..ActionManager..ZoomOutAction..Hint
+msgid "Zoom out. Hold down Shift to zoom with larger steps."
+msgstr ""
+
+#. Form1..ActionManager..ZoomWindowAction..Caption
+msgid "Window"
+msgstr "Vùng"
+
+#. Form1..ActionManager..ZoomWindowAction..Hint
+msgid "Zoom to user selected window."
+msgstr "Phóng to/thu nhỏ một vùng được chọn."
+
+#. Form1..ActionManager..ZoomSquareAction..Caption
+msgid "Square"
+msgstr "Đều"
+
+#. Form1..ActionManager..ZoomSquareAction....Hint
+msgid "Zoom to scale the axes equally. This will show a plotted circle in its correct relation instead of an ellipse."
+msgstr "Phóng to/Thu nhỏ để tỉ lệ của hai trục bằng nhau. Chức năng này sẽ hiên thị một đường tròn đúng hình dạng thay vì một hình elip."
+
+#. Form1..ActionManager..ZoomStandardAction..Caption
+msgid "Standard"
+msgstr "Mặc định"
+
+#. Form1..ActionManager..ZoomStandardAction..Hint
+#, fuzzy
+msgid "Reset the axes to their default settings."
+msgstr "Thiết lập những biểu tượng trên thanh công cụ theo cài đặt ban đầu."
+
+#. Form1..ActionManager..MoveUpAction..Category
+#. Form1..ActionManager..MoveDownAction..Category
+#. Form1..ActionManager..MoveLeftAction..Category
+#. Form1..ActionManager..MoveRightAction..Category
+#. Form1..ActionManager..MoveAction..Category
+msgid "Move"
+msgstr "Di chuyển"
+
+#. Form1..ActionManager..MoveUpAction..Caption
+msgid "Move up"
+msgstr "Di chuyển lên"
+
+#. Form1..ActionManager..MoveUpAction....Hint
+#, fuzzy
+msgid "Move the graphing area up along the coordinate system. Hold down Shift to move in larger steps."
+msgstr "Di chuyển cửa sổ lên phía trên dọc theo hệ trục."
+
+#. Form1..ActionManager..MoveDownAction..Caption
+msgid "Move down"
+msgstr "Di chuyển xuống"
+
+#. Form1..ActionManager..MoveDownAction....Hint
+#, fuzzy
+msgid "Move the graphing area down along the coordinate system. Hold down Shift to move in larger steps."
+msgstr "Di chuyển cửa số xuống dọc theo hệ trục tọa độ."
+
+#. Form1..ActionManager..MoveLeftAction..Caption
+msgid "Move left"
+msgstr "Di chuyển sang trái"
+
+#. Form1..ActionManager..MoveLeftAction....Hint
+#, fuzzy
+msgid "Move the graphing area to the left along the coordinate system. Hold down Shift to move in larger steps."
+msgstr "Di chuyển cửa số sang trái dọc theo hệ trục tọa độ."
+
+#. Form1..ActionManager..MoveRightAction..Caption
+msgid "Move right"
+msgstr "Di chuyển sang phải"
+
+#. Form1..ActionManager..MoveRightAction....Hint
+#, fuzzy
+msgid "Move the graphing area to the right along the coordinate system. Hold down Shift to move in larger steps."
+msgstr "Di chuyển cửa số sang phải dọc theo hệ trục tọa độ."
+
+#. Form1..ActionManager..MoveAction..Caption
+msgid "Move system"
+msgstr "Di chuyển hệ trục"
+
+#. Form1..ActionManager..MoveAction..Hint
+msgid "Move the coordinate system with the mouse."
+msgstr "Di chuyển hệ trục bằng chuột."
+
+#. Form1..ActionManager..PathAction..Caption
+msgid "Length of path"
+msgstr "Độ dài đường cong"
+
+#. Form1..ActionManager..PathAction....Hint
+#, fuzzy
+msgid "Calculate the length of path between two given points on the curve."
+msgstr "Tính toán độ dài của đường cong giữa 2 điểm cho trước."
+
+#. Form1..ActionManager..AreaAction..Caption
+#. AreaFrame..GridPanel1..Label3..Caption
+msgid "Area"
+msgstr "Diện tích"
+
+#. Form1..ActionManager..AreaAction..Hint
+#, fuzzy
+msgid "Calculate the definite integral over a given interval."
+msgstr "Bảng tính"
+
+#. Form1..ActionManager..EvalAction..Caption
+#. Form9..Caption
+msgid "Evaluate"
+msgstr "Thông số liên quan"
+
+#. Form1..ActionManager..EvalAction..Hint
+msgid "Evaluate or trace the selected function."
+msgstr "Đánh giá các thông số liên quan trên đồ thị hàm số."
+
+#. Form1..ActionManager..TableAction..Caption
+#, fuzzy
+msgid "Table"
+msgstr "Bảng..."
+
+#. Form1..ActionManager..TableAction..Hint
+#, fuzzy
+msgid "Show an evaluation table."
+msgstr "Hiển thị bảng nghiệm."
+
+#. Form1..ActionManager..ContentsAction..Caption
+msgid "Contents and index"
+msgstr "Mục lục"
+
+#. Form1..ActionManager..ContentsAction..Hint
+msgid "Open help file."
+msgstr "Mở tập tin trợ giúp."
+
+#. Form1..ActionManager..ListAction..Caption
+msgid "List of functions"
+msgstr "Danh sách các hàm"
+
+#. Form1..ActionManager..ListAction..Hint
+#, fuzzy
+msgid "Show a list of built-in functions that can be used for graphing."
+msgstr "Hiển thị danh sách các hàm được sử dụng."
+
+#. Form1..ActionManager..HomePageAction..Caption
+#, fuzzy
+msgid "Graph web site"
+msgstr "Thuộc tính đồ thị"
+
+#. Form1..ActionManager..HomePageAction..Hint
+#, fuzzy
+msgid "Open the default browser and show the Graph web site."
+msgstr "Mở trình duyệt và hiển thị trang chủ của chương trình Graph."
+
+#. Form1..ActionManager..UpdateAction..Caption
+msgid "Check for update"
+msgstr "Cập nhật phiên bản mới"
+
+#. Form1..ActionManager..UpdateAction..Hint
+msgid "Contact the home page to see if a newer version is available."
+msgstr "Kết nối tới trang chủ của Graph để xem có phiên bản mới hay chưa."
+
+#. Form1..ActionManager..AboutAction..Caption
+#. Form2..Caption
+msgid "About Graph"
+msgstr "Thông tin về Graph"
+
+#. Form1..ActionManager..AboutAction..Hint
+msgid "Show copyright information."
+msgstr "Thông tin bản quyền."
+
+#. Form1..ActionManager..SeparatorAction..Category
+#. Form1..ActionManager..SeparatorAction..Caption
+msgid "Separator"
+msgstr "Đường phân cách"
+
+#. Form1..ActionManager..ZoomFitAction..Caption
+msgid "Fit"
+msgstr "Vừa vặn"
+
+#. Form1..ActionManager..ZoomFitAction..Hint
+#, fuzzy
+msgid "Zoom to show the selected element."
+msgstr "Phóng to, thu nhỏ để hiển thị toàn bộ đồ thị hàm số"
+
+#. Form1..ActionManager..ZoomFitAllAction..Caption
+#, fuzzy
+msgid "Fit all"
+msgstr "Vừa vặn"
+
+#. Form1..ActionManager..ZoomFitAllAction..Hint
+#, fuzzy
+msgid "Zoom to show all elements."
+msgstr "Phóng to, thu nhỏ để hiển thị toàn bộ đồ thị hàm số"
+
+#. Form1..ActionManager..FaqAction..Caption
+msgid "Frequently Asked Questions"
+msgstr "Những câu hỏi thường gặp"
+
+#. Form1..ActionManager..FaqAction..Hint
+#, fuzzy
+msgid "Show a list of frequently asked questions and their answers."
+msgstr "Hiển thị những câu hỏi thường gặp và câu trả lời."
+
+#. Form1..ActionManager..InsertLabelAction..Caption
+msgid "Insert label..."
+msgstr "Chèn nhãn..."
+
+#. Form1..ActionManager..InsertLabelAction..Hint
+#, fuzzy
+msgid "Insert a text label."
+msgstr "Chèn nhãn..."
+
+#. Form1..ActionManager..DonateAction..Caption
+msgid "Donate"
+msgstr "Đóng góp"
+
+#. Form1..ActionManager..DonateAction..Hint
+msgid "Donate money to the project."
+msgstr "Đóng góp tiền để hỗ trợ cho tác giả chương trình."
+
+#. Form1..ActionManager..TipAction..Caption
+#. Form10..Caption
+#. Form10..Panel1..LinkLabel1..Caption
+msgid "Tip of the day"
+msgstr "Hướng dẫn nhanh"
+
+#. Form1..ActionManager..TipAction..Hint
+msgid "Show tip of the day"
+msgstr "Hiển thị hướng dẫn nhanh."
+
+#. Form1..ActionManager..SupportAction..Caption
+msgid "Support"
+msgstr "Hỗ trợ"
+
+#. Form1..ActionManager..SupportAction..Hint
+msgid "Open browser with the support page for the program."
+msgstr "Mở trang web hỗ trợ cho chương trình."
+
+#. Form1..ActionManager..ZoomXInAction..Caption
+msgid "Zoom x-axis in"
+msgstr "Phóng to trục x"
+
+#. Form1..ActionManager..ZoomXInAction....Hint
+msgid "Zoom in on the x-axis only. Hold down Shift to zoom with larger steps."
+msgstr ""
+
+#. Form1..ActionManager..ZoomXOutAction..Caption
+msgid "Zoom x-axis out"
+msgstr "Thu nhỏ trục x"
+
+#. Form1..ActionManager..ZoomXOutAction....Hint
+msgid "Zoom out on the x-axis only. Hold down Shift to zoom with larger steps."
+msgstr ""
+
+#. Form1..ActionManager..ZoomYInAction..Caption
+msgid "Zoom y-axis in"
+msgstr "Phóng to trục y"
+
+#. Form1..ActionManager..ZoomYInAction....Hint
+msgid "Zoom in on the y-axis only. Hold down Shift to zoom with larger steps."
+msgstr ""
+
+#. Form1..ActionManager..ZoomYOutAction..Caption
+msgid "Zoom y-axis out"
+msgstr "Thu nhỏ trục y"
+
+#. Form1..ActionManager..ZoomYOutAction....Hint
+msgid "Zoom out on the y-axis only. Hold down Shift to zoom with larger steps."
+msgstr ""
+
+#. Form1..ActionManager..InsertRelationAction..Caption
+msgid "Insert relation..."
+msgstr "Chèn vào mối quan hệ..."
+
+#. Form1..ActionManager..InsertRelationAction..Hint
+msgid "Insert a new equation or inequality."
+msgstr "Chèn vào một bất phương trình"
+
+#. Form1..ActionManager..CustomFunctionsAction..Caption
+#, fuzzy
+msgid "Custom functions/constants..."
+msgstr "Tùy chỉnh hàm/hằng"
+
+#. Form1..ActionManager..CustomFunctionsAction..Hint
+msgid "Create custom functions and constants for use in graphs."
+msgstr "Tạo tùy chỉnh hàm số và hằng số được sử dụng trong Graph."
+
+#. Form1..ActionManager..AnimateAction..Caption
+msgid "Animate..."
+msgstr "Hiệu ứng..."
+
+#. Form1..ActionManager..AnimateAction..Hint
+msgid "Create an animation by variating a constant."
+msgstr "Tạo hiệu ứng bằng cách thay đổi giá trị hằng số."
+
+#. Form1..ActionManager..ImportGraphFileAction..Caption
+msgid "Graph file..."
+msgstr "Tập tin Graph..."
+
+#. Form1..ActionManager..ImportGraphFileAction..Hint
+msgid "Import a Graph file into the current coordinate system."
+msgstr "Nhập một tập tin Graph vào hệ trục hiện hành."
+
+#. Form1..ActionManager..ImportPointSeriesAction..Caption
+msgid "Point series..."
+msgstr "Tập hợp điểm..."
+
+#. Form1..ActionManager..ImportPointSeriesAction..Hint
+msgid "Import point series from a data file."
+msgstr "Nhập tập hợp điểm từ một tập tin dữ liệu."
+
+#. Form1..ActionManager..ScriptDocAction..Caption
+msgid "Scripting engine documentation"
+msgstr ""
+
+#. Form1..ActionManager..ScriptDocAction..Hint
+msgid "Show documentation for scripting engine and plugin system."
+msgstr ""
+
+#. Form1..PopupMenu2..ToolBar_Reset..Caption
+msgid "Reset to default"
+msgstr "Thiết lập lại giá trị mặc định"
+
+#. Form1..PopupMenu2..ToolBar_Reset..Hint
+msgid "Reset the toolbar icons to the installation default."
+msgstr "Thiết lập những biểu tượng trên thanh công cụ theo cài đặt ban đầu."
+
+#. Form1..PopupMenu2..ToolBar_Customize..Caption
+msgid "Customize toolbar..."
+msgstr "Tùy chỉnh thanh công cụ..."
+
+#. Form1..PopupMenu2..ToolBar_Customize..Hint
+msgid "Customize the icons shown on the toolbar."
+msgstr "Tùy chỉnh những biểu tượng hiển thị trên thanh công cụ."
+
+#. Form1..PopupMenu3..Label_Edit..Caption
+msgid "Edit label..."
+msgstr "Chỉnh sửa tên..."
+
+#. Form1..PopupMenu3..Label_Edit..Hint
+msgid "Edit the label under the cursor."
+msgstr "Chỉnh sửa tên bên dưới con trỏ chuột."
+
+#. Form1..PopupMenu3..Label_Delete..Caption
+msgid "Delete label"
+msgstr "Xóa tên"
+
+#. Form1..PopupMenu3..Label_Delete..Hint
+msgid "Delete the label under the cursor."
+msgstr "Xóa tên bên dưới con trỏ chuột."
+
+#. Form1..PopupMenu4..Legend_Show..Caption
+#. Form3..PageControl1..TabSheet3..CheckBox15..Caption
+msgid "Show legend"
+msgstr "Hiển thị lời chú giải"
+
+#. Form1..PopupMenu4..Legend_Show..Hint
+#. Form3..PageControl1..TabSheet3..CheckBox15..Hint
+msgid "Select to show a legend in the coordinate system."
+msgstr "Chọn hiển thị chú giải trên hệ trục."
+
+#. Form1..PopupMenu4..Legend_Font..Caption
+msgid "Font..."
+msgstr "Font chữ..."
+
+#. Form1..PopupMenu4..Legend_Font..Hint
+msgid "Change the font of the legend."
+msgstr "Thay đổi font chữ của lời chú thích."
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_TopRight..Caption
+#. Form3..PageControl1..TabSheet3..RadioGroup3....Items.Strings
+msgid "Top Right"
+msgstr "Trên phải"
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_TopRight..Hint
+msgid "Show the legend in the upper right corner."
+msgstr "Hiển thị ghi chú ở góc trên bên phải."
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_BottomRight..Caption
+#. Form3..PageControl1..TabSheet3..RadioGroup3....Items.Strings
+msgid "Bottom Right"
+msgstr "Dưới phải"
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_BottomRight..Hint
+msgid "Show the legend in the bottom right corner."
+msgstr "Hiển thị ghi chú ở góc dưới bên phải."
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_TopLeft..Caption
+#. Form3..PageControl1..TabSheet3..RadioGroup3....Items.Strings
+msgid "Top Left"
+msgstr "Trên trái"
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_TopLeft..Hint
+msgid "Show the legend in the upper left corner."
+msgstr "Hiển thị ghi chú ở góc trên bên trái."
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_BottomLeft..Caption
+#. Form3..PageControl1..TabSheet3..RadioGroup3....Items.Strings
+msgid "Bottom Left"
+msgstr "Dưới trái"
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_BottomLeft..Hint
+msgid "Show the legend in the bottom left corner."
+msgstr "Hiển thị ghi chú ở góc dưới bên trái"
+
+#. Form10..Button1..Caption
+#. Form15..Button1..Caption
+#. Form19..Button2..Caption
+msgid "Close"
+msgstr "Đóng"
+
+#. Form10..Button2..Caption
+msgid "Next tip"
+msgstr "Tiếp theo"
+
+#. Form10..Button3..Caption
+msgid "Previous tip"
+msgstr "Trước đó"
+
+#. Form10..CheckBox1..Caption
+msgid "Show tips at startup"
+msgstr "Hiển thị hướng dẫn nhanh lúc khởi động"
+
+#. Form10..Panel1..Label1..Caption
+msgid "Did you know..."
+msgstr "Bạn có biết...."
+
+#. Form11..Caption
+msgid "Insert relation"
+msgstr "Chèn vào mối quan hệ"
+
+#. Form11..Label1..Caption
+msgid "Relation:"
+msgstr "Mối quan hệ:"
+
+#. Form11..Label2..Caption
+msgid "Constraints:"
+msgstr "Ràng buộc:"
+
+#. Form11..Button1..Caption
+#. Form12..Button1..Caption
+#. Form13..Button1..Caption
+#. Form14..Button1..Caption
+#. Form16..Button1..Caption
+#. Form17..Button1..Caption
+#. Form18..Button1..Caption
+#. Form2..Button1..Caption
+#. Form21..TntButton1..Caption
+#. Form3..Button1..Caption
+#. Form4..Button1..Caption
+#. Form5..Button1..Caption
+#. Form6..Button1..Caption
+#. Form7..Button1..Caption
+#. Form8..Button1..Caption
+#. PrintFrm..Button1..Caption
+msgid "OK"
+msgstr "Đồng ý"
+
+#. Form11..Button2..Caption
+#. Form12..Button2..Caption
+#. Form13..Button2..Caption
+#. Form14..Button2..Caption
+#. Form15..ProgressForm1..ButtonCaption
+#. Form16..Button2..Caption
+#. Form17..Button2..Caption
+#. Form18..Button2..Caption
+#. Form19..ProgressForm1..ButtonCaption
+#. Form21..TntButton2..Caption
+#. Form3..Button2..Caption
+#. Form4..Button2..Caption
+#. Form5..Button2..Caption
+#. Form6..Button2..Caption
+#. Form7..Button2..Caption
+#. Form8..Button2..Caption
+#. PrintFrm..Button2..Caption
+msgid "Cancel"
+msgstr "Hủy"
+
+#. Form11..GroupBox1..Caption
+#. Form12..GroupBox1..Caption
+#. Form5..GroupBox3..Caption
+#. Form7..GroupBox3..Caption
+msgid "Legend text"
+msgstr "Ghi chú:"
+
+#. Form11..GroupBox1..Label10..Caption
+#. Form12..GroupBox1..Label10..Caption
+#. Form14..Label3..Caption
+#. Form16..PageControl1..TabSheet2..Label12..Caption
+#. Form5..GroupBox3..Label10..Caption
+#. Form7..GroupBox3..Label10..Caption
+msgid "Description:"
+msgstr "Ghi chú:"
+
+#. Form11..GroupBox1..Edit3....Hint
+#. Form5..GroupBox3..Edit7....Hint
+#, fuzzy
+msgid "Write a descriptive text to show in the legend and function list. If empty the formula will be used."
+msgstr "Nơi nhập vào phần ghi chú. Nếu để trống sẽ hiển thị phương trình."
+
+#. Form11..GroupBox2..Caption
+#. Form16..PageControl1..TabSheet2..GroupBox3..Caption
+#. PrintFrm..GroupBox1..Button3..Caption
+msgid "Properties"
+msgstr "Thuộc tính"
+
+#. Form11..GroupBox2..Label7..Caption
+#. Form13..GroupBox1..Label7..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox1..Label1..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox2..Label5..Caption
+#. Form16..PageControl1..TabSheet2..GroupBox3..Label4..Caption
+msgid "Style:"
+msgstr "Kiểu:"
+
+#. Form11..GroupBox2..Label9..Caption
+#. Form12..GroupBox2..Label9..Caption
+#. Form13..GroupBox1..Label6..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox1..Label2..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox2..Label6..Caption
+#. Form16..PageControl1..TabSheet2..GroupBox3..Label5..Caption
+#. Form5..GroupBox4..GridPanelEx1..Label9..Caption
+#. Form7..GroupBox4..Label9..Caption
+msgid "Color:"
+msgstr "Màu:"
+
+#. Form11..GroupBox2..Label3..Caption
+#. Form12..GroupBox2..Label8..Caption
+#. Form13..GroupBox1..Label5..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox2..Label7..Caption
+#. Form5..GroupBox4..GridPanelEx1..Label8..Caption
+#. Form7..GroupBox4..Label8..Caption
+msgid "Width:"
+msgstr "Rộng:"
+
+#. Form11..GroupBox2..ShadeSelect1....Hint
+msgid "Select the style used for drawing the inequality. Not used for equations."
+msgstr "Chọn kiểu để vẽ bất phương trình. Không áp dụng cho phương trình."
+
+#. Form11..GroupBox2..ExtColorBox1..Hint
+msgid "Select the color for drawing the relation."
+msgstr "Chọn màu."
+
+#. Form11..GroupBox2..Panel1..Edit4....Hint
+msgid "Width in pixels of the equation line or the borderline of the inequality."
+msgstr "Độ rộng theo điểm ảnh của đồ thị phương trình hoặc viền của đồ thị bất phương trình."
+
+#. Form11..Edit1..Hint
+msgid "Enter the relation, for example \"x^2+y^2 = 25\" or \"y < sin(x)\""
+msgstr "Nhập vào mối quan hệ, ví dụ \"x^2+y^2 = 25\" hoặc \"y < sin(x)\""
+
+#. Form11..Edit2....Hint
+msgid "Enter constraints for the relation, for example \"x > 0 and y < 5\""
+msgstr "Nhập vào ràng buộc cho mối quan hệ, ví dụ \"x > 0 và y < 5\""
+
+#. Form12..Caption
+msgid "Insert tangent/normal"
+msgstr "Chèn tiếp tuyến/đường thẳng"
+
+#. Form12..Edit1..Hint
+#, fuzzy
+msgid "Value where the tangent/normal will interact with the function."
+msgstr "Tọa độ giao điểm của tiếp tuyến/đường thẳng và đồ thị hàm số."
+
+#. Form12..RadioGroup1..Hint
+msgid "Choose if you want a tangent or a normal."
+msgstr "Chọn tiếp tuyến hoặc đường thẳng."
+
+#. Form12..RadioGroup1..Caption
+msgid "Type"
+msgstr "Loại"
+
+#. Form12..RadioGroup1....Items.Strings
+msgid "Tangent"
+msgstr "Tiếp tuyến"
+
+#. Form12..RadioGroup1....Items.Strings
+msgid "Normal"
+msgstr "Đường thẳng"
+
+#. Form12..GroupBox1..Edit2....Hint
+#. Form7..GroupBox3..Edit3....Hint
+msgid "Write a descriptive text to show in the legend. If empty the equation will be used."
+msgstr "Nơi nhập vào phần ghi chú. Nếu để trống sẽ hiển thị phương trình."
+
+#. Form12..GroupBox2..Caption
+#. Form5..GroupBox4..Caption
+#. Form7..GroupBox4..Caption
+msgid "Graph properties"
+msgstr "Thuộc tính đồ thị"
+
+#. Form12..GroupBox2..Label7..Caption
+#. Form5..GroupBox4..GridPanelEx1..Label7..Caption
+#. Form7..GroupBox4..Label7..Caption
+msgid "Line style:"
+msgstr "Kiểu đường:"
+
+#. Form12..GroupBox2..Edit3..Hint
+#. Form13..GroupBox1..Edit2..Hint
+#. Form5..GroupBox4..GridPanelEx1..Panel1..Edit6..Hint
+#. Form7..GroupBox4..Edit4..Hint
+msgid "Width of graph in pixels."
+msgstr "Độ rộng đồ thị theo điểm ảnh."
+
+#. Form12..GroupBox2..LineSelect1..Hint
+#. Form13..GroupBox1..LineSelect1..Hint
+#. Form5..GroupBox4..GridPanelEx1..LineSelect1..Hint
+#. Form7..GroupBox4..LineSelect1..Hint
+msgid "Choose which line style to use for drawing the graph."
+msgstr "Chọn kiểu đường để vẽ đồ thị."
+
+#. Form12..GroupBox2..ExtColorBox1..Hint
+#. Form13..GroupBox1..ExtColorBox1..Hint
+#. Form5..GroupBox4..GridPanelEx1..ExtColorBox1..Hint
+#. Form7..GroupBox4..ExtColorBox1..Hint
+msgid "Select the color of the graph."
+msgstr "Chọn màu vẽ đồ thị."
+
+#. Form12..GroupBox3..Caption
+#. Form5..GroupBox2..Caption
+#. Form7..GroupBox2..Caption
+msgid "Argument range"
+msgstr "Khoảng đối số"
+
+#. Form12..GroupBox3..Label4..Caption
+#. Form15..Label1..Caption
+#. Form16..PageControl1..TabSheet2..GroupBox1..Label6..Caption
+#. Form16..PageControl1..TabSheet3..GroupBox2..Label8..Caption
+#. Form19..TntGroupBox1..Label2..Caption
+#. Form5..GroupBox2..Label4..Caption
+#. Form7..GroupBox2..Label4..Caption
+#. AreaFrame..GridPanel1..Label1..Caption
+msgid "From:"
+msgstr "Từ:"
+
+#. Form12..GroupBox3..Label5..Caption
+#. Form15..Label2..Caption
+#. Form16..PageControl1..TabSheet2..GroupBox1..Label7..Caption
+#. Form16..PageControl1..TabSheet3..GroupBox2..Label9..Caption
+#. Form19..TntGroupBox1..Label3..Caption
+#. Form5..GroupBox2..Label5..Caption
+#. Form7..GroupBox2..Label5..Caption
+#. AreaFrame..GridPanel1..Label2..Caption
+msgid "To:"
+msgstr "Đến:"
+
+#. Form12..GroupBox3..Edit4..Hint
+#. Form5..GroupBox2..Edit3..Hint
+#. Form7..GroupBox2..Edit1..Hint
+msgid "Start of range interval for the used variable."
+msgstr "Điểm đầu của khoảng đối số."
+
+#. Form12..GroupBox3..Edit5..Hint
+#. Form5..GroupBox2..Edit4..Hint
+#. Form7..GroupBox2..Edit2..Hint
+msgid "End of range interval for the used variable."
+msgstr "Điểm cuối của khoảng đối số."
+
+#. Form12..GroupBox5..Caption
+#. Form5..GroupBox5..Caption
+msgid "Endpoints"
+msgstr "Các điểm đầu cuối"
+
+#. Form12..GroupBox5..Label11..Caption
+#. Form5..GroupBox5..Label11..Caption
+msgid "Start:"
+msgstr "Điểm đầu:"
+
+#. Form12..GroupBox5..Label12..Caption
+#. Form5..GroupBox5..Label12..Caption
+msgid "End:"
+msgstr "Điểm cuối:"
+
+#. Form12..GroupBox5..ComboBox1....Hint
+#. Form5..GroupBox5..ComboBox2....Hint
+msgid "Select marker to show at the start of the interval. Only used if an argument range is specified."
+msgstr "Chọn để đánh dấu điểm đầu của khoảng đối số. Chỉ sử dụng được khi có khoảng đối số."
+
+#. Form12..GroupBox5..ComboBox2....Hint
+#. Form5..GroupBox5..ComboBox3....Hint
+msgid "Select marker to show at the end of the interval. Only used if an argument range is specified."
+msgstr "Chọn để đánh dấu điểm cuối của khoảng đối số. Chỉ sử dụng được khi có khoảng đối số."
+
+#. Form13..Caption
+msgid "Insert trendline"
+msgstr "Chèn đường thích hợp"
+
+#. Form13..GroupBox1..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox2..Caption
+msgid "Line"
+msgstr "Đường"
+
+#. Form13..PageControl1..TabSheet1..Caption
+msgid "Built-in"
+msgstr "Đối tượng có sẵn"
+
+#. Form13..PageControl1..TabSheet1..Panel1..Image1..Hint
+msgid "Create a linear function: f(x)=ax+b"
+msgstr "Hàm tuyến tính: f(x)=ax+b"
+
+#. Form13..PageControl1..TabSheet1..Panel2..Image2..Hint
+msgid "Create a logarithmic function: f(x)=a*ln(x)+b"
+msgstr "Hàm logarit: f(x)=a*ln(x)+b"
+
+#. Form13..PageControl1..TabSheet1..Panel3..Image3..Hint
+msgid "Create a polynomial function: f(x)=ax^3+bx^2+cx+d"
+msgstr "Hàm bậc 3: f(x)=ax^3+bx^2+cx+d"
+
+#. Form13..PageControl1..TabSheet1..Panel4..Image4..Hint
+msgid "Create a power function: f(x)=ax^b"
+msgstr "Hàm lũy thừa: f(x)=ax^b"
+
+#. Form13..PageControl1..TabSheet1..Panel5..Image5..Hint
+msgid "Create a exponential function: f(x)=a*b^x"
+msgstr "Hàm mũ: f(x)=a*b^x"
+
+#. Form13..PageControl1..TabSheet1..StaticText1..Caption
+msgid "Order:"
+msgstr "Bậc:"
+
+#. Form13..PageControl1..TabSheet1..RadioButton3..Caption
+msgid "Polynomial"
+msgstr "Đa thức"
+
+#. Form13..PageControl1..TabSheet1..RadioButton2..Caption
+msgid "Logarithmic"
+msgstr "Logarit"
+
+#. Form13..PageControl1..TabSheet1..RadioButton1..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox2..ComboBox2....Items.Strings
+msgid "Linear"
+msgstr "Tuyến tính"
+
+#. Form13..PageControl1..TabSheet1..RadioButton4..Caption
+msgid "Power"
+msgstr "Lũy thừa"
+
+#. Form13..PageControl1..TabSheet1..RadioButton5..Caption
+msgid "Exponential"
+msgstr "Mũ"
+
+#. Form13..PageControl1..TabSheet1..Panel6..Image6..Hint
+msgid "Create a moving average as a series of straight lines."
+msgstr "Tạo một đường trung bình qua tập hợp các điểm cho trước."
+
+#. Form13..PageControl1..TabSheet1..RadioButton6..Caption
+msgid "Moving average"
+msgstr "Đường trung bình"
+
+#. Form13..PageControl1..TabSheet1..StaticText2..Caption
+msgid "Period:"
+msgstr "Chu kỳ:"
+
+#. Form13..PageControl1..TabSheet1..Edit4..Hint
+msgid "Determines how many points are used for the average."
+msgstr "Xác định số điểm sẽ được sử dụng để tính trung bình."
+
+#. Form13..PageControl1..TabSheet1..Edit1..Hint
+msgid "The order of the polynomium. For example 2 means a parable."
+msgstr "Bậc của đa thức. Ví dụ: bậc 2 là parabol."
+
+#. Form13..PageControl1..TabSheet2..Caption
+msgid "User defined"
+msgstr "Người sử dụng tự định nghĩa"
+
+#. Form13..PageControl1..TabSheet2..Label1..Caption
+msgid "Model:"
+msgstr "Có dạng:"
+
+#. Form13..PageControl1..TabSheet2..Button4..Caption
+#. Form8..Caption
+msgid "Add model"
+msgstr "Thêm"
+
+#. Form13..PageControl1..TabSheet2..Button5..Caption
+msgid "Remove model"
+msgstr "Xóa"
+
+#. Form13..PageControl1..TabSheet2..Button6..Caption
+msgid "Edit model"
+msgstr "Chỉnh sửa"
+
+#. Form13..PageControl1..TabSheet2..Edit3..Hint
+msgid "Enter a function model to base the trendline on."
+msgstr "Nhập vào kiểu hàm số của đường thích hợp."
+
+#. Form13..CheckBox1....Hint
+#. Form13..Edit5....Hint
+msgid "Type a value in the Intercept box to specify the point where you want the trendline to meet the y-axis. This is only available for linear, polynomial and exponential trendlines."
+msgstr "Nhập giá trị vào ô Phân cắt để xác định giao điểm của đường thích hợp và trục y. Chức năng này dành cho đường thích hợp dạng tuyến tính, đa thức và mũ."
+
+#. Form13..CheckBox1..Caption
+msgid "Intercept ="
+msgstr "Phân cắt = "
+
+#. Form13..TntPopupMenu1..Popup_Import..Caption
+#. Form14..PopupMenu1..Popup_Import..Caption
+#. Form17..PopupMenu1..Popup_Import..Caption
+msgid "Import from file..."
+msgstr "Nhập vào từ tập tin có sẵn..."
+
+#. Form13..TntPopupMenu1..Popup_Import..Hint
+#, fuzzy
+msgid "Import user models from a file."
+msgstr "Nhập tập hợp điểm từ một tập tin dữ liệu."
+
+#. Form13..TntPopupMenu1..Popup_Export..Caption
+#, fuzzy
+msgid "Export all to file..."
+msgstr "Xuất thành tập tin..."
+
+#. Form13..TntPopupMenu1..Popup_Export..Hint
+#, fuzzy
+msgid "Export user models to a file."
+msgstr "Xuất dữ liệu được chọn ra một tập tin."
+
+#. Form13..SaveDialog1..Filter
+#. Form13..OpenDialog1..Filter
+msgid "User models [*.ini]|*.ini"
+msgstr ""
+
+#. Form14..Caption
+msgid "Insert point series"
+msgstr "Chèn tập hợp điểm"
+
+#. Form14..Edit1....Hint
+msgid "The name of the point series, which is shown in the list to the left of the coordinate system."
+msgstr "Tên của tập hợp điểm, nó được hiển thị ở danh sách bên trái của hệ trục."
+
+#. Form14..Edit1..Text
+msgid "Series"
+msgstr "Tập hợp"
+
+#. Form14..GroupBox4....Hint
+msgid "This shows a sample of the markers and the lines between the markers."
+msgstr "Hiển thị các tọa độ điểm mẫu và các đường thẳng giữa những tọa độ điểm."
+
+#. Form14..GroupBox4..Caption
+msgid "Sample"
+msgstr "Ví dụ"
+
+#. Form14..PageControl1..TabSheet1..Caption
+msgid "Markers"
+msgstr "Tọa độ điểm"
+
+#. Form14..PageControl1..TabSheet1..GroupBox1..Caption
+msgid "Marker"
+msgstr "Tọa độ điểm"
+
+#. Form14..PageControl1..TabSheet1..GroupBox1..Label4..Caption
+msgid "Size:"
+msgstr "Kích cỡ:"
+
+#. Form14..PageControl1..TabSheet1..GroupBox1..Edit2..Hint
+msgid "Choose the size of the markers."
+msgstr "Chọn kích thước của tọa độ điểm"
+
+#. Form14..PageControl1..TabSheet1..GroupBox1..PointSelect1..Hint
+msgid "Choose the type of markers to be shown at each point."
+msgstr "Chọn kiểu hiển thị của mỗi tọa độ điểm."
+
+#. Form14..PageControl1..TabSheet1..GroupBox1..ExtColorBox1..Hint
+msgid "Choose the color of the markers."
+msgstr "Chọn màu hiển thị của tọa độ điểm"
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..Label11..Caption
+msgid "Interpolation:"
+msgstr "Sai số nội suy:"
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..LineSelect1....Hint
+msgid "Choose the style of lines to be drawn between the points. You may also choose not to draw any lines."
+msgstr "Chọn kiểu mẫu hiển thị điểm. Bạn không thể chọn để vẽ nhiều đường thẳng."
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..Edit3..Hint
+msgid "Choose the width of the lines in pixels."
+msgstr "Chọn độ dày của đường thẳng."
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..ComboBox2..Hint
+msgid "Select which kind of line to draw between the markers."
+msgstr "Chọn kiểu đường thẳng để vẽ."
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..ComboBox2....Items.Strings
+#, fuzzy
+msgid "1D cubic spline"
+msgstr "Đường cubic"
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..ComboBox2....Items.Strings
+#, fuzzy
+msgid "2D cubic spline"
+msgstr "Đường cubic"
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..ComboBox2....Items.Strings
+msgid "Half cosine"
+msgstr "1/2 cosin"
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..ExtColorBox2..Hint
+msgid "Choose the color of the lines."
+msgstr "Chọn màu của đường thẳng."
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..Caption
+msgid "Labels"
+msgstr "Tọa độ điểm"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..Label8..Caption
+msgid "Position:"
+msgstr "Vị trí:"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..CheckBox2..Hint
+msgid "Check to show the coordinate at each point."
+msgstr "Kiểm tra tọa độ hiển thị tại mỗi điểm."
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..CheckBox2..Caption
+msgid "Show coordinates"
+msgstr "Hiển thị tọa độ điểm trên hệ trục"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..BitBtn1..Hint
+msgid "Select the font for the coordinates."
+msgstr "Chọn font chữ tọa độ điểm."
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1..Hint
+msgid "Select where the coordinates should be shown."
+msgstr "Chọn nơi hiển thị tọa độ của điểm."
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+msgid "Above"
+msgstr "Trên"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+msgid "Below"
+msgstr "Dưới"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+msgid "Left"
+msgstr "Trái"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+msgid "Right"
+msgstr "Phải"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+#, fuzzy
+msgid "Above Left"
+msgstr "Di chuyển sang trái"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+#, fuzzy
+msgid "Above Right"
+msgstr "Di chuyển sang phải"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+#, fuzzy
+msgid "Below Left"
+msgstr "Phần dưới đồ thị"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+#, fuzzy
+msgid "Below Right"
+msgstr "Trên phải"
+
+#. Form14..PageControl1..TabSheet1..RadioGroup1....Hint
+msgid "Choose between cartesian (x,y) coordinates and polar (θ,r) coordinates."
+msgstr ""
+
+#. Form14..PageControl1..TabSheet1..RadioGroup1..Caption
+#, fuzzy
+msgid "Coordinate type"
+msgstr "Tọa độ chưa định nghĩa."
+
+#. Form14..PageControl1..TabSheet1..RadioGroup1....Items.Strings
+msgid "Cartesian"
+msgstr ""
+
+#. Form14..PageControl1..TabSheet1..RadioGroup1....Items.Strings
+#. Form4..GridPanelEx1..RadioGroup1....Items.Strings
+msgid "Polar"
+msgstr "Dạng lượng giác"
+
+#. Form14..PageControl1..TabSheet2..Caption
+msgid "Error bars"
+msgstr "Thanh hiển thị lỗi"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..Caption
+#, fuzzy
+msgid "X error amount"
+msgstr "Thanh lỗi x"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..CheckBox3..Hint
+msgid "Show horizontal error bars."
+msgstr "Hiển thị lỗi trên thanh ngang."
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..CheckBox3..Caption
+msgid "Show x-bars"
+msgstr "Hiển thị  thanh lỗi x"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..RadioButton1..Hint
+#. Form14..PageControl1..TabSheet2..GroupBox6..RadioButton4..Hint
+msgid "All error bars are the same size."
+msgstr "Tất cả thanh hiển thị lỗi đều có cùng kích thước."
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..RadioButton1..Caption
+#. Form14..PageControl1..TabSheet2..GroupBox6..RadioButton4..Caption
+msgid "Fixed:"
+msgstr "Cố định:"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..Edit4..Hint
+#. Form14..PageControl1..TabSheet2..GroupBox6..Edit6..Hint
+msgid "Enter fixed value."
+msgstr "Nhập vào giá trị cố định."
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..RadioButton2..Hint
+msgid "All error bars are the same percentage of the x-coordinate."
+msgstr "Tất cả thanh hiển thị lỗi thì cùng tỉ lệ với trục x."
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..RadioButton2..Caption
+#. Form14..PageControl1..TabSheet2..GroupBox6..RadioButton5..Caption
+msgid "Relative:"
+msgstr "Phần trăm:"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..RadioButton3..Hint
+#. Form14..PageControl1..TabSheet2..GroupBox6..RadioButton6..Hint
+msgid "Each error bar is given a custom value."
+msgstr "Mỗi thanh lỗi thì dựa vào một giá trị tùy biến."
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..RadioButton3..Caption
+#. Form14..PageControl1..TabSheet2..GroupBox6..RadioButton6..Caption
+msgid "Custom"
+msgstr "Tùy chỉnh"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..Edit5..Hint
+#. Form14..PageControl1..TabSheet2..GroupBox6..Edit7..Hint
+msgid "Enter relative value in percent."
+msgstr "Nhập vào giá trị phần trăm."
+
+#. Form14..PageControl1..TabSheet2..GroupBox6..Caption
+#, fuzzy
+msgid "Y error amount"
+msgstr "Thanh lỗi y"
+
+#. Form14..PageControl1..TabSheet2..GroupBox6..CheckBox4..Hint
+msgid "Show vertical error bars."
+msgstr "Hiển thị lỗi trên thanh dọc."
+
+#. Form14..PageControl1..TabSheet2..GroupBox6..CheckBox4..Caption
+msgid "Show y-bars"
+msgstr "Hiển thị  thanh lỗi y"
+
+#. Form14..PageControl1..TabSheet2..GroupBox6..RadioButton5..Hint
+msgid "All error bars are the same percentage of the y-coordinate."
+msgstr "Tất cả thanh hiển thị lỗi thì cùng tỉ lệ với trục y."
+
+#. Form14..PopupMenu1..Popup_Cut..Hint
+#. Form17..PopupMenu1..Popup_Cut..Hint
+#. Form6..PopupMenu1..Popup_Cut..Hint
+msgid "Cut the selected text to the clipboard."
+msgstr "Cắt dòng chữ được chọn, sao chép vào bộ nhớ."
+
+#. Form14..PopupMenu1..Popup_Copy..Hint
+#. Form17..PopupMenu1..Popup_Copy..Hint
+#. Form6..PopupMenu1..Popup_Copy..Hint
+msgid "Copy the selected text to the clipboard."
+msgstr "Sao chép dòng chữ được chọn vào bộ nhớ."
+
+#. Form14..PopupMenu1..Popup_Paste....Hint
+#. Form17..PopupMenu1..Popup_Paste....Hint
+msgid "Paste text from the clipboard into the grid. Other cells may be overwritten by the text from the clipboard."
+msgstr "Dán dòng chữ trong bộ nhớ vào lưới. Các ô khác trên lưới có thể bị ghi đè lên bởi dòng chữ trong bộ nhớ."
+
+#. Form14..PopupMenu1..Popup_Delete..Hint
+#. Form17..PopupMenu1..Popup_Delete..Hint
+msgid "Erase selected cells."
+msgstr "Xóa các ô được chọn."
+
+#. Form14..PopupMenu1..Popup_Insert..Caption
+#. Form17..PopupMenu1..Popup_Insert..Caption
+msgid "Insert row"
+msgstr "Chèn hàng"
+
+#. Form14..PopupMenu1..Popup_Insert..Hint
+#. Form17..PopupMenu1..Popup_Insert..Hint
+msgid "Inserts a row in the grid moving rows below one down."
+msgstr "Chèn một hàng vào lưới, các hàng bên dưới sẽ bị dịch chuyển xuống dưới một dòng."
+
+#. Form14..PopupMenu1..Popup_Remove..Caption
+#. Form17..PopupMenu1..Popup_Remove..Caption
+msgid "Remove row"
+msgstr "Xóa hàng"
+
+#. Form14..PopupMenu1..Popup_Remove..Hint
+#. Form17..PopupMenu1..Popup_Remove..Hint
+msgid "Removes the selected rows."
+msgstr "Xóa hàng được chọn."
+
+#. Form14..PopupMenu1..Popup_Select..Caption
+#. Form15..PopupMenu1..Popup1_Select..Caption
+#. Form17..PopupMenu1..Popup_Select..Caption
+msgid "Select all"
+msgstr "Chọn tất cả"
+
+#. Form14..PopupMenu1..Popup_Select..Hint
+#. Form15..PopupMenu1..Popup1_Select..Hint
+#. Form17..PopupMenu1..Popup_Select..Hint
+msgid "Select all cells."
+msgstr "Chọn tất cả các ô."
+
+#. Form14..PopupMenu1..Popup_Import..Hint
+#. Form17..PopupMenu1..Popup_Import..Hint
+msgid "Import data from a file and place it at the selected cell."
+msgstr "Nhập dữ liệu từ tập tin có sẵn vào ô được chọn."
+
+#. Form14..PopupMenu1..Popup_Export..Hint
+#. Form17..PopupMenu1..Popup_Export..Hint
+msgid "Export selected data to a file."
+msgstr "Xuất dữ liệu được chọn ra một tập tin."
+
+#. Form15..Caption
+msgid "Calculate table"
+msgstr "Bảng tính"
+
+#. Form15..Edit3....Hint
+#, fuzzy
+msgid "The step value. This is the difference between two adjoining values in the defined interval."
+msgstr "Giá trị bước, là khoảng cách giữa các giá trị x."
+
+#. Form15..Edit1..Hint
+msgid "The first x-value in the interval."
+msgstr "Giá trị x đầu tiên trong khoảng giá trị."
+
+#. Form15..Edit2..Hint
+msgid "The last x-value in the interval."
+msgstr "Giá trị x cuối cùng trong khoảng giá trị."
+
+#. Form15..PopupMenu1..Popup1_Show1..Caption
+#. Form15..PopupMenu1..Popup1_Show2..Caption
+#. Form15..PopupMenu1..Popup1_Show3..Caption
+#. Form15..PopupMenu1..Popup1_Show4..Caption
+#. Form15..PopupMenu1..Popup1_Show5..Caption
+msgid "Show %s"
+msgstr "Hiển thị %s"
+
+#. Form15..PopupMenu1..Popup1_Show1..Hint
+#. Form15..PopupMenu1..Popup1_Show2..Hint
+#. Form15..PopupMenu1..Popup1_Show3..Hint
+#. Form15..PopupMenu1..Popup1_Show4..Hint
+#. Form15..PopupMenu1..Popup1_Show5..Hint
+#, fuzzy
+msgid "Show the %s column in the table."
+msgstr "Hiển thị ghi chú ở góc dưới bên trái"
+
+#. Form15..PopupMenu1..Popup1_Copy..Hint
+msgid "Copy selected cells to the clipboard."
+msgstr "Sao chép ô vừa chọn vào bộ nhớ"
+
+#. Form15..PopupMenu1..Popup1_Export..Hint
+msgid "Saves the selected data to a file."
+msgstr "Lưu dữ liệu vừa chọn thành một tập tin."
+
+#. Form15..ProgressForm1..Caption
+msgid "Calculating"
+msgstr "Tính toán"
+
+#. Form15..SaveDialog1..Filter
+msgid "CSV (Comma delimited) [*.csv]|*.csv|Text [*.txt]|*.txt"
+msgstr "CSV (Phân cách bằng dấu phẩy) [*.csv]|*.csv|Text [*.txt]|*.txt"
+
+#. Form16..Caption
+#, fuzzy
+msgid "Insert shading"
+msgstr "Chèn bóng"
+
+#. Form16..PageControl1..TabSheet1..Caption
+msgid "Shading"
+msgstr "Bóng"
+
+#. Form16..PageControl1..TabSheet1..Panel1..Image1..Hint
+#. Form16..PageControl1..TabSheet1..RadioButton1..Hint
+msgid "Shades the area between the function and the x-axis."
+msgstr "Đổ bóng vùng giữa đồ thị hàm số và trục x."
+
+#. Form16..PageControl1..TabSheet1..Panel2..Image2..Hint
+#. Form16..PageControl1..TabSheet1..RadioButton2..Hint
+msgid "Shades the area below the function."
+msgstr "Đổ bóng vùng phía dưới đồ thị hàm số."
+
+#. Form16..PageControl1..TabSheet1..Panel3..Image3..Hint
+#. Form16..PageControl1..TabSheet1..RadioButton3..Hint
+msgid "Shades the area above the function."
+msgstr "Đổ bóng vùng phía trên đồ thị hàm số."
+
+#. Form16..PageControl1..TabSheet1..Panel4..Image4..Hint
+#. Form16..PageControl1..TabSheet1..RadioButton4..Hint
+msgid "Shades the area between the function and the y-axis."
+msgstr "Đổ bóng vùng giữa đồ thị hàm số và trục y."
+
+#. Form16..PageControl1..TabSheet1..Panel5..Image5..Hint
+#. Form16..PageControl1..TabSheet1..RadioButton5..Hint
+msgid "Shades the area inside the function."
+msgstr "Đổ bóng vùng phía trong đồ thị hàm số."
+
+#. Form16..PageControl1..TabSheet1..Panel6..Image6....Hint
+#. Form16..PageControl1..TabSheet1..RadioButton6....Hint
+msgid "Shades the area between the main function and the function selected in the list to the right."
+msgstr "Đổ bóng vùng phía trong đồ thị của hàm số chính và đồ thị của hàm số được chọn trong danh sách."
+
+#. Form16..PageControl1..TabSheet1..RadioButton3..Caption
+msgid "Above function"
+msgstr "Phần trên đồ thị"
+
+#. Form16..PageControl1..TabSheet1..RadioButton1..Caption
+msgid "Between function and x-axis"
+msgstr "Giữa đồ thị và trục x"
+
+#. Form16..PageControl1..TabSheet1..RadioButton6..Caption
+msgid "Between functions"
+msgstr "Giữa các đồ thị"
+
+#. Form16..PageControl1..TabSheet1..RadioButton4..Caption
+msgid "Between function and y-axis"
+msgstr "Giữa đồ thị và trục y"
+
+#. Form16..PageControl1..TabSheet1..RadioButton5..Caption
+msgid "Inside function"
+msgstr "Phần trong đồ thị"
+
+#. Form16..PageControl1..TabSheet1..RadioButton2..Caption
+msgid "Below function"
+msgstr "Phần dưới đồ thị"
+
+#. Form16..PageControl1..TabSheet2..Caption
+#. Form20..Panel2..ToolBar1..ToolButton6..Hint
+#. Form4..Caption
+msgid "Options"
+msgstr "Tùy chọn"
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..Caption
+#. Form19..TntGroupBox1..Caption
+msgid "Range"
+msgstr "Trong khoảng"
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..Edit1..Hint
+#. Form16..PageControl1..TabSheet3..GroupBox2..Edit3..Hint
+msgid "Coordinate where the shading starts."
+msgstr "Tọa độ điểm đầu."
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..Edit2..Hint
+#. Form16..PageControl1..TabSheet3..GroupBox2..Edit4..Hint
+msgid "Coordinate where the shading ends."
+msgstr "Tọa độ điểm cuối."
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..CheckBox2..Hint
+#. Form16..PageControl1..TabSheet3..GroupBox2..CheckBox4..Hint
+msgid "Check to increase the end coordinate until intersection."
+msgstr "Chọn để  lấy điểm cuối đổ bóng là giao điểm cuối của hai đồ thị hàm số."
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..CheckBox2..Caption
+#. Form16..PageControl1..TabSheet3..GroupBox2..CheckBox4..Caption
+msgid "Increase to intersection"
+msgstr "Giao điểm cuối"
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..CheckBox1..Hint
+#. Form16..PageControl1..TabSheet3..GroupBox2..CheckBox3..Hint
+msgid "Check to decrease the start coordinate until intersection."
+msgstr "Chọn để  lấy điểm đầu đổ bóng là giao điểm đầu của hai đồ thị hàm số."
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..CheckBox1..Caption
+#. Form16..PageControl1..TabSheet3..GroupBox2..CheckBox3..Caption
+msgid "Decrease to intersection"
+msgstr "Giao điểm đầu"
+
+#. Form16..PageControl1..TabSheet2..GroupBox3..ShadeSelect1..Hint
+msgid "Select the style used for the shading."
+msgstr "Chọn kiểu đổ bóng."
+
+#. Form16..PageControl1..TabSheet2..GroupBox3..ExtColorBox1..Hint
+msgid "Select color used for shading."
+msgstr "Chọn màu cho bóng"
+
+#. Form16..PageControl1..TabSheet2..GroupBox3..CheckBox5..Hint
+#, fuzzy
+msgid "Mark the border around the shading."
+msgstr "Đánh dấu đường biên cuối của phần đổ bóng bằng một đường thẳng."
+
+#. Form16..PageControl1..TabSheet2..GroupBox3..CheckBox5..Caption
+#, fuzzy
+msgid "Mark border"
+msgstr "Tọa độ điểm"
+
+#. Form16..PageControl1..TabSheet2..Edit5..Hint
+msgid "Enter a description to show in the legend."
+msgstr "Thêm vào chú thích"
+
+#. Form16..PageControl1..TabSheet3..Caption
+msgid "2nd function"
+msgstr "Đồ thị thứ 2"
+
+#. Form16..PageControl1..TabSheet3..Label11..Caption
+msgid "2nd function:"
+msgstr "Đồ thị thứ 2"
+
+#. Form16..PageControl1..TabSheet3..ListBox1....Hint
+msgid "Select the second function when you want a shading between two functions."
+msgstr "Chọn đồ thị thứ hai để đổ bóng giữa hai đồ thị."
+
+#. Form16..PageControl1..TabSheet3..GroupBox2..Caption
+msgid "Shading range for 2nd function"
+msgstr "Khoảng đổ bóng của đồ thị 2"
+
+#. Form17..Caption
+msgid "Custom functions/constants"
+msgstr "Tùy chỉnh hàm/hằng"
+
+#. Form17..Button3..Caption
+msgid "Apply"
+msgstr "Áp dụng"
+
+#. Form17..Grid1....TitleCaptions.Strings
+msgid "Names"
+msgstr "Tên"
+
+#. Form17..Grid1....TitleCaptions.Strings
+msgid "Definition"
+msgstr "Định nghĩa"
+
+#. Form18..Caption
+msgid "Image options"
+msgstr "Tùy chọn hình ảnh"
+
+#. Form18..PageControl1..TabSheet1..Caption
+msgid "Size"
+msgstr "Kích thước"
+
+#. Form18..PageControl1..TabSheet1..Label1..Caption
+msgid "Image width:"
+msgstr "Độ rộng:"
+
+#. Form18..PageControl1..TabSheet1..Label2..Caption
+msgid "Image height:"
+msgstr "Độ cao:"
+
+#. Form18..PageControl1..TabSheet1..Edit1..Hint
+#, fuzzy
+msgid "Set a custom image width in pixels."
+msgstr "Thiết lập độ rộng tùy chọn của hình."
+
+#. Form18..PageControl1..TabSheet1..Edit2..Hint
+#, fuzzy
+msgid "Set a custom image height in pixels."
+msgstr "Thiết lập độ cao tùy chọn của hình."
+
+#. Form18..PageControl1..TabSheet1..RadioGroup3....Hint
+msgid "Choose to use the same size as shown on the screen or a custom image size."
+msgstr "Chọn để sử dụng kích thước của màn hình hoặc kích thước tùy chọn của hình."
+
+#. Form18..PageControl1..TabSheet1..RadioGroup3..Caption
+msgid "Image size"
+msgstr "Kích thước hình"
+
+#. Form18..PageControl1..TabSheet1..RadioGroup3....Items.Strings
+msgid "Screen size"
+msgstr "Kích thước màn hình"
+
+#. Form18..PageControl1..TabSheet1..RadioGroup3....Items.Strings
+msgid "Custom size"
+msgstr "Kích thước tùy chọn"
+
+#. Form18..PageControl1..TabSheet2..RadioGroup1....Hint
+msgid "Progressive encoding allows viewers to see a rough copy of the image while it is downloaded."
+msgstr "Chấp lượng nén thấp cho phép người dùng xem được ảnh với độ phân giải thấp khi ảnh đang được tải."
+
+#. Form18..PageControl1..TabSheet2..RadioGroup1..Caption
+msgid "Encoding"
+msgstr "Mã hóa"
+
+#. Form18..PageControl1..TabSheet2..RadioGroup1....Items.Strings
+#, fuzzy
+msgid "Sequential"
+msgstr "Chọn tất cả"
+
+#. Form18..PageControl1..TabSheet2..RadioGroup1....Items.Strings
+msgid "Progressive"
+msgstr "Thấp"
+
+#. Form18..PageControl1..TabSheet2..GroupBox1..Hint
+msgid "Select a compression quality."
+msgstr "Chọn chất lượng nén."
+
+#. Form18..PageControl1..TabSheet2..GroupBox1..Caption
+msgid "Quality"
+msgstr "Chất lượng"
+
+#. Form18..PageControl1..TabSheet3..Label3..Caption
+msgid "Paper size:"
+msgstr "Kích thước giấy:"
+
+#. Form18..PageControl1..TabSheet3..RadioGroup2..Hint
+#. PrintFrm..RadioGroup1..Hint
+msgid "Choose paper orientation."
+msgstr "Chọn hướng giấy."
+
+#. Form18..PageControl1..TabSheet3..RadioGroup2..Caption
+#. PrintFrm..RadioGroup1..Caption
+msgid "Orientation"
+msgstr "Hướng giấy"
+
+#. Form18..PageControl1..TabSheet3..RadioGroup2....Items.Strings
+#. PrintFrm..RadioGroup1....Items.Strings
+msgid "Portrait"
+msgstr "Dọc"
+
+#. Form18..PageControl1..TabSheet3..RadioGroup2....Items.Strings
+#. PrintFrm..RadioGroup1....Items.Strings
+msgid "Landscape"
+msgstr "Ngang"
+
+#. Form18..PageControl1..TabSheet3..ComboBox1..Hint
+msgid "Choose paper size to use."
+msgstr "Chọn kích thước giấy in."
+
+#. Form18..PageControl1..TabSheet3..ComboBox1....Items.Strings
+#, fuzzy
+msgid "Letter"
+msgstr "Trái"
+
+#. Form18..PageControl1..TabSheet3..ComboBox1....Items.Strings
+msgid "Ledger"
+msgstr ""
+
+#. Form18..PageControl1..TabSheet3..ComboBox1....Items.Strings
+#, fuzzy
+msgid "Legal"
+msgstr "Trà"
+
+#. Form18..CheckBox1..Hint
+#. Form3..CheckBox16..Hint
+msgid "Select this to use these settings as defaults in the future."
+msgstr "Chọn ô này để cài đặt các tùy chọn là mặc định cho các lần sau."
+
+#. Form18..CheckBox1..Caption
+#. Form3..CheckBox16..Caption
+msgid "Save as default"
+msgstr "Tùy chọn mặc định"
+
+#. Form19..Caption
+#. Form19..Button1..Caption
+msgid "Animate"
+msgstr "Hiệu ứng"
+
+#. Form19..Label1..Caption
+msgid "Constant:"
+msgstr "Hằng:"
+
+#. Form19..ComboBox1..Hint
+msgid "Choose a constant to change between each frame."
+msgstr "Chọn một hằng số để chuyển từng khung hình."
+
+#. Form19..TntGroupBox1..Label4..Caption
+msgid "Step:"
+msgstr "Bước:"
+
+#. Form19..TntGroupBox1..Edit1..Hint
+#, fuzzy
+msgid "The first value of the constant."
+msgstr "Giá trị đầu của hằng"
+
+#. Form19..TntGroupBox1..Edit2..Hint
+msgid "The last value of the constant."
+msgstr "Giá trị cuối của hằng"
+
+#. Form19..TntGroupBox1..Edit3..Hint
+msgid "The chosen constant is changed by this value between each frame."
+msgstr "Giá trị của hằng số được chọn sẽ bị thay đổi bởi giá trị này giữa các khung hình."
+
+#. Form19..TntGroupBox2..Caption
+#, fuzzy
+msgid "Frame options"
+msgstr "Tùy chọn hình ảnh"
+
+#. Form19..TntGroupBox2..Label5..Caption
+#, fuzzy
+msgid "Frame width:"
+msgstr "Độ rộng:"
+
+#. Form19..TntGroupBox2..Label6..Caption
+#, fuzzy
+msgid "Frame height:"
+msgstr "Độ cao:"
+
+#. Form19..TntGroupBox2..Label7..Caption
+msgid "Frames/second:"
+msgstr "Khung hình/giây:"
+
+#. Form19..TntGroupBox2..Edit4..Hint
+#, fuzzy
+msgid "Width of each frame, in pixels."
+msgstr "Độ rộng đồ thị theo điểm ảnh."
+
+#. Form19..TntGroupBox2..Edit5..Hint
+#, fuzzy
+msgid "Height of each frame, in pixels."
+msgstr "Độ rộng đồ thị theo điểm ảnh."
+
+#. Form19..TntGroupBox2..Edit6..Hint
+msgid "Number of frames per second used when the animation is played."
+msgstr "Số khung hình trong một giây khi sử dụng hiệu ứng."
+
+#. Form19..ProgressForm1..Caption
+msgid "Working"
+msgstr "Đang chạy"
+
+#. Form2..Panel1..Version..Caption
+#, fuzzy
+msgid "Version %s"
+msgstr "Phiên bản"
+
+#. Form2..Panel1..Label3..Caption
+#, fuzzy
+msgid "Build %s"
+msgstr "Bản"
+
+#. Form2..Panel1..Comments....Caption
+#, fuzzy
+msgid "This is free software, and you are welcome to redistribute it under the terms in the <a href=\"%s\">GNU General Public License</a> version 2. Please send bug reports and suggestions to the programmer."
+msgstr "Đây là một phần mềm miễn phí, hoan nghênh tất cả những ai muốn triển khai chương trình theo quy định của tổ chức GNU về bản quyền nguồn mở. Xin vui lòng gởi cho tác giả lỗi chương trình hoặc ý kiến đóng góp."
+
+#. Form2..Panel1..LinkLabel1....Caption
+#, fuzzy
+msgid "The newest version as well as the source code are available at: %s"
+msgstr "Phiên bản mới nhất và mã nguồn có thể tìm thấy tại:"
+
+#. Form2..Panel1..LinkLabel2..Caption
+#, fuzzy
+msgid "Email: %s"
+msgstr "Email:"
+
+#. Form2..Panel1..LinkLabel3..Caption
+msgid "<Language> translation by <Translator>"
+msgstr "Tiếng Việt được dịch bởi VVOB"
+
+#. Form20..Caption
+msgid "Animation"
+msgstr "Hiệu ứng"
+
+#. Form20..Panel2..ToolBar1..ToolButton1..Hint
+msgid "Play"
+msgstr "Chạy"
+
+#. Form20..Panel2..ToolBar1..ToolButton2..Hint
+msgid "Pause"
+msgstr "Tạm dừng"
+
+#. Form20..Panel2..ToolBar1..ToolButton3..Hint
+msgid "Stop"
+msgstr "Dừng"
+
+#. Form20..Panel2..ToolBar1..ToolButton4..Hint
+msgid "Back"
+msgstr "Trở lại"
+
+#. Form20..Panel2..ToolBar1..ToolButton5..Hint
+msgid "Step"
+msgstr "Bước"
+
+#. Form20..SaveDialog1..Filter
+msgid "Audio Video Interleave [*.avi]|*.avi"
+msgstr ""
+
+#. Form20..PopupMenu1..Speed1..Caption
+msgid "Speed"
+msgstr "Tốc độ"
+
+#. Form20..PopupMenu1..Speed1..N101..Hint
+#. Form20..PopupMenu1..Speed1..N501..Hint
+#. Form20..PopupMenu1..Speed1..N1001..Hint
+#. Form20..PopupMenu1..Speed1..N1501..Hint
+#. Form20..PopupMenu1..Speed1..N2001..Hint
+#. Form20..PopupMenu1..Speed1..N10001..Hint
+msgid "Change the speed used to play the animation."
+msgstr "Thay đổi tốc độ chạy hiệu ứng."
+
+#. Form20..PopupMenu1..Repeat1..Caption
+msgid "Repeat"
+msgstr "Lặp lại"
+
+#. Form20..PopupMenu1..Repeat1..Hint
+msgid "Repeat playing the animation until manually stopped."
+msgstr "Lặp lại hiệu ứng cho đến khi người sử dụng bấm nút tắt."
+
+#. Form20..PopupMenu1..Reverse1..Caption
+msgid "Auto reverse"
+msgstr "Tự động đổi chiều"
+
+#. Form20..PopupMenu1..Reverse1....Hint
+msgid "Play backwards when the end of the animation is reached. This is most useful in combination with the \"Repeat\" command."
+msgstr "Chạy theo chiều ngược lại khi kết thúc hiệu ứng. Chức năng hữu ích để so sánh với chức năng \"Repeat\""
+
+#. Form20..PopupMenu1..Save1..Hint
+msgid "Save the animation to a file."
+msgstr "Lưu hiệu ứng vào một tập tin."
+
+#. Form20..PopupMenu1..Saveimageas1..Caption
+#, fuzzy
+msgid "Save frame..."
+msgstr "Lưu lại với tên khác..."
+
+#. Form20..PopupMenu1..Saveimageas1..Hint
+#, fuzzy
+msgid "Save the shown frame to an image file."
+msgstr "Lưu phương trình tọa độ thành dạng ảnh."
+
+#. Form20..PopupMenu1..Saveimagesequence1..Caption
+#, fuzzy
+msgid "Save all frames..."
+msgstr "Lưu lại với tên khác..."
+
+#. Form20..PopupMenu1..Saveimagesequence1....Hint
+msgid "Save all frames in the animation to image files. This will create as many files as there are frames in the animation."
+msgstr ""
+
+#. Form21..Label1..Caption
+#, fuzzy
+msgid "Corner:"
+msgstr "Màu:"
+
+#. Form21..ComboBox1..Hint
+#, fuzzy
+msgid "Choose which corner of the label should be locked."
+msgstr "Chọn vị trí muốn đặt lời chú giải."
+
+#. Form21..ComboBox1....Items.Strings
+#, fuzzy
+msgid "Upper Left"
+msgstr "Trên trái"
+
+#. Form21..ComboBox1....Items.Strings
+#, fuzzy
+msgid "Upper Right"
+msgstr "Trên phải"
+
+#. Form21..ComboBox1....Items.Strings
+#, fuzzy
+msgid "Lower Left"
+msgstr "Trên trái"
+
+#. Form21..ComboBox1....Items.Strings
+#, fuzzy
+msgid "Lower Right"
+msgstr "Trên phải"
+
+#. Form21..Edit1..Hint
+#. Form21..Edit2..Hint
+#, fuzzy
+msgid "Enter a coordinate to lock label at."
+msgstr "Nhập vào hệ trục x hoặc nhấp chuột vào cửa sổ chính."
+
+#. Form22..Caption
+msgid "Python interpreter"
+msgstr ""
+
+#. Form22..PopupMenu1..Clear1..Caption
+#, fuzzy
+msgid "Clear"
+msgstr "Kem"
+
+#. Form3..Caption
+msgid "Edit axes"
+msgstr "Chỉnh sửa hệ trục"
+
+#. Form3..PageControl1..TabSheet1..Caption
+#. ParFuncFrame..ComboBox1....Items.Strings
+#. PolFuncFrame..ComboBox1....Items.Strings
+#. StdFuncFrame..ComboBox1....Items.Strings
+msgid "x-axis"
+msgstr "Trục x"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Label1..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..Label5..Caption
+msgid "Minimum:"
+msgstr "Giá trị nhỏ nhất:"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Edit1..Hint
+msgid "Minimum x-value."
+msgstr "Giá trị x nhỏ nhất."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Label2..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..Label6..Caption
+msgid "Maximum:"
+msgstr "Giá trị lớn nhất:"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Edit2..Hint
+msgid "Maximum x-value."
+msgstr "Giá trị x lớn nhất."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Label3..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..Label7..Caption
+msgid "Tick unit:"
+msgstr "Khoảng đơn vị:"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Edit3..Hint
+msgid "Units between ticks on the x-axis."
+msgstr "Đơn vị giữa các dấu trên trục x."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Label14..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..Label9..Caption
+msgid "Grid unit:"
+msgstr "Khoảng đơn vị của lưới:"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Edit4..Hint
+msgid "Units between the grid lines perpendicular to the x-axis."
+msgstr "Đơn vị giữa các đường lưới thẳng góc với trục x."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox4..Hint
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox11..Hint
+msgid "Determine the tick unit automatically."
+msgstr "Tự động xác định đơn vị đánh dấu."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox4..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox11..Caption
+msgid "Auto tick"
+msgstr "Tự động đánh dấu"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox6..Hint
+msgid "Show tick marks on the x-axis."
+msgstr "Hiển thị đánh dấu khoảng cách trên trục x."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox6..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox13..Caption
+msgid "Show ticks"
+msgstr "Hiển thị dấu"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox5..Hint
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox12..Hint
+msgid "Set the grid unit to the same as the tick unit."
+msgstr "Thiết lập khoảng đơn vị của lưới bằng với khoảng đơn vị đánh dấu trên trục."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox5..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox12..Caption
+msgid "Auto grid"
+msgstr "Tự động chỉnh ô lưới"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox7..Hint
+msgid "Show vertical grid lines."
+msgstr "Hiển thị đường lưới dọc."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox7..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox14..Caption
+msgid "Show grid"
+msgstr "Hiển thị lưới"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Panel1..CheckBox3....Hint
+#, fuzzy
+msgid "Show the label at the right side of the graphing area, above the x-axis."
+msgstr "Hiển thị tên trục bên phải cửa sổ chính, trên trục x."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Panel1..CheckBox3..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..Panel3..CheckBox10..Caption
+msgid "Label:"
+msgstr "Tên trục:"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Panel1..Edit5..Hint
+#. Form3..PageControl1..TabSheet2..GridPanel2..Panel3..Edit11..Hint
+msgid "Edit the label for the axis here."
+msgstr "Thay đổi tên trục tại đây."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Panel2..Label4..Caption
+msgid "The x-axis cross at y="
+msgstr "Trục x giao với trục y tại y ="
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Panel2..Edit6..Hint
+msgid "The x-axis will intersect with the y-axis at this value."
+msgstr "Trục x và trục y giao nhau tại giá trị này."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox1..Hint
+msgid "Use logarithmic scale on the x-axis."
+msgstr "Sử dụng thang  logarit cho trục x."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox1..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox8..Caption
+msgid "Logarithmic scale"
+msgstr "Thang logarit"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox2..Hint
+msgid "Show units on the x-axis."
+msgstr "Hiển thị đơn vị trên trục x."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox2..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox9..Caption
+msgid "Show numbers"
+msgstr "Hiển thị số"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox17..Hint
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox18..Hint
+msgid "Show units on the selected axis as a fraction multiplied by pi."
+msgstr "Hiển thị đơn vị trên trục theo dạng tích với pi."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox17..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox18..Caption
+#, fuzzy
+msgid "Show as a multiple of π"
+msgstr "Hiển thị đơn vị theo dạng tích với pi"
+
+#. Form3..PageControl1..TabSheet2..Caption
+#. ParFuncFrame..ComboBox1....Items.Strings
+#. PolFuncFrame..ComboBox1....Items.Strings
+msgid "y-axis"
+msgstr "Trục y"
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Edit7..Hint
+msgid "Minimum y-value."
+msgstr "Giá trị y nhỏ nhất."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Edit8..Hint
+msgid "Maximum y-value."
+msgstr "Giá trị y lớn nhất"
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Edit9..Hint
+msgid "Units between ticks on the y-axis."
+msgstr "Đơn vị khoảng cách trên trục y."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Edit10..Hint
+msgid "Units between the grid lines perpendicular to the y-axis."
+msgstr "Đơn vị giữa các đường lưới thẳng góc với trục y."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox13..Hint
+msgid "Show tick marks on the y-axis."
+msgstr "Hiển thị đánh dấu khoảng cách trên trục y."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox14..Hint
+msgid "Show horizontal grid lines."
+msgstr "Hiển thị đường lưới ngang."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Panel3..CheckBox10....Hint
+#, fuzzy
+msgid "Show the label at the top of the graphing area, to the right of the y-axis."
+msgstr "Hiển thị tên trục bên trên cửa sổ chính, trên trục y."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Panel4..Label8..Caption
+msgid "The y-axis cross at x="
+msgstr "Trục y giao với trục x tại x ="
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Panel4..Edit12..Hint
+msgid "The y-axis will intersect with the x-axis at this value."
+msgstr "Trục y và trục x giao nhau tại giá trị này."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox8..Hint
+msgid "Use logarithmic scale for the y-axis."
+msgstr "Sử dụng thang Logarit cho trục y."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox9..Hint
+msgid "Show units on the y-axis."
+msgstr "Hiển thị đơn vị trên trục y."
+
+#. Form3..PageControl1..TabSheet3..Caption
+msgid "Settings"
+msgstr "Thông số"
+
+#. Form3..PageControl1..TabSheet3..Label16..Caption
+msgid "Title:"
+msgstr "Tiêu đề:"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup1....Hint
+msgid "Choose if you want to show the axes, and if you want to show them crossed or at the left and bottom of the image."
+msgstr "Chọn nếu bạn muốn hiển thị hệ trục, và điểm giao nhau của 2 trục sẽ nằm ở góc trái dưới của khung vẽ."
+
+#. Form3..PageControl1..TabSheet3..RadioGroup1..Caption
+msgid "Axes style"
+msgstr "Kiểu hiển thị trục"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup1....Items.Strings
+msgid "None"
+msgstr "Không hiển thị"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup1....Items.Strings
+msgid "Crossed"
+msgstr "Giao nhau"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup1....Items.Strings
+msgid "Boxed"
+msgstr "Hộp"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup2....Hint
+msgid "Choose if trigonometric functions should calculate in radians or degrees."
+msgstr "Chọn đơn vị tính toán cho hàm lượng giác theo rađian hoặc theo độ."
+
+#. Form3..PageControl1..TabSheet3..RadioGroup2..Caption
+msgid "Trigonometry"
+msgstr "Lượng giác"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup2....Items.Strings
+msgid "Radian"
+msgstr "Rađian"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup2....Items.Strings
+msgid "Degree"
+msgstr "Độ"
+
+#. Form3..PageControl1..TabSheet3..Edit13..Hint
+msgid "Enter a title to show above the coordinate system."
+msgstr "Nhập vào tiêu đề sẽ hiển thị phía trên hệ trục."
+
+#. Form3..PageControl1..TabSheet3..BitBtn1..Hint
+msgid "Select the font for the title."
+msgstr "Chọn font chữ cho tiêu đề."
+
+#. Form3..PageControl1..TabSheet3..RadioGroup3..Hint
+msgid "Choose where the legend should be placed."
+msgstr "Chọn vị trí muốn đặt lời chú giải."
+
+#. Form3..PageControl1..TabSheet3..RadioGroup3..Caption
+msgid "Legend placement"
+msgstr "Vị trí chú giải"
+
+#. Form3..PageControl1..TabSheet3..CheckBox19....Hint
+msgid "Check this to use complex numbers for calculations. Notice that this will slow graphing down."
+msgstr "Chọn để sử dụng chức năng tính toán số phức. Lưu ý: dùng chức năng này sẽ làm chậm tốc độ vẽ hình."
+
+#. Form3..PageControl1..TabSheet3..CheckBox19..Caption
+msgid "Calculate with complex numbers"
+msgstr "Tính toán số phức"
+
+#. Form3..PageControl1..TabSheet4..Caption
+msgid "Font and color"
+msgstr "Font chữ và màu sắc"
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..Caption
+msgid "Colors"
+msgstr "Màu sắc"
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..Label17..Caption
+msgid "Grid color:"
+msgstr "Màu lưới:"
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..Label18..Caption
+msgid "Axes color:"
+msgstr "Màu hệ trục:"
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..Label19..Caption
+#. Form6..Label4..Caption
+msgid "Background color:"
+msgstr "Màu nền:"
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..ExtColorBox1..Hint
+msgid "Select the color of the image background."
+msgstr "Chọn màu cho ảnh nền."
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..ExtColorBox2..Hint
+msgid "Select the color of the axes."
+msgstr "Chọn màu cho hệ trục."
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..ExtColorBox3..Hint
+msgid "Select the color of the grid lines."
+msgstr "Chọn màu cho những hàng lưới."
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..Caption
+msgid "Fonts"
+msgstr "Font chữ"
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..Label20..Caption
+msgid "Number font:"
+msgstr "Font số:"
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..Label21..Caption
+msgid "Label font:"
+msgstr "Font nhãn:"
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..Label10..Caption
+msgid "Legend font:"
+msgstr "Font lời chú thích:"
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..BitBtn2..Hint
+msgid "Select the font used to show the labels on the axes."
+msgstr "Chọn font chữ cho các nhãn trên hệ trục."
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..BitBtn3..Hint
+msgid "Select the font used to show the numbers on the axes."
+msgstr "Chọn font chữ hiển thị số trên hệ trục."
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..BitBtn4..Hint
+msgid "Select the font used to show the legend text."
+msgstr "Chọn font chữ hiển thị chú giải."
+
+#. Form4..GridPanelEx1..Label1..Caption
+msgid "Decimals:"
+msgstr "Số thập phân:"
+
+#. Form4..GridPanelEx1..Panel1..Edit1..Hint
+msgid "Number of decimals used when results are shown."
+msgstr "Số thập phân được sử dụng khi các kết qủa hiển thị."
+
+#. Form4..GridPanelEx1..RadioGroup1..Hint
+msgid "Format used when complex numbers are shown."
+msgstr "Định dạng này được dùng khi hiển thị số phức."
+
+#. Form4..GridPanelEx1..RadioGroup1..Caption
+msgid "Complex form"
+msgstr "Định dạng số phức"
+
+#. Form4..GridPanelEx1..RadioGroup1....Items.Strings
+msgid "Real"
+msgstr "Dạng thực"
+
+#. Form4..GridPanelEx1..RadioGroup1....Items.Strings
+msgid "Rectangular"
+msgstr "Dạng đại số"
+
+#. Form4..GridPanelEx1..Label2..Caption
+msgid "Recent files:"
+msgstr "Tập tin vừa mở:"
+
+#. Form4..GridPanelEx1..Panel2..Edit2..Hint
+msgid "The number of most recent used files shown in the File menu."
+msgstr "Số lượng tập tin vừa mở hiển thị trên trình đơn Tập tin."
+
+#. Form4..GridPanelEx1..Label3..Caption
+msgid "Max undo steps:"
+msgstr "Số lần hủy bỏ thao tác lớn nhất:"
+
+#. Form4..GridPanelEx1..Panel3..Edit3....Hint
+msgid "Maximum number of undo steps saved. Set this to 0 to prevent undo."
+msgstr "Số lần hủy bỏ thao tác lớn nhất có thể. Nếu giá trị bằng 0 sẽ không thể hủy bỏ thao tác."
+
+#. Form4..GridPanelEx1..Label5..Caption
+msgid "Font scale:"
+msgstr "Tỉ lệ font chữ:"
+
+#. Form4..GridPanelEx1..ComboBox1....Hint
+msgid "This is used to scale the user interface if you are having problems reading the text."
+msgstr "Sử dụng chức năng này để cài đặt tỉ lệ font chữ nếu không đọc được chữ trong chương trình."
+
+#. Form4..GridPanelEx1..Label4..Caption
+msgid "Language:"
+msgstr "Ngôn ngữ:"
+
+#. Form4..GridPanelEx1..ComboBox2..Hint
+msgid "Select the language to use for the user interface."
+msgstr "Chọn ngôn ngữ hiển thị."
+
+#. Form4..GridPanelEx1..CheckBox2..Hint
+msgid "Show the tooltip when the cursor is over an item."
+msgstr "Hiển thị chú giải khi đưa con trỏ chuột lên một đối tượng."
+
+#. Form4..GridPanelEx1..CheckBox2..Caption
+msgid "Show tooltip"
+msgstr "Hiển thị chú giải công cụ"
+
+#. Form4..GridPanelEx1..CheckBox3....Hint
+#, fuzzy
+msgid "Save the size of the main window when the program exits. This is used the next time Graph is run."
+msgstr "Lưu lại vị trí cửa sổ khi thoát chương trình. Chức năng này dùng cho lần sử dụng chương trình tiếp theo. |Lưu trạng thái cửa sổ chương trình khi thoát."
+
+#. Form4..GridPanelEx1..CheckBox3..Caption
+msgid "Save workspace on exit"
+msgstr "Lưu lại vùng làm việc khi thoát."
+
+#. Form4..GridPanelEx1..CheckBox4....Hint
+msgid "If checked the program will contact a web server when the program is started to see if a newer version is available."
+msgstr "Nếu chọn, chương trình sẽ kết nối với máy chủ mỗi khi chương trình khởi động để xem có một phiên bản mới hơn hay không."
+
+#. Form4..GridPanelEx1..CheckBox4..Caption
+msgid "Check for new version of Graph at startup"
+msgstr "Kiềm tra phiên bản mới mỗi khi khởi động"
+
+#. Form4..GridPanelEx1..CheckBox5....Hint
+msgid "Use a custom decimal separator instead of the default from the Windows Regional settings."
+msgstr ""
+
+#. Form4..GridPanelEx1..CheckBox5..Caption
+msgid "Custom decimal separator:"
+msgstr ""
+
+#. Form4..GridPanelEx1..Edit4..Hint
+msgid "Decimal separator used when exporting to other programs."
+msgstr ""
+
+#. Form5..Caption
+msgid "Insert function"
+msgstr "Chèn hàm"
+
+#. Form5..Label1..Caption
+msgid "Function type:"
+msgstr "Dạng hàm:"
+
+#. Form5..ComboBox1..Hint
+msgid "Select the function type to graph."
+msgstr "Chọn dạng hàm số cần vẽ đồ thị."
+
+#. Form5..ComboBox1....Items.Strings
+msgid "Standard function   y=f(x)"
+msgstr "Hàm tổng quát y=f(x)"
+
+#. Form5..ComboBox1....Items.Strings
+msgid "Parametric function x(t), y(t)"
+msgstr "Hàm tham số x(t), y(t)"
+
+#. Form5..ComboBox1....Items.Strings
+msgid "Polar function         r=f(t)"
+msgstr "Hàm đối cực r=f(t)"
+
+#. Form5..GroupBox1..Caption
+msgid "Function equation"
+msgstr "Phương trình hàm số"
+
+#. Form5..GroupBox2..Label6..Caption
+msgid "Steps:"
+msgstr "Số điểm:"
+
+#. Form5..GroupBox2..Edit5..Hint
+msgid "Number of calculation steps used to draw the graph."
+msgstr "Số điểm tính toán để vẽ đồ thị. Số điểm tính toán càng nhiều thì đồ thị vẽ được càng mượt."
+
+#. Form5..GroupBox4..GridPanelEx1..Label13..Caption
+msgid "Draw type:"
+msgstr "Kiểu vẽ:"
+
+#. Form5..GroupBox4..GridPanelEx1..ComboBox4....Hint
+msgid "Choose Lines if you want the calculated points for the graph to be connected. Choose Dots if you only want to show a dot at each point."
+msgstr "Chọn kiểu "
+
+#. Form5..GroupBox4..GridPanelEx1..ComboBox4..Text
+#. Form5..GroupBox4..GridPanelEx1..ComboBox4....Items.Strings
+msgid "Automatic"
+msgstr "Tự động"
+
+#. Form5..GroupBox4..GridPanelEx1..ComboBox4....Items.Strings
+msgid "Dots"
+msgstr "Chấm nhỏ"
+
+#. Form5..GroupBox4..GridPanelEx1..ComboBox4....Items.Strings
+msgid "Lines"
+msgstr "Đường thẳng"
+
+#. Form6..Caption
+#, fuzzy
+msgid "Insert text label"
+msgstr "Chèn nhãn..."
+
+#. Form6..Label1..Caption
+msgid "Font name:"
+msgstr "Kiểu font chữ:"
+
+#. Form6..Label2..Caption
+msgid "Font size:"
+msgstr "Kích cỡ chữ:"
+
+#. Form6..Label3..Caption
+msgid "Font color:"
+msgstr "Màu chữ:"
+
+#. Form6..ComboBox1..Hint
+msgid "Text size."
+msgstr "Kích cỡ chữ."
+
+#. Form6..GroupBox1..Caption
+msgid "Text string"
+msgstr "Nội dung"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton11..Hint
+msgid "Insert symbol (Ctrl+G)"
+msgstr "Chèn ký tự đặc biệt (Ctrl+G))"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton13..Hint
+#, fuzzy
+msgid "Insert object."
+msgstr "Chèn đối tượng"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton1..Hint
+msgid "Bold (Ctrl+B)"
+msgstr "Đậm (Ctrl+B)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton2..Hint
+msgid "Italic (Ctrl+I)"
+msgstr "Nghiêng(Ctrl+I)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton3..Hint
+msgid "Underline (Ctrl+U)"
+msgstr "Gạch dưới (Ctrl+U)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton4..Hint
+msgid "Strikethrough (Ctrl+S)"
+msgstr "Gạch ngang chữ (Ctrl+S)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton9..Hint
+msgid "Superscript (Ctrl++)"
+msgstr "Chỉ số trên (Ctrl++)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton10..Hint
+msgid "Subscript (Ctrl+=)"
+msgstr "Chỉ số dưới (Ctrl+=)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton5..Hint
+msgid "Align left (Ctrl+L)"
+msgstr "Canh trái (Ctrl+L)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton6..Hint
+msgid "Center (Ctrl+E)"
+msgstr "Canh giữa (Ctrl+E)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton7..Hint
+msgid "Align right (Ctrl+R)"
+msgstr "Canh phải (Ctrl+R)"
+
+#. Form6..IFontBox1..Hint
+msgid "Text font."
+msgstr "Định dạng chữ."
+
+#. Form6..ColorBox1..Hint
+msgid "Text color."
+msgstr "Màu chữ."
+
+#. Form6..ColorBox2..Hint
+msgid "Select background color of the text label."
+msgstr "Chọn màu nền cho nhãn chữ."
+
+#. Form6..ColorBox2..DefaultName
+msgid "Transparent"
+msgstr "Trong suốt"
+
+#. Form6..PopupMenu1..Popup_Undo..Hint
+msgid "Undo last action."
+msgstr "Trở về thao tác trước đó."
+
+#. Form6..PopupMenu1..Popup_Redo..Hint
+msgid "Redo last undone action."
+msgstr "Làm lại tác vụ cuối cùng đã hoàn tác."
+
+#. Form6..PopupMenu1..Popup_Paste..Hint
+msgid "Paste the contents of the clipboard."
+msgstr "Dán nội dung đã copy vào bộ nhớ."
+
+#. Form6..PopupMenu1..Popup_PasteSpecial..Caption
+msgid "Paste special..."
+msgstr "Dán có chọn lọc..."
+
+#. Form6..PopupMenu1..Popup_PasteSpecial..Hint
+msgid "Select which clipboard representation you want to paste."
+msgstr "Chọn bộ nhớ bạn muốn dán."
+
+#. Form6..PopupMenu1..Popup_InsertObject..Caption
+msgid "Insert object..."
+msgstr "Chèn vào đối tượng..."
+
+#. Form6..PopupMenu1..Popup_InsertObject..Hint
+msgid "Create a new OLE object."
+msgstr "Tạo một  đối tượng OLE mới."
+
+#. Form6..PopupMenu1..Popup_EditObject..Caption
+msgid "Edit object"
+msgstr "Chỉnh sửa đối tượng"
+
+#. Form6..PopupMenu1..Popup_EditObject..Hint
+msgid "Edit selected OLE object."
+msgstr "Chỉnh sửa đối tượng OLE được chọn."
+
+#. Form7..Caption
+msgid "Insert f'(x)"
+msgstr "Nhập f'(x)"
+
+#. Form8..Label1..Caption
+#. PrintFrm..GroupBox1..Label1..Caption
+msgid "Name:"
+msgstr "Tên:"
+
+#. Form8..ValueListEditor1....TitleCaptions.Strings
+msgid "Constant"
+msgstr "Hằng số"
+
+#. Form8..ValueListEditor1....TitleCaptions.Strings
+msgid "Value"
+msgstr "Giá trị"
+
+#. Form9..Label1..Caption
+msgid "Select a function or tangent to evaluate."
+msgstr "Chọn một hàm số hoặc thông số của điểm tiếp xúc."
+
+#. Form9..PolFuncFrame1....Hint
+#. ParFuncFrame..ComboBox1....Hint
+#. StdFuncFrame..ComboBox1....Hint
+msgid "Select where the cursor will be placed when you click on the image."
+msgstr "Chọn nơi con trỏ chuôt sẽ đựoc đặt khi bạn nhấn lên hình."
+
+#. AreaFrame..GridPanel1..Panel1..Edit1....Hint
+msgid "Enter the start coordinate or mark the range on the graph itself with the mouse."
+msgstr "Nhập tọa độ hoặc dùng chuột để đánh dấu điểm đầu."
+
+#. AreaFrame..GridPanel1..Panel2..Edit2....Hint
+msgid "Enter the end coordinate or mark the range on the graph itself with the mouse."
+msgstr "Nhập tọa độ hoặc dùng chuột để đánh dấu điểm cuối."
+
+#. ParFuncFrame..Label7..Caption
+#. PolFuncFrame..Label7..Caption
+#. StdFuncFrame..Label5..Caption
+msgid "Snap to:"
+msgstr "Dựa vào:"
+
+#. ParFuncFrame..Edit2..Hint
+msgid "The x-coordinate evaluated for the t-parameter."
+msgstr "Tọa độ x theo tham số t."
+
+#. ParFuncFrame..Edit3..Hint
+msgid "The y-coordinate evaluated for the t-parameter."
+msgstr "Tọa độ y theo tham số t."
+
+#. ParFuncFrame..Edit4..Hint
+msgid "The derivative of x(t) evaluated for the entered t-parameter."
+msgstr "Đạo hàm x(t) theo t."
+
+#. ParFuncFrame..Edit5..Hint
+msgid "The derivative of y(t) evaluated for the entered t-parameter."
+msgstr "Đạo hàm y(t) theo t."
+
+#. ParFuncFrame..Edit6..Hint
+msgid "The slope of the function evaluated for the entered t-parameter."
+msgstr "Độ nghiêng của hàm f(x) theo t."
+
+#. ParFuncFrame..Edit1....Hint
+#, fuzzy
+msgid "Enter the value for the parameter t for which you want to evaluate the function, or click on the graph in the graphing area."
+msgstr "Nhập vào một thông số mà bạn muốn xác định hàm số, hoặc nhấp chuột vào hàm số trên cửa sổ chính."
+
+#. ParFuncFrame..ComboBox1....Items.Strings
+#. PolFuncFrame..ComboBox1....Items.Strings
+#. StdFuncFrame..ComboBox1....Items.Strings
+msgid "Intersection"
+msgstr "Giao điểm"
+
+#. ParFuncFrame..ComboBox1....Items.Strings
+#. PolFuncFrame..ComboBox1....Items.Strings
+msgid "Extreme x-value"
+msgstr "Giá trị x của điểm cực trị"
+
+#. ParFuncFrame..ComboBox1....Items.Strings
+#. PolFuncFrame..ComboBox1....Items.Strings
+#. StdFuncFrame..ComboBox1....Items.Strings
+msgid "Extreme y-value"
+msgstr "Giá trị x của điểm cực trị"
+
+#. PolFuncFrame..Edit2..Hint
+msgid "The distance to the function evaluated for the given angle."
+msgstr "Khoảng cách của hàm số bởi một góc cho trước."
+
+#. PolFuncFrame..Edit3..Hint
+msgid "The x-coordinate evaluated for the given angle."
+msgstr "Xác định hệ trục x bởi một góc cho trước."
+
+#. PolFuncFrame..Edit4..Hint
+msgid "The y-coordinate evaluated for the given angle."
+msgstr "Xác định hệ trục y bởi một góc cho trước."
+
+#. PolFuncFrame..Edit5..Hint
+msgid "The derivative of the function evaluated for the given angle."
+msgstr "Đạo hàm của hàm số bởi một góc cho trước."
+
+#. PolFuncFrame..Edit6..Hint
+msgid "The slope of the function evaluated for the given angle."
+msgstr "Hệ số góc của hàm số bởi một góc cho trước."
+
+#. PolFuncFrame..Edit1....Hint
+#, fuzzy
+msgid "Enter the value of the polar angle for which you want to evaluate the function, or click on the graph in the graphing area."
+msgstr "Nhập biến độc lập, hoặc chọn ở Hàm trong cửa số chính."
+
+#. StdFuncFrame..Edit1....Hint
+#, fuzzy
+msgid "Enter a value for which you want to evaluate the function, or click on the graph in the graphing area."
+msgstr "Nhập vào một thông số mà bạn muốn xác định hàm số, hoặc nhấp chuột vào hàm số trên cửa sổ chính."
+
+#. StdFuncFrame..Edit2..Hint
+msgid "This is the function evaluated for the entered x-value."
+msgstr "Đây là giá trị của hàm số theo giá trị x."
+
+#. StdFuncFrame..Edit3....Hint
+msgid "This is the first derivative of the function evaluated for the entered value."
+msgstr "Đây là đạo hàm cấp 1 của hàm số theo giá trị nhập vào."
+
+#. StdFuncFrame..Edit4....Hint
+#, fuzzy
+msgid "This is the second derivative of the function evaluated for the entered value."
+msgstr "Đây là đạo hàm cấp 1 của hàm số theo giá trị nhập vào."
+
+#. TanFrame..Edit2....Hint
+msgid "This is the y-coordinate corresponding to the entered x-coordinate."
+msgstr "Đây là tọa độ y tương ứng với tọa độ x."
+
+#. TanFrame..Edit1..Hint
+#, fuzzy
+msgid "Enter an x-coordinate or click in the graphing area."
+msgstr "Nhập vào hệ trục x hoặc nhấp chuột vào cửa sổ chính."
+
+msgid "Error"
+msgstr "Lỗi"
+
+#, fuzzy
+msgid "Error %s"
+msgstr "Thanh hiển thị lỗi"
+
+msgid "Length"
+msgstr "Độ dài"
+
+#, fuzzy
+msgid "Degrees"
+msgstr "Độ"
+
+msgid "Label"
+msgstr "Nhãn tên"
+
+msgid "%s-error"
+msgstr "%s-Lỗi"
+
+msgid "Axes"
+msgstr "Trục"
+
+msgid "Ctrl"
+msgstr ""
+
+msgid "Alt"
+msgstr ""
+
+#, fuzzy
+msgid "Shift"
+msgstr "Trắng"
+
+#, fuzzy
+msgid "Del"
+msgstr "Xóa"
+
+#, fuzzy
+msgid "Ins"
+msgstr "Phóng to"
+
+msgid "Home"
+msgstr ""
+
+#, fuzzy
+msgid "End"
+msgstr "Điểm cuối:"
+
+msgid "PgUp"
+msgstr ""
+
+msgid "PgDn"
+msgstr ""
+
+msgid "Up"
+msgstr ""
+
+#, fuzzy
+msgid "Down"
+msgstr "Đóng góp"
+
+msgid "Esc"
+msgstr ""
+
+#, fuzzy
+msgid "Enter"
+msgstr "Máy in"
+
+msgid "Tab"
+msgstr ""
+
+msgid "BkSp"
+msgstr ""
+
+#, fuzzy
+msgid "Space"
+msgstr "Lưu"
+
+msgid "An error occurred while evaluating power function."
+msgstr "Lỗi trong quá trình tính nghiệm hàm lũy thừa."
+
+#, fuzzy
+msgid "Tangent to pi/2+n*pi (90+n180 in degrees) is undefined."
+msgstr "Phần tiếp xúc tới 90+p180 không xác định."
+
+msgid "Fact can only be calculated for positive integers."
+msgstr "Chỉ có thể tính toán trên số nguyên dương."
+
+msgid "Cannot take logarithm to number equal or less than zero."
+msgstr "Không thể lấy logarit của số nhỏ hơn hoặc bằng 0."
+
+msgid "sqrt is undefined for negative numbers."
+msgstr "Căn bậc hai không sử dụng cho số âm."
+
+msgid "A part of the evaluation gave a number with an imaginary part."
+msgstr "Một phần tập nghiệm có chứa số ảo."
+
+msgid "Division by zero."
+msgstr "Phép chia cho số 0"
+
+msgid "Inverse trigonometric function out of range [-1;1]"
+msgstr "Hàm số lượng giác nghịch đảo ra khỏi phạm vi [-1;1]"
+
+msgid "The function is not defined for this value."
+msgstr "Hàm số không xác định bởi giá trị này."
+
+msgid "atanh evaluated at undefined value."
+msgstr "Giá trị arctang không xác định."
+
+msgid "acosh evaluated at undefined value."
+msgstr "Giá trị arccos không xác định."
+
+msgid "arg(0) is undefined."
+msgstr "arg(0) không xác định."
+
+msgid "Evaluation failed."
+msgstr "Đánh giá thất bại"
+
+msgid "Argument produced a function result with total loss of precision."
+msgstr "Đối số đem lại một kết quả hàm với độ chính xác của hàm tổn thất."
+
+msgid "The custom function/constant '%s' was not found or has the wrong number of arguments."
+msgstr "Tùy chỉnh hàm/hằng số không thể thiết lập hoặc đối số sai."
+
+msgid "Too many recursive calls."
+msgstr "Gọi quá nhiều đệ quy."
+
+msgid "Overflow: A function returned a value too large to handle."
+msgstr ""
+
+msgid "A plugin function failed: %s"
+msgstr ""
+
+msgid "Unexpected operator. Operator '%s' cannot be placed here."
+msgstr "Toán tử này chưa có. Toán tử '%s' không thể đặt chổ này."
+
+msgid "The right bracket is missing."
+msgstr "Thiếu dấu ngoặc bên phải."
+
+#, fuzzy
+msgid "Invalid number of arguments supplied for the function '%s'"
+msgstr "Số cung cấp thì vô hiệu cho hàm '%s'"
+
+msgid "Comparison operator misplaced."
+msgstr "Toán tử so sánh để không đúng chỗ."
+
+msgid "Invalid number found. Use the format: -5.475E-8"
+msgstr "Sai định dạng số. Hãy sử dụng định dạng: -5.475E-8"
+
+#, fuzzy
+msgid "String is empty. You need to enter a formula."
+msgstr "Chuỗi rỗng.  Bạn cần nhập một hàm."
+
+msgid "Comma is not allowed here. Use dot as decimal separator."
+msgstr "Dấu phẩy (,) không được phép sử dụng. Sử dụng đấu chấm (.) để tách số thập phân."
+
+msgid "Unexpected end of brackets."
+msgstr "Thừa dấu ngoặc đơn."
+
+msgid "Number, constant or function expected."
+msgstr "Thiếu số, hằng hoặc hàm."
+
+msgid "Parameter after constant or variable not allowed."
+msgstr "Không cho phép tham số của hằng hoặc biến."
+
+msgid "Expression expected."
+msgstr "Thiếu biểu thức."
+
+msgid "Unknown variable, function or constant: \"%s\""
+msgstr "Biến, hàm hoặc hằng không xác định: \"%s\""
+
+msgid "Unknown character: \"%s\""
+msgstr "Ký tự không xác định: \"%s\""
+
+msgid "The end of the expression was unexpected."
+msgstr "Thiếu phần kết thúc biểu thức."
+
+#, fuzzy
+msgid "Error parsing expression."
+msgstr "Lỗi phân tích cú pháp hàm."
+
+msgid "A calculation resulted in an overflow."
+msgstr "Lỗi tính toán tràn bộ nhớ."
+
+msgid "An invalid value was used in the calculation."
+msgstr "Không thể tính toán một giá trị không hợp lệ."
+
+msgid "Not enough points for calculation."
+msgstr "Không đủ số điểm để tính toán."
+
+msgid "Illegal name \"%s\" for user defined function or constant."
+msgstr "Tên hàm hoặc hằng tự định nghĩa không hợp lệ: \"%s\"."
+
+msgid "Cannot differentiate recursive function."
+msgstr "Không thể lấy vi phân hàm đệ qui."
+
+msgid "Internal error."
+msgstr "Lỗi chương trình."
+
+#, fuzzy
+msgid "Function \"%s\" cannot be differentiated."
+msgstr "Không thể lấy vi phân hàm này."
+
+msgid "Not further specified error occurred under calculation."
+msgstr "Không có lỗi nào tìm thấy trong quá trình tính toán."
+
+msgid "No solution found. Try another guess or another model."
+msgstr "Không tìm được giải pháp thích hợp. Vui lòng thử lại sau."
+
+msgid "No result found."
+msgstr ""
+
+#, fuzzy
+msgid "An accurate result cannot be found."
+msgstr "Lỗi tính toán tràn bộ nhớ."
+
+msgid "Internal error. Please notify the programmer with as much information as possible."
+msgstr "Lỗi chương trình. Xin vui lòng thông báo lỗi này cho tác giả, càng đầy đủ thông tin càng tốt."
+
+msgid "You need to enter a name for the function/constant."
+msgstr "Bạn cần nhập tên hàm/hằng."
+
+msgid ""
+"Invalid function/constant name '%s'.\n"
+"The name may only contain letters and decimal digits, and it must always start with a letter.\n"
+"In addition you are not allowed to redefine built-in names."
+msgstr ""
+"Tên '%s' của hàm/hằng không hợp lệ.\n"
+"Tên hợp lệ bao gồm chữ và số, và phải bắt đầu bằng chữ.\n"
+"Và bạn cũng không được quyền định nghĩa lại những tên có sẵn của chương trình."
+
+msgid "You need to enter a name for the argument."
+msgstr "Bạn phải nhập tên cho agumen."
+
+msgid ""
+"Invalid argument name '%s'.\n"
+"The name may only contain letters and decimal digits, and it must always start with a letter.\n"
+" In addition you are not allowed to use built-in names as argument names."
+msgstr ""
+"Tên đối số không hợp lệ: '%s'.\n"
+"Tên có thể chứa ký tự và chữ số, và phải luôn bắt đầu bằng ký tự.\n"
+"Và không thể sử dụng tên có sẵn để làm tên tham số."
+
+msgid "Character found after brackets."
+msgstr "Thừa ký tự phí sau ngoặc đơn."
+
+msgid "Symbol \"%s\" defined more than once."
+msgstr "Định nghĩa ký tự \"%s\" hơn một lần."
+
+msgid "Invalid equation or inequality."
+msgstr "Phương trình hay bất phương trình không đúng."
+
+msgid "Updating..."
+msgstr "Đang cập nhật..."
+
+msgid "Save changes?"
+msgstr "Lưu những gì bạn đã thay đổi?"
+
+msgid "Save changes in %s?"
+msgstr "Lưu nhựng thay đổi vào %s?"
+
+msgid "You have reached the maximum range of zoom."
+msgstr "Bạn đã phóng to hết cỡ."
+
+msgid "You have reached the minimum range of zoom."
+msgstr "Bạn đã thu nhỏ hết cỡ."
+
+#, fuzzy
+msgid "'%s' must not be zero."
+msgstr "'%s' phải lớn hơn 0."
+
+msgid "Error in value"
+msgstr "Giá trị sai"
+
+msgid "'%s' has to be an integer value greater or equal to 0."
+msgstr "'%s' phải là số nguyên lớn hơn hoặc bằng 0."
+
+msgid "'%s' must be greater than zero."
+msgstr "'%s' phải lớn hơn 0."
+
+msgid "'%s' must be an integer greater than zero."
+msgstr "'%s' phải là một số nguyên dương."
+
+msgid "Trying to break zoom limit."
+msgstr "Phóng to / Thu nhỏ quá nhiều."
+
+msgid "'%s' must be greater than '%s'"
+msgstr "'%s' phải lớn hơn '%s'"
+
+msgid "The maximum value must be greater than the minimum value."
+msgstr "Giá trị lớn nhất phải lớn hơn giá trị nhỏ nhất."
+
+msgid "You need to enter a value."
+msgstr "Bạn cần nhập một giá trị"
+
+msgid ""
+"This file was created with Graph %s.\n"
+"Only files from version %s and higher can be opened."
+msgstr ""
+"Tập tin được tạo bằng Graph %s.\n"
+"Chỉ mở được những tập tin từ phiên bản %s hoặc cao hơn."
+
+msgid "'%s' is not a valid number."
+msgstr "'%s' không phải là số."
+
+msgid "'%s' must be a positive number."
+msgstr "'%s' phải là một số dương."
+
+msgid "File not found: %s"
+msgstr "Không tìm thấy tập tin: %s"
+
+msgid ""
+"Error reading file: %s\n"
+"The file is not a correct Graph file."
+msgstr ""
+"Lỗi khi đọc tập tin: %s\n"
+"Tập tin này không phải là một tập tin Graph."
+
+msgid "Unknown error while reading file: %s"
+msgstr "Lỗi không xác định khi đọc tập tin: %s"
+
+msgid "Graph files [*.grf]|*.grf"
+msgstr "Graph files [*.grf]|*.grf"
+
+msgid ""
+"Cannot write to file: %s\n"
+"Access denied. Check that the file is not in use or write protected."
+msgstr ""
+"Không thể ghi vào tập tin: %s\n"
+" Không thể truy cập. Kiểm tra tập tin đó có hiện đang được sử dụng hoặc đang trong chế độ bảo vệ."
+
+msgid "The font \"%s\" doesn't exist. Standard font is used instead."
+msgstr "Font chữ \"%s\" không tồn tại. Sử dụng font chữ chuẩn để thay thế."
+
+#, fuzzy
+msgid "Graph system"
+msgstr "Di chuyển hệ trục"
+
+#, fuzzy
+msgid "Open"
+msgstr "Mở..."
+
+msgid "Selection error"
+msgstr "Phần được chọn bị lỗi"
+
+msgid "File error"
+msgstr "Lỗi tập tin"
+
+msgid "Write access failed"
+msgstr "Ghi truy xuất bị lỗi"
+
+msgid "OLE error"
+msgstr "OLE bị lỗi"
+
+msgid "Error reading object"
+msgstr "Đọc đối tượng bị lỗi"
+
+msgid "Not a valid Graph object."
+msgstr "Đối tượng Graph không hợp lệ."
+
+msgid "Object error"
+msgstr "Lỗi đối tượng"
+
+msgid "Windows does not have enough resources to save an image that large."
+msgstr "Hệ điều hành không đủ tài nguyên để lưu một hình quá lớn."
+
+msgid "'%1%' must be between %2% and %3%."
+msgstr "'%1%' phải nằm giữa %2% và %3%."
+
+msgid "File not found"
+msgstr "Không tìm thấy tập tin"
+
+msgid "Error reading file"
+msgstr "Lỗi đọc file"
+
+#, fuzzy
+msgid "Printer error"
+msgstr "Lỗi in"
+
+msgid "Invalid use of infinity. Infinity cannot be used here."
+msgstr ""
+
+msgid "Not enough memory to complete the operation."
+msgstr ""
+
+msgid "Confirm delete"
+msgstr "Xác nhận xóa"
+
+msgid "Are you sure you want to delete %s?"
+msgstr "Bạn có chắc chắn muốn xóa %s?"
+
+msgid "Graph files [*.grf]|*.grf|All files [*.*]|*.*"
+msgstr "Graph files [*.grf]|*.grf|All files [*.*]|*.*"
+
+msgid "CSV (semicolon delimited) [*.csv]|*.csv|CSV (comma delimited) [*.csv]|*.csv|Text (tab delimited) [*.txt]|*.txt|Text (space delimited) [*.txt]|*.txt|All files [*.*]|*.*"
+msgstr ""
+
+msgid "Are you sure you want to delete the model: %s?"
+msgstr "Bạn có chắc chắn muốn xóa: %s ?"
+
+msgid "Maximum number on x-axis must be greater than the minimum value."
+msgstr "Số cực đại trên trục hoành (x) phải lớn hơn số cực tiểu."
+
+msgid "Maximum number on y-axis must be greater than the minimum value."
+msgstr "Số cực đại trên trục tung (y) phải lớn hơn số cực tiểu."
+
+msgid "Server application not found."
+msgstr "Ứng dụng không thể thiết lập."
+
+msgid "Maximum number for t must be greater than the minimum value."
+msgstr "Số lớn nhất cho t phải lớn hơn giá trị cực đại."
+
+msgid "The step value for t must be a number greater than 0."
+msgstr "Giá trị bước của t phải là số lớn hơn 0."
+
+msgid "The minimum value for the x-axis must be greater than 0, when the x-axis is logarithmic scaled."
+msgstr "Giá trị nhỏ nhất của trục x phải lớn hơn 0, khi trục x được tính theo thang logarit."
+
+msgid "The cross point of the y-axis must be greater than 0, when the x-axis is logarithmic scaled."
+msgstr "Điểm giao nhau của trục y thì lớn hơn 0 , khi trục x được tính theo thang logarit."
+
+msgid "The minimum value for the y-axis must be greater than 0, when the y-axis is logarithmic scaled."
+msgstr "Giá trị nhỏ nhất của trục y phải lớn hơn 0, khi trục x được tính theo thang logarit."
+
+msgid "The cross point of the x-axis must be greater than 0, when the y-axis is logarithmic scaled."
+msgstr "Giao điểm với trục x phải lớn hơn 0, khi trục y được tính theo thang logarit."
+
+msgid "'Recent files' must be between 0 and 9."
+msgstr "Những tập tin gần đây phải nằm trong khoảng từ 0-9"
+
+msgid "The end of interval must be greater than the start of interval."
+msgstr "Điểm cuối phải lớn hơn điểm đầu."
+
+msgid "Error in interval."
+msgstr "Khoảng cách bị lỗi."
+
+msgid "The width must be an integer greater than 0."
+msgstr "Chiều rộng phải là số nguyên lớn hơn 0."
+
+msgid "Error in width"
+msgstr "Chiều rộng bị lỗi"
+
+msgid "The end of interval must be greater than the start of interval and %s must be greater than 0."
+msgstr "Khoảng thời gian kết thúc phải lớn hơn khoảng thời gian bắt đầu và %s phải lớn hơn 0."
+
+msgid "Invalid model name."
+msgstr ""
+
+msgid "A model of that name already exist."
+msgstr ""
+
+msgid "The derivative of the function is not defined at %s=%s"
+msgstr "Đạo hàm của hàm số không được định nghhĩa với %s=%s"
+
+#, fuzzy
+msgid "Coordinate not defined"
+msgstr "Tọa độ chưa định nghĩa."
+
+msgid "Checking for newer version..."
+msgstr "Kiểm tra phiên bản mới..."
+
+msgid "Abort printing?"
+msgstr "Hủy in?"
+
+msgid "Calculate area"
+msgstr "Tính diện tích"
+
+msgid "Calculate length of path"
+msgstr "Tính độ dài đường thẳng"
+
+msgid "Edit function"
+msgstr "Hiệu chỉnh hàm số"
+
+msgid "Edit tangent/normal"
+msgstr "Chỉnh sửa tiếp tuyến/pháp tuyến"
+
+msgid "Error processing file '%s' at line %s."
+msgstr "Lỗi sử lý tập tin %s tại dòng %s."
+
+#, fuzzy
+msgid "Edit text label"
+msgstr "Tên"
+
+msgid "The model needs some constants (starting with a $) for Graph to find."
+msgstr ""
+
+msgid "'%s' has to be an integer value between 0 and 1000."
+msgstr "'%s' phải là số nguyên giữa 0 và 1000."
+
+msgid "Printing error"
+msgstr "Lỗi in"
+
+msgid "An unknown error occurred while printing."
+msgstr "Một lỗi không xác định được trong khi in."
+
+msgid "Error while adding points"
+msgstr "Lỗi trong khi thêm điểm."
+
+msgid "Each point needs both an x- and a y-coordinate."
+msgstr "Mỗi điểm cần có cả hai tọa độ x và y."
+
+msgid "\"%s\" is not a valid number."
+msgstr "%s không phải là một số hợp lệ."
+
+msgid "You didn't add any points. You need to specify some x- and y-coordinates in the grid."
+msgstr "Bạn chưa thêm bất kỳ điểm nào. Bạn cần chỉ  rõ tọa độ x và y trên lưới."
+
+msgid "Edit point series"
+msgstr "Chỉnh sửa tập hợp điểm"
+
+#, fuzzy
+msgid "Edit shading"
+msgstr "Điều chỉnh hình thể"
+
+msgid "You need to select a function."
+msgstr "Bạn cần chọn một hàm."
+
+msgid "New version of Graph available"
+msgstr "Đã có phiên bản mới của Graph"
+
+#, fuzzy
+msgid ""
+"Graph %s is now available for download from www.padowan.dk\n"
+"\n"
+"Would you like to visit the download page?"
+msgstr ""
+"Graph %s đã được cho phép tải về từ trang www.padowan.dk\n"
+"wtih với nhiều tính năng mới so với phiên bản: \n"
+"\n"
+"%s\n"
+"\n"
+"Bạn có muốn vào trang chủ của Graph"
+
+msgid "No new version"
+msgstr "Chưa có phiên bản mới"
+
+#, fuzzy
+msgid "You are already using the most recent version of Graph."
+msgstr "Bạn đang sử dụng phiên bản mới nhất."
+
+msgid ""
+"Cannot connect to server www.padowan.dk.\n"
+"Either the server is down or you do not have a connection to the Internet."
+msgstr ""
+"Không thể truy cập tới máy chủ www.padowan.dk.\n"
+"Có thể máy chủ đang ngưng hoặc bạn không kết nối vào Internet."
+
+msgid "Socket error %s"
+msgstr "Lỗi kết nối: %s"
+
+msgid "Definite integral, or signed area between function and x-axis, for the given domain range."
+msgstr ""
+
+#, fuzzy
+msgid "Length of path along the curve calculated for the given range."
+msgstr "Hệ số góc của hàm số bởi một góc cho trước."
+
+msgid ""
+"The file cannot be opened by this version of the program.\n"
+"You need at least Graph %s to open this file."
+msgstr ""
+"Tập tin không thể được mở bằng phiên bản này.\n"
+"Bạn cần ít nhất là Graph %s để mở tập tin."
+
+msgid ""
+"This file was saved by an outdated version of Graph,\n"
+"and it cannot be opened by the current version."
+msgstr "Tập tin này được lưu bởi một phiên bản cũ của Graph, và không thể mở nó với phiên bản hiện tại."
+
+msgid ""
+"\n"
+"\n"
+"If you don't want to be asked again, this feature may be disabled from the Edit|Options dialog."
+msgstr ""
+"\n"
+"\n"
+"Nếu bạn không muốn lập lại, chức năng này có thể mất khả năng hoạt động từ hộp thoại Chỉnh sửa/Tùy chọn."
+
+msgid "Edit relation"
+msgstr "Chỉnh sửa mối quan hệ"
+
+msgid "Commands"
+msgstr "Lệnh"
+
+msgid "(All Commands)"
+msgstr "(Tất cả lệnh)"
+
+#, fuzzy
+msgid "To add a command to the toolbar simply select a category and drag the command out of this dialog box to the toolbar."
+msgstr "Thêm vào một lệnh lên thanh công cụ, chọn một nhóm và kéo lệnh ra khỏi hộp thoại đến thanh công cụ."
+
+msgid "Edit f'(x)"
+msgstr "Chỉnh sửa f'(x)"
+
+msgid "Edit trendline"
+msgstr "Chỉnh sửa đường thích hợp"
+
+msgid "Categories:"
+msgstr "Nhóm:"
+
+msgid ""
+"The program seems to be stuck in an infinite loop.\n"
+"If you cancel the operation the program will become unstable.\n"
+"You should therefore save your data under a new name and restart the application."
+msgstr ""
+
+msgid "Thread is not responding"
+msgstr ""
+
+msgid "This Tip of the day can give you a lot of information about the program that most users don't know."
+msgstr "Hướng dẫn nhanh cung cấp cho bạn những thông tin hữu ích để bạn có thể sử dụng chương trình hiệu quả hơn."
+
+msgid "You can get help using Graph, report bugs and suggest future improvements at the web forum: <a href=\"http://forum.padowan.dk\">http://forum.padowan.dk</a>"
+msgstr ""
+
+msgid "You can customize the toolbar by right clicking on it and select 'Customize toolbar'."
+msgstr "Bạn có thể tùy chỉnh thanh công cụ bằng cách nhấp phải chuột vào nó và chọn 'Tùy chỉnh thanh công cụ'."
+
+#, fuzzy
+msgid "Instead of deleting a function, you can make it invisible by removing the check mark for the item in the function list."
+msgstr "Thay vì xóa một hàm bạn có thể ẩn nó bằng cách nhấp phải chuột vào nó trong danh sách hàm và bỏ chọn 'Hiện'."
+
+msgid "You can paste images into a text label."
+msgstr "Bạn có thể dán hình ảnh vào văn bản."
+
+msgid "Text labels can contain any kind of OLE objects, for example Microsoft Equation. When editing a label right click in the editing area and select 'Insert object'."
+msgstr "Văn bản có thể bao gồm nhiều nhóm đối tượng OLE, ví dụ như Microsoft Equation. Khi thay đổi tên nhấp phải chuột vào chỗ cần thay đổi và chọn 'Chèn đối tượng'."
+
+msgid "You can export points from a point series to a file that can be read by other programs, for example Microsoft Excel. When editing the point series select the points, right click and choose 'Export to file'."
+msgstr "Bạn có thể xuất một tập hợp điểm thành một tập tin, nó có thể đọc từ nhiều chương trình khác nhau, ví dụ như Microsoft Excel. Khi thay đổi điểm trên tập hợp điểm , nhấp phải chuột và chọn \"Truy xuất thành tập tin'."
+
+msgid "A vertical line at x=5 can be drawn as the parametric function x(t)=5, y(t)=t or as the relation x=5."
+msgstr "Đường x=5 có thể vẽ bằng hàm với thông số x(t)=5, y(t)=t hoặc bằng quan hệ x=5."
+
+msgid "You can use Zoom|Square to make the axes look equally scaled. This is especially useful when drawing circles and similar functions."
+msgstr "Bạn có thể sử dụng chức năng Phóng to/Thu nhỏ|Đều để đơn vị hệ trục đều nhau. Chức năng này rất có ích khi vẽ đường tròn hoặc các hình đồng dạng."
+
+msgid "You can find a list of all available functions in the help."
+msgstr "Bạn có thể tìm danh sách tất cả các hàm có sẵn trong trợ giúp."
+
+msgid "You can combine two functions to one using 'if'. For example the function f(x)=x for x<1 and f(x)=x^2 for x>=1 can be written as f(x)=if(x<1, x, x^2)."
+msgstr "Bạn có thể sử dụng 'if' để kết hợp 2 hàm thành 1. Ví dụ: Hàm f(x)=x với x < 1 và f(x) = x^2 với x >= 1, ta có thể viết thành:f(x) = if (x < 1, x, x^2)."
+
+msgid "You can import the contents of another Graph file into the current coordinate system using 'File|Import|Graph file'."
+msgstr "Bạn có thể mở nội dung của các tập tin Graph khác nhau vào chương trình bằng cách sử dụng 'Tập tin|Nhập|Tập tin Graph'."
+
+#, fuzzy
+msgid "If you check 'Save as default' in the Axes dialog the current settings will be used as default when creating new coordinate systems."
+msgstr "Nếu bạn chọn 'Lưu mặc định'"
+
+msgid "While you hold down the Ctrl key, you can use the arrow keys to move the system."
+msgstr "Bấm giữ phím Ctrl và các phím mũi tên để di chuyển hệ trục."
+
+msgid "While you hold down the Ctrl key, you can use the + and - keys to zoom in and out."
+msgstr "Bấm giữ phím Ctrl và phím + , - để phóng to hoặc thu nhỏ."
+
+msgid "You can use the scroll button on your mouse to zoom in and out at the position of the mouse cursor."
+msgstr "Bạn có thể sử dụng nút cuộn trên con chuột để phóng to và thu nhỏ."
+
+msgid "If you don't want an item shown in the legend, you can right click on the item in the function list and deselect 'Show in legend'."
+msgstr "Nếu bạn không muốn hiển thị ghi chú, bạn có thể nhấp phải chuột vào đối tượng trên danh sách đối tượng và bỏ chọn 'Hiển thị ghi chú'."
+
+msgid "If you want the axes shown to the left and bottom of the image, you can choose Axes style as Boxed in the Settings tab of the Axes dialog."
+msgstr "Nếu bạn muốn hiển thị hệ trục ở vị trí góc dưới bên trái, bạn có thể chọn hiển thị trục theo dạng hộp trong mục Chỉnh sửa|Thông số|Kiểu hiển thị trục."
+
+msgid "Graph can save the shown coordinate system in five different image formats: bmp, emf, png, jpg and pdf."
+msgstr "Graph có thể lưu hệ trục với 5 kiểu định dạng: bmp, emf, png, jpg và pdf."
+
+#, fuzzy
+msgid "You can use 'Edit|Copy image' to copy the coordinate system and paste it into another program, for example, Microsoft Word. Later you can usually edit the image in Graph by double clicking on it in the other program."
+msgstr "Bạn có thể sử dụng 'Chỉnh sửa|Sao chép ảnh' để sao chép vào tập giấy vẽ và dán nó vào chương trình khác."
+
+msgid "You can open a saved grf-file in a new instance of the program by double clicking on it in Explorer."
+msgstr "Bạn có thể mở một tập tin grf có sẵn bằng cách nhấp đúp chuột vào tập tin đó."
+
+msgid "You can drag a grf-file from explorer into an open instance of Graph to open the file."
+msgstr "Bạn có thể mở một tập tin grf bằng cách kéo biểu tượng tập tin vào trong cửa sổ làm việc của chương trình Graph."
+
+#, fuzzy
+msgid "Graph will remember the size of the main window between executions. This can be disabled from the Options dialog."
+msgstr "Chương trình Graph sẽ ghi nhớ kích thước và vị trí cửa sổ làm việc giữa những lần sử dụng chương trình. Chức năng này có thể thay đổi trong Tùy Chọn của chương trình."
+
+msgid "Calc|Table can be used to create a table with evaluation values for a function."
+msgstr "Tính toán | Bảng có thể dùng để tạo ra một bảng nghiệm của hàm."
+
+msgid "A part or the whole evaluation table can be exported to a file by right clicking and selecting 'Export to file'. It can afterwards be opened in other programs like Microsoft Excel."
+msgstr "Có thể xuất một phần bảng nghiệm của hàm ra tập tin bằng cách nhấn chuột phải và chọn 'Xuất ra tập tin'. Tập tin này có thể được mở bằng các chương trình khác như Microsoft Excel."
+
+#, fuzzy
+msgid "Data from the evaluation table can be copied to another program like Microsoft Excel."
+msgstr "Dữ liệu từ bảng nhiệm có thể được sao chép sang chương trình khác như Microsoft Excel thông qua bộ nhớ."
+
+#, fuzzy
+msgid "The data points in a point series can be copied to and from other programs like Microsoft Excel."
+msgstr "Dữ liệu các điểm trong tập hợp điểm có thể sao chép qua chương trình khác như Microsoft Excel thông qua bộ nhớ."
+
+#, fuzzy
+msgid "Elements as functions, point series, etc. can be copied from one instance of the program to another using Edit|Copy."
+msgstr "Hàm có thể được sao chép từ cửa sổ làm việc vào bộ nhớ bằng lệnh Chỉnh sửa|Sao chép."
+
+msgid "You can always undo the last thing you did using Edit|Undo."
+msgstr "Bạn có thể hoàn lại tác vụ cuối bằng cách sử dụng lệnh Chỉnh sửa|Hoàn tác."
+
+msgid "If you used Edit|Undo by mistake, you can use Edit|Redo to redo what you have undone."
+msgstr "Nếu bạn lỡ bấm vào Chỉnh sửa|Hoàn tác, bạn có thể chọn Chỉnh sửa|Làm lại để hủy bỏ hoàn tác."
+
+msgid "In the Axes dialog you can add a title to the coordinate system."
+msgstr "Bạn có thể chèn thêm tiêu đề vào hệ trục."
+
+msgid "You can import point series from files saved by other programs, like Microsoft Excel."
+msgstr "Bạn có thể thêm vào các tập hợp điểm từ những tập tin của những chương trình khác nhau, như là như Microsoft Excel. "
+
+#, fuzzy
+msgid "When inserting a point series, you can copy data from programs like Microsoft Excel, and paste the data into the grid in Graph."
+msgstr "Khi nhập một tập hợp điểm, bạn có thể sao chép dữ liệu từ những chương trình tương tự như Microsoft Excel, và dán vào Graph."
+
+#, fuzzy
+msgid "You can use 'Zoom|Fit all' to change the coordinate system so all functions and point series are visible."
+msgstr "Bạn có thể chọn 'Phóng to/Thu nhỏ|Tất cả các điểm' để có thể thấy tất cả các điểm trên hệ trục."
+
+#, fuzzy
+msgid "You can use Zoom|Fit to change the coordinate system to show all parts of the selected function or point series."
+msgstr "Bạn có thể chọn 'Phóng to/Thu nhỏ|Vừa vặn' để có thể thấy hàm hoặc tập hợp điểm được chọn."
+
+msgid "When you hold down the Shift key you can drag the coordinate system around with the mouse."
+msgstr "Bấm giữ phím Shift và kéo thả chuột để di chuyển hệ trục."
+
+msgid "You can use Calc|Evaluate to find intersections between functions, crossings with the axes and extremum points."
+msgstr "Bạn có thể sử dụng 'Tính|Thông số liên quan' để tìm giao điểm của các hàm số, giao điểm của hệ trục và cực trị."
+
+msgid "When a point series is selected you can add points to it by clicking on the image while you hold down the Ctrl key."
+msgstr "Khi bạn chọn một tập hợp điểm, bạn có thể thêm vào những điểm bằng cách bấm giữ phím Ctrl tọa độ điểm cần thêm vào trên hệ trục."
+
+msgid "You can use a relation to plot any inequality, for example sin(x^2) < cos(y^2)"
+msgstr "Bạn có thể sử dụng chức năng chèn mối quan hệ để vẽ đồ thị của bất phương trình , ví dụ như : sin(x^2) < cos(y^2)"
+
+msgid "You can use a relation to plot any equation, for example x*sin x = y*cos y"
+msgstr "Bạn có thể sử dụng chức năng chèn mối quan hệ để vẽ đồ thị của phương trình , ví dụ như : x*sin x = y*cos y"
+
+msgid "Elements (functions, shadings, labels, relations, etc.) are drawn in the same order they appear in the function list to the left."
+msgstr "Các đối tượng (hàm, bóng, nhãn, quan hệ, v.v...) được biểu diễn theo thứ tự của danh sách đối tượng phía bên trái."
+
+msgid "You can move the selected element in the function list either by dragging it with the mouse or with the arrow up/down keys while ALT is held down."
+msgstr "Bạn có thể di chuyển đối tượng được chọn trong danh sách đối tượng bằng chuột (kéo/thả) hoặc bấm phím ALT cùng với phím lên/xuống."
+
+msgid "You can show functions and other elements behind the axes by moving the element above the axes in the function list to the left. To move shadings and tangents you will have to move the functions they are attached to."
+msgstr "Bạn có thể cho hiển thị hàm hoặc các đối tượng khác phía dưới hệ trục bằng cách di chuyển các đối tượng phía trên hệ trục sang bên trái. Muốn di chuyển bóng và tiếp tuyến bạn phải di chuyển hàm của tiếp tuyến/bóng."
+
+msgid "Custom text labels may be attached to the axes by right clicking on the label and selecting a placement from the context menu."
+msgstr "Có thể di chuyển các nhãn trên hệ trục bằng cách nhấp chuột phải vào nhãn và chọn chức năng vị trí nhãn trong trình đơn."
+
+msgid "The legend may be moved freely with the mouse or attached to one of the corners by right clicking on the legend and choose a placement from the context menu."
+msgstr "Lời chú thích có thể được di chuyển túy thích bằng chuột hay gắn liền với một trong các góc bằng cách nhấn phải chuột trên lời chú thích và chọn nơi cần đặt trên menu con."
+
+msgid "As an alternative to Transparent, you can choose a custom background color for labels. This is especially useful for labels drawn over shadings."
+msgstr "Như một giải pháp để làm trong suốt bạn có thể chọn 1 màu tùy chọn cho các nhãn.  Một chức năng hữu ích cho đặt các nhãn qua bóng."
+
+msgid "In most places like point series, axes settings, function ranges, etc., you can use expressions like pi/4 instead of numbers."
+msgstr "Trong hầu hết các nơi: tập hợp điểm, cấu hình hệ trục, khoảng, v.v..., bạn có thể sử dụng biểu thức (vd: pi/4) thay cho số."
+
+msgid "You can create your own custom constants under Function|Custom functions for use in functions, point series, etc. For example g=9.80665, R=8.31"
+msgstr "Bạn có thể tạo các hằng số của riêng mình dưới Hàm số|Đặt hàm số sử dụng trong các hàm số, tập hợp điểm..v..v. Ví dụ: g=9.80665, R=8.31"
+
+msgid "You can create your own custom functions under Function|Custom functions for use in plotting functions, relations, etc. For example sinc(x)=if(x=0, 0, sin(x)/x)"
+msgstr "Bạn có thể tạo các hàm số của mình dưới Hàm số|Đặt hàm số  sử dụng trong các đồ thị hàm số, mối quan hệ các hàm..v..v. Ví dụ sinc(x)=if(x=0,0, sin(x)/x)"
+
+msgid "In the Save as image dialog there is an Option button you can use to specify the image resolution. This is especially useful if you want a high resolution image."
+msgstr "Trong cửa sổ lưu hình ảnh có một nút tùy chọn mà bạn có thể sử dụng để xác định độ phân giải của ảnh. Nếu bạn muốn lưu ảnh với độ phân giải cao thì đây là một cách hữu ích."
+
+msgid "Point series can have arrows as markers. A point series with arrows as markers and lines between the points can be used to show vectors."
+msgstr "Tập hợp điểm có thể đánh dấu bằng những mũi tên. Một tập hợp điểm đánh dấu bằng những mũi tên và những đường thẳng giữa các điểm có thể được sử dụng để hiển thị các vectơ."
+
+msgid "Insert symbol"
+msgstr "Chèn ký hiệu"
+
+msgid "Subset:"
+msgstr "Tập hợp con:"
+
+msgid "Insert"
+msgstr "Chèn"
+
+msgid "Select color"
+msgstr "Chọn màu"
+
+msgid "Customize"
+msgstr "Tùy biến"
+
+msgid "Description"
+msgstr "Miêu tả"
+
+msgid "Cannot open clipboard: %s"
+msgstr ""
+
+msgid "There is no default printer currently selected."
+msgstr ""
+
+msgid "Install for all users"
+msgstr ""
+
+#, fuzzy
+msgid "Examples"
+msgstr "Ví dụ"
+
+msgid "Local"
+msgstr "Cục bộ"
+
+msgid "Global"
+msgstr "Toàn cục"
+
+#. PrintFrm..Caption
+msgid "Print"
+msgstr "In ấn"
+
+#. PrintFrm..Label6..Caption
+msgid "Scale:"
+msgstr "Tỉ lệ:"
+
+#. PrintFrm..GroupBox1..Caption
+msgid "Printer"
+msgstr "Máy in"
+
+#. PrintFrm..GroupBox1..Label7..Caption
+msgid "Type:"
+msgstr "Loại"
+
+#. PrintFrm..GroupBox1..Label8..Caption
+msgid "Where:"
+msgstr "Cổng:"
+
+#. PrintFrm..GroupBox1..Label9..Caption
+msgid "Comment:"
+msgstr "Chú giải"
+
+#. PrintFrm..GroupBox1..ComboBox1....Hint
+msgid "Select the printer to use. The Properties button may be used to change more advanced settings for the printer."
+msgstr "Chọn máy in. Những nút thuộc tính có thể được sử dụng để thay đổi những cấu hình chi tiết của máy in."
+
+#. PrintFrm..RadioGroup2....Hint
+msgid "Select to print in color (or grayscale if your printer is not a color printer) or convert all colors to black."
+msgstr "Chọn in màu (hay xám nếu máy in không phải máy in màu) hoặc chuyển tất cả thành màu đen."
+
+#. PrintFrm..RadioGroup2..Caption
+msgid "Print output"
+msgstr "Đầu ra bản in"
+
+#. PrintFrm..RadioGroup2....Items.Strings
+msgid "Color"
+msgstr "Màu"
+
+#. PrintFrm..RadioGroup2....Items.Strings
+msgid "Black && white"
+msgstr "Trắng đen"
+
+#. PrintFrm..GroupBox2..Caption
+msgid "Position (millimeters)"
+msgstr "Vị trí (milimet)"
+
+#. PrintFrm..GroupBox2..Label3..Caption
+msgid "Left margin:"
+msgstr "Canh trái"
+
+#. PrintFrm..GroupBox2..Label4..Caption
+msgid "Top margin:"
+msgstr "Canh trên"
+
+#. PrintFrm..GroupBox2..CheckBox1..Hint
+#, fuzzy
+msgid "Center the printing area on the page."
+msgstr "Nhập vị trí của hình trên trang"
+
+#. PrintFrm..GroupBox2..CheckBox1..Caption
+msgid "Center on page"
+msgstr "Giữa trang"
+
+#. PrintFrm..GroupBox2..Edit1....Hint
+#. PrintFrm..GroupBox2..Edit2....Hint
+msgid "Specify the printing area of the page. The printer will print only within these margins."
+msgstr ""
+
+#. PrintFrm..GroupBox3..Label5..Caption
+msgid "Number of copies:"
+msgstr "Số bản"
+
+#. PrintFrm..GroupBox3..Edit3..Hint
+msgid "Choose number of copies to print."
+msgstr "Chọn số bản để in."
+
+#. PrintFrm..Edit4..Hint
+msgid "Enter percent of original size."
+msgstr "Nhập phần trăm so vơi kích cỡ gốc."
+
+#~ msgid "Associate *.grf files with Graph."
+#~ msgstr "Tích hợp tập tin *.grf với Graph."
+
+#~ msgid "Associate .grf files"
+#~ msgstr "Tích hợp tập tin .grf"
+
+#, fuzzy
+#~ msgid "Integral"
+#~ msgstr "Internet"
+
+#, fuzzy
+#~ msgid "Calculate definite integral"
+#~ msgstr "Bảng tính"
+
+#, fuzzy
+#~ msgid "Integrate"
+#~ msgstr "Internet"
+
+#~ msgid "Area or length of path calculated for the given range using Simpson's formula."
+#~ msgstr "Diện tích hoặc độ dài của đồ thị được tính bằng công thức gần đúng Simpson."
+
+#~ msgid "Extremum"
+#~ msgstr "Cực trị"
+
+#~ msgid "This is the functions second derivative evaluated for the entered value."
+#~ msgstr "Đây là đạo hàm cấp 2 của hàm số theo giá trị nhập vào."
+
+#~ msgid "Zoom in."
+#~ msgstr "Phóng to."
+
+#~ msgid "Zoom out."
+#~ msgstr "Thu nhỏ."
+
+#~ msgid "Zoom to standard coordinates."
+#~ msgstr "Trở lại kích thước hệ trục mặc định."
+
+#~ msgid "Calculates the area under the path of the selected function."
+#~ msgstr "Tính toán diện tích vùng phía dưới đường cong."
+
+#~ msgid "Go to home page"
+#~ msgstr "Trang web của Graph"
+
+#~ msgid "About Graph..."
+#~ msgstr "Thông tin về chương trình"
+
+#~ msgid "All points"
+#~ msgstr "Tất cả các điểm"
+
+#~ msgid "Zoom as much as all points are visible."
+#~ msgstr "Phóng to, thu nhỏ để hiển thị tất cả các điểm."
+
+#~ msgid "Zoom in on the x-axis only."
+#~ msgstr "Chỉ phóng to trục x."
+
+#~ msgid "Zoom out on the x-axis only."
+#~ msgstr "Chỉ thu nhỏ trục x."
+
+#~ msgid "Zoom in on the y-axis only."
+#~ msgstr "Chỉ phóng to trục y."
+
+#~ msgid "Zoom out on the y-axis only."
+#~ msgstr "Chỉ thu nhỏ trục y."
+
+#~ msgid "Custom functions..."
+#~ msgstr "Tùy chỉnh hàm số..."
+
+#~ msgid "Mark end of range"
+#~ msgstr "Đánh dấu đường biên cuối"
+
+#~ msgid "Mark the start of the shading with a line."
+#~ msgstr "Đánh dấu đường biên đầu của phần đổ bóng bằng một đường thẳng."
+
+#~ msgid "Mark start of range"
+#~ msgstr "Đánh dấu đường biên đầu"
+
+#~ msgid "Image information"
+#~ msgstr "Thông tin hình ảnh"
+
+#~ msgid "Open the file %s."
+#~ msgstr "Mở tập tin %s"
+
+#~ msgid "Text [*.txt; *.csv]|*.txt;*.csv|All files [*.*]|*.*"
+#~ msgstr "Text [*.txt; *.csv]|*.txt;*.csv|All files [*.*]|*.*"
+
+#~ msgid "The server responded with the message '%s'"
+#~ msgstr "Máy chủ thông báo trả lời %s"
+
+#~ msgid "Protocol reply error %s"
+#~ msgstr "Thông báo lỗi %s"
+
+#~ msgid "You can send suggestions for future versions, bug reports and comments to graph@padowan.dk"
+#~ msgstr "Bạn có thể gửi lời đề nghị cho phiên bản sắp tới, các báo cáo lỗi và chú thích tới graph@padowan.dk"
+
+#~ msgid "Select to place the image on the middle of the page."
+#~ msgstr "Đặt ảnh giữa trang."
+
+#~ msgid "Insert shade..."
+#~ msgstr "Chèn bóng..."
+
+#~ msgid "Shade"
+#~ msgstr "Độ bóng"
+
+#~ msgid "Black"
+#~ msgstr "Đen"
+
+#~ msgid "Maroon"
+#~ msgstr "Nâu sẫm"
+
+#~ msgid "Green"
+#~ msgstr "Xanh lá cây"
+
+#~ msgid "Olive"
+#~ msgstr "Ô-liu"
+
+#~ msgid "Navy"
+#~ msgstr "Xanh đen"
+
+#~ msgid "Purple"
+#~ msgstr "Đỏ tía"
+
+#~ msgid "Gray"
+#~ msgstr "Xám"
+
+#~ msgid "Silver"
+#~ msgstr "Bạc"
+
+#~ msgid "Red"
+#~ msgstr "Đỏ"
+
+#~ msgid "Lime"
+#~ msgstr "Vàng chanh"
+
+#~ msgid "Yellow"
+#~ msgstr "Vàng"
+
+#~ msgid "Blue"
+#~ msgstr "Xanh dương"
+
+#~ msgid "Fuchsia"
+#~ msgstr "Hồng"
+
+#~ msgid "Aqua"
+#~ msgstr "Xanh ngọc"
+
+#~ msgid "Money Green"
+#~ msgstr "Xanh lá cây nhạt"
+
+#~ msgid "Sky Blue"
+#~ msgstr "Xanh da trời"
+
+#~ msgid "Med Gray"
+#~ msgstr "Xám nhạt"
+
+#~ msgid "Insert a text label (select and click in the main window where you want the label)."
+#~ msgstr "Chèn chữ."
+
+#~ msgid "Cut the selected text to the clipboard"
+#~ msgstr "Cắt dòng chữ được chọn vào bộ nhớ."
+
+#~ msgid "Open an animation file."
+#~ msgstr "Mở một tập tin hiệu ứng."
+
+#~ msgid "Check to make the selected item visible in the coordinate system."
+#~ msgstr "Kiểm tra các mục được lựa chọn để hiển thị trên hệ trục."
+
+#~ msgid "Visible"
+#~ msgstr "Hiện"

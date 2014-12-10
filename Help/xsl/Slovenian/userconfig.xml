@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<fop version="1.0">
+
+  <renderers>
+    <renderer mime="application/pdf">
+      <fonts>
+        <font kerning="yes" embed-url="file:///C:/Windows/Fonts/Arial.ttf">
+          <font-triplet name="Arial" style="normal" weight="normal"/>
+          <font-triplet name="ArialMT" style="normal" weight="normal"/>
+          <font-triplet name="Helvetica" style="normal" weight="normal"/>
+        </font>
+
+        <font kerning="yes" embed-url="file:///C:/Windows/Fonts/ArialBd.ttf">
+          <font-triplet name="Arial" style="normal" weight="bold"/>
+          <font-triplet name="ArialMT" style="normal" weight="bold"/>
+          <font-triplet name="Helvetica" style="normal" weight="bold"/>
+        </font>
+
+        <font kerning="yes" embed-url="file:///C:/Windows/Fonts/ArialI.ttf">
+          <font-triplet name="Arial" style="italic" weight="normal"/>
+          <font-triplet name="ArialMT" style="italic" weight="normal"/>
+          <font-triplet name="Helvetica" style="italic" weight="normal"/>
+        </font>
+
+        <font kerning="yes" embed-url="file:///C:/Windows/Fonts/ArialBI.ttf">
+          <font-triplet name="Arial" style="italic" weight="bold"/>
+          <font-triplet name="ArialMT" style="italic" weight="bold"/>
+          <font-triplet name="Helvetica" style="italic" weight="bold"/>
+        </font>
+
+        <font kerning="yes" embed-url="file:///C:/Windows/Fonts/Times.ttf">
+          <font-triplet name="Times" style="normal" weight="normal"/>
+          <font-triplet name="TimesMT" style="normal" weight="normal"/>
+          <font-triplet name="Times New Roman" style="normal" weight="normal"/>
+        </font>
+
+        <font kerning="yes" embed-url="file:///C:/Windows/Fonts/TimesBd.ttf">
+          <font-triplet name="Times" style="normal" weight="bold"/>
+          <font-triplet name="TimesMT" style="normal" weight="bold"/>
+          <font-triplet name="Times New Roman" style="normal" weight="bold"/>
+        </font>
+
+        <font kerning="yes" embed-url="file:///C:/Windows/Fonts/TimesI.ttf">
+          <font-triplet name="Times" style="italic" weight="normal"/>
+          <font-triplet name="TimesMT" style="italic" weight="normal"/>
+          <font-triplet name="Times New Roman" style="italic" weight="normal"/>
+        </font>
+
+        <font kerning="yes" embed-url="file:///C:/Windows/Fonts/TimesBI.ttf">
+          <font-triplet name="Times" style="italic" weight="bold"/>
+          <font-triplet name="TimesMT" style="italic" weight="bold"/>
+          <font-triplet name="Times New Roman" style="italic" weight="bold"/>
+        </font>
+
+        <font kerning="yes" embed-url="file:///C:/Windows/Fonts/Cour.ttf">
+          <font-triplet name="Courier New" style="normal" weight="normal"/>
+          <font-triplet name="CourierMT" style="normal" weight="normal"/>
+        </font>
+
+        <font kerning="yes" embed-url="file:///C:/Windows/Fonts/CourBd.ttf">
+          <font-triplet name="Courier New" style="normal" weight="bold"/>
+          <font-triplet name="CourierMT" style="normal" weight="bold"/>
+        </font>
+
+        <font kerning="yes" embed-url="file:///C:/Windows/Fonts/CourI.ttf">
+          <font-triplet name="Courier New" style="italic" weight="normal"/>
+          <font-triplet name="CourierMT" style="italic" weight="normal"/>
+        </font>
+      </fonts>
+		</renderer>
+  </renderers>
+
+</fop>
+

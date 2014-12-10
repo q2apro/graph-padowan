@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chapter SYSTEM "dtd/dblite.dtd">
+<chapter id="Graph" xmlns:xi="http://www.w3.org/2001/XInclude">
+	<title><classname>Graph</classname> module</title>
+	<indexterm><primary>Graph (module)</primary></indexterm>
+	<para>
+		<variablelist>
+			<varlistentry>
+				<term>
+					<indexterm><primary>Axes (in module Graph)</primary></indexterm>
+					<link linkend="Graph.TAxes"><classname>Graph</classname>.<property>Axes</property></link>
+				</term>
+				<listitem>
+					<para>
+						Structure of class <classname><xref linkend="Graph.TAxes"/></classname> with axes settings.
+						These settings are stored in the .grf file.
+					</para>
+				</listitem>
+			</varlistentry>
+
+			<varlistentry>
+				<term>
+					<indexterm><primary>Property (in module Graph)</primary></indexterm>
+					<link linkend="Graph.TProperty"><classname>Graph</classname>.<property>Property</property></link>
+				</term>
+				<listitem>
+					<para>
+						Structure of class <classname><xref linkend="Graph.TProperty"/></classname> with global settings.
+						These settings are stored in the users profile.
+					</para>
+				</listitem>
+			</varlistentry>
+
+			<varlistentry>
+				<term>
+					<indexterm><primary>GuiFormatSettings (in module Graph)</primary></indexterm>
+					<link linkend="Graph.TGuiFormatSettings"><classname>Graph</classname>.<property>GuiFormatSettings</property></link>
+				</term>
+				<listitem>
+					<para>
+						Structure of class <classname><xref linkend="Graph.TGuiFormatSettings"/></classname> with global formatting settings.
+						Changes to these settings are not stored.
+					</para>
+				</listitem>
+			</varlistentry>
+
+			<varlistentry>
+				<term>
+					<indexterm><primary>PlotSettings (in module Graph)</primary></indexterm>
+					<link linkend="Graph.TPlotSettings"><classname>Graph</classname>.<property>PlotSettings</property></link>
+				</term>
+				<listitem>
+					<para>
+						Structure of class <classname><xref linkend="Graph.TPlotSettings"/></classname> with global plot settings.
+						Changes to these settings are not stored.
+					</para>
+				</listitem>
+			</varlistentry>
+
+			<varlistentry>
+				<term>
+					<indexterm><primary>GuiSettings (in module Graph)</primary></indexterm>
+					<link linkend="Graph.TGuiSettings"><classname>Graph</classname>.<property>GuiSettings</property></link>
+				</term>
+				<listitem>
+					<para>
+						Structure of class <classname><xref linkend="Graph.TGuiSettings"/></classname> with global GUI settings.
+						Changes to these settings are not stored.
+					</para>
+				</listitem>
+			</varlistentry>
+
+			<varlistentry>
+				<term>
+					<indexterm><primary>VersionInfo (in module Graph)</primary></indexterm>
+					<classname>Graph</classname>.<property>VersionInfo</property>
+				</term>
+				<listitem>
+					<para>
+						A tuple containing the five components of the version number of Graph: <classname>Major</classname>, <classname>Minor</classname>, <classname>Release</classname>,
+						<classname>Build</classname>, and <classname>ReleaseLevel</classname>.
+						All values except <classname>ReleaseLevel</classname> are integers; the release level is <code>'beta'</code> or <code>'final'</code>.
+						The <classname>VersionInfo</classname> value corresponding to the Graph version 4.3 is <code>(4, 3, 0, 384, 'final')</code>.
+						The components can also be accessed by name, so <code>Graph.VersionInfo[0]</code> is equivalent to <code>Graph.VersionInfo.Major</code> and so on.
+					</para>
+				</listitem>
+			</varlistentry>
+
+			<varlistentry>
+				<term>
+					<indexterm><primary>Redraw (in module Graph)</primary></indexterm>
+					<classname>Graph</classname>.<property>Redraw</property>()
+				</term>
+				<listitem>
+					<para>
+						Redraws the the graphing area.
+					</para>
+				</listitem>
+			</varlistentry>
+
+			<varlistentry>
+				<term>
+					<indexterm><primary>Update (in module Graph)</primary></indexterm>
+					<classname>Graph</classname>.<property>Update</property>()
+				</term>
+				<listitem>
+					<para>
+						Forces all graph elements, i.e. functions etc., to recalculate, redraw the plotting area and update the function list.
+					</para>
+				</listitem>
+			</varlistentry>
+
+			<varlistentry>
+				<term>
+					<indexterm><primary>CreateAction (in module Graph)</primary></indexterm>
+					<classname>Graph</classname>.<property>CreateAction</property>(<parameter>Caption, OnExecute, Hint="", ShortCut="", IconFile=None, OnUpdate=None, AddToToolBar=True</parameter>)
+				</term>
+				<listitem>
+					<para>
+						Creates a new action with <parameter>Caption</parameter> as the shown text.
+						Actions are used in the user interface, for example in the toolbar and menus.
+						<parameter>OnExecute</parameter> is a function with the action as argument that is called when the action is triggered.
+						<parameter>Hint</parameter> is an optional tooltip for the action.
+						<parameter>ShortCut</parameter> is an optional shortcut as a text string, e.g. "Ctrl+Shift+C".
+						<parameter>IconFile</parameter> is a file name for an image file that will be used as icon for the action.
+						The file name can be a fully qualified path or a path relative to the Plugin directory.
+						<parameter>OnUpdate</parameter> is an optional function with the action as argument that will be called when Graph is idle.
+						This can be used to update the action, for example change its visibility state or enable/disable the action.
+						<parameter>AddToToolBar</parameter> indicates if the action will be available to add to the toolbar by the user.
+					</para>
+				</listitem>
+			</varlistentry>
+
+			<varlistentry>
+				<term>
+					<indexterm><primary>AddActionToMainMenu (in module Graph)</primary></indexterm>
+					<classname>Graph</classname>.<property>AddActionToMainMenu</property>(<parameter>Action</parameter>)
+				</term>
+				<listitem>
+					<para>
+						Adds an action to the main menu unde the Plugin top menu.
+					</para>
+				</listitem>
+			</varlistentry>
+
+			<varlistentry>
+				<term>
+					<indexterm><primary>AddActionToContextMenu (in module Graph)</primary></indexterm>
+					<classname>Graph</classname>.<property>AddActionToContextMenu</property>(<parameter>Action</parameter>)
+				</term>
+				<listitem>
+					<para>
+						Adds an action to the context menu for the function list.
+					</para>
+				</listitem>
+			</varlistentry>
+
+			<varlistentry>
+				<term>
+					<indexterm><primary>LoadDfmFile (in module Graph)</primary></indexterm>
+					<classname>Graph</classname>.<property>LoadDfmFile</property>(<parameter>FileName</parameter>)
+				</term>
+				<listitem>
+					<para>
+						Load a DFM text file given by <parameter>FileName</parameter> usually created by Embarcadero Delphi or C++ Builder.
+						A TForm object created from the file is returned.
+					</para>
+				</listitem>
+			</varlistentry>
+
+			<varlistentry>
+				<term>
+					<indexterm><primary>LoadDefault (in module Graph)</primary></indexterm>
+					<classname>Graph</classname>.<property>LoadDefault</property>()
+				</term>
+				<listitem>
+					<para>
+						Replaces the current coordinate system with the default settings.
+						This is basically the same as selecting <menuchoice><guimenu>File</guimenu><guimenuitem>New</guimenuitem></menuchoice> in the menu.
+					</para>
+				</listitem>
+			</varlistentry>
+
+			<varlistentry>
+				<term>
+					<indexterm><primary>BeginMultiUndo (in module Graph)</primary></indexterm>
+					<classname>Graph</classname>.<property>BeginMultiUndo</property>()
+				</term>
+				<listitem>
+					<para>
+						Used to group several related changes in the undo stack, so they can be undone as one thing.
+						Call <property>EndMultiUndo()</property> to end the grouping.
+					</para>
+				</listitem>
+			</varlistentry>
+
+			<varlistentry>
+				<term>
+					<indexterm><primary>EndMultiUndo (in module Graph)</primary></indexterm>
+					<classname>Graph</classname>.<property>EndMultiUndo</property>()
+				</term>
+				<listitem>
+					<para>
+						Used to end undo grouping started with <property>BeginMultiUndo()</property>.
+					</para>
+				</listitem>
+			</varlistentry>
+
+			<varlistentry>
+				<term>
+					<indexterm><primary>OnNew (in module Graph)</primary></indexterm>
+					<indexterm><primary>OnLoad (in module Graph)</primary></indexterm>
+					<indexterm><primary>OnSelect (in module Graph)</primary></indexterm>
+					<indexterm><primary>OnClose (in module Graph)</primary></indexterm>
+					<indexterm><primary>OnEdit (in module Graph)</primary></indexterm>
+					<indexterm><primary>OnAnimate (in module Graph)</primary></indexterm>
+					<indexterm><primary>OnDelete (in module Graph)</primary></indexterm>
+					<indexterm><primary>OnAxesChanged (in module Graph)</primary></indexterm>
+					<indexterm><primary>OnZoom (in module Graph)</primary></indexterm>
+					<indexterm><primary>OnOptionsChanged (in module Graph)</primary></indexterm>
+					<indexterm><primary>OnCustomFunctionsChanged (in module Graph)</primary></indexterm>
+					<indexterm><primary>OnNewElem (in module Graph)</primary></indexterm>
+					<indexterm><primary>OnChanged (in module Graph)</primary></indexterm>
+					<indexterm><primary>OnMoved (in module Graph)</primary></indexterm>
+					<classname>Graph</classname>.<property>OnNew</property>
+				</term>
+				<term><classname>Graph</classname>.<property>OnLoad</property></term>
+				<term><classname>Graph</classname>.<property>OnSelect</property></term>
+				<term><classname>Graph</classname>.<property>OnClose</property></term>
+				<term><classname>Graph</classname>.<property>OnEdit</property></term>
+				<term><classname>Graph</classname>.<property>OnAnimate</property></term>
+				<term><classname>Graph</classname>.<property>OnDelete</property></term>
+				<term><classname>Graph</classname>.<property>OnAxesChanged</property></term>
+				<term><classname>Graph</classname>.<property>OnZoom</property></term>
+				<term><classname>Graph</classname>.<property>OnOptionsChanged</property></term>
+				<term><classname>Graph</classname>.<property>OnCustomFunctionsChanged</property></term>
+				<term><classname>Graph</classname>.<property>OnNewElem</property></term>
+				<term><classname>Graph</classname>.<property>OnChanged</property></term>
+				<term><classname>Graph</classname>.<property>OnMoved</property></term>
+				<listitem>
+					<para>
+						<informaltable>
+ 							<tgroup cols="3">
+								<colspec colnum="1" colwidth="3.3cm"/>
+								<colspec colnum="2" colwidth="2.8cm"/>
+								<colspec colnum="3" colwidth="*"/>
+								<thead>
+									<row>
+										<entry>List</entry>
+										<entry>Signature</entry>
+										<entry>Description</entry>
+									</row>
+								</thead>
+ 								<tbody>
+    				  		<row>
+    				    		<entry>OnNew</entry>
+    				    		<entry>Function()</entry>
+    				    		<entry>Called after a new coordinate system is created.</entry>
+    				  		</row>
+    				  		<row>
+    				    		<entry>OnLoad</entry>
+    				    		<entry>Function()</entry>
+    				    		<entry>Called after a coordinate system is loaded from a file.</entry>
+    				  		</row>
+    				  		<row>
+    				    		<entry>OnSelect</entry>
+    				    		<entry>Function(<parameter>Elem</parameter>)</entry>
+    				    		<entry>Called when an element in the function list has been selected with the new element in <parameter>Elem</parameter>.</entry>
+    				  		</row>
+    				  		<row>
+    				    		<entry>OnClose</entry>
+    				    		<entry>Function()</entry>
+    				    		<entry>Called when Graph is shutting down.</entry>
+    				  		</row>
+    				  		<row>
+    				    		<entry>OnEdit</entry>
+    				    		<entry>Function(<parameter>Elem</parameter>)</entry>
+    				    		<entry>
+											Called when the user wants to edit an element.
+											The element to edit is given in <parameter>Elem</parameter>.
+											If the function handles the edit it should return True to prevent Graph from handling it.
+										</entry>
+    				  		</row>
+    				  		<row>
+    				    		<entry>OnAnimate</entry>
+    				    		<entry>Function(<parameter>Data, Var, Value</parameter>)</entry>
+    				    		<entry>
+											When an animation is created this is called every time a frame is created.
+											<parameter>Data</parameter> is the temporary data used for creating the animation.
+											<parameter>Var</parameter> is the constant changed in every frame and <parameter>Value</parameter> is the new value of the constant.
+										</entry>
+    				  		</row>
+    				  		<row>
+    				    		<entry>OnDelete</entry>
+    				    		<entry>Function(<parameter>Elem</parameter>)</entry>
+    				    		<entry>Called when an element is about to be deleted.</entry>
+    				  		</row>
+    				  		<row>
+    				    		<entry>OnAxesChanged</entry>
+    				    		<entry>Function()</entry>
+    				    		<entry>Called when the axes settings have been changed.</entry>
+    				  		</row>
+    				  		<row>
+    				    		<entry>OnZoom</entry>
+    				    		<entry>Function()</entry>
+    				    		<entry>Called when the user has zoomed in out out.</entry>
+    				  		</row>
+    				  		<row>
+    				    		<entry>OnOptionsChanged</entry>
+    				    		<entry>Function()</entry>
+    				    		<entry>Called when the user has made changes in the <guilabel>Options</guilabel> dialog.</entry>
+    				  		</row>
+    				  		<row>
+    				    		<entry>OnCustomFunctions</entry>
+    				    		<entry>Function()</entry>
+    				    		<entry>Called when the user has made changes to custom functions or constants.</entry>
+    				  		</row>
+    				  		<row>
+    				    		<entry>OnNewElem</entry>
+    				    		<entry>Function(<parameter>Elem</parameter>)</entry>
+    				    		<entry>Called when a new element has been created.</entry>
+    				  		</row>
+    				  		<row>
+    				    		<entry>OnChanged</entry>
+    				    		<entry>Function(<parameter>Elem</parameter>)</entry>
+    				    		<entry>Called when an element has been changed by the user.</entry>
+    				  		</row>
+    				  		<row>
+    				    		<entry>OnMoved</entry>
+    				    		<entry>Function(<parameter>Elem</parameter>)</entry>
+    				    		<entry>Called when the user has moved an element in the function list.</entry>
+    				  		</row>
+								</tbody>
+							</tgroup>
+						</informaltable>
+					</para>
+				</listitem>
+			</varlistentry>
+
+			<varlistentry>
+				<term>
+					<indexterm><primary>Eval (in module Graph)</primary></indexterm>
+					<classname>Graph</classname>.<property>Eval</property>(<parameter>Expression</parameter> [, <parameter>Trigonometry</parameter>])
+				</term>
+				<listitem>
+					<para>
+						Evaluates <parameter>Expression</parameter>, which is a string with an expression like "sin(0.3)+3^2.5".
+						The expression is evaluated using real numbers only and the result is returned as a floating point number.
+						<parameter>Trigonometry</parameter> can be <classname>Graph.Radian</classname> or <classname>Graph.Degree</classname>.
+						If <parameter>Trigonometry</parameter> is not specified, the value in <classname>Graph.Axes.Trigonometry</classname> will be used.
+						The function will raise the exception <classname>Graph</classname>.<property>EFuncError</property> if an error occurs.
+					</para>
+				</listitem>
+			</varlistentry>
+
+			<varlistentry>
+				<term>
+					<indexterm><primary>EvalComplex (in module Graph)</primary></indexterm>
+					<classname>Graph</classname>.<property>EvalComplex</property>(<parameter>Expression</parameter> [, <parameter>Trigonometry</parameter>])
+				</term>
+				<listitem>
+					<para>
+						The same as <property>Eval</property>() except that this function evaluates using complex numbers, and a complex number is returned.
+					</para>
+				</listitem>
+			</varlistentry>
+
+			<varlistentry>
+				<term>
+					<indexterm><primary>SaveAsImage (in module Graph)</primary></indexterm>
+					<classname>Graph</classname>.<property>SaveAsImage</property>(<parameter>FileName</parameter> [, <parameter>FileType, Width, Height</parameter>])
+				</term>
+				<listitem>
+					<para>
+						Saves the current coordinate system as an image file, where <parameter>FileName</parameter> specifies the file name.
+						If given <parameter>FileType</parameter> specifies the file type, which can be Enhanced Metafile (1), Scalable Vector Graphics (2),
+						Bitmap (3), PNG (4), JPEG (5) or PDF (6).
+						If <parameter>FileType</parameter> is not specified, the format will be guessed from the extension in the file name.
+						<parameter>Width</parameter> and <parameter>Height</parameter> specifies the resolution of the image file.
+						If they are left out, the same resolution as shown on the screen will be used.
+					</para>
+				</listitem>
+			</varlistentry>
+
+			<varlistentry>
+				<term>
+					<indexterm><primary>Selected (in module Graph)</primary></indexterm>
+					<classname>Graph</classname>.<property>Selected</property>
+				</term>
+				<listitem>
+					<para>
+						This is the currently selected item in the function list.
+						Don't try to change this.
+						Instead you can change <classname>Graph</classname>.<property>FunctionList</property>.<property>Selected</property>.
+					</para>
+				</listitem>
+			</varlistentry>
+
+			<varlistentry>
+				<term>
+					<indexterm><primary>Constants (in module Graph)</primary></indexterm>
+					<classname>Graph</classname>.<property>Constants</property>
+				</term>
+				<listitem>
+					<para>
+						This is the interface to the <guilabel>Custom functions/constants</guilabel> dialog.
+						The index is the name of the constant or function.
+						The value is a tuple where the first element is either a numeric value or a text defining the function or constant.
+						The rest of the elements in the tuple are the parameters to the function.
+						A constant does not have any parameters.
+						For example a constant R=8.314472 can be created as <code>Graph.Constants["R"] = (8.314472,)</code>
+						A custom function as sinc(x)=sin(x)/x can be created as <code>Graph.Constants["sinc"] = ("sin(x)/x", "x")</code>
+					</para>
+				</listitem>
+			</varlistentry>
+
+			<varlistentry>
+				<term>
+					<indexterm><primary>CustomFunctions (in module Graph)</primary></indexterm>
+					<classname>Graph</classname>.<property>CustomFunctions</property>
+				</term>
+				<listitem>
+					<para>
+						This can be used to create custom functions implemented in Python.
+						<property>CustomFunctions</property> is a dictionary where the key is the function name and the value is the Python function.
+						For example the function sinc(x)=sin(x)/x can be implemented in Python like this: <code>Graph.CustomFunctions["sinc"] = lambda x: math.sin(x)/x</code>
+					</para>
+				</listitem>
+			</varlistentry>
+
+			<varlistentry>
+				<term>
+					<indexterm><primary>FunctionList (in module Graph)</primary></indexterm>
+					<classname>Graph</classname>.<property>FunctionList</property>
+				</term>
+				<listitem>
+					<para>
+						This is a list of <classname><xref linkend="Graph.TGraphElem"/></classname> elements which are plotted by Graph.
+						It is the same list that is shown in the GUI.
+						To plot an element, you just add it to the list.
+						To make sure the undo functionality works, you should not change an element already in the list.
+						Instead you should replace the old element in the list with a new element.
+						<classname>Graph</classname>.<property>FunctionList</property>.<property>Selected</property> can be used to read and set the selected element in the GUI.
+					</para>
+				</listitem>
+			</varlistentry>
+
+			<varlistentry>
+				<term>
+					<indexterm><primary>PluginData (in module Graph)</primary></indexterm>
+					<classname>Graph</classname>.<property>PluginData</property>
+				</term>
+				<listitem>
+					<para>
+							<property>PluginData</property> is a dictionary like object where a plugin can store data.
+							The data is stored in the .grf file.	Graph itself does not use this, it is only for use by plugins
+							Every plugin should use a unique value as key in the <property>PluginData</property> dictionary.
+							The value assigned should be a tuple, which may contain anything that can be passed to xmlrpc, e.g. tuples, lists, strings, numbers.
+					</para>
+				</listitem>
+			</varlistentry>
+
+			<varlistentry>
+				<term>
+					<indexterm><primary>LoadFromFile (in module Graph)</primary></indexterm>
+					<classname>Graph</classname>.<property>LoadFromFile</property>(<parameter>FileName, AddToRecent=True, ShowErrorMessages=True</parameter>)
+				</term>
+				<listitem>
+					<para>
+						Loads a grf file from the file specified by FileName.
+						If <parameter>AddToRecent</parameter> is True, the file name is added to the list of recent files in the File menu.
+						If <parameter>ShowErrorMessages</parameter> is True, a dialog with error information is shown if a problem occur, else errors are ignored.
+						The function returns True if the file was loaded without errors, else False is returned.
+					</para>
+				</listitem>
+			</varlistentry>
+
+			<varlistentry>
+				<term>
+					<indexterm><primary>SaveToFile (in module Graph)</primary></indexterm>
+					<classname>Graph</classname>.<property>SaveToFile</property>(<parameter>FileName, Remember=True</parameter>)
+				</term>
+				<listitem>
+					<para>
+						Saves the current data to a grf file specified by <parameter>FileName</parameter>.
+						If <parameter>Remember</parameter> is True, Graph will remember the file name and use it when saving with
+						<menuchoice><guimenu>File</guimenu><guimenuitem>Save</guimenuitem></menuchoice>.
+					</para>
+				</listitem>
+			</varlistentry>
+
+			<varlistentry>
+				<term>
+					<indexterm><primary>Import (in module Graph)</primary></indexterm>
+					<classname>Graph</classname>.<property>Import</property>(<parameter>FileName</parameter>)
+				</term>
+				<listitem>
+					<para>
+						Imports the content of a grf file specified by FileName into the current coordinate system, excluding axes settings.
+						An exception is thrown on errors.
+					</para>
+				</listitem>
+			</varlistentry>
+
+			<varlistentry>
+				<term>
+					<indexterm><primary>ImportPointSeries (in module Graph)</primary></indexterm>
+					<classname>Graph</classname>.<property>ImportPointSeries</property>(<parameter>FileName, Separator=0</parameter>)
+				</term>
+				<listitem>
+					<para>
+						Imports the content of a text file as one or more point series. <parameter>Separator</parameter> indicates the separator used.
+						It is usually ',', ' ', ';' or '\t'. If <parameter>Separator</parameter> is 0, the actual separator is auto detected from the content of the file.
+						An exception is thrown on errors.
+					</para>
+				</listitem>
+			</varlistentry>
+		</variablelist>
+	</para>
+	<xi:include href="Settings.xml" xpointer="Graph.TProperty" />
+	<xi:include href="Settings.xml" xpointer="Graph.TAxis" />
+	<xi:include href="Settings.xml" xpointer="Graph.TAxes" />
+	<xi:include href="GuiSettings.xml" xpointer="Graph.TGuiFormatSettings" />
+	<xi:include href="GuiSettings.xml" xpointer="Graph.TPlotSettings" />
+	<xi:include href="GuiSettings.xml" xpointer="Graph.TGuiSettings" />
+	<xi:include href="GraphElem.xml" />
+</chapter>

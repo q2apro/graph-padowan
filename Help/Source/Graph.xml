@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book SYSTEM "dtd/dblite.dtd">
+<book id="Graph" lang="en" xmlns:xi="http://www.w3.org/2001/XInclude">
+	<title><application>Graph</application></title>
+	<subtitle>
+		<mediaobject>
+	  	<imageobject role="fo"><imagedata fileref="Graph_Icon.svg" scale="200"/></imageobject>
+  		<imageobject role="htmlhelp"><imagedata fileref="GraphIcon.png"/></imageobject>
+  		<imageobject role="html"><imagedata fileref="GraphIcon.png"/></imageobject>
+		</mediaobject>
+	</subtitle>
+	<xi:include href="version.xml"/>
+	<bookinfo>
+		<authorgroup>
+		</authorgroup>
+		<copyright>
+			<year>2012</year>
+			<holder>Ivan Johansen</holder>
+		</copyright>
+	</bookinfo>
+	<!-- include external files -->
+	<xi:include href="Introduction.xml"/>
+	<xi:include href="HowToUse.xml"/>
+	<xi:include href="Installation.xml"/>
+	<xi:include href="FAQ.xml"/>
+	<xi:include href="OLE.xml"/>
+	<xi:include href="MenuItems.xml"/>
+	<xi:include href="Errors.xml"/>
+	<xi:include href="Functions.xml"/>
+	<xi:include href="Dialogs.xml"/>
+	<xi:include href="Plugins.xml"/>
+	<xi:include href="Acknowledgements.xml"/>
+	<xi:include href="Glossary.xml"/>
+</book>

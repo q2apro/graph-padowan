@@ -1,0 +1,21 @@
+<!ENTITY alpha  "<markup role='symbolfont'>&#x003B1;</markup>"> <!-- GREEK SMALL LETTER ALPHA -->
+<!ENTITY pi     "<markup role='symbolfont'>&#x003C0;</markup>"> <!-- GREEK SMALL LETTER PI -->
+<!ENTITY theta  "<markup role='symbolfont'>&#x003B8;</markup>"> <!-- GREEK SMALL LETTER THETA -->
+<!ENTITY sigma  "<markup role='symbolfont'>&#x003C3;</markup>"> <!-- GREEK SMALL LETTER SIGMA -->
+<!ENTITY zeta   "<markup role='symbolfont'>&#x003B6;</markup>"> <!-- GREEK SMALL LETTER ZETA -->
+<!ENTITY mu     "&#x003BC;">                                    <!-- GREEK SMALL LETTER MU -->
+<!ENTITY Gamma  "<markup role='symbolfont'>&#x00393;</markup>"> <!-- GREEK CAPITAL LETTER GAMMA -->
+<!ENTITY Delta  "<markup role='symbolfont'>&#x00394;</markup>"> <!-- GREEK CAPITAL LETTER DELTA -->
+<!ENTITY Sigma  "<markup role='symbolfont'>&#x03A3;</markup>">  <!-- GREEK CAPITAL LETTER SIGMA -->
+<!ENTITY ang    "<markup role='fo'><markup role='symbolfont'>&#x02220;</markup></markup><symbol role='html'>&#xD0;</symbol>"> <!-- ANGLE -->
+<!ENTITY deg    "&#x00B0;">           <!-- DEGREE SIGN -->
+<!ENTITY imag 	"<emphasis role='bold'>i</emphasis>"> 		<!-- Imaginary unit -->
+<!ENTITY copy   "&#x00A9;">           <!-- COPYRIGHT SIGN -->
+<!ENTITY frac14 "&#x00BC;">					<!-- VULGAR FRACTION ONE QUARTER -->
+<!ENTITY frac12 "&#x00BD;"> <!-- VULGAR FRACTION ONE HALF -->
+<!ENTITY le     "<markup role='symbolfont'>&#x2264;</markup>"> <!-- Less than or equal -->
+<!ENTITY ge     "<markup role='symbolfont'>&#x2265;</markup>"> <!-- Greater than or equal -->
+<!ENTITY infin  "<markup role='symbolfont'>&#x221E;</markup>"> <!-- INIFINITY -->
+<!ENTITY hArr   "<markup role='symbolfont'>&#x21D4;</markup>"> <!-- LEFT RIGHT DOUBLE ARROW -->
+<!ENTITY rarr   "<markup role='symbolfont'>&#x2192;</markup>"> <!-- RIGHTWARDS ARROW -->
+<!ENTITY plusmn "&#x00B1;"> <!-- PLUS-MINUS SIGN -->

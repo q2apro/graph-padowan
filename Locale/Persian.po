@@ -1,0 +1,3660 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Graph\n"
+"POT-Creation-Date: 2012-11-12 22:11\n"
+"PO-Revision-Date: 2012-11-07 21:20+0100\n"
+"Last-Translator: Michael Bach Ipsen <rosenthall@hotmail.com>\n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: dxgettext 1.2.1\n"
+
+#. Form1..Recent1..Hint
+msgid "Open file: %s"
+msgstr "باز کردن پرونده"
+
+#. Form1..PopupMenu1..Tree_ShowInLegend..Caption
+msgid "Show in legend"
+msgstr "نمایش در اختصارات"
+
+#. Form1..PopupMenu1..Tree_ShowInLegend..Hint
+msgid "Check to show the selected item in the legend."
+msgstr "فعال کردن موارد انتخابی در زیرنویس"
+
+#. Form1..PopupMenu1..Tree_Placement..Caption
+#. Form1..PopupMenu3..Label_Placement..Caption
+#. Form1..PopupMenu4..Legend_Placement..Caption
+#. Form21..Caption
+msgid "Placement"
+msgstr "جایگزینی"
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Above..Caption
+#. Form1..PopupMenu3..Label_Placement..Label_Above..Caption
+msgid "Above x-axis"
+msgstr "ها x بالای محور"
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Above....Hint
+#. Form1..PopupMenu3..Label_Placement..Label_Above....Hint
+msgid "Place the label directly above the x-axis on the right side of the image."
+msgstr " ها ، سمت راست تصویر قرار بده x برچسب را در بالای محور "
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Below..Caption
+#. Form1..PopupMenu3..Label_Placement..Label_Below..Caption
+msgid "Below x-axis"
+msgstr "ها x زیر محور"
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Below....Hint
+#. Form1..PopupMenu3..Label_Placement..Label_Below....Hint
+msgid "Place the label directly below the x-axis on the right side of the image."
+msgstr "ها ، سمت راست تصویر قرار بده x برچسب را در زیر محور "
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Left..Caption
+#. Form1..PopupMenu3..Label_Placement..Label_Left..Caption
+msgid "Left of y-axis"
+msgstr "ها y سمت چپ محور"
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Left....Hint
+#. Form1..PopupMenu3..Label_Placement..Label_Left....Hint
+msgid "Place the label to the left of the y-axis at the top of the image."
+msgstr "ها ، بالای تصویر قرار بده y برچسب را در سمت چپ محور "
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Right..Caption
+#. Form1..PopupMenu3..Label_Placement..Label_Right..Caption
+msgid "Right of y-axis"
+msgstr "ها y سمت راست محور"
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Right....Hint
+#. Form1..PopupMenu3..Label_Placement..Label_Right....Hint
+msgid "Place the label to the right of the y-axis at the top of the image."
+msgstr "ها ، بالای تصویر قرار بده y برچسب را در سمت راست محور "
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Placement_Custom..Caption
+#. Form1..PopupMenu1..Tree_Rotation..Tree_Rotation_Custom..Caption
+#. Form1..PopupMenu3..Label_Placement..Label_Placement_Custom..Caption
+#. Form1..PopupMenu3..Label_Rotation..Label_Rotation_Custom..Caption
+#. Form11..GroupBox2..ExtColorBox1..CustomName
+#. Form12..GroupBox2..ExtColorBox1..CustomName
+#. Form13..GroupBox1..ExtColorBox1..CustomName
+#. Form14..PageControl1..TabSheet1..GroupBox1..ExtColorBox1..CustomName
+#. Form14..PageControl1..TabSheet1..GroupBox2..ExtColorBox2..CustomName
+#. Form16..PageControl1..TabSheet2..GroupBox3..ExtColorBox1..CustomName
+#. Form3..PageControl1..TabSheet4..GroupBox3..ExtColorBox1..CustomName
+#. Form3..PageControl1..TabSheet4..GroupBox3..ExtColorBox2..CustomName
+#. Form3..PageControl1..TabSheet4..GroupBox3..ExtColorBox3..CustomName
+#. Form5..GroupBox4..GridPanelEx1..ExtColorBox1..CustomName
+#. Form6..ColorBox1..CustomName
+#. Form6..ColorBox2..CustomName
+#. Form7..GroupBox4..ExtColorBox1..CustomName
+msgid "Custom..."
+msgstr "خواسته شما ..."
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Placement_Custom..Hint
+#. Form1..PopupMenu3..Label_Placement..Label_Placement_Custom..Hint
+msgid "Place the label at a custom position."
+msgstr "برچسب را در محل دلخواه خود قرار دهید"
+
+#. Form1..PopupMenu1..Tree_Rotation..Caption
+#. Form1..PopupMenu3..Label_Rotation..Caption
+msgid "Rotation"
+msgstr "چرخش"
+
+#. Form1..PopupMenu1..Tree_Rotation..Tree_Rotation_0..Hint
+#. Form1..PopupMenu3..Label_Rotation..Rotation_0..Hint
+#, fuzzy
+msgid "Show the label with no rotation."
+msgstr "هاشور زنی ناحیه زیر تابع."
+
+#. Form1..PopupMenu1..Tree_Rotation..Tree_Rotation_90..Hint
+#. Form1..PopupMenu3..Label_Rotation..Rotation_90..Hint
+msgid "Show the label rotated 90° counter clockwise."
+msgstr ""
+
+#. Form1..PopupMenu1..Tree_Rotation..Tree_Rotation_180..Hint
+#. Form1..PopupMenu3..Label_Rotation..Rotation_180..Hint
+msgid "Show the label rotated 180°."
+msgstr ""
+
+#. Form1..PopupMenu1..Tree_Rotation..Tree_Rotation_270..Hint
+#. Form1..PopupMenu3..Label_Rotation..Rotation_270..Hint
+msgid "Show the label rotated 270° counter clockwise."
+msgstr ""
+
+#. Form1..PopupMenu1..Tree_Rotation..Tree_Rotation_Custom..Hint
+#. Form1..PopupMenu3..Label_Rotation..Label_Rotation_Custom..Hint
+msgid "Specify the angle of rotation for the label."
+msgstr "زاویه چرخش را برای برچسب مشخص نمایید"
+
+#. Form1..PopupMenu1..Tree_Export..Caption
+#. Form14..PopupMenu1..Popup_Export..Caption
+#. Form15..PopupMenu1..Popup1_Export..Caption
+#. Form17..PopupMenu1..Popup_Export..Caption
+msgid "Export to file..."
+msgstr "قرار دادن در داخل پرونده"
+
+#. Form1..PopupMenu1..Tree_Export..Hint
+msgid "Export the selected point series to a file."
+msgstr "صدور دنباله نقاط انتخاب شده به یک پرونده"
+
+#. Form1..ActionManager..............Caption
+msgid "Import"
+msgstr "وارد کردن"
+
+#. Form1..ActionManager..........Caption
+#. Form1..ActionManager..NewAction..Category
+#. Form1..ActionManager..OpenAction..Category
+#. Form1..ActionManager..SaveAction..Category
+#. Form1..ActionManager..SaveAsAction..Category
+#. Form1..ActionManager..SaveCopyAsAction..Category
+#. Form1..ActionManager..SaveAsImageAction..Category
+#. Form1..ActionManager..PrintAction..Category
+#. Form1..ActionManager..ExitAction..Category
+#. Form1..ActionManager..ImportGraphFileAction..Category
+#. Form1..ActionManager..ImportPointSeriesAction..Category
+msgid "File"
+msgstr "پرونده"
+
+#. Form1..ActionManager..........Caption
+#. Form1..ActionManager..UndoAction..Category
+#. Form1..ActionManager..RedoAction..Category
+#. Form1..ActionManager..CutAction..Category
+#. Form1..ActionManager..CopyAction..Category
+#. Form1..ActionManager..PasteAction..Category
+#. Form1..ActionManager..CopyImageAction..Category
+#. Form1..ActionManager..AxesAction..Category
+#. Form1..ActionManager..OptionsAction..Category
+msgid "Edit"
+msgstr "ویرایش"
+
+#. Form1..ActionManager..........Caption
+#. Form1..ActionManager..InsertFunctionAction..Category
+#. Form1..ActionManager..InsertTangentAction..Category
+#. Form1..ActionManager..InsertShadeAction..Category
+#. Form1..ActionManager..InsertPointsAction..Category
+#. Form1..ActionManager..InsertTrendlineAction..Category
+#. Form1..ActionManager..EditAction..Category
+#. Form1..ActionManager..DeleteAction..Category
+#. Form1..ActionManager..InsertDifAction..Category
+#. Form1..ActionManager..InsertLabelAction..Category
+#. Form1..ActionManager..InsertRelationAction..Category
+#. Form1..ActionManager..CustomFunctionsAction..Category
+#. ParFuncFrame..ComboBox1..Text
+#. ParFuncFrame..ComboBox1....Items.Strings
+#. PolFuncFrame..ComboBox1..Text
+#. PolFuncFrame..ComboBox1....Items.Strings
+#. StdFuncFrame..ComboBox1..Text
+#. StdFuncFrame..ComboBox1....Items.Strings
+msgid "Function"
+msgstr "تابع"
+
+#. Form1..ActionManager..........Caption
+#. Form1..ActionManager..ZoomInAction..Category
+#. Form1..ActionManager..ZoomOutAction..Category
+#. Form1..ActionManager..ZoomWindowAction..Category
+#. Form1..ActionManager..ZoomSquareAction..Category
+#. Form1..ActionManager..ZoomStandardAction..Category
+#. Form1..ActionManager..ZoomFitAction..Category
+#. Form1..ActionManager..ZoomFitAllAction..Category
+#. Form1..ActionManager..ZoomXInAction..Category
+#. Form1..ActionManager..ZoomXOutAction..Category
+#. Form1..ActionManager..ZoomYInAction..Category
+#. Form1..ActionManager..ZoomYOutAction..Category
+msgid "Zoom"
+msgstr "متمرکز کردن"
+
+#. Form1..ActionManager..........Caption
+#. Form1..ActionManager..PathAction..Category
+#. Form1..ActionManager..AreaAction..Category
+#. Form1..ActionManager..EvalAction..Category
+#. Form1..ActionManager..TableAction..Category
+#. Form1..ActionManager..AnimateAction..Category
+#. Form15..Button2..Caption
+msgid "Calc"
+msgstr "محاسبه کردن"
+
+#. Form1..ActionManager..........Caption
+msgid "Plugins"
+msgstr "شاخه های ورودی"
+
+#. Form1..ActionManager..............Caption
+msgid "Internet"
+msgstr "اینترنت"
+
+#. Form1..ActionManager..........Caption
+#. Form1..ActionManager..ContentsAction..Category
+#. Form1..ActionManager..ListAction..Category
+#. Form1..ActionManager..HomePageAction..Category
+#. Form1..ActionManager..UpdateAction..Category
+#. Form1..ActionManager..AboutAction..Category
+#. Form1..ActionManager..FaqAction..Category
+#. Form1..ActionManager..DonateAction..Category
+#. Form1..ActionManager..TipAction..Category
+#. Form1..ActionManager..SupportAction..Category
+#. Form1..ActionManager..ScriptDocAction..Category
+#. Form11..Button3..Caption
+#. Form12..Button3..Caption
+#. Form13..Button3..Caption
+#. Form14..Button3..Caption
+#. Form15..Button3..Caption
+#. Form16..Button3..Caption
+#. Form17..Button4..Caption
+#. Form19..Button3..Caption
+#. Form3..Button3..Caption
+#. Form4..Button3..Caption
+#. Form5..Button3..Caption
+#. Form6..Button3..Caption
+#. Form7..Button3..Caption
+msgid "Help"
+msgstr "کمک"
+
+#. Form1..ActionManager..NewAction..Caption
+msgid "New"
+msgstr "جدید"
+
+#. Form1..ActionManager..NewAction..Hint
+msgid "Create a new coordinate system."
+msgstr "ایجاد دستگاه مختصات جدید"
+
+#. Form1..ActionManager..OpenAction..Caption
+msgid "Open..."
+msgstr "باز کردن"
+
+#. Form1..ActionManager..OpenAction..Hint
+msgid "Read a coordinate system from a file."
+msgstr "خواندن دستگاه مختصات از یک فایل"
+
+#. Form1..ActionManager..SaveAction..Caption
+msgid "Save"
+msgstr "ذخیره "
+
+#. Form1..ActionManager..SaveAction..Hint
+msgid "Write the current coordinate system to a file."
+msgstr "ذخیره کردن دستگاه مختصات فعلی در یک پرونده"
+
+#. Form1..ActionManager..SaveAsAction..Caption
+#. Form20..PopupMenu1..Save1..Caption
+msgid "Save as..."
+msgstr "ذخیره کردن در"
+
+#. Form1..ActionManager..SaveAsAction..Hint
+msgid "Write the current coordinate system to a file with a new name."
+msgstr "ذخیره کردن دستگاه مختصات فعلی در درون یک پرونده با نام جدید"
+
+#. Form1..ActionManager..SaveCopyAsAction..Caption
+msgid "Save copy as..."
+msgstr "ذخیره کپی در"
+
+#. Form1..ActionManager..SaveCopyAsAction..Hint
+msgid "Save a copy of the current coordinate system to a file."
+msgstr "ذخیره یک کپی از دستگاه مختصات فعلی درون یک پرونده "
+
+#. Form1..ActionManager..SaveAsImageAction..Caption
+msgid "Save as image..."
+msgstr "ذخیره به عنوان تصویر"
+
+#. Form1..ActionManager..SaveAsImageAction..Hint
+msgid "Save the shown coordinate system as an image."
+msgstr "ذخیره دستگاه مختصات نشان داده شده به عنوان تصویر"
+
+#. Form1..ActionManager..PrintAction..Caption
+msgid "Print..."
+msgstr "چاپ"
+
+#. Form1..ActionManager..PrintAction..Hint
+msgid "Print shown coordinate system."
+msgstr "چاپ دستگاه مختصات نشان داده شده"
+
+#. Form1..ActionManager..ExitAction..Caption
+msgid "Exit"
+msgstr "خروج"
+
+#. Form1..ActionManager..ExitAction..Hint
+msgid "Quit the program."
+msgstr "خارج شدن از برنامه"
+
+#. Form1..ActionManager..UndoAction..Caption
+#. Form6..PopupMenu1..Popup_Undo..Caption
+msgid "Undo"
+msgstr "لغو عملیات"
+
+#. Form1..ActionManager..UndoAction..Hint
+msgid "Undo the last action."
+msgstr "لغو کردن آخرین عملیات"
+
+#. Form1..ActionManager..RedoAction..Caption
+#. Form6..PopupMenu1..Popup_Redo..Caption
+msgid "Redo"
+msgstr "تکرار عملیات"
+
+#. Form1..ActionManager..RedoAction..Hint
+msgid "Redo the last action undone."
+msgstr "تکرار آخرین عملیات نیمه پایان"
+
+#. Form1..ActionManager..CutAction..Caption
+#. Form14..PopupMenu1..Popup_Cut..Caption
+#. Form17..PopupMenu1..Popup_Cut..Caption
+#. Form6..PopupMenu1..Popup_Cut..Caption
+msgid "Cut"
+msgstr "برش"
+
+#. Form1..ActionManager..CutAction..Hint
+msgid "Cut the selected function or point series to the clipboard."
+msgstr "برش تابع یا دنباله نقاط انتخاب شده در کلیپ بورد"
+
+#. Form1..ActionManager..CopyAction..Caption
+#. Form14..PopupMenu1..Popup_Copy..Caption
+#. Form15..PopupMenu1..Popup1_Copy..Caption
+#. Form17..PopupMenu1..Popup_Copy..Caption
+#. Form6..PopupMenu1..Popup_Copy..Caption
+msgid "Copy"
+msgstr "کپی"
+
+#. Form1..ActionManager..CopyAction..Hint
+msgid "Copy the selected function or point series to the clipboard."
+msgstr "کپی تابع یا دنباله نقاط انتخاب شده در کلیپ بورد"
+
+#. Form1..ActionManager..PasteAction..Caption
+#. Form14..PopupMenu1..Popup_Paste..Caption
+#. Form17..PopupMenu1..Popup_Paste..Caption
+#. Form6..PopupMenu1..Popup_Paste..Caption
+msgid "Paste"
+msgstr "درج"
+
+#. Form1..ActionManager..PasteAction....Hint
+msgid "Paste a function or point series from the clipboard into the coordinate system."
+msgstr "درج تابع یا دنباله نقاط از کلیپ بورد در دستگاه مختصات"
+
+#. Form1..ActionManager..CopyImageAction..Caption
+msgid "Copy image"
+msgstr "کپی تصویر"
+
+#. Form1..ActionManager..CopyImageAction..Hint
+msgid "Copy the shown coordinate system to the clipboard."
+msgstr "کپی دستگاه مختصات مشخص شده در کلیپ بورد"
+
+#. Form1..ActionManager..AxesAction..Caption
+msgid "Axes..."
+msgstr "محورها"
+
+#. Form1..ActionManager..AxesAction..Hint
+msgid "Edit axes settings."
+msgstr "ویرایش مشخصات محورها"
+
+#. Form1..ActionManager..OptionsAction..Caption
+#. Form1..SaveDialogEx1..HelpCaption
+#. Form19..Button4..Caption
+msgid "Options..."
+msgstr "گزینه ها"
+
+#. Form1..ActionManager..OptionsAction..Hint
+msgid "Edit various options for the interface and program features."
+msgstr "انتخاب گزینه های متنوع برای پوسته و ویژگی های برنامه"
+
+#. Form1..ActionManager..InsertFunctionAction..Caption
+msgid "Insert function..."
+msgstr "درج تابع"
+
+#. Form1..ActionManager..InsertFunctionAction..Hint
+msgid "Insert a new function."
+msgstr "درج تابع جدید"
+
+#. Form1..ActionManager..InsertTangentAction..Caption
+msgid "Insert tangent/normal..."
+msgstr "رسم خط مماس یا میانه"
+
+#. Form1..ActionManager..InsertTangentAction..Hint
+msgid "Insert a tangent or normal for the selected function."
+msgstr "رسم خط مماس یا میانه برای تابع مشخص شده"
+
+#. Form1..ActionManager..InsertShadeAction..Caption
+msgid "Insert shading..."
+msgstr "سایه گذاری..."
+
+#. Form1..ActionManager..InsertShadeAction..Hint
+msgid "Add shading to the selected function."
+msgstr "سایه گذاری برای تابع مشخص شده"
+
+#. Form1..ActionManager..InsertPointsAction..Caption
+msgid "Insert point series..."
+msgstr "رسم دنباله نقاط..."
+
+#. Form1..ActionManager..InsertPointsAction..Hint
+msgid "Insert a point series."
+msgstr "رسم یک دنباله نقاط."
+
+#. Form1..ActionManager..InsertTrendlineAction..Caption
+msgid "Insert trendline..."
+msgstr "درج خط تقریب..."
+
+#. Form1..ActionManager..InsertTrendlineAction..Hint
+msgid "Insert a curve of best fit for the selected point series."
+msgstr "رسم بهترین منحنی منطبق بر دنباله نقاط انتخاب شده."
+
+#. Form1..ActionManager..EditAction..Caption
+msgid "Edit..."
+msgstr "ویرایش..."
+
+#. Form1..ActionManager..EditAction..Hint
+msgid "Edit the selected element: Function, tangent, point series, etc."
+msgstr "ویرایش عوامل انتخاب شده: تابع، خط مماس، دنباله نقاط و غیره."
+
+#. Form1..ActionManager..DeleteAction..Caption
+#. Form14..PopupMenu1..Popup_Delete..Caption
+#. Form17..PopupMenu1..Popup_Delete..Caption
+msgid "Delete"
+msgstr "حذف کردن"
+
+#. Form1..ActionManager..DeleteAction..Hint
+msgid "Delete the selected function, tangent or point series."
+msgstr "حذف تابع، خط مماس یا دنباله نقاط انتخاب شده."
+
+#. Form1..ActionManager..InsertDifAction..Caption
+msgid "Insert f'(x)..."
+msgstr "f'(x) درج..."
+
+#. Form1..ActionManager..InsertDifAction..Hint
+msgid "Insert the first derivative of the selected function."
+msgstr "رسم مشتق اول تابع انتخاب شده."
+
+#. Form1..ActionManager..ZoomInAction..Caption
+msgid "In"
+msgstr "نزدیک شدن"
+
+#. Form1..ActionManager..ZoomInAction..Hint
+msgid "Zoom in. Hold down Shift to zoom with larger steps."
+msgstr "بزرگ نمایی. دکمه شیفت را برای گامهای بزرگتر نگه دارید."
+
+#. Form1..ActionManager..ZoomOutAction..Caption
+msgid "Out"
+msgstr "دور شدن"
+
+#. Form1..ActionManager..ZoomOutAction..Hint
+msgid "Zoom out. Hold down Shift to zoom with larger steps."
+msgstr "کوچک نمایی. دکمه شیفت را برای گامهای بزرگتر نگه دارید."
+
+#. Form1..ActionManager..ZoomWindowAction..Caption
+msgid "Window"
+msgstr "پنجره"
+
+#. Form1..ActionManager..ZoomWindowAction..Hint
+msgid "Zoom to user selected window."
+msgstr "تمرکز روی پنجره انتخاب شده توسط کاربر."
+
+#. Form1..ActionManager..ZoomSquareAction..Caption
+msgid "Square"
+msgstr "برابر"
+
+#. Form1..ActionManager..ZoomSquareAction....Hint
+msgid "Zoom to scale the axes equally. This will show a plotted circle in its correct relation instead of an ellipse."
+msgstr "تمرکز برای یکسان کردن مقیاس محور ها. این کار برای نمایش دایره رسم شده به جای بیضی در رابطه به کار می رود."
+
+#. Form1..ActionManager..ZoomStandardAction..Caption
+msgid "Standard"
+msgstr "استاندارد"
+
+#. Form1..ActionManager..ZoomStandardAction..Hint
+msgid "Reset the axes to their default settings."
+msgstr "برگرداندن تنظیمات محور ها به حالت اولیه."
+
+#. Form1..ActionManager..MoveUpAction..Category
+#. Form1..ActionManager..MoveDownAction..Category
+#. Form1..ActionManager..MoveLeftAction..Category
+#. Form1..ActionManager..MoveRightAction..Category
+#. Form1..ActionManager..MoveAction..Category
+msgid "Move"
+msgstr "حرکت"
+
+#. Form1..ActionManager..MoveUpAction..Caption
+msgid "Move up"
+msgstr "حرکت به بالا"
+
+#. Form1..ActionManager..MoveUpAction....Hint
+msgid "Move the graphing area up along the coordinate system. Hold down Shift to move in larger steps."
+msgstr "حرکت دادن ناحیه تصویری به بالا در راستای دستگاه مختصات. دکمه شیفت را برای گامهای بزرگتر نگه دارید."
+
+#. Form1..ActionManager..MoveDownAction..Caption
+msgid "Move down"
+msgstr "حرکت به پائین"
+
+#. Form1..ActionManager..MoveDownAction....Hint
+msgid "Move the graphing area down along the coordinate system. Hold down Shift to move in larger steps."
+msgstr "حرکت دادن ناحیه تصویری به پایین در راستای دستگاه مختصات. دکمه شیفت را برای گامهای بزرگتر نگه دارید."
+
+#. Form1..ActionManager..MoveLeftAction..Caption
+msgid "Move left"
+msgstr "حرکت به چپ"
+
+#. Form1..ActionManager..MoveLeftAction....Hint
+msgid "Move the graphing area to the left along the coordinate system. Hold down Shift to move in larger steps."
+msgstr "حرکت دادن ناحیه تصویری به چپ در راستای دستگاه مختصات. دکمه شیفت را برای گامهای بزرگتر نگه دارید."
+
+#. Form1..ActionManager..MoveRightAction..Caption
+msgid "Move right"
+msgstr "حرکت به راست"
+
+#. Form1..ActionManager..MoveRightAction....Hint
+msgid "Move the graphing area to the right along the coordinate system. Hold down Shift to move in larger steps."
+msgstr "حرکت دادن ناحیه تصویری به راست در راستای دستگاه مختصات. دکمه شیفت را برای گامهای بزرگتر نگه دارید."
+
+#. Form1..ActionManager..MoveAction..Caption
+msgid "Move system"
+msgstr "حرکت دستگاه"
+
+#. Form1..ActionManager..MoveAction..Hint
+msgid "Move the coordinate system with the mouse."
+msgstr "حرکت دستگاه مختصات با ماوس"
+
+#. Form1..ActionManager..PathAction..Caption
+msgid "Length of path"
+msgstr "طول مسیر"
+
+#. Form1..ActionManager..PathAction....Hint
+msgid "Calculate the length of path between two given points on the curve."
+msgstr "محاسبه طول مسیر بین دو نقطه نتخابی از منحنی."
+
+#. Form1..ActionManager..AreaAction..Caption
+#. AreaFrame..GridPanel1..Label3..Caption
+msgid "Area"
+msgstr ""
+
+#. Form1..ActionManager..AreaAction..Hint
+msgid "Calculate the definite integral over a given interval."
+msgstr ""
+
+#. Form1..ActionManager..EvalAction..Caption
+#. Form9..Caption
+msgid "Evaluate"
+msgstr "ارزیابی"
+
+#. Form1..ActionManager..EvalAction..Hint
+msgid "Evaluate or trace the selected function."
+msgstr "ارزیابی یا ردیابی تابع انتخاب شده."
+
+#. Form1..ActionManager..TableAction..Caption
+#, fuzzy
+msgid "Table"
+msgstr "Tab"
+
+#. Form1..ActionManager..TableAction..Hint
+msgid "Show an evaluation table."
+msgstr "نمایش یک جدول ارزیابی."
+
+#. Form1..ActionManager..ContentsAction..Caption
+msgid "Contents and index"
+msgstr "محتویات و فهرست"
+
+#. Form1..ActionManager..ContentsAction..Hint
+msgid "Open help file."
+msgstr "باز کردن پرونده کمکی."
+
+#. Form1..ActionManager..ListAction..Caption
+msgid "List of functions"
+msgstr "لیست توابع"
+
+#. Form1..ActionManager..ListAction..Hint
+msgid "Show a list of built-in functions that can be used for graphing."
+msgstr "نمایش لیست توابع موجود در برنامه که می توانند برای رسم تصویر به کار روند."
+
+#. Form1..ActionManager..HomePageAction..Caption
+msgid "Graph web site"
+msgstr "وب سایت گراف"
+
+#. Form1..ActionManager..HomePageAction..Hint
+msgid "Open the default browser and show the Graph web site."
+msgstr ""
+
+#. Form1..ActionManager..UpdateAction..Caption
+msgid "Check for update"
+msgstr "بررسی برای به روز رسانی"
+
+#. Form1..ActionManager..UpdateAction..Hint
+msgid "Contact the home page to see if a newer version is available."
+msgstr "تماس با صفحه خانگی برای آگاهی از وجود نسخه جدید تر."
+
+#. Form1..ActionManager..AboutAction..Caption
+#. Form2..Caption
+msgid "About Graph"
+msgstr "درمورد گراف"
+
+#. Form1..ActionManager..AboutAction..Hint
+msgid "Show copyright information."
+msgstr "نمایش اطلاعات کپی رایت."
+
+#. Form1..ActionManager..SeparatorAction..Category
+#. Form1..ActionManager..SeparatorAction..Caption
+msgid "Separator"
+msgstr "جدا کننده"
+
+#. Form1..ActionManager..ZoomFitAction..Caption
+msgid "Fit"
+msgstr "متناسب کردن"
+
+#. Form1..ActionManager..ZoomFitAction..Hint
+msgid "Zoom to show the selected element."
+msgstr "تمرکز برای نمایش عناصر انتخاب شده."
+
+#. Form1..ActionManager..ZoomFitAllAction..Caption
+msgid "Fit all"
+msgstr "نمایش همه موارد"
+
+#. Form1..ActionManager..ZoomFitAllAction..Hint
+msgid "Zoom to show all elements."
+msgstr "تغییر اندازه تصویر برای نمایش همه عوامل."
+
+#. Form1..ActionManager..FaqAction..Caption
+msgid "Frequently Asked Questions"
+msgstr "سوال های متداول"
+
+#. Form1..ActionManager..FaqAction..Hint
+msgid "Show a list of frequently asked questions and their answers."
+msgstr "نمایش لیستی از سوال های متداول و پاسخ آنها."
+
+#. Form1..ActionManager..InsertLabelAction..Caption
+msgid "Insert label..."
+msgstr "درج برچسب..."
+
+#. Form1..ActionManager..InsertLabelAction..Hint
+msgid "Insert a text label."
+msgstr "درج برچسب متنی."
+
+#. Form1..ActionManager..DonateAction..Caption
+msgid "Donate"
+msgstr "اهداء"
+
+#. Form1..ActionManager..DonateAction..Hint
+msgid "Donate money to the project."
+msgstr "اهداء پول به پروژه"
+
+#. Form1..ActionManager..TipAction..Caption
+#. Form10..Caption
+#. Form10..Panel1..LinkLabel1..Caption
+msgid "Tip of the day"
+msgstr "نکته روز"
+
+#. Form1..ActionManager..TipAction..Hint
+msgid "Show tip of the day"
+msgstr "نمایش نکته روز"
+
+#. Form1..ActionManager..SupportAction..Caption
+msgid "Support"
+msgstr "پشتیبانی"
+
+#. Form1..ActionManager..SupportAction..Hint
+msgid "Open browser with the support page for the program."
+msgstr "باز کردن مرور گر برای صفحه پشتیبانی از برنامه."
+
+#. Form1..ActionManager..ZoomXInAction..Caption
+msgid "Zoom x-axis in"
+msgstr "بزرگ نمایی محور x"
+
+#. Form1..ActionManager..ZoomXInAction....Hint
+msgid "Zoom in on the x-axis only. Hold down Shift to zoom with larger steps."
+msgstr "بزرگ نمایی فقط در جهت محور x. دکمه شیفت را برای گامهای بزرگ تر نگه دارید."
+
+#. Form1..ActionManager..ZoomXOutAction..Caption
+msgid "Zoom x-axis out"
+msgstr "کوچک نمایی محور x"
+
+#. Form1..ActionManager..ZoomXOutAction....Hint
+msgid "Zoom out on the x-axis only. Hold down Shift to zoom with larger steps."
+msgstr "کوچک نمایی فقط در جهت محور x. دکمه شیفت را برای گامهای بزرگ تر نگه دارید."
+
+#. Form1..ActionManager..ZoomYInAction..Caption
+msgid "Zoom y-axis in"
+msgstr "بزرگ نمایی محور y"
+
+#. Form1..ActionManager..ZoomYInAction....Hint
+msgid "Zoom in on the y-axis only. Hold down Shift to zoom with larger steps."
+msgstr "بزرگ نمایی فقط در جهت محور y. دکمه شیفت را برای گامهای بزرگ تر نگه دارید."
+
+#. Form1..ActionManager..ZoomYOutAction..Caption
+msgid "Zoom y-axis out"
+msgstr "کوچک نمایی محور y"
+
+#. Form1..ActionManager..ZoomYOutAction....Hint
+msgid "Zoom out on the y-axis only. Hold down Shift to zoom with larger steps."
+msgstr "کوچک نمایی فقط در جهت محور y. دکمه شیفت را برای گامهای بزرگ تر نگه دارید."
+
+#. Form1..ActionManager..InsertRelationAction..Caption
+msgid "Insert relation..."
+msgstr "درج رابطه..."
+
+#. Form1..ActionManager..InsertRelationAction..Hint
+msgid "Insert a new equation or inequality."
+msgstr "درج مساوی یا نا مساوی جدید."
+
+#. Form1..ActionManager..CustomFunctionsAction..Caption
+#, fuzzy
+msgid "Custom functions/constants..."
+msgstr "توابع و ثابت های سفارشی"
+
+#. Form1..ActionManager..CustomFunctionsAction..Hint
+msgid "Create custom functions and constants for use in graphs."
+msgstr "ایجاد توابع سفارشی و مقادیر ثابت برای استفاده در گراف ها."
+
+#. Form1..ActionManager..AnimateAction..Caption
+msgid "Animate..."
+msgstr "پویا نمایی..."
+
+#. Form1..ActionManager..AnimateAction..Hint
+msgid "Create an animation by variating a constant."
+msgstr "ایجاد یک انیمیشن توسط تغییر دادن مقادیر ثابت."
+
+#. Form1..ActionManager..ImportGraphFileAction..Caption
+msgid "Graph file..."
+msgstr "پرونده گراف..."
+
+#. Form1..ActionManager..ImportGraphFileAction..Hint
+msgid "Import a Graph file into the current coordinate system."
+msgstr "وارد کردن یک پرونده گراف در دستگاه مختصات فعلی."
+
+#. Form1..ActionManager..ImportPointSeriesAction..Caption
+msgid "Point series..."
+msgstr "دنباله نقاط..."
+
+#. Form1..ActionManager..ImportPointSeriesAction..Hint
+msgid "Import point series from a data file."
+msgstr "وارد کردن دنباله نقاط از پرونده داده ها."
+
+#. Form1..ActionManager..ScriptDocAction..Caption
+msgid "Scripting engine documentation"
+msgstr ""
+
+#. Form1..ActionManager..ScriptDocAction..Hint
+msgid "Show documentation for scripting engine and plugin system."
+msgstr ""
+
+#. Form1..PopupMenu2..ToolBar_Reset..Caption
+msgid "Reset to default"
+msgstr "برگرداندن به حالت پیش فرض"
+
+#. Form1..PopupMenu2..ToolBar_Reset..Hint
+msgid "Reset the toolbar icons to the installation default."
+msgstr "برگرداندن آیکون های نوار ابزار به پیش فرض نصب."
+
+#. Form1..PopupMenu2..ToolBar_Customize..Caption
+msgid "Customize toolbar..."
+msgstr "سفارشی کردن نوار ابزار..."
+
+#. Form1..PopupMenu2..ToolBar_Customize..Hint
+msgid "Customize the icons shown on the toolbar."
+msgstr "سفارشی کردن آیکون های نوار ابزار."
+
+#. Form1..PopupMenu3..Label_Edit..Caption
+msgid "Edit label..."
+msgstr "ویرایش برچسب..."
+
+#. Form1..PopupMenu3..Label_Edit..Hint
+msgid "Edit the label under the cursor."
+msgstr "ویرایش کردن برچسب زیر ماوس."
+
+#. Form1..PopupMenu3..Label_Delete..Caption
+msgid "Delete label"
+msgstr "حذف برچسب"
+
+#. Form1..PopupMenu3..Label_Delete..Hint
+msgid "Delete the label under the cursor."
+msgstr "حذف برچسب زیر ماوس."
+
+#. Form1..PopupMenu4..Legend_Show..Caption
+#. Form3..PageControl1..TabSheet3..CheckBox15..Caption
+msgid "Show legend"
+msgstr "نمایش اختصارات"
+
+#. Form1..PopupMenu4..Legend_Show..Hint
+#. Form3..PageControl1..TabSheet3..CheckBox15..Hint
+msgid "Select to show a legend in the coordinate system."
+msgstr "انتخاب نمایش اختصارات در دستگاه مختصات."
+
+#. Form1..PopupMenu4..Legend_Font..Caption
+msgid "Font..."
+msgstr "نوع حروف..."
+
+#. Form1..PopupMenu4..Legend_Font..Hint
+#, fuzzy
+msgid "Change the font of the legend."
+msgstr "انتخاب رنگ خطوط."
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_TopRight..Caption
+#. Form3..PageControl1..TabSheet3..RadioGroup3....Items.Strings
+msgid "Top Right"
+msgstr "بالا راست"
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_TopRight..Hint
+msgid "Show the legend in the upper right corner."
+msgstr "نمایش اختصارات در گوشه بالا و راست."
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_BottomRight..Caption
+#. Form3..PageControl1..TabSheet3..RadioGroup3....Items.Strings
+msgid "Bottom Right"
+msgstr "پایین راست"
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_BottomRight..Hint
+msgid "Show the legend in the bottom right corner."
+msgstr "نمایش اختصارات در گوشه پایین و راست."
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_TopLeft..Caption
+#. Form3..PageControl1..TabSheet3..RadioGroup3....Items.Strings
+msgid "Top Left"
+msgstr "بالا چپ"
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_TopLeft..Hint
+msgid "Show the legend in the upper left corner."
+msgstr "نمایش اختصارات در گوشه بالا و چپ."
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_BottomLeft..Caption
+#. Form3..PageControl1..TabSheet3..RadioGroup3....Items.Strings
+msgid "Bottom Left"
+msgstr "پایین چپ"
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_BottomLeft..Hint
+msgid "Show the legend in the bottom left corner."
+msgstr "نمایش اختصارات در گوشه پایین و چپ."
+
+#. Form10..Button1..Caption
+#. Form15..Button1..Caption
+#. Form19..Button2..Caption
+msgid "Close"
+msgstr "بستن"
+
+#. Form10..Button2..Caption
+msgid "Next tip"
+msgstr "نکته بعدی"
+
+#. Form10..Button3..Caption
+msgid "Previous tip"
+msgstr "نکته قبلی"
+
+#. Form10..CheckBox1..Caption
+msgid "Show tips at startup"
+msgstr "نمایش نکات در شروع"
+
+#. Form10..Panel1..Label1..Caption
+msgid "Did you know..."
+msgstr "آیا می دانستید..."
+
+#. Form11..Caption
+msgid "Insert relation"
+msgstr "درج رابطه"
+
+#. Form11..Label1..Caption
+msgid "Relation:"
+msgstr "رابطه:"
+
+#. Form11..Label2..Caption
+msgid "Constraints:"
+msgstr "حدود:"
+
+#. Form11..Button1..Caption
+#. Form12..Button1..Caption
+#. Form13..Button1..Caption
+#. Form14..Button1..Caption
+#. Form16..Button1..Caption
+#. Form17..Button1..Caption
+#. Form18..Button1..Caption
+#. Form2..Button1..Caption
+#. Form21..TntButton1..Caption
+#. Form3..Button1..Caption
+#. Form4..Button1..Caption
+#. Form5..Button1..Caption
+#. Form6..Button1..Caption
+#. Form7..Button1..Caption
+#. Form8..Button1..Caption
+#. PrintFrm..Button1..Caption
+msgid "OK"
+msgstr "تایید"
+
+#. Form11..Button2..Caption
+#. Form12..Button2..Caption
+#. Form13..Button2..Caption
+#. Form14..Button2..Caption
+#. Form15..ProgressForm1..ButtonCaption
+#. Form16..Button2..Caption
+#. Form17..Button2..Caption
+#. Form18..Button2..Caption
+#. Form19..ProgressForm1..ButtonCaption
+#. Form21..TntButton2..Caption
+#. Form3..Button2..Caption
+#. Form4..Button2..Caption
+#. Form5..Button2..Caption
+#. Form6..Button2..Caption
+#. Form7..Button2..Caption
+#. Form8..Button2..Caption
+#. PrintFrm..Button2..Caption
+msgid "Cancel"
+msgstr "انصراف"
+
+#. Form11..GroupBox1..Caption
+#. Form12..GroupBox1..Caption
+#. Form5..GroupBox3..Caption
+#. Form7..GroupBox3..Caption
+msgid "Legend text"
+msgstr "متن اختصار"
+
+#. Form11..GroupBox1..Label10..Caption
+#. Form12..GroupBox1..Label10..Caption
+#. Form14..Label3..Caption
+#. Form16..PageControl1..TabSheet2..Label12..Caption
+#. Form5..GroupBox3..Label10..Caption
+#. Form7..GroupBox3..Label10..Caption
+msgid "Description:"
+msgstr "توضیحات:"
+
+#. Form11..GroupBox1..Edit3....Hint
+#. Form5..GroupBox3..Edit7....Hint
+msgid "Write a descriptive text to show in the legend and function list. If empty the formula will be used."
+msgstr "نوشتن یک متن توضیحی برای نشان دادن لیست علایم و اختصارات تابع. در صورت خالی بودن، نمایش خود فرمول."
+
+#. Form11..GroupBox2..Caption
+#. Form16..PageControl1..TabSheet2..GroupBox3..Caption
+#. PrintFrm..GroupBox1..Button3..Caption
+msgid "Properties"
+msgstr "خصوصیات"
+
+#. Form11..GroupBox2..Label7..Caption
+#. Form13..GroupBox1..Label7..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox1..Label1..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox2..Label5..Caption
+#. Form16..PageControl1..TabSheet2..GroupBox3..Label4..Caption
+msgid "Style:"
+msgstr "قلم:"
+
+#. Form11..GroupBox2..Label9..Caption
+#. Form12..GroupBox2..Label9..Caption
+#. Form13..GroupBox1..Label6..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox1..Label2..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox2..Label6..Caption
+#. Form16..PageControl1..TabSheet2..GroupBox3..Label5..Caption
+#. Form5..GroupBox4..GridPanelEx1..Label9..Caption
+#. Form7..GroupBox4..Label9..Caption
+msgid "Color:"
+msgstr "رنگ:"
+
+#. Form11..GroupBox2..Label3..Caption
+#. Form12..GroupBox2..Label8..Caption
+#. Form13..GroupBox1..Label5..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox2..Label7..Caption
+#. Form5..GroupBox4..GridPanelEx1..Label8..Caption
+#. Form7..GroupBox4..Label8..Caption
+msgid "Width:"
+msgstr "عرض:"
+
+#. Form11..GroupBox2..ShadeSelect1....Hint
+msgid "Select the style used for drawing the inequality. Not used for equations."
+msgstr "انتخاب قلم استفاده شده برای رسم نا مساوی. برای تساوی ها استفاده نمی شود."
+
+#. Form11..GroupBox2..ExtColorBox1..Hint
+msgid "Select the color for drawing the relation."
+msgstr "انتخاب رنگ برای رسم رابطه."
+
+#. Form11..GroupBox2..Panel1..Edit4....Hint
+msgid "Width in pixels of the equation line or the borderline of the inequality."
+msgstr "عرض بر حسب پیکسل برای خط تساوی یا خط مرزی نا مساوی."
+
+#. Form11..Edit1..Hint
+msgid "Enter the relation, for example \"x^2+y^2 = 25\" or \"y < sin(x)\""
+msgstr "رابطه را وارد کنید، برای مثال \"x^2+y^2 = 25\" یا \"y<sin(x)\""
+
+#. Form11..Edit2....Hint
+msgid "Enter constraints for the relation, for example \"x > 0 and y < 5\""
+msgstr "وارد کردن شروطی برای رابطه، برای مثال \"x > 0 و y<5\""
+
+#. Form12..Caption
+msgid "Insert tangent/normal"
+msgstr "درج خط مماس یا میانه"
+
+#. Form12..Edit1..Hint
+msgid "Value where the tangent/normal will interact with the function."
+msgstr "مقدار دهی محل تلاقی خط مماس یا میانه با تابع."
+
+#. Form12..RadioGroup1..Hint
+msgid "Choose if you want a tangent or a normal."
+msgstr "بین خط مماس و میانه انتخاب کنید."
+
+#. Form12..RadioGroup1..Caption
+msgid "Type"
+msgstr "تایپ"
+
+#. Form12..RadioGroup1....Items.Strings
+msgid "Tangent"
+msgstr "مماس"
+
+#. Form12..RadioGroup1....Items.Strings
+msgid "Normal"
+msgstr "میانه"
+
+#. Form12..GroupBox1..Edit2....Hint
+#. Form7..GroupBox3..Edit3....Hint
+msgid "Write a descriptive text to show in the legend. If empty the equation will be used."
+msgstr "نوشتن یک متن توضیحی برای نشان دادن در اختصارات. در صورت خالی بودن، نمایش خود فرمول."
+
+#. Form12..GroupBox2..Caption
+#. Form5..GroupBox4..Caption
+#. Form7..GroupBox4..Caption
+msgid "Graph properties"
+msgstr "خصوصیات گراف"
+
+#. Form12..GroupBox2..Label7..Caption
+#. Form5..GroupBox4..GridPanelEx1..Label7..Caption
+#. Form7..GroupBox4..Label7..Caption
+msgid "Line style:"
+msgstr "نوع خط:"
+
+#. Form12..GroupBox2..Edit3..Hint
+#. Form13..GroupBox1..Edit2..Hint
+#. Form5..GroupBox4..GridPanelEx1..Panel1..Edit6..Hint
+#. Form7..GroupBox4..Edit4..Hint
+msgid "Width of graph in pixels."
+msgstr "عرض گراف به پیکسل."
+
+#. Form12..GroupBox2..LineSelect1..Hint
+#. Form13..GroupBox1..LineSelect1..Hint
+#. Form5..GroupBox4..GridPanelEx1..LineSelect1..Hint
+#. Form7..GroupBox4..LineSelect1..Hint
+msgid "Choose which line style to use for drawing the graph."
+msgstr "انتخاب نوع خط برای رسم گراف."
+
+#. Form12..GroupBox2..ExtColorBox1..Hint
+#. Form13..GroupBox1..ExtColorBox1..Hint
+#. Form5..GroupBox4..GridPanelEx1..ExtColorBox1..Hint
+#. Form7..GroupBox4..ExtColorBox1..Hint
+msgid "Select the color of the graph."
+msgstr "انتخاب رنگ گراف."
+
+#. Form12..GroupBox3..Caption
+#. Form5..GroupBox2..Caption
+#. Form7..GroupBox2..Caption
+msgid "Argument range"
+msgstr "بازه آرگومان"
+
+#. Form12..GroupBox3..Label4..Caption
+#. Form15..Label1..Caption
+#. Form16..PageControl1..TabSheet2..GroupBox1..Label6..Caption
+#. Form16..PageControl1..TabSheet3..GroupBox2..Label8..Caption
+#. Form19..TntGroupBox1..Label2..Caption
+#. Form5..GroupBox2..Label4..Caption
+#. Form7..GroupBox2..Label4..Caption
+#. AreaFrame..GridPanel1..Label1..Caption
+msgid "From:"
+msgstr "از:"
+
+#. Form12..GroupBox3..Label5..Caption
+#. Form15..Label2..Caption
+#. Form16..PageControl1..TabSheet2..GroupBox1..Label7..Caption
+#. Form16..PageControl1..TabSheet3..GroupBox2..Label9..Caption
+#. Form19..TntGroupBox1..Label3..Caption
+#. Form5..GroupBox2..Label5..Caption
+#. Form7..GroupBox2..Label5..Caption
+#. AreaFrame..GridPanel1..Label2..Caption
+msgid "To:"
+msgstr "به:"
+
+#. Form12..GroupBox3..Edit4..Hint
+#. Form5..GroupBox2..Edit3..Hint
+#. Form7..GroupBox2..Edit1..Hint
+msgid "Start of range interval for the used variable."
+msgstr "شروع بازه برای متغیر."
+
+#. Form12..GroupBox3..Edit5..Hint
+#. Form5..GroupBox2..Edit4..Hint
+#. Form7..GroupBox2..Edit2..Hint
+msgid "End of range interval for the used variable."
+msgstr "پایان بازه برای متغیر."
+
+#. Form12..GroupBox5..Caption
+#. Form5..GroupBox5..Caption
+msgid "Endpoints"
+msgstr "نقاط پایانی"
+
+#. Form12..GroupBox5..Label11..Caption
+#. Form5..GroupBox5..Label11..Caption
+msgid "Start:"
+msgstr "شروع:"
+
+#. Form12..GroupBox5..Label12..Caption
+#. Form5..GroupBox5..Label12..Caption
+msgid "End:"
+msgstr "پایان:"
+
+#. Form12..GroupBox5..ComboBox1....Hint
+#. Form5..GroupBox5..ComboBox2....Hint
+msgid "Select marker to show at the start of the interval. Only used if an argument range is specified."
+msgstr "انتخاب نشانگر برای نمایش شروع بازه. فقط زمانی که بازه آرگومان مشخص شده باشد."
+
+#. Form12..GroupBox5..ComboBox2....Hint
+#. Form5..GroupBox5..ComboBox3....Hint
+msgid "Select marker to show at the end of the interval. Only used if an argument range is specified."
+msgstr "انتخاب نشانگر برای نمایش پایان بازه. فقط زمانی که بازه آرگومان مشخص شده باشد."
+
+#. Form13..Caption
+msgid "Insert trendline"
+msgstr "درج خط تقریب"
+
+#. Form13..GroupBox1..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox2..Caption
+msgid "Line"
+msgstr "خط"
+
+#. Form13..PageControl1..TabSheet1..Caption
+msgid "Built-in"
+msgstr "داخلی"
+
+#. Form13..PageControl1..TabSheet1..Panel1..Image1..Hint
+msgid "Create a linear function: f(x)=ax+b"
+msgstr "ایجاد تابع خطی: f(x)=ax+b"
+
+#. Form13..PageControl1..TabSheet1..Panel2..Image2..Hint
+msgid "Create a logarithmic function: f(x)=a*ln(x)+b"
+msgstr "ایجاد تابع لگاریتمی: f(x)=a*ln(x)+b"
+
+#. Form13..PageControl1..TabSheet1..Panel3..Image3..Hint
+msgid "Create a polynomial function: f(x)=ax^3+bx^2+cx+d"
+msgstr "ایجاد تابع چند جمله ای: f(x)=ax¨3+bx¨2+cx+d"
+
+#. Form13..PageControl1..TabSheet1..Panel4..Image4..Hint
+msgid "Create a power function: f(x)=ax^b"
+msgstr "ایجاد تابع توانی: f(x)=ax^b"
+
+#. Form13..PageControl1..TabSheet1..Panel5..Image5..Hint
+msgid "Create a exponential function: f(x)=a*b^x"
+msgstr "ایجاد تابع نمایی: f(x)=a*b^x"
+
+#. Form13..PageControl1..TabSheet1..StaticText1..Caption
+msgid "Order:"
+msgstr "مرتبه:"
+
+#. Form13..PageControl1..TabSheet1..RadioButton3..Caption
+msgid "Polynomial"
+msgstr "چند جمله ای"
+
+#. Form13..PageControl1..TabSheet1..RadioButton2..Caption
+msgid "Logarithmic"
+msgstr "لگاریتمی"
+
+#. Form13..PageControl1..TabSheet1..RadioButton1..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox2..ComboBox2....Items.Strings
+msgid "Linear"
+msgstr "خطی"
+
+#. Form13..PageControl1..TabSheet1..RadioButton4..Caption
+msgid "Power"
+msgstr "توان"
+
+#. Form13..PageControl1..TabSheet1..RadioButton5..Caption
+msgid "Exponential"
+msgstr "نمایی"
+
+#. Form13..PageControl1..TabSheet1..Panel6..Image6..Hint
+msgid "Create a moving average as a series of straight lines."
+msgstr "ایجاد میانگین متحرک به عنوان سری از خطوط مستقیم"
+
+#. Form13..PageControl1..TabSheet1..RadioButton6..Caption
+msgid "Moving average"
+msgstr "میانگین متحرک"
+
+#. Form13..PageControl1..TabSheet1..StaticText2..Caption
+msgid "Period:"
+msgstr "بازه:"
+
+#. Form13..PageControl1..TabSheet1..Edit4..Hint
+msgid "Determines how many points are used for the average."
+msgstr "تخمین تعداد نقاط مورد استفاده برای محاسبه میانگین."
+
+#. Form13..PageControl1..TabSheet1..Edit1..Hint
+msgid "The order of the polynomium. For example 2 means a parable."
+msgstr "مرتبه چند جمله ای. برای مثال 2 مناسب است."
+
+#. Form13..PageControl1..TabSheet2..Caption
+msgid "User defined"
+msgstr "تعریف شده توسط کاربر"
+
+#. Form13..PageControl1..TabSheet2..Label1..Caption
+msgid "Model:"
+msgstr "مدل:"
+
+#. Form13..PageControl1..TabSheet2..Button4..Caption
+#. Form8..Caption
+msgid "Add model"
+msgstr "اضافه کردن مدل"
+
+#. Form13..PageControl1..TabSheet2..Button5..Caption
+msgid "Remove model"
+msgstr "حذف مدل"
+
+#. Form13..PageControl1..TabSheet2..Button6..Caption
+msgid "Edit model"
+msgstr "ویرایش مدل"
+
+#. Form13..PageControl1..TabSheet2..Edit3..Hint
+msgid "Enter a function model to base the trendline on."
+msgstr "وارد کردن یک تابع مدل به عنوان اساس خط تقریب."
+
+#. Form13..CheckBox1....Hint
+#. Form13..Edit5....Hint
+msgid "Type a value in the Intercept box to specify the point where you want the trendline to meet the y-axis. This is only available for linear, polynomial and exponential trendlines."
+msgstr "وارد کردن مقدار برای مشخص کردن نقطه تلاقی خط تقریب و محور y. قابل استفاده فقط برای توابع خطی، چند جمله ای و نمایی"
+
+#. Form13..CheckBox1..Caption
+msgid "Intercept ="
+msgstr "تقاطع="
+
+#. Form13..TntPopupMenu1..Popup_Import..Caption
+#. Form14..PopupMenu1..Popup_Import..Caption
+#. Form17..PopupMenu1..Popup_Import..Caption
+msgid "Import from file..."
+msgstr "وارد کردن از پرونده..."
+
+#. Form13..TntPopupMenu1..Popup_Import..Hint
+msgid "Import user models from a file."
+msgstr "وارد کردن مدل های کاربر از پرونده."
+
+#. Form13..TntPopupMenu1..Popup_Export..Caption
+msgid "Export all to file..."
+msgstr "صادر کردن به پرونده..."
+
+#. Form13..TntPopupMenu1..Popup_Export..Hint
+msgid "Export user models to a file."
+msgstr "صادر کردن مدل های کاربر به پرونده."
+
+#. Form13..SaveDialog1..Filter
+#. Form13..OpenDialog1..Filter
+msgid "User models [*.ini]|*.ini"
+msgstr "مدل های کاربر [*.ini]|*.ini"
+
+#. Form14..Caption
+msgid "Insert point series"
+msgstr "درج دنباله نقاط"
+
+#. Form14..Edit1....Hint
+msgid "The name of the point series, which is shown in the list to the left of the coordinate system."
+msgstr "نام دنباله نقاط که در لیست موجود در سمت چپ دستگاه مختصات نشان داده شده است."
+
+#. Form14..Edit1..Text
+msgid "Series"
+msgstr "سری ها"
+
+#. Form14..GroupBox4....Hint
+msgid "This shows a sample of the markers and the lines between the markers."
+msgstr "نمونه ای از شاخصه ها و خطوط بین آنها را نشان می دهد."
+
+#. Form14..GroupBox4..Caption
+msgid "Sample"
+msgstr "نمونه"
+
+#. Form14..PageControl1..TabSheet1..Caption
+msgid "Markers"
+msgstr "شاخصه ها"
+
+#. Form14..PageControl1..TabSheet1..GroupBox1..Caption
+msgid "Marker"
+msgstr "شاخصه"
+
+#. Form14..PageControl1..TabSheet1..GroupBox1..Label4..Caption
+msgid "Size:"
+msgstr "اندازه:"
+
+#. Form14..PageControl1..TabSheet1..GroupBox1..Edit2..Hint
+msgid "Choose the size of the markers."
+msgstr "انتخاب اندازه شاخصه ها."
+
+#. Form14..PageControl1..TabSheet1..GroupBox1..PointSelect1..Hint
+msgid "Choose the type of markers to be shown at each point."
+msgstr "نوع شاخصه ها را برای نمایش در هر نقطه مشخص کنید."
+
+#. Form14..PageControl1..TabSheet1..GroupBox1..ExtColorBox1..Hint
+msgid "Choose the color of the markers."
+msgstr "رنگ شاخصه ها را انتخاب کنید."
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..Label11..Caption
+msgid "Interpolation:"
+msgstr "الحاق:"
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..LineSelect1....Hint
+msgid "Choose the style of lines to be drawn between the points. You may also choose not to draw any lines."
+msgstr "نوع خطوط را برای رسم بین نقاط انتخاب کنید. می توانید انتخاب کنید که هیچ خطی رسم نشود."
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..Edit3..Hint
+msgid "Choose the width of the lines in pixels."
+msgstr "انتخاب عرض خطوط به پیکسل."
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..ComboBox2..Hint
+msgid "Select which kind of line to draw between the markers."
+msgstr "نوع خط رسم شده بین شاخصه ها را انتخاب کنید."
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..ComboBox2....Items.Strings
+msgid "1D cubic spline"
+msgstr ""
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..ComboBox2....Items.Strings
+msgid "2D cubic spline"
+msgstr ""
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..ComboBox2....Items.Strings
+msgid "Half cosine"
+msgstr "نیم کسینوسی"
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..ExtColorBox2..Hint
+msgid "Choose the color of the lines."
+msgstr "انتخاب رنگ خطوط."
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..Caption
+msgid "Labels"
+msgstr "برچسب ها"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..Label8..Caption
+msgid "Position:"
+msgstr "موقعیت:"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..CheckBox2..Hint
+msgid "Check to show the coordinate at each point."
+msgstr "مشخص کردن مختصات هر نقطه."
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..CheckBox2..Caption
+msgid "Show coordinates"
+msgstr "نمایش مختصات"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..BitBtn1..Hint
+msgid "Select the font for the coordinates."
+msgstr "انتخاب قلم برای مختصات."
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1..Hint
+msgid "Select where the coordinates should be shown."
+msgstr "انتخاب محل نمایش مختصات."
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+msgid "Above"
+msgstr "بالا"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+msgid "Below"
+msgstr "زیر"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+msgid "Left"
+msgstr "چپ"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+msgid "Right"
+msgstr "راست"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+#, fuzzy
+msgid "Above Left"
+msgstr "حرکت به چپ"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+#, fuzzy
+msgid "Above Right"
+msgstr "حرکت به راست"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+#, fuzzy
+msgid "Below Left"
+msgstr "پایین چپ"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+#, fuzzy
+msgid "Below Right"
+msgstr "پایین راست"
+
+#. Form14..PageControl1..TabSheet1..RadioGroup1....Hint
+msgid "Choose between cartesian (x,y) coordinates and polar (θ,r) coordinates."
+msgstr ""
+
+#. Form14..PageControl1..TabSheet1..RadioGroup1..Caption
+#, fuzzy
+msgid "Coordinate type"
+msgstr "مختصات تعریف نشده است"
+
+#. Form14..PageControl1..TabSheet1..RadioGroup1....Items.Strings
+msgid "Cartesian"
+msgstr ""
+
+#. Form14..PageControl1..TabSheet1..RadioGroup1....Items.Strings
+#. Form4..GridPanelEx1..RadioGroup1....Items.Strings
+msgid "Polar"
+msgstr "قطبی"
+
+#. Form14..PageControl1..TabSheet2..Caption
+msgid "Error bars"
+msgstr "نوارهای خطا"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..Caption
+msgid "X error amount"
+msgstr "مقدار خطا ی X"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..CheckBox3..Hint
+msgid "Show horizontal error bars."
+msgstr "نمایش افقی نوار های خطا."
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..CheckBox3..Caption
+msgid "Show x-bars"
+msgstr "نمایش نوار های x"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..RadioButton1..Hint
+#. Form14..PageControl1..TabSheet2..GroupBox6..RadioButton4..Hint
+msgid "All error bars are the same size."
+msgstr "یکسان کردن اندازه همه نوار های خطا."
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..RadioButton1..Caption
+#. Form14..PageControl1..TabSheet2..GroupBox6..RadioButton4..Caption
+msgid "Fixed:"
+msgstr "مستقر کردن:"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..Edit4..Hint
+#. Form14..PageControl1..TabSheet2..GroupBox6..Edit6..Hint
+msgid "Enter fixed value."
+msgstr "وارد کردن مقدار ثابت."
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..RadioButton2..Hint
+msgid "All error bars are the same percentage of the x-coordinate."
+msgstr "تمام نوار های خطا درصد یکسانی از مختصات x هستند."
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..RadioButton2..Caption
+#. Form14..PageControl1..TabSheet2..GroupBox6..RadioButton5..Caption
+msgid "Relative:"
+msgstr "نسبی:"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..RadioButton3..Hint
+#. Form14..PageControl1..TabSheet2..GroupBox6..RadioButton6..Hint
+msgid "Each error bar is given a custom value."
+msgstr "هر نوار خطا یک مقدار سفارشی دارد."
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..RadioButton3..Caption
+#. Form14..PageControl1..TabSheet2..GroupBox6..RadioButton6..Caption
+msgid "Custom"
+msgstr "سفارشی"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..Edit5..Hint
+#. Form14..PageControl1..TabSheet2..GroupBox6..Edit7..Hint
+msgid "Enter relative value in percent."
+msgstr "مقدار نسبی را به درصد وارد کنید."
+
+#. Form14..PageControl1..TabSheet2..GroupBox6..Caption
+msgid "Y error amount"
+msgstr "مقدار خطا ی Y"
+
+#. Form14..PageControl1..TabSheet2..GroupBox6..CheckBox4..Hint
+msgid "Show vertical error bars."
+msgstr "نمایش عمودی نوار های خطا."
+
+#. Form14..PageControl1..TabSheet2..GroupBox6..CheckBox4..Caption
+msgid "Show y-bars"
+msgstr "نمایش نوار های Y"
+
+#. Form14..PageControl1..TabSheet2..GroupBox6..RadioButton5..Hint
+msgid "All error bars are the same percentage of the y-coordinate."
+msgstr "تمام نوار های خطا درصد یکسانی از مختصات Y هستند."
+
+#. Form14..PopupMenu1..Popup_Cut..Hint
+#. Form17..PopupMenu1..Popup_Cut..Hint
+#. Form6..PopupMenu1..Popup_Cut..Hint
+msgid "Cut the selected text to the clipboard."
+msgstr "برش متن انتخابی به کلیپ بورد."
+
+#. Form14..PopupMenu1..Popup_Copy..Hint
+#. Form17..PopupMenu1..Popup_Copy..Hint
+#. Form6..PopupMenu1..Popup_Copy..Hint
+msgid "Copy the selected text to the clipboard."
+msgstr "کپی متن انتخابی در کلیپ بورد."
+
+#. Form14..PopupMenu1..Popup_Paste....Hint
+#. Form17..PopupMenu1..Popup_Paste....Hint
+msgid "Paste text from the clipboard into the grid. Other cells may be overwritten by the text from the clipboard."
+msgstr "درج متن از کلیپ بورد به شبکه. سایر خانه ها ممکن است توسط متن کلیپ بورد جایگزین شوند."
+
+#. Form14..PopupMenu1..Popup_Delete..Hint
+#. Form17..PopupMenu1..Popup_Delete..Hint
+msgid "Erase selected cells."
+msgstr "پاک کردن خانه های انتخاب شده."
+
+#. Form14..PopupMenu1..Popup_Insert..Caption
+#. Form17..PopupMenu1..Popup_Insert..Caption
+msgid "Insert row"
+msgstr "درج ردیف"
+
+#. Form14..PopupMenu1..Popup_Insert..Hint
+#. Form17..PopupMenu1..Popup_Insert..Hint
+msgid "Inserts a row in the grid moving rows below one down."
+msgstr "درج یک ردیف در شبکه و انتقال ردیف ها یک خانه به پایین."
+
+#. Form14..PopupMenu1..Popup_Remove..Caption
+#. Form17..PopupMenu1..Popup_Remove..Caption
+msgid "Remove row"
+msgstr "حذف ردیف"
+
+#. Form14..PopupMenu1..Popup_Remove..Hint
+#. Form17..PopupMenu1..Popup_Remove..Hint
+msgid "Removes the selected rows."
+msgstr "حذف ردیف های انتخاب شده."
+
+#. Form14..PopupMenu1..Popup_Select..Caption
+#. Form15..PopupMenu1..Popup1_Select..Caption
+#. Form17..PopupMenu1..Popup_Select..Caption
+msgid "Select all"
+msgstr "انتخاب همه"
+
+#. Form14..PopupMenu1..Popup_Select..Hint
+#. Form15..PopupMenu1..Popup1_Select..Hint
+#. Form17..PopupMenu1..Popup_Select..Hint
+msgid "Select all cells."
+msgstr "انتخاب همه خانه ها."
+
+#. Form14..PopupMenu1..Popup_Import..Hint
+#. Form17..PopupMenu1..Popup_Import..Hint
+msgid "Import data from a file and place it at the selected cell."
+msgstr "وارد کردن داده از یک پرونده و قرار دادن آنها در خانه انتخاب شده."
+
+#. Form14..PopupMenu1..Popup_Export..Hint
+#. Form17..PopupMenu1..Popup_Export..Hint
+msgid "Export selected data to a file."
+msgstr "صادر کردن داده انتخابی به یک پرونده."
+
+#. Form15..Caption
+msgid "Calculate table"
+msgstr "محاسبه جدول"
+
+#. Form15..Edit3....Hint
+msgid "The step value. This is the difference between two adjoining values in the defined interval."
+msgstr "مقدار پله ای. بیانگر اختلاف مقدار بین دو خانه همسایه در بازه تعریف شده."
+
+#. Form15..Edit1..Hint
+msgid "The first x-value in the interval."
+msgstr "اولین مقدار x در بازه."
+
+#. Form15..Edit2..Hint
+msgid "The last x-value in the interval."
+msgstr "آخرین مقدار x در بازه."
+
+#. Form15..PopupMenu1..Popup1_Show1..Caption
+#. Form15..PopupMenu1..Popup1_Show2..Caption
+#. Form15..PopupMenu1..Popup1_Show3..Caption
+#. Form15..PopupMenu1..Popup1_Show4..Caption
+#. Form15..PopupMenu1..Popup1_Show5..Caption
+msgid "Show %s"
+msgstr "نمایش %s"
+
+#. Form15..PopupMenu1..Popup1_Show1..Hint
+#. Form15..PopupMenu1..Popup1_Show2..Hint
+#. Form15..PopupMenu1..Popup1_Show3..Hint
+#. Form15..PopupMenu1..Popup1_Show4..Hint
+#. Form15..PopupMenu1..Popup1_Show5..Hint
+msgid "Show the %s column in the table."
+msgstr "نمایش ستون %s در جدول."
+
+#. Form15..PopupMenu1..Popup1_Copy..Hint
+msgid "Copy selected cells to the clipboard."
+msgstr "کپی خانه های انتخاب شده در کلیپ بورد."
+
+#. Form15..PopupMenu1..Popup1_Export..Hint
+msgid "Saves the selected data to a file."
+msgstr "ذخیره داده انتخاب شده در فایل."
+
+#. Form15..ProgressForm1..Caption
+msgid "Calculating"
+msgstr "در حال محاسبه"
+
+#. Form15..SaveDialog1..Filter
+msgid "CSV (Comma delimited) [*.csv]|*.csv|Text [*.txt]|*.txt"
+msgstr "CSV (Comma delimited) [*.csv]|*.csv|Text "
+
+#. Form16..Caption
+msgid "Insert shading"
+msgstr "درج هاشور"
+
+#. Form16..PageControl1..TabSheet1..Caption
+msgid "Shading"
+msgstr "هاشور زنی"
+
+#. Form16..PageControl1..TabSheet1..Panel1..Image1..Hint
+#. Form16..PageControl1..TabSheet1..RadioButton1..Hint
+msgid "Shades the area between the function and the x-axis."
+msgstr "هاشور زنی ناحیه بین تابع و محور x."
+
+#. Form16..PageControl1..TabSheet1..Panel2..Image2..Hint
+#. Form16..PageControl1..TabSheet1..RadioButton2..Hint
+msgid "Shades the area below the function."
+msgstr "هاشور زنی ناحیه زیر تابع."
+
+#. Form16..PageControl1..TabSheet1..Panel3..Image3..Hint
+#. Form16..PageControl1..TabSheet1..RadioButton3..Hint
+msgid "Shades the area above the function."
+msgstr "هاشور زنی ناحیه بالای تابع."
+
+#. Form16..PageControl1..TabSheet1..Panel4..Image4..Hint
+#. Form16..PageControl1..TabSheet1..RadioButton4..Hint
+msgid "Shades the area between the function and the y-axis."
+msgstr "هاشور زنی ناحیه بین تابع و محور y."
+
+#. Form16..PageControl1..TabSheet1..Panel5..Image5..Hint
+#. Form16..PageControl1..TabSheet1..RadioButton5..Hint
+msgid "Shades the area inside the function."
+msgstr "هاشور زنی ناحیه داخل تابع."
+
+#. Form16..PageControl1..TabSheet1..Panel6..Image6....Hint
+#. Form16..PageControl1..TabSheet1..RadioButton6....Hint
+msgid "Shades the area between the main function and the function selected in the list to the right."
+msgstr "هاشور زنی ناحیه بین تابع اصلی و تابع انتخاب شده در لیست سمت راست."
+
+#. Form16..PageControl1..TabSheet1..RadioButton3..Caption
+msgid "Above function"
+msgstr "بالای تابع"
+
+#. Form16..PageControl1..TabSheet1..RadioButton1..Caption
+msgid "Between function and x-axis"
+msgstr "بین تابع و محور x"
+
+#. Form16..PageControl1..TabSheet1..RadioButton6..Caption
+msgid "Between functions"
+msgstr "بین توابع"
+
+#. Form16..PageControl1..TabSheet1..RadioButton4..Caption
+msgid "Between function and y-axis"
+msgstr "بین تابع و محور y"
+
+#. Form16..PageControl1..TabSheet1..RadioButton5..Caption
+msgid "Inside function"
+msgstr "داخل تابع"
+
+#. Form16..PageControl1..TabSheet1..RadioButton2..Caption
+msgid "Below function"
+msgstr "زیر تابع"
+
+#. Form16..PageControl1..TabSheet2..Caption
+#. Form20..Panel2..ToolBar1..ToolButton6..Hint
+#. Form4..Caption
+msgid "Options"
+msgstr "گزینه ها"
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..Caption
+#. Form19..TntGroupBox1..Caption
+msgid "Range"
+msgstr "بازه"
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..Edit1..Hint
+#. Form16..PageControl1..TabSheet3..GroupBox2..Edit3..Hint
+msgid "Coordinate where the shading starts."
+msgstr "مختصات محل شروع هاشور زنی."
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..Edit2..Hint
+#. Form16..PageControl1..TabSheet3..GroupBox2..Edit4..Hint
+msgid "Coordinate where the shading ends."
+msgstr "مختصات محل پایان هاشور زنی."
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..CheckBox2..Hint
+#. Form16..PageControl1..TabSheet3..GroupBox2..CheckBox4..Hint
+msgid "Check to increase the end coordinate until intersection."
+msgstr "نشانه گذاری برای افرایش مختصات پایان تا تقاطع."
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..CheckBox2..Caption
+#. Form16..PageControl1..TabSheet3..GroupBox2..CheckBox4..Caption
+msgid "Increase to intersection"
+msgstr "افزایش به تقاطع"
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..CheckBox1..Hint
+#. Form16..PageControl1..TabSheet3..GroupBox2..CheckBox3..Hint
+msgid "Check to decrease the start coordinate until intersection."
+msgstr "نشانه گذاری برای کاهش مختصات پایان تا تقاطع."
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..CheckBox1..Caption
+#. Form16..PageControl1..TabSheet3..GroupBox2..CheckBox3..Caption
+msgid "Decrease to intersection"
+msgstr "کاهش به تقاطع"
+
+#. Form16..PageControl1..TabSheet2..GroupBox3..ShadeSelect1..Hint
+msgid "Select the style used for the shading."
+msgstr "انتخاب نوع هاشور زنی."
+
+#. Form16..PageControl1..TabSheet2..GroupBox3..ExtColorBox1..Hint
+msgid "Select color used for shading."
+msgstr "انتخاب رنگ مورد استفاده در هاشور زنی."
+
+#. Form16..PageControl1..TabSheet2..GroupBox3..CheckBox5..Hint
+#, fuzzy
+msgid "Mark the border around the shading."
+msgstr "انتخاب نوع هاشور زنی."
+
+#. Form16..PageControl1..TabSheet2..GroupBox3..CheckBox5..Caption
+#, fuzzy
+msgid "Mark border"
+msgstr "شاخصه"
+
+#. Form16..PageControl1..TabSheet2..Edit5..Hint
+msgid "Enter a description to show in the legend."
+msgstr "توضیحی را برای نمایش در اختصارات وارد کنید."
+
+#. Form16..PageControl1..TabSheet3..Caption
+msgid "2nd function"
+msgstr "تابع دوم"
+
+#. Form16..PageControl1..TabSheet3..Label11..Caption
+msgid "2nd function:"
+msgstr "تابع دوم:"
+
+#. Form16..PageControl1..TabSheet3..ListBox1....Hint
+msgid "Select the second function when you want a shading between two functions."
+msgstr "دومین تابع را برای هاشور زنی بین دو تابع انتخاب کنید."
+
+#. Form16..PageControl1..TabSheet3..GroupBox2..Caption
+msgid "Shading range for 2nd function"
+msgstr "بازه هاشور زنی برای تابع دوم"
+
+#. Form17..Caption
+msgid "Custom functions/constants"
+msgstr "توابع و ثابت های سفارشی"
+
+#. Form17..Button3..Caption
+msgid "Apply"
+msgstr "اعمال تغییرات"
+
+#. Form17..Grid1....TitleCaptions.Strings
+msgid "Names"
+msgstr "نام ها"
+
+#. Form17..Grid1....TitleCaptions.Strings
+msgid "Definition"
+msgstr "تعاریف"
+
+#. Form18..Caption
+msgid "Image options"
+msgstr "گزینه های تصویر"
+
+#. Form18..PageControl1..TabSheet1..Caption
+msgid "Size"
+msgstr "اندازه"
+
+#. Form18..PageControl1..TabSheet1..Label1..Caption
+msgid "Image width:"
+msgstr "پهنای تصویر:"
+
+#. Form18..PageControl1..TabSheet1..Label2..Caption
+msgid "Image height:"
+msgstr "بلندای تصویر:"
+
+#. Form18..PageControl1..TabSheet1..Edit1..Hint
+msgid "Set a custom image width in pixels."
+msgstr "تنظیم دلخواه پهنای تصویر به پیکسل."
+
+#. Form18..PageControl1..TabSheet1..Edit2..Hint
+msgid "Set a custom image height in pixels."
+msgstr "تنظیم دلخواه بلندای تصویر به پیکسل."
+
+#. Form18..PageControl1..TabSheet1..RadioGroup3....Hint
+msgid "Choose to use the same size as shown on the screen or a custom image size."
+msgstr "انتخاب اندازه یکسان برای نمایش صفحه یا اندازه تصویر دلخواه."
+
+#. Form18..PageControl1..TabSheet1..RadioGroup3..Caption
+msgid "Image size"
+msgstr "اندازه تصویر"
+
+#. Form18..PageControl1..TabSheet1..RadioGroup3....Items.Strings
+msgid "Screen size"
+msgstr "اندازه صفحه"
+
+#. Form18..PageControl1..TabSheet1..RadioGroup3....Items.Strings
+msgid "Custom size"
+msgstr "اندازه دلخواه"
+
+#. Form18..PageControl1..TabSheet2..RadioGroup1....Hint
+msgid "Progressive encoding allows viewers to see a rough copy of the image while it is downloaded."
+msgstr "کد کردن پیشرو به بینندگان اجازه می دهد تا یک کپی بی کیفیت از تصویر دانلود شده ببینند."
+
+#. Form18..PageControl1..TabSheet2..RadioGroup1..Caption
+msgid "Encoding"
+msgstr "کد کردن"
+
+#. Form18..PageControl1..TabSheet2..RadioGroup1....Items.Strings
+msgid "Sequential"
+msgstr "ترتیبی"
+
+#. Form18..PageControl1..TabSheet2..RadioGroup1....Items.Strings
+msgid "Progressive"
+msgstr "پیشرو"
+
+#. Form18..PageControl1..TabSheet2..GroupBox1..Hint
+msgid "Select a compression quality."
+msgstr "انتخاب کیفیت فشرده سازی."
+
+#. Form18..PageControl1..TabSheet2..GroupBox1..Caption
+msgid "Quality"
+msgstr "کیفیت"
+
+#. Form18..PageControl1..TabSheet3..Label3..Caption
+msgid "Paper size:"
+msgstr "اندازه کاغذ:"
+
+#. Form18..PageControl1..TabSheet3..RadioGroup2..Hint
+#. PrintFrm..RadioGroup1..Hint
+msgid "Choose paper orientation."
+msgstr "انتخاب جهت کاغذ."
+
+#. Form18..PageControl1..TabSheet3..RadioGroup2..Caption
+#. PrintFrm..RadioGroup1..Caption
+msgid "Orientation"
+msgstr "جهت"
+
+#. Form18..PageControl1..TabSheet3..RadioGroup2....Items.Strings
+#. PrintFrm..RadioGroup1....Items.Strings
+msgid "Portrait"
+msgstr "عمودی"
+
+#. Form18..PageControl1..TabSheet3..RadioGroup2....Items.Strings
+#. PrintFrm..RadioGroup1....Items.Strings
+msgid "Landscape"
+msgstr "افقی"
+
+#. Form18..PageControl1..TabSheet3..ComboBox1..Hint
+msgid "Choose paper size to use."
+msgstr "انتخاب اندازه کاغذ برای استفاده."
+
+#. Form18..PageControl1..TabSheet3..ComboBox1....Items.Strings
+msgid "Letter"
+msgstr "نامه"
+
+#. Form18..PageControl1..TabSheet3..ComboBox1....Items.Strings
+msgid "Ledger"
+msgstr "سنگ پهن روی گور!"
+
+#. Form18..PageControl1..TabSheet3..ComboBox1....Items.Strings
+msgid "Legal"
+msgstr "حقوقی"
+
+#. Form18..CheckBox1..Hint
+#. Form3..CheckBox16..Hint
+msgid "Select this to use these settings as defaults in the future."
+msgstr "انتخاب این تنظیمات به عنوان پیش فرض در آینده."
+
+#. Form18..CheckBox1..Caption
+#. Form3..CheckBox16..Caption
+msgid "Save as default"
+msgstr "ذخیره به عنوان پیش فرض"
+
+#. Form19..Caption
+#. Form19..Button1..Caption
+msgid "Animate"
+msgstr "پویا نمایی"
+
+#. Form19..Label1..Caption
+msgid "Constant:"
+msgstr "ثابت:"
+
+#. Form19..ComboBox1..Hint
+msgid "Choose a constant to change between each frame."
+msgstr "انتخاب مقدار ثابت برای تغییر کردن بین هر فریم."
+
+#. Form19..TntGroupBox1..Label4..Caption
+msgid "Step:"
+msgstr "گام:"
+
+#. Form19..TntGroupBox1..Edit1..Hint
+msgid "The first value of the constant."
+msgstr "اولین مقدار ثابت."
+
+#. Form19..TntGroupBox1..Edit2..Hint
+msgid "The last value of the constant."
+msgstr "آخرین مقدار ثابت."
+
+#. Form19..TntGroupBox1..Edit3..Hint
+msgid "The chosen constant is changed by this value between each frame."
+msgstr "ثابت انتخاب شده برای تغییر کردن بین هر فریم."
+
+#. Form19..TntGroupBox2..Caption
+msgid "Frame options"
+msgstr "گزینه های فریم"
+
+#. Form19..TntGroupBox2..Label5..Caption
+msgid "Frame width:"
+msgstr "پهنای فریم:"
+
+#. Form19..TntGroupBox2..Label6..Caption
+msgid "Frame height:"
+msgstr "بلندای فریم:"
+
+#. Form19..TntGroupBox2..Label7..Caption
+msgid "Frames/second:"
+msgstr "ثانیه/فریم"
+
+#. Form19..TntGroupBox2..Edit4..Hint
+msgid "Width of each frame, in pixels."
+msgstr "پهنای هر فریم به پیکسل."
+
+#. Form19..TntGroupBox2..Edit5..Hint
+msgid "Height of each frame, in pixels."
+msgstr "بلندای هر فریم به پیکسل."
+
+#. Form19..TntGroupBox2..Edit6..Hint
+msgid "Number of frames per second used when the animation is played."
+msgstr "تعداد فریم ها بر ثانیه هنگام اجرا شدن انیمیشن."
+
+#. Form19..ProgressForm1..Caption
+msgid "Working"
+msgstr "طرز کار"
+
+#. Form2..Panel1..Version..Caption
+msgid "Version %s"
+msgstr "Version %s"
+
+#. Form2..Panel1..Label3..Caption
+msgid "Build %s"
+msgstr "Build %s"
+
+#. Form2..Panel1..Comments....Caption
+msgid "This is free software, and you are welcome to redistribute it under the terms in the <a href=\"%s\">GNU General Public License</a> version 2. Please send bug reports and suggestions to the programmer."
+msgstr ""
+
+#. Form2..Panel1..LinkLabel1....Caption
+msgid "The newest version as well as the source code are available at: %s"
+msgstr ""
+
+#. Form2..Panel1..LinkLabel2..Caption
+msgid "Email: %s"
+msgstr ""
+
+#. Form2..Panel1..LinkLabel3..Caption
+msgid "<Language> translation by <Translator>"
+msgstr ""
+"Farsi translation by\n"
+"Shayan Abyari (<a href=\"mailto:ShayanAbyari@gmail.com\">ShayanAbyari@gmail.com</a>) &\n"
+"Yashar PourMohammad (<a href=\"mailto:Yasharpm@yahoo.com\">Yasharpm@yahoo.com</a>)"
+
+#. Form20..Caption
+msgid "Animation"
+msgstr "انیمیشن"
+
+#. Form20..Panel2..ToolBar1..ToolButton1..Hint
+msgid "Play"
+msgstr "پخش"
+
+#. Form20..Panel2..ToolBar1..ToolButton2..Hint
+msgid "Pause"
+msgstr "مکث"
+
+#. Form20..Panel2..ToolBar1..ToolButton3..Hint
+msgid "Stop"
+msgstr "توقف"
+
+#. Form20..Panel2..ToolBar1..ToolButton4..Hint
+msgid "Back"
+msgstr "عقب"
+
+#. Form20..Panel2..ToolBar1..ToolButton5..Hint
+msgid "Step"
+msgstr "گام"
+
+#. Form20..SaveDialog1..Filter
+msgid "Audio Video Interleave [*.avi]|*.avi"
+msgstr "Audio Video Interleave [*.avi]|*.avi"
+
+#. Form20..PopupMenu1..Speed1..Caption
+msgid "Speed"
+msgstr "سرعت"
+
+#. Form20..PopupMenu1..Speed1..N101..Hint
+#. Form20..PopupMenu1..Speed1..N501..Hint
+#. Form20..PopupMenu1..Speed1..N1001..Hint
+#. Form20..PopupMenu1..Speed1..N1501..Hint
+#. Form20..PopupMenu1..Speed1..N2001..Hint
+#. Form20..PopupMenu1..Speed1..N10001..Hint
+msgid "Change the speed used to play the animation."
+msgstr "تغییر سرعت پخش انیمیشن."
+
+#. Form20..PopupMenu1..Repeat1..Caption
+msgid "Repeat"
+msgstr "تکرار"
+
+#. Form20..PopupMenu1..Repeat1..Hint
+msgid "Repeat playing the animation until manually stopped."
+msgstr "تکرار پخش انیمیشن تا هنگام اعمال توقف."
+
+#. Form20..PopupMenu1..Reverse1..Caption
+msgid "Auto reverse"
+msgstr "پخش اوتوماتیک معکوس"
+
+#. Form20..PopupMenu1..Reverse1....Hint
+msgid "Play backwards when the end of the animation is reached. This is most useful in combination with the \"Repeat\" command."
+msgstr "پخش وارونه هنگام رسیدن به پایان انیمیشن. این کار بیشترین کاربرد را هنگام ترکیب با دستور \"Repeat\" دارد."
+
+#. Form20..PopupMenu1..Save1..Hint
+msgid "Save the animation to a file."
+msgstr "ذخیره انیمیشن در پرونده."
+
+#. Form20..PopupMenu1..Saveimageas1..Caption
+msgid "Save frame..."
+msgstr "ذخیره فریم..."
+
+#. Form20..PopupMenu1..Saveimageas1..Hint
+msgid "Save the shown frame to an image file."
+msgstr "ذخیره فریم نشان داده شده در یک پرونده تصویری."
+
+#. Form20..PopupMenu1..Saveimagesequence1..Caption
+msgid "Save all frames..."
+msgstr "ذخیره همه فریم ها..."
+
+#. Form20..PopupMenu1..Saveimagesequence1....Hint
+msgid "Save all frames in the animation to image files. This will create as many files as there are frames in the animation."
+msgstr "ذخیره همه فریم های انیمیشن در پرونده های تصویری. این دستور به تعداد فریم های موجود در انیمیشن پرونده تولید می کند."
+
+#. Form21..Label1..Caption
+msgid "Corner:"
+msgstr "گوشه:"
+
+#. Form21..ComboBox1..Hint
+msgid "Choose which corner of the label should be locked."
+msgstr "گوشه ای از برچسب را برای قفل شدن انتخاب کنید."
+
+#. Form21..ComboBox1....Items.Strings
+msgid "Upper Left"
+msgstr "بالا چپ"
+
+#. Form21..ComboBox1....Items.Strings
+msgid "Upper Right"
+msgstr "بالا راست"
+
+#. Form21..ComboBox1....Items.Strings
+msgid "Lower Left"
+msgstr "پایین چپ"
+
+#. Form21..ComboBox1....Items.Strings
+msgid "Lower Right"
+msgstr "پایین راست"
+
+#. Form21..Edit1..Hint
+#. Form21..Edit2..Hint
+msgid "Enter a coordinate to lock label at."
+msgstr "مختصات قفل کردن بر چسب را وارد کنید."
+
+#. Form22..Caption
+msgid "Python interpreter"
+msgstr "مترجم Python"
+
+#. Form22..PopupMenu1..Clear1..Caption
+msgid "Clear"
+msgstr "پاک کردن"
+
+#. Form3..Caption
+msgid "Edit axes"
+msgstr "ویرایش محور ها"
+
+#. Form3..PageControl1..TabSheet1..Caption
+#. ParFuncFrame..ComboBox1....Items.Strings
+#. PolFuncFrame..ComboBox1....Items.Strings
+#. StdFuncFrame..ComboBox1....Items.Strings
+msgid "x-axis"
+msgstr "محور x"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Label1..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..Label5..Caption
+msgid "Minimum:"
+msgstr "کمینه:"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Edit1..Hint
+msgid "Minimum x-value."
+msgstr "مقدار کمینه x."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Label2..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..Label6..Caption
+msgid "Maximum:"
+msgstr "بیشنه:"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Edit2..Hint
+msgid "Maximum x-value."
+msgstr "مقدار بیشینه x"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Label3..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..Label7..Caption
+msgid "Tick unit:"
+msgstr "واحد تیک:"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Edit3..Hint
+msgid "Units between ticks on the x-axis."
+msgstr "واحد های بین تیک ها روی محور x"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Label14..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..Label9..Caption
+msgid "Grid unit:"
+msgstr "واحد شبکه:"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Edit4..Hint
+msgid "Units between the grid lines perpendicular to the x-axis."
+msgstr "واحد های بین خطوط عمودی شبکه روی محور x."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox4..Hint
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox11..Hint
+msgid "Determine the tick unit automatically."
+msgstr "تخمین واحد تیک به طور خودکار."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox4..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox11..Caption
+msgid "Auto tick"
+msgstr "تیک خودکار"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox6..Hint
+msgid "Show tick marks on the x-axis."
+msgstr "نمایش نشانه های تیک روی محور x."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox6..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox13..Caption
+msgid "Show ticks"
+msgstr "نمایش تیک ها"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox5..Hint
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox12..Hint
+msgid "Set the grid unit to the same as the tick unit."
+msgstr "تنظیم واحد شبکه همانند واحد تیک."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox5..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox12..Caption
+msgid "Auto grid"
+msgstr "شبکه بندی خودکار"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox7..Hint
+msgid "Show vertical grid lines."
+msgstr "نمایش خطوط عمودی شبکه."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox7..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox14..Caption
+msgid "Show grid"
+msgstr "نمایش شبکه"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Panel1..CheckBox3....Hint
+msgid "Show the label at the right side of the graphing area, above the x-axis."
+msgstr "نمایش برچسب در سمت راست ناحیه تصویری بالای محور x."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Panel1..CheckBox3..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..Panel3..CheckBox10..Caption
+msgid "Label:"
+msgstr "برچسب:"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Panel1..Edit5..Hint
+#. Form3..PageControl1..TabSheet2..GridPanel2..Panel3..Edit11..Hint
+msgid "Edit the label for the axis here."
+msgstr "برچسب محور را اینجا ویرایش کنید."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Panel2..Label4..Caption
+msgid "The x-axis cross at y="
+msgstr "محور x عبور می کند از y="
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Panel2..Edit6..Hint
+msgid "The x-axis will intersect with the y-axis at this value."
+msgstr "محور x، محور y را در این مقدار قطع می کند."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox1..Hint
+msgid "Use logarithmic scale on the x-axis."
+msgstr "استفاده از مقیاس لگاریتمی روی محور x."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox1..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox8..Caption
+msgid "Logarithmic scale"
+msgstr "مقیاس لگاریتمی"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox2..Hint
+msgid "Show units on the x-axis."
+msgstr "نمایش واحد ها روی محور x."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox2..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox9..Caption
+msgid "Show numbers"
+msgstr "نمایش اعداد"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox17..Hint
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox18..Hint
+msgid "Show units on the selected axis as a fraction multiplied by pi."
+msgstr "نمایش واحد ها روی محور انتخاب شده بصورت کسر ضرب شده در عدد پی."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox17..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox18..Caption
+msgid "Show as a multiple of π"
+msgstr ""
+
+#. Form3..PageControl1..TabSheet2..Caption
+#. ParFuncFrame..ComboBox1....Items.Strings
+#. PolFuncFrame..ComboBox1....Items.Strings
+msgid "y-axis"
+msgstr "محور y"
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Edit7..Hint
+msgid "Minimum y-value."
+msgstr "مقدار کمینه y."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Edit8..Hint
+msgid "Maximum y-value."
+msgstr "مقدار بیشینه y"
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Edit9..Hint
+#, fuzzy
+msgid "Units between ticks on the y-axis."
+msgstr "واحد های بین تیک ها روی محور x"
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Edit10..Hint
+msgid "Units between the grid lines perpendicular to the y-axis."
+msgstr "واحد های بین تیک ها روی محور y"
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox13..Hint
+msgid "Show tick marks on the y-axis."
+msgstr "نمایش نشانه های تیک روی محور y."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox14..Hint
+msgid "Show horizontal grid lines."
+msgstr "نمایش خطوط افقی شبکه."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Panel3..CheckBox10....Hint
+msgid "Show the label at the top of the graphing area, to the right of the y-axis."
+msgstr "نمایش برچسب در بالای ناحیه تصویری سمت راست محور y."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Panel4..Label8..Caption
+msgid "The y-axis cross at x="
+msgstr "محور x عبور می کند از y="
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Panel4..Edit12..Hint
+msgid "The y-axis will intersect with the x-axis at this value."
+msgstr "محور y، محور x را در این مقدار قطع می کند."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox8..Hint
+msgid "Use logarithmic scale for the y-axis."
+msgstr "استفاده از مقیاس لگاریتمی روی محور y."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox9..Hint
+msgid "Show units on the y-axis."
+msgstr "نمایش واحد ها روی محور y."
+
+#. Form3..PageControl1..TabSheet3..Caption
+msgid "Settings"
+msgstr "تنظیمات"
+
+#. Form3..PageControl1..TabSheet3..Label16..Caption
+msgid "Title:"
+msgstr "عنوان:"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup1....Hint
+msgid "Choose if you want to show the axes, and if you want to show them crossed or at the left and bottom of the image."
+msgstr "انتخاب عدم نمایش محور ها یا نمایش آنها به صورت ضربدری یا در سمت چپ و پایین تصویر در صورت تمایل."
+
+#. Form3..PageControl1..TabSheet3..RadioGroup1..Caption
+msgid "Axes style"
+msgstr "نوع محور ها"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup1....Items.Strings
+msgid "None"
+msgstr "هیچکدام"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup1....Items.Strings
+msgid "Crossed"
+msgstr "ضربدری"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup1....Items.Strings
+msgid "Boxed"
+msgstr "جعبه ای"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup2....Hint
+msgid "Choose if trigonometric functions should calculate in radians or degrees."
+msgstr "انتخاب طرز محاسبه توابع مثلثاتی بر حسب رادیان یا درجه."
+
+#. Form3..PageControl1..TabSheet3..RadioGroup2..Caption
+msgid "Trigonometry"
+msgstr "مثلثاتی"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup2....Items.Strings
+msgid "Radian"
+msgstr "رادیان"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup2....Items.Strings
+msgid "Degree"
+msgstr "درجه"
+
+#. Form3..PageControl1..TabSheet3..Edit13..Hint
+msgid "Enter a title to show above the coordinate system."
+msgstr "وارد کردن عنوان برای نمایش در بالای دستگاه مختصات."
+
+#. Form3..PageControl1..TabSheet3..BitBtn1..Hint
+msgid "Select the font for the title."
+msgstr "انتخاب قلم برای عنوان."
+
+#. Form3..PageControl1..TabSheet3..RadioGroup3..Hint
+msgid "Choose where the legend should be placed."
+msgstr "انتخاب مکان قرار دادن اختصارات."
+
+#. Form3..PageControl1..TabSheet3..RadioGroup3..Caption
+msgid "Legend placement"
+msgstr "جایگاه اختصارات"
+
+#. Form3..PageControl1..TabSheet3..CheckBox19....Hint
+msgid "Check this to use complex numbers for calculations. Notice that this will slow graphing down."
+msgstr "انتخاب اعداد مختلط برای محاسبات. توجه، این کار سرعت نمایش تصویر را کاهش می دهد."
+
+#. Form3..PageControl1..TabSheet3..CheckBox19..Caption
+msgid "Calculate with complex numbers"
+msgstr "محاسبه با اعداد مختلط"
+
+#. Form3..PageControl1..TabSheet4..Caption
+msgid "Font and color"
+msgstr "قلم و رنگ"
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..Caption
+msgid "Colors"
+msgstr "رنگ ها"
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..Label17..Caption
+msgid "Grid color:"
+msgstr "رنگ شبکه:"
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..Label18..Caption
+msgid "Axes color:"
+msgstr "رنگ شبکه:"
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..Label19..Caption
+#. Form6..Label4..Caption
+msgid "Background color:"
+msgstr "رنگ پس زمینه:"
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..ExtColorBox1..Hint
+msgid "Select the color of the image background."
+msgstr "انتخاب رنگ تصویر پس زمینه."
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..ExtColorBox2..Hint
+msgid "Select the color of the axes."
+msgstr "انتخاب رنگ محورها."
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..ExtColorBox3..Hint
+msgid "Select the color of the grid lines."
+msgstr "انتخاب رنگ خطوط شبکه."
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..Caption
+msgid "Fonts"
+msgstr "قلم ها"
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..Label20..Caption
+msgid "Number font:"
+msgstr "قلم عدد:"
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..Label21..Caption
+msgid "Label font:"
+msgstr "برچسب قلم:"
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..Label10..Caption
+msgid "Legend font:"
+msgstr "قلم اختصارات:"
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..BitBtn2..Hint
+msgid "Select the font used to show the labels on the axes."
+msgstr "انتخاب قلم مورد استفاده برای نمایش برچسب روی محور ها."
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..BitBtn3..Hint
+msgid "Select the font used to show the numbers on the axes."
+msgstr "انتخاب قلم مورد استفاده برای نمایش اعداد روی محورها."
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..BitBtn4..Hint
+msgid "Select the font used to show the legend text."
+msgstr "انتخاب قلم مورد استفاده برای نمایش متن علایم."
+
+#. Form4..GridPanelEx1..Label1..Caption
+msgid "Decimals:"
+msgstr "اعشار:"
+
+#. Form4..GridPanelEx1..Panel1..Edit1..Hint
+msgid "Number of decimals used when results are shown."
+msgstr "تعداد ارقام اعشار نشان داده شده در نتیجه."
+
+#. Form4..GridPanelEx1..RadioGroup1..Hint
+msgid "Format used when complex numbers are shown."
+msgstr "فرمت مورد استفاده در نمایش اعداد مختلط نشان داده شده."
+
+#. Form4..GridPanelEx1..RadioGroup1..Caption
+msgid "Complex form"
+msgstr "فرم مختلط"
+
+#. Form4..GridPanelEx1..RadioGroup1....Items.Strings
+msgid "Real"
+msgstr "حقیقی"
+
+#. Form4..GridPanelEx1..RadioGroup1....Items.Strings
+msgid "Rectangular"
+msgstr "قائم"
+
+#. Form4..GridPanelEx1..Label2..Caption
+msgid "Recent files:"
+msgstr "پرونده های اخیر:"
+
+#. Form4..GridPanelEx1..Panel2..Edit2..Hint
+msgid "The number of most recent used files shown in the File menu."
+msgstr "نمایش تعداد پرونده های استفاده شده اخیر در منو پرونده."
+
+#. Form4..GridPanelEx1..Label3..Caption
+msgid "Max undo steps:"
+msgstr "حداکثر گامهای لغو عملیات"
+
+#. Form4..GridPanelEx1..Panel3..Edit3....Hint
+msgid "Maximum number of undo steps saved. Set this to 0 to prevent undo."
+msgstr "بیشینه تعداد گام های لغو عملیات ذخیره شده. برای جلوگیری از لغو عملیات مقدار را 0 قرار دهید."
+
+#. Form4..GridPanelEx1..Label5..Caption
+msgid "Font scale:"
+msgstr "مقیاس قلم:"
+
+#. Form4..GridPanelEx1..ComboBox1....Hint
+msgid "This is used to scale the user interface if you are having problems reading the text."
+msgstr "برای مقیاس کردن واسط کاربر در صورت مشکل برای خواندن متن."
+
+#. Form4..GridPanelEx1..Label4..Caption
+msgid "Language:"
+msgstr "زبان:"
+
+#. Form4..GridPanelEx1..ComboBox2..Hint
+msgid "Select the language to use for the user interface."
+msgstr "انتخاب زبان برای استفاده واسط کاربر."
+
+#. Form4..GridPanelEx1..CheckBox2..Hint
+msgid "Show the tooltip when the cursor is over an item."
+msgstr "نمایش راهنما به هنگام قرار گرفتن ماوس روی یک بخش."
+
+#. Form4..GridPanelEx1..CheckBox2..Caption
+msgid "Show tooltip"
+msgstr "نمایش راهنما"
+
+#. Form4..GridPanelEx1..CheckBox3....Hint
+msgid "Save the size of the main window when the program exits. This is used the next time Graph is run."
+msgstr "ذخیره انداره پنجره اصلی به هنگام خروج از برنامه. به هنگام اجرای مجدد برنامه استفاده می شود."
+
+#. Form4..GridPanelEx1..CheckBox3..Caption
+msgid "Save workspace on exit"
+msgstr "ذخیره کردن محیط کار به هنگام خروج"
+
+#. Form4..GridPanelEx1..CheckBox4....Hint
+msgid "If checked the program will contact a web server when the program is started to see if a newer version is available."
+msgstr "در صورت انتخاب هر بار که برنامه اجرا می شود با وب سرور برای بررسی وجود نسخه جدید تر ارتباط برقرار می کند."
+
+#. Form4..GridPanelEx1..CheckBox4..Caption
+msgid "Check for new version of Graph at startup"
+msgstr "بررسی وجود نسخه جدید به هنگام اجرای اولیه"
+
+#. Form4..GridPanelEx1..CheckBox5....Hint
+msgid "Use a custom decimal separator instead of the default from the Windows Regional settings."
+msgstr ""
+
+#. Form4..GridPanelEx1..CheckBox5..Caption
+msgid "Custom decimal separator:"
+msgstr ""
+
+#. Form4..GridPanelEx1..Edit4..Hint
+msgid "Decimal separator used when exporting to other programs."
+msgstr ""
+
+#. Form5..Caption
+msgid "Insert function"
+msgstr "درج تابع"
+
+#. Form5..Label1..Caption
+msgid "Function type:"
+msgstr "نوع تابع:"
+
+#. Form5..ComboBox1..Hint
+msgid "Select the function type to graph."
+msgstr "انتخاب نوع تابع برای رسم."
+
+#. Form5..ComboBox1....Items.Strings
+msgid "Standard function   y=f(x)"
+msgstr "تابع استاندارد y=f(x)"
+
+#. Form5..ComboBox1....Items.Strings
+msgid "Parametric function x(t), y(t)"
+msgstr "تابع پارامتری x(t)، y(t)"
+
+#. Form5..ComboBox1....Items.Strings
+msgid "Polar function         r=f(t)"
+msgstr "تابع قطبی         r=f(t)"
+
+#. Form5..GroupBox1..Caption
+msgid "Function equation"
+msgstr "تابع تساوی"
+
+#. Form5..GroupBox2..Label6..Caption
+msgid "Steps:"
+msgstr "گام ها:"
+
+#. Form5..GroupBox2..Edit5..Hint
+msgid "Number of calculation steps used to draw the graph."
+msgstr "تعداد گام های محاسبه استفاده شده برای رسم نمودار."
+
+#. Form5..GroupBox4..GridPanelEx1..Label13..Caption
+msgid "Draw type:"
+msgstr "نوع ترسیم:"
+
+#. Form5..GroupBox4..GridPanelEx1..ComboBox4....Hint
+msgid "Choose Lines if you want the calculated points for the graph to be connected. Choose Dots if you only want to show a dot at each point."
+msgstr "انتخاب خطوط اگر می خواهید نقاط نمودار به هم وصل شوند. انتخاب نقاط فقط برای نمایش نقطه ها به صورت منفرد."
+
+#. Form5..GroupBox4..GridPanelEx1..ComboBox4..Text
+#. Form5..GroupBox4..GridPanelEx1..ComboBox4....Items.Strings
+msgid "Automatic"
+msgstr "خودکار"
+
+#. Form5..GroupBox4..GridPanelEx1..ComboBox4....Items.Strings
+msgid "Dots"
+msgstr "نقاط"
+
+#. Form5..GroupBox4..GridPanelEx1..ComboBox4....Items.Strings
+msgid "Lines"
+msgstr "خطوط"
+
+#. Form6..Caption
+msgid "Insert text label"
+msgstr "درج متن برچسب"
+
+#. Form6..Label1..Caption
+msgid "Font name:"
+msgstr "نام قلم:"
+
+#. Form6..Label2..Caption
+msgid "Font size:"
+msgstr "اندازه قلم:"
+
+#. Form6..Label3..Caption
+msgid "Font color:"
+msgstr "رنگ قلم:"
+
+#. Form6..ComboBox1..Hint
+msgid "Text size."
+msgstr "اندازه متن."
+
+#. Form6..GroupBox1..Caption
+msgid "Text string"
+msgstr "رشته متن"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton11..Hint
+msgid "Insert symbol (Ctrl+G)"
+msgstr "درج نماد (Ctrl+G)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton13..Hint
+msgid "Insert object."
+msgstr "درج شی ء"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton1..Hint
+msgid "Bold (Ctrl+B)"
+msgstr "ضخیم (Ctrl+B)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton2..Hint
+msgid "Italic (Ctrl+I)"
+msgstr "خوابیده (Ctrl+I)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton3..Hint
+msgid "Underline (Ctrl+U)"
+msgstr "خط زیرین (Ctrl+U)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton4..Hint
+msgid "Strikethrough (Ctrl+S)"
+msgstr "خط میانی (Ctrl+S)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton9..Hint
+msgid "Superscript (Ctrl++)"
+msgstr "بالا نویس (Ctrl++)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton10..Hint
+msgid "Subscript (Ctrl+=)"
+msgstr "زیر نویس (Ctrl+=)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton5..Hint
+msgid "Align left (Ctrl+L)"
+msgstr "تراز به چپ (Ctrl+L)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton6..Hint
+msgid "Center (Ctrl+E)"
+msgstr "وسط (Ctrl+E)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton7..Hint
+msgid "Align right (Ctrl+R)"
+msgstr "تراز به راست (Ctrl+R)"
+
+#. Form6..IFontBox1..Hint
+msgid "Text font."
+msgstr "قلم متن."
+
+#. Form6..ColorBox1..Hint
+msgid "Text color."
+msgstr "رنگ متن."
+
+#. Form6..ColorBox2..Hint
+msgid "Select background color of the text label."
+msgstr "انتخاب رنگ پس زمینه بر چسب متن."
+
+#. Form6..ColorBox2..DefaultName
+msgid "Transparent"
+msgstr "شفاف"
+
+#. Form6..PopupMenu1..Popup_Undo..Hint
+msgid "Undo last action."
+msgstr "لغو آخرین عملیات."
+
+#. Form6..PopupMenu1..Popup_Redo..Hint
+msgid "Redo last undone action."
+msgstr "تکرار آخرین عملیات لغو شده."
+
+#. Form6..PopupMenu1..Popup_Paste..Hint
+msgid "Paste the contents of the clipboard."
+msgstr "درج محتویات کلیپ بورد."
+
+#. Form6..PopupMenu1..Popup_PasteSpecial..Caption
+msgid "Paste special..."
+msgstr "درج ویژه..."
+
+#. Form6..PopupMenu1..Popup_PasteSpecial..Hint
+msgid "Select which clipboard representation you want to paste."
+msgstr "انتخاب کلیپ بورد برای درج."
+
+#. Form6..PopupMenu1..Popup_InsertObject..Caption
+msgid "Insert object..."
+msgstr "درج شی ء..."
+
+#. Form6..PopupMenu1..Popup_InsertObject..Hint
+msgid "Create a new OLE object."
+msgstr "ایجاد شیء OLE جدید."
+
+#. Form6..PopupMenu1..Popup_EditObject..Caption
+msgid "Edit object"
+msgstr "ویرایش شیء"
+
+#. Form6..PopupMenu1..Popup_EditObject..Hint
+msgid "Edit selected OLE object."
+msgstr "ویرایش شیء OLE انتخاب شده."
+
+#. Form7..Caption
+msgid "Insert f'(x)"
+msgstr "درج f'(x)"
+
+#. Form8..Label1..Caption
+#. PrintFrm..GroupBox1..Label1..Caption
+msgid "Name:"
+msgstr "نام:"
+
+#. Form8..ValueListEditor1....TitleCaptions.Strings
+msgid "Constant"
+msgstr "ثابت"
+
+#. Form8..ValueListEditor1....TitleCaptions.Strings
+msgid "Value"
+msgstr "مقدار"
+
+#. Form9..Label1..Caption
+msgid "Select a function or tangent to evaluate."
+msgstr "انتخاب تابع تابع یا مماس برای ارزیابی."
+
+#. Form9..PolFuncFrame1....Hint
+#. ParFuncFrame..ComboBox1....Hint
+#. StdFuncFrame..ComboBox1....Hint
+msgid "Select where the cursor will be placed when you click on the image."
+msgstr "انتخاب محل مکان نما به هنگام کلیک روی تصویر."
+
+#. AreaFrame..GridPanel1..Panel1..Edit1....Hint
+msgid "Enter the start coordinate or mark the range on the graph itself with the mouse."
+msgstr "وارد کردن مختصات شروع یا نمایش بازه ای روی نمودار با ماوس."
+
+#. AreaFrame..GridPanel1..Panel2..Edit2....Hint
+msgid "Enter the end coordinate or mark the range on the graph itself with the mouse."
+msgstr "وارد کردن مختصات پایان یا نمایش بازه ای روی نمودار با ماوس."
+
+#. ParFuncFrame..Label7..Caption
+#. PolFuncFrame..Label7..Caption
+#. StdFuncFrame..Label5..Caption
+msgid "Snap to:"
+msgstr "چسباندن به:"
+
+#. ParFuncFrame..Edit2..Hint
+msgid "The x-coordinate evaluated for the t-parameter."
+msgstr "مقدار مختصات x ارزیابی شده برای پارامتر t."
+
+#. ParFuncFrame..Edit3..Hint
+msgid "The y-coordinate evaluated for the t-parameter."
+msgstr "مقدار مختصات y ارزیابی شده برای پارامتر t."
+
+#. ParFuncFrame..Edit4..Hint
+msgid "The derivative of x(t) evaluated for the entered t-parameter."
+msgstr "مقدار مشتق x(t) ارزیابی شده برای پارامتر ورودی t."
+
+#. ParFuncFrame..Edit5..Hint
+msgid "The derivative of y(t) evaluated for the entered t-parameter."
+msgstr "مقدار مشتق y(t) ارزیابی شده برای پارامتر ورودی t."
+
+#. ParFuncFrame..Edit6..Hint
+msgid "The slope of the function evaluated for the entered t-parameter."
+msgstr "مقدار شیب ارزیابی شده تابع برای پارامتر ورودی t."
+
+#. ParFuncFrame..Edit1....Hint
+msgid "Enter the value for the parameter t for which you want to evaluate the function, or click on the graph in the graphing area."
+msgstr "مقدار پارامتر t را برای تابعی که می خواهید ارزیابی شود وارد کنید، یا روی نمودار در ناحیه تصویری کلیک کنید."
+
+#. ParFuncFrame..ComboBox1....Items.Strings
+#. PolFuncFrame..ComboBox1....Items.Strings
+#. StdFuncFrame..ComboBox1....Items.Strings
+msgid "Intersection"
+msgstr "تقاطع"
+
+#. ParFuncFrame..ComboBox1....Items.Strings
+#. PolFuncFrame..ComboBox1....Items.Strings
+msgid "Extreme x-value"
+msgstr "حداکثر مقدار x"
+
+#. ParFuncFrame..ComboBox1....Items.Strings
+#. PolFuncFrame..ComboBox1....Items.Strings
+#. StdFuncFrame..ComboBox1....Items.Strings
+msgid "Extreme y-value"
+msgstr "حداکثر مقدار y"
+
+#. PolFuncFrame..Edit2..Hint
+msgid "The distance to the function evaluated for the given angle."
+msgstr "محاسبه فاصله از تابع با زاویه داده شده."
+
+#. PolFuncFrame..Edit3..Hint
+msgid "The x-coordinate evaluated for the given angle."
+msgstr "مختصات x ارزیابی شده برای زاویه داده شده."
+
+#. PolFuncFrame..Edit4..Hint
+msgid "The y-coordinate evaluated for the given angle."
+msgstr "مختصات y ارزیابی شده برای زاویه داده شده."
+
+#. PolFuncFrame..Edit5..Hint
+msgid "The derivative of the function evaluated for the given angle."
+msgstr "محاسبه مشتق تابع با زاویه داده شده."
+
+#. PolFuncFrame..Edit6..Hint
+msgid "The slope of the function evaluated for the given angle."
+msgstr "محاسبه شیب تابع با زاویه داده شده."
+
+#. PolFuncFrame..Edit1....Hint
+msgid "Enter the value of the polar angle for which you want to evaluate the function, or click on the graph in the graphing area."
+msgstr "مقدار زاویه قطبی را برای هر تابع ارزیابی شده وارد کنید یا بر روی نمودار در ناحیه تصویری کلیک کنید."
+
+#. StdFuncFrame..Edit1....Hint
+msgid "Enter a value for which you want to evaluate the function, or click on the graph in the graphing area."
+msgstr "مقدار را برای هر تابع ارزیابی شده وارد کنید یا بر روی نمودار در ناحیه تصویری کلیک کنید."
+
+#. StdFuncFrame..Edit2..Hint
+msgid "This is the function evaluated for the entered x-value."
+msgstr "این تابع ارزیابی شده برای مقدار ورودی x است."
+
+#. StdFuncFrame..Edit3....Hint
+msgid "This is the first derivative of the function evaluated for the entered value."
+msgstr "این مشتق تابع ارزیابی شده برای مقدار ورودی است."
+
+#. StdFuncFrame..Edit4....Hint
+msgid "This is the second derivative of the function evaluated for the entered value."
+msgstr "این مشتق دوم تابع ارزیابی شده برای مقدار ورودی است."
+
+#. TanFrame..Edit2....Hint
+msgid "This is the y-coordinate corresponding to the entered x-coordinate."
+msgstr "این مختصات y مطابق با مختصات ورودی x است."
+
+#. TanFrame..Edit1..Hint
+msgid "Enter an x-coordinate or click in the graphing area."
+msgstr "یک مختصات x یا کلیک کردن در ناحیه تصویری."
+
+msgid "Error"
+msgstr "خطا"
+
+#, fuzzy
+msgid "Error %s"
+msgstr "نوارهای خطا"
+
+msgid "Length"
+msgstr "طول"
+
+#, fuzzy
+msgid "Degrees"
+msgstr "درجه"
+
+msgid "Label"
+msgstr "برچسب"
+
+msgid "%s-error"
+msgstr "%s-خطا"
+
+msgid "Axes"
+msgstr "محورها"
+
+msgid "Ctrl"
+msgstr "Ctrl"
+
+msgid "Alt"
+msgstr "Alt"
+
+msgid "Shift"
+msgstr "Shift"
+
+msgid "Del"
+msgstr "Del"
+
+msgid "Ins"
+msgstr "Ins"
+
+msgid "Home"
+msgstr "Home"
+
+msgid "End"
+msgstr "End"
+
+msgid "PgUp"
+msgstr "PgUp"
+
+msgid "PgDn"
+msgstr "PgDn"
+
+msgid "Up"
+msgstr "Up"
+
+msgid "Down"
+msgstr "Down"
+
+msgid "Esc"
+msgstr "Esc"
+
+msgid "Enter"
+msgstr "Enter"
+
+msgid "Tab"
+msgstr "Tab"
+
+msgid "BkSp"
+msgstr "BkSp"
+
+msgid "Space"
+msgstr "Space"
+
+msgid "An error occurred while evaluating power function."
+msgstr "یک خطا به هنگام محاسبه تابع توان اتفاق افتاد."
+
+msgid "Tangent to pi/2+n*pi (90+n180 in degrees) is undefined."
+msgstr "مماس به pi/2+n*pi (90+n180 به درجه) تعریف نشده است."
+
+msgid "Fact can only be calculated for positive integers."
+msgstr "فاکتوریل تنها برای اعداد مثبت قابل محاسبه است."
+
+msgid "Cannot take logarithm to number equal or less than zero."
+msgstr "محاسبه لگاریتم اعداد کوچکتر یا مساوی صفر ممکن نیست."
+
+msgid "sqrt is undefined for negative numbers."
+msgstr "جذر اعداد منفی تعریف نشده است."
+
+msgid "A part of the evaluation gave a number with an imaginary part."
+msgstr "قسمتی از محاسبه عددی با بخش موهومی داده است."
+
+msgid "Division by zero."
+msgstr "تقسیم بر صفر."
+
+msgid "Inverse trigonometric function out of range [-1;1]"
+msgstr "معکوس تابع مثلثاتی خارج از بازه [-1;1] است"
+
+msgid "The function is not defined for this value."
+msgstr "تابع برای این مقدار تعریف نشده است."
+
+msgid "atanh evaluated at undefined value."
+msgstr "atanh در مقدار تعریف نشده محاسبه شده است."
+
+msgid "acosh evaluated at undefined value."
+msgstr "acosh در مقدار تعریف نشده محاسبه شده است."
+
+msgid "arg(0) is undefined."
+msgstr "arg(0) تعریف نشده است."
+
+msgid "Evaluation failed."
+msgstr "محاسبه با شکست مواجه شد."
+
+msgid "Argument produced a function result with total loss of precision."
+msgstr "آرگومان یک تابع نتیجه با دقت بسیار پایین تولید می کند."
+
+msgid "The custom function/constant '%s' was not found or has the wrong number of arguments."
+msgstr "تابع یا ثابت اختیاری '%s' یافت نشد یا تعداد آرگومان نا درستی دارد."
+
+msgid "Too many recursive calls."
+msgstr "فراخوانی های بازگشتی بیش از حد می باشند."
+
+msgid "Overflow: A function returned a value too large to handle."
+msgstr "Overflow: محاسبه مقدار برگشتی تابع به علت بزرگی از عهده برنامه خارج است."
+
+msgid "A plugin function failed: %s"
+msgstr ""
+
+msgid "Unexpected operator. Operator '%s' cannot be placed here."
+msgstr "عملگر غیر منتظره. عملگر '%s' در اینجا قابل استفاده نیست."
+
+msgid "The right bracket is missing."
+msgstr "کروشه سمت راست وجود ندارد."
+
+msgid "Invalid number of arguments supplied for the function '%s'"
+msgstr "تعداد آرگومان های داده شده به تابع '%s' نادرست است"
+
+msgid "Comparison operator misplaced."
+msgstr "جایگذاری اشتباه عملگر مقایسه ای."
+
+msgid "Invalid number found. Use the format: -5.475E-8"
+msgstr "عدد اشتباه پیدا شد. از قالب: -5.475E-8 استفاده کنید"
+
+msgid "String is empty. You need to enter a formula."
+msgstr "رشته خالی است. شما باید فرمولی را وارد کنید."
+
+msgid "Comma is not allowed here. Use dot as decimal separator."
+msgstr "استفاده از ویرگول در اینجا مجاز نمی باشد. از نقطه برای جدا کردن اعشار استفاده کنید."
+
+msgid "Unexpected end of brackets."
+msgstr "پایان غیر منتظره کروشه ها."
+
+msgid "Number, constant or function expected."
+msgstr "عدد، ثابت یا تابع مورد انتظار است."
+
+msgid "Parameter after constant or variable not allowed."
+msgstr "استفاده از ثابت یا متغیر بعد از پارامتر مجاز نمی باشد."
+
+msgid "Expression expected."
+msgstr "عبارت مورد انتظار است."
+
+msgid "Unknown variable, function or constant: \"%s\""
+msgstr "متغیر، تابع یا ثابت نا شناخته: \"%s\""
+
+msgid "Unknown character: \"%s\""
+msgstr "کاراکتر ناشناخته: \"%s\""
+
+msgid "The end of the expression was unexpected."
+msgstr "پایان دور از انتظار عبارت."
+
+msgid "Error parsing expression."
+msgstr "خطا در پردازش عبارت."
+
+msgid "A calculation resulted in an overflow."
+msgstr "نتیجه یک محاسبه سر ریز شده است."
+
+msgid "An invalid value was used in the calculation."
+msgstr "یک مقدار نادرست در محاسبه استفاده شده بود."
+
+msgid "Not enough points for calculation."
+msgstr "تعداد نقاط برای محاسبه کافی نیست."
+
+msgid "Illegal name \"%s\" for user defined function or constant."
+msgstr "نام غیر قانونی \"%s\" برای تابع یا ثابت تعریف شده توسط کاربر."
+
+msgid "Cannot differentiate recursive function."
+msgstr "مشتق گیری از تابع بازگشتی امکان پذیر نمی باشد."
+
+msgid "Internal error."
+msgstr "خطای داخلی."
+
+msgid "Function \"%s\" cannot be differentiated."
+msgstr ""
+
+msgid "Not further specified error occurred under calculation."
+msgstr "هیچ خطای از پیش تعریف شده ای در محاسبات اتفاق نیفتاده است."
+
+msgid "No solution found. Try another guess or another model."
+msgstr "هیچ راه حلی پیدا نشد. حدس یا مدل دیگری را انتخاب کنید"
+
+msgid "No result found."
+msgstr ""
+
+#, fuzzy
+msgid "An accurate result cannot be found."
+msgstr "نتیجه یک محاسبه سر ریز شده است."
+
+msgid "Internal error. Please notify the programmer with as much information as possible."
+msgstr "خطای داخلی. لطفا برنامه نویس را با حداکثر اطلاعات ممکن آگاه کنید."
+
+msgid "You need to enter a name for the function/constant."
+msgstr "شما باید نامی را برای تابع یا ثابت وارد کنید."
+
+msgid ""
+"Invalid function/constant name '%s'.\n"
+"The name may only contain letters and decimal digits, and it must always start with a letter.\n"
+"In addition you are not allowed to redefine built-in names."
+msgstr ""
+"نام تابع یا ثابت نادرست است '%s'.\n"
+"نام تنها می تواند شامل حروف یا اعداد ده دهی باشد و همیشه باید با حرف شروع شود.\n"
+" علاوه بر آن شما مجاز به تعریف نام های از پیش تعریف شده نیستید."
+
+msgid "You need to enter a name for the argument."
+msgstr "شما باید نامی را برای آرگومان وارد کنید."
+
+msgid ""
+"Invalid argument name '%s'.\n"
+"The name may only contain letters and decimal digits, and it must always start with a letter.\n"
+" In addition you are not allowed to use built-in names as argument names."
+msgstr ""
+"نام آرگومان نادرست است '%s'.\n"
+"نام تنها می تواند شامل حروف یا اعداد ده دهی باشد و همیشه باید با حرف شروع شود.\n"
+" علاوه بر آن شما مجاز به تعریف نام های از پیش تعریف شده برای نام آرگومان نیستید."
+
+msgid "Character found after brackets."
+msgstr "بعد از کروشه کاراکتری یافت شد."
+
+msgid "Symbol \"%s\" defined more than once."
+msgstr "نماد \"%s\" بیشتر از یک بار تعریف شده است."
+
+msgid "Invalid equation or inequality."
+msgstr "تساوی یا نا مساوی اشتباه است."
+
+msgid "Updating..."
+msgstr "به روز رسانی..."
+
+msgid "Save changes?"
+msgstr "ذخیره تغییرات؟"
+
+msgid "Save changes in %s?"
+msgstr "ذخیره تغییرات در %s؟"
+
+msgid "You have reached the maximum range of zoom."
+msgstr "شما به حداکثر بازه بزرگنمایی دست یافته اید."
+
+msgid "You have reached the minimum range of zoom."
+msgstr "شما به حداقل بازه بزرگنمایی دست یافته اید."
+
+msgid "'%s' must not be zero."
+msgstr "'%s' نباید صفر باشد."
+
+msgid "Error in value"
+msgstr "خطا در مقدار"
+
+msgid "'%s' has to be an integer value greater or equal to 0."
+msgstr "'%s' باید عددی بزرگتر یا مساوی با صفر باشد."
+
+msgid "'%s' must be greater than zero."
+msgstr "'%s' باید عددی بزرگتر از صفر باشد."
+
+msgid "'%s' must be an integer greater than zero."
+msgstr "'%s' باید عددی صحیح بزرگتر از صفر باشد."
+
+msgid "Trying to break zoom limit."
+msgstr "تلاش برای شکستن حد بزرگنمایی."
+
+msgid "'%s' must be greater than '%s'"
+msgstr "'%s' باید بزرگتر از '%s' باشد"
+
+msgid "The maximum value must be greater than the minimum value."
+msgstr "بیشترین مقدار باید بزرگتر از کمترین مقدار باشد."
+
+msgid "You need to enter a value."
+msgstr "شما باید مقداری را وارد کنید."
+
+msgid ""
+"This file was created with Graph %s.\n"
+"Only files from version %s and higher can be opened."
+msgstr ""
+"این رونده توسط برنامه گراف ایجاد شده است %s.\n"
+" تنها پرونده های از نسخه %s و نسخه های بالاتر می توانند باز شوند."
+
+msgid "'%s' is not a valid number."
+msgstr "'%s' عدد معتبری نمی باشد."
+
+msgid "'%s' must be a positive number."
+msgstr "'%s' باید عددی مثبت باشد."
+
+msgid "File not found: %s"
+msgstr "پرونده یافت نشد: %s"
+
+msgid ""
+"Error reading file: %s\n"
+"The file is not a correct Graph file."
+msgstr ""
+"خطا در خواندن پرونده: %s\n"
+"پرونده، پرونده مناسب برنامه گراف نمی باشد."
+
+msgid "Unknown error while reading file: %s"
+msgstr "خطای ناشناخته به هنگام خواندن پرونده: %s"
+
+msgid "Graph files [*.grf]|*.grf"
+msgstr "فایل های گراف [*.grf]|*.grf"
+
+msgid ""
+"Cannot write to file: %s\n"
+"Access denied. Check that the file is not in use or write protected."
+msgstr ""
+"پرونده قابل نوشتن نیست: %s\n"
+" دسترسی غیر مجاز. در حال استفاده بودن یا غیر قابل تحریف بودن پرونده را بررسی کنید."
+
+msgid "The font \"%s\" doesn't exist. Standard font is used instead."
+msgstr "قلم \"%s\" موجود نمی باشد. به جای آن از قلم استاندارد استفاده شد."
+
+msgid "Graph system"
+msgstr "سامانه گراف"
+
+msgid "Open"
+msgstr "باز کردن"
+
+msgid "Selection error"
+msgstr "خطای انتخاب"
+
+msgid "File error"
+msgstr "خطای پرونده"
+
+msgid "Write access failed"
+msgstr "عدم موفقیت در دسترسی نگارش"
+
+msgid "OLE error"
+msgstr "خطای OLE"
+
+msgid "Error reading object"
+msgstr "خطا در خواندن شیء"
+
+msgid "Not a valid Graph object."
+msgstr "شیء غیر مجاز برای گراف."
+
+msgid "Object error"
+msgstr "خطای شیء"
+
+msgid "Windows does not have enough resources to save an image that large."
+msgstr "ویندوز امکانات کافی برای ذخیره تصویر به این بزرگی را ندارد."
+
+msgid "'%1%' must be between %2% and %3%."
+msgstr "'%1%' باید بین %2% و %3% باشد."
+
+msgid "File not found"
+msgstr "پرونده یافت نشد"
+
+msgid "Error reading file"
+msgstr "خطا در خواندن پرونده"
+
+msgid "Printer error"
+msgstr "خطای چاپگر"
+
+msgid "Invalid use of infinity. Infinity cannot be used here."
+msgstr ""
+
+msgid "Not enough memory to complete the operation."
+msgstr ""
+
+msgid "Confirm delete"
+msgstr "تایید حذف"
+
+msgid "Are you sure you want to delete %s?"
+msgstr "آیا از حذف %s مطمئن هستید؟"
+
+msgid "Graph files [*.grf]|*.grf|All files [*.*]|*.*"
+msgstr "پرونده های گراف [*.grf]|*.grf|همه پرونده ها [*.*]|*.*"
+
+msgid "CSV (semicolon delimited) [*.csv]|*.csv|CSV (comma delimited) [*.csv]|*.csv|Text (tab delimited) [*.txt]|*.txt|Text (space delimited) [*.txt]|*.txt|All files [*.*]|*.*"
+msgstr ""
+
+msgid "Are you sure you want to delete the model: %s?"
+msgstr "آیا از حذف مدل %s مطمئن هستید؟"
+
+msgid "Maximum number on x-axis must be greater than the minimum value."
+msgstr "بیشترین عدد روی محور x باید بزرگتر از کمترین مقدار باشد."
+
+msgid "Maximum number on y-axis must be greater than the minimum value."
+msgstr "بیشترین عدد روی محور y باید بزرگتر از کمترین مقدار باشد."
+
+msgid "Server application not found."
+msgstr "برنامه سرور یافت نشد."
+
+msgid "Maximum number for t must be greater than the minimum value."
+msgstr "بیشترین عدد برای t باید بزرگتر از کمترین مقدار باشد."
+
+msgid "The step value for t must be a number greater than 0."
+msgstr "مقدار گام برای t باید بزرگتر از 0 باشد."
+
+msgid "The minimum value for the x-axis must be greater than 0, when the x-axis is logarithmic scaled."
+msgstr "کمترین مقدار برای محور x باید بزرگتر از 0 باشد، وقتی که مقیاس محور x لگاریتمی باشد."
+
+msgid "The cross point of the y-axis must be greater than 0, when the x-axis is logarithmic scaled."
+msgstr "نقطه تلاقی محور y در مقیاس لگاریتمی محور x باید بزرگتر از صفر باشد."
+
+msgid "The minimum value for the y-axis must be greater than 0, when the y-axis is logarithmic scaled."
+msgstr "کمترین مقدار برای محور y باید بزرگتر از 0 باشد، وقتی که مقیاس محور y لگاریتمی باشد."
+
+msgid "The cross point of the x-axis must be greater than 0, when the y-axis is logarithmic scaled."
+msgstr "نقطه تلاقی محور x در مقیاس لگاریتمی محور y باید بزرگتر از صفر باشد."
+
+msgid "'Recent files' must be between 0 and 9."
+msgstr "'Recent files' باید بین 0 و 9 باشند."
+
+msgid "The end of interval must be greater than the start of interval."
+msgstr "پایان بازه باید بزرگتر از شروع بازه باشد."
+
+msgid "Error in interval."
+msgstr "خطا در بازه."
+
+msgid "The width must be an integer greater than 0."
+msgstr "پهنا باید عدد صحیح بزرگتر از 0 باشد."
+
+msgid "Error in width"
+msgstr "خطا در پهنا"
+
+msgid "The end of interval must be greater than the start of interval and %s must be greater than 0."
+msgstr "پایان بازه باید بزرگتر از شروع بازه باشد و %s باید بزرگتر از 0 باشد."
+
+msgid "Invalid model name."
+msgstr "نام مدل نادرست است."
+
+msgid "A model of that name already exist."
+msgstr "مدلی با این نام موجود است."
+
+msgid "The derivative of the function is not defined at %s=%s"
+msgstr "مشتق تابع در %s=%s تعریف نشده است"
+
+msgid "Coordinate not defined"
+msgstr "مختصات تعریف نشده است"
+
+msgid "Checking for newer version..."
+msgstr "بررسی برای نسخه جدید تر..."
+
+msgid "Abort printing?"
+msgstr "لغو چاپ؟"
+
+#, fuzzy
+msgid "Calculate area"
+msgstr "محاسبه جدول"
+
+msgid "Calculate length of path"
+msgstr "محاسبه طول مسیر"
+
+msgid "Edit function"
+msgstr "ویرایش تابع"
+
+msgid "Edit tangent/normal"
+msgstr "ویرایش خط مماس یا میانه"
+
+msgid "Error processing file '%s' at line %s."
+msgstr "خطا دز پردازش پرونده '%s' در خط %s."
+
+msgid "Edit text label"
+msgstr "ویرایش برچسب متن"
+
+msgid "The model needs some constants (starting with a $) for Graph to find."
+msgstr "مدل نیاز به ثابت هایی (شروع با یک $) برای باز شدن در گراف دارد."
+
+msgid "'%s' has to be an integer value between 0 and 1000."
+msgstr "'%s' باید مقدار صحیحی بین 0 و 1000 باشد."
+
+msgid "Printing error"
+msgstr "خطای چاپ"
+
+msgid "An unknown error occurred while printing."
+msgstr "خطای ناشناخته ای در حین عملیات چاپ اتفاق افتاد."
+
+msgid "Error while adding points"
+msgstr "خطا در حین اضافه کردن نقاط"
+
+msgid "Each point needs both an x- and a y-coordinate."
+msgstr "هر نقطه باید مختصات x و y داشته باشد."
+
+msgid "\"%s\" is not a valid number."
+msgstr "\"%s\" عدد نادرستی است."
+
+msgid "You didn't add any points. You need to specify some x- and y-coordinates in the grid."
+msgstr "شما هیچ نقطه ای اضافه نکردید. شما باید تعدادی مختصات x و y در شبکه وارد کنید."
+
+msgid "Edit point series"
+msgstr "ویرایش دنباله نقاط"
+
+msgid "Edit shading"
+msgstr "ویرایش هاشور زنی"
+
+msgid "You need to select a function."
+msgstr "شما باید تابعی را انتخاب کنید."
+
+msgid "New version of Graph available"
+msgstr "نسخه جدیدی از گراف موجود است"
+
+msgid ""
+"Graph %s is now available for download from www.padowan.dk\n"
+"\n"
+"Would you like to visit the download page?"
+msgstr ""
+
+msgid "No new version"
+msgstr "نسخه جدیدی موجود نیست"
+
+msgid "You are already using the most recent version of Graph."
+msgstr ""
+
+msgid ""
+"Cannot connect to server www.padowan.dk.\n"
+"Either the server is down or you do not have a connection to the Internet."
+msgstr ""
+"عدم امکان اتصال به سرور www.padowan.dk.\n"
+"یا سرور از کار افتاده است یا شما به اینترنت اتصال ندارید."
+
+msgid "Socket error %s"
+msgstr "خطا در socket %s"
+
+msgid "Definite integral, or signed area between function and x-axis, for the given domain range."
+msgstr ""
+
+#, fuzzy
+msgid "Length of path along the curve calculated for the given range."
+msgstr "محاسبه شیب تابع با زاویه داده شده."
+
+msgid ""
+"The file cannot be opened by this version of the program.\n"
+"You need at least Graph %s to open this file."
+msgstr ""
+"امکان باز شدن پرونده در این نسخه از برنامه وجود ندارد.\n"
+"شما حداقل به گراف %s برای باز کردن این پرونده نیاز دارید."
+
+msgid ""
+"This file was saved by an outdated version of Graph,\n"
+"and it cannot be opened by the current version."
+msgstr ""
+"این پرونده توسط نسخه قدیمی گراف ذخیره شده است،\n"
+"و با نسخه کنونی نمی توان آن را باز کرد."
+
+msgid ""
+"\n"
+"\n"
+"If you don't want to be asked again, this feature may be disabled from the Edit|Options dialog."
+msgstr ""
+"\n"
+"\n"
+"برای عدم پرسش دوباره، این ویژگی امکان غیر فعال شدن را در پنچره ویرایش|گزینه ها دارد."
+
+msgid "Edit relation"
+msgstr "ویرایش رابطه"
+
+msgid "Commands"
+msgstr "دستورات"
+
+msgid "(All Commands)"
+msgstr "(همه دستورات)"
+
+msgid "To add a command to the toolbar simply select a category and drag the command out of this dialog box to the toolbar."
+msgstr "برای اضافه کردن ساده دستورات به نوار ابزار یک دسته را انتخاب کرده و آن را در خارج از پنجره نوار ابزار رها کنید."
+
+msgid "Edit f'(x)"
+msgstr "ویرایش f'(x)"
+
+msgid "Edit trendline"
+msgstr "ویرایش خط تقریب"
+
+msgid "Categories:"
+msgstr "دسته ها:"
+
+msgid ""
+"The program seems to be stuck in an infinite loop.\n"
+"If you cancel the operation the program will become unstable.\n"
+"You should therefore save your data under a new name and restart the application."
+msgstr "به نظر می رسد برنامه در یک حلقه بی پایان افتاده است./nدر صورت لغو عملیات برنامه ناپایدار می شود./nشما باید داده های خود را با نام جدید ذخیره کرده و برنامه را دوباره راه اندازی کنید."
+
+msgid "Thread is not responding"
+msgstr "زیر برنامه جواب نمی دهد"
+
+msgid "This Tip of the day can give you a lot of information about the program that most users don't know."
+msgstr "نکته روز می تواند اطلاعات زیادی را در مورد برنامه به شما بدهد که اکثر کاربران از آن اطلاع ندارند."
+
+msgid "You can get help using Graph, report bugs and suggest future improvements at the web forum: <a href=\"http://forum.padowan.dk\">http://forum.padowan.dk</a>"
+msgstr ""
+
+msgid "You can customize the toolbar by right clicking on it and select 'Customize toolbar'."
+msgstr "شما می توانید نوار ابزار را با کلیک راست کردن بر روی آن و انتخاب \"سفارشی کردن نوار ابزار\" سفارشی کنید."
+
+msgid "Instead of deleting a function, you can make it invisible by removing the check mark for the item in the function list."
+msgstr "به جای حذف یک تابع می توانید آن را با انتخاب گزینه آن در لیست تابع نامرئی کنید."
+
+msgid "You can paste images into a text label."
+msgstr "شما می توانید تصاویر را در متن برچسب تابع درج کنید."
+
+msgid "Text labels can contain any kind of OLE objects, for example Microsoft Equation. When editing a label right click in the editing area and select 'Insert object'."
+msgstr "متن برچسب می تواند شامل هر نوع شیء OLE باشد. برای مثال \"Microsoft Equation\" برای ویرایش یک برچسب در ناحیه ویرایش کلیک راست کرده و گزینه درج شیء را انتخاب کنید."
+
+msgid "You can export points from a point series to a file that can be read by other programs, for example Microsoft Excel. When editing the point series select the points, right click and choose 'Export to file'."
+msgstr "شما می توانید نقاط را از یک دنباله نقاط به یک پرونده که خوانا توسط سایر برنامه ها، برای مثال \"Microsoft Excel\" خوانا باشد صادر کنید. برای ویرایش دنباله نقاط، نقاط را انتخاب کنید، بر روس آن کلیک راست کرده و گزینه\"صدور به\" را انتخاب کنید."
+
+msgid "A vertical line at x=5 can be drawn as the parametric function x(t)=5, y(t)=t or as the relation x=5."
+msgstr "یک خط عمودی در x=5 می تواند به عنوان تابع پارامتری x(t)=5، y(t)=t یا به عنوان رابطه ای از x=5  می تواند رسم شود."
+
+msgid "You can use Zoom|Square to make the axes look equally scaled. This is especially useful when drawing circles and similar functions."
+msgstr "شما می توانید از گزینه بزرگنمایی|مربع برای یکسان نمایش دادن مقیاس محور ها استفاده کنید. این گزینه به خصوص برای رسم دایره  توابع مشابه مفید است."
+
+msgid "You can find a list of all available functions in the help."
+msgstr "شما می توانید لیست تمامی توابع موجود را در پنجره کمکی بیابید."
+
+msgid "You can combine two functions to one using 'if'. For example the function f(x)=x for x<1 and f(x)=x^2 for x>=1 can be written as f(x)=if(x<1, x, x^2)."
+msgstr "شما می توانید دو تابع را با استفاده از if، به یک تابع تبدیل کنید. برای مثال تابع f(x)=x برای x<1 و تابع f(x)=x^2 برای x>=1 می توانند به صورت تابع f(x)=if(x<1,x,x^2) نوشته شوند."
+
+msgid "You can import the contents of another Graph file into the current coordinate system using 'File|Import|Graph file'."
+msgstr "شما می توانید محتویات پرونده دیگری از گراف را در دستگاه مختصات فعلی مورد استفاده وارد کنید. برای این کار از دستور پرونده|وارد کردن|پرونده گراف استفاده کنید."
+
+msgid "If you check 'Save as default' in the Axes dialog the current settings will be used as default when creating new coordinate systems."
+msgstr "در صورت انتخاب گزینه ذخیره به عنوان پیش فرض در پنجره محوذ ها تنظیمات فعلی به عنوان پیش فرض به هنگام ایجاد دستگاه های جدید استفاده می شوند."
+
+msgid "While you hold down the Ctrl key, you can use the arrow keys to move the system."
+msgstr "در صورت پایین نگه داشتن کلید Ctrl شما میتوانید با کلید های جهتی دستگاه را به حرکت در آورید."
+
+msgid "While you hold down the Ctrl key, you can use the + and - keys to zoom in and out."
+msgstr "در صورت پایین نگه داشتم کلید Ctrl شما می توانید از کلید های + و - برای بزرگنمایی و کوچکنمایی استفاده کنید."
+
+msgid "You can use the scroll button on your mouse to zoom in and out at the position of the mouse cursor."
+msgstr "شما می توانید از دکمه چرخشی ماوس برای بزرگنمایی و یا کوچکنمایی در مکان، مکان نمای ماوس استفاده کنید."
+
+msgid "If you don't want an item shown in the legend, you can right click on the item in the function list and deselect 'Show in legend'."
+msgstr "اگر می خواهید بخشی در اختصارات نمایش داده نشود، می توانید روی بخش، از لیست تابع کلیک راست کرده و گزینه نمایش در صفحه را از انتخاب خارج کنید."
+
+msgid "If you want the axes shown to the left and bottom of the image, you can choose Axes style as Boxed in the Settings tab of the Axes dialog."
+msgstr "در صورت تمایل برای نشان دادن محور ها در سمت چپ و پایین تصویر شما می توانید نوع محور ها را به صورت جعبه ای در برگه تنظیمات در پنجره محور ها انتخاب کنید."
+
+msgid "Graph can save the shown coordinate system in five different image formats: bmp, emf, png, jpg and pdf."
+msgstr "گراف می تواند دستگاه مختصات نمایش داده شده را با پنج قالب متفاوت ذخیره کند: bmp,emf,png,jpg, و pdf"
+
+msgid "You can use 'Edit|Copy image' to copy the coordinate system and paste it into another program, for example, Microsoft Word. Later you can usually edit the image in Graph by double clicking on it in the other program."
+msgstr "شما می توانید گزینه ویرایش|کپی تصویر را برای کپی کردن دستگاه مختصات و درج آن در برنامه دیگر استفاده کنید. برای مثال Microsoft Word. بعدا شما می توانید برای ویرایش تصویر در گراف روی تصویر در برنامه دیگر دوبار کلیک کنید."
+
+msgid "You can open a saved grf-file in a new instance of the program by double clicking on it in Explorer."
+msgstr "شما می توانید پرونده grf ذخیره شده را به عنوان یک نمونه جدید برای برنامه با دوبار کلیک روی آن در Explorer باز کنید."
+
+msgid "You can drag a grf-file from explorer into an open instance of Graph to open the file."
+msgstr "شما می توانید برای باز کردن  پرونده grf را از explorer گرفته و در نمونه باز برنامه گراف رها کنید."
+
+msgid "Graph will remember the size of the main window between executions. This can be disabled from the Options dialog."
+msgstr "گراف اندازه پنجره اصلی خود را بین اجرا ها نگه می دارد. این ویژگی را می توان در گزینه ها غیر فعال کرد."
+
+msgid "Calc|Table can be used to create a table with evaluation values for a function."
+msgstr "محاسبه|جدول برای ایجاد یک جدول با مقادیر محاسبه برای یک تابع به کار می رود."
+
+msgid "A part or the whole evaluation table can be exported to a file by right clicking and selecting 'Export to file'. It can afterwards be opened in other programs like Microsoft Excel."
+msgstr "بخشی از جدول محاسبه را می توان به یک پرونده صادر کرد با کلیک راست روی آن و انتخاب 'صدور به پرونده'. در دفعات دیگر این پرونده می تواند در برنامه هایی مانند Microsoft Excel باز شود."
+
+msgid "Data from the evaluation table can be copied to another program like Microsoft Excel."
+msgstr "داده های جدول محاسبه را می توان در برنامه دیگری مثل Mirosoft Excel کپی کرد."
+
+msgid "The data points in a point series can be copied to and from other programs like Microsoft Excel."
+msgstr "داده های نقاط در دنباله نقاط را می توان در برنامه های دیگری مثل Microsoft Excel کپی کرد."
+
+msgid "Elements as functions, point series, etc. can be copied from one instance of the program to another using Edit|Copy."
+msgstr "عناصر به عنوان تابع ها، دنباله های نقاط و غیره می توانند از یک پنجره برنامه در دیگری کپی شوند. برای این کار از گزینه ویرایش|کپی استفاده کنید."
+
+msgid "You can always undo the last thing you did using Edit|Undo."
+msgstr "شما همیشه می توانید آخرین کاری که انجام داده اید را لغو کنید. برای این کار از گزینه ویرایش|لغو استفاده کنید."
+
+msgid "If you used Edit|Undo by mistake, you can use Edit|Redo to redo what you have undone."
+msgstr "در صورت استفاده نا درست از گزینه ویرایش|لغو شما می توانید از گزینه ویرایش|تکرار برای تکرار عملیات لغو شده استفاده کنید."
+
+msgid "In the Axes dialog you can add a title to the coordinate system."
+msgstr "در پنجره محور ها شما می توانید عنوانی به دستگاه مختصات اضافه کنید."
+
+msgid "You can import point series from files saved by other programs, like Microsoft Excel."
+msgstr "شما می توانید دنباله نقاطی را از پرونده های ذخیره شده سایر برنامه ها مانند Microsoft Excel وارد کنید."
+
+msgid "When inserting a point series, you can copy data from programs like Microsoft Excel, and paste the data into the grid in Graph."
+msgstr "برای درج دنباله نقاط شما می توانید داده های خود را از برنامه هایی مانند Microsoft Excel کپی کرده و آنها را در شبکه ای در گراف درج کنید."
+
+msgid "You can use 'Zoom|Fit all' to change the coordinate system so all functions and point series are visible."
+msgstr "شما می توانید گزینه متمرکز کردن |متناسب کردن همه را بعد از تغییر دستگاه مختصات و مرئی کردن تمام تابع ها و دنباله نقاط انتخاب کنید."
+
+msgid "You can use Zoom|Fit to change the coordinate system to show all parts of the selected function or point series."
+msgstr "شما می توانید گزینه متمرکز کردن |متناسب کردن را برای تغییر دستگاه مختصات و نمایش همه بخش های تابع یا نقطه انتخاب شده، انتخاب کنید."
+
+msgid "When you hold down the Shift key you can drag the coordinate system around with the mouse."
+msgstr "هنگامی که دکمه Shift را پایین نگه داشته اید می توانید دستگاه مختصات را با حرکت دادن ماوس جا به جا کنید."
+
+msgid "You can use Calc|Evaluate to find intersections between functions, crossings with the axes and extremum points."
+msgstr "شما می توانید گزینه محاسبه|ارزیابس را برای پیدا کردن نقاط تقاطع بین توابع با محور ها و نقاط اکسترمم انتخاب کنید."
+
+msgid "When a point series is selected you can add points to it by clicking on the image while you hold down the Ctrl key."
+msgstr "شما می توانید نقاطی را به دنباله نقاط انتخاب شده اضافه کنید. برای این کار با پایین نگه داشتن کلید Ctrl بر روی تصویر کلیک کنید."
+
+msgid "You can use a relation to plot any inequality, for example sin(x^2) < cos(y^2)"
+msgstr "شما می توانید از یک رابطه برای رسم هر نا مساوی استفاده کنید. برای مثال sin(x^2) < cos(y^2)"
+
+msgid "You can use a relation to plot any equation, for example x*sin x = y*cos y"
+msgstr "شما می توانید از یک رابطه برای رسم هر تساوی استفاده کنید. برای مثال x*sin x = y*cos y"
+
+msgid "Elements (functions, shadings, labels, relations, etc.) are drawn in the same order they appear in the function list to the left."
+msgstr "عناصر (توابع، هاشور ها، برچسب ها، روابط و غیره) برای نمایش در لیست تابع در سمت چپ  به صورت یکسان رسم می شوند."
+
+msgid "You can move the selected element in the function list either by dragging it with the mouse or with the arrow up/down keys while ALT is held down."
+msgstr "برای انتقال دادن عنصر انتخابی در لیست تابع می توانید آن را با ماوس رها کنید یا با کلید های جهتی و پایین نگه داشتن Alt این کار را انجام دهید."
+
+msgid "You can show functions and other elements behind the axes by moving the element above the axes in the function list to the left. To move shadings and tangents you will have to move the functions they are attached to."
+msgstr "برای نمایش توابع و سایر عناصر پشت محور ها می توانید عنصر بالای محور ها را در لیست تابع به سمت چپ حرکت دهید. برای حرکت هاشور ها و خط مماس ها باید توابع ضمیمه شده را حرکت دهید."
+
+msgid "Custom text labels may be attached to the axes by right clicking on the label and selecting a placement from the context menu."
+msgstr "متن برچسب سفارشی به محور ها ضمیمه می شود. برای این کار روی برچسب کلیک راست کرده و جایگاه انتخاب شده را از منوی متن انتخاب کنید."
+
+msgid "The legend may be moved freely with the mouse or attached to one of the corners by right clicking on the legend and choose a placement from the context menu."
+msgstr "علائم و اختصارات می توانند به آزادی با ماوس حرکت کرده یا به یکی از چهار گوشه با کلیک راست روی آن و انتخاب جایگاه آن از روی منوی متن ضمیمه شود."
+
+msgid "As an alternative to Transparent, you can choose a custom background color for labels. This is especially useful for labels drawn over shadings."
+msgstr "به جای شفاف کردن پش زمینه می توانید یک رنگ پس زمینه دلخواه برای برچسب ها انتخاب کنید. این کار برای برچسب های رسم شده زیر هاشور مفید است."
+
+msgid "In most places like point series, axes settings, function ranges, etc., you can use expressions like pi/4 instead of numbers."
+msgstr "در مکان هایی مانند دنباله نقاط، تنظیمات محور ها، بازه تابع و غیره شما می توانید عبارتی مانند pi/4 را به جای اعداد به کار برید."
+
+msgid "You can create your own custom constants under Function|Custom functions for use in functions, point series, etc. For example g=9.80665, R=8.31"
+msgstr "شما می توانید ثابت اختیاری را در گزینه تابع|تابع سفارشی برای استفاده از توابع، دنباله نقاط و غیره انتخاب کنید. برای مثال g=9.80665, R=8.31"
+
+msgid "You can create your own custom functions under Function|Custom functions for use in plotting functions, relations, etc. For example sinc(x)=if(x=0, 0, sin(x)/x)"
+msgstr "شما می توانید تابع سفارشی خود را در گزینه تابع|توابع سفارشی برای رسم توابع، روابط و غیره استفاده کنید. برای مثال sinc(x)=if(x=0, 0, sin(x)/x)"
+
+msgid "In the Save as image dialog there is an Option button you can use to specify the image resolution. This is especially useful if you want a high resolution image."
+msgstr "در پنجره ذخیره به عنوان تصویر گزینه ای وجود دارد که کیفیت تصویر را مشخص می کند. این ویژگی به طور خاص برای ذخیره تصاویر با کیفیت بالا استفاده می شود."
+
+msgid "Point series can have arrows as markers. A point series with arrows as markers and lines between the points can be used to show vectors."
+msgstr "دنباله نقاط دارای نشان گر جهت هستند. دنباله نقاط دارای نشانگر جهت و خطوط بین این نقاط برای نمایش بردار ها استفاده می شوند."
+
+msgid "Insert symbol"
+msgstr "درج نماد"
+
+msgid "Subset:"
+msgstr "زیر مجموعه:"
+
+msgid "Insert"
+msgstr "درج"
+
+msgid "Select color"
+msgstr "انتخاب رنگ"
+
+msgid "Customize"
+msgstr "سفارشی سازی"
+
+msgid "Description"
+msgstr "توضیحات"
+
+msgid "Cannot open clipboard: %s"
+msgstr "عدم امکان باز کردن کلیپ بورد: %s"
+
+msgid "There is no default printer currently selected."
+msgstr "چاپگر پیش فرض هنوز انتخاب نشده است."
+
+msgid "Install for all users"
+msgstr "نصب برای همه کاربران"
+
+#, fuzzy
+msgid "Examples"
+msgstr "نمونه"
+
+msgid "Local"
+msgstr "محلی"
+
+msgid "Global"
+msgstr "جهانی"
+
+#. PrintFrm..Caption
+msgid "Print"
+msgstr "چاپ"
+
+#. PrintFrm..Label6..Caption
+msgid "Scale:"
+msgstr "مقیاس:"
+
+#. PrintFrm..GroupBox1..Caption
+msgid "Printer"
+msgstr "چاپگر"
+
+#. PrintFrm..GroupBox1..Label7..Caption
+msgid "Type:"
+msgstr "نوع:"
+
+#. PrintFrm..GroupBox1..Label8..Caption
+msgid "Where:"
+msgstr "کجا:"
+
+#. PrintFrm..GroupBox1..Label9..Caption
+msgid "Comment:"
+msgstr "توضیح:"
+
+#. PrintFrm..GroupBox1..ComboBox1....Hint
+msgid "Select the printer to use. The Properties button may be used to change more advanced settings for the printer."
+msgstr "انتخاب چاپگر مورد استفاده. دکمه خصوصیات برای تغییر تنظیمات پیشرفته چاپگر استفاده می شود."
+
+#. PrintFrm..RadioGroup2....Hint
+msgid "Select to print in color (or grayscale if your printer is not a color printer) or convert all colors to black."
+msgstr "انتخاب چاپ رنگی (یا سیاه و سفید در صورت رنگی نبودن چاپگر) یا تبدیل همه رنگ ها به سیاه."
+
+#. PrintFrm..RadioGroup2..Caption
+msgid "Print output"
+msgstr "چاپ خروجی"
+
+#. PrintFrm..RadioGroup2....Items.Strings
+msgid "Color"
+msgstr "رنگ"
+
+#. PrintFrm..RadioGroup2....Items.Strings
+msgid "Black && white"
+msgstr "سیاه و سفید"
+
+#. PrintFrm..GroupBox2..Caption
+msgid "Position (millimeters)"
+msgstr "موقعیت (میلیمتر)"
+
+#. PrintFrm..GroupBox2..Label3..Caption
+msgid "Left margin:"
+msgstr "حاشیه سمت چپ:"
+
+#. PrintFrm..GroupBox2..Label4..Caption
+msgid "Top margin:"
+msgstr "حاشیه بالا:"
+
+#. PrintFrm..GroupBox2..CheckBox1..Hint
+msgid "Center the printing area on the page."
+msgstr "ناحیه چاپ در مرکز صفحه"
+
+#. PrintFrm..GroupBox2..CheckBox1..Caption
+msgid "Center on page"
+msgstr "مرکز صفحه"
+
+#. PrintFrm..GroupBox2..Edit1....Hint
+#. PrintFrm..GroupBox2..Edit2....Hint
+msgid "Specify the printing area of the page. The printer will print only within these margins."
+msgstr "مشخص کردن ناحیه چاپ در صفحه. چاپگر تنها درون این حاشیه ها چاپ می کند."
+
+#. PrintFrm..GroupBox3..Label5..Caption
+msgid "Number of copies:"
+msgstr "تعداد رونوشت ها:"
+
+#. PrintFrm..GroupBox3..Edit3..Hint
+msgid "Choose number of copies to print."
+msgstr "انتخاب تعداد رونوشت ها برای چاپ."
+
+#. PrintFrm..Edit4..Hint
+msgid "Enter percent of original size."
+msgstr "وارد کردن درصد اندازه اصلی."
+
+#~ msgid "Associate *.grf files with Graph."
+#~ msgstr "آمیختن پرونده های *.grf با برنامه گراف."
+
+#~ msgid "Associate .grf files"
+#~ msgstr "آمیختن پرونده های .grf"
+
+#, fuzzy
+#~ msgid "Integral"
+#~ msgstr "اینترنت"
+
+#, fuzzy
+#~ msgid "Calculate definite integral"
+#~ msgstr "محاسبه جدول"
+
+#, fuzzy
+#~ msgid "Integrate"
+#~ msgstr "اینترنت"

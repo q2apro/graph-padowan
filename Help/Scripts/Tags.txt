@@ -1,0 +1,23 @@
+<parameter>
+Used for parameters to functions and similar, which you want to replace with a <placeholder-n/> and not translate.
+
+<varname>
+Used for variable names, which you want to stay included in the translation. It will not be translated by itself.
+
+<constant>
+Used for constants, which will be replaced with <placeholder-n/> and not translated.
+
+<markup>
+Indicates that something should not be translated.
+
+<function>
+Used for function names, which are replaced with <placeholder-n/> and not translated.
+
+<mathphrase>
+Used for mathematical equations. Replaced with <placeholder-n/> and not translated.
+
+<literal>
+Input entered by the user. Replaced with <placeholder-n/> and not translated.
+
+<programlisting>
+Used for examples like CSV files and Python scripts. Replaced with <placeholder-n/> and not translated. Space is preserved.

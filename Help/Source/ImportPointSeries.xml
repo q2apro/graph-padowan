@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chapter SYSTEM "dtd/dblite.dtd" [
+<!ENTITY % Symbols SYSTEM "Symbols.ent">
+%Symbols;
+]>
+<section id="ImportPointSeries">
+	<title>Import point series</title>
+	<indexterm><primary>import</primary></indexterm>
+	<indexterm><primary>point series</primary></indexterm>
+	<indexterm><primary><markup>csv</markup></primary></indexterm>
+	<indexterm><primary><markup>txt</markup></primary></indexterm>
+	<para>
+		Graph can import point series from text files where the values are delimited by comma, semicolon, space or tabulator.
+		You use <menuchoice><guimenu>File</guimenu><guisubmenu>Import</guisubmenu><guimenuitem>Point series...</guimenuitem></menuchoice> and select the file to import.
+		If you do not specify the type of file, Graph will try to guess the delimitor.
+	</para>
+
+	<para>
+		The simplest file looks like this, which uses comma as delimitor:
+		<programlisting>1,1.7
+2,4.3
+3,9.5
+4,16.2</programlisting>
+		When imported you get a point series with the coordinates: <markup>(1,1.7), (2,4.3), (3,9.5), (4,16.2)</markup>
+	</para>
+
+	<para>
+		A file with more than two columns will be imported as several point series with the same x-coordinates as specified in the first column.
+		Here is an example with semicolon as delimitor:
+<programlisting>50;71,8113997;78,23883162;79,17509098;78,58979676;78,62449077;78,2374541;77,7637696
+55;71,81941659;78,17869416;79,2155277;78,48195769;78,6005272;78,22113423;77,7874084
+60;71,82943769;78,12714777;79,24787707;78,55661551;78,51266076;78,2129743;77,8425656
+65;71,82866684;78,08419244;79,20744036;78,54002489;78,56857576;78,22929417;77,8189268
+70;71,81448312;78,06701031;79,18317833;78,55661551;78,55260005;78,24561404;77,75589</programlisting>
+	When imported you get 7 point series which all share the same x-coordinates.
+	</para>
+
+	<para>
+	You can name the point series by starting the line before the data with # followed by the names separated by the same separator as the data.
+	This can also be used for creating several point series that do not share the same x-coordinates by separating the point series with a # and optionally a name for the following point series.
+	The following shows an example with space as separator:
+<programlisting>#a b
+0 0.2 0.5
+1 1.4 -1.7
+2 2.1 -2.6
+3 3.8 -3.3
+#d e
+4 4.3 -4.1
+5 5.8 -5.5
+6 6.1 -6.1
+7 7.9 -7.6</programlisting>
+	This will create four point series each with four data points named a, b, c and d.
+	a and b will share the same x-coordinates, and c and d will share the same x-coordinates.
+	</para>
+
+	<para>
+		Not only numbers, but any valid expression can be imported.
+		The following shows an example with semicolon:
+<programlisting>1;sin(0.1)
+2;sin(0.2)
+3;1+sin(0.3)
+pi;2*sin(pi/2)</programlisting>
+	</para>
+
+</section>

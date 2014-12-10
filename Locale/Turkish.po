@@ -1,0 +1,3718 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Graph\n"
+"POT-Creation-Date: 2012-11-12 22:11\n"
+"PO-Revision-Date: 2012-11-07 21:23+0100\n"
+"Last-Translator: Michael Bach Ipsen <rosenthall@hotmail.com>\n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: dxgettext 1.2.1\n"
+
+#. Form1..Recent1..Hint
+msgid "Open file: %s"
+msgstr "Dosya aç: %s"
+
+#. Form1..PopupMenu1..Tree_ShowInLegend..Caption
+msgid "Show in legend"
+msgstr "Gösterim kutusunda göster"
+
+#. Form1..PopupMenu1..Tree_ShowInLegend..Hint
+msgid "Check to show the selected item in the legend."
+msgstr "Seçilin nesnenin gösterim kutusunda gösterilmesini istiyorsanız tıklayın."
+
+#. Form1..PopupMenu1..Tree_Placement..Caption
+#. Form1..PopupMenu3..Label_Placement..Caption
+#. Form1..PopupMenu4..Legend_Placement..Caption
+#. Form21..Caption
+msgid "Placement"
+msgstr "Konum"
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Above..Caption
+#. Form1..PopupMenu3..Label_Placement..Label_Above..Caption
+msgid "Above x-axis"
+msgstr "x-ekseninin üzerinde"
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Above....Hint
+#. Form1..PopupMenu3..Label_Placement..Label_Above....Hint
+msgid "Place the label directly above the x-axis on the right side of the image."
+msgstr "Etiketi x-ekseninin üstüne resmin sağına koy."
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Below..Caption
+#. Form1..PopupMenu3..Label_Placement..Label_Below..Caption
+msgid "Below x-axis"
+msgstr "x-ekseninin altında"
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Below....Hint
+#. Form1..PopupMenu3..Label_Placement..Label_Below....Hint
+msgid "Place the label directly below the x-axis on the right side of the image."
+msgstr "Etiketi x-ekseninin altına resmin sağına koy."
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Left..Caption
+#. Form1..PopupMenu3..Label_Placement..Label_Left..Caption
+msgid "Left of y-axis"
+msgstr "y ekseninin solu"
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Left....Hint
+#. Form1..PopupMenu3..Label_Placement..Label_Left....Hint
+msgid "Place the label to the left of the y-axis at the top of the image."
+msgstr "Etiketi y-ekseninin soluna resmin üstüne koy."
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Right..Caption
+#. Form1..PopupMenu3..Label_Placement..Label_Right..Caption
+msgid "Right of y-axis"
+msgstr "y-ekseninin sağı"
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Right....Hint
+#. Form1..PopupMenu3..Label_Placement..Label_Right....Hint
+msgid "Place the label to the right of the y-axis at the top of the image."
+msgstr "Etiketi y-ekseninin sağına resmin üstüne koy."
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Placement_Custom..Caption
+#. Form1..PopupMenu1..Tree_Rotation..Tree_Rotation_Custom..Caption
+#. Form1..PopupMenu3..Label_Placement..Label_Placement_Custom..Caption
+#. Form1..PopupMenu3..Label_Rotation..Label_Rotation_Custom..Caption
+#. Form11..GroupBox2..ExtColorBox1..CustomName
+#. Form12..GroupBox2..ExtColorBox1..CustomName
+#. Form13..GroupBox1..ExtColorBox1..CustomName
+#. Form14..PageControl1..TabSheet1..GroupBox1..ExtColorBox1..CustomName
+#. Form14..PageControl1..TabSheet1..GroupBox2..ExtColorBox2..CustomName
+#. Form16..PageControl1..TabSheet2..GroupBox3..ExtColorBox1..CustomName
+#. Form3..PageControl1..TabSheet4..GroupBox3..ExtColorBox1..CustomName
+#. Form3..PageControl1..TabSheet4..GroupBox3..ExtColorBox2..CustomName
+#. Form3..PageControl1..TabSheet4..GroupBox3..ExtColorBox3..CustomName
+#. Form5..GroupBox4..GridPanelEx1..ExtColorBox1..CustomName
+#. Form6..ColorBox1..CustomName
+#. Form6..ColorBox2..CustomName
+#. Form7..GroupBox4..ExtColorBox1..CustomName
+msgid "Custom..."
+msgstr "Özelleştirmeler..."
+
+#. Form1..PopupMenu1..Tree_Placement..Tree_Placement_Custom..Hint
+#. Form1..PopupMenu3..Label_Placement..Label_Placement_Custom..Hint
+msgid "Place the label at a custom position."
+msgstr "Etiketi özel bir konumuna koyar."
+
+#. Form1..PopupMenu1..Tree_Rotation..Caption
+#. Form1..PopupMenu3..Label_Rotation..Caption
+msgid "Rotation"
+msgstr "Döndür"
+
+#. Form1..PopupMenu1..Tree_Rotation..Tree_Rotation_0..Hint
+#. Form1..PopupMenu3..Label_Rotation..Rotation_0..Hint
+msgid "Show the label with no rotation."
+msgstr "Etiketi dondermeden gosterir."
+
+#. Form1..PopupMenu1..Tree_Rotation..Tree_Rotation_90..Hint
+#. Form1..PopupMenu3..Label_Rotation..Rotation_90..Hint
+msgid "Show the label rotated 90° counter clockwise."
+msgstr "Etiketi 90 derece sola dondurerek gosterir."
+
+#. Form1..PopupMenu1..Tree_Rotation..Tree_Rotation_180..Hint
+#. Form1..PopupMenu3..Label_Rotation..Rotation_180..Hint
+msgid "Show the label rotated 180°."
+msgstr "Etiketi 180 derece dondurerek gosterir."
+
+#. Form1..PopupMenu1..Tree_Rotation..Tree_Rotation_270..Hint
+#. Form1..PopupMenu3..Label_Rotation..Rotation_270..Hint
+msgid "Show the label rotated 270° counter clockwise."
+msgstr "Etiketi 270 derece sola dondurerek gosterir."
+
+#. Form1..PopupMenu1..Tree_Rotation..Tree_Rotation_Custom..Hint
+#. Form1..PopupMenu3..Label_Rotation..Label_Rotation_Custom..Hint
+msgid "Specify the angle of rotation for the label."
+msgstr "Etiket için döndürme açısını özelliştir."
+
+#. Form1..PopupMenu1..Tree_Export..Caption
+#. Form14..PopupMenu1..Popup_Export..Caption
+#. Form15..PopupMenu1..Popup1_Export..Caption
+#. Form17..PopupMenu1..Popup_Export..Caption
+msgid "Export to file..."
+msgstr "Dosyaya kaydet..."
+
+#. Form1..PopupMenu1..Tree_Export..Hint
+msgid "Export the selected point series to a file."
+msgstr "Seçili noktaları dosyaya kaydet."
+
+#. Form1..ActionManager..............Caption
+msgid "Import"
+msgstr "Ekle"
+
+#. Form1..ActionManager..........Caption
+#. Form1..ActionManager..NewAction..Category
+#. Form1..ActionManager..OpenAction..Category
+#. Form1..ActionManager..SaveAction..Category
+#. Form1..ActionManager..SaveAsAction..Category
+#. Form1..ActionManager..SaveCopyAsAction..Category
+#. Form1..ActionManager..SaveAsImageAction..Category
+#. Form1..ActionManager..PrintAction..Category
+#. Form1..ActionManager..ExitAction..Category
+#. Form1..ActionManager..ImportGraphFileAction..Category
+#. Form1..ActionManager..ImportPointSeriesAction..Category
+msgid "File"
+msgstr "Dosya"
+
+#. Form1..ActionManager..........Caption
+#. Form1..ActionManager..UndoAction..Category
+#. Form1..ActionManager..RedoAction..Category
+#. Form1..ActionManager..CutAction..Category
+#. Form1..ActionManager..CopyAction..Category
+#. Form1..ActionManager..PasteAction..Category
+#. Form1..ActionManager..CopyImageAction..Category
+#. Form1..ActionManager..AxesAction..Category
+#. Form1..ActionManager..OptionsAction..Category
+msgid "Edit"
+msgstr "Düzenle"
+
+#. Form1..ActionManager..........Caption
+#. Form1..ActionManager..InsertFunctionAction..Category
+#. Form1..ActionManager..InsertTangentAction..Category
+#. Form1..ActionManager..InsertShadeAction..Category
+#. Form1..ActionManager..InsertPointsAction..Category
+#. Form1..ActionManager..InsertTrendlineAction..Category
+#. Form1..ActionManager..EditAction..Category
+#. Form1..ActionManager..DeleteAction..Category
+#. Form1..ActionManager..InsertDifAction..Category
+#. Form1..ActionManager..InsertLabelAction..Category
+#. Form1..ActionManager..InsertRelationAction..Category
+#. Form1..ActionManager..CustomFunctionsAction..Category
+#. ParFuncFrame..ComboBox1..Text
+#. ParFuncFrame..ComboBox1....Items.Strings
+#. PolFuncFrame..ComboBox1..Text
+#. PolFuncFrame..ComboBox1....Items.Strings
+#. StdFuncFrame..ComboBox1..Text
+#. StdFuncFrame..ComboBox1....Items.Strings
+msgid "Function"
+msgstr "Fonksiyon"
+
+#. Form1..ActionManager..........Caption
+#. Form1..ActionManager..ZoomInAction..Category
+#. Form1..ActionManager..ZoomOutAction..Category
+#. Form1..ActionManager..ZoomWindowAction..Category
+#. Form1..ActionManager..ZoomSquareAction..Category
+#. Form1..ActionManager..ZoomStandardAction..Category
+#. Form1..ActionManager..ZoomFitAction..Category
+#. Form1..ActionManager..ZoomFitAllAction..Category
+#. Form1..ActionManager..ZoomXInAction..Category
+#. Form1..ActionManager..ZoomXOutAction..Category
+#. Form1..ActionManager..ZoomYInAction..Category
+#. Form1..ActionManager..ZoomYOutAction..Category
+msgid "Zoom"
+msgstr "Zoom"
+
+#. Form1..ActionManager..........Caption
+#. Form1..ActionManager..PathAction..Category
+#. Form1..ActionManager..AreaAction..Category
+#. Form1..ActionManager..EvalAction..Category
+#. Form1..ActionManager..TableAction..Category
+#. Form1..ActionManager..AnimateAction..Category
+#. Form15..Button2..Caption
+msgid "Calc"
+msgstr "Hesap"
+
+#. Form1..ActionManager..........Caption
+msgid "Plugins"
+msgstr "Plugins"
+
+#. Form1..ActionManager..............Caption
+msgid "Internet"
+msgstr "İnternet"
+
+#. Form1..ActionManager..........Caption
+#. Form1..ActionManager..ContentsAction..Category
+#. Form1..ActionManager..ListAction..Category
+#. Form1..ActionManager..HomePageAction..Category
+#. Form1..ActionManager..UpdateAction..Category
+#. Form1..ActionManager..AboutAction..Category
+#. Form1..ActionManager..FaqAction..Category
+#. Form1..ActionManager..DonateAction..Category
+#. Form1..ActionManager..TipAction..Category
+#. Form1..ActionManager..SupportAction..Category
+#. Form1..ActionManager..ScriptDocAction..Category
+#. Form11..Button3..Caption
+#. Form12..Button3..Caption
+#. Form13..Button3..Caption
+#. Form14..Button3..Caption
+#. Form15..Button3..Caption
+#. Form16..Button3..Caption
+#. Form17..Button4..Caption
+#. Form19..Button3..Caption
+#. Form3..Button3..Caption
+#. Form4..Button3..Caption
+#. Form5..Button3..Caption
+#. Form6..Button3..Caption
+#. Form7..Button3..Caption
+msgid "Help"
+msgstr "Yardım"
+
+#. Form1..ActionManager..NewAction..Caption
+msgid "New"
+msgstr "Yeni"
+
+#. Form1..ActionManager..NewAction..Hint
+msgid "Create a new coordinate system."
+msgstr "Yeni koordinat sistemi tanımlar."
+
+#. Form1..ActionManager..OpenAction..Caption
+msgid "Open..."
+msgstr "Aç..."
+
+#. Form1..ActionManager..OpenAction..Hint
+msgid "Read a coordinate system from a file."
+msgstr "Dosyadan koordinat sistemi oku"
+
+#. Form1..ActionManager..SaveAction..Caption
+msgid "Save"
+msgstr "Kaydet"
+
+#. Form1..ActionManager..SaveAction..Hint
+msgid "Write the current coordinate system to a file."
+msgstr "Geçerli koordinat sistemini dosyaya kaydeder."
+
+#. Form1..ActionManager..SaveAsAction..Caption
+#. Form20..PopupMenu1..Save1..Caption
+msgid "Save as..."
+msgstr "Farklı kaydet"
+
+#. Form1..ActionManager..SaveAsAction..Hint
+msgid "Write the current coordinate system to a file with a new name."
+msgstr "Geçerli koordinat sistemini yeni isim ile dosyaya kaydeder."
+
+#. Form1..ActionManager..SaveCopyAsAction..Caption
+msgid "Save copy as..."
+msgstr "Kopya olarak kaydet"
+
+#. Form1..ActionManager..SaveCopyAsAction..Hint
+msgid "Save a copy of the current coordinate system to a file."
+msgstr "Geçerli koordinat sistemini dosyaya kaydet"
+
+#. Form1..ActionManager..SaveAsImageAction..Caption
+msgid "Save as image..."
+msgstr "Resim olarak kaydet..."
+
+#. Form1..ActionManager..SaveAsImageAction..Hint
+msgid "Save the shown coordinate system as an image."
+msgstr "Geçerli koordinat sistemini resim olarak kaydeder."
+
+#. Form1..ActionManager..PrintAction..Caption
+msgid "Print..."
+msgstr "Yazdır..."
+
+#. Form1..ActionManager..PrintAction..Hint
+msgid "Print shown coordinate system."
+msgstr "Gösterilen koordinat sistemini yazdır."
+
+#. Form1..ActionManager..ExitAction..Caption
+msgid "Exit"
+msgstr "Çıkış"
+
+#. Form1..ActionManager..ExitAction..Hint
+msgid "Quit the program."
+msgstr "Programdan çıkar."
+
+#. Form1..ActionManager..UndoAction..Caption
+#. Form6..PopupMenu1..Popup_Undo..Caption
+msgid "Undo"
+msgstr "Geri al"
+
+#. Form1..ActionManager..UndoAction..Hint
+msgid "Undo the last action."
+msgstr "Geri al"
+
+#. Form1..ActionManager..RedoAction..Caption
+#. Form6..PopupMenu1..Popup_Redo..Caption
+msgid "Redo"
+msgstr "Yinele"
+
+#. Form1..ActionManager..RedoAction..Hint
+msgid "Redo the last action undone."
+msgstr "Yinele"
+
+#. Form1..ActionManager..CutAction..Caption
+#. Form14..PopupMenu1..Popup_Cut..Caption
+#. Form17..PopupMenu1..Popup_Cut..Caption
+#. Form6..PopupMenu1..Popup_Cut..Caption
+msgid "Cut"
+msgstr "Kes"
+
+#. Form1..ActionManager..CutAction..Hint
+msgid "Cut the selected function or point series to the clipboard."
+msgstr "Seçili fonksiyonu yada nokta serisini panoya kaydeder"
+
+#. Form1..ActionManager..CopyAction..Caption
+#. Form14..PopupMenu1..Popup_Copy..Caption
+#. Form15..PopupMenu1..Popup1_Copy..Caption
+#. Form17..PopupMenu1..Popup_Copy..Caption
+#. Form6..PopupMenu1..Popup_Copy..Caption
+msgid "Copy"
+msgstr "Kopyala"
+
+#. Form1..ActionManager..CopyAction..Hint
+msgid "Copy the selected function or point series to the clipboard."
+msgstr "Seçili fonksiyonu yada nokta serisini panoya kaydeder"
+
+#. Form1..ActionManager..PasteAction..Caption
+#. Form14..PopupMenu1..Popup_Paste..Caption
+#. Form17..PopupMenu1..Popup_Paste..Caption
+#. Form6..PopupMenu1..Popup_Paste..Caption
+msgid "Paste"
+msgstr "Yapıştır"
+
+#. Form1..ActionManager..PasteAction....Hint
+msgid "Paste a function or point series from the clipboard into the coordinate system."
+msgstr "Panodan fonksiyonu yada nokta serisini koordinat sistemine yapıştırır."
+
+#. Form1..ActionManager..CopyImageAction..Caption
+msgid "Copy image"
+msgstr "Resmi kopyala"
+
+#. Form1..ActionManager..CopyImageAction..Hint
+msgid "Copy the shown coordinate system to the clipboard."
+msgstr "Gösterilen koordinat sistemini panoya yapıştırır."
+
+#. Form1..ActionManager..AxesAction..Caption
+msgid "Axes..."
+msgstr "Eksenler..."
+
+#. Form1..ActionManager..AxesAction..Hint
+msgid "Edit axes settings."
+msgstr "Eksenleri düzenler. "
+
+#. Form1..ActionManager..OptionsAction..Caption
+#. Form1..SaveDialogEx1..HelpCaption
+#. Form19..Button4..Caption
+msgid "Options..."
+msgstr "Özellikler.."
+
+#. Form1..ActionManager..OptionsAction..Hint
+msgid "Edit various options for the interface and program features."
+msgstr "Arayüz ve program özellikleri için düzenleme yapar."
+
+#. Form1..ActionManager..InsertFunctionAction..Caption
+msgid "Insert function..."
+msgstr "Fonksiyon ekle..."
+
+#. Form1..ActionManager..InsertFunctionAction..Hint
+msgid "Insert a new function."
+msgstr "Yeni fonksiyon ekler."
+
+#. Form1..ActionManager..InsertTangentAction..Caption
+msgid "Insert tangent/normal..."
+msgstr "tanjant/normal ekle.."
+
+#. Form1..ActionManager..InsertTangentAction..Hint
+msgid "Insert a tangent or normal for the selected function."
+msgstr "Seçili fonksiyana tanjant ya da normal ekler"
+
+#. Form1..ActionManager..InsertShadeAction..Caption
+msgid "Insert shading..."
+msgstr "Taralı alan ekle.."
+
+#. Form1..ActionManager..InsertShadeAction..Hint
+msgid "Add shading to the selected function."
+msgstr "Seçili fonsiyona taralı alan ekler."
+
+#. Form1..ActionManager..InsertPointsAction..Caption
+msgid "Insert point series..."
+msgstr "Nokta serileri ekle"
+
+#. Form1..ActionManager..InsertPointsAction..Hint
+msgid "Insert a point series."
+msgstr "Nokta serisi ekler."
+
+#. Form1..ActionManager..InsertTrendlineAction..Caption
+msgid "Insert trendline..."
+msgstr "Eğilim çizgisi ekler..."
+
+#. Form1..ActionManager..InsertTrendlineAction..Hint
+msgid "Insert a curve of best fit for the selected point series."
+msgstr "Seçili nokta serisine uyan en uygun eğriyi ekler"
+
+#. Form1..ActionManager..EditAction..Caption
+msgid "Edit..."
+msgstr "Düzenle"
+
+#. Form1..ActionManager..EditAction..Hint
+msgid "Edit the selected element: Function, tangent, point series, etc."
+msgstr "Seçili olanları  düzenle: Fonksiyon, tanjant, nokta serisi..."
+
+#. Form1..ActionManager..DeleteAction..Caption
+#. Form14..PopupMenu1..Popup_Delete..Caption
+#. Form17..PopupMenu1..Popup_Delete..Caption
+msgid "Delete"
+msgstr "Sil"
+
+#. Form1..ActionManager..DeleteAction..Hint
+msgid "Delete the selected function, tangent or point series."
+msgstr "Seçili fonksiyonu,tanjantı, yada nokta serisini sil"
+
+#. Form1..ActionManager..InsertDifAction..Caption
+msgid "Insert f'(x)..."
+msgstr "f'(x) [türev] ekle..."
+
+#. Form1..ActionManager..InsertDifAction..Hint
+msgid "Insert the first derivative of the selected function."
+msgstr "seçili fonksiyonun ilk türevini ekle"
+
+#. Form1..ActionManager..ZoomInAction..Caption
+msgid "In"
+msgstr "In"
+
+#. Form1..ActionManager..ZoomInAction..Hint
+msgid "Zoom in. Hold down Shift to zoom with larger steps."
+msgstr "Yakinlastir."
+
+#. Form1..ActionManager..ZoomOutAction..Caption
+msgid "Out"
+msgstr "Out"
+
+#. Form1..ActionManager..ZoomOutAction..Hint
+msgid "Zoom out. Hold down Shift to zoom with larger steps."
+msgstr "Uzaklaştırır. Daha hızlı uzaklaştırmak icin Shift' e basılı tutun. "
+
+#. Form1..ActionManager..ZoomWindowAction..Caption
+msgid "Window"
+msgstr "Pencere"
+
+#. Form1..ActionManager..ZoomWindowAction..Hint
+msgid "Zoom to user selected window."
+msgstr "Kulanıcının seçili penceresine büyültür."
+
+#. Form1..ActionManager..ZoomSquareAction..Caption
+msgid "Square"
+msgstr "Kare"
+
+#. Form1..ActionManager..ZoomSquareAction....Hint
+msgid "Zoom to scale the axes equally. This will show a plotted circle in its correct relation instead of an ellipse."
+msgstr "Ölçeği eksenlerle eşit olacak şekilde zoom yap. "
+
+#. Form1..ActionManager..ZoomStandardAction..Caption
+msgid "Standard"
+msgstr "Standard"
+
+#. Form1..ActionManager..ZoomStandardAction..Hint
+msgid "Reset the axes to their default settings."
+msgstr "Eksenleri program tarafından atanmış değerlerine döndürür."
+
+#. Form1..ActionManager..MoveUpAction..Category
+#. Form1..ActionManager..MoveDownAction..Category
+#. Form1..ActionManager..MoveLeftAction..Category
+#. Form1..ActionManager..MoveRightAction..Category
+#. Form1..ActionManager..MoveAction..Category
+msgid "Move"
+msgstr "Taşı"
+
+#. Form1..ActionManager..MoveUpAction..Caption
+msgid "Move up"
+msgstr "Yukarı taşı"
+
+#. Form1..ActionManager..MoveUpAction....Hint
+msgid "Move the graphing area up along the coordinate system. Hold down Shift to move in larger steps."
+msgstr "Koordinat sistemi boyunca pencereyi yukari taşır. Hizli tasimak icin Shifte basili tutun."
+
+#. Form1..ActionManager..MoveDownAction..Caption
+msgid "Move down"
+msgstr "Aşağı taşı"
+
+#. Form1..ActionManager..MoveDownAction....Hint
+msgid "Move the graphing area down along the coordinate system. Hold down Shift to move in larger steps."
+msgstr "Koordinat sistemi boyunca pencereyi aşağı taşır."
+
+#. Form1..ActionManager..MoveLeftAction..Caption
+msgid "Move left"
+msgstr "Sola taşı"
+
+#. Form1..ActionManager..MoveLeftAction....Hint
+msgid "Move the graphing area to the left along the coordinate system. Hold down Shift to move in larger steps."
+msgstr "Koordinat sistemi boyunca pencereyi sola taşır."
+
+#. Form1..ActionManager..MoveRightAction..Caption
+msgid "Move right"
+msgstr "Sağa taşı"
+
+#. Form1..ActionManager..MoveRightAction....Hint
+msgid "Move the graphing area to the right along the coordinate system. Hold down Shift to move in larger steps."
+msgstr "Koordinat sistemi boyunca pencereyi sağa taşır."
+
+#. Form1..ActionManager..MoveAction..Caption
+msgid "Move system"
+msgstr "Sistemi taşı"
+
+#. Form1..ActionManager..MoveAction..Hint
+msgid "Move the coordinate system with the mouse."
+msgstr "Koordinat sistemini fare ile taşır"
+
+#. Form1..ActionManager..PathAction..Caption
+msgid "Length of path"
+msgstr "Yol uzunluğu"
+
+#. Form1..ActionManager..PathAction....Hint
+msgid "Calculate the length of path between two given points on the curve."
+msgstr "Eğri üzerinde verilen iki nokta arasındaki yolu hesaplar."
+
+#. Form1..ActionManager..AreaAction..Caption
+#. AreaFrame..GridPanel1..Label3..Caption
+msgid "Area"
+msgstr "Alan"
+
+#. Form1..ActionManager..AreaAction..Hint
+msgid "Calculate the definite integral over a given interval."
+msgstr "Verilen aralikta tanimli integrali hesaplar."
+
+#. Form1..ActionManager..EvalAction..Caption
+#. Form9..Caption
+msgid "Evaluate"
+msgstr "Hesapla"
+
+#. Form1..ActionManager..EvalAction..Hint
+msgid "Evaluate or trace the selected function."
+msgstr "Seçili fonksiyonu verilen değer için hesaplar."
+
+#. Form1..ActionManager..TableAction..Caption
+msgid "Table"
+msgstr "Tablolar.."
+
+#. Form1..ActionManager..TableAction..Hint
+msgid "Show an evaluation table."
+msgstr "Hesaplanmış tabloyu gösterir."
+
+#. Form1..ActionManager..ContentsAction..Caption
+msgid "Contents and index"
+msgstr "İndex ve içerikler"
+
+#. Form1..ActionManager..ContentsAction..Hint
+msgid "Open help file."
+msgstr "Yardım dosyasını aç"
+
+#. Form1..ActionManager..ListAction..Caption
+msgid "List of functions"
+msgstr "Fonksiyonların listesi"
+
+#. Form1..ActionManager..ListAction..Hint
+msgid "Show a list of built-in functions that can be used for graphing."
+msgstr "Grafik için kullanılabilecek onceden tanımlanmış fonksiyonların listesini gösterir."
+
+#. Form1..ActionManager..HomePageAction..Caption
+msgid "Graph web site"
+msgstr "Graph web sitesi"
+
+#. Form1..ActionManager..HomePageAction..Hint
+msgid "Open the default browser and show the Graph web site."
+msgstr "Graph internet sitesini açar."
+
+#. Form1..ActionManager..UpdateAction..Caption
+msgid "Check for update"
+msgstr "Yeni sürümü kontrol et"
+
+#. Form1..ActionManager..UpdateAction..Hint
+msgid "Contact the home page to see if a newer version is available."
+msgstr "Yeni sürüm için ana sayfaya bağlan"
+
+#. Form1..ActionManager..AboutAction..Caption
+#. Form2..Caption
+msgid "About Graph"
+msgstr "Graph hakkında"
+
+#. Form1..ActionManager..AboutAction..Hint
+msgid "Show copyright information."
+msgstr "Kopya bilgisini göster"
+
+#. Form1..ActionManager..SeparatorAction..Category
+#. Form1..ActionManager..SeparatorAction..Caption
+msgid "Separator"
+msgstr "Ayırıcı"
+
+#. Form1..ActionManager..ZoomFitAction..Caption
+msgid "Fit"
+msgstr "Seçili olanı göster"
+
+#. Form1..ActionManager..ZoomFitAction..Hint
+msgid "Zoom to show the selected element."
+msgstr "Seçili elemanları gösterecek şekilde büyült"
+
+#. Form1..ActionManager..ZoomFitAllAction..Caption
+msgid "Fit all"
+msgstr "Hepsini göster"
+
+#. Form1..ActionManager..ZoomFitAllAction..Hint
+msgid "Zoom to show all elements."
+msgstr "Bütün elemanları gösterecek şekilde büyült"
+
+#. Form1..ActionManager..FaqAction..Caption
+msgid "Frequently Asked Questions"
+msgstr "Sık sorulan sorular"
+
+#. Form1..ActionManager..FaqAction..Hint
+msgid "Show a list of frequently asked questions and their answers."
+msgstr "Sık sorulan soruların listesi ve cevaplarıni gosterir."
+
+#. Form1..ActionManager..InsertLabelAction..Caption
+msgid "Insert label..."
+msgstr "Etiket ekle..."
+
+#. Form1..ActionManager..InsertLabelAction..Hint
+msgid "Insert a text label."
+msgstr "Text etiketi ekle"
+
+#. Form1..ActionManager..DonateAction..Caption
+msgid "Donate"
+msgstr "Bağış"
+
+#. Form1..ActionManager..DonateAction..Hint
+msgid "Donate money to the project."
+msgstr "Projeye para bağışı yapar."
+
+#. Form1..ActionManager..TipAction..Caption
+#. Form10..Caption
+#. Form10..Panel1..LinkLabel1..Caption
+msgid "Tip of the day"
+msgstr "Günün ip ucu"
+
+#. Form1..ActionManager..TipAction..Hint
+msgid "Show tip of the day"
+msgstr "Günün ip ucunu gösterir"
+
+#. Form1..ActionManager..SupportAction..Caption
+msgid "Support"
+msgstr "Destek"
+
+#. Form1..ActionManager..SupportAction..Hint
+msgid "Open browser with the support page for the program."
+msgstr "Program için destek sayfasını açar."
+
+#. Form1..ActionManager..ZoomXInAction..Caption
+msgid "Zoom x-axis in"
+msgstr "x-ekseninde büyült"
+
+#. Form1..ActionManager..ZoomXInAction....Hint
+msgid "Zoom in on the x-axis only. Hold down Shift to zoom with larger steps."
+msgstr "Yaklaştırır. Daha hızlı yaklaştırmak icin Shift' e basılı tutun. "
+
+#. Form1..ActionManager..ZoomXOutAction..Caption
+msgid "Zoom x-axis out"
+msgstr "x-ekseninde küçült"
+
+#. Form1..ActionManager..ZoomXOutAction....Hint
+msgid "Zoom out on the x-axis only. Hold down Shift to zoom with larger steps."
+msgstr "Sadece x ekseninde uzaklaştırır. Daha hızlı uzaklaştırmak icin Shift' e basılı tutun. "
+
+#. Form1..ActionManager..ZoomYInAction..Caption
+msgid "Zoom y-axis in"
+msgstr "y-ekseninde büyült"
+
+#. Form1..ActionManager..ZoomYInAction....Hint
+msgid "Zoom in on the y-axis only. Hold down Shift to zoom with larger steps."
+msgstr "Sadece y ekseninde yakınlaştırır. Daha hızlı yakınlaştırmak icin Shift' e basılı tutun. "
+
+#. Form1..ActionManager..ZoomYOutAction..Caption
+msgid "Zoom y-axis out"
+msgstr "y-ekseninde küçült"
+
+#. Form1..ActionManager..ZoomYOutAction....Hint
+msgid "Zoom out on the y-axis only. Hold down Shift to zoom with larger steps."
+msgstr "Sadece y ekseninde uzaklaştırır. Daha hızlı uzaklaştırmak icin Shift' e basılı tutun. "
+
+#. Form1..ActionManager..InsertRelationAction..Caption
+msgid "Insert relation..."
+msgstr "İlişki ekler..."
+
+#. Form1..ActionManager..InsertRelationAction..Hint
+msgid "Insert a new equation or inequality."
+msgstr "Yeni bir denklem yada eşitlik ekler."
+
+#. Form1..ActionManager..CustomFunctionsAction..Caption
+msgid "Custom functions/constants..."
+msgstr "Özel fonksiyonlar/sabitler"
+
+#. Form1..ActionManager..CustomFunctionsAction..Hint
+msgid "Create custom functions and constants for use in graphs."
+msgstr "Grafiklerde kullanılmak üzere kişisel fonksiyon ve sabitler tanımlayın."
+
+#. Form1..ActionManager..AnimateAction..Caption
+msgid "Animate..."
+msgstr "Animasyon..."
+
+#. Form1..ActionManager..AnimateAction..Hint
+msgid "Create an animation by variating a constant."
+msgstr "Sabiti değiştirerek animasyon yapar."
+
+#. Form1..ActionManager..ImportGraphFileAction..Caption
+msgid "Graph file..."
+msgstr "Graph dosyası..."
+
+#. Form1..ActionManager..ImportGraphFileAction..Hint
+msgid "Import a Graph file into the current coordinate system."
+msgstr "Geçerli koordinat sistemine Graph dosyası ekle"
+
+#. Form1..ActionManager..ImportPointSeriesAction..Caption
+msgid "Point series..."
+msgstr "Nokta serileri.. "
+
+#. Form1..ActionManager..ImportPointSeriesAction..Hint
+msgid "Import point series from a data file."
+msgstr "Data dosyasından nokta serisi ekle"
+
+#. Form1..ActionManager..ScriptDocAction..Caption
+msgid "Scripting engine documentation"
+msgstr "Scripting engine documentation"
+
+#. Form1..ActionManager..ScriptDocAction..Hint
+msgid "Show documentation for scripting engine and plugin system."
+msgstr "Show documentation for scripting engine and plugin system."
+
+#. Form1..PopupMenu2..ToolBar_Reset..Caption
+msgid "Reset to default"
+msgstr "İlk atanmış değerleri ata"
+
+#. Form1..PopupMenu2..ToolBar_Reset..Hint
+msgid "Reset the toolbar icons to the installation default."
+msgstr "Araç kutusunu ilk atanmış değerlerine döndürür."
+
+#. Form1..PopupMenu2..ToolBar_Customize..Caption
+msgid "Customize toolbar..."
+msgstr "Araç kutusunu özelleştir."
+
+#. Form1..PopupMenu2..ToolBar_Customize..Hint
+msgid "Customize the icons shown on the toolbar."
+msgstr "Araç kutusundaki simgeleri özelliştir."
+
+#. Form1..PopupMenu3..Label_Edit..Caption
+msgid "Edit label..."
+msgstr "Etiketi düzenle..."
+
+#. Form1..PopupMenu3..Label_Edit..Hint
+msgid "Edit the label under the cursor."
+msgstr "İşaretçi altındaki etiketi düzenler"
+
+#. Form1..PopupMenu3..Label_Delete..Caption
+msgid "Delete label"
+msgstr "Etiketi sil"
+
+#. Form1..PopupMenu3..Label_Delete..Hint
+msgid "Delete the label under the cursor."
+msgstr "İşaretçi altındaki etiketi sil"
+
+#. Form1..PopupMenu4..Legend_Show..Caption
+#. Form3..PageControl1..TabSheet3..CheckBox15..Caption
+msgid "Show legend"
+msgstr "Gösterim kutusunu göster"
+
+#. Form1..PopupMenu4..Legend_Show..Hint
+#. Form3..PageControl1..TabSheet3..CheckBox15..Hint
+msgid "Select to show a legend in the coordinate system."
+msgstr "Koordinat sisteminde gösterim kutusunu göstermek seçiniz."
+
+#. Form1..PopupMenu4..Legend_Font..Caption
+msgid "Font..."
+msgstr "Font.."
+
+#. Form1..PopupMenu4..Legend_Font..Hint
+msgid "Change the font of the legend."
+msgstr "Gösterim kutusunun fontunu değiştirir."
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_TopRight..Caption
+#. Form3..PageControl1..TabSheet3..RadioGroup3....Items.Strings
+msgid "Top Right"
+msgstr "Sağ üst"
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_TopRight..Hint
+msgid "Show the legend in the upper right corner."
+msgstr "Gösterim kutusunu sağ üst köşede göster."
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_BottomRight..Caption
+#. Form3..PageControl1..TabSheet3..RadioGroup3....Items.Strings
+msgid "Bottom Right"
+msgstr "Sağ alt"
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_BottomRight..Hint
+msgid "Show the legend in the bottom right corner."
+msgstr "Gösterim kutusunu sağ alt köşede göster."
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_TopLeft..Caption
+#. Form3..PageControl1..TabSheet3..RadioGroup3....Items.Strings
+msgid "Top Left"
+msgstr "Sol üst"
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_TopLeft..Hint
+msgid "Show the legend in the upper left corner."
+msgstr "Gösterim kutusunu sol üst köşede göster."
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_BottomLeft..Caption
+#. Form3..PageControl1..TabSheet3..RadioGroup3....Items.Strings
+msgid "Bottom Left"
+msgstr "Sol alt"
+
+#. Form1..PopupMenu4..Legend_Placement..Legend_BottomLeft..Hint
+msgid "Show the legend in the bottom left corner."
+msgstr "Gösterim kutusunu sol alt köşede göster."
+
+#. Form10..Button1..Caption
+#. Form15..Button1..Caption
+#. Form19..Button2..Caption
+msgid "Close"
+msgstr "Kapat"
+
+#. Form10..Button2..Caption
+msgid "Next tip"
+msgstr "Sonraki ip ucu"
+
+#. Form10..Button3..Caption
+msgid "Previous tip"
+msgstr "Bir önceki ip ucu "
+
+#. Form10..CheckBox1..Caption
+msgid "Show tips at startup"
+msgstr "Başlangıçta ip uçlarını göster"
+
+#. Form10..Panel1..Label1..Caption
+msgid "Did you know..."
+msgstr "Bunu biliyor musunuz..."
+
+#. Form11..Caption
+msgid "Insert relation"
+msgstr "İlişki ekle"
+
+#. Form11..Label1..Caption
+msgid "Relation:"
+msgstr "İlişki:"
+
+#. Form11..Label2..Caption
+msgid "Constraints:"
+msgstr "Kısıtlamalar:"
+
+#. Form11..Button1..Caption
+#. Form12..Button1..Caption
+#. Form13..Button1..Caption
+#. Form14..Button1..Caption
+#. Form16..Button1..Caption
+#. Form17..Button1..Caption
+#. Form18..Button1..Caption
+#. Form2..Button1..Caption
+#. Form21..TntButton1..Caption
+#. Form3..Button1..Caption
+#. Form4..Button1..Caption
+#. Form5..Button1..Caption
+#. Form6..Button1..Caption
+#. Form7..Button1..Caption
+#. Form8..Button1..Caption
+#. PrintFrm..Button1..Caption
+msgid "OK"
+msgstr "OK"
+
+#. Form11..Button2..Caption
+#. Form12..Button2..Caption
+#. Form13..Button2..Caption
+#. Form14..Button2..Caption
+#. Form15..ProgressForm1..ButtonCaption
+#. Form16..Button2..Caption
+#. Form17..Button2..Caption
+#. Form18..Button2..Caption
+#. Form19..ProgressForm1..ButtonCaption
+#. Form21..TntButton2..Caption
+#. Form3..Button2..Caption
+#. Form4..Button2..Caption
+#. Form5..Button2..Caption
+#. Form6..Button2..Caption
+#. Form7..Button2..Caption
+#. Form8..Button2..Caption
+#. PrintFrm..Button2..Caption
+msgid "Cancel"
+msgstr "İptal"
+
+#. Form11..GroupBox1..Caption
+#. Form12..GroupBox1..Caption
+#. Form5..GroupBox3..Caption
+#. Form7..GroupBox3..Caption
+msgid "Legend text"
+msgstr "Gösterim kutusu"
+
+#. Form11..GroupBox1..Label10..Caption
+#. Form12..GroupBox1..Label10..Caption
+#. Form14..Label3..Caption
+#. Form16..PageControl1..TabSheet2..Label12..Caption
+#. Form5..GroupBox3..Label10..Caption
+#. Form7..GroupBox3..Label10..Caption
+msgid "Description:"
+msgstr "Tanım:"
+
+#. Form11..GroupBox1..Edit3....Hint
+#. Form5..GroupBox3..Edit7....Hint
+msgid "Write a descriptive text to show in the legend and function list. If empty the formula will be used."
+msgstr "Gösterim kutusunda ve fonksiyon listesinde gösterilmek üzere tanımlayıcı bir yazı yazın. Diğer durumlarda formül gösterilir."
+
+#. Form11..GroupBox2..Caption
+#. Form16..PageControl1..TabSheet2..GroupBox3..Caption
+#. PrintFrm..GroupBox1..Button3..Caption
+msgid "Properties"
+msgstr "Özellikler"
+
+#. Form11..GroupBox2..Label7..Caption
+#. Form13..GroupBox1..Label7..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox1..Label1..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox2..Label5..Caption
+#. Form16..PageControl1..TabSheet2..GroupBox3..Label4..Caption
+msgid "Style:"
+msgstr "Stil:"
+
+#. Form11..GroupBox2..Label9..Caption
+#. Form12..GroupBox2..Label9..Caption
+#. Form13..GroupBox1..Label6..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox1..Label2..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox2..Label6..Caption
+#. Form16..PageControl1..TabSheet2..GroupBox3..Label5..Caption
+#. Form5..GroupBox4..GridPanelEx1..Label9..Caption
+#. Form7..GroupBox4..Label9..Caption
+msgid "Color:"
+msgstr "Renk:"
+
+#. Form11..GroupBox2..Label3..Caption
+#. Form12..GroupBox2..Label8..Caption
+#. Form13..GroupBox1..Label5..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox2..Label7..Caption
+#. Form5..GroupBox4..GridPanelEx1..Label8..Caption
+#. Form7..GroupBox4..Label8..Caption
+msgid "Width:"
+msgstr "Genişlik:"
+
+#. Form11..GroupBox2..ShadeSelect1....Hint
+msgid "Select the style used for drawing the inequality. Not used for equations."
+msgstr "Eşitsizliği çizmek için stili seçin.Eşitlikler için değil."
+
+#. Form11..GroupBox2..ExtColorBox1..Hint
+msgid "Select the color for drawing the relation."
+msgstr "İlişkiyi çizmek için renk seçin"
+
+#. Form11..GroupBox2..Panel1..Edit4....Hint
+msgid "Width in pixels of the equation line or the borderline of the inequality."
+msgstr "Denklem çizgisi yada eşitsizlğin sınır çizgisinin pixel genişliği."
+
+#. Form11..Edit1..Hint
+msgid "Enter the relation, for example \"x^2+y^2 = 25\" or \"y < sin(x)\""
+msgstr "İlişkiyi girin,örnek \"x^2+y^2 = 25\" , \"y < sin(x)\".."
+
+#. Form11..Edit2....Hint
+msgid "Enter constraints for the relation, for example \"x > 0 and y < 5\""
+msgstr "İlişki için kısıtlamaları girin, örnek \"x > 0 ve y < 5\""
+
+#. Form12..Caption
+msgid "Insert tangent/normal"
+msgstr "Tanjant/normal ekle"
+
+#. Form12..Edit1..Hint
+msgid "Value where the tangent/normal will interact with the function."
+msgstr "Tanjant/normal'in fonksiyonu kestiği koordinat"
+
+#. Form12..RadioGroup1..Hint
+msgid "Choose if you want a tangent or a normal."
+msgstr "Tanjant ya da normal istiyorsanız seçin "
+
+#. Form12..RadioGroup1..Caption
+msgid "Type"
+msgstr "Ceşit"
+
+#. Form12..RadioGroup1....Items.Strings
+msgid "Tangent"
+msgstr "Tanjant"
+
+#. Form12..RadioGroup1....Items.Strings
+msgid "Normal"
+msgstr "Normal"
+
+#. Form12..GroupBox1..Edit2....Hint
+#. Form7..GroupBox3..Edit3....Hint
+msgid "Write a descriptive text to show in the legend. If empty the equation will be used."
+msgstr "Gösterim kutusunda gösterilmek üzere tanımlayıcı bir yazı yazın.Diğer durumlarda formül gösterilir."
+
+#. Form12..GroupBox2..Caption
+#. Form5..GroupBox4..Caption
+#. Form7..GroupBox4..Caption
+msgid "Graph properties"
+msgstr "Grafik özellikleri"
+
+#. Form12..GroupBox2..Label7..Caption
+#. Form5..GroupBox4..GridPanelEx1..Label7..Caption
+#. Form7..GroupBox4..Label7..Caption
+msgid "Line style:"
+msgstr "Çizgi stili:"
+
+#. Form12..GroupBox2..Edit3..Hint
+#. Form13..GroupBox1..Edit2..Hint
+#. Form5..GroupBox4..GridPanelEx1..Panel1..Edit6..Hint
+#. Form7..GroupBox4..Edit4..Hint
+msgid "Width of graph in pixels."
+msgstr "Grafiğin pixel genişliği"
+
+#. Form12..GroupBox2..LineSelect1..Hint
+#. Form13..GroupBox1..LineSelect1..Hint
+#. Form5..GroupBox4..GridPanelEx1..LineSelect1..Hint
+#. Form7..GroupBox4..LineSelect1..Hint
+msgid "Choose which line style to use for drawing the graph."
+msgstr "Grafiği çizdirmek için kullanılacak çizgi stilini seçin."
+
+#. Form12..GroupBox2..ExtColorBox1..Hint
+#. Form13..GroupBox1..ExtColorBox1..Hint
+#. Form5..GroupBox4..GridPanelEx1..ExtColorBox1..Hint
+#. Form7..GroupBox4..ExtColorBox1..Hint
+msgid "Select the color of the graph."
+msgstr "Grafiğin rengini seçin"
+
+#. Form12..GroupBox3..Caption
+#. Form5..GroupBox2..Caption
+#. Form7..GroupBox2..Caption
+msgid "Argument range"
+msgstr "Argument range"
+
+#. Form12..GroupBox3..Label4..Caption
+#. Form15..Label1..Caption
+#. Form16..PageControl1..TabSheet2..GroupBox1..Label6..Caption
+#. Form16..PageControl1..TabSheet3..GroupBox2..Label8..Caption
+#. Form19..TntGroupBox1..Label2..Caption
+#. Form5..GroupBox2..Label4..Caption
+#. Form7..GroupBox2..Label4..Caption
+#. AreaFrame..GridPanel1..Label1..Caption
+msgid "From:"
+msgstr "Başlangıç:"
+
+#. Form12..GroupBox3..Label5..Caption
+#. Form15..Label2..Caption
+#. Form16..PageControl1..TabSheet2..GroupBox1..Label7..Caption
+#. Form16..PageControl1..TabSheet3..GroupBox2..Label9..Caption
+#. Form19..TntGroupBox1..Label3..Caption
+#. Form5..GroupBox2..Label5..Caption
+#. Form7..GroupBox2..Label5..Caption
+#. AreaFrame..GridPanel1..Label2..Caption
+msgid "To:"
+msgstr "Bitiş:"
+
+#. Form12..GroupBox3..Edit4..Hint
+#. Form5..GroupBox2..Edit3..Hint
+#. Form7..GroupBox2..Edit1..Hint
+msgid "Start of range interval for the used variable."
+msgstr "Değişkenin değişim aralığının başlangıcı"
+
+#. Form12..GroupBox3..Edit5..Hint
+#. Form5..GroupBox2..Edit4..Hint
+#. Form7..GroupBox2..Edit2..Hint
+msgid "End of range interval for the used variable."
+msgstr "Değişkenin değişim aralığının sonu."
+
+#. Form12..GroupBox5..Caption
+#. Form5..GroupBox5..Caption
+msgid "Endpoints"
+msgstr "Bitim noktaları"
+
+#. Form12..GroupBox5..Label11..Caption
+#. Form5..GroupBox5..Label11..Caption
+msgid "Start:"
+msgstr "Başlangıç:"
+
+#. Form12..GroupBox5..Label12..Caption
+#. Form5..GroupBox5..Label12..Caption
+msgid "End:"
+msgstr "Son:"
+
+#. Form12..GroupBox5..ComboBox1....Hint
+#. Form5..GroupBox5..ComboBox2....Hint
+msgid "Select marker to show at the start of the interval. Only used if an argument range is specified."
+msgstr "Aralığın başlangıcındaki noktanın görünümünü seçer. Sadece değişim aralığı belirlenmiş ise.  "
+
+#. Form12..GroupBox5..ComboBox2....Hint
+#. Form5..GroupBox5..ComboBox3....Hint
+msgid "Select marker to show at the end of the interval. Only used if an argument range is specified."
+msgstr "Aralığın sonundaki noktanın görünümünü seçer. Sadece değişim aralığı belirlenmiş ise.  "
+
+#. Form13..Caption
+msgid "Insert trendline"
+msgstr "Noktalara uygun eğriyi çiz"
+
+#. Form13..GroupBox1..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox2..Caption
+msgid "Line"
+msgstr "Çizgi"
+
+#. Form13..PageControl1..TabSheet1..Caption
+msgid "Built-in"
+msgstr "Önceden tanımlı"
+
+#. Form13..PageControl1..TabSheet1..Panel1..Image1..Hint
+msgid "Create a linear function: f(x)=ax+b"
+msgstr "Doğrusal fonksiyon ekle: f(x)=ax+b"
+
+#. Form13..PageControl1..TabSheet1..Panel2..Image2..Hint
+msgid "Create a logarithmic function: f(x)=a*ln(x)+b"
+msgstr "Logaritmik fonksiyon ekle: f(x)=a*ln(x)+b"
+
+#. Form13..PageControl1..TabSheet1..Panel3..Image3..Hint
+msgid "Create a polynomial function: f(x)=ax^3+bx^2+cx+d"
+msgstr "Polinom ekle: f(x)=ax^3+bx^2+cx+d"
+
+#. Form13..PageControl1..TabSheet1..Panel4..Image4..Hint
+msgid "Create a power function: f(x)=ax^b"
+msgstr "Üssel foksiyon ekle: f(x)=ax^b"
+
+#. Form13..PageControl1..TabSheet1..Panel5..Image5..Hint
+msgid "Create a exponential function: f(x)=a*b^x"
+msgstr "Exponansiyel fonksiyon ekle: f(x)=a*ln(x)+b"
+
+#. Form13..PageControl1..TabSheet1..StaticText1..Caption
+msgid "Order:"
+msgstr "Derece:"
+
+#. Form13..PageControl1..TabSheet1..RadioButton3..Caption
+msgid "Polynomial"
+msgstr "Polinom:"
+
+#. Form13..PageControl1..TabSheet1..RadioButton2..Caption
+msgid "Logarithmic"
+msgstr "Logaritmik"
+
+#. Form13..PageControl1..TabSheet1..RadioButton1..Caption
+#. Form14..PageControl1..TabSheet1..GroupBox2..ComboBox2....Items.Strings
+msgid "Linear"
+msgstr "Doğrusal"
+
+#. Form13..PageControl1..TabSheet1..RadioButton4..Caption
+msgid "Power"
+msgstr "Üs"
+
+#. Form13..PageControl1..TabSheet1..RadioButton5..Caption
+msgid "Exponential"
+msgstr "Exponansiyel"
+
+#. Form13..PageControl1..TabSheet1..Panel6..Image6..Hint
+msgid "Create a moving average as a series of straight lines."
+msgstr "Hareketli ortalama oluşturur."
+
+#. Form13..PageControl1..TabSheet1..RadioButton6..Caption
+msgid "Moving average"
+msgstr "Haraketli ortalama"
+
+#. Form13..PageControl1..TabSheet1..StaticText2..Caption
+msgid "Period:"
+msgstr "Periyot:"
+
+#. Form13..PageControl1..TabSheet1..Edit4..Hint
+msgid "Determines how many points are used for the average."
+msgstr "Ortalama için kaç noktanın kullanılacağını belirleyin."
+
+#. Form13..PageControl1..TabSheet1..Edit1..Hint
+msgid "The order of the polynomium. For example 2 means a parable."
+msgstr "Polinomun derecesi."
+
+#. Form13..PageControl1..TabSheet2..Caption
+msgid "User defined"
+msgstr "Kullanıcı tanımlı"
+
+#. Form13..PageControl1..TabSheet2..Label1..Caption
+msgid "Model:"
+msgstr "Model:"
+
+#. Form13..PageControl1..TabSheet2..Button4..Caption
+#. Form8..Caption
+msgid "Add model"
+msgstr "Model ekle"
+
+#. Form13..PageControl1..TabSheet2..Button5..Caption
+msgid "Remove model"
+msgstr "Modeli kaldır"
+
+#. Form13..PageControl1..TabSheet2..Button6..Caption
+msgid "Edit model"
+msgstr "Modeli düzenle"
+
+#. Form13..PageControl1..TabSheet2..Edit3..Hint
+msgid "Enter a function model to base the trendline on."
+msgstr "Eğri için kullanılmak üzere bir model seçin"
+
+#. Form13..CheckBox1....Hint
+#. Form13..Edit5....Hint
+msgid "Type a value in the Intercept box to specify the point where you want the trendline to meet the y-axis. This is only available for linear, polynomial and exponential trendlines."
+msgstr "Kesişim kutusunda uydurulan eğrinin y-eksenini keseceği noktayı belirler.Sadece lineer,polinom ve exponansiyel durumlarda geçerli."
+
+#. Form13..CheckBox1..Caption
+msgid "Intercept ="
+msgstr "Kesişim="
+
+#. Form13..TntPopupMenu1..Popup_Import..Caption
+#. Form14..PopupMenu1..Popup_Import..Caption
+#. Form17..PopupMenu1..Popup_Import..Caption
+msgid "Import from file..."
+msgstr "Dosyadan al..."
+
+#. Form13..TntPopupMenu1..Popup_Import..Hint
+msgid "Import user models from a file."
+msgstr "Dosyadan kullanıcı modeli alın."
+
+#. Form13..TntPopupMenu1..Popup_Export..Caption
+msgid "Export all to file..."
+msgstr "Hepsini dosyaya gönder."
+
+#. Form13..TntPopupMenu1..Popup_Export..Hint
+msgid "Export user models to a file."
+msgstr "Kullanıcı modellerini dosyaya gönder"
+
+#. Form13..SaveDialog1..Filter
+#. Form13..OpenDialog1..Filter
+msgid "User models [*.ini]|*.ini"
+msgstr "Kullanıcı modelleri [*.ini]|*.ini"
+
+#. Form14..Caption
+msgid "Insert point series"
+msgstr "Nokta serisi ekle"
+
+#. Form14..Edit1....Hint
+msgid "The name of the point series, which is shown in the list to the left of the coordinate system."
+msgstr "Koordinat sisteminin solundaki listedeki nokta serisinin adı."
+
+#. Form14..Edit1..Text
+msgid "Series"
+msgstr "Seriler"
+
+#. Form14..GroupBox4....Hint
+msgid "This shows a sample of the markers and the lines between the markers."
+msgstr "Noktaların ve çizgilerin görünümü"
+
+#. Form14..GroupBox4..Caption
+msgid "Sample"
+msgstr "Örnek"
+
+#. Form14..PageControl1..TabSheet1..Caption
+msgid "Markers"
+msgstr "Noktalar"
+
+#. Form14..PageControl1..TabSheet1..GroupBox1..Caption
+msgid "Marker"
+msgstr "Nokta"
+
+#. Form14..PageControl1..TabSheet1..GroupBox1..Label4..Caption
+msgid "Size:"
+msgstr "Ölçü:"
+
+#. Form14..PageControl1..TabSheet1..GroupBox1..Edit2..Hint
+msgid "Choose the size of the markers."
+msgstr "Noktaların boyutunu seçin"
+
+#. Form14..PageControl1..TabSheet1..GroupBox1..PointSelect1..Hint
+msgid "Choose the type of markers to be shown at each point."
+msgstr "Noktaların başlangıç ve bitiş noktalarındaki görünümünü seçin"
+
+#. Form14..PageControl1..TabSheet1..GroupBox1..ExtColorBox1..Hint
+msgid "Choose the color of the markers."
+msgstr "Noktaların rengini seçin"
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..Label11..Caption
+msgid "Interpolation:"
+msgstr "İnterpolasyon"
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..LineSelect1....Hint
+msgid "Choose the style of lines to be drawn between the points. You may also choose not to draw any lines."
+msgstr "Noktaları birleştirecek çizgilerin stilini seçin. "
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..Edit3..Hint
+msgid "Choose the width of the lines in pixels."
+msgstr "Çizgilerin pixel genişliği:"
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..ComboBox2..Hint
+msgid "Select which kind of line to draw between the markers."
+msgstr "Noktalar arasındaki çizginin tipini seçin."
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..ComboBox2....Items.Strings
+msgid "1D cubic spline"
+msgstr "1D Cubic splines"
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..ComboBox2....Items.Strings
+msgid "2D cubic spline"
+msgstr "2D Cubic splines"
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..ComboBox2....Items.Strings
+msgid "Half cosine"
+msgstr "Half cosine"
+
+#. Form14..PageControl1..TabSheet1..GroupBox2..ExtColorBox2..Hint
+msgid "Choose the color of the lines."
+msgstr "Doğruların rengini seçin"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..Caption
+msgid "Labels"
+msgstr "Etiketler"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..Label8..Caption
+msgid "Position:"
+msgstr "Konum:"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..CheckBox2..Hint
+msgid "Check to show the coordinate at each point."
+msgstr "Her noktada koordinatın gözükmesi için işaretleyin "
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..CheckBox2..Caption
+msgid "Show coordinates"
+msgstr "Koordinatları göster"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..BitBtn1..Hint
+msgid "Select the font for the coordinates."
+msgstr "Koordinatlar için font seçimi."
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1..Hint
+msgid "Select where the coordinates should be shown."
+msgstr "Koordinatların gösterileceği yeri seçin."
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+msgid "Above"
+msgstr "Yukarı"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+msgid "Below"
+msgstr "Aşağı"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+msgid "Left"
+msgstr "Sol"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+msgid "Right"
+msgstr "Sağ"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+msgid "Above Left"
+msgstr "Yukari sol"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+msgid "Above Right"
+msgstr "Asagi sağ"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+msgid "Below Left"
+msgstr "Alt üst"
+
+#. Form14..PageControl1..TabSheet1..GroupBox3..ComboBox1....Items.Strings
+msgid "Below Right"
+msgstr "Alt üst"
+
+#. Form14..PageControl1..TabSheet1..RadioGroup1....Hint
+msgid "Choose between cartesian (x,y) coordinates and polar (θ,r) coordinates."
+msgstr "Kartezyen koordinatlar(x,y)  ya da  polar koordinatlar(θ,r) arasinda secim yapar."
+
+#. Form14..PageControl1..TabSheet1..RadioGroup1..Caption
+msgid "Coordinate type"
+msgstr "Koordinat tipi"
+
+#. Form14..PageControl1..TabSheet1..RadioGroup1....Items.Strings
+msgid "Cartesian"
+msgstr "Kartezyen"
+
+#. Form14..PageControl1..TabSheet1..RadioGroup1....Items.Strings
+#. Form4..GridPanelEx1..RadioGroup1....Items.Strings
+msgid "Polar"
+msgstr "Polar"
+
+#. Form14..PageControl1..TabSheet2..Caption
+msgid "Error bars"
+msgstr "Hata çubukları"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..Caption
+msgid "X error amount"
+msgstr "X hata miktari"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..CheckBox3..Hint
+msgid "Show horizontal error bars."
+msgstr "Yatay hata çubuklarını göster."
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..CheckBox3..Caption
+msgid "Show x-bars"
+msgstr "x-barı göster"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..RadioButton1..Hint
+#. Form14..PageControl1..TabSheet2..GroupBox6..RadioButton4..Hint
+msgid "All error bars are the same size."
+msgstr "Bütün hata çubukları aynı boyutta olsun."
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..RadioButton1..Caption
+#. Form14..PageControl1..TabSheet2..GroupBox6..RadioButton4..Caption
+msgid "Fixed:"
+msgstr "Sabit:"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..Edit4..Hint
+#. Form14..PageControl1..TabSheet2..GroupBox6..Edit6..Hint
+msgid "Enter fixed value."
+msgstr "Sabit bir değer girin"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..RadioButton2..Hint
+msgid "All error bars are the same percentage of the x-coordinate."
+msgstr "Bütün hata çubukları x-koordinatının belli bir yüzdesidir."
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..RadioButton2..Caption
+#. Form14..PageControl1..TabSheet2..GroupBox6..RadioButton5..Caption
+msgid "Relative:"
+msgstr "İlişki:"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..RadioButton3..Hint
+#. Form14..PageControl1..TabSheet2..GroupBox6..RadioButton6..Hint
+msgid "Each error bar is given a custom value."
+msgstr "Bütün hata çubukları sabit bir değer  alır"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..RadioButton3..Caption
+#. Form14..PageControl1..TabSheet2..GroupBox6..RadioButton6..Caption
+msgid "Custom"
+msgstr "Özel"
+
+#. Form14..PageControl1..TabSheet2..GroupBox5..Edit5..Hint
+#. Form14..PageControl1..TabSheet2..GroupBox6..Edit7..Hint
+msgid "Enter relative value in percent."
+msgstr "Yüzde oranını girin"
+
+#. Form14..PageControl1..TabSheet2..GroupBox6..Caption
+msgid "Y error amount"
+msgstr "Y hata miktari"
+
+#. Form14..PageControl1..TabSheet2..GroupBox6..CheckBox4..Hint
+msgid "Show vertical error bars."
+msgstr "Dikey hata çubuklarını göster."
+
+#. Form14..PageControl1..TabSheet2..GroupBox6..CheckBox4..Caption
+msgid "Show y-bars"
+msgstr "y-barını göster"
+
+#. Form14..PageControl1..TabSheet2..GroupBox6..RadioButton5..Hint
+msgid "All error bars are the same percentage of the y-coordinate."
+msgstr "Bütün hata çubukları y-koordinatının belli bir yüzde değerii alır."
+
+#. Form14..PopupMenu1..Popup_Cut..Hint
+#. Form17..PopupMenu1..Popup_Cut..Hint
+#. Form6..PopupMenu1..Popup_Cut..Hint
+msgid "Cut the selected text to the clipboard."
+msgstr "Seçili texti panoya yapıştır."
+
+#. Form14..PopupMenu1..Popup_Copy..Hint
+#. Form17..PopupMenu1..Popup_Copy..Hint
+#. Form6..PopupMenu1..Popup_Copy..Hint
+msgid "Copy the selected text to the clipboard."
+msgstr "Seçili texti panoya kaydet"
+
+#. Form14..PopupMenu1..Popup_Paste....Hint
+#. Form17..PopupMenu1..Popup_Paste....Hint
+msgid "Paste text from the clipboard into the grid. Other cells may be overwritten by the text from the clipboard."
+msgstr "Panodan tabloya text yapıştırır."
+
+#. Form14..PopupMenu1..Popup_Delete..Hint
+#. Form17..PopupMenu1..Popup_Delete..Hint
+msgid "Erase selected cells."
+msgstr "Seçili hücreleri sil."
+
+#. Form14..PopupMenu1..Popup_Insert..Caption
+#. Form17..PopupMenu1..Popup_Insert..Caption
+msgid "Insert row"
+msgstr "Satır ekle"
+
+#. Form14..PopupMenu1..Popup_Insert..Hint
+#. Form17..PopupMenu1..Popup_Insert..Hint
+msgid "Inserts a row in the grid moving rows below one down."
+msgstr "Tabloya yukarıdan aşağıya satır ekler."
+
+#. Form14..PopupMenu1..Popup_Remove..Caption
+#. Form17..PopupMenu1..Popup_Remove..Caption
+msgid "Remove row"
+msgstr "Satırı kaldır."
+
+#. Form14..PopupMenu1..Popup_Remove..Hint
+#. Form17..PopupMenu1..Popup_Remove..Hint
+msgid "Removes the selected rows."
+msgstr "Seçili satırları sil."
+
+#. Form14..PopupMenu1..Popup_Select..Caption
+#. Form15..PopupMenu1..Popup1_Select..Caption
+#. Form17..PopupMenu1..Popup_Select..Caption
+msgid "Select all"
+msgstr "Hepsini seç"
+
+#. Form14..PopupMenu1..Popup_Select..Hint
+#. Form15..PopupMenu1..Popup1_Select..Hint
+#. Form17..PopupMenu1..Popup_Select..Hint
+msgid "Select all cells."
+msgstr "Bütün hücreleri seç"
+
+#. Form14..PopupMenu1..Popup_Import..Hint
+#. Form17..PopupMenu1..Popup_Import..Hint
+msgid "Import data from a file and place it at the selected cell."
+msgstr "Dosyadan veri al, seçili hücreye yapıştır."
+
+#. Form14..PopupMenu1..Popup_Export..Hint
+#. Form17..PopupMenu1..Popup_Export..Hint
+msgid "Export selected data to a file."
+msgstr "Seçili veriyi dosyaya kaydet"
+
+#. Form15..Caption
+msgid "Calculate table"
+msgstr "Tabloyu hesapla"
+
+#. Form15..Edit3....Hint
+msgid "The step value. This is the difference between two adjoining values in the defined interval."
+msgstr "Adım değeri,Tanımlı aralıktaki komşu 2 nokta arasındaki fark "
+
+#. Form15..Edit1..Hint
+msgid "The first x-value in the interval."
+msgstr "Aralıktaki ilk x değeri."
+
+#. Form15..Edit2..Hint
+msgid "The last x-value in the interval."
+msgstr "Aralıktaki ilk x değeri"
+
+#. Form15..PopupMenu1..Popup1_Show1..Caption
+#. Form15..PopupMenu1..Popup1_Show2..Caption
+#. Form15..PopupMenu1..Popup1_Show3..Caption
+#. Form15..PopupMenu1..Popup1_Show4..Caption
+#. Form15..PopupMenu1..Popup1_Show5..Caption
+msgid "Show %s"
+msgstr "%s'yi göster"
+
+#. Form15..PopupMenu1..Popup1_Show1..Hint
+#. Form15..PopupMenu1..Popup1_Show2..Hint
+#. Form15..PopupMenu1..Popup1_Show3..Hint
+#. Form15..PopupMenu1..Popup1_Show4..Hint
+#. Form15..PopupMenu1..Popup1_Show5..Hint
+msgid "Show the %s column in the table."
+msgstr "Tabloda %s sütununu gösterir."
+
+#. Form15..PopupMenu1..Popup1_Copy..Hint
+msgid "Copy selected cells to the clipboard."
+msgstr "Seçili hücreleri panoya yapıştır."
+
+#. Form15..PopupMenu1..Popup1_Export..Hint
+msgid "Saves the selected data to a file."
+msgstr "Seçili veriyi dosyaya kaydet."
+
+#. Form15..ProgressForm1..Caption
+msgid "Calculating"
+msgstr "Hesaplama"
+
+#. Form15..SaveDialog1..Filter
+msgid "CSV (Comma delimited) [*.csv]|*.csv|Text [*.txt]|*.txt"
+msgstr "CSV (Comma delimited) [*.csv]|*.csv|Text [*.txt]|*.txt"
+
+#. Form16..Caption
+msgid "Insert shading"
+msgstr "Taralı alan ekler"
+
+#. Form16..PageControl1..TabSheet1..Caption
+msgid "Shading"
+msgstr "Tarali alan"
+
+#. Form16..PageControl1..TabSheet1..Panel1..Image1..Hint
+#. Form16..PageControl1..TabSheet1..RadioButton1..Hint
+msgid "Shades the area between the function and the x-axis."
+msgstr "Fonksiyon ile x-ekseni arasını tara"
+
+#. Form16..PageControl1..TabSheet1..Panel2..Image2..Hint
+#. Form16..PageControl1..TabSheet1..RadioButton2..Hint
+msgid "Shades the area below the function."
+msgstr "Fonksiyonun altındaki alanı tara"
+
+#. Form16..PageControl1..TabSheet1..Panel3..Image3..Hint
+#. Form16..PageControl1..TabSheet1..RadioButton3..Hint
+msgid "Shades the area above the function."
+msgstr "Fonksiyonun üstündeki alanı tara"
+
+#. Form16..PageControl1..TabSheet1..Panel4..Image4..Hint
+#. Form16..PageControl1..TabSheet1..RadioButton4..Hint
+msgid "Shades the area between the function and the y-axis."
+msgstr "Fonksiyon ile y-ekseni arasını tara"
+
+#. Form16..PageControl1..TabSheet1..Panel5..Image5..Hint
+#. Form16..PageControl1..TabSheet1..RadioButton5..Hint
+msgid "Shades the area inside the function."
+msgstr "Fonksiyon içindeki alanı tara"
+
+#. Form16..PageControl1..TabSheet1..Panel6..Image6....Hint
+#. Form16..PageControl1..TabSheet1..RadioButton6....Hint
+msgid "Shades the area between the main function and the function selected in the list to the right."
+msgstr "Ana fonksiyon ile fonksiyon listesindeki seçili fonksiyonun arasını tarar."
+
+#. Form16..PageControl1..TabSheet1..RadioButton3..Caption
+msgid "Above function"
+msgstr "Fonksiyonun üstünde"
+
+#. Form16..PageControl1..TabSheet1..RadioButton1..Caption
+msgid "Between function and x-axis"
+msgstr "Foksiyon ile x-ekseni arasında"
+
+#. Form16..PageControl1..TabSheet1..RadioButton6..Caption
+msgid "Between functions"
+msgstr "Fonksiyonlar arasında"
+
+#. Form16..PageControl1..TabSheet1..RadioButton4..Caption
+msgid "Between function and y-axis"
+msgstr "Foksiyon ile y-ekseni arasında"
+
+#. Form16..PageControl1..TabSheet1..RadioButton5..Caption
+msgid "Inside function"
+msgstr "Fonksiyonun içinde"
+
+#. Form16..PageControl1..TabSheet1..RadioButton2..Caption
+msgid "Below function"
+msgstr "Fonksiyonun altında"
+
+#. Form16..PageControl1..TabSheet2..Caption
+#. Form20..Panel2..ToolBar1..ToolButton6..Hint
+#. Form4..Caption
+msgid "Options"
+msgstr "Özellikler"
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..Caption
+#. Form19..TntGroupBox1..Caption
+msgid "Range"
+msgstr "Değişim"
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..Edit1..Hint
+#. Form16..PageControl1..TabSheet3..GroupBox2..Edit3..Hint
+msgid "Coordinate where the shading starts."
+msgstr "Taramanın başladığı koordinat"
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..Edit2..Hint
+#. Form16..PageControl1..TabSheet3..GroupBox2..Edit4..Hint
+msgid "Coordinate where the shading ends."
+msgstr "Taramanın bittiği koordinat"
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..CheckBox2..Hint
+#. Form16..PageControl1..TabSheet3..GroupBox2..CheckBox4..Hint
+msgid "Check to increase the end coordinate until intersection."
+msgstr "Bitiş koordinatını kesişim noktası ile aynı yapmak için tıklayın."
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..CheckBox2..Caption
+#. Form16..PageControl1..TabSheet3..GroupBox2..CheckBox4..Caption
+msgid "Increase to intersection"
+msgstr "Taralı alan için kullanılacak stili seçin"
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..CheckBox1..Hint
+#. Form16..PageControl1..TabSheet3..GroupBox2..CheckBox3..Hint
+msgid "Check to decrease the start coordinate until intersection."
+msgstr "Başlangıç koordinatını kesişim noktası ile aynı yapmak için tıklayın"
+
+#. Form16..PageControl1..TabSheet2..GroupBox1..CheckBox1..Caption
+#. Form16..PageControl1..TabSheet3..GroupBox2..CheckBox3..Caption
+msgid "Decrease to intersection"
+msgstr "Kesişime kadar düşür"
+
+#. Form16..PageControl1..TabSheet2..GroupBox3..ShadeSelect1..Hint
+msgid "Select the style used for the shading."
+msgstr "Taralı alan için stili seçin"
+
+#. Form16..PageControl1..TabSheet2..GroupBox3..ExtColorBox1..Hint
+msgid "Select color used for shading."
+msgstr "Taralı alan için renk seçimi"
+
+#. Form16..PageControl1..TabSheet2..GroupBox3..CheckBox5..Hint
+msgid "Mark the border around the shading."
+msgstr "Taralı alanın sinirlarini çizgi ile işaretle"
+
+#. Form16..PageControl1..TabSheet2..GroupBox3..CheckBox5..Caption
+msgid "Mark border"
+msgstr "Sinirlari isaretle."
+
+#. Form16..PageControl1..TabSheet2..Edit5..Hint
+msgid "Enter a description to show in the legend."
+msgstr "Gösterim kutusunda gösterilmek üzere bir tanım girin."
+
+#. Form16..PageControl1..TabSheet3..Caption
+msgid "2nd function"
+msgstr "ikinci fonksiyon"
+
+#. Form16..PageControl1..TabSheet3..Label11..Caption
+msgid "2nd function:"
+msgstr "ikinci fonksiyon:"
+
+#. Form16..PageControl1..TabSheet3..ListBox1....Hint
+msgid "Select the second function when you want a shading between two functions."
+msgstr "İki fonksiyonun arasını taramak istediğinizde ikinci fonksiyonu seçin"
+
+#. Form16..PageControl1..TabSheet3..GroupBox2..Caption
+msgid "Shading range for 2nd function"
+msgstr "2.fonksiyon için taralı alanın değişim aralığı"
+
+#. Form17..Caption
+msgid "Custom functions/constants"
+msgstr "Özel fonksiyonlar/sabitler"
+
+#. Form17..Button3..Caption
+msgid "Apply"
+msgstr "Uygula"
+
+#. Form17..Grid1....TitleCaptions.Strings
+msgid "Names"
+msgstr "İsimler"
+
+#. Form17..Grid1....TitleCaptions.Strings
+msgid "Definition"
+msgstr "Tanım"
+
+#. Form18..Caption
+msgid "Image options"
+msgstr "Resim özellikleri"
+
+#. Form18..PageControl1..TabSheet1..Caption
+msgid "Size"
+msgstr "Boyut"
+
+#. Form18..PageControl1..TabSheet1..Label1..Caption
+msgid "Image width:"
+msgstr "Resim genişliği:"
+
+#. Form18..PageControl1..TabSheet1..Label2..Caption
+msgid "Image height:"
+msgstr "Resim yüksekliği:"
+
+#. Form18..PageControl1..TabSheet1..Edit1..Hint
+msgid "Set a custom image width in pixels."
+msgstr "Resmin pixel genişliğini ayarlayın."
+
+#. Form18..PageControl1..TabSheet1..Edit2..Hint
+msgid "Set a custom image height in pixels."
+msgstr "Resmin pixel yüksekliğini ayarlayın."
+
+#. Form18..PageControl1..TabSheet1..RadioGroup3....Hint
+msgid "Choose to use the same size as shown on the screen or a custom image size."
+msgstr "Özel resim boyutu yada ekranda görülan boyutun hangisinin kullanılacağını seçin."
+
+#. Form18..PageControl1..TabSheet1..RadioGroup3..Caption
+msgid "Image size"
+msgstr "Resim boyutu"
+
+#. Form18..PageControl1..TabSheet1..RadioGroup3....Items.Strings
+msgid "Screen size"
+msgstr "Ekran boyutu"
+
+#. Form18..PageControl1..TabSheet1..RadioGroup3....Items.Strings
+msgid "Custom size"
+msgstr "Özel boyut"
+
+#. Form18..PageControl1..TabSheet2..RadioGroup1....Hint
+msgid "Progressive encoding allows viewers to see a rough copy of the image while it is downloaded."
+msgstr "ilerleyen kodlama kullanıcıya resim yüklenirken kaba bir kopyasını görmeyi sağlar."
+
+#. Form18..PageControl1..TabSheet2..RadioGroup1..Caption
+msgid "Encoding"
+msgstr "Encoding"
+
+#. Form18..PageControl1..TabSheet2..RadioGroup1....Items.Strings
+msgid "Sequential"
+msgstr "Sequential"
+
+#. Form18..PageControl1..TabSheet2..RadioGroup1....Items.Strings
+msgid "Progressive"
+msgstr "Progressive"
+
+#. Form18..PageControl1..TabSheet2..GroupBox1..Hint
+msgid "Select a compression quality."
+msgstr "Sıkıştırma kalitesini seçin"
+
+#. Form18..PageControl1..TabSheet2..GroupBox1..Caption
+msgid "Quality"
+msgstr "Kalite"
+
+#. Form18..PageControl1..TabSheet3..Label3..Caption
+msgid "Paper size:"
+msgstr "Kağıt boyutu"
+
+#. Form18..PageControl1..TabSheet3..RadioGroup2..Hint
+#. PrintFrm..RadioGroup1..Hint
+msgid "Choose paper orientation."
+msgstr "Kağıt yönelimini seçin"
+
+#. Form18..PageControl1..TabSheet3..RadioGroup2..Caption
+#. PrintFrm..RadioGroup1..Caption
+msgid "Orientation"
+msgstr "Yönelim"
+
+#. Form18..PageControl1..TabSheet3..RadioGroup2....Items.Strings
+#. PrintFrm..RadioGroup1....Items.Strings
+msgid "Portrait"
+msgstr "Portre"
+
+#. Form18..PageControl1..TabSheet3..RadioGroup2....Items.Strings
+#. PrintFrm..RadioGroup1....Items.Strings
+msgid "Landscape"
+msgstr "Landscape"
+
+#. Form18..PageControl1..TabSheet3..ComboBox1..Hint
+msgid "Choose paper size to use."
+msgstr "Kağıt boyutunu seçin"
+
+#. Form18..PageControl1..TabSheet3..ComboBox1....Items.Strings
+msgid "Letter"
+msgstr "Letter"
+
+#. Form18..PageControl1..TabSheet3..ComboBox1....Items.Strings
+msgid "Ledger"
+msgstr "Ledger"
+
+#. Form18..PageControl1..TabSheet3..ComboBox1....Items.Strings
+msgid "Legal"
+msgstr "Legal"
+
+#. Form18..CheckBox1..Hint
+#. Form3..CheckBox16..Hint
+msgid "Select this to use these settings as defaults in the future."
+msgstr "Gelecekte kullanmak üzere bu özelliği default olarak ayarla."
+
+#. Form18..CheckBox1..Caption
+#. Form3..CheckBox16..Caption
+msgid "Save as default"
+msgstr "Default olarak ayarla"
+
+#. Form19..Caption
+#. Form19..Button1..Caption
+msgid "Animate"
+msgstr "Animasyon"
+
+#. Form19..Label1..Caption
+msgid "Constant:"
+msgstr "Sabit:"
+
+#. Form19..ComboBox1..Hint
+msgid "Choose a constant to change between each frame."
+msgstr "İki çerçeve araındaki değişim için bir sabit seçer."
+
+#. Form19..TntGroupBox1..Label4..Caption
+msgid "Step:"
+msgstr "Adım:"
+
+#. Form19..TntGroupBox1..Edit1..Hint
+msgid "The first value of the constant."
+msgstr "Sabitin ilk değeri"
+
+#. Form19..TntGroupBox1..Edit2..Hint
+msgid "The last value of the constant."
+msgstr "Sabitin son değeri."
+
+#. Form19..TntGroupBox1..Edit3..Hint
+msgid "The chosen constant is changed by this value between each frame."
+msgstr "Seçilen sabit her iki çerçeve arasında bu değer tarafaından değiştirliyor."
+
+#. Form19..TntGroupBox2..Caption
+msgid "Frame options"
+msgstr "Çerçeve seçenekleri"
+
+#. Form19..TntGroupBox2..Label5..Caption
+msgid "Frame width:"
+msgstr "Çerçeve genişliği:"
+
+#. Form19..TntGroupBox2..Label6..Caption
+msgid "Frame height:"
+msgstr "Çerçeve yüksekliği:"
+
+#. Form19..TntGroupBox2..Label7..Caption
+msgid "Frames/second:"
+msgstr "Çerçeve/saniye:"
+
+#. Form19..TntGroupBox2..Edit4..Hint
+msgid "Width of each frame, in pixels."
+msgstr "Çerçeve genişliği pixel cinsinden:"
+
+#. Form19..TntGroupBox2..Edit5..Hint
+msgid "Height of each frame, in pixels."
+msgstr "Çerçeve yüksekliği pixel cinsinden:"
+
+#. Form19..TntGroupBox2..Edit6..Hint
+msgid "Number of frames per second used when the animation is played."
+msgstr "Animasyon oynadığında saniyede kullanılan çerçeve sayısı"
+
+#. Form19..ProgressForm1..Caption
+msgid "Working"
+msgstr "Çalışıyor."
+
+#. Form2..Panel1..Version..Caption
+msgid "Version %s"
+msgstr "Versiyon %s"
+
+#. Form2..Panel1..Label3..Caption
+msgid "Build %s"
+msgstr "Yapım %s"
+
+#. Form2..Panel1..Comments....Caption
+msgid "This is free software, and you are welcome to redistribute it under the terms in the <a href=\"%s\">GNU General Public License</a> version 2. Please send bug reports and suggestions to the programmer."
+msgstr "Bu yazılım ücretsizdir, ve GNU lisansı altında programın geliştirilmesine katkıda bulunabilirsiniz. Lütfen bug raporlarını ve önerilerini programcıya yollayın."
+
+#. Form2..Panel1..LinkLabel1....Caption
+msgid "The newest version as well as the source code are available at: %s"
+msgstr "Yeni versiyonun kodu buradan temin edilebilir: %s"
+
+#. Form2..Panel1..LinkLabel2..Caption
+msgid "Email: %s"
+msgstr "Email: %s"
+
+#. Form2..Panel1..LinkLabel3..Caption
+msgid "<Language> translation by <Translator>"
+msgstr "Türkçeye Mümtaz Murat ARIK tarafından tercüme edilmiştir. Babamın hatırasına..."
+
+#. Form20..Caption
+msgid "Animation"
+msgstr "Animasyon"
+
+#. Form20..Panel2..ToolBar1..ToolButton1..Hint
+msgid "Play"
+msgstr "Play"
+
+#. Form20..Panel2..ToolBar1..ToolButton2..Hint
+msgid "Pause"
+msgstr "Pause"
+
+#. Form20..Panel2..ToolBar1..ToolButton3..Hint
+msgid "Stop"
+msgstr "Stop"
+
+#. Form20..Panel2..ToolBar1..ToolButton4..Hint
+msgid "Back"
+msgstr "Geri"
+
+#. Form20..Panel2..ToolBar1..ToolButton5..Hint
+msgid "Step"
+msgstr "Adım"
+
+#. Form20..SaveDialog1..Filter
+msgid "Audio Video Interleave [*.avi]|*.avi"
+msgstr "Audio Video Interleave [*.avi]|*.avi"
+
+#. Form20..PopupMenu1..Speed1..Caption
+msgid "Speed"
+msgstr "Hız"
+
+#. Form20..PopupMenu1..Speed1..N101..Hint
+#. Form20..PopupMenu1..Speed1..N501..Hint
+#. Form20..PopupMenu1..Speed1..N1001..Hint
+#. Form20..PopupMenu1..Speed1..N1501..Hint
+#. Form20..PopupMenu1..Speed1..N2001..Hint
+#. Form20..PopupMenu1..Speed1..N10001..Hint
+msgid "Change the speed used to play the animation."
+msgstr "Animasyonda kullanılan hızı değiştir."
+
+#. Form20..PopupMenu1..Repeat1..Caption
+msgid "Repeat"
+msgstr "Tekrar"
+
+#. Form20..PopupMenu1..Repeat1..Hint
+msgid "Repeat playing the animation until manually stopped."
+msgstr "Oynatmayı tekrarla elle durdurulana kadar."
+
+#. Form20..PopupMenu1..Reverse1..Caption
+msgid "Auto reverse"
+msgstr "Otomatik tekrar"
+
+#. Form20..PopupMenu1..Reverse1....Hint
+msgid "Play backwards when the end of the animation is reached. This is most useful in combination with the \"Repeat\" command."
+msgstr "Animasyonun sonuna gelindiğinde tekrar oynatır. "
+
+#. Form20..PopupMenu1..Save1..Hint
+msgid "Save the animation to a file."
+msgstr "Animasyonu dosyaya kaydet "
+
+#. Form20..PopupMenu1..Saveimageas1..Caption
+msgid "Save frame..."
+msgstr "Çerçeveyi kaydet"
+
+#. Form20..PopupMenu1..Saveimageas1..Hint
+msgid "Save the shown frame to an image file."
+msgstr "Gösterilen çerçeveyi resim dosyasına kaydet."
+
+#. Form20..PopupMenu1..Saveimagesequence1..Caption
+msgid "Save all frames..."
+msgstr "Bütün çerçeveleri  kaydet"
+
+#. Form20..PopupMenu1..Saveimagesequence1....Hint
+msgid "Save all frames in the animation to image files. This will create as many files as there are frames in the animation."
+msgstr "Animasyondaki bütün çerçeveleri resim dosyasına kaydeder."
+
+#. Form21..Label1..Caption
+msgid "Corner:"
+msgstr "Renk:"
+
+#. Form21..ComboBox1..Hint
+msgid "Choose which corner of the label should be locked."
+msgstr "Etiketin her zaman bulunacağı köşeyi seçin"
+
+#. Form21..ComboBox1....Items.Strings
+msgid "Upper Left"
+msgstr "Sol üst"
+
+#. Form21..ComboBox1....Items.Strings
+msgid "Upper Right"
+msgstr "Sağ üst"
+
+#. Form21..ComboBox1....Items.Strings
+msgid "Lower Left"
+msgstr "Sol alt"
+
+#. Form21..ComboBox1....Items.Strings
+msgid "Lower Right"
+msgstr "Sağ alt"
+
+#. Form21..Edit1..Hint
+#. Form21..Edit2..Hint
+msgid "Enter a coordinate to lock label at."
+msgstr "Etiketin bulunacağı koordinatı girin."
+
+#. Form22..Caption
+msgid "Python interpreter"
+msgstr "Python yorumlayıcı"
+
+#. Form22..PopupMenu1..Clear1..Caption
+msgid "Clear"
+msgstr "Temizle"
+
+#. Form3..Caption
+msgid "Edit axes"
+msgstr "Eksenleri düzenle:"
+
+#. Form3..PageControl1..TabSheet1..Caption
+#. ParFuncFrame..ComboBox1....Items.Strings
+#. PolFuncFrame..ComboBox1....Items.Strings
+#. StdFuncFrame..ComboBox1....Items.Strings
+msgid "x-axis"
+msgstr "x-ekseni"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Label1..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..Label5..Caption
+msgid "Minimum:"
+msgstr "Minumum:"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Edit1..Hint
+msgid "Minimum x-value."
+msgstr "Minumum x değeri."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Label2..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..Label6..Caption
+msgid "Maximum:"
+msgstr "Maximum:"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Edit2..Hint
+msgid "Maximum x-value."
+msgstr "Mximum x değeri"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Label3..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..Label7..Caption
+msgid "Tick unit:"
+msgstr "Çentik mesafesi:"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Edit3..Hint
+msgid "Units between ticks on the x-axis."
+msgstr "x-ekseni üzerindeki çentik mesafesi."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Label14..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..Label9..Caption
+msgid "Grid unit:"
+msgstr "Izgara mesafesi:"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Edit4..Hint
+msgid "Units between the grid lines perpendicular to the x-axis."
+msgstr "x-eksenine paralel ızgara çizgilerinin mesafesi."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox4..Hint
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox11..Hint
+msgid "Determine the tick unit automatically."
+msgstr "pi'nin çarpımları olarak göster."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox4..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox11..Caption
+msgid "Auto tick"
+msgstr "Otomatik çentik"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox6..Hint
+msgid "Show tick marks on the x-axis."
+msgstr "x-ekseninde çentikleri gösterir."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox6..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox13..Caption
+msgid "Show ticks"
+msgstr "Çentikleri göster"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox5..Hint
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox12..Hint
+msgid "Set the grid unit to the same as the tick unit."
+msgstr "Izgara mesafesini çentik mesafesi ile aynı yap."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox5..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox12..Caption
+msgid "Auto grid"
+msgstr "Otomatik ızgara çizgileri"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox7..Hint
+msgid "Show vertical grid lines."
+msgstr "Dikey ızgara çizgilerini göster."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox7..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox14..Caption
+msgid "Show grid"
+msgstr "Izgara çizgilerini göster"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Panel1..CheckBox3....Hint
+msgid "Show the label at the right side of the graphing area, above the x-axis."
+msgstr "Etiketi ana pencerenin sağında, x-ekseninin üzerinde göster."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Panel1..CheckBox3..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..Panel3..CheckBox10..Caption
+msgid "Label:"
+msgstr "Etiket:"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Panel1..Edit5..Hint
+#. Form3..PageControl1..TabSheet2..GridPanel2..Panel3..Edit11..Hint
+msgid "Edit the label for the axis here."
+msgstr "Eksenler için etiketi buradan düzenleyin."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Panel2..Label4..Caption
+msgid "The x-axis cross at y="
+msgstr "x-ekseninin y eksenini kestiği y="
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..Panel2..Edit6..Hint
+msgid "The x-axis will intersect with the y-axis at this value."
+msgstr "x-ekseni y-ekseni ile bu değerde kesişiyor."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox1..Hint
+msgid "Use logarithmic scale on the x-axis."
+msgstr "x-ekseni üzerinde logaritmik ölçek kullan."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox1..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox8..Caption
+msgid "Logarithmic scale"
+msgstr "Logaritmik ölçek"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox2..Hint
+msgid "Show units on the x-axis."
+msgstr "Birimleri x-ekseni üzerinde göster. "
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox2..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox9..Caption
+msgid "Show numbers"
+msgstr "Sayıları göster"
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox17..Hint
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox18..Hint
+msgid "Show units on the selected axis as a fraction multiplied by pi."
+msgstr "Seçili eksen üzerinde çentikleri pi'nin kesirleri şeklinde gösterir."
+
+#. Form3..PageControl1..TabSheet1..GridPanel1..CheckBox17..Caption
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox18..Caption
+msgid "Show as a multiple of π"
+msgstr "Pi'nin katları şeklinde göster."
+
+#. Form3..PageControl1..TabSheet2..Caption
+#. ParFuncFrame..ComboBox1....Items.Strings
+#. PolFuncFrame..ComboBox1....Items.Strings
+msgid "y-axis"
+msgstr "y-ekseni"
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Edit7..Hint
+msgid "Minimum y-value."
+msgstr "Minumum y değeri"
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Edit8..Hint
+msgid "Maximum y-value."
+msgstr "Maksimum y değeri"
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Edit9..Hint
+msgid "Units between ticks on the y-axis."
+msgstr "y-ekseni üzerindeki çentik mesafesi."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Edit10..Hint
+msgid "Units between the grid lines perpendicular to the y-axis."
+msgstr "y-eksenine paralel ızgra çizgilerinin mesafesi."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox13..Hint
+msgid "Show tick marks on the y-axis."
+msgstr "y-ekseninde çentikleri gösterir. "
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox14..Hint
+msgid "Show horizontal grid lines."
+msgstr "Yatay ızgara çizgilerini göster."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Panel3..CheckBox10....Hint
+msgid "Show the label at the top of the graphing area, to the right of the y-axis."
+msgstr "Etiketi ana pencerenin üstünde y-ekseninin sağında gösterir."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Panel4..Label8..Caption
+msgid "The y-axis cross at x="
+msgstr "y-ekseninin x-eksenini kestiği yer y="
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..Panel4..Edit12..Hint
+msgid "The y-axis will intersect with the x-axis at this value."
+msgstr "y-ekseni x-eksenini bu noktada kesiyor"
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox8..Hint
+msgid "Use logarithmic scale for the y-axis."
+msgstr "y-ekseni için logaritmik ölçek kullan."
+
+#. Form3..PageControl1..TabSheet2..GridPanel2..CheckBox9..Hint
+msgid "Show units on the y-axis."
+msgstr "y-ekseni üzerinde birimleri göster."
+
+#. Form3..PageControl1..TabSheet3..Caption
+msgid "Settings"
+msgstr "Ayarlar"
+
+#. Form3..PageControl1..TabSheet3..Label16..Caption
+msgid "Title:"
+msgstr "Başlık:"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup1....Hint
+msgid "Choose if you want to show the axes, and if you want to show them crossed or at the left and bottom of the image."
+msgstr "Eksenleri göstermek istiyorsanız işaretleyin."
+
+#. Form3..PageControl1..TabSheet3..RadioGroup1..Caption
+msgid "Axes style"
+msgstr "Eksen stili"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup1....Items.Strings
+msgid "None"
+msgstr "Hiçbiri"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup1....Items.Strings
+msgid "Crossed"
+msgstr "Bütün eksenler"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup1....Items.Strings
+msgid "Boxed"
+msgstr "Pozitif eksenler"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup2....Hint
+msgid "Choose if trigonometric functions should calculate in radians or degrees."
+msgstr "Trigonometrik fonksiyonların radyan yada derece cinsinden olduğunu belirleyin."
+
+#. Form3..PageControl1..TabSheet3..RadioGroup2..Caption
+msgid "Trigonometry"
+msgstr "Trigonometri"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup2....Items.Strings
+msgid "Radian"
+msgstr "Radyan"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup2....Items.Strings
+msgid "Degree"
+msgstr "Derece"
+
+#. Form3..PageControl1..TabSheet3..Edit13..Hint
+msgid "Enter a title to show above the coordinate system."
+msgstr "Koordinat sisteminin üstinde görülecek başlığı girin."
+
+#. Form3..PageControl1..TabSheet3..BitBtn1..Hint
+msgid "Select the font for the title."
+msgstr "Başlık için fontu göster. "
+
+#. Form3..PageControl1..TabSheet3..RadioGroup3..Hint
+msgid "Choose where the legend should be placed."
+msgstr "Gösterim kutusunun konumunu seçin"
+
+#. Form3..PageControl1..TabSheet3..RadioGroup3..Caption
+msgid "Legend placement"
+msgstr "Gösterim kutusunun yeri"
+
+#. Form3..PageControl1..TabSheet3..CheckBox19....Hint
+msgid "Check this to use complex numbers for calculations. Notice that this will slow graphing down."
+msgstr "Hesaplamada komplek sayıları kullanmak için işaretleyin. Ama bu grafik yazma hızını düşürür. "
+
+#. Form3..PageControl1..TabSheet3..CheckBox19..Caption
+msgid "Calculate with complex numbers"
+msgstr "Komplex sayıları hesapla"
+
+#. Form3..PageControl1..TabSheet4..Caption
+msgid "Font and color"
+msgstr "Font ve renkler"
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..Caption
+msgid "Colors"
+msgstr "Renkler"
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..Label17..Caption
+msgid "Grid color:"
+msgstr "Izgara rengi"
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..Label18..Caption
+msgid "Axes color:"
+msgstr "Eksen renkleri:"
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..Label19..Caption
+#. Form6..Label4..Caption
+msgid "Background color:"
+msgstr "Arkaplan rengi:"
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..ExtColorBox1..Hint
+msgid "Select the color of the image background."
+msgstr "Resim arkaplanı rengini seçin"
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..ExtColorBox2..Hint
+msgid "Select the color of the axes."
+msgstr "Eksenlerin rengini seçin"
+
+#. Form3..PageControl1..TabSheet4..GroupBox3..ExtColorBox3..Hint
+msgid "Select the color of the grid lines."
+msgstr "Izgara çizgilerinin rengini seçin."
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..Caption
+msgid "Fonts"
+msgstr "Fontlar"
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..Label20..Caption
+msgid "Number font:"
+msgstr "Sayı fontu"
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..Label21..Caption
+msgid "Label font:"
+msgstr "Etiket fontu"
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..Label10..Caption
+msgid "Legend font:"
+msgstr "Gösterim kutusunun fontu:"
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..BitBtn2..Hint
+msgid "Select the font used to show the labels on the axes."
+msgstr "Eksenler üzerinde kullanılan etiket için font seçin."
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..BitBtn3..Hint
+msgid "Select the font used to show the numbers on the axes."
+msgstr "Eksenler üzerinde kullanılan numaralar için font seçin."
+
+#. Form3..PageControl1..TabSheet4..GroupBox4..BitBtn4..Hint
+msgid "Select the font used to show the legend text."
+msgstr "Gösterim kutusu textin fontunu seçin."
+
+#. Form4..GridPanelEx1..Label1..Caption
+msgid "Decimals:"
+msgstr "Ondalık:"
+
+#. Form4..GridPanelEx1..Panel1..Edit1..Hint
+msgid "Number of decimals used when results are shown."
+msgstr "Gösterilen sonuçlardaki ondalık sayısı"
+
+#. Form4..GridPanelEx1..RadioGroup1..Hint
+msgid "Format used when complex numbers are shown."
+msgstr "Komplex sayılar hesaplanırken kullanılan format."
+
+#. Form4..GridPanelEx1..RadioGroup1..Caption
+msgid "Complex form"
+msgstr "Komplex form"
+
+#. Form4..GridPanelEx1..RadioGroup1....Items.Strings
+msgid "Real"
+msgstr "Real"
+
+#. Form4..GridPanelEx1..RadioGroup1....Items.Strings
+msgid "Rectangular"
+msgstr "Kare"
+
+#. Form4..GridPanelEx1..Label2..Caption
+msgid "Recent files:"
+msgstr "Geçerli dosyalar"
+
+#. Form4..GridPanelEx1..Panel2..Edit2..Hint
+msgid "The number of most recent used files shown in the File menu."
+msgstr "Dosya menüsündeki en son sık kullanılan dosyaların sayısı "
+
+#. Form4..GridPanelEx1..Label3..Caption
+msgid "Max undo steps:"
+msgstr "Maximum  gerialma sayısı:"
+
+#. Form4..GridPanelEx1..Panel3..Edit3....Hint
+msgid "Maximum number of undo steps saved. Set this to 0 to prevent undo."
+msgstr "Maximum geri adım adımları kaydedildi.Geri almayı korumak için 0'ı ayarlayın."
+
+#. Form4..GridPanelEx1..Label5..Caption
+msgid "Font scale:"
+msgstr "Font ölçeği"
+
+#. Form4..GridPanelEx1..ComboBox1....Hint
+msgid "This is used to scale the user interface if you are having problems reading the text."
+msgstr "Texti okurken problemler yaşıyorsanız buradan kullanıcı arayüzünün ölçeğini değiştirebirsiniz."
+
+#. Form4..GridPanelEx1..Label4..Caption
+msgid "Language:"
+msgstr "Dil:"
+
+#. Form4..GridPanelEx1..ComboBox2..Hint
+msgid "Select the language to use for the user interface."
+msgstr "Kullanıcı arabirimi için dil seçin"
+
+#. Form4..GridPanelEx1..CheckBox2..Hint
+msgid "Show the tooltip when the cursor is over an item."
+msgstr "İmleç nesne üzerine geldiğinde nesne tanımlama kutusunu gösterir. "
+
+#. Form4..GridPanelEx1..CheckBox2..Caption
+msgid "Show tooltip"
+msgstr "Nesne tanımlamayı göster"
+
+#. Form4..GridPanelEx1..CheckBox3....Hint
+msgid "Save the size of the main window when the program exits. This is used the next time Graph is run."
+msgstr "Programdan çıkınca ana pencerenin boyutunu kaydedin. Graph programı bir sonraki açılışında bu ayarları kullanır. "
+
+#. Form4..GridPanelEx1..CheckBox3..Caption
+msgid "Save workspace on exit"
+msgstr "Çıkışta calışma alanını kaydet."
+
+#. Form4..GridPanelEx1..CheckBox4....Hint
+msgid "If checked the program will contact a web server when the program is started to see if a newer version is available."
+msgstr "Sadece pozitif sayılar için hesaplanabilir."
+
+#. Form4..GridPanelEx1..CheckBox4..Caption
+msgid "Check for new version of Graph at startup"
+msgstr "Graph başladığında yeni versiyonu kontrol et."
+
+#. Form4..GridPanelEx1..CheckBox5....Hint
+msgid "Use a custom decimal separator instead of the default from the Windows Regional settings."
+msgstr "Ozel secilmis ondalık basamak ayracı kullanilir."
+
+#. Form4..GridPanelEx1..CheckBox5..Caption
+msgid "Custom decimal separator:"
+msgstr "Ondalık basamak ayracı:"
+
+#. Form4..GridPanelEx1..Edit4..Hint
+msgid "Decimal separator used when exporting to other programs."
+msgstr "Diger programlara veri aktarirken ondaılik basamak ayracı kullanir."
+
+#. Form5..Caption
+msgid "Insert function"
+msgstr "Fonksiyon ekle"
+
+#. Form5..Label1..Caption
+msgid "Function type:"
+msgstr "Fonksiyon tipi:"
+
+#. Form5..ComboBox1..Hint
+msgid "Select the function type to graph."
+msgstr "Grafik için fonksiyon tipini seçin"
+
+#. Form5..ComboBox1....Items.Strings
+msgid "Standard function   y=f(x)"
+msgstr "Standart fonksiyon y=f(x)"
+
+#. Form5..ComboBox1....Items.Strings
+msgid "Parametric function x(t), y(t)"
+msgstr "Parametrik fonksiyon x(t), y(t)"
+
+#. Form5..ComboBox1....Items.Strings
+msgid "Polar function         r=f(t)"
+msgstr "Polar fonksiyon  r=f(t)"
+
+#. Form5..GroupBox1..Caption
+msgid "Function equation"
+msgstr "Fonksiyon eşitliği"
+
+#. Form5..GroupBox2..Label6..Caption
+msgid "Steps:"
+msgstr "Adımlar:"
+
+#. Form5..GroupBox2..Edit5..Hint
+msgid "Number of calculation steps used to draw the graph."
+msgstr "Grafiği çizerken hesaplanan adımların sayısı."
+
+#. Form5..GroupBox4..GridPanelEx1..Label13..Caption
+msgid "Draw type:"
+msgstr "Çizim tipi:"
+
+#. Form5..GroupBox4..GridPanelEx1..ComboBox4....Hint
+msgid "Choose Lines if you want the calculated points for the graph to be connected. Choose Dots if you only want to show a dot at each point."
+msgstr "Grafikteki noktaları çizgi ile birleştirmek için seçin."
+
+#. Form5..GroupBox4..GridPanelEx1..ComboBox4..Text
+#. Form5..GroupBox4..GridPanelEx1..ComboBox4....Items.Strings
+msgid "Automatic"
+msgstr "Otomatik"
+
+#. Form5..GroupBox4..GridPanelEx1..ComboBox4....Items.Strings
+msgid "Dots"
+msgstr "Nokta"
+
+#. Form5..GroupBox4..GridPanelEx1..ComboBox4....Items.Strings
+msgid "Lines"
+msgstr "Doğru"
+
+#. Form6..Caption
+msgid "Insert text label"
+msgstr "Text etiketi ekle"
+
+#. Form6..Label1..Caption
+msgid "Font name:"
+msgstr "Font adı:"
+
+#. Form6..Label2..Caption
+msgid "Font size:"
+msgstr "Font boyutu:"
+
+#. Form6..Label3..Caption
+msgid "Font color:"
+msgstr "Font rengi:"
+
+#. Form6..ComboBox1..Hint
+msgid "Text size."
+msgstr "Text boyutu:"
+
+#. Form6..GroupBox1..Caption
+msgid "Text string"
+msgstr "Text içeriği"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton11..Hint
+msgid "Insert symbol (Ctrl+G)"
+msgstr "Sembol ekle (Ctrl+G)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton13..Hint
+msgid "Insert object."
+msgstr "Nesne ekler."
+
+#. Form6..GroupBox1..ToolBar1..ToolButton1..Hint
+msgid "Bold (Ctrl+B)"
+msgstr "Kalın (Ctrl+B)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton2..Hint
+msgid "Italic (Ctrl+I)"
+msgstr "İtalik (Ctrl+I)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton3..Hint
+msgid "Underline (Ctrl+U)"
+msgstr "Altıçizili (Ctrl+U)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton4..Hint
+msgid "Strikethrough (Ctrl+S)"
+msgstr "Strikethrough (Ctrl+S)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton9..Hint
+msgid "Superscript (Ctrl++)"
+msgstr "Superscript (Ctrl++)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton10..Hint
+msgid "Subscript (Ctrl+=)"
+msgstr "Subscript (Ctrl+=)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton5..Hint
+msgid "Align left (Ctrl+L)"
+msgstr "Sola hizala (Ctrl+L)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton6..Hint
+msgid "Center (Ctrl+E)"
+msgstr "Ortala (Ctrl+E)"
+
+#. Form6..GroupBox1..ToolBar1..ToolButton7..Hint
+msgid "Align right (Ctrl+R)"
+msgstr "Sağa hizala (Ctrl+R)"
+
+#. Form6..IFontBox1..Hint
+msgid "Text font."
+msgstr "Text fontu:"
+
+#. Form6..ColorBox1..Hint
+msgid "Text color."
+msgstr "Text rengi:"
+
+#. Form6..ColorBox2..Hint
+msgid "Select background color of the text label."
+msgstr "Text etiketi için arkaplan rengi seçin"
+
+#. Form6..ColorBox2..DefaultName
+msgid "Transparent"
+msgstr "Şeffaf"
+
+#. Form6..PopupMenu1..Popup_Undo..Hint
+msgid "Undo last action."
+msgstr "Geri al."
+
+#. Form6..PopupMenu1..Popup_Redo..Hint
+msgid "Redo last undone action."
+msgstr "Yinle"
+
+#. Form6..PopupMenu1..Popup_Paste..Hint
+msgid "Paste the contents of the clipboard."
+msgstr "Pano içeriğini yapıştır."
+
+#. Form6..PopupMenu1..Popup_PasteSpecial..Caption
+msgid "Paste special..."
+msgstr "Özel Yapıştır..."
+
+#. Form6..PopupMenu1..Popup_PasteSpecial..Hint
+msgid "Select which clipboard representation you want to paste."
+msgstr "Yapıştırmak istediğiniz pano görünümünü seçin."
+
+#. Form6..PopupMenu1..Popup_InsertObject..Caption
+msgid "Insert object..."
+msgstr "Nesne ekle"
+
+#. Form6..PopupMenu1..Popup_InsertObject..Hint
+msgid "Create a new OLE object."
+msgstr "Yeni OLE nesnesi oluştur."
+
+#. Form6..PopupMenu1..Popup_EditObject..Caption
+msgid "Edit object"
+msgstr "Objeyi düzenle"
+
+#. Form6..PopupMenu1..Popup_EditObject..Hint
+msgid "Edit selected OLE object."
+msgstr "Seçili OLE objesini düzenle"
+
+#. Form7..Caption
+msgid "Insert f'(x)"
+msgstr " f'(x) ekle"
+
+#. Form8..Label1..Caption
+#. PrintFrm..GroupBox1..Label1..Caption
+msgid "Name:"
+msgstr "İsim:"
+
+#. Form8..ValueListEditor1....TitleCaptions.Strings
+msgid "Constant"
+msgstr "Sabit"
+
+#. Form8..ValueListEditor1....TitleCaptions.Strings
+msgid "Value"
+msgstr "Değer"
+
+#. Form9..Label1..Caption
+msgid "Select a function or tangent to evaluate."
+msgstr "Hesaplamak için tanjant yada fonksiyon seçin"
+
+#. Form9..PolFuncFrame1....Hint
+#. ParFuncFrame..ComboBox1....Hint
+#. StdFuncFrame..ComboBox1....Hint
+msgid "Select where the cursor will be placed when you click on the image."
+msgstr "Resim üzerine tıkladığınızda işaretçinin konumlanacağı yeri seçin"
+
+#. AreaFrame..GridPanel1..Panel1..Edit1....Hint
+msgid "Enter the start coordinate or mark the range on the graph itself with the mouse."
+msgstr "Başlangıç koordinatını girin yada grafik üzerinde fare ile işaretleyin"
+
+#. AreaFrame..GridPanel1..Panel2..Edit2....Hint
+msgid "Enter the end coordinate or mark the range on the graph itself with the mouse."
+msgstr "Bitiş koordinatını girin yada grafik üzerinde fare ile işaretleyin"
+
+#. ParFuncFrame..Label7..Caption
+#. PolFuncFrame..Label7..Caption
+#. StdFuncFrame..Label5..Caption
+msgid "Snap to:"
+msgstr "Git"
+
+#. ParFuncFrame..Edit2..Hint
+msgid "The x-coordinate evaluated for the t-parameter."
+msgstr "t parametresi için hesaplanan x değeri"
+
+#. ParFuncFrame..Edit3..Hint
+msgid "The y-coordinate evaluated for the t-parameter."
+msgstr "t parametresi için hesaplanan y değeri"
+
+#. ParFuncFrame..Edit4..Hint
+msgid "The derivative of x(t) evaluated for the entered t-parameter."
+msgstr "Girilen t parametresi için x(t)'in türevi"
+
+#. ParFuncFrame..Edit5..Hint
+msgid "The derivative of y(t) evaluated for the entered t-parameter."
+msgstr "Girilen t parametresi için y(t)'in türevi"
+
+#. ParFuncFrame..Edit6..Hint
+msgid "The slope of the function evaluated for the entered t-parameter."
+msgstr "Girilen t parametresi için fonksiyonun eğimi"
+
+#. ParFuncFrame..Edit1....Hint
+msgid "Enter the value for the parameter t for which you want to evaluate the function, or click on the graph in the graphing area."
+msgstr "Fonksiyonun değerini hesaplamak istediğiniz t parametresini girin"
+
+#. ParFuncFrame..ComboBox1....Items.Strings
+#. PolFuncFrame..ComboBox1....Items.Strings
+#. StdFuncFrame..ComboBox1....Items.Strings
+msgid "Intersection"
+msgstr "Kesişim"
+
+#. ParFuncFrame..ComboBox1....Items.Strings
+#. PolFuncFrame..ComboBox1....Items.Strings
+msgid "Extreme x-value"
+msgstr "Extremum x değeri"
+
+#. ParFuncFrame..ComboBox1....Items.Strings
+#. PolFuncFrame..ComboBox1....Items.Strings
+#. StdFuncFrame..ComboBox1....Items.Strings
+msgid "Extreme y-value"
+msgstr "Extremum y değeri"
+
+#. PolFuncFrame..Edit2..Hint
+msgid "The distance to the function evaluated for the given angle."
+msgstr "Verilen açı için hesaplanan fonksiyona uzaklık."
+
+#. PolFuncFrame..Edit3..Hint
+msgid "The x-coordinate evaluated for the given angle."
+msgstr "Verilen açı için hesaplanan x-koordinatı"
+
+#. PolFuncFrame..Edit4..Hint
+msgid "The y-coordinate evaluated for the given angle."
+msgstr "Verilen açı için hesaplanan y-koordinatı"
+
+#. PolFuncFrame..Edit5..Hint
+msgid "The derivative of the function evaluated for the given angle."
+msgstr "Verilen açı için hesaplanan fonksiyonun türevi"
+
+#. PolFuncFrame..Edit6..Hint
+msgid "The slope of the function evaluated for the given angle."
+msgstr "Verilen açı için hesaplanan fonsiyonun eğimi"
+
+#. PolFuncFrame..Edit1....Hint
+msgid "Enter the value of the polar angle for which you want to evaluate the function, or click on the graph in the graphing area."
+msgstr "Fonksiyon için hesaplamak istediğiniz kutupsal açıyı grin, yada grafik bölgesinde grafiğiye tıklayın."
+
+#. StdFuncFrame..Edit1....Hint
+msgid "Enter a value for which you want to evaluate the function, or click on the graph in the graphing area."
+msgstr "Fonksiyon için hesaplamak istediğiniz değeri girin, yada grafik bölgesinde grafiğiye tıklayın."
+
+#. StdFuncFrame..Edit2..Hint
+msgid "This is the function evaluated for the entered x-value."
+msgstr "Girilen x değeri için hesaplanan fonksiyon"
+
+#. StdFuncFrame..Edit3....Hint
+msgid "This is the first derivative of the function evaluated for the entered value."
+msgstr "Girilen değer için fonksiyonun birinci türevi."
+
+#. StdFuncFrame..Edit4....Hint
+msgid "This is the second derivative of the function evaluated for the entered value."
+msgstr "Girilen değer için fonksiyonun ikinci türevi."
+
+#. TanFrame..Edit2....Hint
+msgid "This is the y-coordinate corresponding to the entered x-coordinate."
+msgstr "Girilen x-koordinatına bağlı y-koordinatı"
+
+#. TanFrame..Edit1..Hint
+msgid "Enter an x-coordinate or click in the graphing area."
+msgstr "x_kootdinatını girin yada grafik alanında tıklayın"
+
+msgid "Error"
+msgstr "Hata"
+
+msgid "Error %s"
+msgstr "Hata %s"
+
+msgid "Length"
+msgstr "Uzunluk"
+
+msgid "Degrees"
+msgstr "Derece"
+
+msgid "Label"
+msgstr "Etiket"
+
+msgid "%s-error"
+msgstr "%s-hata"
+
+msgid "Axes"
+msgstr "Eksenler"
+
+msgid "Ctrl"
+msgstr "Ctrl"
+
+msgid "Alt"
+msgstr "Alt"
+
+msgid "Shift"
+msgstr "Shift"
+
+msgid "Del"
+msgstr "Del"
+
+msgid "Ins"
+msgstr "Ins"
+
+msgid "Home"
+msgstr "Home"
+
+msgid "End"
+msgstr "End"
+
+msgid "PgUp"
+msgstr "PgUp"
+
+msgid "PgDn"
+msgstr "PgDn"
+
+msgid "Up"
+msgstr "Up"
+
+msgid "Down"
+msgstr "Down"
+
+msgid "Esc"
+msgstr "Esc"
+
+msgid "Enter"
+msgstr "Enter"
+
+msgid "Tab"
+msgstr "Tab"
+
+msgid "BkSp"
+msgstr "BkSp"
+
+msgid "Space"
+msgstr "Space"
+
+msgid "An error occurred while evaluating power function."
+msgstr "Üssel fonkiyon hesaplanırken hata oluştu."
+
+msgid "Tangent to pi/2+n*pi (90+n180 in degrees) is undefined."
+msgstr "Tanjant 90+n*180 derece tanımlı değil."
+
+msgid "Fact can only be calculated for positive integers."
+msgstr "Sadece pozitif tamsayılar için hesaplanabilir."
+
+msgid "Cannot take logarithm to number equal or less than zero."
+msgstr "0 ve altındaki değerler için logaritma hesaplanamaz."
+
+msgid "sqrt is undefined for negative numbers."
+msgstr "sqrt( karekök ) fonksiyonu negatif sayılar için tanımsızdır."
+
+msgid "A part of the evaluation gave a number with an imaginary part."
+msgstr "Hesaplama sonucu komplex sayıdır. "
+
+msgid "Division by zero."
+msgstr "0 ile bölüm."
+
+msgid "Inverse trigonometric function out of range [-1;1]"
+msgstr "Ters trigonomektrik fonksiyonlar [-1;1] değişim aralığı dışında olamaz"
+
+msgid "The function is not defined for this value."
+msgstr "Bu değer için bu fonksiyon tanımlı değil."
+
+msgid "atanh evaluated at undefined value."
+msgstr "atanh tanımsız bir değerde hesaplandı."
+
+msgid "acosh evaluated at undefined value."
+msgstr "acosh tanımsız bir değerde hesaplandı."
+
+msgid "arg(0) is undefined."
+msgstr "arg(0) tanımsızdır."
+
+msgid "Evaluation failed."
+msgstr "Hesaplanamadı"
+
+msgid "Argument produced a function result with total loss of precision."
+msgstr "Argument produced a function result with total loss of precision."
+
+msgid "The custom function/constant '%s' was not found or has the wrong number of arguments."
+msgstr "Özel fonksiyon/sabit '%s' bulunamadı yada yanlış argument numarasına sahip"
+
+msgid "Too many recursive calls."
+msgstr "Çok fazla geri çağrıcı var."
+
+msgid "Overflow: A function returned a value too large to handle."
+msgstr "Taşma: fonksiyon çok büyük sayı üretti."
+
+msgid "A plugin function failed: %s"
+msgstr "Plugin fonksiyon hatasi: %s"
+
+msgid "Unexpected operator. Operator '%s' cannot be placed here."
+msgstr "Beklenmedik operatör.Operatör  '%s' burada olmamalı."
+
+msgid "The right bracket is missing."
+msgstr "Sağ braket eksik."
+
+msgid "Invalid number of arguments supplied for the function '%s'"
+msgstr "'%s' fonksiyonu için geçersiz sayida argument"
+
+msgid "Comparison operator misplaced."
+msgstr "Karşılaştırma operatörü unutulmuş."
+
+msgid "Invalid number found. Use the format: -5.475E-8"
+msgstr "Geçersiz sayı bulundu. -5.475E-8 formatını kullanın."
+
+msgid "String is empty. You need to enter a formula."
+msgstr "String boş. Fonksiyon girmeniz gerekli."
+
+msgid "Comma is not allowed here. Use dot as decimal separator."
+msgstr "Burada virgül kullanılamaz.Ondalıkları ayırmak için nokta kullanınız."
+
+msgid "Unexpected end of brackets."
+msgstr "Yanlış braket sonu."
+
+msgid "Number, constant or function expected."
+msgstr "Sayı sabit yada fonksiyon eksik."
+
+msgid "Parameter after constant or variable not allowed."
+msgstr "Sabit yada değişkenden sonra parametre kullanılamaz."
+
+msgid "Expression expected."
+msgstr "İfade eksik."
+
+msgid "Unknown variable, function or constant: \"%s\""
+msgstr "Bilinmeyen değişken,fonksiyon yada sabit: \"%s\""
+
+msgid "Unknown character: \"%s\""
+msgstr "Tanınmayan karakter: \"%s\""
+
+msgid "The end of the expression was unexpected."
+msgstr "İfade sonu yanlış yerde."
+
+msgid "Error parsing expression."
+msgstr "Fonksiyon textinde hata."
+
+msgid "A calculation resulted in an overflow."
+msgstr "Sonuçta taşma"
+
+msgid "An invalid value was used in the calculation."
+msgstr "Hesaplamada tanımsız bir değer kullanıldı."
+
+msgid "Not enough points for calculation."
+msgstr "Hesaplama için yeterli sayıda nokta yok."
+
+msgid "Illegal name \"%s\" for user defined function or constant."
+msgstr "Tanımlı fonksiyon yada sabit için illegal isim."
+
+msgid "Cannot differentiate recursive function."
+msgstr "Geri çağrıcı fonksiyonun türevini alamadı."
+
+msgid "Internal error."
+msgstr "İç hata"
+
+msgid "Function \"%s\" cannot be differentiated."
+msgstr "\"%s\" fonksiyonunun türevi alınamadı."
+
+msgid "Not further specified error occurred under calculation."
+msgstr "Not further specified error occurred under calculation."
+
+msgid "No solution found. Try another guess or another model."
+msgstr "Çözüm bulunamadı.Lütfen başka bir model deneyin. "
+
+msgid "No result found."
+msgstr "Sonuc bulunamadi."
+
+msgid "An accurate result cannot be found."
+msgstr "An accurate result cannot be found."
+
+msgid "Internal error. Please notify the programmer with as much information as possible."
+msgstr "İç hata."
+
+msgid "You need to enter a name for the function/constant."
+msgstr "Fonksiyon/sabit için bir isism girin."
+
+msgid ""
+"Invalid function/constant name '%s'.\n"
+"The name may only contain letters and decimal digits, and it must always start with a letter.\n"
+"In addition you are not allowed to redefine built-in names."
+msgstr ""
+"Geçersiz fonksiyon/sabit ismi '%s'.\n"
+"Vereceğiniz isim sadece rakam ve harf içerebilir, ve harfle başlamak zorunda.\n"
+"Built-in isimleri tekrardan tanımlayamazsınız.  "
+
+msgid "You need to enter a name for the argument."
+msgstr "Argument için bir isim girmeniz gerek."
+
+msgid ""
+"Invalid argument name '%s'.\n"
+"The name may only contain letters and decimal digits, and it must always start with a letter.\n"
+" In addition you are not allowed to use built-in names as argument names."
+msgstr ""
+"Geçersiz argument adı '%s'.\n"
+"İsim sadece rakam ve harf içerebilirve bir harfle başlamak zorundadır.\n"
+"Built isimleri kullanılamaz."
+
+msgid "Character found after brackets."
+msgstr "Braketten sonra karakter bulundu."
+
+msgid "Symbol \"%s\" defined more than once."
+msgstr "%s sembolü birden fazla tanımlanmış."
+
+msgid "Invalid equation or inequality."
+msgstr "Geçersiz eşitlik yada eşitsizlik."
+
+msgid "Updating..."
+msgstr "Güncelleniyor..."
+
+msgid "Save changes?"
+msgstr "Değişiklikler kaydedilsin mi?"
+
+msgid "Save changes in %s?"
+msgstr "Değişikliikler %s' ye kaydedilsin mi?"
+
+msgid "You have reached the maximum range of zoom."
+msgstr "Maximum büyütmeye ulaştınız"
+
+msgid "You have reached the minimum range of zoom."
+msgstr "Minumum büyütmeye ulaştınız."
+
+msgid "'%s' must not be zero."
+msgstr "'%s' sıfırdan büyük olmalı"
+
+msgid "Error in value"
+msgstr "Değerde hata"
+
+msgid "'%s' has to be an integer value greater or equal to 0."
+msgstr "'%s' 0 yada ondan büyük bir tamsayı olmalı."
+
+msgid "'%s' must be greater than zero."
+msgstr "'%s' sıfırdan büyük olmalı"
+
+msgid "'%s' must be an integer greater than zero."
+msgstr "'%s' 0'dan büyük bir tamsayı olmalı."
+
+msgid "Trying to break zoom limit."
+msgstr "Büyültme limiti."
+
+msgid "'%s' must be greater than '%s'"
+msgstr "'%s' değeri, '%s' değerinden büyük olmalı."
+
+msgid "The maximum value must be greater than the minimum value."
+msgstr "Maximum değer minumum değerden büyük olmalı."
+
+msgid "You need to enter a value."
+msgstr "Bir değer girmeniz gerek."
+
+msgid ""
+"This file was created with Graph %s.\n"
+"Only files from version %s and higher can be opened."
+msgstr ""
+"Bu dosya Graph ile yapıldı %s.\n"
+"Sadece %s versiyon ve yukarısı versiyondan olan dosyalar açılabilir."
+
+msgid "'%s' is not a valid number."
+msgstr "'%s' geçersiz bir sayı."
+
+msgid "'%s' must be a positive number."
+msgstr "'%s' pozitif bir tamsayı olmalı."
+
+msgid "File not found: %s"
+msgstr "Dosya bulunamadı: %s"
+
+msgid ""
+"Error reading file: %s\n"
+"The file is not a correct Graph file."
+msgstr ""
+"Dosya okuma hatası: %s\n"
+"Geçerli bir Graph dosyası geğil."
+
+msgid "Unknown error while reading file: %s"
+msgstr "Dosya okurken bilinmeyen hata oluştu: %s "
+
+msgid "Graph files [*.grf]|*.grf"
+msgstr "Graph dosyaları [*.grf]|*.grf"
+
+msgid ""
+"Cannot write to file: %s\n"
+"Access denied. Check that the file is not in use or write protected."
+msgstr ""
+"Dosyaya yazılamadı: %s\n"
+"Erişim engellendi.Dosyanın kullanımda yada yazmaya karşı korumalı olmadığından emin olun"
+
+msgid "The font \"%s\" doesn't exist. Standard font is used instead."
+msgstr "\"%s\" fontu mevcut değil."
+
+msgid "Graph system"
+msgstr "Graph sistemi"
+
+msgid "Open"
+msgstr "Aç"
+
+msgid "Selection error"
+msgstr "Seçim hatası"
+
+msgid "File error"
+msgstr "Dosya hatası"
+
+msgid "Write access failed"
+msgstr "Yazdırma işlemi başarılamadı."
+
+msgid "OLE error"
+msgstr "OLE hatası"
+
+msgid "Error reading object"
+msgstr "Nesneyi okuma hatası"
+
+msgid "Not a valid Graph object."
+msgstr "Geçerli Graph dosyası değil."
+
+msgid "Object error"
+msgstr "Nesne hatası"
+
+msgid "Windows does not have enough resources to save an image that large."
+msgstr "Bu kadar büyük resmi kaydet etmek için Windows'un yeterli kaynağı yok."
+
+msgid "'%1%' must be between %2% and %3%."
+msgstr "'%1%, %2% ve %3%. arasında olmalı."
+
+msgid "File not found"
+msgstr "Dosya bulunamadı"
+
+msgid "Error reading file"
+msgstr "Dosya okuma hatası"
+
+msgid "Printer error"
+msgstr "Yazdıci hatasi"
+
+msgid "Invalid use of infinity. Infinity cannot be used here."
+msgstr "Gecersiz sonsuzluk kullanimi. Sonsuzluk burada kullanilamaz."
+
+msgid "Not enough memory to complete the operation."
+msgstr ""
+
+msgid "Confirm delete"
+msgstr "Doğrulama hatası"
+
+msgid "Are you sure you want to delete %s?"
+msgstr "%s silmek istediğinizden emin misiniz?"
+
+msgid "Graph files [*.grf]|*.grf|All files [*.*]|*.*"
+msgstr "Graph dosyaları [*.grf]|*.grf|All files [*.*]|*.*"
+
+msgid "CSV (semicolon delimited) [*.csv]|*.csv|CSV (comma delimited) [*.csv]|*.csv|Text (tab delimited) [*.txt]|*.txt|Text (space delimited) [*.txt]|*.txt|All files [*.*]|*.*"
+msgstr "CSV (noktalı virgül limitli) [*.csv]|*.csv|CSV (virgül limitli) [*.csv]|*.csv|Text (tab limitli) [*.txt]|*.txt|Text (bosluk limitli) [*.txt]|*.txt|All files [*.*]|*.*"
+
+msgid "Are you sure you want to delete the model: %s?"
+msgstr "%s modelini silmek istediğinizden emin misiniz?"
+
+msgid "Maximum number on x-axis must be greater than the minimum value."
+msgstr "x-ekseni üzerindeki maximum değer minumum değerden büyük olmalı."
+
+msgid "Maximum number on y-axis must be greater than the minimum value."
+msgstr "y-ekseni üzerindeki maximum değer minumum değerden büyük olmalı."
+
+msgid "Server application not found."
+msgstr "Sunucu bulunamadı."
+
+msgid "Maximum number for t must be greater than the minimum value."
+msgstr "t'nin maximum değeri minumum değerinden büyük olmalı."
+
+msgid "The step value for t must be a number greater than 0."
+msgstr "Adım değeri t, 0'dan büyük bir sayı olamalı."
+
+msgid "The minimum value for the x-axis must be greater than 0, when the x-axis is logarithmic scaled."
+msgstr "x-ekseni logaritmik ölçekte olduğunda x-ekseninin minumum değeri 0'dan büyük olmalı."
+
+msgid "The cross point of the y-axis must be greater than 0, when the x-axis is logarithmic scaled."
+msgstr "x-ekseni logaritmik ölçekte olduğu zaman eksenlerin kesişim noktasında y-ekseni x-eksenini 0'dan büyük değerde kesmeli."
+
+msgid "The minimum value for the y-axis must be greater than 0, when the y-axis is logarithmic scaled."
+msgstr "y-ekseni logaritmik ölçekte olduğu zaman y-ekseninin minumum değeri 0'dan büyük olmalı."
+
+msgid "The cross point of the x-axis must be greater than 0, when the y-axis is logarithmic scaled."
+msgstr "y-ekseni logaritmik ölçekte olduğu zaman eksenlerin kesişim noktasında x-ekseni y-eksenini 0'dan büyük değerde kesmeli."
+
+msgid "'Recent files' must be between 0 and 9."
+msgstr "Son kullanılan dosyalar 0 ile 9 arasında olmalı."
+
+msgid "The end of interval must be greater than the start of interval."
+msgstr "Aralığın sonu aralığın başlangıcından büyük olmalı."
+
+msgid "Error in interval."
+msgstr "Aralıkta hata var"
+
+msgid "The width must be an integer greater than 0."
+msgstr "Genişlik 0'dan büyük bir sayı olmalı."
+
+msgid "Error in width"
+msgstr "Genişlikte hata var"
+
+msgid "The end of interval must be greater than the start of interval and %s must be greater than 0."
+msgstr "Aralığın sonu aralığın başlangıcından büyük olmalı ve %s değeri 0'dan büyük olmalı."
+
+msgid "Invalid model name."
+msgstr "Geçersiz model adı"
+
+msgid "A model of that name already exist."
+msgstr "Model için bu isim daha önce kullanılmış."
+
+msgid "The derivative of the function is not defined at %s=%s"
+msgstr "%s=%s noktasında fonksiyonun türevi tanımsız."
+
+msgid "Coordinate not defined"
+msgstr "Koordinat tanımsız"
+
+msgid "Checking for newer version..."
+msgstr "Yeni versiyon kontrol ediliyor."
+
+msgid "Abort printing?"
+msgstr "Yazdırma hakkında?"
+
+msgid "Calculate area"
+msgstr "Alanı hesapla"
+
+msgid "Calculate length of path"
+msgstr "Eğri uzunluğunu hesapla"
+
+msgid "Edit function"
+msgstr "Fonksiyonu düzenle"
+
+msgid "Edit tangent/normal"
+msgstr "Tanjat/normali düzenle"
+
+msgid "Error processing file '%s' at line %s."
+msgstr "'%s' dosyasını işlerken %s satırında hata oluştu."
+
+msgid "Edit text label"
+msgstr "Text etiketini düzenle"
+
+msgid "The model needs some constants (starting with a $) for Graph to find."
+msgstr "Graph programında modeller için bazı sabitler gerekli($ile başlayan). "
+
+msgid "'%s' has to be an integer value between 0 and 1000."
+msgstr "'%s' değeri 0 ile 1000 arasında bir tamsayı olmalı."
+
+msgid "Printing error"
+msgstr "Yazdırma işlemi sırasında hata"
+
+msgid "An unknown error occurred while printing."
+msgstr "Yazdırma işlemi sırasında bilinmeyen hata oluştu"
+
+msgid "Error while adding points"
+msgstr "Noktalar eklenirken hata oluştu."
+
+msgid "Each point needs both an x- and a y-coordinate."
+msgstr "Her koordinat için x ve y değeri lazım. "
+
+msgid "\"%s\" is not a valid number."
+msgstr "\"%s\" geçerli bir sayı değil"
+
+msgid "You didn't add any points. You need to specify some x- and y-coordinates in the grid."
+msgstr "Hiçbir nokta girmediniz. Bazı x ve y koordinatları giriniz."
+
+msgid "Edit point series"
+msgstr "Nokta serisini düzenle"
+
+msgid "Edit shading"
+msgstr "Taralı alanı düzenle"
+
+msgid "You need to select a function."
+msgstr "Bir fonksiyon seçmelisiniz."
+
+msgid "New version of Graph available"
+msgstr "Graph programının yeni versiyonu bulundu."
+
+msgid ""
+"Graph %s is now available for download from www.padowan.dk\n"
+"\n"
+"Would you like to visit the download page?"
+msgstr ""
+"Graph %s versiyonunu www.padowan.dk sitesinden indirmek şu anda mümkün\n"
+"\n"
+"Siteyi ziyaret etmek ister misiniz?"
+
+msgid "No new version"
+msgstr "Yeni versiyon yok"
+
+msgid "You are already using the most recent version of Graph."
+msgstr "Şu anda son sürümü kullanmaktasınız."
+
+msgid ""
+"Cannot connect to server www.padowan.dk.\n"
+"Either the server is down or you do not have a connection to the Internet."
+msgstr "www.padowan.dk sitesine bağlanamadı."
+
+msgid "Socket error %s"
+msgstr "Soket hatası %s"
+
+msgid "Definite integral, or signed area between function and x-axis, for the given domain range."
+msgstr "Secilen bolge icin tanimli integral ya da fonksiyon ile x ekseni arasindaki taranmis bolge."
+
+msgid "Length of path along the curve calculated for the given range."
+msgstr "Verilen bolge için hesaplanan yolun uzunlugu."
+
+msgid ""
+"The file cannot be opened by this version of the program.\n"
+"You need at least Graph %s to open this file."
+msgstr ""
+"Dosya bu versiyon tarafından açılamadı.\n"
+"Bu dosyayı açmanız için minumum Graph %s gerekli. "
+
+msgid ""
+"This file was saved by an outdated version of Graph,\n"
+"and it cannot be opened by the current version."
+msgstr ""
+"Bu dosya Graphın eski versiyonu tarafından kaydedilmiş,\n"
+"şimdiki versiyon tarafından açılamıyor."
+
+msgid ""
+"\n"
+"\n"
+"If you don't want to be asked again, this feature may be disabled from the Edit|Options dialog."
+msgstr ""
+"\n"
+"\n"
+"Bu  kutucukla tekrar karşılaşmamak için Düzenle|Özellikler menüsünden gerekli ayarlamayı yapın."
+
+msgid "Edit relation"
+msgstr "İlişkiyi düzenle"
+
+msgid "Commands"
+msgstr "Komutlar"
+
+msgid "(All Commands)"
+msgstr "( Bütün komutlar )"
+
+msgid "To add a command to the toolbar simply select a category and drag the command out of this dialog box to the toolbar."
+msgstr "Araç kutusuna komut eklemek için bir kategori seçin ve komutu buradan araç kutusu içine sürükleyip bırakın."
+
+msgid "Edit f'(x)"
+msgstr "f'(x)' i düzenle "
+
+msgid "Edit trendline"
+msgstr "Eğriyi düzenle"
+
+msgid "Categories:"
+msgstr "Kategoriler:"
+
+msgid ""
+"The program seems to be stuck in an infinite loop.\n"
+"If you cancel the operation the program will become unstable.\n"
+"You should therefore save your data under a new name and restart the application."
+msgstr ""
+"Program sonsuz donguye girmis gozukuyor. \n"
+"Bu komutu iptal ederseniz program dengesiz olur.\n"
+"Bilgilerinizi yeni bir isimle kayit edin ve uygulamayi yeniden baslatin."
+
+msgid "Thread is not responding"
+msgstr "Thread cevap vermiyor."
+
+msgid "This Tip of the day can give you a lot of information about the program that most users don't know."
+msgstr "Günün ip ucu size birçok kullanıcının bilmediği bilgi verir."
+
+#, fuzzy
+msgid "You can get help using Graph, report bugs and suggest future improvements at the web forum: <a href=\"http://forum.padowan.dk\">http://forum.padowan.dk</a>"
+msgstr "Graph programinin kullanimi, program hatalari hakkinda forumda bilgi alabilirsiniz forum: <a href=\"http://www.padowan.dk/forum\">http://www.padowan.dk/forum</a>"
+
+msgid "You can customize the toolbar by right clicking on it and select 'Customize toolbar'."
+msgstr "Araç kutusunu özelleştirmek için sağ tuşu tıklayıp 'Araç kutusunu özelliştiri' seçin."
+
+msgid "Instead of deleting a function, you can make it invisible by removing the check mark for the item in the function list."
+msgstr "Bir fonksiyonu silmek yerine fonksiyon listesinden başındaki tiki kaldırıp görünmez yapabilirsiniz. "
+
+msgid "You can paste images into a text label."
+msgstr "Etiket içine resim yapıştırabilirsiniz."
+
+msgid "Text labels can contain any kind of OLE objects, for example Microsoft Equation. When editing a label right click in the editing area and select 'Insert object'."
+msgstr "Text etiketleri Herhangi bir OLE nesnesi içerebilir,Microsoft Denklem editörü gibi. Etiketi düzenlemek için sağı tıklayıp 'Nesne ekle'yi seçin.  "
+
+msgid "You can export points from a point series to a file that can be read by other programs, for example Microsoft Excel. When editing the point series select the points, right click and choose 'Export to file'."
+msgstr "Başka bir programa nokta serilerinizi kaydedebilirsiniz.Excel gibi. Noktaları seçin sağ tuşu tıklayın 'Dosyaya kaydet' Tuşuna basın. "
+
+msgid "A vertical line at x=5 can be drawn as the parametric function x(t)=5, y(t)=t or as the relation x=5."
+msgstr "x=5 denklemi şu şekilde parametrik olarak yazılabilir:x(t)=5, y(t)=t  "
+
+msgid "You can use Zoom|Square to make the axes look equally scaled. This is especially useful when drawing circles and similar functions."
+msgstr "Büyült|Kare komutunu eksenleri eşit görünecek şekilde kullanabilirsiniz. Bu fonksiyon daire gibi fonksiyonları çizmek için uygundur."
+
+msgid "You can find a list of all available functions in the help."
+msgstr "Yardım bölümünde fonksiyonların listesini bulabilirsiniz. "
+
+msgid "You can combine two functions to one using 'if'. For example the function f(x)=x for x<1 and f(x)=x^2 for x>=1 can be written as f(x)=if(x<1, x, x^2)."
+msgstr "İki fonksiyonu if kullanarak birleştirebilirsiniz. f(x)=x, x<1ve f(x)=x^2, x>=1 şu şekilde yazılabilir f(x)=if(x<1, x, x^2)."
+
+msgid "You can import the contents of another Graph file into the current coordinate system using 'File|Import|Graph file'."
+msgstr "Dosya|Ekle|Graph dosyası komutlarını kullanarak başka bir Graph dosyasının içeriğini geçerli koordinat sistemine ekleyebilirsiniz."
+
+msgid "If you check 'Save as default' in the Axes dialog the current settings will be used as default when creating new coordinate systems."
+msgstr "Eğer Eksenler kutusunda 'Default olarak kaydet' seçeneğini seçerseniz geçerli ayarlar yeni dosya oluşturulduğunda kullanılır."
+
+msgid "While you hold down the Ctrl key, you can use the arrow keys to move the system."
+msgstr "Yön tuşları ve Ctrl tuşuna aynı anda basılı tutarak sistemi taşıyabilirsiniz."
+
+msgid "While you hold down the Ctrl key, you can use the + and - keys to zoom in and out."
+msgstr "+, -  tuşları ve Ctrl tuşuna aynı anda basılı tutarak büyültme ve küçültme yapabilirsiniz. "
+
+msgid "You can use the scroll button on your mouse to zoom in and out at the position of the mouse cursor."
+msgstr "Scroll tuşunu kullanarak küçültme ve büyültme yapabilirsiniz. "
+
+msgid "If you don't want an item shown in the legend, you can right click on the item in the function list and deselect 'Show in legend'."
+msgstr "Gösterim kutusunda gösterilmesini istemediğiniz nesnenin fonksiyonlar listesinde üzerine gelin sağ tuşu tıklayın ve 'Gösterim kutusunda göster' seçeneğini kaldırın."
+
+msgid "If you want the axes shown to the left and bottom of the image, you can choose Axes style as Boxed in the Settings tab of the Axes dialog."
+msgstr "Eğer eksenlerin resmin sol alt köşesinde gösterilmesini istiyorsanız,Eksen seçeneklerini 'Pozitif eksenler' olarak ayarlayın."
+
+msgid "Graph can save the shown coordinate system in five different image formats: bmp, emf, png, jpg and pdf."
+msgstr "Graph programı koordinat sistemini 5 farklı resim dosyası halinde kaydedebilir: bmp, emf, png, jpg and pdf."
+
+msgid "You can use 'Edit|Copy image' to copy the coordinate system and paste it into another program, for example, Microsoft Word. Later you can usually edit the image in Graph by double clicking on it in the other program."
+msgstr "Düzenle|Kopyala komutlarını kullanarak panoya geçerli koordinat dosyasını yapıştırabilirsiniz."
+
+msgid "You can open a saved grf-file in a new instance of the program by double clicking on it in Explorer."
+msgstr "Kayıtlı grf-dosyasını herhangi bir anda çift tıklayarak açabilirsiniz."
+
+msgid "You can drag a grf-file from explorer into an open instance of Graph to open the file."
+msgstr "Açık Graph programına grf-dosyasını sürükleyip bırakıp açabilirsiniz."
+
+msgid "Graph will remember the size of the main window between executions. This can be disabled from the Options dialog."
+msgstr "Graph programı ana pencereyi son kapatilan konumunda ve boyutunda açar.Bu özellik Özellikler kutusundan değiştirilebilir. "
+
+msgid "Calc|Table can be used to create a table with evaluation values for a function."
+msgstr "Hesapla|Tablo bir fonksiyon için tablo hesaplamada kullanılabilir."
+
+msgid "A part or the whole evaluation table can be exported to a file by right clicking and selecting 'Export to file'. It can afterwards be opened in other programs like Microsoft Excel."
+msgstr "Hesaplanmış tablonun bir kısmı yada hepsi bir başka dosyaya sağ tuşu tıklayıp 'Dosyaya kaydet' komutu ile kaydedilebilir."
+
+msgid "Data from the evaluation table can be copied to another program like Microsoft Excel."
+msgstr "Pano kullanılarak tablodaki veriler Excel gibi bir programa gönderilebilir."
+
+msgid "The data points in a point series can be copied to and from other programs like Microsoft Excel."
+msgstr "Pano kullanılarak nokta serileri Excel gibi bir programa gönderilebilir."
+
+msgid "Elements as functions, point series, etc. can be copied from one instance of the program to another using Edit|Copy."
+msgstr "Düzenle|Kopyala komutları ile fonksiyonlar program içinde kopyalanabilir. "
+
+msgid "You can always undo the last thing you did using Edit|Undo."
+msgstr "Düzenle|Geri al  komutları ile son yaptığınızı geri alabilirsiniz."
+
+msgid "If you used Edit|Undo by mistake, you can use Edit|Redo to redo what you have undone."
+msgstr "Eğer Düzenle|Geri al komutlarını yanlışlıkla kullandınız ise Düzenle|Yinele komutlarını kullanabilirsiniz. "
+
+msgid "In the Axes dialog you can add a title to the coordinate system."
+msgstr "Eksenleri özelleştirerek koordinat sistemine başlık verebilirsiniz."
+
+msgid "You can import point series from files saved by other programs, like Microsoft Excel."
+msgstr "Başka programlardan nokta serileri kopyalayabilirsiniz. "
+
+msgid "When inserting a point series, you can copy data from programs like Microsoft Excel, and paste the data into the grid in Graph."
+msgstr "Nokta serisi girerken Excel gibi programlardan kopyala yapıştır yapabilirsiniz."
+
+msgid "You can use 'Zoom|Fit all' to change the coordinate system so all functions and point series are visible."
+msgstr "Zoom|Bütün noktalar komutlarını kullanarak koordinat sistemindeki bütün noktaları görünür yaparsınız"
+
+msgid "You can use Zoom|Fit to change the coordinate system to show all parts of the selected function or point series."
+msgstr "Zoom|Fit komutunu kullanarak seçili fonksiyonun yada nokta serisinin gözükmesini sağlayabilirsiniz"
+
+msgid "When you hold down the Shift key you can drag the coordinate system around with the mouse."
+msgstr "Shift tuşuna basılı tutarken fare ile kordinat sistemini taşıyabilirsiniz."
+
+msgid "You can use Calc|Evaluate to find intersections between functions, crossings with the axes and extremum points."
+msgstr "Hesap|Hesapla komutlarını kullanarak  fonksiyonların kesişim noktalarını, extremum noktalarını ve  eksenleri kestiği noktaları bulabilirsiniz. "
+
+msgid "When a point series is selected you can add points to it by clicking on the image while you hold down the Ctrl key."
+msgstr "Nokta serisi seçili iken aynı anda Ctrl tuşuna basıp resme tıkladığınızda nokta ekleyebilirsiniz.   "
+
+msgid "You can use a relation to plot any inequality, for example sin(x^2) < cos(y^2)"
+msgstr "Eşitsizlikleri çizdirmek için ilişki kullanabilirsiniz. sin(x^2) < cos(y^2) gibi"
+
+msgid "You can use a relation to plot any equation, for example x*sin x = y*cos y"
+msgstr "Eşitlikleri çizdirmek için ilişki kullanabilirsiniz.  x*sin x = y*cos y gibi"
+
+msgid "Elements (functions, shadings, labels, relations, etc.) are drawn in the same order they appear in the function list to the left."
+msgstr "Nesneler(fonksiyonlar,taramalar,etiketler...)fonksiyon listesindeki sıralarına göre çizilirler."
+
+msgid "You can move the selected element in the function list either by dragging it with the mouse or with the arrow up/down keys while ALT is held down."
+msgstr "Fonksiyon listesindeki seçili nesnenin yerini fare ile sürükleyip değiştirebilir yada ALT tuşu ve yön tuşlarına aynı anda basıp da yapabilirsiniz.  "
+
+msgid "You can show functions and other elements behind the axes by moving the element above the axes in the function list to the left. To move shadings and tangents you will have to move the functions they are attached to."
+msgstr "Eksenler arkasındaki fonksiyonları ve diğer nesneleri göstermek için fonksiyonlar listesinde nesneleri eksenlerin üzerine getirin. Taralı alanı  ve tanjantları da taşımak için bağlı oldukları fonksiyonları da taşımanız gerek."
+
+msgid "Custom text labels may be attached to the axes by right clicking on the label and selecting a placement from the context menu."
+msgstr "Eksenlerin etiketlerini yerlerini düzenlemek için sağ tuşu tıklayıp içerik menüsünden konum seçin"
+
+msgid "The legend may be moved freely with the mouse or attached to one of the corners by right clicking on the legend and choose a placement from the context menu."
+msgstr "Gösterim kutusu fare kullanılarak istenen yere taşınabilir yada herhangi bir köşeye, sağ tıklanıp menüden yeri seçildikten sonra konabilir."
+
+msgid "As an alternative to Transparent, you can choose a custom background color for labels. This is especially useful for labels drawn over shadings."
+msgstr "Şeffaflığa alternatif olarak etiketler için özel arkaplan rengi seçebilirsiniz.Bu özellikle Taralı alanın üzerine etiket koymak için kullanışlıdır. "
+
+msgid "In most places like point series, axes settings, function ranges, etc., you can use expressions like pi/4 instead of numbers."
+msgstr "Bir çok yerde nokta serileri, eksenler gibi,sayılar yerine pi/4 gibi ifadeler kullanılabilir. "
+
+msgid "You can create your own custom constants under Function|Custom functions for use in functions, point series, etc. For example g=9.80665, R=8.31"
+msgstr "Fonksiyonlar|Özellikler komutlarını kullanarak kişisel sabitlerinizi tanımlayabilirsiniz. g=9.80665, R=8.31 gibi"
+
+msgid "You can create your own custom functions under Function|Custom functions for use in plotting functions, relations, etc. For example sinc(x)=if(x=0, 0, sin(x)/x)"
+msgstr "Foksiyon|Özel fonksiyonlar da kendi fonksiyonlarınızı oluşturabilirsiniz. sinc(x)=if(x=0, 0, sin(x)/x)"
+
+msgid "In the Save as image dialog there is an Option button you can use to specify the image resolution. This is especially useful if you want a high resolution image."
+msgstr "Resim olarak kaydet kutusunda özelliklerden resmin kalitesini seçebilirsiniz."
+
+msgid "Point series can have arrows as markers. A point series with arrows as markers and lines between the points can be used to show vectors."
+msgstr "Nokta serilerinin noktalar gibi satırları vardır.Bu özellikle 2 nokta ile bir vektör çizilebilir."
+
+msgid "Insert symbol"
+msgstr "Sembol girin"
+
+msgid "Subset:"
+msgstr "Subset:"
+
+msgid "Insert"
+msgstr "Gir"
+
+msgid "Select color"
+msgstr "Renk Seçin"
+
+msgid "Customize"
+msgstr "Özelleştir"
+
+msgid "Description"
+msgstr "Tanım"
+
+msgid "Cannot open clipboard: %s"
+msgstr "Pano açılamadı: %s"
+
+msgid "There is no default printer currently selected."
+msgstr "Tanimli yazici secilmedi."
+
+msgid "Install for all users"
+msgstr "Tum kullanicilar icin yukle."
+
+msgid "Examples"
+msgstr "Örnekler"
+
+msgid "Local"
+msgstr "Lokal"
+
+msgid "Global"
+msgstr "Global"
+
+#. PrintFrm..Caption
+msgid "Print"
+msgstr "Yazdır"
+
+#. PrintFrm..Label6..Caption
+msgid "Scale:"
+msgstr "Ölçek"
+
+#. PrintFrm..GroupBox1..Caption
+msgid "Printer"
+msgstr "Yazıcı"
+
+#. PrintFrm..GroupBox1..Label7..Caption
+msgid "Type:"
+msgstr "Tip:"
+
+#. PrintFrm..GroupBox1..Label8..Caption
+msgid "Where:"
+msgstr "Konum:"
+
+#. PrintFrm..GroupBox1..Label9..Caption
+msgid "Comment:"
+msgstr "Yorum:"
+
+#. PrintFrm..GroupBox1..ComboBox1....Hint
+msgid "Select the printer to use. The Properties button may be used to change more advanced settings for the printer."
+msgstr "Kullanmak için yazıcıyı seçin.Özellikler düğmesi daha gelişmiş seçenekler için kullanılabilir."
+
+#. PrintFrm..RadioGroup2....Hint
+msgid "Select to print in color (or grayscale if your printer is not a color printer) or convert all colors to black."
+msgstr "Renkli basım için seçin yada bütün renkleri siyaha çevirin."
+
+#. PrintFrm..RadioGroup2..Caption
+msgid "Print output"
+msgstr "Çıktıyı bas"
+
+#. PrintFrm..RadioGroup2....Items.Strings
+msgid "Color"
+msgstr "Renk"
+
+#. PrintFrm..RadioGroup2....Items.Strings
+msgid "Black && white"
+msgstr "Siyah && Beyaz"
+
+#. PrintFrm..GroupBox2..Caption
+msgid "Position (millimeters)"
+msgstr "Pozisyon(milimetre)"
+
+#. PrintFrm..GroupBox2..Label3..Caption
+msgid "Left margin:"
+msgstr "Sol boşluk:"
+
+#. PrintFrm..GroupBox2..Label4..Caption
+msgid "Top margin:"
+msgstr "Üst boşluk"
+
+#. PrintFrm..GroupBox2..CheckBox1..Hint
+msgid "Center the printing area on the page."
+msgstr "Sayfa üzerindeki resmin konumunu girin."
+
+#. PrintFrm..GroupBox2..CheckBox1..Caption
+msgid "Center on page"
+msgstr "Sayfanın merkezi"
+
+#. PrintFrm..GroupBox2..Edit1....Hint
+#. PrintFrm..GroupBox2..Edit2....Hint
+msgid "Specify the printing area of the page. The printer will print only within these margins."
+msgstr "Yazdirilacak bolgeyi secin."
+
+#. PrintFrm..GroupBox3..Label5..Caption
+msgid "Number of copies:"
+msgstr "Kopya sayısı:"
+
+#. PrintFrm..GroupBox3..Edit3..Hint
+msgid "Choose number of copies to print."
+msgstr "Yazdırmak için kopya sayısını seçin"
+
+#. PrintFrm..Edit4..Hint
+msgid "Enter percent of original size."
+msgstr "orjinal boyutun yüzdesini girin"
+
+#~ msgid "Associate *.grf files with Graph."
+#~ msgstr "*.grf dosyalarını Graph ile aç."
+
+#~ msgid "Associate .grf files"
+#~ msgstr "ilgili .grf dosyaları"
+
+#~ msgid "Integral"
+#~ msgstr "Integral"
+
+#~ msgid "Calculate definite integral"
+#~ msgstr "Tanimli integrali hesapla"
+
+#~ msgid "Integrate"
+#~ msgstr "İntegralini al"
+
+#~ msgid "Area or length of path calculated for the given range using Simpson's formula."
+#~ msgstr "Alan yada uzunluk Simpson kuralı kullanılarak hesaplanır."
+
+#~ msgid "Extremum"
+#~ msgstr "Extremum"
+
+#~ msgid "Saves the coordinate system as a new name."
+#~ msgstr "Koordinat sistemini yeni isimle kaydet"
+
+#~ msgid "Saves a copy of the current coordinate system."
+#~ msgstr "Geçerli koordinat sistemini kaydet."
+
+#~ msgid "Zoom in."
+#~ msgstr "Büyült"
+
+#~ msgid "Zoom out."
+#~ msgstr "Küçült"
+
+#~ msgid "Calculates the area under the path of the selected function."
+#~ msgstr "Seçili fonksiyon altındaki alanı hesaplar."
+
+#~ msgid "About Graph..."
+#~ msgstr "Graph hakkında"
+
+#~ msgid "Zoom in on the x-axis only."
+#~ msgstr "Sadece x-ekseninde büyültür."
+
+#~ msgid "Zoom out on the x-axis only."
+#~ msgstr "Sadece x-ekseninde küçültür."
+
+#~ msgid "Zoom in on the y-axis only."
+#~ msgstr "sadece y-ekseninde büyültür."
+
+#~ msgid "Zoom out on the y-axis only."
+#~ msgstr "Sadece y-ekseninde küçültür."
+
+#~ msgid "Custom functions..."
+#~ msgstr "Özel fonksiyonlar..."
+
+#~ msgid "Insert an OLE object such as a drawing or an equation."
+#~ msgstr "OLE nesnesi ekle eşitlik,çizim gibi"
+
+#~ msgid "Show the f''(x) column in the table."
+#~ msgstr "Tabloda f'(x) sütununu göster."
+
+#~ msgid "Mark end of range"
+#~ msgstr "Değişimin sonunu işaretle"
+
+#~ msgid "Mark the start of the shading with a line."
+#~ msgstr "Taralı alanın başlangıcını çizgi ile işaretle"
+
+#~ msgid "Mark start of range"
+#~ msgstr "Değişimin başlangıcını işaretle"
+
+#~ msgid "Open the file %s."
+#~ msgstr "%s dosyasını aç"
+
+#~ msgid "Text [*.txt; *.csv]|*.txt;*.csv|All files [*.*]|*.*"
+#~ msgstr "Text [*.txt; *.csv]|*.txt;*.csv|All files [*.*]|*.*"
+
+#~ msgid "The server responded with the message '%s'"
+#~ msgstr "Server '%s' mesajı ile karşılaştı."
+
+#~ msgid "Protocol reply error %s"
+#~ msgstr "Protokol cevabı hatası %s"
+
+#~ msgid "You can send suggestions for future versions, bug reports and comments to graph@padowan.dk"
+#~ msgstr "Buraya gelecek versiyonlar için önerilerinizi, bug raporlarınızı, yorumlarınızı yollayabilirsiniz.  "
+
+#~ msgid "Select to place the image on the middle of the page."
+#~ msgstr "Resmi sayfanın ortasına yerleştir."

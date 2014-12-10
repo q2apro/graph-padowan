@@ -1,0 +1,57 @@
+;This file was created by Graph (http://www.padowan.dk)
+;Do not change this file from other programs.
+[Graph]
+Version = 4.3.0.380
+MinVersion = 2.5
+OS = Windows XP 5.1 Service Pack 2
+
+[Axes]
+xMin = 0
+xMax = 700
+xTickUnit = 100
+xGridUnit = 100
+xShowLabel = 0
+yMin = 0
+yMax = 2.1
+yTickUnit = 0.5
+yGridUnit = 0.5
+yShowLabel = 0
+yLabel = f(x)
+AxesColor = clBlue
+GridColor = 0x00FF7F7F
+ShowLegend = 1
+Radian = 1
+AxesStyle = 2
+
+[Func1]
+FuncType = 0
+y = 64.5171*x^(-0.981752)
+LegendText = Power trendline
+Style = 1
+Color = clLime
+Size = 2
+
+[PointSeries1]
+FillColor = clRed
+LineColor = clBlue
+Size = 4
+Style = 2
+LabelPosition = 2
+Points = 32,1.93;40,1.67;50,1.4;60,1.22;70,1.06;80,0.93;90,0.825;100,0.74;150,0.477;200,0.341;250,0.269;300,0.22;350,0.189;400,0.17;450,0.155;500,0.145;550,0.139;600,0.137;
+LegendText = Series 1
+
+[Label1]
+Placement = 0
+Pos = 48.0392;1.9215
+Text = {\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang1033{\\fonttbl{\\f0\\fnil\\fcharset0 Times New Roman;}{\\f1\\fnil Times New Roman;}}\n{\\colortbl ;\\red0\\green0\\blue0;}\n\\viewkind4\\uc1\\pard\\qc\\cf1\\lang1030\\b\\f0\\fs24 Point series with\\par\na trendline\\lang1033\\b0\\f1\\par\n}\n
+BackgroundColor = clNone
+ShowInLegend = 0
+
+[Data]
+TextLabelCount = 1
+FuncCount = 1
+PointSeriesCount = 1
+ShadeCount = 0
+RelationCount = 0
+OleObjectCount = 0
+

@@ -1,0 +1,893 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chapter SYSTEM "dtd/dblite.dtd" [
+<!ENTITY theta  "<markup role='symbolfont'>&#x003B8;</markup>"> <!-- GREEK SMALL LETTER THETA -->
+]>
+<section id="GraphElem">
+	<title>Graph elements</title>
+	<section id="Graph.TGraphElem" xreflabel="Graph.TGraphElem">
+		<indexterm><primary>TGraphElem (class in Graph)</primary></indexterm>
+		<title>class <classname>Graph.TGraphElem</classname></title>
+		<para>
+			<variablelist>
+				<varlistentry>
+					<term>
+						<indexterm><primary>Visible (Graph.TGraphElem attribute)</primary></indexterm>
+						<classname>TGraphElem</classname>.<property>Visible</property>
+					</term>
+					<listitem>
+						<para>
+							This specifies if the element is shown in the graphing area.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>ShowInLegend (Graph.TProperty attribute)</primary></indexterm>
+						<classname>TGraphElem</classname>.<property>ShowInLegend</property>
+					</term>
+					<listitem>
+						<para>
+							Indicates if the element is shown in the legend.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>LegendText (Graph.TGraphElem attribute)</primary></indexterm>
+						<classname>TGraphElem</classname>.<property>LegendText</property>
+					</term>
+					<listitem>
+						<para>
+							This is the text string shown in the legend.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>Parent (Graph.TGraphElem attribute)</primary></indexterm>
+						<classname>TGraphElem</classname>.<property>Parent</property>
+					</term>
+					<listitem>
+						<para>
+							 This is a read only attribute indicating the parent element when the object is in the function list.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>PluginData (Graph.TGraphElem attribute)</primary></indexterm>
+						<classname>TGraphElem</classname>.<property>PluginData</property>
+					</term>
+					<listitem>
+						<para>
+							<property>PluginData</property> is a dictionary like object where a plugin can store data local to an element.
+							The data is stored in the .grf file.	Graph itself does not use this, it is only for use by plugins
+							Every plugin should use a unique value as key in the <property>PluginData</property> dictionary.
+							The value assigned should be a tuple, which may contain anything that can be passed to xmlrpc, e.g. tuples, lists, strings, numbers.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>ChildList (Graph.TGraphElem attribute)</primary></indexterm>
+						<classname>TGraphElem</classname>.<property>ChildList</property>
+					</term>
+					<listitem>
+						<para>
+							This is a list of child elements as shown in the function list.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>Clone (in class TGraphElem)</primary></indexterm>
+						<classname>TGraphElem</classname>.<property>Clone</property>()
+					</term>
+					<listitem>
+						<para>
+							This creates a new copy of the object.
+						</para>
+					</listitem>
+				</varlistentry>
+			</variablelist>
+		</para>
+	</section>
+
+	<section id="Graph.TBaseFuncType" xreflabel="Graph.TBaseFuncType">
+		<indexterm><primary>TBaseFuncType (class in Graph)</primary></indexterm>
+		<title>class <classname>Graph.TBaseFuncType</classname></title>
+		<para>
+			<variablelist>
+				<varlistentry>
+					<term>
+						<indexterm><primary>sList (Graph.TBaseFuncType attribute)</primary></indexterm>
+						<classname>TBaseFuncType</classname>.<property>sList</property>
+					</term>
+					<listitem>
+						<para>
+							This is a list of data points used to plot the function.
+							Each entry is a tuple with 3 elements, the independent variable, x-coordinate and y-coordinate.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>Points (Graph.TBaseFuncType attribute)</primary></indexterm>
+						<classname>TBaseFuncType</classname>.<property>Points</property>
+					</term>
+					<listitem>
+						<para>
+							This is a list of pixel coordinates used to plot the function.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>PointNum (Graph.TBaseFuncType attribute)</primary></indexterm>
+						<classname>TBaseFuncType</classname>.<property>PointNum</property>
+					</term>
+					<listitem>
+						<para>
+							This is a list of values indicating the number of continues points in each segment.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>Color (Graph.TBaseFuncType attribute)</primary></indexterm>
+						<classname>TBaseFuncType</classname>.<property>Color</property>
+					</term>
+					<listitem>
+						<para>
+							This specifies the color of the function.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>Size (Graph.TBaseFuncType attribute)</primary></indexterm>
+						<classname>TBaseFuncType</classname>.<property>Size</property>
+					</term>
+					<listitem>
+						<para>
+							This specifies the width of the function in pixels on the screen.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>Style (Graph.TBaseFuncType attribute)</primary></indexterm>
+						<classname>TBaseFuncType</classname>.<property>Style</property>
+					</term>
+					<listitem>
+						<para>
+							This specifies the line style of the function.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term><classname>TBaseFuncType</classname>.<property>From</property></term>
+					<term><classname>TBaseFuncType</classname>.<property>To</property></term>
+					<listitem>
+						<indexterm><primary>From (Graph.TBaseFuncType attribute)</primary></indexterm>
+						<indexterm><primary>To (Graph.TBaseFuncType attribute)</primary></indexterm>
+						<para>
+							<property>From</property> and <property>To</property> specifies the the range of the function.
+							Standard functions may use <code>float("-inf")</code> and <code>float("inf")</code> for an infinite range.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term><classname>TBaseFuncType</classname>.<property>StartPointStyle</property></term>
+					<term><classname>TBaseFuncType</classname>.<property>EndPointStyle</property></term>
+					<listitem>
+						<indexterm><primary>StartPointStyle (Graph.TBaseFuncType attribute)</primary></indexterm>
+						<indexterm><primary>EndPointStyle (Graph.TBaseFuncType attribute)</primary></indexterm>
+						<para>
+							These indicates the style of the end points. Use 0 if you don't want an endpoint.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>DrawType (Graph.TBaseFuncType attribute)</primary></indexterm>
+						<classname>TBaseFuncType</classname>.<property>DrawType</property>
+					</term>
+					<listitem>
+						<para>
+							This indicates how the functions is plotted.
+							Valid values are <classname>Graph.dtAuto</classname>, <classname>Graph.dtDots</classname> and <classname>Graph.dtLines</classname>.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>MakeDifFunc (in class TBaseFuncType)</primary></indexterm>
+						<classname>TBaseFuncType</classname>.<property>MakeDifFunc</property>()
+					</term>
+					<listitem>
+						<para>
+							This method will create and return the first derivative of the function.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>Eval (in class TBaseFuncType)</primary></indexterm>
+						<classname>TBaseFuncType</classname>.<property>Eval</property>(<parameter>t</parameter>)
+					</term>
+					<listitem>
+						<para>
+							This evaluates the function at the specified independent variable <parameter>t</parameter>.
+							The result is a tuple if the (x,y) coordinate pair.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>CalcArea (in class TBaseFuncType)</primary></indexterm>
+						<classname>TBaseFuncType</classname>.<property>CalcArea</property>(<parameter>From, To</parameter>)
+					</term>
+					<listitem>
+						<para>
+							Calculates the signed area over the range between <parameter>From</parameter> and <parameter>To</parameter> by numeric integration.
+							The calculated area is between the function and the x-axis for standard and parametric functions,
+							while it is the area between the function and the center for polar functions.
+						</para>
+					</listitem>
+				</varlistentry>
+			</variablelist>
+		</para>
+	</section>
+
+	<section id="Graph.TStdFunc" xreflabel="Graph.TStdFunc">
+		<indexterm><primary>TStdFunc (class in Graph)</primary></indexterm>
+		<title>class <classname>Graph.TStdFunc</classname></title>
+		<para>
+			<variablelist>
+				<varlistentry>
+					<term>
+						class <classname>Graph</classname>.<property>TStdFunc</property>(<parameter>Str</parameter>)
+					</term>
+					<listitem>
+						<para>
+							Creates a standard function from the expression in <parameter>Str</parameter> with "x" as the independent variable.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>Text (Graph.TStdFunc attribute)</primary></indexterm>
+						<classname>TStdFunc</classname>.<property>Text</property>
+					</term>
+					<listitem>
+						<para>
+							This is the same string as was passed to the constructor.
+						</para>
+					</listitem>
+				</varlistentry>
+			</variablelist>
+		</para>
+	</section>
+
+	<section id="Graph.TParFunc" xreflabel="Graph.TParFunc">
+		<indexterm><primary>TParFunc (class in Graph)</primary></indexterm>
+		<title>class <classname>Graph.TParFunc</classname></title>
+		<para>
+			<variablelist>
+				<varlistentry>
+					<term>
+						class <classname>Graph</classname>.<property>TParFunc</property>(<parameter>xStr, yStr</parameter>)
+					</term>
+					<listitem>
+						<para>
+							Creates a parametric function from the expressions in <parameter>xStr</parameter> and <parameter>yStr</parameter> where the independent variable is "t".
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>xText (Graph.TParFunc attribute)</primary></indexterm>
+						<indexterm><primary>yText (Graph.TParFunc attribute)</primary></indexterm>
+						<classname>TParFunc</classname>.<property>xText</property>
+						<classname>TParFunc</classname>.<property>yText</property>
+					</term>
+					<listitem>
+						<para>
+							These are the same strings as was passed to the constructor.
+						</para>
+					</listitem>
+				</varlistentry>
+			</variablelist>
+		</para>
+	</section>
+
+	<section id="Graph.TPolFunc" xreflabel="Graph.TPolFunc">
+		<indexterm><primary>TPolFunc (class in Graph)</primary></indexterm>
+		<title>class <classname>Graph.TPolFunc</classname></title>
+		<para>
+			<variablelist>
+				<varlistentry>
+					<term>
+						class <classname>Graph</classname>.<property>TPolFunc</property>(<parameter>Str</parameter>)
+					</term>
+					<listitem>
+						<para>
+							Creates a polar function from the expression in <parameter>Str</parameter> where the independent variable is "t".
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>Text (Graph.TPolFunc attribute)</primary></indexterm>
+						<classname>TParFunc</classname>.<property>Text</property>
+					</term>
+					<listitem>
+						<para>
+							This is the same string as was passed to the constructor.
+						</para>
+					</listitem>
+				</varlistentry>
+			</variablelist>
+		</para>
+	</section>
+
+	<section id="Graph.TTan" xreflabel="Graph.TTan">
+		<indexterm><primary>TTan (class in Graph)</primary></indexterm>
+		<title>class <classname>Graph.TTan</classname></title>
+		<para>
+			<variablelist>
+				<varlistentry>
+					<term>
+						class <classname>Graph</classname>.<property>TTan</property>()
+					</term>
+					<listitem>
+						<para>
+							Creates a new tangent or normal.
+							It must be attached to a function to be plotted.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>Valid (Graph.TTan attribute)</primary></indexterm>
+						<classname>TTan</classname>.<property>Valid</property>
+					</term>
+					<listitem>
+						<para>
+							This property is True if the tangent is valid, i.e. the function has a first derivative at <property>t</property>.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>t (Graph.TTan attribute)</primary></indexterm>
+						<classname>TTan</classname>.<property>t</property>
+					</term>
+					<listitem>
+						<para>
+							This is the value where the tangent/normal interacts with the its parent function.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>TangentType (Graph.TTan attribute)</primary></indexterm>
+						<classname>TTan</classname>.<property>TangentType</property>
+					</term>
+					<listitem>
+						<para>
+							This indicates if the object is a tangent or normal.
+							Valid values are <classname>Graph.ttTangent</classname> and <classname>Graph.ttNormal</classname>.
+						</para>
+					</listitem>
+				</varlistentry>
+			</variablelist>
+		</para>
+	</section>
+
+	<section id="Graph.TPointSeries" xreflabel="Graph.TPointSeries">
+		<indexterm><primary>TPointSeries (class in Graph)</primary></indexterm>
+		<title>class <classname>Graph.TPointSeries</classname></title>
+		<para>
+			<variablelist>
+				<varlistentry>
+					<term>
+						class <classname>Graph</classname>.<property>TPointSeries</property>()
+					</term>
+					<listitem>
+						<para>
+							Creates a new point series.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term><classname>TPointSeries</classname>.<property>FillColor</property></term>
+					<term><classname>TPointSeries</classname>.<property>FrameColor</property></term>
+					<term><classname>TPointSeries</classname>.<property>Size</property></term>
+					<term><classname>TPointSeries</classname>.<property>Style</property></term>
+					<listitem>
+						<indexterm><primary>FillColor (Graph.TPointSeries attribute)</primary></indexterm>
+						<indexterm><primary>FrameColor (Graph.TPointSeries attribute)</primary></indexterm>
+						<indexterm><primary>Size (Graph.TPointSeries attribute)</primary></indexterm>
+						<indexterm><primary>Style (Graph.TPointSeries attribute)</primary></indexterm>
+						<para>
+							These properties sets the color filling the markers, the border color of the markers and the style of the markers.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term><classname>TPointSeries</classname>.<property>LineColor</property></term>
+					<term><classname>TPointSeries</classname>.<property>LineSize</property></term>
+					<term><classname>TPointSeries</classname>.<property>LineStyle</property></term>
+					<listitem>
+						<indexterm><primary>LineColor (Graph.TPointSeries attribute)</primary></indexterm>
+						<indexterm><primary>LineSize (Graph.TPointSeries attribute)</primary></indexterm>
+						<indexterm><primary>LineStyle (Graph.TPointSeries attribute)</primary></indexterm>
+						<para>
+							These properties sets the color, size and style of the line between the markers.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term><classname>TPointSeries</classname>.<property>xErrorBarType</property></term>
+					<term><classname>TPointSeries</classname>.<property>yErrorBarType</property></term>
+					<listitem>
+						<indexterm><primary>xErrorBarType (Graph.TPointSeries attribute)</primary></indexterm>
+						<indexterm><primary>yErrorBarType (Graph.TPointSeries attribute)</primary></indexterm>
+						<para>
+							These specifies the type of vertical and horizontal error bars.
+							Valid values are <classname>Graph.ebtNone</classname> for no error bars, <classname>Graph.ebtFixed</classname> for fixed size error bars,
+							<classname>Graph.ebtRelative</classname> for error bars being a percentage of the coordinate value,
+							and <classname>Graph.ebtCustom</classname> for a custom specified error bar for every point.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term><classname>TPointSeries</classname>.<property>xErrorValues</property></term>
+					<term><classname>TPointSeries</classname>.<property>yErrorValues</property></term>
+					<listitem>
+						<indexterm><primary>xErrorValue (Graph.TPointSeries attribute)</primary></indexterm>
+						<indexterm><primary>yErrorValue (Graph.TPointSeries attribute)</primary></indexterm>
+						<para>
+							These contains the value used for the error bars when <property>xErrorBarType</property> or <property>yErrorBarType</property> is
+							<classname>Graph.ebtFixed</classname> or <classname>Graph.ebtRelative</classname>.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>Interpolation (Graph.TPointSeries attribute)</primary></indexterm>
+						<classname>TPointSeries</classname>.<property>Interpolation</property>
+					</term>
+					<listitem>
+						<para>
+							This specifies the interpolation algorithm used for drawing lines between the markers.
+							Valid values are <classname>Graph.iaLinear</classname>, <classname>Graph.iaCubicSpline</classname>,
+							<classname>Graph.iaHalfCosine</classname> and <classname>Graph.iaCubicSpline2</classname>.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>ShowLabels (Graph.TPointSeries attribute)</primary></indexterm>
+						<classname>TPointSeries</classname>.<property>ShowLabels</property>
+					</term>
+					<listitem>
+						<para>
+							Set this to True to show coordinate labels next to the markers.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>Font (Graph.TPointSeries attribute)</primary></indexterm>
+						<classname>TPointSeries</classname>.<property>Font</property>
+					</term>
+					<listitem>
+						<para>
+							This sets the font used when drawing the coordinate labels.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>LabelPosition (Graph.TPointSeries attribute)</primary></indexterm>
+						<classname>TPointSeries</classname>.<property>LabelPosition</property>
+					</term>
+					<listitem>
+						<para>
+							This specifies where the coordinate labels are placed relative to the markers.
+							Valid values are <classname>Graph.lpAbove</classname>, <classname>Graph.lpBelow</classname>, <classname>Graph.lpLeft</classname>,
+							<classname>Graph.lpRight</classname>, <classname>Graph.lpAboveLeft</classname>, <classname>Graph.lpAboveRight</classname>,
+							<classname>Graph.lpBelowLeft</classname> and <classname>Graph.lpBelowRight</classname>.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>PointType (Graph.TPointSeries attribute)</primary></indexterm>
+						<classname>TPointSeries</classname>.<property>PointType</property>
+					</term>
+					<listitem>
+						<para>
+							This specifies if the coordinates in <property>Points</property> are in polar or cartesian coordinates.
+							Valid values are <classname>Graph.ptCartesian</classname> and <classname>Graph.ptPolar</classname>.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>Points (Graph.TPointSeries attribute)</primary></indexterm>
+						<classname>TPointSeries</classname>.<property>Points</property>
+					</term>
+					<listitem>
+						<para>
+							This is a list of tuples with (x,y) coordinates for the points.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>PointData (Graph.TPointSeries attribute)</primary></indexterm>
+						<classname>TPointSeries</classname>.<property>PointData</property>
+					</term>
+					<listitem>
+						<para>
+							This is a list with a tuple with 4 elements for each point.
+							The tuple contains the first coordinate, second coordinate, x-error and y-error, all in text form.
+							The first and second coordinates are (x,y) coordinates if <property>PointType</property> is <classname>Graph.ptCartesian</classname>,
+							and (&theta;,r) coordinates if <property>PointType</property> is <classname>Graph.ptpolar</classname>.
+						</para>
+					</listitem>
+				</varlistentry>
+			</variablelist>
+		</para>
+	</section>
+
+	<section id="Graph.TTextLabel" xreflabel="Graph.TTextLabel">
+		<indexterm><primary>TTextLabel (class in Graph)</primary></indexterm>
+		<title>class <classname>Graph.TTextLabel</classname></title>
+		<para>
+			<variablelist>
+				<varlistentry>
+					<term>
+						class <classname>Graph</classname>.<property>TTextLabel</property>()
+					</term>
+					<listitem>
+						<para>
+							Creates a new text label object.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>Text (Graph.TTextLabel attribute)</primary></indexterm>
+						<classname>TTextLabel</classname>.<property>Text</property>
+					</term>
+					<listitem>
+						<para>
+							This is the text in the label in Rich Text format.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>BackgroundColor (Graph.TTextLabel attribute)</primary></indexterm>
+						<classname>TTextLabel</classname>.<property>BackgroundColor</property>
+					</term>
+					<listitem>
+						<para>
+							This is the background color of the label.
+							Use 0x1fffffff for transparent.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>Placement (Graph.TTextLabel attribute)</primary></indexterm>
+						<classname>TTextLabel</classname>.<property>Placement</property>
+					</term>
+					<listitem>
+						<para>
+							This specifies the placement of the label.
+							Valid values are <classname>Graph.lpUserTopLeft</classname>, <classname>Graph.lpAboveX</classname>, <classname>Graph.lpBelowX</classname>,
+							<classname>Graph.lpLeftOfY</classname>, <classname>Graph.lpRightOfY</classname>, <classname>Graph.lpUserTopRight</classname>,
+							<classname>Graph.lpUserBottomLeft</classname> and <classname>Graph.lpUserBottomRight</classname>.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>Rotation (Graph.TTextLabel attribute)</primary></indexterm>
+						<classname>TTextLabel</classname>.<property>Rotation</property>
+					</term>
+					<listitem>
+						<para>
+							This specifies the rotation of the label in degrees.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term><classname>TTextLabel</classname>.<property>xPos</property></term>
+					<term><classname>TTextLabel</classname>.<property>yPos</property></term>
+					<listitem>
+						<indexterm><primary>xPos (Graph.TTextLabel attribute)</primary></indexterm>
+						<indexterm><primary>yPos (Graph.TTextLabel attribute)</primary></indexterm>
+						<para>
+							<classname>xPos</classname> and <classname>yPos</classname> indicates the (x,y) coordinate of the label when <property>Placement</property> is
+							<classname>Graph.lpUserTopLeft</classname>, <classname>Graph.lpUserTopRight</classname>, <classname>Graph.lpUserBottomLeft</classname> or
+							<classname>Graph.lpUserBottomRight</classname>.
+						</para>
+					</listitem>
+				</varlistentry>
+			</variablelist>
+		</para>
+	</section>
+
+	<section id="Graph.TShading" xreflabel="Graph.TShading">
+		<indexterm><primary>TShading (class in Graph)</primary></indexterm>
+		<title>class <classname>Graph.TShading</classname></title>
+		<para>
+			<variablelist>
+				<varlistentry>
+					<term>
+						class <classname>Graph</classname>.<property>TShading</property>()
+					</term>
+					<listitem>
+						<para>
+							Creates a new shading object.
+							It must be attached to a function to be plotted.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>ShadeStyle (Graph.TShading attribute)</primary></indexterm>
+						<classname>TShading</classname>.<property>ShadeStyle</property>
+					</term>
+					<listitem>
+						<para>
+							This specifies the type of shading.
+							Valid values are <classname>Graph.ssAbove</classname>, <classname>Graph.ssBelow</classname>, <classname>Graph.ssXAxis</classname>,
+							<classname>Graph.ssYAxis</classname>, <classname>Graph.ssBetween</classname> and <classname>Graph.ssInside</classname>.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>BrushStyle (Graph.TShading attribute)</primary></indexterm>
+						<classname>TShading</classname>.<property>BrushStyle</property>
+					</term>
+					<listitem>
+						<para>
+							This is a <classname>vcl.TBrushStyle</classname> that specifies the brush style used to plot the shading.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>Color (Graph.TShading attribute)</primary></indexterm>
+						<classname>TShading</classname>.<property>Color</property>
+					</term>
+					<listitem>
+						<para>
+							This specifies the color of the shading.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>Func2 (Graph.TShading attribute)</primary></indexterm>
+						<classname>TShading</classname>.<property>Func2</property>
+					</term>
+					<listitem>
+						<para>
+							This must specify the second function when <property>BrushStyle</property> is <classname>Graph.ssBetween</classname>.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term><classname>TShading</classname>.<property>sMin</property></term>
+					<term><classname>TShading</classname>.<property>sMax</property></term>
+					<listitem>
+						<indexterm><primary>sMin (Graph.TShading attribute)</primary></indexterm>
+						<indexterm><primary>sMax (Graph.TShading attribute)</primary></indexterm>
+						<para>
+							This is the start and end values on the function for the shading.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term><classname>TShading</classname>.<property>sMin2</property></term>
+				  <term><classname>TShading</classname>.<property>sMax2</property></term>
+					<listitem>
+						<indexterm><primary>sMin2 (Graph.TShading attribute)</primary></indexterm>
+						<indexterm><primary>sMax2 (Graph.TShading attribute)</primary></indexterm>
+						<para>
+							When <property>ShadeStyle</property> is <classname>Graph.ssBetween</classname> this is the start and end value on <property>Func2</property> for the shading.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term><classname>TShading</classname>.<property>ExtendMinToIntercept</property></term>
+					<term><classname>TShading</classname>.<property>ExtendMaxToIntercept</property></term>
+					<term><classname>TShading</classname>.<property>ExtendMin2ToIntercept</property></term>
+					<term><classname>TShading</classname>.<property>ExtendMax2ToIntercept</property></term>
+					<listitem>
+						<indexterm><primary>ExtendMinToIntercept (Graph.TShading attribute)</primary></indexterm>
+						<indexterm><primary>ExtendMaxToIntercept (Graph.TShading attribute)</primary></indexterm>
+						<indexterm><primary>ExtendMin2ToIntercept (Graph.TShading attribute)</primary></indexterm>
+						<indexterm><primary>ExtendMax2ToIntercept (Graph.TShading attribute)</primary></indexterm>
+						<para>
+							When True, <property>sMin</property> and <property>sMin2</property> are decreased and <property>sMax</property> and <property>sMax2</property> are
+							increased until the function is crossing the axis, the edge of the graphing area, itself or another graph depending of the value in <property>ShadeStyle</property>.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>MarkBorder (Graph.TShading attribute)</primary></indexterm>
+						<classname>TShading</classname>.<property>MarkBorder</property>
+					</term>
+					<listitem>
+						<para>
+							When True a line will be drawn around the shading.
+						</para>
+					</listitem>
+				</varlistentry>
+			</variablelist>
+		</para>
+	</section>
+
+	<section id="Graph.TRelation" xreflabel="Graph.TRelation">
+		<indexterm><primary>TRelation (class in Graph)</primary></indexterm>
+		<title>class <classname>Graph.TRelation</classname></title>
+		<para>
+			<variablelist>
+				<varlistentry>
+					<term>
+						class <classname>Graph</classname>.<property>TRelation</property>(<parameter>Str, [ConstraintStr]</parameter>)
+					</term>
+					<listitem>
+						<para>
+							Creates a new relation object with the relation specified in <parameter>Str</parameter> and an optional constraint specified in <parameter>ConstraintStr</parameter>.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>BrushStyle (Graph.TRelation attribute)</primary></indexterm>
+						<classname>TRelation</classname>.<property>BrushStyle</property>
+					</term>
+					<listitem>
+						<para>
+							This is a <classname>vcl.TBrushStyle</classname> that specifies the brush style used to plot inequalities.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>Color (Graph.TRelation attribute)</primary></indexterm>
+						<classname>TRelation</classname>.<property>Color</property>
+					</term>
+					<listitem>
+						<para>
+							This specifies the color of the relation.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>RelationType (Graph.TRelation attribute)</primary></indexterm>
+						<classname>TRelation</classname>.<property>RelationType</property>
+					</term>
+					<listitem>
+						<para>
+							This read only attribute indicates if the relation is an equation (<classname>Graph.rtEquation</classname>) or inequation (<classname>Graph.rtInequality</classname>).
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>Size (Graph.TRelation attribute)</primary></indexterm>
+						<classname>TRelation</classname>.<property>Size</property>
+					</term>
+					<listitem>
+						<para>
+							This is the width of the plot of the inequation or the width of the borderline around the inequality.
+							<property>Size</property> may be 0 if no borderline is wanted.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>Text (Graph.TRelation attribute)</primary></indexterm>
+						<classname>TRelation</classname>.<property>Text</property>
+					</term>
+					<listitem>
+						<para>
+							This is the text of the equation or inequality.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>Constraints (Graph.TRelation attribute)</primary></indexterm>
+						<classname>TRelation</classname>.<property>Constraints</property>
+					</term>
+					<listitem>
+						<para>
+							This is the text of the constraints.
+						</para>
+					</listitem>
+				</varlistentry>
+
+				<varlistentry>
+					<term>
+						<indexterm><primary>Eval (Graph.TRelation attribute)</primary></indexterm>
+						<classname>TRelation</classname>.<property>Eval</property>(<parameter>x, y</parameter>)
+					</term>
+					<listitem>
+						<para>
+							Evaluate the relation at the given x- and y-coordinates and return the result.
+						</para>
+					</listitem>
+				</varlistentry>
+			</variablelist>
+		</para>
+	</section>
+</section>

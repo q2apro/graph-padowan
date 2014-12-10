@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chapter SYSTEM "dtd/dblite.dtd" [
+<!ENTITY % Symbols SYSTEM "Symbols.ent">
+%Symbols;
+]>
+<!--
+ Enter Glossary definitions in alphabetical Order!
+ DocBook doesn't sort them automatically.
+-->
+<glossary id="Graph-glossary">
+	<title>Glossary</title>
+	<glossentry id="ComplexNumber">
+		<glossterm>complex number</glossterm>
+		<indexterm><primary>complex number</primary></indexterm>
+		<glossdef>
+			<para>
+				Complex numbers are a superset of real numbers. Complex numbers are two dimensional and is most often written
+				on rectangular form as a+b&imag; where <parameter>a</parameter> is the real part and
+				<parameter>b</parameter> is the imaginary part.
+				The imaginary unit &imag; is defined as &imag;^2=-1.
+				Complex numbers can also be shown on polar form as a&ang;&theta; where <parameter>a</parameter> is the absolute value of
+				the number and &theta; is the angle of the number in radians or degrees.
+			</para>
+			<para>
+				Complex numbers are used in the <guilabel>Evaluate</guilabel> dialog for standard functions and for graphing functions when
+				<guilabel>Calculate with complex numbers</guilabel> is enabled under the <xref linkend="AxesDialogSettings"/> tab in the
+				<guilabel>Edit axes</guilabel> dialog.
+			</para>
+		</glossdef>
+	</glossentry>
+
+	<glossentry id="GraphElement">
+		<glossterm>graph element</glossterm>
+		<indexterm><primary>graph element</primary></indexterm>
+		<glossdef>
+			<para>
+				 A graph element is something that is shown in the coordinate system. This can be a function, point series, label, relation, etc.
+				 The graph elements are also shown in the function list where they can be manipulated from the <guimenu>Function</guimenu> menu or the context menu.
+			</para>
+		</glossdef>
+	</glossentry>
+
+	<glossentry id="FunctionList">
+		<glossterm>function list</glossterm>
+		<indexterm><primary>function list</primary></indexterm>
+		<glossdef>
+			<para>
+				The function list is shown in the left side of the main window. This list shows a list
+				of all functions, tangents, point series, shadings and relations. When you want to manipulate
+				an item, you first have to select it. The selected item is normally marked in blue, but it will
+				be marked in gray when something other than the function list has focus. You can manipulate the selected element through
+				the <guimenu>Function</guimenu> menu or through the context menu appearing when you <action>right click</action> on the element.
+			</para>
+		</glossdef>
+	</glossentry>
+
+	<glossentry id="Integer">
+		<glossterm>integer</glossterm>
+		<indexterm><primary>integer</primary></indexterm>
+		<glossdef>
+			<para>
+				The set of numbers ...,-3,-2,-1,0,1,2,3,... is called integers and is a subset of the real numbers.
+				A given integer n may be negative, zero or positive.
+			</para>
+		</glossdef>
+	</glossentry>
+
+	<glossentry id="Legend">
+		<glossterm>legend</glossterm>
+		<indexterm><primary>legend</primary></indexterm>
+		<glossdef>
+			<para>
+				The legend is a box that per default is placed at the upper right corner of the graphing area, and shows a list of the plotted functions, tangents, shadings,
+				and point series in the coordinate system. Select <guilabel>Show legend</guilabel> under <xref linkend="AxesDialogSettings" />
+				in the <guilabel>Edit axes</guilabel> dialog to show the legend. <action>Right click</action> on an item in the function list and deselect
+				<guimenuitem>Show in legend</guimenuitem> if you don't want the item shown in the legend.
+				When editing an item you can enter the text to be shown in the legend.
+				For functions and tangents the function equation will be shown if no legend text is entered.
+			</para>
+		</glossdef>
+	</glossentry>
+
+	<glossentry id="NumericExpression">
+		<glossterm>numeric expression</glossterm>
+		<indexterm><primary>numeric expression</primary></indexterm>
+		<glossdef>
+			<para>
+				An expression that can be evaluated as a number is called a numeric expression.
+				The expression can include any combination of numbers, constants, variables, operators and functions.
+			</para>
+		</glossdef>
+	</glossentry>
+
+	<glossentry id="Radians">
+		<glossterm>radians</glossterm>
+		<indexterm><primary>radians</primary></indexterm>
+		<glossdef>
+			<para>
+				Radians are a way to describe the size of an angle similar to degrees, but radians are not a unit like degrees.
+				The angle of a whole circle is 360&deg; or 2&pi; radians. An angle in radians can be converted to degrees by
+				multiplying with 180&deg;/&pi;. An angle in degrees can be converted to radians by multiplying with &pi;/180&deg;.
+				You can choose to use radians or degrees for trigonometric functions in the
+				<guilabel>Edit axes</guilabel> dialog under the <xref linkend="AxesDialogSettings"/> tab.
+			</para>
+		</glossdef>
+	</glossentry>
+
+	<glossentry id="RealNumber">
+		<glossterm>real number</glossterm>
+		<indexterm><primary>real number</primary></indexterm>
+		<glossdef>
+			<para>
+				A real number is on the form nnn.fffEeee where nnn is the whole number part that may be negative.
+				fff is the fraction part that is separated from the integer part with a dot '.'.
+				The fraction part is optional, but either the integer part or the fraction part must be there.
+				E is the exponent separator and must be an 'E' in upper case. eee is the exponent optionally preceded by '-'.
+				The exponent is only needed if the E is there. Notice that 5E8 is the same as 5*10^8.
+			</para>
+		</glossdef>
+	</glossentry>
+</glossary>

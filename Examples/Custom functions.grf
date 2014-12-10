@@ -1,0 +1,68 @@
+;This file was created by Graph (http://www.padowan.dk)
+;Do not change this file from other programs.
+[Graph]
+Version = 4.3.0.384
+MinVersion = 2.5
+OS = Windows XP 5.1 Service Pack 2
+
+[Axes]
+xMin = -10
+xMax = 10
+xTickUnit = 2
+xGridUnit = 2
+yMin = -10
+yMax = 10
+yTickUnit = 5
+yGridUnit = 5
+AxesColor = clBlue
+GridColor = 0x00FF9999
+ShowLegend = 0
+Radian = 1
+Title = Custom functions
+
+[Func1]
+FuncType = 0
+y = 5sinc(x)
+Color = clRed
+Size = 2
+
+[Relation1]
+Relation = funny(x,y) = 0
+Style = 5
+Color = clGreen
+Size = 2
+
+[Label1]
+Placement = 0
+Pos = -8.6036036036036;-5.56363636363636
+Text = {\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang1030{\\fonttbl{\\f0\\fnil\\fcharset0 Times New Roman;}}\n{\\colortbl ;\\red0\\green0\\blue0;}\n\\viewkind4\\uc1\\pard\\qc\\cf1\\b\\f0\\fs24 Funny curve\\par\n\\pard x^3*y + y^3*z + z^3*x = 0\\par\n}\n
+BackgroundColor = clNone
+ShowInLegend = 0
+
+[Label2]
+Placement = 0
+Pos = 0.817391304347826;3.35064935064935
+Text = {\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang1030{\\fonttbl{\\f0\\fnil\\fcharset0 Times New Roman;}}\n{\\colortbl ;\\red0\\green0\\blue0;}\n\\viewkind4\\uc1\\pard\\cf1\\b\\f0\\fs24 y=5sinc(x)\\par\n}\n
+BackgroundColor = clSkyBlue
+ShowInLegend = 0
+
+[Label3]
+Placement = 0
+Pos = -9.72972972972973;8.83636363636364
+Text = {\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang1030{\\fonttbl{\\f0\\fnil\\fcharset0 Times New Roman;}}\n{\\colortbl ;\\red0\\green0\\blue0;}\n\\viewkind4\\uc1\\pard\\cf1\\b\\f0\\fs24 sinc(x)=sin(x)/x\\par\nz = %(z)\\par\n}\n
+BackgroundColor = clNone
+ShowInLegend = 0
+
+[Data]
+TextLabelCount = 3
+FuncCount = 1
+PointSeriesCount = 0
+ShadeCount = 0
+RelationCount = 1
+OleObjectCount = 0
+
+[CustomFunctions]
+sinc(x) = if(x=0, 1, sin(x)/x)
+z = 1
+funny(x,y) = x^3*y + y^3*z + z^3*x
+

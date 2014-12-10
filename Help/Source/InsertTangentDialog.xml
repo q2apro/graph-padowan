@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chapter SYSTEM "dtd/dblite.dtd" [
+<!ENTITY % Symbols SYSTEM "Symbols.ent">
+%Symbols;
+]>
+<section id="InsertTangentDialog">
+	<?dbhh topicname="IDH_DIALOG_TANGENT" topicid="60"?>
+	<title>Insert tangent/normal</title>
+	<indexterm><primary>insert</primary></indexterm>
+	<indexterm><primary>tangent</primary></indexterm>
+	<indexterm><primary>standard function</primary></indexterm>
+	<indexterm><primary>parametric function</primary></indexterm>
+	<indexterm><primary>normal</primary></indexterm>
+	<para>
+		You can use the dialog below to insert or edit a tangent or normal to a function.
+		To insert a new tangent or normal, you use <menuchoice><guimenu>Function</guimenu><guimenuitem>Insert tangent/normal...</guimenuitem></menuchoice>.
+		To change an existing tangent or normal, you first select it in the <glossterm>function list</glossterm> and use <menuchoice><guimenu>Function</guimenu><guimenuitem>Edit...</guimenuitem></menuchoice>.
+	</para>
+	<para>
+		A tangent is a straight line that touches the graph of the function at a given point without crossing it.
+		The tangent may however cross the graph elsewhere.
+		A normal is a straight line perpendicular to the graph of the function at a given point.
+		If the item is a standard function the point is identified by the x-coordinate,
+		while the point is identified from the independent t-parameter for parametric and polar functions.
+	</para>
+
+  <graphic fileref="DialogTangent.png" align="center" scale="60"/>
+
+	<variablelist>
+		<varlistentry>
+			<term>Argument range</term>
+			<listitem>
+				<para>
+					You can choose an interval for the tangent/normal.
+					<guilabel>From</guilabel> and <guilabel>To</guilabel> indicates the start and end of the interval.
+					You can leave one or both of them blank to draw the graph from minus infinity to plus infinity.
+				</para>
+			</listitem>
+		</varlistentry>
+
+		<varlistentry>
+			<term>Endpoints</term>
+			<listitem>
+				<para>
+					Here you can choose to show markers at the start and/or end of the interval.
+					If no interval is specified, the markers will be shown at the edge of the graphing area.
+					The default is not to show any markers.
+				</para>
+			</listitem>
+		</varlistentry>
+
+		<varlistentry>
+			<term>Legend text</term>
+			<listitem>
+				<para>
+					Enter a description to show in the <glossterm>legend</glossterm>. If empty the function equation will be used.
+				</para>
+			</listitem>
+		</varlistentry>
+
+		<varlistentry>
+			<term>Graph properties</term>
+			<listitem>
+				<para>
+					You can choose between different line styles for which you want the tangent/normal to be drawn.
+					You can choose between solid, dashed, dotted or a combination of these.
+					You can also choose the width of the tangent/normal.
+					The width is notified in screen pixels.
+					There are also a lot of different colors you can choose between.
+				</para>
+			</listitem>
+		</varlistentry>
+	</variablelist>
+</section>

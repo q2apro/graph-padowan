@@ -1,0 +1,371 @@
+﻿	<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+		<PropertyGroup>
+			<ProjectGuid>{A1226338-C69F-4866-9220-ED350B8C5D17}</ProjectGuid>
+			<MainSource>IComp.cpp</MainSource>
+			<ProjectVersion>12.3</ProjectVersion>
+			<Config Condition="'$(Config)'==''">Release</Config>
+			<Base>True</Base>
+			<Platform>Win32</Platform>
+			<AppType>Library</AppType>
+			<FrameworkType>None</FrameworkType>
+		</PropertyGroup>
+		<PropertyGroup Condition="'$(Config)'=='Base' or '$(Base)'!=''">
+			<Base>true</Base>
+		</PropertyGroup>
+		<PropertyGroup Condition="'$(Config)'=='Debug' or '$(Cfg_1)'!=''">
+			<Cfg_1>true</Cfg_1>
+			<CfgParent>Base</CfgParent>
+			<Base>true</Base>
+		</PropertyGroup>
+		<PropertyGroup Condition="'$(Config)'=='Release' or '$(Cfg_2)'!=''">
+			<Cfg_2>true</Cfg_2>
+			<CfgParent>Base</CfgParent>
+			<Base>true</Base>
+		</PropertyGroup>
+		<PropertyGroup Condition="'$(Base)'!=''">
+			<DCC_UnitAlias>WinTypes=Windows;WinProcs=Windows;DbiTypes=BDE;DbiProcs=BDE;DbiErrs=BDE;$(DCC_UnitAlias)</DCC_UnitAlias>
+			<_TCHARMapping>wchar_t</_TCHARMapping>
+			<BCC_Defines>USTRING_CSTR_AS_WCHART;$(BCC_Defines)</BCC_Defines>
+			<ILINK_GenerateImportLibrary>true</ILINK_GenerateImportLibrary>
+			<Multithreaded>true</Multithreaded>
+			<ProjectType>CppPackage</ProjectType>
+			<OutputExt>bpl</OutputExt>
+			<ILINK_GenerateLibFile>true</ILINK_GenerateLibFile>
+			<DCC_CBuilderOutput>JPHNE</DCC_CBuilderOutput>
+			<Defines>STRICT</Defines>
+			<IncludePath>TExtComboBox\;TIFontBox\;TUpDownEx\;TIPolygon\;TProgress\;TIColorBox\;TIRichEdit\;TIColorSelect\;TIPrintDialog\;TRadioGroupEx\;TSymbolDialog\;TProgressForm\;TSaveDialogEx\;TFocusPanel\;TLineSelect\;TIPageSetup\;TMyRadioButton\;TMySplitter\;TSerialHandler\;TMediaPlayerEx\;TCheckBoxEx\;TMyEdit\;TRecent\;TGrid\;TOpenPreviewDialog\;TExtColorBox\;TGridPanelEx\;TPointSelect\;TShadeSelect\;TLinkLabelEx\;Common\;TCross\;TLinkLabelEx;TUpDownEx;TRadioGroupEx;TGridPanelEx;TCheckBoxEx;TSymbolDialog;TShadeSelect;TSerialHandler;TSaveDialogEx;TRecent;TProgressForm;TProgress;TPointSelect;TOpenPreviewDialog;TMySplitter;TIRichEdit;TMyRadioButton;TMyEdit;TMediaPlayerEx;TLineSelect;TIPrintDialog;TIPolygon;TIPageSetup;TIFontBox;TIColorBox;TIColorSelect;TGrid;TFocusPanel;TExtColorBox;TCross;..\Libraries\;$(BDS)\include\windows;$(BDS)\include\dinkumware;Common;$(IncludePath)</IncludePath>
+			<ILINK_LibraryPath>TExtComboBox\;TIFontBox\;TUpDownEx\;TIPolygon\;TProgress\;TIColorBox\;TIRichEdit\;TIColorSelect\;TIPrintDialog\;TRadioGroupEx\;TSymbolDialog\;TProgressForm\;TSaveDialogEx\;TFocusPanel\;TLineSelect\;TIPageSetup\;TMyRadioButton\;TMySplitter\;TSerialHandler\;TMediaPlayerEx\;TCheckBoxEx\;TMyEdit\;TRecent\;TGrid\;TOpenPreviewDialog\;TExtColorBox\;TGridPanelEx\;TPointSelect\;TShadeSelect\;TLinkLabelEx\;Common\;TCross\;TLinkLabelEx;TUpDownEx;TRadioGroupEx;TGridPanelEx;TCheckBoxEx;TSymbolDialog;TShadeSelect;TSerialHandler;TSaveDialogEx;TRecent;TProgressForm;TProgress;TPointSelect;TOpenPreviewDialog;TMySplitter;TIRichEdit;TMyRadioButton;TMyEdit;TMediaPlayerEx;TLineSelect;TIPrintDialog;TIPolygon;TIPageSetup;TIFontBox;TIColorBox;Common;TIColorSelect;TGrid;TFocusPanel;TExtColorBox;TCross;..\Components;$(BDS)\lib\obj;$(BDS)\lib\psdk;$(ILINK_LibraryPath)</ILINK_LibraryPath>
+			<BCC_wpar>false</BCC_wpar>
+			<BCC_OptimizeForSpeed>true</BCC_OptimizeForSpeed>
+		</PropertyGroup>
+		<PropertyGroup Condition="'$(Cfg_1)'!=''">
+			<FinalOutputDir>$(BDSCOMMONDIR)\BPL\Debug</FinalOutputDir>
+			<BPILibOutputDir>$(BDSCOMMONDIR)\DCP\Debug</BPILibOutputDir>
+			<BCC_OptimizeForSpeed>false</BCC_OptimizeForSpeed>
+			<BCC_DisableOptimizations>true</BCC_DisableOptimizations>
+			<DCC_Optimize>false</DCC_Optimize>
+			<DCC_DebugInfoInExe>true</DCC_DebugInfoInExe>
+			<Defines>_DEBUG;_HAS_ITERATOR_DEBUGGING=1;$(Defines)</Defines>
+			<BCC_InlineFunctionExpansion>false</BCC_InlineFunctionExpansion>
+			<IntermediateOutputDir>Debug</IntermediateOutputDir>
+			<ILINK_DisableIncrementalLinking>true</ILINK_DisableIncrementalLinking>
+			<BCC_UseRegisterVariables>None</BCC_UseRegisterVariables>
+			<DCC_Define>DEBUG</DCC_Define>
+			<BCC_DebugLineNumbers>true</BCC_DebugLineNumbers>
+			<TASM_DisplaySourceLines>true</TASM_DisplaySourceLines>
+			<BCC_StackFrames>true</BCC_StackFrames>
+			<ILINK_LibraryPath>$(BDSLIB)\$(PLATFORM)\debug;$(ILINK_LibraryPath)</ILINK_LibraryPath>
+			<ILINK_FullDebugInfo>true</ILINK_FullDebugInfo>
+			<TASM_Debugging>Full</TASM_Debugging>
+			<BCC_SourceDebuggingOn>true</BCC_SourceDebuggingOn>
+		</PropertyGroup>
+		<PropertyGroup Condition="'$(Cfg_2)'!=''">
+			<BCC_DebugLineNumbers>true</BCC_DebugLineNumbers>
+			<ILINK_FullDebugInfo>true</ILINK_FullDebugInfo>
+			<BCC_SourceDebuggingOn>true</BCC_SourceDebuggingOn>
+			<BPILibOutputDir>$(BDSCOMMONDIR)\DCP\Release</BPILibOutputDir>
+			<FinalOutputDir>$(BDSCOMMONDIR)\BPL\Release</FinalOutputDir>
+			<Defines>NDEBUG;_HAS_TRADITIONAL_ITERATORS=1;$(Defines)</Defines>
+			<IntermediateOutputDir>Release</IntermediateOutputDir>
+			<TASM_Debugging>None</TASM_Debugging>
+		</PropertyGroup>
+		<ItemGroup>
+			<CppCompile Include="Common\Debug.cpp">
+				<DependentOn>Common\Debug.h</DependentOn>
+				<BuildOrder>57</BuildOrder>
+			</CppCompile>
+			<CppCompile Include="Common\HandleCSV.cpp">
+				<DependentOn>Common\HandleCSV.h</DependentOn>
+				<BuildOrder>60</BuildOrder>
+			</CppCompile>
+			<CppCompile Include="Common\ICompCommon.cpp">
+				<DependentOn>Common\ICompCommon.h</DependentOn>
+				<BuildOrder>11</BuildOrder>
+			</CppCompile>
+			<CppCompile Include="Common\Tokenizer.cpp">
+				<DependentOn>Common\Tokenizer.h</DependentOn>
+				<BuildOrder>52</BuildOrder>
+			</CppCompile>
+			<CppCompile Include="IComp.cpp">
+				<BuildOrder>0</BuildOrder>
+			</CppCompile>
+			<ResFiles Include="IComp.res">
+				<BuildOrder>2</BuildOrder>
+			</ResFiles>
+			<PackageImport Include="rtl.bpi">
+				<BuildOrder>1</BuildOrder>
+			</PackageImport>
+			<CppCompile Include="TCheckBoxEx\CheckBoxEx.cpp">
+				<DependentOn>TCheckBoxEx\CheckBoxEx.h</DependentOn>
+				<BuildOrder>54</BuildOrder>
+			</CppCompile>
+			<CppCompile Include="TCross\Cross.cpp">
+				<DependentOn>TCross\Cross.h</DependentOn>
+				<BuildOrder>3</BuildOrder>
+			</CppCompile>
+			<ResFiles Include="TCross\Cross.dcr">
+				<BuildOrder>4</BuildOrder>
+			</ResFiles>
+			<CppCompile Include="TExtColorBox\ExtColorBox.cpp">
+				<DependentOn>TExtColorBox\ExtColorBox.h</DependentOn>
+				<BuildOrder>6</BuildOrder>
+			</CppCompile>
+			<CppCompile Include="TExtComboBox\ExtComboBox.cpp">
+				<DependentOn>TExtComboBox\ExtComboBox.h</DependentOn>
+				<BuildOrder>61</BuildOrder>
+			</CppCompile>
+			<CppCompile Include="TFocusPanel\FocusPanel.cpp">
+				<DependentOn>TFocusPanel\FocusPanel.h</DependentOn>
+				<BuildOrder>7</BuildOrder>
+			</CppCompile>
+			<CppCompile Include="TGridPanelEx\GridPanelEx.cpp">
+				<DependentOn>TGridPanelEx\GridPanelEx.h</DependentOn>
+				<BuildOrder>55</BuildOrder>
+			</CppCompile>
+			<CppCompile Include="TGrid\Grid.cpp">
+				<DependentOn>TGrid\Grid.h</DependentOn>
+				<BuildOrder>8</BuildOrder>
+			</CppCompile>
+			<CppCompile Include="TIColorBox\IColorBox.cpp">
+				<BuildOrder>13</BuildOrder>
+			</CppCompile>
+			<ResFiles Include="TIColorBox\IColorBox.dcr">
+				<BuildOrder>14</BuildOrder>
+			</ResFiles>
+			<CppCompile Include="TIColorSelect\IColorSelect.cpp">
+				<BuildOrder>9</BuildOrder>
+			</CppCompile>
+			<ResFiles Include="TIColorSelect\IColorSelect.dcr">
+				<BuildOrder>10</BuildOrder>
+			</ResFiles>
+			<CppCompile Include="TIFontBox\IFontBox.cpp">
+				<DependentOn>TIFontBox\IFontBox.h</DependentOn>
+				<BuildOrder>15</BuildOrder>
+			</CppCompile>
+			<ResFiles Include="TIFontBox\IFontBox.dcr">
+				<BuildOrder>16</BuildOrder>
+			</ResFiles>
+			<CppCompile Include="TIPageSetup\IPageSetup.cpp">
+				<BuildOrder>17</BuildOrder>
+			</CppCompile>
+			<ResFiles Include="TIPageSetup\IPageSetup.dcr">
+				<BuildOrder>18</BuildOrder>
+			</ResFiles>
+			<CppCompile Include="TIPolygon\IPolygon.cpp">
+				<DependentOn>TIPolygon\IPolygon.h</DependentOn>
+				<BuildOrder>19</BuildOrder>
+			</CppCompile>
+			<ResFiles Include="TIPolygon\IPolygon.dcr">
+				<BuildOrder>20</BuildOrder>
+			</ResFiles>
+			<CppCompile Include="TIPrintDialog\IPrintDialog.cpp">
+				<DependentOn>TIPrintDialog\IPrintDialog.h</DependentOn>
+				<BuildOrder>22</BuildOrder>
+			</CppCompile>
+			<ResFiles Include="TIPrintDialog\IPrintDialog.dcr">
+				<BuildOrder>23</BuildOrder>
+			</ResFiles>
+			<CppCompile Include="TIPrintDialog\PrintForm.cpp">
+				<Form>PrintFrm</Form>
+				<DependentOn>TIPrintDialog\PrintForm.h</DependentOn>
+				<BuildOrder>21</BuildOrder>
+			</CppCompile>
+			<CppCompile Include="TIRichEdit\IRichEdit.cpp">
+				<DependentOn>TIRichEdit\IRichEdit.h</DependentOn>
+				<BuildOrder>30</BuildOrder>
+			</CppCompile>
+			<ResFiles Include="TIRichEdit\IRichEdit.dcr">
+				<BuildOrder>31</BuildOrder>
+			</ResFiles>
+			<CppCompile Include="TIRichEdit\RichEditOle.cpp">
+				<DependentOn>TIRichEdit\RichEditOle.h</DependentOn>
+				<BuildOrder>32</BuildOrder>
+			</CppCompile>
+			<CppCompile Include="TIRichEdit\RichEditOleCallback.cpp">
+				<DependentOn>TIRichEdit\RichEditOleCallback.h</DependentOn>
+				<BuildOrder>33</BuildOrder>
+			</CppCompile>
+			<CppCompile Include="TLineSelect\LineSelect.cpp">
+				<DependentOn>TLineSelect\LineSelect.h</DependentOn>
+				<BuildOrder>24</BuildOrder>
+			</CppCompile>
+			<ResFiles Include="TLineSelect\LineSelect.dcr">
+				<BuildOrder>25</BuildOrder>
+			</ResFiles>
+			<CppCompile Include="TLinkLabelEx\LinkLabelEx.cpp">
+				<DependentOn>TLinkLabelEx\LinkLabelEx.h</DependentOn>
+				<BuildOrder>59</BuildOrder>
+			</CppCompile>
+			<CppCompile Include="TMediaPlayerEx\MediaPlayerEx.cpp">
+				<DependentOn>TMediaPlayerEx\MediaPlayerEx.h</DependentOn>
+				<BuildOrder>26</BuildOrder>
+			</CppCompile>
+			<CppCompile Include="TMyEdit\MyEdit.cpp">
+				<DependentOn>TMyEdit\MyEdit.h</DependentOn>
+				<BuildOrder>28</BuildOrder>
+			</CppCompile>
+			<CppCompile Include="TMyRadioButton\MyRadioButton.cpp">
+				<DependentOn>TMyRadioButton\MyRadioButton.h</DependentOn>
+				<BuildOrder>29</BuildOrder>
+			</CppCompile>
+			<CppCompile Include="TMySplitter\MySplitter.cpp">
+				<DependentOn>TMySplitter\MySplitter.h</DependentOn>
+				<BuildOrder>34</BuildOrder>
+			</CppCompile>
+			<CppCompile Include="TOpenPreviewDialog\OpenPreviewDialog.cpp">
+				<DependentOn>TOpenPreviewDialog\OpenPreviewDialog.h</DependentOn>
+				<BuildOrder>35</BuildOrder>
+			</CppCompile>
+			<CppCompile Include="TPointSelect\PointSelect.cpp">
+				<DependentOn>TPointSelect\PointSelect.h</DependentOn>
+				<BuildOrder>36</BuildOrder>
+			</CppCompile>
+			<ResFiles Include="TPointSelect\PointSelect.dcr">
+				<BuildOrder>37</BuildOrder>
+			</ResFiles>
+			<CppCompile Include="TProgressForm\ProgressForm.cpp">
+				<DependentOn>TProgressForm\ProgressForm.h</DependentOn>
+				<BuildOrder>40</BuildOrder>
+			</CppCompile>
+			<ResFiles Include="TProgressForm\ProgressForm.dcr">
+				<BuildOrder>41</BuildOrder>
+			</ResFiles>
+			<CppCompile Include="TProgress\Progress.cpp">
+				<DependentOn>TProgress\Progress.h</DependentOn>
+				<BuildOrder>38</BuildOrder>
+			</CppCompile>
+			<ResFiles Include="TProgress\Progress.dcr">
+				<BuildOrder>39</BuildOrder>
+			</ResFiles>
+			<CppCompile Include="TRadioGroupEx\RadioGroupEx.cpp">
+				<DependentOn>TRadioGroupEx\RadioGroupEx.h</DependentOn>
+				<BuildOrder>56</BuildOrder>
+			</CppCompile>
+			<CppCompile Include="TRecent\TRecent.cpp">
+				<DependentOn>TRecent\TRecent.h</DependentOn>
+				<BuildOrder>42</BuildOrder>
+			</CppCompile>
+			<ResFiles Include="TRecent\TRecent.dcr">
+				<BuildOrder>43</BuildOrder>
+			</ResFiles>
+			<CppCompile Include="TSaveDialogEx\SaveDialogEx.cpp">
+				<DependentOn>TSaveDialogEx\SaveDialogEx.h</DependentOn>
+				<BuildOrder>44</BuildOrder>
+			</CppCompile>
+			<CppCompile Include="TSerialHandler\SerialHandler.cpp">
+				<DependentOn>TSerialHandler\SerialHandler.h</DependentOn>
+				<BuildOrder>45</BuildOrder>
+			</CppCompile>
+			<CppCompile Include="TSerialHandler\SerialThread.cpp">
+				<DependentOn>TSerialHandler\SerialThread.h</DependentOn>
+				<BuildOrder>46</BuildOrder>
+			</CppCompile>
+			<CppCompile Include="TShadeSelect\ShadeSelect.cpp">
+				<DependentOn>TShadeSelect\ShadeSelect.h</DependentOn>
+				<BuildOrder>47</BuildOrder>
+			</CppCompile>
+			<ResFiles Include="TShadeSelect\ShadeSelect.dcr">
+				<BuildOrder>48</BuildOrder>
+			</ResFiles>
+			<CppCompile Include="TSymbolDialog\SymbolDialog.cpp">
+				<DependentOn>TSymbolDialog\SymbolDialog.h</DependentOn>
+				<BuildOrder>50</BuildOrder>
+			</CppCompile>
+			<ResFiles Include="TSymbolDialog\SymbolDialog.dcr">
+				<BuildOrder>51</BuildOrder>
+			</ResFiles>
+			<CppCompile Include="TSymbolDialog\SymbolForm.cpp">
+				<Form>SymbolFrm</Form>
+				<DependentOn>TSymbolDialog\SymbolForm.h</DependentOn>
+				<BuildOrder>49</BuildOrder>
+			</CppCompile>
+			<CppCompile Include="TUpDownEx\UpDownEx.cpp">
+				<DependentOn>TUpDownEx\UpDownEx.h</DependentOn>
+				<BuildOrder>58</BuildOrder>
+			</CppCompile>
+			<PackageImport Include="vcl.bpi">
+				<BuildOrder>5</BuildOrder>
+			</PackageImport>
+			<PackageImport Include="vclactnband.bpi">
+				<BuildOrder>53</BuildOrder>
+			</PackageImport>
+			<PackageImport Include="vclx.bpi">
+				<BuildOrder>27</BuildOrder>
+			</PackageImport>
+			<FormResources Include="TSymbolDialog\SymbolForm.dfm"/>
+			<FormResources Include="TIPrintDialog\PrintForm.dfm"/>
+			<BuildConfiguration Include="Release">
+				<Key>Cfg_2</Key>
+				<CfgParent>Base</CfgParent>
+			</BuildConfiguration>
+			<BuildConfiguration Include="Base">
+				<Key>Base</Key>
+			</BuildConfiguration>
+			<BuildConfiguration Include="Debug">
+				<Key>Cfg_1</Key>
+				<CfgParent>Base</CfgParent>
+			</BuildConfiguration>
+		</ItemGroup>
+		<Import Condition="Exists('$(BDS)\Bin\CodeGear.Cpp.Targets')" Project="$(BDS)\Bin\CodeGear.Cpp.Targets"/>
+		<Import Condition="Exists('$(APPDATA)\Embarcadero\$(BDSAPPDATABASEDIR)\$(PRODUCTVERSION)\UserTools.proj')" Project="$(APPDATA)\Embarcadero\$(BDSAPPDATABASEDIR)\$(PRODUCTVERSION)\UserTools.proj"/>
+		<ProjectExtensions>
+			<Borland.Personality>CPlusPlusBuilder.Personality.12</Borland.Personality>
+			<Borland.ProjectType>CppPackage</Borland.ProjectType>
+			<BorlandProject>
+				<CPlusPlusBuilder.Personality>
+					<Source>
+						<Source Name="MainSource">IComp.cpp</Source>
+					</Source>
+					<VersionInfo>
+						<VersionInfo Name="IncludeVerInfo">True</VersionInfo>
+						<VersionInfo Name="AutoIncBuild">False</VersionInfo>
+						<VersionInfo Name="MajorVer">1</VersionInfo>
+						<VersionInfo Name="MinorVer">0</VersionInfo>
+						<VersionInfo Name="Release">0</VersionInfo>
+						<VersionInfo Name="Build">0</VersionInfo>
+						<VersionInfo Name="Debug">False</VersionInfo>
+						<VersionInfo Name="PreRelease">False</VersionInfo>
+						<VersionInfo Name="Special">False</VersionInfo>
+						<VersionInfo Name="Private">False</VersionInfo>
+						<VersionInfo Name="DLL">False</VersionInfo>
+						<VersionInfo Name="Locale">1030</VersionInfo>
+						<VersionInfo Name="CodePage">1252</VersionInfo>
+					</VersionInfo>
+					<VersionInfoKeys>
+						<VersionInfoKeys Name="CompanyName"/>
+						<VersionInfoKeys Name="FileDescription"/>
+						<VersionInfoKeys Name="FileVersion">1.0.0.0</VersionInfoKeys>
+						<VersionInfoKeys Name="InternalName"/>
+						<VersionInfoKeys Name="LegalCopyright"/>
+						<VersionInfoKeys Name="LegalTrademarks"/>
+						<VersionInfoKeys Name="OriginalFilename"/>
+						<VersionInfoKeys Name="ProductName"/>
+						<VersionInfoKeys Name="ProductVersion">1.0.0.0</VersionInfoKeys>
+						<VersionInfoKeys Name="Comments"/>
+					</VersionInfoKeys>
+					<Debugging>
+						<Debugging Name="DebugSourceDirs"/>
+					</Debugging>
+					<Parameters>
+						<Parameters Name="RemoteHost"/>
+						<Parameters Name="RemotePath"/>
+						<Parameters Name="RemoteParams"/>
+						<Parameters Name="RemoteLauncher"/>
+						<Parameters Name="UseRemoteLauncher">False</Parameters>
+						<Parameters Name="RemoteCWD"/>
+						<Parameters Name="RemoteDebug">False</Parameters>
+					</Parameters>
+					<ProjectProperties>
+						<ProjectProperties Name="AutoShowDeps">False</ProjectProperties>
+						<ProjectProperties Name="ManagePaths">True</ProjectProperties>
+						<ProjectProperties Name="VerifyPackages">True</ProjectProperties>
+					</ProjectProperties>
+				</CPlusPlusBuilder.Personality>
+				<ModelSupport>False</ModelSupport>
+				<Platforms>
+					<Platform value="Win32">True</Platform>
+				</Platforms>
+			</BorlandProject>
+			<ProjectFileVersion>12</ProjectFileVersion>
+		</ProjectExtensions>
+	</Project>

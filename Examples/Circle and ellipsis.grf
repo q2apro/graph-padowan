@@ -1,0 +1,67 @@
+;This file was created by Graph (http://www.padowan.dk)
+;Change this file at your own risk.
+[Graph]
+Version = 3.2
+Build = 144
+MinVersion = 2.5
+OS = Windows 2000 5.0 Service Pack 4
+
+[Axes]
+xMin = -10
+xMax = 10
+yMin = -10
+yMax = 10
+xTickUnit = 2
+yTickUnit = 5
+xGridUnit = 2
+yGridUnit = 5
+xShowLabel = 0
+yShowLabel = 0
+yLabel = f(x)
+xShowNumbers = 0
+yShowNumbers = 0
+AxesColor = clBlue
+GridColor = 0x00FF7F7F
+ShowLegend = 0
+Radian = 1
+Title = Circle and ellipsis
+AxesStyle = 0
+
+[Data]
+FuncCount = 2
+PointSeriesCount = 0
+ShadeCount = 1
+TextLabelCount = 0
+
+[Func1]
+FuncType = 1
+x = 8cos t
+y = 4sin t
+From = 0
+To = 2pi
+Steps = 1000
+Color = clRed
+Size = 2
+
+[Func2]
+FuncType = 1
+x = 3cos t
+y = 3sin t
+From = 0
+To = 2pi
+Steps = 1000
+Color = clRed
+Size = 2
+
+[Shade1]
+ShadeStyle = 4
+BrushStyle = 5
+Color = clMaroon
+FuncNo = 1
+Func2No = 2
+sMin = 0
+sMax = 2pi
+sMin2 = 0
+sMax2 = 2pi
+LegendText = Shading
+

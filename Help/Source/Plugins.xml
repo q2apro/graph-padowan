@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chapter SYSTEM "dtd/dblite.dtd">
+<chapter id="Plugins">
+	<title>Plugins</title>
+	<indexterm><primary>plugins</primary></indexterm>
+	<indexterm><primary><markup>Python</markup></primary></indexterm>
+	<para>
+		To use the plugin system in Graph you need to install <application>Python 3.2</application> from <ulink url="http://www.python.org"/>.
+		Documentation of the Python language may be found installed with Python or <ulink url="http://docs.python.org/3.2/">online</ulink>.
+	</para>
+
+	<simplesect>
+		<title>Plugins</title>
+		<para>
+			Plugins are Python scripts and are usually distributed in source form as .py files but the can also be distributed as compiled .pyc files.
+			The plugin files are placed in the <filename>Plugins</filename> directory where Graph is installed, and will automatically be found and loaded by Graph.
+		</para>
+		<warning>
+			<para>
+				 Plugins are scripts, which are just small programs that run inside Graph and interacts with Graph.
+				 But a plugin can do anything that a program with the same rights can do.
+				 This means that if Graph is run with administrator rights, it is possible to write a plugin that erases the whole hard disk.
+				 Therefore you should be careful about which plugins you use and only install plugins from a trusted source,
+				 or at least you should check the source code for suspicious parts.
+			</para>
+		</warning>
+	</simplesect>
+
+	<simplesect>
+		<title>Python interpreter</title>
+		<para>
+			The plugin system also gives access to a Python interpreter by pressing <shortcut><keycap><markup>F11</markup></keycap></shortcut>.
+			In this interpreter you can write Python expressions and that way do very advanced things in Graph.
+			It is also an easy way to test code before it is used in a plugin.
+		</para>
+	</simplesect>
+</chapter>

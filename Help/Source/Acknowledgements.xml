@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chapter SYSTEM "dtd/dblite.dtd" [
+<!ENTITY % Symbols SYSTEM "Symbols.ent">
+%Symbols;
+]>
+<chapter id="Acknowledgements">
+	<title>Acknowledgements</title>
+	<indexterm><primary>acknowledgements</primary></indexterm>
+	<indexterm><primary>libraries</primary></indexterm>
+	<indexterm><primary>translators</primary></indexterm>
+	<indexterm><primary>logo</primary></indexterm>
+	<simplesect renderas="sect2">
+		<title>Libraries</title>
+		<para>
+  		<simplelist>
+  			<member><emphasis role="bold"><application>dxgettext</application></emphasis></member>
+  			<member>Translation library.</member>
+  			<member><orgname>Copyright &copy; Lars B. Dybdahl et al.</orgname></member>
+  			<member><ulink url="http://dybdahl.dk/dxgettext/"/></member>
+  		</simplelist>
+    </para>
+
+    <para>
+  		<simplelist>
+  			<member><emphasis role="bold"><application>PDFlib-Lite</application></emphasis></member>
+  			<member>Used to create PDF files.</member>
+  			<member><orgname>Copyright &copy; 1997-2005 Thomas Merz &amp; PDFlib GmbH</orgname></member>
+  			<member><ulink url="http://www.pdflib.com"/></member>
+  		</simplelist>
+    </para>
+
+    <para>
+  		<simplelist>
+  			<member><emphasis role="bold"><application>Python</application></emphasis></member>
+  			<member>Used for plugin support and advanced interaction.</member>
+  			<member><orgname>Copyright &copy; 2001-2006 Python Software Foundation</orgname></member>
+  			<member><ulink url="http://www.python.org"/></member>
+  		</simplelist>
+    </para>
+
+    <para>
+  		<simplelist>
+  			<member><emphasis role="bold"><application>GNU Scientific Library</application></emphasis></member>
+  			<member>Numerical library.</member>
+  			<member><orgname>Copyright &copy; 2009 Free Software Foundation, Inc.</orgname></member>
+  			<member><ulink url="http://www.gnu.org/software/gsl/"/></member>
+  		</simplelist>
+    </para>
+
+    <para>
+  		<simplelist>
+  			<member><emphasis role="bold"><application>Boost</application></emphasis></member>
+  			<member>Peer-reviewed C++ library.</member>
+  			<member><ulink url="http://www.boost.org"/></member>
+  		</simplelist>
+  	</para>
+	</simplesect>
+
+	<?hard-pagebreak?>
+	<simplesect renderas="sect2">
+		<title>Translations</title>
+		<para>
+			<informaltable>
+				<tgroup cols="4">
+					<colspec colnum="1" colwidth="2.7cm"/>
+					<colspec colnum="2" colwidth="2.2cm"/>
+					<colspec colnum="3" colwidth="2.0cm"/>
+					<colspec colnum="4" colwidth="*"/>
+					<thead>
+						<row>
+							<entry>Language</entry>
+							<entry>Program</entry>
+							<entry>Help file</entry>
+							<entry>Translators</entry>
+						</row>
+					</thead>
+					<tbody>
+						<row>
+							<entry>Arabic</entry>
+							<entry>Yes</entry>
+							<entry>No</entry>
+							<entry><personname>Abdellah Chelli</personname></entry>
+						</row>
+
+						<row>
+							<entry>Basque</entry>
+							<entry>Yes</entry>
+							<entry>No</entry>
+							<entry><personname>Xabier Maiza</personname></entry>
+						</row>
+
+						<row>
+							<entry>Chinese (Simplified)</entry>
+							<entry>Yes</entry>
+							<entry>No</entry>
+							<entry><personname>Lala Sha</personname></entry>
+						</row>
+
+						<row>
+							<entry>Chinese (Traditional)</entry>
+							<entry>Yes</entry>
+							<entry>No</entry>
+							<entry><personname>Jian-Jie Dong</personname></entry>
+						</row>
+
+						<row>
+							<entry>Croatian</entry>
+							<entry>Yes</entry>
+							<entry>Yes</entry>
+							<entry><personname>Hasan Osmanagić</personname></entry>
+						</row>
+
+						<row>
+							<entry>Czech</entry>
+							<entry>Yes</entry>
+							<entry>No</entry>
+							<entry>
+                <simplelist>
+                  <member><personname>Pavel Simerka</personname></member>
+                  <member><personname>Martin Stružský</personname></member>
+                  <member><personname>Pavlína Krausová</personname></member>
+                </simplelist>
+              </entry>
+						</row>
+
+						<row>
+							<entry>Danish</entry>
+							<entry>Yes</entry>
+							<entry>Yes</entry>
+							<entry>
+                <simplelist>
+                  <member><personname>Michael Bach Ipsen</personname></member>
+                  <member><personname>Erik Lyngholt Nielsen</personname></member>
+                </simplelist>
+              </entry>
+						</row>
+
+						<row>
+							<entry>Dutch</entry>
+							<entry>Yes</entry>
+							<entry>Yes</entry>
+							<entry><personname>Etienne Goemaere</personname></entry>
+						</row>
+
+						<row>
+							<entry>English</entry>
+							<entry>Yes</entry>
+							<entry>Yes</entry>
+							<entry><personname>Ivan Johansen</personname></entry>
+						</row>
+
+						<row>
+							<entry>Finnish</entry>
+							<entry>Yes</entry>
+							<entry>No</entry>
+							<entry><personname>Pekka Lerssi</personname></entry>
+						</row>
+
+						<row>
+							<entry>French</entry>
+							<entry>Yes</entry>
+							<entry>Yes</entry>
+							<entry><personname>Jean-Pierre Fontaine</personname></entry>
+						</row>
+
+						<row>
+							<entry>German</entry>
+							<entry>Yes</entry>
+							<entry>Yes</entry>
+							<entry>
+                <simplelist>
+                 <member><personname>Frank Hüttemeister</personname></member>
+                 <member><personname>Sebastian Stütz</personname></member>
+                 <member><personname>Michael Bach Ipsen</personname></member>
+                </simplelist>
+              </entry>
+						</row>
+
+						<row>
+							<entry>Greek</entry>
+							<entry>Yes</entry>
+							<entry>No</entry>
+							<entry><personname>Theodoros Kannas</personname></entry>
+						</row>
+
+						<row>
+							<entry>Hungarian</entry>
+							<entry>Yes</entry>
+							<entry>No</entry>
+							<entry><personname>Gabor Magyari</personname></entry>
+						</row>
+
+						<row>
+							<entry>Italian</entry>
+							<entry>Yes</entry>
+							<entry>Yes</entry>
+							<entry>
+                <simplelist>
+                  <member><personname>Alessandro Serena</personname></member>
+                  <member><personname>Attilio Ridomi</personname></member>
+                </simplelist>
+              </entry>
+						</row>
+
+						<row>
+							<entry>Korean</entry>
+							<entry>Yes</entry>
+							<entry>No</entry>
+							<entry><personname>Choe Hyeon-gyu</personname></entry>
+						</row>
+
+						<row>
+							<entry>Mongolian</entry>
+							<entry>Yes</entry>
+							<entry>No</entry>
+							<entry><personname>Batnasan Davaa</personname></entry>
+						</row>
+
+						<row>
+							<entry>Norwegian</entry>
+							<entry>Yes</entry>
+							<entry>No</entry>
+							<entry><personname>Tore Ottinsen</personname></entry>
+						</row>
+
+						<row>
+							<entry>Persian</entry>
+							<entry>Yes</entry>
+							<entry>No</entry>
+							<entry>
+                <simplelist>
+                  <member><personname>Shayan Abyari</personname></member>
+                  <member><personname>Yashar PourMohammad</personname></member>
+                </simplelist>
+              </entry>
+						</row>
+
+						<row>
+							<entry>Polish</entry>
+							<entry>Yes</entry>
+							<entry>No</entry>
+							<entry><personname>Paweł Baczyński</personname></entry>
+						</row>
+
+						<row>
+							<entry>Portuguese (Brazil)</entry>
+							<entry>Yes</entry>
+							<entry>Yes</entry>
+							<entry>
+                <simplelist>
+                  <member><personname>Jorge Costa</personname></member>
+                  <member><personname>Andre Fduarte</personname></member>
+                  <member><personname>Haroldo Luiz Bertoldo</personname></member>
+                  <member><personname>Janete Flor de Maio Fonseca</personname></member>
+                  <member><personname>Aldemar Calazans Filho</personname></member>
+                </simplelist>
+              </entry>
+						</row>
+
+						<row>
+							<entry>Portuguese (Portugal)</entry>
+							<entry>Yes</entry>
+							<entry>No</entry>
+							<entry><personname>Jorge Geraldes</personname></entry>
+						</row>
+
+						<row>
+							<entry>Russian</entry>
+							<entry>Yes</entry>
+							<entry>No</entry>
+							<entry>
+                <simplelist>
+									<member><personname>Ilya A.</personname></member>
+									<member><personname>Ivans Leonovs</personname></member>
+                </simplelist>
+							</entry>
+						</row>
+
+						<row>
+							<entry>Serbian</entry>
+							<entry>Yes</entry>
+							<entry>No</entry>
+							<entry>
+                <simplelist>
+                  <member><personname>Jasmina Malinovic</personname></member>
+                  <member><personname>Branimir Krstic</personname></member>
+                </simplelist>
+              </entry>
+						</row>
+
+						<row>
+							<entry>Slovenian</entry>
+							<entry>Yes</entry>
+							<entry>Yes</entry>
+							<entry>
+                <simplelist>
+                  <member><personname>Jernej Baša</personname></member>
+                  <member><personname>Rok Štokelj</personname></member>
+                  <member><personname>Barbara Pušnar</personname></member>
+                  <member><personname>Sergej Pušnar</personname></member>
+                </simplelist>
+              </entry>
+						</row>
+
+						<row>
+							<entry>Spanish</entry>
+							<entry>Yes</entry>
+							<entry>Yes</entry>
+							<entry>
+                <simplelist>
+                  <member><personname>Francisco Oliver</personname></member>
+                  <member><personname>Alejandro Arce</personname></member>
+                </simplelist>
+              </entry>
+						</row>
+
+						<row>
+							<entry>Swedish</entry>
+							<entry>Yes</entry>
+							<entry>No</entry>
+							<entry>
+                <simplelist>
+                  <member><personname>Pär Smårs</personname></member>
+                  <member><personname>Michael Bach Ipsen</personname></member>
+                </simplelist>
+              </entry>
+						</row>
+
+						<row>
+							<entry>Turkish</entry>
+							<entry>Yes</entry>
+							<entry>No</entry>
+							<entry><personname>Mumtaz Murat Arik</personname></entry>
+						</row>
+
+						<row>
+							<entry>Vietnamese</entry>
+							<entry>Yes</entry>
+							<entry>No</entry>
+							<entry><personname>Trung</personname></entry>
+						</row>
+			 		</tbody>
+				</tgroup>
+			</informaltable>
+		</para>
+	</simplesect>
+
+	<simplesect renderas="sect2">
+		<title>Miscellaneous</title>
+		<para>
+			The icon for Graph was designed by <personname>Jonathan Holvey</personname>.
+		</para>
+	</simplesect>
+</chapter>

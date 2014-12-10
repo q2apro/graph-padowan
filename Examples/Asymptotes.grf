@@ -1,0 +1,72 @@
+;This file was created by Graph (http://www.padowan.dk)
+;Change this file at your own risk.
+[Graph]
+Version = 3.2
+Build = 144
+MinVersion = 2.5
+OS = Windows 2000 5.0 Service Pack 4
+
+[Axes]
+xMin = -10
+xMax = 10
+yMin = -10
+yMax = 10
+xTickUnit = 2
+yTickUnit = 2
+xGridUnit = 2
+yGridUnit = 2
+yLabel = f(x)
+AxesColor = clBlue
+GridColor = 0x00FF9999
+ShowLegend = 1
+Radian = 1
+
+[Data]
+FuncCount = 4
+PointSeriesCount = 0
+ShadeCount = 0
+TextLabelCount = 1
+
+[Func1]
+FuncType = 1
+x = t
+y = (1/((t+5)(t-2)))+3
+From = -10
+To = 10
+Steps = 10000
+Color = clRed
+Size = 2
+
+[Func2]
+FuncType = 1
+x = -5
+y = t
+From = -10
+To = 10
+Steps = 1000
+Style = 1
+Color = 0x00CC0033
+LegendText = Asymptote at x=-5
+
+[Func3]
+FuncType = 1
+x = 2
+y = t
+From = -10
+To = 10
+Steps = 1000
+Style = 1
+Color = 0x00CC0033
+LegendText = Asymptote at x=2
+
+[Func4]
+FuncType = 0
+y = 3
+Style = 1
+Color = 0x00CC0033
+LegendText = Asymptote at y=3
+
+[Label1]
+Pos = 2.26446,-2.77108
+Text = {\\rtf1\\ansi\\ansicpg1252\\deff0\\deflang1033{\\fonttbl{\\f0\\fnil\\fcharset0 Times New Roman;}{\\f1\\fnil Times New Roman;}}\n{\\colortbl ;\\red0\\green0\\blue0;}\n\\viewkind4\\uc1\\pard\\qc\\cf1\\lang1030\\f0\\fs24 Function with two\\par\nvertical asymptotes\\par\nmarked with vertical lines\\lang1033\\f1\\par\n\\pard   \\par\n \\par\n}\n
+

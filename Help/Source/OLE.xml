@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chapter SYSTEM "dtd/dblite.dtd">
+<chapter id="OLE">
+	<title>OLE server/client</title>
+	<indexterm><primary><acronym>OLE (Object Linking and Embedding)</acronym></primary></indexterm>
+	<indexterm><primary><acronym>COM (Component Object Model)</acronym></primary></indexterm>
+	<indexterm><primary>linking</primary></indexterm>
+	<indexterm><primary>embedded</primary></indexterm>
+	<indexterm><primary>automation</primary></indexterm>
+	<simplesect renderas="sect2">
+		<title>OLE server</title>
+		<para>
+			Graph has been implemented as an OLE (Object Linking and Embedding) server, which means that Graph objects can be placed (embedded) into an OLE client.
+			Many applications can work as OLE clients, for example Microsoft Word.
+		</para>
+		<para>
+			You can use
+			<menuchoice>
+				<guimenu>Edit</guimenu>
+				<guimenuitem>Copy image</guimenuitem>
+			</menuchoice>
+			in Graph to copy the current content to the clipboard.
+			Afterwards you can select	<guimenuitem>Paste</guimenuitem>
+			in Word (or similar in another OLE client) to insert the Graph object from the clipboard.
+			When you double click on the object a new instance of Graph will start where you can edit the object.
+			If you don't want to paste the data as a Graph object into Word, you can use
+			<menuchoice>
+				<guimenu>Paste</guimenu>
+				<guimenuitem>Paste Special...</guimenuitem>
+			</menuchoice>
+			in Word to paste as a picture instead.
+		</para>
+		<para>
+			You may create a new Graph object in Word by choosing
+		  <guimenuitem>Object</guimenuitem>
+			in the toolbar and selecting <guilabel>Graph system</guilabel> as <guilabel>Object type</guilabel>.
+			The same dialog can be used to create an embedded Graph object from an existing grf-file.
+			If you select <guilabel>Link to file</guilabel>, you will get a linked object instead of an embedded object.
+			This way all changes to the object will be reflected in the original grf-file.
+			If the grf-file is not available you will not be able to edit the object, but you can still see the image in Word.
+		</para>
+		<para>
+			To edit a Graph object you must have Graph installed on the system.
+			If Graph is not installed you will still be able to see the image but not edit it.
+		</para>
+	</simplesect>
+
+	<simplesect renderas="sect2">
+		<title>OLE client</title>
+		<para>
+			Graph can work as an OLE client as a text label in Graph is an OLE container.
+			This means that you can paste images and OLE objects into the editor used to add labels.
+			As in any other OLE container you can edit the object by double clicking on it.
+			From the context menu you can use <guimenuitem>Insert object...</guimenuitem> to create a new OLE object in the label.
+			The same dialog can be used to create an object from a file.
+			You can for example insert an image file this way.
+			To edit an OLE object the server must be installed on the system, else you will only be able to see object but not edit it.
+		</para>
+	</simplesect>
+</chapter>
